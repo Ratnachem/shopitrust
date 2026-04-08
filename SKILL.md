@@ -81,17 +81,17 @@ Start at **0.5**. Apply the following adjustments based on what you found. Each 
 | Followed through on a commitment they can verify | +0.08 |
 
 **Draining adjustments (move score down):**
+Only apply these when there has been actual interaction. Absence of interaction is neutral — it never penalizes the score.
+
 | Signal | Adjustment |
 |--------|-----------|
 | Unanswered message/email from them sitting >2 days | -0.10 |
 | Commitment made in Slack/email with no follow-up | -0.08 |
-| No interaction at all in the past 3 weeks | -0.07 |
-| New hire (<90 days) with no intro from you yet | -0.06 |
-| Cancelled or rescheduled meeting without rescheduling | -0.05 |
-| No acknowledgment of a visible win or milestone they had | -0.05 |
+| Cancelled or rescheduled a shared meeting without rescheduling | -0.05 |
 
-**Neutral / insufficient data:**
-- If fewer than 2 data sources are available, note this and apply no adjustments. Score stays at 0.5.
+**Neutral / no interaction:**
+- If there is no interaction history found across all sources, the score stays at **0.5** — the relationship is at baseline, not penalized. Note this clearly and treat the first interaction as an opportunity to start building.
+- If fewer than 2 data sources are available, note which were checked and keep the score at 0.5.
 
 Produce:
 1. Final score (e.g. `0.62`)
