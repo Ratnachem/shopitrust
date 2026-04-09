@@ -1,0 +1,243 @@
+{
+  "username": "yida.wang",
+  "name": "Yida Wang",
+  "generated_at": "2026-04-08T20:22:31.559615",
+  "summary": {
+    "message_count": 140,
+    "channels_active": 7,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.1,
+      "pos_count": 26,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team, good morning, I am wondering if I am allow to bring my laptop with me as I head to China for my vacation this week. Because my vacation",
+          "channel": "help-talent-support",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :bow:\nYes, once we have this running we need to review result and start to deprecate older lineage related table.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team, sorry it's me again running into ownership issue, I added a new spark job here:",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I think this PR is getting close to finish the project: <https://github.com/Shopify/data-warehouse/pull/42172>\n\u2022 Load raw lineage/metadata into",
+          "channel": "gsd-49233-logical-lineage",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah got it. I'll ship this PR for now and follow up with a restart during maintenance hours. Thank you.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to also move `bulk_lineage_export_type2` into the lineage BQ export DAG? I want to be consistent.",
+          "channel": "gsd-49233-logical-lineage",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I have done a pretty significant refactor to the sensor PR and made some progress on moving move models + adding a column.\nMost of the comments are",
+          "channel": "gsd-49233-logical-lineage",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "For sure. Thank you :bow:",
+          "channel": "dw-infra",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Sounds good.\n\nAs for the direct logical links, I can help to verify it too.",
+          "channel": "gsd-49233-logical-lineage",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Closure table spark job is ready for review: <https://github.com/Shopify/data-warehouse/pull/40927>.\nLet me know your thoughts. Thank you :bow:",
+          "channel": "gsd-49233-logical-lineage",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "Sorry it's me again :blob-idiot-sandwich:\n\nSomehow my PR here: <https://github.com/Shopify/data-warehouse/pull/40436/changes>\n\nThis triggers",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "daria.zarayskaya",
+          "count": 6
+        },
+        {
+          "user": "khaled.hammouda",
+          "count": 1
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        },
+        {
+          "user": "alex.djordjevic",
+          "count": 1
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.61,
+      "count": 69,
+      "top_channels": [
+        {
+          "channel": "gsd-49233-logical-lineage",
+          "messages": 87
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 27
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 16
+        },
+        {
+          "channel": "data-platform-tools-notify",
+          "messages": 4
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 4
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        },
+        {
+          "channel": "proj-48240-improve-metadata-reliability",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "daria.zarayskaya",
+          "count": 10
+        },
+        {
+          "user": "alex.djordjevic",
+          "count": 6
+        },
+        {
+          "user": "noel.padavan",
+          "count": 5
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 3
+        },
+        {
+          "user": "kristo.krugger",
+          "count": 2
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 1
+        },
+        {
+          "user": "vitaly.galchenko",
+          "count": 1
+        },
+        {
+          "user": "dan.peach",
+          "count": 1
+        },
+        {
+          "user": "elize.papineau",
+          "count": 1
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 15,
+      "12": 5,
+      "21": 4,
+      "16": 24,
+      "0": 2,
+      "22": 3,
+      "20": 7,
+      "18": 18,
+      "17": 15,
+      "15": 9,
+      "13": 17,
+      "9": 1,
+      "19": 8,
+      "2": 1,
+      "1": 5,
+      "11": 2,
+      "3": 1,
+      "23": 3
+    },
+    "by_day": {
+      "Monday": 31,
+      "Friday": 13,
+      "Thursday": 32,
+      "Wednesday": 29,
+      "Tuesday": 35
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.67,
+    "dept_average_30d": 5.39,
+    "dept_rank": 200,
+    "dept_size": 272
+  }
+}

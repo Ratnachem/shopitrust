@@ -1,0 +1,283 @@
+{
+  "username": "pablo.marti",
+  "name": "Pablo Marti",
+  "generated_at": "2026-04-08T20:22:21.943997",
+  "summary": {
+    "message_count": 474,
+    "channels_active": 18,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.7,
+      "pos_count": 27,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U08PHPXM1LN> <@U07HLQ217B7> !",
+          "channel": "exp-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes those ones thank you <@U03LHV285J7>",
+          "channel": "exp-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U08PHPXM1LN>!",
+          "channel": "exp-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much :pray:",
+          "channel": "experiments-goalie",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you so much <@U07HLQ217B7>, this is the CSV, I used this query to get the handles in",
+          "channel": "experiments-goalie",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HMWTG8J>, as we discussed with <@U0278GGL6RY>, there are almost 300 flags on 100% where several can be causing this increase in telemetry due",
+          "channel": "experiments-goalie",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good thank you!",
+          "channel": "exp-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Now as <@U07HLQ217B7> said we need to check the location because Airflow runs in `us-central1` and we are changing to `us-east1`",
+          "channel": "exp-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! applying",
+          "channel": "experiments-goalie",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I also created this quick site to support the Flag Expiration Incidents KPI, please check it out and let me know if you have any questions that you",
+          "channel": "tmp-flags-resilliency-backlog",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "I'm going to merge, and as I mentioned before we can remove it later",
+          "channel": "experiments-goalie",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "and yes, we need to deploy to staging, as I mentioned here <https://shopify.slack.com/archives/C0AQ536TE3B/p1774902040472639>",
+          "channel": "inv-20844-flagscreateresiliencyissuesiterationjob-w",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "lin.zhao",
+          "count": 38
+        },
+        {
+          "user": "yinghai.zhao",
+          "count": 33
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 20
+        },
+        {
+          "user": "nicholas.licalzi",
+          "count": 15
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 14
+        },
+        {
+          "user": "ramon.duraes",
+          "count": 14
+        },
+        {
+          "user": "justin.robischon",
+          "count": 10
+        },
+        {
+          "user": "ross.williams",
+          "count": 10
+        },
+        {
+          "user": "charlie.king",
+          "count": 9
+        },
+        {
+          "user": "swati.swoboda",
+          "count": 7
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.28,
+      "count": 147,
+      "top_channels": [
+        {
+          "channel": "exp-team",
+          "messages": 165
+        },
+        {
+          "channel": "experiments-goalie",
+          "messages": 148
+        },
+        {
+          "channel": "exp-river",
+          "messages": 43
+        },
+        {
+          "channel": "tmp-flags-resilliency-backlog",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20844-flagscreateresiliencyissuesiterationjob-w",
+          "messages": 26
+        },
+        {
+          "channel": "exp-burst-q1-2026",
+          "messages": 14
+        },
+        {
+          "channel": "help-vault",
+          "messages": 12
+        },
+        {
+          "channel": "vault-bots",
+          "messages": 10
+        },
+        {
+          "channel": "inc-19337-bad-api-calls-modified-resiliency-issues",
+          "messages": 5
+        },
+        {
+          "channel": "help-exp",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "yahya.massoud",
+          "count": 19
+        },
+        {
+          "user": "yinghai.zhao",
+          "count": 8
+        },
+        {
+          "user": "ramon.duraes",
+          "count": 7
+        },
+        {
+          "user": "lin.zhao",
+          "count": 5
+        },
+        {
+          "user": "charlie.king",
+          "count": 3
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 2
+        },
+        {
+          "user": "nicholas.licalzi",
+          "count": 2
+        },
+        {
+          "user": "lisa.melo",
+          "count": 1
+        },
+        {
+          "user": "alessandro.dalgrande",
+          "count": 1
+        },
+        {
+          "user": "ella.chen",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 44,
+      "16": 84,
+      "7": 3,
+      "23": 10,
+      "22": 15,
+      "21": 20,
+      "14": 41,
+      "9": 17,
+      "20": 16,
+      "19": 19,
+      "17": 50,
+      "13": 32,
+      "12": 40,
+      "10": 32,
+      "18": 14,
+      "11": 33,
+      "8": 2,
+      "4": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 154,
+      "Monday": 77,
+      "Friday": 65,
+      "Thursday": 90,
+      "Tuesday": 88
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.43,
+    "dept_average_30d": 5.58,
+    "dept_rank": 59,
+    "dept_size": 398
+  }
+}

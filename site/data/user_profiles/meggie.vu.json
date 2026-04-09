@@ -1,0 +1,103 @@
+{
+  "username": "meggie.vu",
+  "name": "Meggie Vu",
+  "generated_at": "2026-04-08T20:22:31.814572",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 1,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Marly!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Team, Can I please request assistance with this <https://banff.lightning.force.com/lightning/r/Opportunity/006OG00000MHHz3YAH/view|opportunity>,",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "tori.douglas",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "marly.suarez",
+          "count": 1
+        },
+        {
+          "user": "molly.mckeehan",
+          "count": 1
+        },
+        {
+          "user": "m.wakefield",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 2,
+      "19": 2,
+      "18": 1,
+      "17": 1,
+      "16": 1,
+      "15": 2
+    },
+    "by_day": {
+      "Thursday": 5,
+      "Tuesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.57,
+    "dept_average_30d": 4.32,
+    "dept_rank": 739,
+    "dept_size": 848
+  }
+}

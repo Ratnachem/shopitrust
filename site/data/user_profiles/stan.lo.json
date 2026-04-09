@@ -1,0 +1,289 @@
+{
+  "username": "stan.lo",
+  "name": "Stan Lo",
+  "generated_at": "2026-04-08T20:22:28.946964",
+  "summary": {
+    "message_count": 278,
+    "channels_active": 17,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 12,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hi team, following today's <https://incidents.shopify.io/incidents/20745|incident>, I want to check if we own some other tests that may have similar",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W01830TUKT9> thank you for looking into this :pray:",
+          "channel": "ruby-and-rails-infra-operations",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inc-20745-world-shopify-selective-tests-failing-ci-",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi team, I asked Claude to do a security audit on `ruby-lsp` and paired with Vini to review the result.\nI don't have the capacity to act on them now",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "shared-shopify-anthropic",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-products",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U021X9KU97W> in order to unblock our project, I've",
+          "channel": "cross-border-shipping-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Later today I will try to vet similar tests that may be useless/harmful by now.",
+          "channel": "ruby-and-rails-infra-operations",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Yeah without a clear guideline it's pretty useless.",
+          "channel": "ruby-and-rails-infra-operations",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think anyone can propose a plugin there. It doesn't need to be the team behind the related LSP/MCP/whatever tool",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "alexander.momchilov",
+          "count": 7
+        },
+        {
+          "user": "vinicius.stock",
+          "count": 5
+        },
+        {
+          "user": "kaan.ozkan",
+          "count": 4
+        },
+        {
+          "user": "alexandre.terrasa",
+          "count": 3
+        },
+        {
+          "user": "nikita.vasilevsky",
+          "count": 2
+        },
+        {
+          "user": "alex.rocha",
+          "count": 2
+        },
+        {
+          "user": "hossam.mahmoud",
+          "count": 1
+        },
+        {
+          "user": "kush.patel",
+          "count": 1
+        },
+        {
+          "user": "mitch.vollebregt",
+          "count": 1
+        },
+        {
+          "user": "jesse.johnson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.2,
+      "count": 354,
+      "top_channels": [
+        {
+          "channel": "team-ruby-dx",
+          "messages": 141
+        },
+        {
+          "channel": "inc-20745-world-shopify-selective-tests-failing-ci-",
+          "messages": 27
+        },
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 26
+        },
+        {
+          "channel": "shared-shopify-anthropic",
+          "messages": 13
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 13
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 12
+        },
+        {
+          "channel": "claude-code",
+          "messages": 8
+        },
+        {
+          "channel": "openai-codex",
+          "messages": 8
+        },
+        {
+          "channel": "si-2372-h1-hmac-parameters",
+          "messages": 6
+        },
+        {
+          "channel": "team-ruby-infra",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.17,
+      "count": 20,
+      "top_mentioners": [
+        {
+          "user": "kaan.ozkan",
+          "count": 4
+        },
+        {
+          "user": "alexander.momchilov",
+          "count": 3
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 2
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 2
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        },
+        {
+          "user": "samuel.path",
+          "count": 2
+        },
+        {
+          "user": "hossam.mahmoud",
+          "count": 1
+        },
+        {
+          "user": "abdulwahaab.ahmed",
+          "count": 1
+        },
+        {
+          "user": "alexandre.terrasa",
+          "count": 1
+        },
+        {
+          "user": "vinicius.stock",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 15,
+      "20": 8,
+      "19": 25,
+      "18": 44,
+      "13": 9,
+      "21": 26,
+      "17": 43,
+      "16": 22,
+      "15": 25,
+      "14": 14,
+      "12": 12,
+      "11": 7,
+      "10": 8,
+      "9": 1,
+      "7": 8,
+      "6": 7,
+      "0": 2,
+      "1": 2
+    },
+    "by_day": {
+      "Monday": 41,
+      "Thursday": 76,
+      "Wednesday": 49,
+      "Tuesday": 40,
+      "Friday": 72
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.88,
+    "dept_average_30d": 5.75,
+    "dept_rank": 138,
+    "dept_size": 357
+  }
+}

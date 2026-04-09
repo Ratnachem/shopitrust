@@ -1,0 +1,139 @@
+{
+  "username": "humberto.gonzalez",
+  "name": "Humberto Gonzalez",
+  "generated_at": "2026-04-08T20:22:30.338456",
+  "summary": {
+    "message_count": 23,
+    "channels_active": 3,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U03Q05TJ1GD> I will take a look today",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "yes, if we can do that it would be amazing, thanks for all the help",
+          "channel": "revenue-data-airflow-dags-status",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! a learning experience then haha... I appreciate you guys looking into it",
+          "channel": "revenue-data-airflow-dags-status",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "shirley.selvan",
+          "count": 3
+        },
+        {
+          "user": "chrisanthony.shaw",
+          "count": 3
+        },
+        {
+          "user": "jatin.patel",
+          "count": 2
+        },
+        {
+          "user": "kris.bethea",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.44,
+      "count": 38,
+      "top_channels": [
+        {
+          "channel": "revenue-data-airflow-dags-status",
+          "messages": 14
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 6
+        },
+        {
+          "channel": "commercial-data-river",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.5,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "shirley.selvan",
+          "count": 4
+        },
+        {
+          "user": "jatin.patel",
+          "count": 3
+        },
+        {
+          "user": "chrisanthony.shaw",
+          "count": 2
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 1
+        },
+        {
+          "user": "kris.bethea",
+          "count": 1
+        },
+        {
+          "user": "spencer.lawrence",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 3,
+      "13": 4,
+      "15": 1,
+      "20": 6,
+      "17": 4,
+      "18": 2,
+      "14": 3
+    },
+    "by_day": {
+      "Thursday": 9,
+      "Wednesday": 6,
+      "Tuesday": 2,
+      "Monday": 3,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.65,
+    "dept_average_30d": 5.39,
+    "dept_rank": 204,
+    "dept_size": 272
+  }
+}

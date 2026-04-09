@@ -1,0 +1,205 @@
+{
+  "username": "jason.kirtland",
+  "name": "Jason Kirtland",
+  "generated_at": "2026-04-08T20:22:23.283152",
+  "summary": {
+    "message_count": 170,
+    "channels_active": 12,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "This has all been very helpful, thank you!  Rails.cache sounds like the way to go. :pray:",
+          "channel": "help-caching-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: Hi folks.  The Tracify generic events team is having challenges with the 30m freshness of the `tracify_enrichment` view and would like to",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": ":celebrate-wooo:   I ~will make~ made an <https://github.com/shop/issues-app-and-theme-distribution/issues/5943|issue> to update API and dev docs",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to do whatever _except_ for enabling markets :slightly_smiling_face:",
+          "channel": "b2b-eng",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Updated the tech design with 3 design items from today's sync:\n\u2022",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Feel free to do whatever _except_ for enabling markets :slightly_smiling_face:",
+          "channel": "b2b-eng",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "mladen.rangelov",
+          "count": 4
+        },
+        {
+          "user": "ben.lerchin",
+          "count": 4
+        },
+        {
+          "user": "marek.kudlacz",
+          "count": 3
+        },
+        {
+          "user": "simon.levasseur",
+          "count": 1
+        },
+        {
+          "user": "eagle.yeh",
+          "count": 1
+        },
+        {
+          "user": "david.ward",
+          "count": 1
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 1
+        },
+        {
+          "user": "mark.appleby",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.01,
+      "count": 238,
+      "top_channels": [
+        {
+          "channel": "dev-generic-events",
+          "messages": 123
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 14
+        },
+        {
+          "channel": "s-foundations-pricing-and-devdash-river",
+          "messages": 11
+        },
+        {
+          "channel": "b2b-eng",
+          "messages": 7
+        },
+        {
+          "channel": "pi",
+          "messages": 4
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 3
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 2
+        },
+        {
+          "channel": "s-foundations-dw-agentic-workflows",
+          "messages": 2
+        },
+        {
+          "channel": "proj-data-storage-merchant-marketing-yugabyte",
+          "messages": 1
+        },
+        {
+          "channel": "write-quick",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "mladen.rangelov",
+          "count": 11
+        },
+        {
+          "user": "ben.lerchin",
+          "count": 5
+        },
+        {
+          "user": "tyler.eon",
+          "count": 4
+        },
+        {
+          "user": "marek.kudlacz",
+          "count": 3
+        },
+        {
+          "user": "annie.caron",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 2,
+      "20": 25,
+      "19": 41,
+      "17": 22,
+      "21": 7,
+      "16": 17,
+      "15": 4,
+      "18": 12,
+      "22": 10,
+      "0": 17,
+      "23": 13
+    },
+    "by_day": {
+      "Wednesday": 43,
+      "Monday": 33,
+      "Friday": 32,
+      "Thursday": 44,
+      "Tuesday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.16,
+    "dept_average_30d": 5.79,
+    "dept_rank": 941,
+    "dept_size": 1233
+  }
+}

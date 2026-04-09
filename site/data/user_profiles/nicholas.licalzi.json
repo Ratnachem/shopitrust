@@ -1,0 +1,338 @@
+{
+  "username": "nicholas.licalzi",
+  "name": "Nicholas LiCalzi",
+  "generated_at": "2026-04-08T20:22:15.808084",
+  "summary": {
+    "message_count": 941,
+    "channels_active": 35,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 44,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 20,
+      "neg_count": 12,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that",
+          "channel": "help-exp",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you Yahya, that's a great investigation!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that",
+          "channel": "exp-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "keep me in the loop here and let me know how i can help",
+          "channel": "proj-bot-classification-in-envoy",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "sounds great, thank you for the update Merwan!",
+          "channel": "exp-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U03B2MWLMMH>! appreciate it",
+          "channel": "exp-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "thank you <@U03B2MWLMMH>! appreciate it",
+          "channel": "exp-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! is that 2fa code something that gets used programmatically?",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if this works better now",
+          "channel": "exp-team",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; *The reindex task doesn't actually fix this:*\n&gt; \n&gt; - `Maintenance::IndexElasticsearchTask` calls `Search::IndexingService`, which iterates",
+          "channel": "exp-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "don't let me stop you from doing whatever you need to to fix here\n\n_but_ that 1B threshold was set arbitrarily i believe, my bigger point is: if",
+          "channel": "experiments-goalie",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> please open a PR fixing those references to point to the correct channel (<#C0132GND4TB>) and also look into adding an agent rule or",
+          "channel": "exp-river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Yeah in order to have what we want running we'd need the service-level scoping or else we can't have the synthetics running in prod. Creating",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "does this generalize out beyond my account? like when it runs in the Observe Synthetics env, it's not gonna have",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "hi Rachel, that's correct yes-- flags in dev are stored in the local configured cache (typically rails) and respect whatever that timeout is",
+          "channel": "help-exp",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Don't think Milan would give us the sign-off we'd need for that, it was a big fight to get flags there way back when we did it 3 years ago or whatever",
+          "channel": "proj-exp-data-plane",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Need reviews on 4 more incident action item related PRs:\n\u2022 :github-pull-request:",
+          "channel": "exp-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Need reviews on 4 more incident action item related PRs:\n\u2022 :github-pull-request:",
+          "channel": "exp-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yes, fetch the 10mb blob from there and then store in mem in whatever app",
+          "channel": "proj-exp-data-plane",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "lin.zhao",
+          "count": 14
+        },
+        {
+          "user": "syedhabib.urrehman",
+          "count": 12
+        },
+        {
+          "user": "yinghai.zhao",
+          "count": 5
+        },
+        {
+          "user": "ramon.duraes",
+          "count": 3
+        },
+        {
+          "user": "amna.shahbaz",
+          "count": 3
+        },
+        {
+          "user": "ross.williams",
+          "count": 3
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 2
+        },
+        {
+          "user": "nicholas.wu",
+          "count": 2
+        },
+        {
+          "user": "max.piorischin",
+          "count": 2
+        },
+        {
+          "user": "pablo.marti",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.39,
+      "count": 311,
+      "top_channels": [
+        {
+          "channel": "help-exp",
+          "messages": 270
+        },
+        {
+          "channel": "exp-team",
+          "messages": 184
+        },
+        {
+          "channel": "experiments-goalie",
+          "messages": 117
+        },
+        {
+          "channel": "proj-exp-data-plane",
+          "messages": 68
+        },
+        {
+          "channel": "exp-river",
+          "messages": 48
+        },
+        {
+          "channel": "inv-20011-nomethoderror-componentsplatformappmodels",
+          "messages": 38
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 35
+        },
+        {
+          "channel": "proj-verdict-performance",
+          "messages": 29
+        },
+        {
+          "channel": "temp-verdict-overrides-at-shopify",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20008-googleapisclienterror-componentsplatforme",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 103,
+      "top_mentioners": [
+        {
+          "user": "pablo.marti",
+          "count": 15
+        },
+        {
+          "user": "charlie.king",
+          "count": 9
+        },
+        {
+          "user": "lin.zhao",
+          "count": 8
+        },
+        {
+          "user": "syedhabib.urrehman",
+          "count": 6
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 6
+        },
+        {
+          "user": "max.piorischin",
+          "count": 6
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 6
+        },
+        {
+          "user": "ross.williams",
+          "count": 4
+        },
+        {
+          "user": "ramon.duraes",
+          "count": 3
+        },
+        {
+          "user": "kangze.jia",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 108,
+      "17": 92,
+      "16": 109,
+      "15": 101,
+      "0": 23,
+      "22": 52,
+      "21": 107,
+      "20": 70,
+      "19": 65,
+      "1": 12,
+      "23": 20,
+      "14": 93,
+      "13": 33,
+      "2": 6,
+      "12": 12,
+      "4": 20,
+      "3": 17,
+      "5": 1
+    },
+    "by_day": {
+      "Wednesday": 293,
+      "Tuesday": 166,
+      "Monday": 189,
+      "Friday": 96,
+      "Thursday": 197
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.64,
+    "dept_average_30d": 5.58,
+    "dept_rank": 36,
+    "dept_size": 398
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "username": "iurie.cangea",
+  "name": "Iurie Cangea",
+  "generated_at": "2026-04-08T20:22:22.342476",
+  "summary": {
+    "message_count": 557,
+    "channels_active": 14,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 16,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U02B2FR7SJY> Thanks! Which code do you mean ? can you link the PR ?",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Nice, thank you, Rahul!",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Susmitha!",
+          "channel": "event-sweeper-notify",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "&gt; <@U025M997B3P> <@U035W3B1KCG> <@W018HUSRC67>, we should also coordinate on backfill to consolidate these events into the past if possible,",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That\u2019s great to hear, thank you! :bow:",
+          "channel": "gcp-bq-external",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Susmitha!",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U02BD0ZDZ5F>, looks like it won\u2019t work then:\n&gt; Similarly, if you have a time travel window duration of five days and you reduce that",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02B2FR7SJY> for the event drop > 99%, that\u2019s a big help!",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "The PR looks good, Jonny!  Thank you!",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever makes the most sense for the consumers",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Brought a similar thing up as well, +1 to event_type and whatever else we feel will improve the",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "as I mentioned, I created two tables, from the identifier table, manually",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0969BBHTM5> whatever gets propagated, won\u2019t surive past 10 days",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> does that query across all of time?\nthe query there is parameterised you can set `partition_filter` (or roll your own condition) to whatever you",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "jonny.lomond",
+          "count": 12
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 12
+        },
+        {
+          "user": "andrew.droll",
+          "count": 9
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 7
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 6
+        },
+        {
+          "user": "rahul.sachan",
+          "count": 6
+        },
+        {
+          "user": "connor.clark",
+          "count": 5
+        },
+        {
+          "user": "yang.gao",
+          "count": 5
+        },
+        {
+          "user": "marc.laforet",
+          "count": 4
+        },
+        {
+          "user": "nick.ryan",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.47,
+      "count": 118,
+      "top_channels": [
+        {
+          "channel": "event-refinery-team",
+          "messages": 198
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 184
+        },
+        {
+          "channel": "event-sweeper-notify",
+          "messages": 48
+        },
+        {
+          "channel": "proj-admin-events-in-event-refinery",
+          "messages": 43
+        },
+        {
+          "channel": "proj-attribution-on-event-refinery",
+          "messages": 22
+        },
+        {
+          "channel": "help-slh-santas-little-helper",
+          "messages": 13
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 11
+        },
+        {
+          "channel": "gcp-bq-external",
+          "messages": 10
+        },
+        {
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "messages": 10
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 94,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 19
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 13
+        },
+        {
+          "user": "marc.laforet",
+          "count": 8
+        },
+        {
+          "user": "yang.gao",
+          "count": 8
+        },
+        {
+          "user": "connor.clark",
+          "count": 4
+        },
+        {
+          "user": "day.levesque",
+          "count": 3
+        },
+        {
+          "user": "eric.liang",
+          "count": 3
+        },
+        {
+          "user": "nick.ryan",
+          "count": 3
+        },
+        {
+          "user": "alexander.brasil",
+          "count": 2
+        },
+        {
+          "user": "epavan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 72,
+      "13": 55,
+      "20": 34,
+      "19": 77,
+      "14": 75,
+      "18": 29,
+      "17": 83,
+      "16": 61,
+      "21": 19,
+      "22": 8,
+      "12": 20,
+      "23": 14,
+      "0": 7,
+      "11": 2,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 117,
+      "Tuesday": 41,
+      "Monday": 97,
+      "Friday": 145,
+      "Thursday": 157
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 5.39,
+    "dept_rank": 61,
+    "dept_size": 272
+  }
+}

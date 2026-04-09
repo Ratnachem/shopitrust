@@ -1,0 +1,245 @@
+{
+  "username": "anton.dereventsov",
+  "name": "Anton Dereventsov",
+  "generated_at": "2026-04-08T20:22:14.986509",
+  "summary": {
+    "message_count": 256,
+    "channels_active": 10,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> couple updates:\n1. for some reason `<http://table.to|table.to>_batches()[0]` does not actually drop the data -- I have no idea why but",
+          "channel": "river-anton",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team, I tried to summarize all relevant findings from the experiment analysis in",
+          "channel": "proj-hstu-personalization-engine",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> great job! Please create new issue at <https://github.com/Shopify/merchant-events-foundational-model/issues> and write up our",
+          "channel": "river-anton",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yeah the first one is stuck in `INIT` but the second one runs fine so i guess we're good, thanks!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "*TLDR: we're planning to pause the experiment tomorrow morning* :sad_blob:\n*Please let me know if you disagree with this decision!*\n(cc",
+          "channel": "proj-hstu-personalization-engine",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":meow-attention: Hey team, just an fyi: we're doing an incremental rollout for the",
+          "channel": "help-app-store",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":meow-attention: Hey team, just an fyi: we're doing an incremental rollout for the",
+          "channel": "help-apps-in-admin",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U0AEPQCKB3M> stupid question: when i ssh onto the cluster and the tunnel breaks -- do i blame skypilot for that as well?",
+          "channel": "river-anton",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Okay, this makes sense, but the diagram is still very hard to read. Maybe let's actually do a pie diagram because maybe the labels",
+          "channel": "river-anton",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> I'm concerned that there is a merchant distribution shift between the finetuning and deployment stages, i.e. we finetune on one set of",
+          "channel": "river-anton",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "also this alert thingy is pretty stable (whatever this actually is)",
+          "channel": "proj-hstu-personalization-engine",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "elvin.ouyang",
+          "count": 5
+        },
+        {
+          "user": "diego.ardila",
+          "count": 3
+        },
+        {
+          "user": "emily.tran",
+          "count": 2
+        },
+        {
+          "user": "amy.furgoch",
+          "count": 2
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 1
+        },
+        {
+          "user": "arjun.variar",
+          "count": 1
+        },
+        {
+          "user": "kurt.peters",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.57,
+      "count": 162,
+      "top_channels": [
+        {
+          "channel": "river-anton",
+          "messages": 177
+        },
+        {
+          "channel": "proj-hstu-personalization-engine",
+          "messages": 44
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 14
+        },
+        {
+          "channel": "the-grammar-of-commerce-hstu",
+          "messages": 7
+        },
+        {
+          "channel": "merchant-events-foundational-model-alerts",
+          "messages": 6
+        },
+        {
+          "channel": "help-apps-in-admin",
+          "messages": 4
+        },
+        {
+          "channel": "river",
+          "messages": 1
+        },
+        {
+          "channel": "claude-code",
+          "messages": 1
+        },
+        {
+          "channel": "ml-community",
+          "messages": 1
+        },
+        {
+          "channel": "help-app-store",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "dielli.hoxha",
+          "count": 5
+        },
+        {
+          "user": "diego.ardila",
+          "count": 5
+        },
+        {
+          "user": "emily.tran",
+          "count": 1
+        },
+        {
+          "user": "connor.mckay",
+          "count": 1
+        },
+        {
+          "user": "kurt.peters",
+          "count": 1
+        },
+        {
+          "user": "elvin.ouyang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 22,
+      "17": 29,
+      "16": 26,
+      "15": 41,
+      "13": 12,
+      "21": 15,
+      "20": 21,
+      "19": 26,
+      "0": 9,
+      "22": 9,
+      "14": 28,
+      "1": 9,
+      "23": 1,
+      "2": 4,
+      "3": 3,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 71,
+      "Tuesday": 72,
+      "Monday": 54,
+      "Friday": 40,
+      "Thursday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 4.81,
+    "dept_average_30d": 5.58,
+    "dept_rank": 312,
+    "dept_size": 398
+  }
+}

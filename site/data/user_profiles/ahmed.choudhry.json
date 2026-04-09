@@ -1,0 +1,265 @@
+{
+  "username": "ahmed.choudhry",
+  "name": "Ahmed Choudhry",
+  "generated_at": "2026-04-08T20:22:09.294686",
+  "summary": {
+    "message_count": 202,
+    "channels_active": 24,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good, that\u2019s good heads up. Thank you, I\u2019ll share with our team.",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, thank you.",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U01ENHRRWG6> for your help with investigation. :bow:",
+          "channel": "inv-20986-checkout-web-release-ci-failing-due-to-an",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Can you please investigate this e3e test failure and find the root",
+          "channel": "inv-20986-checkout-web-release-ci-failing-due-to-an",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Looks like I was wrong about adding back to merge queue. :disappointed:\n\n*Merge activity*\n```Mar 18, 4:19 PM UTC: This pull request was re-added to",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Randy for the heads up. Please let us know if we should watch out for any specific issues.",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok, thank you. Looking in to this now.",
+          "channel": "inc-20137-failures-on-world-storefront-renderer",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you :bow:",
+          "channel": "live-site-monitoring",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Andrew for looking in to this report. :bow:",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "River investigation:\n\nI searched through all 4,414 commits in this deploy range. Here\u2019s what I found:\n\n*Neither the erroring file (`image_loader.rb`)",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> Can you investigate what\u2019s causing this error? There\u2019s only 1 error event on 1 shop, we want to be proactive to figure it out.",
+          "channel": "lso-river-siren",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "vandhana.mohanraj",
+          "count": 6
+        },
+        {
+          "user": "jordan.emberley",
+          "count": 2
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 2
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 2
+        },
+        {
+          "user": "rachel.philipose",
+          "count": 2
+        },
+        {
+          "user": "iryna.loza",
+          "count": 1
+        },
+        {
+          "user": "kevin.robertson",
+          "count": 1
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 1
+        },
+        {
+          "user": "jessica.li",
+          "count": 1
+        },
+        {
+          "user": "karen.xie",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.89,
+      "count": 179,
+      "top_channels": [
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 81
+        },
+        {
+          "channel": "lso-river-siren",
+          "messages": 29
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 22
+        },
+        {
+          "channel": "lso-river",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20986-checkout-web-release-ci-failing-due-to-an",
+          "messages": 8
+        },
+        {
+          "channel": "inv-19920-this-zone-is-not-supported-in-conveyor-me",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20289-sigabrt-errors-seen-in-core",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "messages": 5
+        },
+        {
+          "channel": "inc-20137-failures-on-world-storefront-renderer",
+          "messages": 5
+        },
+        {
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.85,
+      "count": 61,
+      "top_mentioners": [
+        {
+          "user": "vandhana.mohanraj",
+          "count": 16
+        },
+        {
+          "user": "mattie.toia",
+          "count": 7
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 4
+        },
+        {
+          "user": "jordan.emberley",
+          "count": 4
+        },
+        {
+          "user": "taylor.cyr",
+          "count": 4
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 4
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 4
+        },
+        {
+          "user": "richard.vining",
+          "count": 3
+        },
+        {
+          "user": "chantal.hubrich",
+          "count": 3
+        },
+        {
+          "user": "ollie.treend",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "17": 46,
+      "16": 23,
+      "15": 48,
+      "19": 11,
+      "14": 34,
+      "13": 20,
+      "20": 2
+    },
+    "by_day": {
+      "Wednesday": 71,
+      "Tuesday": 44,
+      "Monday": 74,
+      "Thursday": 10,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.17,
+    "dept_average_30d": 5.75,
+    "dept_rank": 259,
+    "dept_size": 357
+  }
+}

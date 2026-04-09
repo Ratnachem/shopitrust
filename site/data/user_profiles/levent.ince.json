@@ -1,0 +1,276 @@
+{
+  "username": "levent.ince",
+  "name": "Levent Ince",
+  "generated_at": "2026-04-08T20:22:15.328678",
+  "summary": {
+    "message_count": 200,
+    "channels_active": 12,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey <@U021X7D5YAY> <@U0A61BN3484>\n\nI've set up the batched schema migration PR per the coordination playbook (#2244). Your schema changes are welcome",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Hey Team, I am constantly getting a CI failure failure (DB Safety Check) since the beginning of these week.  My PRs are waiting in stack for",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, there's a stuck schema migration on sfr-production-272 with iterative verifier failures (visible on",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, there's a stuck schema migration on sfr-production-272 with iterative verifier failures (visible on",
+          "channel": "core-storefronts",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team \u2014 quick update on the marketing consent checkbox for the web component  (<@U07QDB7M9PW>, <@U02CZFWT35Z>, <@U022XJ889C6>)\n\nHere is the",
+          "channel": "proj-terms-and-privacy-consent-language",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "<@U09JM9D0M3Q> <@U022YA72U7Q> <@U07ES8WR464> I have incorporated all my prototype work as technical desing to the migration part of the document.  It",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "We generate capability tokens in 3 main cases:\n1: After checkout, when the thank you page is refreshed\n2. After the checkout , in the order",
+          "channel": "inv-20369-capability-token-generate-duration---p99-",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "*Terms Consent (ToS)*\nWe were stuck at 10% rollout after OK2 didn't approve the full rollout last time. I'm picking this back up today and will",
+          "channel": "proj-terms-and-privacy-consent-language",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Based on our <https://shopify.slack.com/archives/C0ADA8B7V32/p1773254880477719|slack discussion yesterday>:  I've added a new section to the",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U02J81G05RC> Here is the follow-up explanation after our meeting.\n\nCurrently, the system is designed so that the sign-in page marketing consent is",
+          "channel": "proj-terms-and-privacy-consent-language",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U02J81G05RC> Let me clarify.\nThe original plan (until the beginning of this week) was the sign-in page and checkout marketing consent were",
+          "channel": "proj-terms-and-privacy-consent-language",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "nick.pinto",
+          "count": 15
+        },
+        {
+          "user": "misha.korablin",
+          "count": 11
+        },
+        {
+          "user": "patrick.millegan",
+          "count": 8
+        },
+        {
+          "user": "yvonne.geng",
+          "count": 6
+        },
+        {
+          "user": "shawn.leekwong",
+          "count": 6
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 5
+        },
+        {
+          "user": "daisy.nguyen",
+          "count": 5
+        },
+        {
+          "user": "nick.lenko",
+          "count": 4
+        },
+        {
+          "user": "robin.somlette",
+          "count": 4
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.62,
+      "count": 122,
+      "top_channels": [
+        {
+          "channel": "proj-terms-and-privacy-consent-language",
+          "messages": 106
+        },
+        {
+          "channel": "proj-customer-account-api-auth-granularity",
+          "messages": 27
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20513-e2e-tests-broken",
+          "messages": 13
+        },
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 9
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 9
+        },
+        {
+          "channel": "customer-account-and-login-ops",
+          "messages": 6
+        },
+        {
+          "channel": "dev-up",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20369-capability-token-generate-duration---p99-",
+          "messages": 4
+        },
+        {
+          "channel": "storefront-renderer-operations",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "nick.pinto",
+          "count": 12
+        },
+        {
+          "user": "robin.drexler",
+          "count": 6
+        },
+        {
+          "user": "patrick.millegan",
+          "count": 6
+        },
+        {
+          "user": "yvonne.geng",
+          "count": 5
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 3
+        },
+        {
+          "user": "michael.dotson",
+          "count": 2
+        },
+        {
+          "user": "oluwatimi.owoturo",
+          "count": 2
+        },
+        {
+          "user": "sylvain.hamann",
+          "count": 2
+        },
+        {
+          "user": "daisy.nguyen",
+          "count": 2
+        },
+        {
+          "user": "annie.caron",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 16,
+      "15": 23,
+      "14": 33,
+      "13": 32,
+      "23": 2,
+      "21": 1,
+      "20": 10,
+      "19": 4,
+      "17": 15,
+      "2": 17,
+      "12": 6,
+      "16": 26,
+      "10": 3,
+      "5": 1,
+      "1": 3,
+      "9": 1,
+      "11": 2,
+      "3": 4,
+      "8": 1
+    },
+    "by_day": {
+      "Wednesday": 25,
+      "Tuesday": 34,
+      "Monday": 72,
+      "Thursday": 50,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.31,
+    "dept_average_30d": 5.79,
+    "dept_rank": 853,
+    "dept_size": 1233
+  }
+}

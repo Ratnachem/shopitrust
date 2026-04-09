@@ -1,0 +1,267 @@
+{
+  "username": "carolina.pinzon",
+  "name": "Carolina Pinzon",
+  "generated_at": "2026-04-08T20:22:11.589824",
+  "summary": {
+    "message_count": 809,
+    "channels_active": 33,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.1,
+      "pos_count": 31,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "woops! You both are totally right, my bad. There is already a jest analytics package that does what I was introducing in that PR!",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I'll wait until at least the E2E run finishes before signing off, just in case",
+          "channel": "inv-16685-polaris-migration-regressions",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes, thank you! I've been following along.",
+          "channel": "caro-p-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U02UJ4NDMRR>! I'll monitor this so you don't get paged",
+          "channel": "admin-web-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "agh that makes sense. Sorry about that!",
+          "channel": "proj-polaris-web-components-test",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Just so this is also raised, I'm seeing cases in which we have the opposite thing happening: CI passes but still the PR gets added to failure",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I think the success might be coming from a later build in which we skipped the tests, could this be possible? Although I'm not sure I understand why",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi, I have a PR that should have gotten ejected from the merge queue because it was introducing a failure in our E2E tests. However, looking at the",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "emily.ye",
+          "count": 14
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 8
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 7
+        },
+        {
+          "user": "daiane.silva",
+          "count": 4
+        },
+        {
+          "user": "nanakwame.acheampong",
+          "count": 3
+        },
+        {
+          "user": "alia.hagidhaffe",
+          "count": 3
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        },
+        {
+          "user": "kaunain.karmali",
+          "count": 2
+        },
+        {
+          "user": "sarchen.starke",
+          "count": 2
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.07,
+      "count": 347,
+      "top_channels": [
+        {
+          "channel": "admin-web-platform",
+          "messages": 268
+        },
+        {
+          "channel": "caro-p-river",
+          "messages": 110
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 93
+        },
+        {
+          "channel": "proj-polaris-web-components-test",
+          "messages": 50
+        },
+        {
+          "channel": "awp-reviews",
+          "messages": 44
+        },
+        {
+          "channel": "inv-20032-some-unit-tests-not-running-on-prs",
+          "messages": 30
+        },
+        {
+          "channel": "help-admin-web-platform",
+          "messages": 28
+        },
+        {
+          "channel": "inv-16685-polaris-migration-regressions",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20729-admin-e2e-tests-failing-blocking-merges",
+          "messages": 24
+        },
+        {
+          "channel": "team-ci",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 114,
+      "top_mentioners": [
+        {
+          "user": "carlos.corvaia",
+          "count": 19
+        },
+        {
+          "user": "emily.ye",
+          "count": 17
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 9
+        },
+        {
+          "user": "matt.kubej",
+          "count": 7
+        },
+        {
+          "user": "kush.patel",
+          "count": 6
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 5
+        },
+        {
+          "user": "jason.addleman",
+          "count": 5
+        },
+        {
+          "user": "nanakwame.acheampong",
+          "count": 5
+        },
+        {
+          "user": "alex.page",
+          "count": 4
+        },
+        {
+          "user": "nate.jacobs",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 44,
+      "17": 107,
+      "16": 96,
+      "15": 97,
+      "23": 44,
+      "22": 71,
+      "21": 73,
+      "20": 78,
+      "19": 102,
+      "3": 6,
+      "1": 14,
+      "0": 43,
+      "14": 23,
+      "4": 4,
+      "2": 1,
+      "13": 2,
+      "7": 1,
+      "6": 3
+    },
+    "by_day": {
+      "Wednesday": 229,
+      "Tuesday": 175,
+      "Monday": 106,
+      "Thursday": 209,
+      "Friday": 90
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.92,
+    "dept_average_30d": 5.79,
+    "dept_rank": 2,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "username": "joseph.kahn",
+  "name": "Joseph Kahn",
+  "generated_at": "2026-04-08T20:22:16.812041",
+  "summary": {
+    "message_count": 612,
+    "channels_active": 37,
+    "unique_people_mentioned": 47,
+    "unique_mentioners": 55,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Ah, I copied it wrong it seems. Sorry about that.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n\nUpdate: starting the backfill pipeline.",
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "We had some issues on 3/20 starting at 3pm UTC. We plan to run that backfill which we need to emit onto our `monorail_customer_event_7` topic with",
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "identity-and-events-atc",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":announce-redd: We're making a change to the way we handle ATT for events from Shop Web.\n\nCurrent Behaviour: Events from Shop Web which occur on",
+          "channel": "event-refinery-announce",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said, this is *just* for edge cases and safey. We should *NOT* ingest cookies we are not allowed and should not normally have a gap.",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For the record I declare I'm on whatever side of the this which future us will understand to have been the correct decision. Include this in your",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "We decrypt, shove it into a JSON string and otherwise don't care what it is in CEP right now",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 50,
+      "top_mentioned": [
+        {
+          "user": "andrew.droll",
+          "count": 5
+        },
+        {
+          "user": "leigh.greenway",
+          "count": 5
+        },
+        {
+          "user": "austin.clooney",
+          "count": 5
+        },
+        {
+          "user": "auggie.fisher",
+          "count": 4
+        },
+        {
+          "user": "alexander.brasil",
+          "count": 4
+        },
+        {
+          "user": "nick.presta",
+          "count": 3
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 3
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 3
+        },
+        {
+          "user": "ash.charles",
+          "count": 3
+        },
+        {
+          "user": "cameron.rowshanbin",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.68,
+      "count": 379,
+      "top_channels": [
+        {
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "messages": 91
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 61
+        },
+        {
+          "channel": "customer-events",
+          "messages": 59
+        },
+        {
+          "channel": "identity-and-events-atc",
+          "messages": 59
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 44
+        },
+        {
+          "channel": "inc-15385-cep-data-loss-caused-by-kafka-issues",
+          "messages": 40
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 30
+        },
+        {
+          "channel": "cep-deprecation-task-force",
+          "messages": 26
+        },
+        {
+          "channel": "proj-customer-events-server-pixels-migration",
+          "messages": 24
+        },
+        {
+          "channel": "proj-attribution-on-event-refinery",
+          "messages": 22
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 197,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 35
+        },
+        {
+          "user": "sarah.pyo",
+          "count": 14
+        },
+        {
+          "user": "day.levesque",
+          "count": 12
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 9
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 8
+        },
+        {
+          "user": "leigh.greenway",
+          "count": 8
+        },
+        {
+          "user": "kenneth.ng",
+          "count": 7
+        },
+        {
+          "user": "spencer.bonar",
+          "count": 6
+        },
+        {
+          "user": "marc.laforet",
+          "count": 5
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 54,
+      "16": 42,
+      "1": 13,
+      "0": 21,
+      "22": 23,
+      "21": 39,
+      "15": 94,
+      "14": 68,
+      "18": 105,
+      "13": 36,
+      "19": 31,
+      "11": 4,
+      "20": 35,
+      "2": 7,
+      "12": 8,
+      "23": 27,
+      "10": 4,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 97,
+      "Tuesday": 160,
+      "Monday": 163,
+      "Thursday": 72,
+      "Friday": 120
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.7,
+    "dept_average_30d": 5.39,
+    "dept_rank": 19,
+    "dept_size": 272
+  }
+}

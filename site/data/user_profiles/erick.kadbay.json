@@ -1,0 +1,279 @@
+{
+  "username": "erick.kadbay",
+  "name": "Erick Kadbay",
+  "generated_at": "2026-04-08T20:22:21.693905",
+  "summary": {
+    "message_count": 174,
+    "channels_active": 16,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 22,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02V2PTJWDN> and <@U07T9K88SLD>! Are there immediate plans to address the routing issue? This issue seems big. Even though we do talk",
+          "channel": "help-selling-strategies",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "ext-shopify-paypal-integration-shared",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great to hear that Vicki! Thank you for confirming :green_heart:",
+          "channel": "inv-20777-billing-agreement-not-found-errors-during",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Team! Myself and <@U03LEUTPSTX> are bursting this week, so our response times might be slower than usual! Feel free to ping us if you need our",
+          "channel": "pcb-yugabyte-in-core",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<https://shopify.slack.com/archives/C095J89PVV5/p1773950918098599?thread_ts=1773767686.885119&amp;cid=C095J89PVV5|This> looks good to me, this is",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-shopify-payments-kyc",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> this is still failing ci. modify this task to also clean up orphaned records in the following tables:\n\u2022",
+          "channel": "river-payment-account-capabilities",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "1. The task to address their setup was finally deployed last night, running it now\n2. I think so. I have not looked for similarly affected merchants",
+          "channel": "inv-20777-billing-agreement-not-found-errors-during",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; 2. The transition from `legacy_pay_pal_express_subscriptions_exist` \u2192 `active` means that whatever gateway the capability status check saw",
+          "channel": "inv-20777-billing-agreement-not-found-errors-during",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; *`2026-02-02 09:07:19\u201309:07:45`* \u2014 US SP account 3400007855 begins provisioning. Stripe Connect account created; all charge capabilities enter",
+          "channel": "inv-20777-billing-agreement-not-found-errors-during",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "it just defaults to using the mock data of the tool (whatever is returned by `mock_perform`). When I set `mock_response?` to false, the tool bypassed",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey Manef! The task just performs billing agreement sharing between a source and a destination, despite the bad job parameter naming. In the case of",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.01,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "manef.zahra",
+          "count": 3
+        },
+        {
+          "user": "saki.futamura",
+          "count": 2
+        },
+        {
+          "user": "caihua.du",
+          "count": 2
+        },
+        {
+          "user": "gavin.he",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "ani.tumanyan",
+          "count": 1
+        },
+        {
+          "user": "jc.dansereau",
+          "count": 1
+        },
+        {
+          "user": "jack.dziewonski",
+          "count": 1
+        },
+        {
+          "user": "asma.laaribi",
+          "count": 1
+        },
+        {
+          "user": "meryl.wang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.39,
+      "count": 247,
+      "top_channels": [
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 36
+        },
+        {
+          "channel": "inv-20777-billing-agreement-not-found-errors-during",
+          "messages": 34
+        },
+        {
+          "channel": "river-payment-account-capabilities",
+          "messages": 27
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 26
+        },
+        {
+          "channel": "shop-mover",
+          "messages": 13
+        },
+        {
+          "channel": "pcb-yugabyte-in-core",
+          "messages": 10
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 7
+        },
+        {
+          "channel": "ext-shopify-paypal-integration-shared",
+          "messages": 6
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 3
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "rose.wiegley",
+          "count": 5
+        },
+        {
+          "user": "thomas.gwynnetimothy",
+          "count": 5
+        },
+        {
+          "user": "vicki.crowe",
+          "count": 4
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 3
+        },
+        {
+          "user": "anna.milewska",
+          "count": 3
+        },
+        {
+          "user": "anmol.arora",
+          "count": 2
+        },
+        {
+          "user": "andrew.creally",
+          "count": 2
+        },
+        {
+          "user": "dion.garcia",
+          "count": 2
+        },
+        {
+          "user": "jack.dziewonski",
+          "count": 2
+        },
+        {
+          "user": "lucas.campanari",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 20,
+      "23": 10,
+      "21": 20,
+      "16": 13,
+      "14": 19,
+      "19": 12,
+      "20": 22,
+      "22": 8,
+      "17": 15,
+      "13": 6,
+      "1": 2,
+      "0": 4,
+      "18": 19,
+      "12": 3,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 58,
+      "Tuesday": 44,
+      "Monday": 15,
+      "Friday": 36,
+      "Thursday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 7.58,
+    "dept_average_30d": 4.74,
+    "dept_rank": 30,
+    "dept_size": 1663
+  }
+}

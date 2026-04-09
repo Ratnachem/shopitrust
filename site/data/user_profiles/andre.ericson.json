@@ -1,0 +1,307 @@
+{
+  "username": "andre.ericson",
+  "name": "Andre Ericson",
+  "generated_at": "2026-04-08T20:22:31.110915",
+  "summary": {
+    "message_count": 566,
+    "channels_active": 53,
+    "unique_people_mentioned": 42,
+    "unique_mentioners": 40,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I have the GCS tab open if you want me to check if the name is available.",
+          "channel": "shop-bots",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "shop-tracking-yb-work-group",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-vault",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats <@U03L86LFC3Z>!",
+          "channel": "shop-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt;  Please submit a",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "no worries, let me know if you need anything from our side",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "shop-tracking-yb-work-group",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! cc: <@U08B0H29VSA>",
+          "channel": "shop-tracking-yb-work-group",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "It's not urgent. I can deal with it later.",
+          "channel": "shop-tracking-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "IMO if this is a problem we should fix it in verdict or whatever causes the issue. It's the same problem if we rollback.",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "maybe they shipped whatever changed again and it started failing again",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "stupid question, that does flaky means there? It retried and passed?",
+          "channel": "inv-20213-rollback-after-errors-in-shop-server-manu",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ah, sure. Whatever is easier for you. thought just it would be less work to you :laughing:",
+          "channel": "help-observability",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "yep, as long as the dual-writes, integrity checks, and relations are correct, we can deal with it later.",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "ben.eichler",
+          "count": 13
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 7
+        },
+        {
+          "user": "mike.welsh",
+          "count": 6
+        },
+        {
+          "user": "thibault.gautriaud",
+          "count": 5
+        },
+        {
+          "user": "andreas.zecher",
+          "count": 5
+        },
+        {
+          "user": "brendan.dougherty",
+          "count": 5
+        },
+        {
+          "user": "tasos.latsas",
+          "count": 4
+        },
+        {
+          "user": "kasparas.galdikas",
+          "count": 4
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 4
+        },
+        {
+          "user": "jorge.quan",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.12,
+      "count": 284,
+      "top_channels": [
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 83
+        },
+        {
+          "channel": "inv-20213-rollback-after-errors-in-shop-server-manu",
+          "messages": 71
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 44
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 40
+        },
+        {
+          "channel": "shop-tracking",
+          "messages": 33
+        },
+        {
+          "channel": "shop-tracking-ops",
+          "messages": 25
+        },
+        {
+          "channel": "inv-19966-shop-server-errors---new-errors-rule-",
+          "messages": 21
+        },
+        {
+          "channel": "inc-19901-orders-page-is-not-loading",
+          "messages": 20
+        },
+        {
+          "channel": "shop-tracking-yb-work-group",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20586-shop-app-high-latency-and-500x-in-sh",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 82,
+      "top_mentioners": [
+        {
+          "user": "elaine.y.chan",
+          "count": 16
+        },
+        {
+          "user": "jorge.quan",
+          "count": 7
+        },
+        {
+          "user": "elsa.huang",
+          "count": 4
+        },
+        {
+          "user": "constantino.schi-7983",
+          "count": 4
+        },
+        {
+          "user": "kasparas.galdikas",
+          "count": 3
+        },
+        {
+          "user": "umar.ahmed",
+          "count": 3
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 3
+        },
+        {
+          "user": "mike.welsh",
+          "count": 2
+        },
+        {
+          "user": "carljohan.gustavsson",
+          "count": 2
+        },
+        {
+          "user": "andreas.zecher",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 36,
+      "19": 42,
+      "18": 40,
+      "17": 46,
+      "13": 61,
+      "12": 36,
+      "10": 50,
+      "15": 39,
+      "14": 66,
+      "11": 17,
+      "9": 48,
+      "20": 42,
+      "8": 13,
+      "21": 26,
+      "22": 4
+    },
+    "by_day": {
+      "Wednesday": 104,
+      "Tuesday": 217,
+      "Monday": 48,
+      "Friday": 124,
+      "Thursday": 73
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.8,
+    "dept_average_30d": 4.74,
+    "dept_rank": 52,
+    "dept_size": 1663
+  }
+}

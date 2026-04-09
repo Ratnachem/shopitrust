@@ -1,0 +1,171 @@
+{
+  "username": "gabriel.tanchen",
+  "name": "Gabriel Tanchen",
+  "generated_at": "2026-04-08T20:22:07.914986",
+  "summary": {
+    "message_count": 98,
+    "channels_active": 4,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 10,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if the query doesn't work or there's anything else you need!",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Done! Thank you both for helping on this! :blobheart:",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I'll get that merged in once CI passes",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, thanks!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.99,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "alexander.cecil",
+          "count": 4
+        },
+        {
+          "user": "venkat.prabhu",
+          "count": 2
+        },
+        {
+          "user": "alfred.yang",
+          "count": 2
+        },
+        {
+          "user": "sahba.ezami",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.16,
+      "count": 28,
+      "top_channels": [
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 54
+        },
+        {
+          "channel": "customer-data-platform-ops",
+          "messages": 27
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 10
+        },
+        {
+          "channel": "burst-batch-audience-engine-march-2026",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.34,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "ash.charles",
+          "count": 5
+        },
+        {
+          "user": "francois.campeau",
+          "count": 4
+        },
+        {
+          "user": "matthew.ferderber",
+          "count": 2
+        },
+        {
+          "user": "sunyoung.hwang",
+          "count": 2
+        },
+        {
+          "user": "nicolas.ottonello",
+          "count": 1
+        },
+        {
+          "user": "chethana.siddappa",
+          "count": 1
+        },
+        {
+          "user": "baoyuan.xing",
+          "count": 1
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 1
+        },
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 1
+        },
+        {
+          "user": "arman.kazemi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 8,
+      "17": 6,
+      "16": 19,
+      "12": 7,
+      "22": 3,
+      "21": 5,
+      "15": 12,
+      "14": 3,
+      "19": 14,
+      "11": 4,
+      "13": 5,
+      "20": 12
+    },
+    "by_day": {
+      "Wednesday": 19,
+      "Monday": 15,
+      "Thursday": 25,
+      "Tuesday": 14,
+      "Friday": 25
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.86,
+    "dept_average_30d": 4.74,
+    "dept_rank": 619,
+    "dept_size": 1663
+  }
+}

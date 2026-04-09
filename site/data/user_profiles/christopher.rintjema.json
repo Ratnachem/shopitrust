@@ -1,0 +1,275 @@
+{
+  "username": "christopher.rintjema",
+  "name": "Christopher Rintjema",
+  "generated_at": "2026-04-08T20:22:21.025889",
+  "summary": {
+    "message_count": 620,
+    "channels_active": 37,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 25,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "And using big query data, this is how many tests/unique tests are failing for our slices thanks to Kyle's suggestion in our sync today.",
+          "channel": "tmp-checkout-flaky-tests",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Since your issue is closed already I'll leave mine open",
+          "channel": "tmp-checkout-flaky-tests",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I pulled it out into its own thread if that helps <https://shopify.slack.com/archives/C03U1Q74PMF/p1775054335637389>",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Appreciate it we got a ton of failures last night so trying to triage them quickly. Let me know if you don't agree with River :smile:",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it we got a ton of failures last night so trying to triage them quickly. Let me know if you don't agree with River :smile:",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Going to mark as triaged. If you don't hear back feel free to open a new thread :smile:",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Some of these are pretty funny:\n&gt; they need to happen during PUBG\n&gt; Sounds good. Okay. Thank you. Bye. Thanks, Honey.\nand we're all \"Speaker 2\"",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! With the refresh our immediate problem is fixed (checkout getting paged for `checkout x`).\n\nI'm noticing when blame can't find a match it",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Hell yeah, finally! Congrats both very well deserved :cart-hype:",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it, thanks for the help :smile:",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": ":wave: I took over <https://github.com/shop/issues/issues/10240|this issue> earlier this week but having trouble deciding on a solution",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "damien.ardouin",
+          "count": 5
+        },
+        {
+          "user": "connie.ho",
+          "count": 5
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 4
+        },
+        {
+          "user": "debora.setton",
+          "count": 3
+        },
+        {
+          "user": "gus.degeus",
+          "count": 2
+        },
+        {
+          "user": "thomas.lacher",
+          "count": 2
+        },
+        {
+          "user": "max.veldink",
+          "count": 2
+        },
+        {
+          "user": "will.pittman",
+          "count": 2
+        },
+        {
+          "user": "nadim.khalife",
+          "count": 1
+        },
+        {
+          "user": "james.go",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 600,
+      "top_channels": [
+        {
+          "channel": "checkout-platform-support",
+          "messages": 234
+        },
+        {
+          "channel": "tmp-checkout-flaky-tests",
+          "messages": 103
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 54
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 45
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 29
+        },
+        {
+          "channel": "chris-testing",
+          "messages": 28
+        },
+        {
+          "channel": "agentic-checkout-oai-v1-v2",
+          "messages": 25
+        },
+        {
+          "channel": "checkout-foundations-production-support-river",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20594-investigating-failing-vip-synthetics",
+          "messages": 10
+        },
+        {
+          "channel": "checkout-foundations-ops",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.05,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "celine.bensoussan",
+          "count": 13
+        },
+        {
+          "user": "connie.ho",
+          "count": 8
+        },
+        {
+          "user": "peter.rong",
+          "count": 3
+        },
+        {
+          "user": "dan.robinson",
+          "count": 2
+        },
+        {
+          "user": "damien.ardouin",
+          "count": 2
+        },
+        {
+          "user": "laurent.dang",
+          "count": 2
+        },
+        {
+          "user": "mike.guterl",
+          "count": 2
+        },
+        {
+          "user": "debora.setton",
+          "count": 2
+        },
+        {
+          "user": "traian.svinti",
+          "count": 1
+        },
+        {
+          "user": "max.veldink",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 73,
+      "11": 14,
+      "1": 4,
+      "0": 3,
+      "22": 1,
+      "21": 22,
+      "20": 44,
+      "19": 75,
+      "17": 58,
+      "15": 83,
+      "14": 80,
+      "13": 57,
+      "12": 39,
+      "10": 3,
+      "23": 9,
+      "18": 45,
+      "3": 2,
+      "2": 8
+    },
+    "by_day": {
+      "Wednesday": 234,
+      "Tuesday": 116,
+      "Monday": 101,
+      "Thursday": 109,
+      "Friday": 60
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.52,
+    "dept_average_30d": 4.74,
+    "dept_rank": 91,
+    "dept_size": 1663
+  }
+}

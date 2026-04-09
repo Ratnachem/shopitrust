@@ -1,0 +1,90 @@
+{
+  "username": "gaspare.tortora",
+  "name": "Gaspare Tortora",
+  "generated_at": "2026-04-08T20:22:22.196623",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Excellent thank you all for jumping in, really appreciate it!! :gains:",
+          "channel": "help-commercial-data-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Excellent thank you all for jumping in, really appreciate it!! :gains:",
+          "channel": "help-commercial-data-platform",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "cindy.zhu",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.67,
+      "count": 44,
+      "top_channels": [
+        {
+          "channel": "help-commercial-data-platform",
+          "messages": 7
+        },
+        {
+          "channel": "pi",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "cameron.finnell",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 1,
+      "14": 2,
+      "13": 2,
+      "16": 3
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Tuesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.18,
+    "dept_average_30d": 4.32,
+    "dept_rank": 432,
+    "dept_size": 848
+  }
+}

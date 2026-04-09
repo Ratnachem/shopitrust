@@ -1,0 +1,183 @@
+{
+  "username": "michael.savoia",
+  "name": "Michael Savoia",
+  "generated_at": "2026-04-08T20:22:26.317926",
+  "summary": {
+    "message_count": 91,
+    "channels_active": 3,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sweet. Let me know if you need any support!",
+          "channel": "web-component-working-group",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey Olessia :wave-frog:\n\nHow are things for the message feedback work? I see the storefront PR has approvals, but the agent-server PR is failing CI.",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Currently the component fires an event that includes `{ messageId, sentiment, comment }`. Let me know if any of that needs to be updated!",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "sofia.matulis",
+          "count": 6
+        },
+        {
+          "user": "alex.cote",
+          "count": 4
+        },
+        {
+          "user": "nick.lepine",
+          "count": 4
+        },
+        {
+          "user": "edmund.teh",
+          "count": 4
+        },
+        {
+          "user": "richard.poirier",
+          "count": 2
+        },
+        {
+          "user": "curtis.dulmage",
+          "count": 2
+        },
+        {
+          "user": "olivia.marcello",
+          "count": 1
+        },
+        {
+          "user": "tyler.rowsell",
+          "count": 1
+        },
+        {
+          "user": "mike.sassak",
+          "count": 1
+        },
+        {
+          "user": "olessia.dsouza",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.6,
+      "count": 95,
+      "top_channels": [
+        {
+          "channel": "storefront-agent-buyer-experience",
+          "messages": 65
+        },
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 24
+        },
+        {
+          "channel": "web-component-working-group",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "dan.rosenthal",
+          "count": 4
+        },
+        {
+          "user": "olessia.dsouza",
+          "count": 4
+        },
+        {
+          "user": "sofia.matulis",
+          "count": 2
+        },
+        {
+          "user": "nick.lepine",
+          "count": 2
+        },
+        {
+          "user": "richard.poirier",
+          "count": 2
+        },
+        {
+          "user": "edmund.teh",
+          "count": 2
+        },
+        {
+          "user": "alex.cote",
+          "count": 2
+        },
+        {
+          "user": "keji.fasuyi",
+          "count": 1
+        },
+        {
+          "user": "jessica.huynh",
+          "count": 1
+        },
+        {
+          "user": "curtis.dulmage",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 2,
+      "21": 5,
+      "20": 15,
+      "18": 20,
+      "17": 8,
+      "14": 8,
+      "15": 12,
+      "19": 8,
+      "13": 7,
+      "16": 4,
+      "12": 2
+    },
+    "by_day": {
+      "Tuesday": 18,
+      "Thursday": 26,
+      "Wednesday": 25,
+      "Monday": 3,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.26,
+    "dept_average_30d": 5.79,
+    "dept_rank": 891,
+    "dept_size": 1233
+  }
+}

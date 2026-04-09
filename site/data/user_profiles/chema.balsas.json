@@ -1,0 +1,274 @@
+{
+  "username": "chema.balsas",
+  "name": "Chema Balsas",
+  "generated_at": "2026-04-08T20:22:23.803469",
+  "summary": {
+    "message_count": 848,
+    "channels_active": 45,
+    "unique_people_mentioned": 60,
+    "unique_mentioners": 27,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "appreciate it!! lmk if I can assist! won't be around much longer but will be back later!",
+          "channel": "fulfillment-atc-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I will be stepping out in 20 mins or so... do you want me to start it?",
+          "channel": "fulfillment-atc-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! will reach out to <@W018GBY7VV3> to see how to align on this!! :blobheart:",
+          "channel": "\u00e9quipe-tigre",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "no rush, <@W018HMBTA3U> , let's get this done the right way! appreciate you looking into it! just let me know if there\u2019s anything we can do to assist!",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "cc <@W018HMBTA3U>: <https://app.graphite.com/github/pr/shop/world/532623>. feel free to tag someone else for review! :blobheart:",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to :river: a quick change?",
+          "channel": "help-mobile-foundations",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I slightly parked this myself since you said you had tons of context, but let me know if you wanna :pear: or chat about this! would love to know more",
+          "channel": "tmp-river-dimensional-shipping",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0AEPQCKB3M>, can you find evidence in fedex docs or elsewhere about this range? are there other current patterns in carriers_db that would overlap?",
+          "channel": "proj-admin-carrier-detection",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> investigate <https://shopify.slack.com/archives/C01HHKW1K3K/p1774028519818739>\n\n## Context\nFedEx recently rolled over tracking number",
+          "channel": "tmp-river-carrier-detection",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "*[Na~t~ive order printing]* Hey tigres! Here's a <https://app.graphite.com/github/pr/shop/world/512118|very MVP PR> that brings native support for",
+          "channel": "\u00e9quipe-tigre",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>, Shipping profile/rate traceability deep dive + implementation\n*Goal* Implement (or prototype behind a flag) an *order-level",
+          "channel": "tmp-river-shipping-rates-analytics",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 64,
+      "top_mentioned": [
+        {
+          "user": "joshua.bee",
+          "count": 8
+        },
+        {
+          "user": "alex.gomez",
+          "count": 7
+        },
+        {
+          "user": "emily.rucker",
+          "count": 5
+        },
+        {
+          "user": "charlotte.poon",
+          "count": 5
+        },
+        {
+          "user": "alex.corr",
+          "count": 4
+        },
+        {
+          "user": "james.highfield",
+          "count": 4
+        },
+        {
+          "user": "carolina.pinzon",
+          "count": 3
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 3
+        },
+        {
+          "user": "fekadeab.dejene",
+          "count": 3
+        },
+        {
+          "user": "gale.shafer",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 449,
+      "top_channels": [
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 158
+        },
+        {
+          "channel": "deliver-river",
+          "messages": 121
+        },
+        {
+          "channel": "tmp-river-carrier-detection",
+          "messages": 75
+        },
+        {
+          "channel": "tmp-river-order-printer-to-core",
+          "messages": 68
+        },
+        {
+          "channel": "tmp-order-creation-for-product-network",
+          "messages": 44
+        },
+        {
+          "channel": "\u00e9quipe-tigre",
+          "messages": 41
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 39
+        },
+        {
+          "channel": "proj-uplift-shipping-settings",
+          "messages": 36
+        },
+        {
+          "channel": "proj-product-and-location-conditions-in-shipping-options",
+          "messages": 27
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 25
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "jenna.stephenswells",
+          "count": 6
+        },
+        {
+          "user": "reuben.sutton",
+          "count": 4
+        },
+        {
+          "user": "kush.patel",
+          "count": 3
+        },
+        {
+          "user": "alex.gomez",
+          "count": 3
+        },
+        {
+          "user": "emily.rucker",
+          "count": 3
+        },
+        {
+          "user": "fekadeab.dejene",
+          "count": 3
+        },
+        {
+          "user": "charlotte.poon",
+          "count": 3
+        },
+        {
+          "user": "hamish.morgan",
+          "count": 2
+        },
+        {
+          "user": "youssef.chahdoura",
+          "count": 2
+        },
+        {
+          "user": "alex.corr",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 96,
+      "12": 59,
+      "11": 104,
+      "8": 26,
+      "15": 102,
+      "9": 94,
+      "21": 48,
+      "20": 52,
+      "13": 60,
+      "22": 35,
+      "19": 15,
+      "18": 8,
+      "17": 12,
+      "16": 76,
+      "10": 47,
+      "23": 11,
+      "0": 3
+    },
+    "by_day": {
+      "Wednesday": 134,
+      "Tuesday": 210,
+      "Monday": 256,
+      "Friday": 98,
+      "Thursday": 150
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.25,
+    "dept_average_30d": 5.79,
+    "dept_rank": 293,
+    "dept_size": 1233
+  }
+}

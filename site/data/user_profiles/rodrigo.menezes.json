@@ -1,0 +1,273 @@
+{
+  "username": "rodrigo.menezes",
+  "name": "Rodrigo Menezes",
+  "generated_at": "2026-04-08T20:22:21.716598",
+  "summary": {
+    "message_count": 440,
+    "channels_active": 32,
+    "unique_people_mentioned": 59,
+    "unique_mentioners": 53,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 17,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I somehow completely missed this last week. Thank you for following up on this <@U0240HDEBFB>",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to trigger it and let me know and I'll keep an eye on prod.",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U09SE1JJYFL> :wave: We're working on multi-region capacity planning for index-serving and hoping to get some data to guide us.\n\nWhat we need",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No rush, thank you!",
+          "channel": "machine-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sorry folks, I'm juggling prod deployments and some other stuff so only looking at this as I get time. If you have cycles please feel free to",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Looks like it was merged already, thanks!\n\nYeah, I was thinking this might be it as I was trying to fall asleep yesterday. I also told you to go for",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to go ahead, let me know when you're done so I can restart some latency testing we're doing.",
+          "channel": "unified_query_rewriting",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Chase! So far things look good, we're finishing up a couple things and getting ready to validate one of the new clusters and cutover to it.",
+          "channel": "machine-migration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U095FS8PMM0> sounds like you got it handled! Let me know if you need me for anything.",
+          "channel": "unified_query_rewriting",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! We're still testing, will approve and merge when we're done.",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "(or whatever other DSL is appropriate, I just want clean metrics :stuck_out_tongue:)",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 61,
+      "top_mentioned": [
+        {
+          "user": "zhenfeng.yang",
+          "count": 13
+        },
+        {
+          "user": "chris.c.barnes",
+          "count": 10
+        },
+        {
+          "user": "felipe.besson",
+          "count": 10
+        },
+        {
+          "user": "chase.platon",
+          "count": 9
+        },
+        {
+          "user": "baiji.he",
+          "count": 8
+        },
+        {
+          "user": "brenda.segal",
+          "count": 6
+        },
+        {
+          "user": "isaac.sunoo",
+          "count": 6
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 6
+        },
+        {
+          "user": "helen.y.zhang",
+          "count": 6
+        },
+        {
+          "user": "regan.zhao",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.06,
+      "count": 241,
+      "top_channels": [
+        {
+          "channel": "search-engineering-shared",
+          "messages": 163
+        },
+        {
+          "channel": "proj-search-deployment-pipeline",
+          "messages": 55
+        },
+        {
+          "channel": "tmp-agent-vantage",
+          "messages": 27
+        },
+        {
+          "channel": "machine-migration",
+          "messages": 18
+        },
+        {
+          "channel": "proj-test-pilot-shared",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20442-catalog-api-high-latency",
+          "messages": 16
+        },
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 14
+        },
+        {
+          "channel": "search-catalog-capacity-planning",
+          "messages": 13
+        },
+        {
+          "channel": "google-cloud-finances",
+          "messages": 12
+        },
+        {
+          "channel": "unified_query_rewriting",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 210,
+      "top_mentioners": [
+        {
+          "user": "chris.c.barnes",
+          "count": 29
+        },
+        {
+          "user": "chase.platon",
+          "count": 19
+        },
+        {
+          "user": "zhenfeng.yang",
+          "count": 11
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 10
+        },
+        {
+          "user": "mingqin.li",
+          "count": 10
+        },
+        {
+          "user": "robert.adler",
+          "count": 9
+        },
+        {
+          "user": "alex.watt",
+          "count": 7
+        },
+        {
+          "user": "felipe.besson",
+          "count": 7
+        },
+        {
+          "user": "brenda.segal",
+          "count": 6
+        },
+        {
+          "user": "linjun.yang",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 33,
+      "0": 19,
+      "23": 36,
+      "22": 45,
+      "20": 25,
+      "19": 56,
+      "18": 63,
+      "17": 49,
+      "16": 50,
+      "6": 1,
+      "1": 5,
+      "21": 37,
+      "14": 8,
+      "3": 2,
+      "4": 5,
+      "2": 6
+    },
+    "by_day": {
+      "Wednesday": 47,
+      "Tuesday": 150,
+      "Monday": 61,
+      "Friday": 83,
+      "Thursday": 99
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.75,
+    "dept_average_30d": 5.79,
+    "dept_rank": 112,
+    "dept_size": 1233
+  }
+}

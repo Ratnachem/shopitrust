@@ -1,0 +1,272 @@
+{
+  "username": "nathaniel.fernandes",
+  "name": "Nathaniel Fernandes",
+  "generated_at": "2026-04-08T20:22:19.342332",
+  "summary": {
+    "message_count": 591,
+    "channels_active": 23,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if this doesnt work for any reason",
+          "channel": "help-balance",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U01TKRCGHC3> u want me to commit it on top or modify the commit?",
+          "channel": "proj-neobank-user-permissions",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I've gone ahead and created the new topic and will go ahead with the major bump, thanks!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! its merged",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It was, thank you :blobheart::team1:",
+          "channel": "proj-banking-cle-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll clean up the two (legacy) PAP legal_entity alerts",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :blobheart:",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> give me the query as json for what u want me to run",
+          "channel": "proj-neobank-user-permissions",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, nah you are correct. Our banking model has it as just address.",
+          "channel": "proj-banking-cle-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Its very quick to unblock these merchants, so please let me know if there are any others that I may of missed or need to fast track",
+          "channel": "inv-20709-core-bankingonboardinginitiations-are-not",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so I think whatever was going on, on their end is starting to recover",
+          "channel": "inc-20655-onboarding-completion-rate-dropped",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "haotian.chen",
+          "count": 28
+        },
+        {
+          "user": "mamoun.saudi",
+          "count": 11
+        },
+        {
+          "user": "kevin.ardian",
+          "count": 10
+        },
+        {
+          "user": "angus.kwong",
+          "count": 9
+        },
+        {
+          "user": "renee.ren",
+          "count": 7
+        },
+        {
+          "user": "christopher.ermel",
+          "count": 7
+        },
+        {
+          "user": "kyle.cogger",
+          "count": 5
+        },
+        {
+          "user": "maribel.romo",
+          "count": 5
+        },
+        {
+          "user": "hajar.niamehr",
+          "count": 5
+        },
+        {
+          "user": "megan.boudreau",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.15,
+      "count": 140,
+      "top_channels": [
+        {
+          "channel": "proj-banking-cle-migration",
+          "messages": 241
+        },
+        {
+          "channel": "help-balance",
+          "messages": 47
+        },
+        {
+          "channel": "banking-dev",
+          "messages": 43
+        },
+        {
+          "channel": "proj-neobank-user-permissions",
+          "messages": 41
+        },
+        {
+          "channel": "inv-20629-merchants-stuck-in-balance-onboarding-due",
+          "messages": 37
+        },
+        {
+          "channel": "proj-decouple-shop-neobank",
+          "messages": 33
+        },
+        {
+          "channel": "proj-pap-data-removal",
+          "messages": 29
+        },
+        {
+          "channel": "inv-20709-core-bankingonboardinginitiations-are-not",
+          "messages": 26
+        },
+        {
+          "channel": "balance-exceptions",
+          "messages": 22
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 101,
+      "top_mentioners": [
+        {
+          "user": "michael.elfassy",
+          "count": 19
+        },
+        {
+          "user": "haotian.chen",
+          "count": 17
+        },
+        {
+          "user": "mamoun.saudi",
+          "count": 10
+        },
+        {
+          "user": "christopher.ermel",
+          "count": 8
+        },
+        {
+          "user": "maribel.romo",
+          "count": 6
+        },
+        {
+          "user": "angus.kwong",
+          "count": 5
+        },
+        {
+          "user": "kyle.cogger",
+          "count": 4
+        },
+        {
+          "user": "renee.ren",
+          "count": 4
+        },
+        {
+          "user": "anthony.moffa",
+          "count": 4
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 55,
+      "14": 71,
+      "13": 72,
+      "20": 62,
+      "12": 34,
+      "21": 34,
+      "19": 76,
+      "18": 52,
+      "17": 42,
+      "15": 79,
+      "7": 1,
+      "2": 4,
+      "1": 1,
+      "0": 1,
+      "22": 7
+    },
+    "by_day": {
+      "Wednesday": 155,
+      "Tuesday": 103,
+      "Monday": 94,
+      "Friday": 90,
+      "Thursday": 149
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.52,
+    "dept_average_30d": 5.77,
+    "dept_rank": 109,
+    "dept_size": 885
+  }
+}

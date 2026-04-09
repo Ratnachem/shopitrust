@@ -1,0 +1,306 @@
+{
+  "username": "cole.pilegard",
+  "name": "Cole Pilegard",
+  "generated_at": "2026-04-08T20:22:10.501897",
+  "summary": {
+    "message_count": 461,
+    "channels_active": 14,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 19,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": ":important: While I'm out next week I think you all have a handle on things and I'm looking forward to seeing what gets shipped! I'm going to give",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197GS6EAU> <@U0266AJ4ZHP> let me know if there's someone else I should talk to, but I can't figure out how to add the staging/production ejson",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Sorry if I should know this info, but am I clear to merge these or do I need an admin to go ahead with that?",
+          "channel": "help-ris",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197GS6EAU> <@U0266AJ4ZHP> let me know if you need any help putting together resources/diagrams on what we want to bring to Coalfire on this. You",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U020XBELRFS>! I'll get a pci dev to re-review that one and then will follow up.",
+          "channel": "help-ris",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi folks, I'm looking for reviews on the following 3 cardserver PRs. Let me know if you have any questions, thanks!\n:eyes:",
+          "channel": "help-ris",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi folks, I'm looking for reviews on the following 3 cardserver PRs. Let me know if you have any questions, thanks!\n:eyes:",
+          "channel": "help-ris",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi folks, I wanted to provide visibility that we are adding several new HTTP (REST-like) endpoints for our payment gateway project. These endpoints",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "(feel free to unsubscribe)",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to talk me down from this ledge, but the more I think about it, I wonder if we even need an intermediate state at all...\n\nIn Full EMV or",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't know if this instinct is right or not yet, but it's starting to feel messy if we're sending TLV data to both PCI and Core. I don't know if",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We could add an endpoint that proves POS can reach Core as the most naive version of this. That could be expanded to things like checking DB health",
+          "channel": "card-present-payment-gateway-central",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "It sounds like we _can_, we're just blocked by PCI PIN until we figure it out",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For the routing decision, a lot of the previous conversation was driven by needing to know the sophistication level of routing we'd need to help",
+          "channel": "card-present-payment-gateway-central",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So in my mind this response is not an intermediate response necessarily, but represents the \"issuer result\". Whatever entry method, and whether it",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "My argument for this whole thing has boiled down to just that: if we need to send something like `key_stripe_pin_zpk` (or whatever name it is, its",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "joel.kerfoot",
+          "count": 14
+        },
+        {
+          "user": "nick.smith",
+          "count": 13
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 13
+        },
+        {
+          "user": "david.hou",
+          "count": 13
+        },
+        {
+          "user": "nima.namjouy",
+          "count": 10
+        },
+        {
+          "user": "riley.shott",
+          "count": 6
+        },
+        {
+          "user": "jason.hoos",
+          "count": 6
+        },
+        {
+          "user": "samuel.beshara",
+          "count": 6
+        },
+        {
+          "user": "saki.futamura",
+          "count": 5
+        },
+        {
+          "user": "mojan.jamalzadeh",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.56,
+      "count": 320,
+      "top_channels": [
+        {
+          "channel": "proj-payments-card-present-emv",
+          "messages": 300
+        },
+        {
+          "channel": "card-present-payment-gateway-central",
+          "messages": 94
+        },
+        {
+          "channel": "help-ris",
+          "messages": 16
+        },
+        {
+          "channel": "pp-retail-payment-processing-river-sandbox",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20643-paypal-is-seeing-a-significant-drop-in-vo",
+          "messages": 8
+        },
+        {
+          "channel": "retail-payments",
+          "messages": 5
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 5
+        },
+        {
+          "channel": "inc-20641-gcp-packet-loss-us-ea1",
+          "messages": 4
+        },
+        {
+          "channel": "shared-shopify-retail-adyen",
+          "messages": 4
+        },
+        {
+          "channel": "help-retail-payments",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "angie.elmamlouk",
+          "count": 9
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 7
+        },
+        {
+          "user": "nick.smith",
+          "count": 7
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 3
+        },
+        {
+          "user": "erik.labbe",
+          "count": 3
+        },
+        {
+          "user": "riley.shott",
+          "count": 3
+        },
+        {
+          "user": "nima.namjouy",
+          "count": 3
+        },
+        {
+          "user": "simon.bats",
+          "count": 3
+        },
+        {
+          "user": "joel.kerfoot",
+          "count": 3
+        },
+        {
+          "user": "kyro.nassif",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 42,
+      "17": 21,
+      "16": 72,
+      "3": 2,
+      "23": 46,
+      "22": 49,
+      "21": 78,
+      "20": 34,
+      "19": 30,
+      "14": 14,
+      "0": 4,
+      "15": 64,
+      "2": 1,
+      "1": 4
+    },
+    "by_day": {
+      "Wednesday": 123,
+      "Tuesday": 75,
+      "Monday": 74,
+      "Friday": 73,
+      "Thursday": 116
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.01,
+    "dept_average_30d": 5.77,
+    "dept_rank": 298,
+    "dept_size": 885
+  }
+}

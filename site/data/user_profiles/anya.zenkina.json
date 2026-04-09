@@ -1,0 +1,266 @@
+{
+  "username": "anya.zenkina",
+  "name": "Anya Zenkina",
+  "generated_at": "2026-04-08T20:22:14.019446",
+  "summary": {
+    "message_count": 202,
+    "channels_active": 19,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 19,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great news! thanks!",
+          "channel": "growth-onboarding-guidance",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I'll let them know",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect! I\u2019ll post im the channel once we start it and when it\u2019s finished! Thank you!",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey Kazuki, thanks! I can see the invite is for Wednesday 8April. I was actually planning to do migration today (Wednesday, 1April), apologies, I",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "omg amazing!",
+          "channel": "growth-onboarding-guidance",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave-c: Hi Team! Starting with `identity_client` gem version `58.3.0`, identity configuration will be read from a mounted ConfigMap instead of",
+          "channel": "growth-onboarding-guidance",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Hi Travis, no worries! This\u2019d be amazing if you could do it yourselves!  :high5:Otherwise, I was planning on doing this myself for your app tomorrow ",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Readme will definitely help. Also, it might be better to name it as PLAYBOOK.md if there are some tricky steps regarding the deploy of this app or",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks! Just a quick update.\n\nI've tested the `\"58.3.0.pre.beta.1\"` with `accio/staging`, found a few bugs -&gt; fixed it -&gt; everything seems",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "migratrion is done. Let me know if you see something weird",
+          "channel": "appsec-breakers",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "tanner.bruce",
+          "count": 3
+        },
+        {
+          "user": "jacob.lott",
+          "count": 2
+        },
+        {
+          "user": "david.park",
+          "count": 2
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 2
+        },
+        {
+          "user": "sam.handler",
+          "count": 2
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 1
+        },
+        {
+          "user": "eric.yang",
+          "count": 1
+        },
+        {
+          "user": "owen.cummings",
+          "count": 1
+        },
+        {
+          "user": "james.hall",
+          "count": 1
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.54,
+      "count": 266,
+      "top_channels": [
+        {
+          "channel": "app-infra-gke-134",
+          "messages": 59
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 21
+        },
+        {
+          "channel": "growth-onboarding-guidance",
+          "messages": 17
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 13
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 12
+        },
+        {
+          "channel": "appsec-breakers",
+          "messages": 10
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 10
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 9
+        },
+        {
+          "channel": "proj-infra-shopify-secrets",
+          "messages": 8
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "david.park",
+          "count": 4
+        },
+        {
+          "user": "james.hall",
+          "count": 4
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 3
+        },
+        {
+          "user": "jacob.lott",
+          "count": 2
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "kevin.norman",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "kazuki.higashiguchi",
+          "count": 1
+        },
+        {
+          "user": "travis.hartwell",
+          "count": 1
+        },
+        {
+          "user": "felipe.saez",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 17,
+      "17": 33,
+      "16": 38,
+      "22": 7,
+      "21": 18,
+      "20": 34,
+      "19": 16,
+      "15": 17,
+      "14": 11,
+      "10": 2,
+      "9": 2,
+      "12": 1,
+      "13": 1,
+      "2": 1,
+      "23": 2,
+      "0": 1,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 72,
+      "Monday": 31,
+      "Thursday": 15,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.92,
+    "dept_average_30d": 5.75,
+    "dept_rank": 130,
+    "dept_size": 357
+  }
+}

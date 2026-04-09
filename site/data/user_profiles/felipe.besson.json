@@ -1,0 +1,300 @@
+{
+  "username": "felipe.besson",
+  "name": "Felipe Besson",
+  "generated_at": "2026-04-08T20:22:12.169323",
+  "summary": {
+    "message_count": 494,
+    "channels_active": 20,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.1,
+      "pos_count": 16,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U08DAG934TF>",
+          "channel": "search-relevance-metrics-v-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U09HTCLKNS0> I've created a <https://docs.google.com/document/d/1iAkmxyln572Gnskx6DawN5pjym0VoeJmFRMxAtdOHRE/edit?tab=t.0|Bug bash document> based",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Can you please ping Joe to review them? We have a very tight timeline.\n<@W019MB6R5SA> when you get online, can you please review it (if it's",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "> I am speculating on how this could have not been triggered on staging, operators running in parallel... it could happen that one (or more) of them",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; the reason for this not showing on staging is probably because there are some latencies that aligned in such way that the operators were",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you all for helping to debug it! :slightly_smiling_face:",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "sorry, just to confirm. These messages (<https://shopify.slack.com/archives/C4TLSBDHA/p1774441989002209|ref>) is when the deployment starts right?",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Well deserved! Congratulations <@U02NQST3CRL>!! :rocket_animated:",
+          "channel": "search-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey folks! Can we please have a review on this PR\n<https://github.com/Shopify/shop-server/pull/148160>?\n\nIt fixes a pagination bug in the current DNN",
+          "channel": "search-serving-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02NQST3CRL>!",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "For mplus, as I mentioned <https://shopify.slack.com/archives/C08HLG44UHX/p1773951412717369|here> , the baseline with QR in production is 74.3 for",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "Hi <@U08HLJQDKND>! I got FP for L2 (screenshot above) and L3 (the same as before). But as I mentioned we measured L2 and L3 FP separately today. I",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I can but isn't useless test things on staging? as it has the shard server bug?",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "&gt; <@U01R93900G0>, do you have the weight change in your DSL? Do you see the drop there as well?\nWe don't have it as I mentioned",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "&gt; OK, I can help create that broker DSL. Do you need both of them?\ngood point <@U09CDACP81F> . I think we should test only the one with QR but not",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "jingyi.guo",
+          "count": 48
+        },
+        {
+          "user": "bhavika.tekwani",
+          "count": 45
+        },
+        {
+          "user": "regan.zhao",
+          "count": 19
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 17
+        },
+        {
+          "user": "noah.frank",
+          "count": 17
+        },
+        {
+          "user": "dexter.fichuk",
+          "count": 16
+        },
+        {
+          "user": "igor.kil",
+          "count": 13
+        },
+        {
+          "user": "zheng.zhang",
+          "count": 10
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 9
+        },
+        {
+          "user": "caroline.lee",
+          "count": 9
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.88,
+      "count": 231,
+      "top_channels": [
+        {
+          "channel": "proj-dnn-ranker",
+          "messages": 256
+        },
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 141
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 25
+        },
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 16
+        },
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 10
+        },
+        {
+          "channel": "search-team",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "messages": 6
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 5
+        },
+        {
+          "channel": "help-search-tooling",
+          "messages": 4
+        },
+        {
+          "channel": "search-relevance-metrics-v-team",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 151,
+      "top_mentioners": [
+        {
+          "user": "jingyi.guo",
+          "count": 32
+        },
+        {
+          "user": "noah.frank",
+          "count": 14
+        },
+        {
+          "user": "regan.zhao",
+          "count": 13
+        },
+        {
+          "user": "bhavika.tekwani",
+          "count": 13
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 10
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 8
+        },
+        {
+          "user": "sid.somani",
+          "count": 8
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 7
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 7
+        },
+        {
+          "user": "dexter.fichuk",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 64,
+      "16": 40,
+      "15": 33,
+      "0": 6,
+      "22": 14,
+      "21": 57,
+      "20": 90,
+      "17": 33,
+      "13": 37,
+      "19": 64,
+      "14": 31,
+      "1": 7,
+      "23": 10,
+      "12": 7,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 119,
+      "Tuesday": 116,
+      "Friday": 80,
+      "Thursday": 78,
+      "Monday": 101
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.79,
+    "dept_average_30d": 5.79,
+    "dept_rank": 577,
+    "dept_size": 1233
+  }
+}

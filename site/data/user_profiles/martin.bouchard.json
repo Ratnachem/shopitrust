@@ -1,0 +1,261 @@
+{
+  "username": "martin.bouchard",
+  "name": "Martin Bouchard",
+  "generated_at": "2026-04-08T20:22:06.356395",
+  "summary": {
+    "message_count": 824,
+    "channels_active": 19,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 2.8,
+      "pos_count": 3,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! will come back to you",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to your push for better alert Jeff we avoided the same problem again",
+          "channel": "mm-ads-channels",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that",
+          "channel": "ads-campaigns-engine-ops",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "i think we don't care about that merchant onboarding",
+          "channel": "ad-network-connectivity-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "seem whatever i do i always get back to that error",
+          "channel": "dev-up",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "but we send a response so you should have the result of this request",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "but about that `has_failed_operations` i do think it is useless, i think we can safely remove it. It scan to check if there is something to do to",
+          "channel": "mm-ads-channels",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "bah it's a useless test anyway we do see in observe it timeout but i don't know if it does affect the processing of batch",
+          "channel": "mm-ads-channels",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I m directly quoting corey here, when i asked if setting the conversion goal to only purchase was enough to guide the campaign to not waste time on",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "ryan.ferguson",
+          "count": 9
+        },
+        {
+          "user": "nathan.wenneker",
+          "count": 6
+        },
+        {
+          "user": "yunsheng.qi",
+          "count": 6
+        },
+        {
+          "user": "hovo.khachikyan",
+          "count": 5
+        },
+        {
+          "user": "laura.idziszek",
+          "count": 4
+        },
+        {
+          "user": "jacky.cai",
+          "count": 4
+        },
+        {
+          "user": "wuang.qin",
+          "count": 4
+        },
+        {
+          "user": "sachin.malhotra",
+          "count": 4
+        },
+        {
+          "user": "joel.dmello",
+          "count": 2
+        },
+        {
+          "user": "travis.allan",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.29,
+      "count": 200,
+      "top_channels": [
+        {
+          "channel": "proj-3p-automation-autopilot",
+          "messages": 424
+        },
+        {
+          "channel": "ad-network-connectivity-ops",
+          "messages": 114
+        },
+        {
+          "channel": "mm-ads-channels",
+          "messages": 107
+        },
+        {
+          "channel": "proj-autopilot",
+          "messages": 93
+        },
+        {
+          "channel": "proj-autopilot-ux-pillar",
+          "messages": 15
+        },
+        {
+          "channel": "ads-campaigns-engine-ops",
+          "messages": 13
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 11
+        },
+        {
+          "channel": "dev-up",
+          "messages": 10
+        },
+        {
+          "channel": "proj-sidekick-autopilot",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20722-queries-to-adsanccatalogoperations-causin",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 102,
+      "top_mentioners": [
+        {
+          "user": "wuang.qin",
+          "count": 11
+        },
+        {
+          "user": "yunsheng.qi",
+          "count": 10
+        },
+        {
+          "user": "hovo.khachikyan",
+          "count": 8
+        },
+        {
+          "user": "leo.shen",
+          "count": 7
+        },
+        {
+          "user": "nathan.wenneker",
+          "count": 7
+        },
+        {
+          "user": "shuo.chen",
+          "count": 7
+        },
+        {
+          "user": "jacky.cai",
+          "count": 6
+        },
+        {
+          "user": "laura.idziszek",
+          "count": 5
+        },
+        {
+          "user": "renxia.wang",
+          "count": 5
+        },
+        {
+          "user": "ryan.ferguson",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 67,
+      "17": 57,
+      "16": 44,
+      "15": 81,
+      "14": 75,
+      "22": 51,
+      "21": 56,
+      "20": 99,
+      "19": 70,
+      "11": 8,
+      "0": 29,
+      "12": 25,
+      "13": 75,
+      "3": 15,
+      "1": 35,
+      "23": 27,
+      "2": 9,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 166,
+      "Tuesday": 223,
+      "Monday": 129,
+      "Friday": 73,
+      "Thursday": 233
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.46,
+    "dept_average_30d": 5.77,
+    "dept_rank": 130,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "username": "michelle.gerni",
+  "name": "Michelle Gerni",
+  "generated_at": "2026-04-08T20:22:30.385898",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 3,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the update, I must have missed that this morning!",
+          "channel": "ato-response",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay, thank you.",
+          "channel": "ato-response",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I will reach out to the merchants today. Thank you for looking <@W018PSSTNMS>",
+          "channel": "ato-response",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "karan.malik",
+          "count": 2
+        },
+        {
+          "user": "thomas.paloheimo",
+          "count": 2
+        },
+        {
+          "user": "parshan.kabiri",
+          "count": 1
+        },
+        {
+          "user": "chloe.miller",
+          "count": 1
+        },
+        {
+          "user": "adam.gabert",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.32,
+      "count": 114,
+      "top_channels": [
+        {
+          "channel": "ato-response",
+          "messages": 8
+        },
+        {
+          "channel": "help-capital-engineering",
+          "messages": 1
+        },
+        {
+          "channel": "help-onboarding-foundations",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "karan.malik",
+          "count": 2
+        },
+        {
+          "user": "thomas.paloheimo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 2,
+      "20": 1,
+      "13": 2,
+      "19": 1,
+      "17": 3,
+      "16": 1
+    },
+    "by_day": {
+      "Thursday": 1,
+      "Tuesday": 3,
+      "Monday": 4,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.98,
+    "dept_average_30d": 4.32,
+    "dept_rank": 540,
+    "dept_size": 848
+  }
+}

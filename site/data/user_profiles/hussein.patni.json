@@ -1,0 +1,306 @@
+{
+  "username": "hussein.patni",
+  "name": "Hussein Patni",
+  "generated_at": "2026-04-08T20:22:22.162284",
+  "summary": {
+    "message_count": 449,
+    "channels_active": 24,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 17,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to the DLQ we\u2019re able to see that this is at least in part due to the `techOMS` app being installed across many shops, causing a similar",
+          "channel": "inv-21063-melody-intermittent-high-cdp-attribute-er",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "```SELECT TIMESTAMP_TRUNC(event_timestamp, DAY), count(*) FROM `sdp-ingest.monorail.monorail_melody_attribute_sink_dlq_1` \nwhere event_timestamp &gt;",
+          "channel": "inv-21063-melody-intermittent-high-cdp-attribute-er",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "melody-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I think I can help you with that",
+          "channel": "help-melody",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The latest state is its disabled in that pipeline.  That's not the only pipeline that sets attributes - so the implementation is very incomplete.",
+          "channel": "temp-melody-dataplex-integration",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02CWVBV0KS> can you grab some time with <@U030ZG4H89G> and I on Monday / early next week?\n\nWe have some poorly constructed terraform modules in",
+          "channel": "help-melody",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah, thank you <@U097CUD4G9F>, should have familiarized myself with your process better. Ping me at any point today if you want eyes / hands; I can",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing. cc: <@U032UEQUJ5U> this is maybe a product question about this feature in general. This was used to sync (mulitrack token segment data to",
+          "channel": "melody-cdp-ops",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Cool - thanks! yeah I\u2019ll ping their deployment ATC once I get a working build: <https://app.graphite.com/github/pr/Shopify/shop-server/145555>\n\nOnly",
+          "channel": "proj-melody-shop-app-user-uuid-migration",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, this will make it so much easier to organize / update / keep accurate",
+          "channel": "melody-team",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "seems likely that the contention is on a hot shop. This leads me to think that the underlying problem is the same one we\u2019ve hack-addressed several",
+          "channel": "inv-21063-melody-intermittent-high-cdp-attribute-er",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W0182VBMFTR>  The underlying data you\u2019re referencing is not in a shape that you can optimize this query for; you\u2019re effectively modelling in",
+          "channel": "help-melody",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Totally fair. I think that dashboard highlights all model usage. I think use whatever makes sense, but if the vast majority of what you\u2019re doing",
+          "channel": "melody-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "My plan, as I mentioned above, was not to stop at that point, but to continue by updating both to use Users- but not relying on that scaling or",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Oh, this is actually easy to explain. It\u2019s the `shopify_user_id` in the matching of candidates and the long tail of cases where a single user",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "That\u2019s on us <@U02EVFV2SR4>. I\u2019ve disabled them now. You should have been able to - that\u2019s a bug on our end and we\u2019ll get it resolved",
+          "channel": "inc-20105-melody-segment-flag-producing-wrong-membe",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 48,
+      "top_mentioned": [
+        {
+          "user": "daniel.newbury",
+          "count": 19
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 14
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 7
+        },
+        {
+          "user": "jake.anderson",
+          "count": 6
+        },
+        {
+          "user": "ramses.lopez",
+          "count": 6
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 5
+        },
+        {
+          "user": "chand.bud",
+          "count": 4
+        },
+        {
+          "user": "dave.benvenuti",
+          "count": 4
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 3
+        },
+        {
+          "user": "mark.blum",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.46,
+      "count": 209,
+      "top_channels": [
+        {
+          "channel": "melody-team",
+          "messages": 126
+        },
+        {
+          "channel": "inc-20105-melody-segment-flag-producing-wrong-membe",
+          "messages": 66
+        },
+        {
+          "channel": "melody-cdp-ops",
+          "messages": 45
+        },
+        {
+          "channel": "help-melody",
+          "messages": 36
+        },
+        {
+          "channel": "proj-migrate-melody-flink",
+          "messages": 35
+        },
+        {
+          "channel": "inv-21063-melody-intermittent-high-cdp-attribute-er",
+          "messages": 23
+        },
+        {
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "messages": 22
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 17
+        },
+        {
+          "channel": "proj-melody-shop-app-user-uuid-migration",
+          "messages": 16
+        },
+        {
+          "channel": "inc-19967-melody-hedwig-out-of-memory",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "daniel.newbury",
+          "count": 13
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 8
+        },
+        {
+          "user": "jake.anderson",
+          "count": 7
+        },
+        {
+          "user": "eugene.katella",
+          "count": 6
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 5
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 5
+        },
+        {
+          "user": "dave.benvenuti",
+          "count": 5
+        },
+        {
+          "user": "mark.blum",
+          "count": 4
+        },
+        {
+          "user": "nana.mathis",
+          "count": 3
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 31,
+      "17": 58,
+      "16": 32,
+      "19": 41,
+      "14": 33,
+      "0": 19,
+      "23": 9,
+      "21": 36,
+      "20": 39,
+      "18": 78,
+      "2": 6,
+      "22": 30,
+      "1": 32,
+      "13": 5
+    },
+    "by_day": {
+      "Wednesday": 85,
+      "Tuesday": 75,
+      "Monday": 41,
+      "Friday": 134,
+      "Thursday": 114
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.67,
+    "dept_average_30d": 5.58,
+    "dept_rank": 32,
+    "dept_size": 398
+  }
+}

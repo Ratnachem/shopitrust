@@ -1,0 +1,256 @@
+{
+  "username": "simson.chiu",
+  "name": "Simson Chiu",
+  "generated_at": "2026-04-08T20:22:29.820790",
+  "summary": {
+    "message_count": 140,
+    "channels_active": 9,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.7,
+      "pos_count": 27,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Ryan, sorry missed your message. By \"gross adds\", I'm assuming you mean signups (shop_created_at)?\n\nI  started a query here that might get what",
+          "channel": "help-cti-data",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes please thank you!",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome thanks! cc: <@W018HUHHKKM>",
+          "channel": "proj-scale-pendingtermination",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi - just a heads up that we'll be updating the source for `shop_loss_metrics_daily_summary` (and `shop_loss_metrics__wide`) to use the new",
+          "channel": "help-merchant-fraud-risk-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Okay I approved <https://app.graphite.com/github/pr/Shopify/cti-data/6950|the PR >after it passed the data tests. thanks! cc: <@U08MYPUVACT>",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Not that I know of. T\nI'm thinking it might be related to the failure at",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02DDCURN4F> - is this alert accurate?\nWhen clicking on the GCP link in observe I see that the",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I logged the decision here: <https://vault.shopify.io/gsd/decisions/10802>\nLet me know if you have any feedback!",
+          "channel": "proj-scale-pendingtermination",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I check the `data-warehouse` and didn't find any usage of the `payables` table by us.\nThe only one I found is this `base__stg_billing_payables`",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi I have a question on  `partner_developer_activity_events` \u2014 it's currently set to a 48h timeliness threshold and is",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "mark.chmilar",
+          "count": 5
+        },
+        {
+          "user": "tyler.cosgrove",
+          "count": 4
+        },
+        {
+          "user": "merlin.davies",
+          "count": 4
+        },
+        {
+          "user": "ali.imad",
+          "count": 4
+        },
+        {
+          "user": "taher.elsheikh",
+          "count": 3
+        },
+        {
+          "user": "tony.kim",
+          "count": 3
+        },
+        {
+          "user": "alexandre.sauve",
+          "count": 3
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 3
+        },
+        {
+          "user": "florian.conrady",
+          "count": 2
+        },
+        {
+          "user": "jarvis.kay",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.33,
+      "count": 88,
+      "top_channels": [
+        {
+          "channel": "help-cti-data",
+          "messages": 74
+        },
+        {
+          "channel": "proj-scale-pendingtermination",
+          "messages": 35
+        },
+        {
+          "channel": "help-merchant-fraud-risk-data",
+          "messages": 10
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 9
+        },
+        {
+          "channel": "cti-data-alerts",
+          "messages": 4
+        },
+        {
+          "channel": "simson-river-public",
+          "messages": 2
+        },
+        {
+          "channel": "tmp-fraud-plan-name-data-migration",
+          "messages": 2
+        },
+        {
+          "channel": "dw-risk-monitoring",
+          "messages": 2
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "alexandre.sauve",
+          "count": 16
+        },
+        {
+          "user": "tony.kim",
+          "count": 13
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 5
+        },
+        {
+          "user": "shonagh.lydenelleray",
+          "count": 4
+        },
+        {
+          "user": "merlin.davies",
+          "count": 4
+        },
+        {
+          "user": "mark.chmilar",
+          "count": 4
+        },
+        {
+          "user": "alex.babinski",
+          "count": 3
+        },
+        {
+          "user": "tyler.cosgrove",
+          "count": 3
+        },
+        {
+          "user": "ali.imad",
+          "count": 3
+        },
+        {
+          "user": "mitch.hamlyn",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 17,
+      "16": 28,
+      "20": 13,
+      "17": 27,
+      "21": 8,
+      "15": 24,
+      "18": 11,
+      "23": 4,
+      "14": 2,
+      "0": 3,
+      "22": 3
+    },
+    "by_day": {
+      "Friday": 18,
+      "Thursday": 30,
+      "Wednesday": 24,
+      "Tuesday": 37,
+      "Monday": 31
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.1,
+    "dept_average_30d": 5.39,
+    "dept_rank": 162,
+    "dept_size": 272
+  }
+}

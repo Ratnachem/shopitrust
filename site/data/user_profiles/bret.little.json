@@ -1,0 +1,237 @@
+{
+  "username": "bret.little",
+  "name": "Bret Little",
+  "generated_at": "2026-04-08T20:22:20.213971",
+  "summary": {
+    "message_count": 362,
+    "channels_active": 13,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "proj-sidekick-dynamic-home",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Andres!",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I just don't think it makes sense to try and support _everything_ that a two column card could do. For example this card has the following data:\n\n1.",
+          "channel": "proj-sidekick-dynamic-home",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "Maybe, my point is I don't think right now it's worth the hassle to deal with it given the time frame",
+          "channel": "proj-sidekick-dynamic-home",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":100:  Just treat this as a new rendering engine for the existing data pipeline. And if we need to massage the data slightly differently for whatever",
+          "channel": "proj-analytics-sidekick-home",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "octav.druta",
+          "count": 12
+        },
+        {
+          "user": "jose.torre",
+          "count": 12
+        },
+        {
+          "user": "mike.richards",
+          "count": 11
+        },
+        {
+          "user": "andres.hernandez",
+          "count": 8
+        },
+        {
+          "user": "jorge.nunezsiri",
+          "count": 2
+        },
+        {
+          "user": "dustin.malik",
+          "count": 2
+        },
+        {
+          "user": "camilo.zambrano",
+          "count": 1
+        },
+        {
+          "user": "elliot.rosen",
+          "count": 1
+        },
+        {
+          "user": "stephan.leroux",
+          "count": 1
+        },
+        {
+          "user": "alex.bankoff",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.88,
+      "count": 231,
+      "top_channels": [
+        {
+          "channel": "proj-sidekick-dynamic-home",
+          "messages": 168
+        },
+        {
+          "channel": "proj-sidekick-pulse",
+          "messages": 57
+        },
+        {
+          "channel": "editions-mobile-home",
+          "messages": 56
+        },
+        {
+          "channel": "home-next-eng",
+          "messages": 28
+        },
+        {
+          "channel": "big-agent-small-agent",
+          "messages": 20
+        },
+        {
+          "channel": "proj-analytics-sidekick-home",
+          "messages": 12
+        },
+        {
+          "channel": "proj-sidekick-home-aim",
+          "messages": 8
+        },
+        {
+          "channel": "headless-dev",
+          "messages": 4
+        },
+        {
+          "channel": "sidekick-staging",
+          "messages": 3
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 108,
+      "top_mentioners": [
+        {
+          "user": "octav.druta",
+          "count": 31
+        },
+        {
+          "user": "elliot.rosen",
+          "count": 9
+        },
+        {
+          "user": "mike.richards",
+          "count": 7
+        },
+        {
+          "user": "jose.torre",
+          "count": 5
+        },
+        {
+          "user": "andres.hernandez",
+          "count": 5
+        },
+        {
+          "user": "stephan.leroux",
+          "count": 4
+        },
+        {
+          "user": "adam.steel",
+          "count": 4
+        },
+        {
+          "user": "jorge.nunezsiri",
+          "count": 4
+        },
+        {
+          "user": "jaskar.dhillon",
+          "count": 4
+        },
+        {
+          "user": "david.park",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 43,
+      "10": 2,
+      "0": 4,
+      "23": 33,
+      "22": 9,
+      "20": 45,
+      "18": 35,
+      "21": 33,
+      "14": 31,
+      "17": 27,
+      "12": 6,
+      "19": 26,
+      "13": 7,
+      "15": 51,
+      "1": 10
+    },
+    "by_day": {
+      "Wednesday": 110,
+      "Tuesday": 115,
+      "Monday": 60,
+      "Friday": 30,
+      "Thursday": 47
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.83,
+    "dept_average_30d": 5.79,
+    "dept_rank": 563,
+    "dept_size": 1233
+  }
+}

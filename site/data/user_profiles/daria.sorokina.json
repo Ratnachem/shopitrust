@@ -1,0 +1,189 @@
+{
+  "username": "daria.sorokina",
+  "name": "Daria Sorokina",
+  "generated_at": "2026-04-08T20:22:29.730620",
+  "summary": {
+    "message_count": 142,
+    "channels_active": 4,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Nice, thank you!",
+          "channel": "tangle",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Cool, thanks! Do we have a writeup anywhere on how it is calculated? It says Fair Pairs, but it can't be original Radlinski &amp; Joachims Fair",
+          "channel": "commerce-foundation-model",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! And for those who missed it, here is the highlight of the discussion in the comments on how to install Pete",
+          "channel": "search-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U08JX612SUQ> Here is my implementation, running it now.\n<https://app.graphite.com/github/pr/shop/world/544468#:~:text=/backends/-,base,-.py>\n(I",
+          "channel": "tmp-unified-distillation-platform-for-search",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U08JX612SUQ> <@U08PVF2AEGL> take a look if this make sense: <https://app.graphite.com/github/pr/shop/world/544468>\nFor parallelism, I am setting",
+          "channel": "tmp-unified-distillation-platform-for-search",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "OK, the log mistery resolved - thanks!\nHowever, something still is not right. In the single node mode the training completed under two hours. This",
+          "channel": "tangle",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! That's very useful.",
+          "channel": "tangle",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "No, that's a single node run, so whatever fix I was trying to multinode would not have impact here",
+          "channel": "tmp-unified-distillation-platform-for-search",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "shuying.sun",
+          "count": 6
+        },
+        {
+          "user": "shane.moran",
+          "count": 5
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 1
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "tmp-unified-distillation-platform-for-search",
+          "messages": 79
+        },
+        {
+          "channel": "commerce-foundation-model",
+          "messages": 37
+        },
+        {
+          "channel": "tangle",
+          "messages": 24
+        },
+        {
+          "channel": "search-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "shane.moran",
+          "count": 14
+        },
+        {
+          "user": "shuying.sun",
+          "count": 9
+        },
+        {
+          "user": "yuechao.qin",
+          "count": 8
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 2
+        },
+        {
+          "user": "juhana.kangaspunta",
+          "count": 1
+        },
+        {
+          "user": "joe.lin",
+          "count": 1
+        },
+        {
+          "user": "maxim.ezhov",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 12,
+      "19": 20,
+      "18": 12,
+      "17": 33,
+      "16": 6,
+      "21": 18,
+      "0": 5,
+      "23": 6,
+      "15": 9,
+      "20": 7,
+      "14": 10,
+      "4": 1,
+      "3": 3
+    },
+    "by_day": {
+      "Friday": 40,
+      "Thursday": 14,
+      "Wednesday": 17,
+      "Tuesday": 53,
+      "Monday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.14,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1188,
+    "dept_size": 1233
+  }
+}

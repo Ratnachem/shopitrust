@@ -1,0 +1,213 @@
+{
+  "username": "wes.baker",
+  "name": "Wes Baker",
+  "generated_at": "2026-04-08T20:22:12.185199",
+  "summary": {
+    "message_count": 233,
+    "channels_active": 25,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Yeah, that'd be good. Feel free to drop something in my calendar.",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need someone to test it out. It's definitely bothering my team quite a bit, so I'm invested.",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "<@W018PSX9LQ4> could I get your eyes on this. We have a deadlock, we can try to deal with it in a few ways:\n1. Wrap everything in a big transaction,",
+          "channel": "collections-eng",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "elias.rumley",
+          "count": 8
+        },
+        {
+          "user": "ignacio.chiazzo",
+          "count": 7
+        },
+        {
+          "user": "aaron.richner",
+          "count": 6
+        },
+        {
+          "user": "adam.ford",
+          "count": 4
+        },
+        {
+          "user": "jesse.sharps",
+          "count": 4
+        },
+        {
+          "user": "andrew.pham",
+          "count": 3
+        },
+        {
+          "user": "tanusri.harish",
+          "count": 3
+        },
+        {
+          "user": "levi.morales",
+          "count": 3
+        },
+        {
+          "user": "colin.gray",
+          "count": 2
+        },
+        {
+          "user": "patrick.racicot",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 405,
+      "top_channels": [
+        {
+          "channel": "collections-eng",
+          "messages": 72
+        },
+        {
+          "channel": "proj-flexible-collections",
+          "messages": 57
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 16
+        },
+        {
+          "channel": "collections_yugabyte",
+          "messages": 12
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 11
+        },
+        {
+          "channel": "tmp-collections-river",
+          "messages": 9
+        },
+        {
+          "channel": "shopify-skills",
+          "messages": 7
+        },
+        {
+          "channel": "products-foundations-eng",
+          "messages": 6
+        },
+        {
+          "channel": "proj-variants-in-collections",
+          "messages": 6
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.52,
+      "count": 29,
+      "top_mentioners": [
+        {
+          "user": "jesse.sharps",
+          "count": 4
+        },
+        {
+          "user": "lars.hoffbeck",
+          "count": 3
+        },
+        {
+          "user": "elias.rumley",
+          "count": 3
+        },
+        {
+          "user": "ignacio.chiazzo",
+          "count": 3
+        },
+        {
+          "user": "eric.walker",
+          "count": 2
+        },
+        {
+          "user": "tatiana.uspenskaia",
+          "count": 2
+        },
+        {
+          "user": "patrick.racicot",
+          "count": 2
+        },
+        {
+          "user": "diana.cheptene",
+          "count": 2
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        },
+        {
+          "user": "adam.ford",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 23,
+      "17": 7,
+      "15": 59,
+      "21": 18,
+      "20": 21,
+      "16": 17,
+      "14": 42,
+      "13": 12,
+      "0": 2,
+      "12": 4,
+      "19": 27,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 57,
+      "Tuesday": 57,
+      "Monday": 30,
+      "Thursday": 52,
+      "Friday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.87,
+    "dept_average_30d": 5.79,
+    "dept_rank": 533,
+    "dept_size": 1233
+  }
+}

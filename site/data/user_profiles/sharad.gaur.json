@@ -1,0 +1,272 @@
+{
+  "username": "sharad.gaur",
+  "name": "Sharad Gaur",
+  "generated_at": "2026-04-08T20:22:10.846418",
+  "summary": {
+    "message_count": 557,
+    "channels_active": 21,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to send messages",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I am done with testing. Thank you",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah my bad, I misread the query. So the actual issue is:\n\u2022  common.sample_fingerprint != ''\n\u2022 common.sample_fingerprint contains $table_name --&gt;",
+          "channel": "proj-yugabyte-query-perf-monitor",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "help-observability",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U06GDGSDV9D> I\u2019ve created an issue to track changing the export path in GCS: <https://github.com/Shopify/clickhouse-platform/issues/997>\nPlease",
+          "channel": "proj-data-platform-clickhouse-routing-migration",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W0182UQHYEB> feel free to merge the blueprint pr",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "yah let me know if you see this issue again",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the incident, everyone, but without auto\u2011reload of table names in the logging API, I don\u2019t see a safe way to update the table.",
+          "channel": "inv-19968-clickhouse-write-failure",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if datatypes looks good for these fields",
+          "channel": "proj-yugabyte-query-perf-monitor",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "totally fair-- from the clickhouse platform side we just wire up whatever blueprint + topic we're given. we don't have visibility into the upstream",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "karl.baumgartner",
+          "count": 21
+        },
+        {
+          "user": "michael.rye",
+          "count": 11
+        },
+        {
+          "user": "matt.franklin",
+          "count": 11
+        },
+        {
+          "user": "rob.cardy",
+          "count": 7
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 4
+        },
+        {
+          "user": "elize.papineau",
+          "count": 3
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 3
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 3
+        },
+        {
+          "user": "murtaza.haider",
+          "count": 2
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.21,
+      "count": 143,
+      "top_channels": [
+        {
+          "channel": "rss-clickhouse",
+          "messages": 236
+        },
+        {
+          "channel": "proj-tracify-mission",
+          "messages": 95
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 45
+        },
+        {
+          "channel": "observability-ingestion-alerts",
+          "messages": 42
+        },
+        {
+          "channel": "proj-data-platform-clickhouse-routing-migration",
+          "messages": 26
+        },
+        {
+          "channel": "proj-yugabyte-query-perf-monitor",
+          "messages": 21
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 16
+        },
+        {
+          "channel": "inv-19968-clickhouse-write-failure",
+          "messages": 16
+        },
+        {
+          "channel": "discuss-investigate-api",
+          "messages": 10
+        },
+        {
+          "channel": "proj-o11y-ingestion-next-gen",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 84,
+      "top_mentioners": [
+        {
+          "user": "simon.levasseur",
+          "count": 10
+        },
+        {
+          "user": "sam.handler",
+          "count": 9
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 6
+        },
+        {
+          "user": "karl.baumgartner",
+          "count": 5
+        },
+        {
+          "user": "elize.papineau",
+          "count": 5
+        },
+        {
+          "user": "andrew.droll",
+          "count": 4
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 4
+        },
+        {
+          "user": "ahmad.dandachi",
+          "count": 3
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 3
+        },
+        {
+          "user": "murtaza.haider",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 43,
+      "17": 45,
+      "15": 50,
+      "14": 36,
+      "13": 86,
+      "12": 13,
+      "1": 14,
+      "21": 72,
+      "20": 78,
+      "16": 50,
+      "19": 41,
+      "11": 1,
+      "23": 16,
+      "22": 8,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 197,
+      "Friday": 39,
+      "Thursday": 155,
+      "Tuesday": 99,
+      "Monday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.48,
+    "dept_average_30d": 5.75,
+    "dept_rank": 65,
+    "dept_size": 357
+  }
+}

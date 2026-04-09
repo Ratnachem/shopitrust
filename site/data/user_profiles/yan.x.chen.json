@@ -1,0 +1,116 @@
+{
+  "username": "yan.x.chen",
+  "name": "Yan X Chen",
+  "generated_at": "2026-04-08T20:22:29.924770",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 20,
+    "days_scale": 0.87
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U02EVFV2SR4> Could you take a look at this and see if `mart__shop_campaigns__shop_order_revenue_and_costs_summary` can be made available to Anmol",
+          "channel": "buyers-data",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Can we have the columns in the table below. I know gmv_usd for each order is in the buyer tables too, but I want to keep it so that I can validate",
+          "channel": "buyers-data",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "startup-alum",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "For the July summit travel booking, if I want to take my kids with me to Toronto (to visit family there), should I book the plane tickets together",
+          "channel": "startup-alum",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.05,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "rafael.schulman",
+          "count": 1
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.61,
+      "count": 37,
+      "top_channels": [
+        {
+          "channel": "buyers-data",
+          "messages": 6
+        },
+        {
+          "channel": "proj-data-first-purchase-gmv",
+          "messages": 3
+        },
+        {
+          "channel": "startup-alum",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.48,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "anmol.chhabria",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 4,
+      "16": 2,
+      "2": 1,
+      "0": 1,
+      "22": 1,
+      "21": 2
+    },
+    "by_day": {
+      "Friday": 3,
+      "Monday": 1,
+      "Thursday": 6,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.15,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1068,
+    "dept_size": 1663
+  }
+}

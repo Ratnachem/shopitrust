@@ -1,0 +1,213 @@
+{
+  "username": "anya.gongora",
+  "name": "Anya Gongora",
+  "generated_at": "2026-04-08T20:22:14.692361",
+  "summary": {
+    "message_count": 97,
+    "channels_active": 12,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that! Updating the schedule.",
+          "channel": "shop-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":exp: *Shop Agent: V2 Refreshed Navigation UX*\nHey team :wave-hand: the experiment doc for V2 Refreshed Navigation UX is now available",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "Yes, my point is as I mentioned above - the entity_recommendation_clicks schema wasn\u2019t designed for search results. The data should be stored in the",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "vinny.degenova",
+          "count": 10
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 9
+        },
+        {
+          "user": "albert.lee",
+          "count": 8
+        },
+        {
+          "user": "nikita.ali",
+          "count": 8
+        },
+        {
+          "user": "avi.swerdlow",
+          "count": 7
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 5
+        },
+        {
+          "user": "caroline.lee",
+          "count": 4
+        },
+        {
+          "user": "sheri.nguyen",
+          "count": 3
+        },
+        {
+          "user": "daniel.weng",
+          "count": 3
+        },
+        {
+          "user": "ratna.chembrolu",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.8,
+      "count": 227,
+      "top_channels": [
+        {
+          "channel": "shop-agent-eng",
+          "messages": 42
+        },
+        {
+          "channel": "shop-agentic-search",
+          "messages": 23
+        },
+        {
+          "channel": "shop-data",
+          "messages": 7
+        },
+        {
+          "channel": "tmp-memory-burst",
+          "messages": 5
+        },
+        {
+          "channel": "agent-x-search-working-group",
+          "messages": 5
+        },
+        {
+          "channel": "shop-agent-evals",
+          "messages": 4
+        },
+        {
+          "channel": "payments-subscriptions-data",
+          "messages": 3
+        },
+        {
+          "channel": "core-magic-data-alerts",
+          "messages": 2
+        },
+        {
+          "channel": "anya-river",
+          "messages": 2
+        },
+        {
+          "channel": "help-data-hiring",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 78,
+      "top_mentioners": [
+        {
+          "user": "albert.lee",
+          "count": 20
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 11
+        },
+        {
+          "user": "mitchell.soares",
+          "count": 7
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 4
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 3
+        },
+        {
+          "user": "caroline.lee",
+          "count": 3
+        },
+        {
+          "user": "rafael.schulman",
+          "count": 3
+        },
+        {
+          "user": "wheaton.welbourn",
+          "count": 2
+        },
+        {
+          "user": "jared.rader",
+          "count": 2
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 16,
+      "21": 5,
+      "15": 13,
+      "14": 14,
+      "13": 14,
+      "12": 6,
+      "20": 3,
+      "16": 8,
+      "19": 7,
+      "17": 6,
+      "22": 3,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Tuesday": 21,
+      "Thursday": 27,
+      "Monday": 12,
+      "Friday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.05,
+    "dept_average_30d": 5.79,
+    "dept_rank": 402,
+    "dept_size": 1233
+  }
+}

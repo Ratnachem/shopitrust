@@ -1,0 +1,179 @@
+{
+  "username": "rodrigo.saito",
+  "name": "Rodrigo Saito",
+  "generated_at": "2026-04-08T20:22:05.944140",
+  "summary": {
+    "message_count": 116,
+    "channels_active": 8,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "cool, thanks!",
+          "channel": "db-platform-yugabyte-alerts-staging",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W0197H655R6> the gce maintenance in staging failed, did you take a look ? do you want me to take a look?",
+          "channel": "db-platform-yugabyte-ops",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "jordan.wheeler",
+          "count": 12
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 1
+        },
+        {
+          "user": "brendan.dougherty",
+          "count": 1
+        },
+        {
+          "user": "graham.cooper",
+          "count": 1
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.19,
+      "count": 142,
+      "top_channels": [
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 57
+        },
+        {
+          "channel": "db-platform-yugabyte-alerts-prod",
+          "messages": 17
+        },
+        {
+          "channel": "proj-data-storage-yugabyte-stability",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20936-shop-is-down",
+          "messages": 11
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20784-new-master-instance-failing-to-join-the-c",
+          "messages": 8
+        },
+        {
+          "channel": "db-platform-yugabyte-alerts-staging",
+          "messages": 1
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "john.meehan",
+          "count": 6
+        },
+        {
+          "user": "brandon.mcnama",
+          "count": 3
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 3
+        },
+        {
+          "user": "jordan.wheeler",
+          "count": 2
+        },
+        {
+          "user": "emilie.noel",
+          "count": 1
+        },
+        {
+          "user": "ayron.little",
+          "count": 1
+        },
+        {
+          "user": "mattie.toia",
+          "count": 1
+        },
+        {
+          "user": "yevgeniy.safronov",
+          "count": 1
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 1
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 4,
+      "14": 14,
+      "13": 26,
+      "19": 20,
+      "12": 9,
+      "1": 4,
+      "0": 2,
+      "23": 3,
+      "20": 12,
+      "17": 3,
+      "16": 6,
+      "15": 4,
+      "22": 3,
+      "21": 6
+    },
+    "by_day": {
+      "Wednesday": 14,
+      "Tuesday": 22,
+      "Thursday": 15,
+      "Monday": 14,
+      "Friday": 51
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.48,
+    "dept_average_30d": 5.75,
+    "dept_rank": 207,
+    "dept_size": 357
+  }
+}

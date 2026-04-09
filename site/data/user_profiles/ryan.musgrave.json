@@ -1,0 +1,281 @@
+{
+  "username": "ryan.musgrave",
+  "name": "Ryan Musgrave",
+  "generated_at": "2026-04-08T20:22:14.689438",
+  "summary": {
+    "message_count": 646,
+    "channels_active": 40,
+    "unique_people_mentioned": 45,
+    "unique_mentioners": 45,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "River said\n\nCurrent QPS (5m rate):\n\u2022 Elasticsearch: ~340 QPS (all GET requests)\n\u2022 Vantage: ~700 QPS (production traffic only: ~556 QPS, plus ~98 QPS",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HTZQEHH> <@U0AC6JFU4N7> was just chatting with <@U0A6B9BUERM> about the way we want the agent UX to behave when we click one of the mother's",
+          "channel": "proj-shop-mothersday2026",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Given that, do we need to pull in the platform/essentials folks to create their own ticket?",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to click shipit if it makes sense",
+          "channel": "search-ingest-ops",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh sorry i thought the page was from the alert which had resolved my bad",
+          "channel": "inv-20497-elasticsearch-cluster-health-issues",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "are you in kibana admin? Or want me to jump in there for the next step?",
+          "channel": "inv-20497-elasticsearch-cluster-health-issues",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to click Stop on the reindex?",
+          "channel": "inv-20497-elasticsearch-cluster-health-issues",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "good to know thanks!",
+          "channel": "inc-20238-shopweb-foundations-shop-web-5xx499-respo",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> Looks like there's a bug in the giveaway_amount implementation in Shopify Core. Can you fix it? The Claude Summary is:\n\n``` There's",
+          "channel": "proj-shop-install-promo",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks! I'm resuming an <https://experiments.shopify.io/experiments/e_qe_hydration_local_pricing_2|experiment> rollout for Query Engine hydration.",
+          "channel": "shop-feed",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Adding Semian::BulkheadError (or whatever the class name is in core\u2019s Semian setup) to TRANSIENT_ERRORS would make the consumer retry",
+          "channel": "ryan-asks-river-stuff",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> Adding Semian::BulkheadError (or whatever the class name is in core\u2019s Semian setup) to TRANSIENT_ERRORS would make the consumer retry on bulkhead",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "pawan.patel",
+          "count": 13
+        },
+        {
+          "user": "jason.kim",
+          "count": 7
+        },
+        {
+          "user": "elias.adum",
+          "count": 6
+        },
+        {
+          "user": "carine.araujo",
+          "count": 5
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 5
+        },
+        {
+          "user": "nankai.pan",
+          "count": 5
+        },
+        {
+          "user": "rita.marmiene",
+          "count": 4
+        },
+        {
+          "user": "avi.swerdlow",
+          "count": 3
+        },
+        {
+          "user": "martin.wallace",
+          "count": 3
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 497,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 98
+        },
+        {
+          "channel": "shop-agentic-search",
+          "messages": 91
+        },
+        {
+          "channel": "proj-shop-install-promo",
+          "messages": 72
+        },
+        {
+          "channel": "ryan-asks-river-stuff",
+          "messages": 54
+        },
+        {
+          "channel": "inv-21210-high-e2e-delay-on-transient-realtime-topi",
+          "messages": 41
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 37
+        },
+        {
+          "channel": "shop-merchant-experience",
+          "messages": 33
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 25
+        },
+        {
+          "channel": "inv-20497-elasticsearch-cluster-health-issues",
+          "messages": 19
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 18
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 81,
+      "top_mentioners": [
+        {
+          "user": "carine.araujo",
+          "count": 15
+        },
+        {
+          "user": "rita.marmiene",
+          "count": 5
+        },
+        {
+          "user": "nikita.ali",
+          "count": 3
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 3
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 3
+        },
+        {
+          "user": "rafael.schulman",
+          "count": 2
+        },
+        {
+          "user": "ali.ibrahim",
+          "count": 2
+        },
+        {
+          "user": "jon.cardasis",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "kyle.weeks",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 86,
+      "17": 50,
+      "16": 72,
+      "14": 74,
+      "13": 69,
+      "20": 37,
+      "19": 52,
+      "15": 97,
+      "12": 44,
+      "22": 8,
+      "21": 15,
+      "2": 6,
+      "23": 4,
+      "6": 4,
+      "5": 25,
+      "4": 1,
+      "3": 2
+    },
+    "by_day": {
+      "Wednesday": 153,
+      "Tuesday": 245,
+      "Monday": 103,
+      "Thursday": 105,
+      "Friday": 40
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.84,
+    "dept_average_30d": 5.86,
+    "dept_rank": 12,
+    "dept_size": 166
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "username": "shawn.leekwong",
+  "name": "Shawn Leekwong",
+  "generated_at": "2026-04-08T20:22:09.037147",
+  "summary": {
+    "message_count": 302,
+    "channels_active": 8,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 14,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":+1:\n\nAlso I have taken a look at simplifying the enforcement of entitlements. Check it",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "^^ and to make it a little easier to visualize the flow, i drew it",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ya the name of the action doesn\u2019t have to be a verb, we can do whatever we want. I believe these are all just examples of an action related to odp is.",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "A b2b order is owned by the customer who made it but it does belong to a company location.\n\nIf that customer leaves the location for whatever reason.",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Do you want to pass this through river or claude or whatever to see what it thinks?",
+          "channel": "customer-account-and-login-exceptions",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.25,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "dan.robinson",
+          "count": 3
+        },
+        {
+          "user": "shafigh.parsazad",
+          "count": 3
+        },
+        {
+          "user": "mark.yoon",
+          "count": 2
+        },
+        {
+          "user": "andrew.cottage",
+          "count": 2
+        },
+        {
+          "user": "misha.korablin",
+          "count": 2
+        },
+        {
+          "user": "adriel.arsenault",
+          "count": 1
+        },
+        {
+          "user": "rifat.javed",
+          "count": 1
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 1
+        },
+        {
+          "user": "ryan.snape",
+          "count": 1
+        },
+        {
+          "user": "mathieu.lagace",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.12,
+      "count": 104,
+      "top_channels": [
+        {
+          "channel": "proj-customer-account-api-auth-granularity",
+          "messages": 150
+        },
+        {
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "messages": 53
+        },
+        {
+          "channel": "customer-account-and-login-river",
+          "messages": 28
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 27
+        },
+        {
+          "channel": "customer-account-and-login-exceptions",
+          "messages": 21
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 16
+        },
+        {
+          "channel": "returns-team",
+          "messages": 4
+        },
+        {
+          "channel": "customer-account-and-login-ops",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.98,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "levent.ince",
+          "count": 7
+        },
+        {
+          "user": "robbie.khaddaj",
+          "count": 5
+        },
+        {
+          "user": "dan.robinson",
+          "count": 4
+        },
+        {
+          "user": "mark.yoon",
+          "count": 4
+        },
+        {
+          "user": "hao.li",
+          "count": 3
+        },
+        {
+          "user": "adriel.arsenault",
+          "count": 1
+        },
+        {
+          "user": "daniel.flood",
+          "count": 1
+        },
+        {
+          "user": "rebecca.hill",
+          "count": 1
+        },
+        {
+          "user": "robin.somlette",
+          "count": 1
+        },
+        {
+          "user": "marcela.ganem",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 28,
+      "17": 27,
+      "16": 28,
+      "15": 21,
+      "14": 30,
+      "12": 34,
+      "21": 2,
+      "19": 52,
+      "13": 31,
+      "11": 28,
+      "20": 20,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 116,
+      "Tuesday": 81,
+      "Thursday": 45,
+      "Monday": 19,
+      "Friday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.79,
+    "dept_average_30d": 4.74,
+    "dept_rank": 249,
+    "dept_size": 1663
+  }
+}

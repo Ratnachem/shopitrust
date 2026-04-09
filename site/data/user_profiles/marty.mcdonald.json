@@ -1,0 +1,91 @@
+{
+  "username": "marty.mcdonald",
+  "name": "Marty McDonald",
+  "generated_at": "2026-04-08T20:22:26.262286",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 1,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "A few things to note:\n\n1. If it is hard to check alignment based on this, also happy to go over my annotations in our thursday meeting to make sure",
+          "channel": "temp-media-region-of-interest",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey team, based on the examples <@U085WMQMGUR> sent me for testing our alignment internally, I've annotated 10 products as if I was an external",
+          "channel": "temp-media-region-of-interest",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "kevin.k.zhang",
+          "count": 2
+        },
+        {
+          "user": "tony.wang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.23,
+      "count": 6,
+      "top_channels": [
+        {
+          "channel": "temp-media-region-of-interest",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "tony.wang",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "23": 2,
+      "22": 1,
+      "20": 1,
+      "15": 2,
+      "14": 4,
+      "13": 3
+    },
+    "by_day": {
+      "Tuesday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 3.95,
+    "dept_average_30d": 5.39,
+    "dept_rank": 250,
+    "dept_size": 272
+  }
+}

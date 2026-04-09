@@ -1,0 +1,261 @@
+{
+  "username": "josh.zucker",
+  "name": "Josh Zucker",
+  "generated_at": "2026-04-08T20:22:11.478284",
+  "summary": {
+    "message_count": 416,
+    "channels_active": 25,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "thank you! let me know if you want to pair on it, i have 20 mins now",
+          "channel": "help-database-platform",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! let me know if you want to pair on it, i have 20 mins now",
+          "channel": "help-database-platform",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02SCUQ8FTR> <@W018PSY23S8> i triaged an issue in <#C04DVNWQN4W> yesterday that was a bit wild. Created an issue as well which you can see in that",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! anything else to do or that effectively cleaned up?",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I've ran it but I'm not able to replicate that conversation in production. I'm not sure why. I can't continue to debug this right now but let me know",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay thank you. Let me investigate further.",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "hey craig i can help",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey, I opened a PR in `observe-dev` that could use a look. Thanks!\n\nUpgrade Tempo 2.0.0 \u2192 2.7.2 for Grafana",
+          "channel": "help-observability",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This is a LanguageDetector problem\n\n```irb(main):002&gt; LanguageDetector.detect(\"Whatever\", ShopUser.new)\n=&gt; :da```\n",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "matt.koenig",
+          "count": 5
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 3
+        },
+        {
+          "user": "ates.goral",
+          "count": 3
+        },
+        {
+          "user": "yevgeniy.safronov",
+          "count": 2
+        },
+        {
+          "user": "harry.brundage",
+          "count": 2
+        },
+        {
+          "user": "james.zhu",
+          "count": 2
+        },
+        {
+          "user": "leslie.xin",
+          "count": 2
+        },
+        {
+          "user": "jonathan.berry",
+          "count": 2
+        },
+        {
+          "user": "bryan.smith",
+          "count": 2
+        },
+        {
+          "user": "charlie.lee",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.01,
+      "count": 238,
+      "top_channels": [
+        {
+          "channel": "sidekick-operations",
+          "messages": 83
+        },
+        {
+          "channel": "conch-rv",
+          "messages": 63
+        },
+        {
+          "channel": "proj-sidekick-appgen",
+          "messages": 55
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 33
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 28
+        },
+        {
+          "channel": "si-2534-qbot-sidekick-bug",
+          "messages": 28
+        },
+        {
+          "channel": "spiderbites-rv",
+          "messages": 25
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 21
+        },
+        {
+          "channel": "sidekick-river",
+          "messages": 12
+        },
+        {
+          "channel": "inv-20917-spike-of-exceptions-in-sidekick-server",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "taha.eldeib",
+          "count": 6
+        },
+        {
+          "user": "matt.koenig",
+          "count": 6
+        },
+        {
+          "user": "ates.goral",
+          "count": 4
+        },
+        {
+          "user": "kevin.fiero",
+          "count": 4
+        },
+        {
+          "user": "jonathan.berry",
+          "count": 3
+        },
+        {
+          "user": "justin.harris",
+          "count": 3
+        },
+        {
+          "user": "alex.lei",
+          "count": 3
+        },
+        {
+          "user": "alexandre.c",
+          "count": 3
+        },
+        {
+          "user": "topher.bullock",
+          "count": 2
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "17": 59,
+      "16": 52,
+      "15": 45,
+      "13": 31,
+      "12": 5,
+      "2": 3,
+      "20": 68,
+      "19": 24,
+      "14": 38,
+      "3": 7,
+      "1": 2,
+      "21": 21,
+      "9": 13,
+      "0": 6,
+      "11": 1,
+      "22": 1,
+      "4": 5
+    },
+    "by_day": {
+      "Wednesday": 63,
+      "Tuesday": 117,
+      "Friday": 16,
+      "Thursday": 172,
+      "Monday": 48
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.61,
+    "dept_average_30d": 5.79,
+    "dept_rank": 147,
+    "dept_size": 1233
+  }
+}

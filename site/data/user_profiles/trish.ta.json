@@ -1,0 +1,282 @@
+{
+  "username": "trish.ta",
+  "name": "Trish Ta",
+  "generated_at": "2026-04-08T20:22:24.627760",
+  "summary": {
+    "message_count": 917,
+    "channels_active": 31,
+    "unique_people_mentioned": 50,
+    "unique_mentioners": 54,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.3,
+      "pos_count": 3,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I wasn't sure if it was fine to call the runtime gem inside a maintenance task",
+          "channel": "tmp-extension-centralization-migration",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "tmp-extension-centralization-migration",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "props to",
+          "text": "&gt; So what happens after a year, do people's old extensions start failing.\nSo far we have not removed support for any versions of UI extensions in",
+          "channel": "help-admin-extensibility",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; 3. *Polaris components*: Can you confirm these are independent of `api_version`? My understanding is that the host always renders whatever",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "wait, about about Order Routing or whatever?",
+          "channel": "admin-extensibility-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i was asking if there was a sanitization step ahead of putting things in the context (whatever that might be) - i guess not then?",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "wait, i'm confused, how can this be true?\n&gt; i am pretty worried about apps putting _whatever_ description they want in the sidekick context window",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "It's useless now. It was supposed to serve as a home page. It's also the value that's preventing lauchable from being returned as true. If we picked",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> before we decide can you check how launchable is set in the module today? I don't want whatever we do here to be overwritten later on",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; I don't really understand how remote DOM versioning helps with the issue if we're using the admin web hooks under the hood which will always use",
+          "channel": "help-admin-extensibility",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "You said earlier you wanted this to work like extensions. For UI extensions everything is hidden from the developer. We run the build for them and",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Isn't the name of the folder completely up to the dev? We take whatever they've configured as their `admin.static_root` and copy it over to the",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 52,
+      "top_mentioned": [
+        {
+          "user": "olavo.santos",
+          "count": 12
+        },
+        {
+          "user": "adam.barrus",
+          "count": 8
+        },
+        {
+          "user": "kyle.bavender",
+          "count": 6
+        },
+        {
+          "user": "elana.kopelevich",
+          "count": 5
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 5
+        },
+        {
+          "user": "alfonso.noriega",
+          "count": 5
+        },
+        {
+          "user": "ramesh.raj",
+          "count": 5
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 5
+        },
+        {
+          "user": "chris.giba",
+          "count": 4
+        },
+        {
+          "user": "roger.yen",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.31,
+      "count": 307,
+      "top_channels": [
+        {
+          "channel": "proj-apps-in-sk",
+          "messages": 177
+        },
+        {
+          "channel": "proj-app-hosted-frontend",
+          "messages": 145
+        },
+        {
+          "channel": "proj-app-intents",
+          "messages": 117
+        },
+        {
+          "channel": "trish-river",
+          "messages": 114
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 56
+        },
+        {
+          "channel": "si-2470-h1-shopifyheader-abuse",
+          "messages": 43
+        },
+        {
+          "channel": "proj-retail-pos-sidekick",
+          "messages": 35
+        },
+        {
+          "channel": "inc-20402-pos-channel-doesnt-load---error-unknown-e",
+          "messages": 34
+        },
+        {
+          "channel": "help-admin-extensibility",
+          "messages": 33
+        },
+        {
+          "channel": "tmp-generic-build-steps-for-extensions",
+          "messages": 27
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 158,
+      "top_mentioners": [
+        {
+          "user": "adam.barrus",
+          "count": 23
+        },
+        {
+          "user": "matt.koenig",
+          "count": 14
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 13
+        },
+        {
+          "user": "robin.drexler",
+          "count": 8
+        },
+        {
+          "user": "henry.tao",
+          "count": 8
+        },
+        {
+          "user": "phiroze.noble",
+          "count": 6
+        },
+        {
+          "user": "melissa.luu",
+          "count": 5
+        },
+        {
+          "user": "bill.fienberg",
+          "count": 4
+        },
+        {
+          "user": "monica.mateiu",
+          "count": 4
+        },
+        {
+          "user": "ates.goral",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 36,
+      "22": 34,
+      "21": 94,
+      "20": 94,
+      "19": 79,
+      "18": 142,
+      "17": 93,
+      "16": 101,
+      "14": 99,
+      "1": 9,
+      "0": 2,
+      "23": 10,
+      "15": 111,
+      "3": 2,
+      "12": 6,
+      "4": 3,
+      "5": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 257,
+      "Tuesday": 249,
+      "Monday": 148,
+      "Thursday": 99,
+      "Friday": 164
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.41,
+    "dept_average_30d": 5.79,
+    "dept_rank": 218,
+    "dept_size": 1233
+  }
+}

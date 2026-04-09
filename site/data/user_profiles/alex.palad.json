@@ -1,0 +1,205 @@
+{
+  "username": "alex.palad",
+  "name": "Alex Palad",
+  "generated_at": "2026-04-08T20:22:10.824692",
+  "summary": {
+    "message_count": 123,
+    "channels_active": 8,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That helped, thank you",
+          "channel": "proj-retail-pos-sidekick",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; <@W018WBN7YRX> this deploy includes the polaris-internal + Online store update\nThank you. I thought it would be an easy and quiet deploy",
+          "channel": "pos-channel-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, I'll play with that, thank you",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, we\u2019re looking at adding Sidekick to pos-channel, and since you own the Sidekick UI extensions, had a couple questions:\nIs there a doc that",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, ping me in this thread when you ship your refactor, I will take another task for now",
+          "channel": "proj-consolidate-pos-settings",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Installing extension with CLI doesn't work, we're trying to figure it out, but I added it manually. We will need sidekick UI to check if it works,",
+          "channel": "proj-retail-pos-sidekick",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "mateusz.wasik",
+          "count": 4
+        },
+        {
+          "user": "daniel.thai",
+          "count": 2
+        },
+        {
+          "user": "dara.amin",
+          "count": 1
+        },
+        {
+          "user": "trish.ta",
+          "count": 1
+        },
+        {
+          "user": "andy.kim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.36,
+      "count": 151,
+      "top_channels": [
+        {
+          "channel": "proj-retail-pos-sidekick",
+          "messages": 50
+        },
+        {
+          "channel": "proj-apps-in-sk",
+          "messages": 32
+        },
+        {
+          "channel": "alexp-river",
+          "messages": 15
+        },
+        {
+          "channel": "proj-consolidate-pos-settings",
+          "messages": 13
+        },
+        {
+          "channel": "rubymine",
+          "messages": 4
+        },
+        {
+          "channel": "sidekick-api-and-tools",
+          "messages": 3
+        },
+        {
+          "channel": "pos-channel-dev",
+          "messages": 3
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.23,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "dara.amin",
+          "count": 26
+        },
+        {
+          "user": "tianna.fischer",
+          "count": 12
+        },
+        {
+          "user": "andy.kim",
+          "count": 6
+        },
+        {
+          "user": "daniel.thai",
+          "count": 4
+        },
+        {
+          "user": "sejal.sharma",
+          "count": 3
+        },
+        {
+          "user": "mateusz.wasik",
+          "count": 1
+        },
+        {
+          "user": "tyler.haugenstanley",
+          "count": 1
+        },
+        {
+          "user": "nikita.hunko",
+          "count": 1
+        },
+        {
+          "user": "trish.ta",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 10,
+      "16": 22,
+      "5": 1,
+      "2": 2,
+      "22": 4,
+      "21": 4,
+      "14": 23,
+      "15": 17,
+      "4": 1,
+      "17": 12,
+      "13": 6,
+      "19": 14,
+      "1": 1,
+      "20": 5,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 22,
+      "Tuesday": 37,
+      "Thursday": 25,
+      "Monday": 17,
+      "Friday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.29,
+    "dept_average_30d": 5.77,
+    "dept_rank": 630,
+    "dept_size": 885
+  }
+}

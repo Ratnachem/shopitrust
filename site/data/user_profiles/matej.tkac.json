@@ -1,0 +1,266 @@
+{
+  "username": "matej.tkac",
+  "name": "Matej Tkac",
+  "generated_at": "2026-04-08T20:22:25.388777",
+  "summary": {
+    "message_count": 260,
+    "channels_active": 21,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 22,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.5,
+      "pos_count": 5,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "ok, I will set the flags to *1%* now to go over the weekend, feel free to rollback if suspected cause of any issues!\n\n\u2022",
+          "channel": "help-selling-strategies",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hello, I hope this is the right channel :sweat_smile:\n\nearlier this week I shipped 2 refactor PRs for `CombinedListing` services aimed at",
+          "channel": "help-selling-strategies",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad for not using `&amp;&amp;`  :smile-tt:",
+          "channel": "product-foundations-team-channel",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to ping this thread if it turns out to be something on our end",
+          "channel": "help-products",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "<@W018HU1C5FD> and <@U06UYLDCW5B> are looking into it (big thanks to both :bow: )",
+          "channel": "inv-20026-prolonged-db-writer-cpu-saturation",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "`Not stupid \u2014 just human` :kekw:",
+          "channel": "products-river-playground",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U0AEPQCKB3M> how did I not notice that, am I stupid?",
+          "channel": "products-river-playground",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "went with the stupid attempt of skipping the offending fixtures for pg\n<https://github.com/shop/world/pull/558566> :buildkite: :loading1:",
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "I wonder which idiot is responsible for that",
+          "channel": "proj-self-heal-products-corrupt-data",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "quoting ~Skynet~ River from your thread:\n\nThe `productMetafield` filter requires Elasticsearch to execute. When ES is throttled/skipped, the",
+          "channel": "help-products",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.35,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "trish.ta",
+          "count": 4
+        },
+        {
+          "user": "keith.kim",
+          "count": 3
+        },
+        {
+          "user": "efstathios.stivaros",
+          "count": 2
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 2
+        },
+        {
+          "user": "thrwat.elmoselhi",
+          "count": 1
+        },
+        {
+          "user": "jay.laiche",
+          "count": 1
+        },
+        {
+          "user": "nate.dipiazza",
+          "count": 1
+        },
+        {
+          "user": "kelly.huang",
+          "count": 1
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.85,
+      "count": 169,
+      "top_channels": [
+        {
+          "channel": "product-foundations-team-channel",
+          "messages": 113
+        },
+        {
+          "channel": "help-products",
+          "messages": 51
+        },
+        {
+          "channel": "products-yugabyte-exodia",
+          "messages": 19
+        },
+        {
+          "channel": "proj-self-heal-products-corrupt-data",
+          "messages": 12
+        },
+        {
+          "channel": "products-river-playground",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20814-core-deploy-30th-march-745-prs-behind",
+          "messages": 9
+        },
+        {
+          "channel": "proj-yugabyte-thestore",
+          "messages": 6
+        },
+        {
+          "channel": "variants-foundations-notifications",
+          "messages": 5
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.96,
+      "count": 41,
+      "top_mentioners": [
+        {
+          "user": "mitch.dickinson",
+          "count": 11
+        },
+        {
+          "user": "efstathios.stivaros",
+          "count": 3
+        },
+        {
+          "user": "chris.pak",
+          "count": 3
+        },
+        {
+          "user": "richard.vining",
+          "count": 2
+        },
+        {
+          "user": "luke.busler",
+          "count": 2
+        },
+        {
+          "user": "kenny.law",
+          "count": 2
+        },
+        {
+          "user": "daniel.flood",
+          "count": 2
+        },
+        {
+          "user": "ali.safari",
+          "count": 2
+        },
+        {
+          "user": "jesse.sharps",
+          "count": 1
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 22,
+      "3": 1,
+      "16": 26,
+      "12": 25,
+      "11": 30,
+      "6": 2,
+      "7": 4,
+      "8": 8,
+      "15": 21,
+      "9": 20,
+      "22": 5,
+      "18": 13,
+      "17": 23,
+      "14": 29,
+      "13": 15,
+      "20": 7,
+      "21": 1,
+      "19": 2,
+      "0": 1,
+      "23": 5
+    },
+    "by_day": {
+      "Wednesday": 53,
+      "Tuesday": 58,
+      "Monday": 51,
+      "Friday": 50,
+      "Thursday": 48
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 4.74,
+    "dept_rank": 384,
+    "dept_size": 1663
+  }
+}

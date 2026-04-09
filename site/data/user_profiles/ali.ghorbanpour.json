@@ -1,0 +1,180 @@
+{
+  "username": "ali.ghorbanpour",
+  "name": "Ali Ghorbanpour",
+  "generated_at": "2026-04-08T20:22:19.672653",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 8,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 6,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "Hey team! :wave:\n\nWe just shipped 3 PRs modelling merchant conversations on Help Center \u2014 one for each of our 3 services. We now have a clean,",
+          "channel": "cx-rnd-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. Also If I already created a channel with proper name: *`proj-merchants-issue-complexity-on-help-center`*, can I connect this channel to",
+          "channel": "help-vault",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0A5GB2RH47> Thank you, the doc was super helpful in understanding your approach. one more question about the way you compute this score in the",
+          "channel": "proj-advisor-mission-control",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018WA3GZ6V>\nJust to make sure before creating a PR, we have \"146,256\" ticket ids to exclude from the TTR metric in this case. is that",
+          "channel": "tmp-ttr-data-exclusion",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.28,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "travis.tubbs",
+          "count": 2
+        },
+        {
+          "user": "shannon.barfoot",
+          "count": 1
+        },
+        {
+          "user": "alvina.yang",
+          "count": 1
+        },
+        {
+          "user": "ayman.kassay",
+          "count": 1
+        },
+        {
+          "user": "fizza.sheikh",
+          "count": 1
+        },
+        {
+          "user": "james.mcculloch",
+          "count": 1
+        },
+        {
+          "user": "jason.kopinski",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.05,
+      "count": 129,
+      "top_channels": [
+        {
+          "channel": "tmp-ttr-data-exclusion",
+          "messages": 7
+        },
+        {
+          "channel": "help-vault",
+          "messages": 3
+        },
+        {
+          "channel": "proj-advisor-mission-control",
+          "messages": 3
+        },
+        {
+          "channel": "commercial-data-river",
+          "messages": 2
+        },
+        {
+          "channel": "proj-unified-support-reporting",
+          "messages": 2
+        },
+        {
+          "channel": "cx-rnd-team",
+          "messages": 1
+        },
+        {
+          "channel": "proj-merchants-issue-complexity-on-help-center",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.96,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "fizza.sheikh",
+          "count": 4
+        },
+        {
+          "user": "alvina.yang",
+          "count": 1
+        },
+        {
+          "user": "joe.lin",
+          "count": 1
+        },
+        {
+          "user": "sam.zimmer",
+          "count": 1
+        },
+        {
+          "user": "jerie.shaw",
+          "count": 1
+        },
+        {
+          "user": "jason.kopinski",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "15": 4,
+      "1": 1,
+      "22": 1,
+      "21": 2,
+      "20": 1,
+      "19": 1,
+      "17": 4,
+      "18": 1,
+      "14": 3
+    },
+    "by_day": {
+      "Wednesday": 9,
+      "Tuesday": 5,
+      "Monday": 2,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.76,
+    "dept_average_30d": 4.74,
+    "dept_rank": 673,
+    "dept_size": 1663
+  }
+}

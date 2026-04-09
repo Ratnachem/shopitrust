@@ -1,0 +1,238 @@
+{
+  "username": "aram.anderson",
+  "name": "Aram Anderson",
+  "generated_at": "2026-04-08T20:22:20.053653",
+  "summary": {
+    "message_count": 183,
+    "channels_active": 8,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Hey team! I\u2019m following up on helpdesk ticket #REQ-1855175. I need an Okta password reset, and one was done but it was the middle of the night in my",
+          "channel": "help-it",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome! Thank you. So for us I think the main thing would just be to follow that pattern in UpdateShopifyPaymentsAccountGateway. TBH I\u2019m not sure",
+          "channel": "pp-multi-direct-gateway",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I set up a chat for 1:30 EST. Looks like everyone was free. I marked all the processing folks as optional, feel free to send whoever you want as a",
+          "channel": "pp-multi-direct-gateway",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, basically whatever was already supported by SP would stay active, but whatever was supported by 3p would be inactive.\nThis is also assuming we",
+          "channel": "proj-accounts-multi-direct-gateway",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Product question here: if the merchant has 3p + SP and disables 3p and they don\u2019t intend to fully switch to SP (no intent to move CC processing) do",
+          "channel": "proj-accounts-multi-direct-gateway",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, we could do something like that. So far we\u2019ve been conceptualizing this version of SP as \u201cjust an SP account\u201d so it really isn\u2019t statefully",
+          "channel": "proj-accounts-multi-direct-gateway",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I set up a chat for 1:30 EST. Looks like everyone was free. I marked all the processing folks as optional, feel free to send whoever you want as a",
+          "channel": "pp-multi-direct-gateway",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The issue is that anytime an update is run we\u2019re going to end up overwriting whatever Stripe has with that dummy data unless we override all the",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "ryan.bishop",
+          "count": 7
+        },
+        {
+          "user": "yuti.wang",
+          "count": 7
+        },
+        {
+          "user": "sungjin.kim",
+          "count": 7
+        },
+        {
+          "user": "emilie.lam",
+          "count": 4
+        },
+        {
+          "user": "samuel.beshara",
+          "count": 3
+        },
+        {
+          "user": "manef.zahra",
+          "count": 2
+        },
+        {
+          "user": "corin.mchargue",
+          "count": 2
+        },
+        {
+          "user": "frederic.marois",
+          "count": 2
+        },
+        {
+          "user": "justin.law",
+          "count": 2
+        },
+        {
+          "user": "hugo.vacher",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.75,
+      "count": 99,
+      "top_channels": [
+        {
+          "channel": "proj-accounts-multi-direct-gateway",
+          "messages": 71
+        },
+        {
+          "channel": "pp-multi-direct-gateway",
+          "messages": 58
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 27
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 10
+        },
+        {
+          "channel": "river-payment-account-capabilities",
+          "messages": 7
+        },
+        {
+          "channel": "proj-adyen-account-management",
+          "messages": 5
+        },
+        {
+          "channel": "help-it",
+          "messages": 4
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "ryan.bishop",
+          "count": 9
+        },
+        {
+          "user": "tina.ali",
+          "count": 6
+        },
+        {
+          "user": "emilie.lam",
+          "count": 3
+        },
+        {
+          "user": "derek.chan",
+          "count": 3
+        },
+        {
+          "user": "sungjin.kim",
+          "count": 3
+        },
+        {
+          "user": "monika.parikh",
+          "count": 2
+        },
+        {
+          "user": "divin.kang",
+          "count": 2
+        },
+        {
+          "user": "chris.dakin",
+          "count": 1
+        },
+        {
+          "user": "juan.suaza",
+          "count": 1
+        },
+        {
+          "user": "corin.mchargue",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 32,
+      "15": 19,
+      "18": 22,
+      "17": 19,
+      "21": 25,
+      "14": 15,
+      "20": 19,
+      "13": 5,
+      "19": 23,
+      "22": 4
+    },
+    "by_day": {
+      "Wednesday": 40,
+      "Tuesday": 55,
+      "Monday": 12,
+      "Friday": 39,
+      "Thursday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.98,
+    "dept_average_30d": 5.77,
+    "dept_rank": 729,
+    "dept_size": 885
+  }
+}

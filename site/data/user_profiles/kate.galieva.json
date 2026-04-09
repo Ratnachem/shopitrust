@@ -1,0 +1,228 @@
+{
+  "username": "kate.galieva",
+  "name": "Kate Galieva",
+  "generated_at": "2026-04-08T20:22:30.185055",
+  "summary": {
+    "message_count": 103,
+    "channels_active": 11,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Gaby. We won't migrate this table content in this case",
+          "channel": "help-addresses",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes, thank you so much!",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the quick review :blobheart: I posted in <#C4G10EHH7> too",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much for this! :tada::blobexcited:",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It's ok, thank you Ahmed. I\u2019ll test some other way",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good, thank you John!",
+          "channel": "cdc-yugabyte",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I need help with getting the password for it",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "I think you should have the same issue",
+          "channel": "cdc-yugabyte",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "brian.vo",
+          "count": 4
+        },
+        {
+          "user": "phil.nadon",
+          "count": 2
+        },
+        {
+          "user": "john.tanza",
+          "count": 2
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.61,
+      "count": 164,
+      "top_channels": [
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 52
+        },
+        {
+          "channel": "cdc-yugabyte",
+          "messages": 13
+        },
+        {
+          "channel": "db-storefronts-mysql-ops",
+          "messages": 9
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 7
+        },
+        {
+          "channel": "proj-infra-yugabyte-core-tables",
+          "messages": 6
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 5
+        },
+        {
+          "channel": "help-addresses",
+          "messages": 4
+        },
+        {
+          "channel": "devtools-dev-foundations",
+          "messages": 3
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 2
+        },
+        {
+          "channel": "proj-yugabyte-custom-builds",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "kate.boyd",
+          "count": 5
+        },
+        {
+          "user": "austen.lacy",
+          "count": 4
+        },
+        {
+          "user": "toria.gibbs",
+          "count": 3
+        },
+        {
+          "user": "john.tanza",
+          "count": 3
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 2
+        },
+        {
+          "user": "patrick.begley",
+          "count": 1
+        },
+        {
+          "user": "ella.baron",
+          "count": 1
+        },
+        {
+          "user": "john.meehan",
+          "count": 1
+        },
+        {
+          "user": "james.zhu",
+          "count": 1
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 7,
+      "20": 15,
+      "19": 12,
+      "18": 14,
+      "16": 9,
+      "14": 14,
+      "17": 5,
+      "15": 22,
+      "13": 5
+    },
+    "by_day": {
+      "Thursday": 41,
+      "Wednesday": 26,
+      "Friday": 21,
+      "Tuesday": 10,
+      "Monday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.95,
+    "dept_average_30d": 5.75,
+    "dept_rank": 294,
+    "dept_size": 357
+  }
+}

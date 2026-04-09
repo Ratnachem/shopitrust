@@ -1,0 +1,122 @@
+{
+  "username": "lilian.lau",
+  "name": "Lilian Lau",
+  "generated_at": "2026-04-08T20:22:32.317156",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 5,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 6,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you Surya! can you share this with Victor and Feras too? they use `is_still_terminated_for_fraud` for fraud ML model",
+          "channel": "shipping-data",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.43,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "namchau.nguyen",
+          "count": 2
+        },
+        {
+          "user": "surya.dutta",
+          "count": 2
+        },
+        {
+          "user": "wilson.becker",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.45,
+      "count": 87,
+      "top_channels": [
+        {
+          "channel": "shipping-data",
+          "messages": 4
+        },
+        {
+          "channel": "shipping-monthly-voc-metrics-prep",
+          "messages": 1
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 1
+        },
+        {
+          "channel": "proj-usps-ship-bridge",
+          "messages": 1
+        },
+        {
+          "channel": "shipping-data-alerts",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.74,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "surya.dutta",
+          "count": 3
+        },
+        {
+          "user": "charles.pignon",
+          "count": 1
+        },
+        {
+          "user": "vincent.chio",
+          "count": 1
+        },
+        {
+          "user": "christina.mele",
+          "count": 1
+        },
+        {
+          "user": "jennifer.okamoto",
+          "count": 1
+        },
+        {
+          "user": "justin.fuenzalida",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "19": 1,
+      "15": 6
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Tuesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.95,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1237,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "username": "justin.mutter",
+  "name": "Justin Mutter",
+  "generated_at": "2026-04-08T20:22:27.348191",
+  "summary": {
+    "message_count": 211,
+    "channels_active": 16,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 27,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you need a hand/eyes",
+          "channel": "inc-17141-accelerating-credit-spend-from-account-ta",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "Couple options for fixes:\n1. accept our fate that events will never be in order, deal with it downstream\n2. accept out fate that events will never be",
+          "channel": "inv-20354-credit-applications-stuck-in-pending",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019m 99% sure we don\u2019t impose any restrictions on dispute creation, we just send it to Stripe and then handle whatever the response from them is.",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "vitor.rigoni",
+          "count": 3
+        },
+        {
+          "user": "robbie.pearce",
+          "count": 2
+        },
+        {
+          "user": "gustavo.maloste",
+          "count": 2
+        },
+        {
+          "user": "adam.gabert",
+          "count": 1
+        },
+        {
+          "user": "christopher.ermel",
+          "count": 1
+        },
+        {
+          "user": "martin.provencher",
+          "count": 1
+        },
+        {
+          "user": "garrett.powell",
+          "count": 1
+        },
+        {
+          "user": "chloe.miller",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.16,
+      "count": 246,
+      "top_channels": [
+        {
+          "channel": "help-lending-engineering",
+          "messages": 79
+        },
+        {
+          "channel": "merchant-lending-atc",
+          "messages": 35
+        },
+        {
+          "channel": "inc-17141-accelerating-credit-spend-from-account-ta",
+          "messages": 25
+        },
+        {
+          "channel": "inv-20354-credit-applications-stuck-in-pending",
+          "messages": 19
+        },
+        {
+          "channel": "fs-coffee-chat",
+          "messages": 11
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 9
+        },
+        {
+          "channel": "help-ris",
+          "messages": 7
+        },
+        {
+          "channel": "lending-intelligence-team",
+          "messages": 7
+        },
+        {
+          "channel": "lending-exceptions",
+          "messages": 5
+        },
+        {
+          "channel": "inv-19650-credit-will-be-disabled-as-a-spend-tool-o",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.33,
+      "count": 56,
+      "top_mentioners": [
+        {
+          "user": "christopher.ermel",
+          "count": 6
+        },
+        {
+          "user": "vitor.rigoni",
+          "count": 6
+        },
+        {
+          "user": "arian.taherzadeh",
+          "count": 4
+        },
+        {
+          "user": "kaitlin.chiu",
+          "count": 3
+        },
+        {
+          "user": "vladimir.pavlov",
+          "count": 3
+        },
+        {
+          "user": "martin.provencher",
+          "count": 3
+        },
+        {
+          "user": "chloe.miller",
+          "count": 3
+        },
+        {
+          "user": "laith.fraijat",
+          "count": 2
+        },
+        {
+          "user": "viki.maurer",
+          "count": 2
+        },
+        {
+          "user": "oliver.garwil",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 24,
+      "18": 33,
+      "20": 23,
+      "16": 10,
+      "15": 24,
+      "17": 23,
+      "14": 33,
+      "13": 13,
+      "22": 10,
+      "21": 16,
+      "12": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Tuesday": 28,
+      "Monday": 55,
+      "Friday": 23,
+      "Thursday": 61,
+      "Wednesday": 44
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.34,
+    "dept_average_30d": 5.77,
+    "dept_rank": 607,
+    "dept_size": 885
+  }
+}

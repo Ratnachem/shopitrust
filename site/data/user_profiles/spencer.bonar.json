@@ -1,0 +1,267 @@
+{
+  "username": "spencer.bonar",
+  "name": "Spencer Bonar",
+  "generated_at": "2026-04-08T20:22:26.886627",
+  "summary": {
+    "message_count": 191,
+    "channels_active": 21,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "good thinking, thanks!",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "&gt; You are correct that the records will change, but it a good change as these are *intentional* improvements toward higher accuracy.\nYeah, I get",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm worried about losing `referrer` here. We use the first `referrer` we get in a session to derive a `referrer_channel` downstream, which is an",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "ah, sorry I missed that Austin. Appreciate it!",
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "In the future we may decide to isolate into a separate reservation, but for now we're thinking separating from dw-compute makes more sense. Sorry",
+          "channel": "ae-costs-theme",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "appreciate it -- thanks all for the speed/urgency here",
+          "channel": "proj-event-refinery-metrics-visits-buyers",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks, Vrishti! Please reply here as soon as that's ready.\n\nMo, I know you're hours ahead of us and Tuesday is a travel day for you and you've got a",
+          "channel": "proj-event-refinery-metrics-visits-buyers",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! re: checkout events, I think we should proceed with using what we have and at least get to a place where we can say \"we're missing checkouts",
+          "channel": "proj-event-refinery-metrics-visits-buyers",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing. Thanks, all!",
+          "channel": "proj-exec-insights-plan",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Pulling a DM from <@W0197H0S3U0> into this channel\n&gt; I added the dag here:",
+          "channel": "proj-event-refinery-metrics-visits-buyers",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "mohamed.toure",
+          "count": 11
+        },
+        {
+          "user": "adam.whitaker",
+          "count": 10
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 10
+        },
+        {
+          "user": "austin.clooney",
+          "count": 8
+        },
+        {
+          "user": "vrishti.dutta",
+          "count": 7
+        },
+        {
+          "user": "desmond.hui",
+          "count": 6
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 6
+        },
+        {
+          "user": "connor.mccambridge",
+          "count": 5
+        },
+        {
+          "user": "thomas.massinger",
+          "count": 4
+        },
+        {
+          "user": "judah.okwuobi",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.42,
+      "count": 154,
+      "top_channels": [
+        {
+          "channel": "proj-event-refinery-metrics-visits-buyers",
+          "messages": 37
+        },
+        {
+          "channel": "dw-buyer-activity-team",
+          "messages": 35
+        },
+        {
+          "channel": "cto-metrics-monitoring",
+          "messages": 32
+        },
+        {
+          "channel": "proj-exec-insights-plan",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "messages": 15
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 11
+        },
+        {
+          "channel": "inv-19987-slot-contention-in-shopify-dw-compute",
+          "messages": 9
+        },
+        {
+          "channel": "dw-upsell-monitoring",
+          "messages": 8
+        },
+        {
+          "channel": "customer-events",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20196-dw-prod-job-failures-related-to-stale-man",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 75,
+      "top_mentioners": [
+        {
+          "user": "sarah.pyo",
+          "count": 10
+        },
+        {
+          "user": "desmond.hui",
+          "count": 9
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 6
+        },
+        {
+          "user": "adam.whitaker",
+          "count": 5
+        },
+        {
+          "user": "steven.wu",
+          "count": 5
+        },
+        {
+          "user": "mohamed.toure",
+          "count": 4
+        },
+        {
+          "user": "vrishti.dutta",
+          "count": 3
+        },
+        {
+          "user": "luke.qi",
+          "count": 3
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 3
+        },
+        {
+          "user": "jill.hogan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 23,
+      "19": 16,
+      "14": 14,
+      "3": 7,
+      "18": 10,
+      "17": 7,
+      "16": 15,
+      "15": 10,
+      "2": 5,
+      "21": 18,
+      "22": 5,
+      "23": 9,
+      "1": 14,
+      "0": 18,
+      "13": 2,
+      "5": 11,
+      "4": 6,
+      "6": 1
+    },
+    "by_day": {
+      "Tuesday": 38,
+      "Monday": 48,
+      "Friday": 35,
+      "Thursday": 49,
+      "Wednesday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.46,
+    "dept_average_30d": 5.39,
+    "dept_rank": 125,
+    "dept_size": 272
+  }
+}

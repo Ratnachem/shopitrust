@@ -1,0 +1,117 @@
+{
+  "username": "dillon.finch",
+  "name": "Dillon Finch",
+  "generated_at": "2026-04-08T20:22:31.907528",
+  "summary": {
+    "message_count": 18,
+    "channels_active": 4,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team,\nI was informed by my lead that US employees (in Support) should be submitting vacation time in Workday as we are moving to US \"Flex Time\"",
+          "channel": "help-talent-support",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "liara.weiler",
+          "count": 2
+        },
+        {
+          "user": "michael.mingone",
+          "count": 1
+        },
+        {
+          "user": "michael.deflumeri",
+          "count": 1
+        },
+        {
+          "user": "lacey.rossini",
+          "count": 1
+        },
+        {
+          "user": "carla.paige",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.11,
+      "count": 3,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 11
+        },
+        {
+          "channel": "prep-desk",
+          "messages": 5
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        },
+        {
+          "channel": "tmp-mission-control-q1-growth-advisor-pilot",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "carlyle.doherty",
+          "count": 1
+        },
+        {
+          "user": "liara.weiler",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 2,
+      "15": 1,
+      "14": 3,
+      "21": 1,
+      "19": 2,
+      "18": 6,
+      "20": 3
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Monday": 1,
+      "Friday": 3,
+      "Thursday": 8,
+      "Tuesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.58,
+    "dept_average_30d": 4.09,
+    "dept_rank": 441,
+    "dept_size": 642
+  }
+}

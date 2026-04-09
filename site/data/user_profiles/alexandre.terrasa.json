@@ -1,0 +1,177 @@
+{
+  "username": "alexandre.terrasa",
+  "name": "Alexandre Terrasa",
+  "generated_at": "2026-04-08T20:22:29.450164",
+  "summary": {
+    "message_count": 81,
+    "channels_active": 4,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": ":point_up::point_up::point_up::point_up: GUYS! It's amazing!!!:point_up::point_up::point_up::point_up:",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, I answered you in <https://github.com/Shopify/rbi/pull/560#issuecomment-3927634583> but didn't update the description",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Alex is away until Friday, don't hesitate to ping me",
+          "channel": "proj-ci-cd-job-signature",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Me this morning:\n\n&gt; This test looks dumb! Why are we even doing that? Who's responsible for this stupid thing?\n&gt; \n&gt;",
+          "channel": "ruby-and-rails-infra-operations",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "kaan.ozkan",
+          "count": 3
+        },
+        {
+          "user": "jesse.johnson",
+          "count": 2
+        },
+        {
+          "user": "edouard.chin",
+          "count": 1
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 1
+        },
+        {
+          "user": "craig.eplin",
+          "count": 1
+        },
+        {
+          "user": "vinicius.stock",
+          "count": 1
+        },
+        {
+          "user": "alex.rocha",
+          "count": 1
+        },
+        {
+          "user": "soutaro.matsumoto",
+          "count": 1
+        },
+        {
+          "user": "stan.lo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.82,
+      "count": 48,
+      "top_channels": [
+        {
+          "channel": "team-ruby-dx",
+          "messages": 74
+        },
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 3
+        },
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 2
+        },
+        {
+          "channel": "proj-ci-cd-job-signature",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "tim.borkhodoev",
+          "count": 4
+        },
+        {
+          "user": "stan.lo",
+          "count": 3
+        },
+        {
+          "user": "alexander.momchilov",
+          "count": 2
+        },
+        {
+          "user": "kaan.ozkan",
+          "count": 2
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 1
+        },
+        {
+          "user": "vinicius.stock",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 6,
+      "14": 15,
+      "21": 10,
+      "20": 6,
+      "19": 4,
+      "18": 10,
+      "13": 8,
+      "17": 8,
+      "12": 1,
+      "16": 2,
+      "0": 1,
+      "23": 6,
+      "22": 4
+    },
+    "by_day": {
+      "Monday": 14,
+      "Thursday": 11,
+      "Wednesday": 22,
+      "Tuesday": 25,
+      "Friday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.3,
+    "dept_average_30d": 5.75,
+    "dept_rank": 238,
+    "dept_size": 357
+  }
+}

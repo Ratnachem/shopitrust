@@ -1,0 +1,205 @@
+{
+  "username": "peter.brandel",
+  "name": "Peter Brandel",
+  "generated_at": "2026-04-08T20:22:24.692973",
+  "summary": {
+    "message_count": 144,
+    "channels_active": 7,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 16,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "&gt; This is so impressive Peter. I am very excited, you've done great work so far.\nIt's all thanks to these fine folks: <@U07HD4M7Z2A>",
+          "channel": "cti-cases-workstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "&gt; This is so impressive Peter. I am very excited, you've done great work so far.\nIt's all thanks to these fine folks: <@U07HD4M7Z2A>",
+          "channel": "cti-cases-workstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U07HD4M7Z2A> <@W018GARPA9K> What are the remaining TODOs for <https://app.graphite.com/github/pr/shop/world/522057> ?\nDo you want me to do another",
+          "channel": "cti-cases-workstream",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "This was 100% my mistake I should have checked the default for this value.\n\nWith that being said, having the offset reset strategy set to `earliest`",
+          "channel": "inv-20113-trust-platform-large-number-of-jobs-being",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Looks like you got everything, thank you!",
+          "channel": "cti-cases-workstream",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.98,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "rob.goodberry",
+          "count": 8
+        },
+        {
+          "user": "gonzo.nieto",
+          "count": 5
+        },
+        {
+          "user": "sasha.barazandeh",
+          "count": 5
+        },
+        {
+          "user": "jason.seger",
+          "count": 2
+        },
+        {
+          "user": "sam.hajek",
+          "count": 2
+        },
+        {
+          "user": "steven.steven",
+          "count": 1
+        },
+        {
+          "user": "mark.dorison",
+          "count": 1
+        },
+        {
+          "user": "zack.carlson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.65,
+      "count": 112,
+      "top_channels": [
+        {
+          "channel": "cti-cases-workstream",
+          "messages": 105
+        },
+        {
+          "channel": "inv-20113-trust-platform-large-number-of-jobs-being",
+          "messages": 13
+        },
+        {
+          "channel": "cti-anyone-can-ai",
+          "messages": 9
+        },
+        {
+          "channel": "cti-ops-staging",
+          "messages": 9
+        },
+        {
+          "channel": "river-peter-brandel",
+          "messages": 5
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 2
+        },
+        {
+          "channel": "cti-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.92,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "mark.dorison",
+          "count": 5
+        },
+        {
+          "user": "gonzo.nieto",
+          "count": 4
+        },
+        {
+          "user": "sasha.barazandeh",
+          "count": 4
+        },
+        {
+          "user": "david.greenslade",
+          "count": 3
+        },
+        {
+          "user": "harley.balabanian",
+          "count": 2
+        },
+        {
+          "user": "zack.carlson",
+          "count": 2
+        },
+        {
+          "user": "fabio.maia",
+          "count": 1
+        },
+        {
+          "user": "sam.hajek",
+          "count": 1
+        },
+        {
+          "user": "jason.seger",
+          "count": 1
+        },
+        {
+          "user": "brian.gilhutton",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 6,
+      "19": 32,
+      "16": 19,
+      "14": 10,
+      "12": 7,
+      "15": 11,
+      "18": 19,
+      "17": 18,
+      "21": 11,
+      "20": 10,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 28,
+      "Thursday": 46,
+      "Tuesday": 7,
+      "Monday": 27,
+      "Friday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.09,
+    "dept_average_30d": 4.74,
+    "dept_rank": 500,
+    "dept_size": 1663
+  }
+}

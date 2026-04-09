@@ -1,0 +1,252 @@
+{
+  "username": "jerome.mathieu",
+  "name": "Jerome Mathieu",
+  "generated_at": "2026-04-08T20:22:18.927522",
+  "summary": {
+    "message_count": 424,
+    "channels_active": 30,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 27,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi!  There was some gentle nudge from other Pods with regards to how merged PRs are not being deployed as quickly as they could be.  The problem that",
+          "channel": "shipping-platform-pod-red",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "posted on <#C01GWAM9V0R>, thanks!",
+          "channel": "shipping-platform-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That's exactly what I need, thanks!  Making that site discoverable from <https://river-web.quick.shopify.io/> would be great.",
+          "channel": "river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "shipping-platform-pod-red",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Btw, for partners on SPP, we should be using this dashboard (our view on how each partner is doing):",
+          "channel": "shipping-platform-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to delete 'Sendle' too",
+          "channel": "shipping-platform-team",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Your current test checks for things missing in carriers_db, you should have another test that checks for things missing in",
+          "channel": "shipping-platform-pod-red",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> For the USPredefinedCarrierPackages, we\u2019re leaving that alone pending whatever the fix is for the flat_rate issue\nFair... I think we need to",
+          "channel": "proj-fulfillment-carrier-packaging",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "bryan.langille",
+          "count": 11
+        },
+        {
+          "user": "minh.tran",
+          "count": 9
+        },
+        {
+          "user": "lloyd.saldanha",
+          "count": 7
+        },
+        {
+          "user": "chris.daviduik",
+          "count": 6
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 4
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 4
+        },
+        {
+          "user": "dylan.barter",
+          "count": 3
+        },
+        {
+          "user": "kyle.jaebker",
+          "count": 3
+        },
+        {
+          "user": "surya.dutta",
+          "count": 3
+        },
+        {
+          "user": "ryan.le",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.04,
+      "count": 187,
+      "top_channels": [
+        {
+          "channel": "proj-fulfillment-carrier-packaging",
+          "messages": 108
+        },
+        {
+          "channel": "shipping-platform-pod-red",
+          "messages": 60
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 40
+        },
+        {
+          "channel": "gsd-fedex-byoa-migration-to-spp",
+          "messages": 36
+        },
+        {
+          "channel": "river-shipping",
+          "messages": 19
+        },
+        {
+          "channel": "write-quick",
+          "messages": 17
+        },
+        {
+          "channel": "shipping-dev-ops",
+          "messages": 15
+        },
+        {
+          "channel": "ms-shipping-billing",
+          "messages": 14
+        },
+        {
+          "channel": "river-bryanlangille",
+          "messages": 12
+        },
+        {
+          "channel": "gsd48563-dhl-de-kleinpaket",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 91,
+      "top_mentioners": [
+        {
+          "user": "bryan.langille",
+          "count": 17
+        },
+        {
+          "user": "lloyd.saldanha",
+          "count": 13
+        },
+        {
+          "user": "eric.dagenais",
+          "count": 9
+        },
+        {
+          "user": "joe.pym",
+          "count": 9
+        },
+        {
+          "user": "dylan.barter",
+          "count": 4
+        },
+        {
+          "user": "minh.tran",
+          "count": 3
+        },
+        {
+          "user": "jon.elliott",
+          "count": 3
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 3
+        },
+        {
+          "user": "jeff.kantarek",
+          "count": 3
+        },
+        {
+          "user": "chris.daviduik",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 74,
+      "16": 41,
+      "15": 41,
+      "14": 37,
+      "12": 41,
+      "21": 38,
+      "19": 23,
+      "18": 41,
+      "20": 30,
+      "13": 36,
+      "11": 8,
+      "1": 2,
+      "0": 9,
+      "5": 1,
+      "2": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 119,
+      "Tuesday": 90,
+      "Monday": 56,
+      "Friday": 37,
+      "Thursday": 122
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.26,
+    "dept_average_30d": 5.77,
+    "dept_rank": 198,
+    "dept_size": 885
+  }
+}

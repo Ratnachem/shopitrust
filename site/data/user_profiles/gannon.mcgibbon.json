@@ -1,0 +1,238 @@
+{
+  "username": "gannon.mcgibbon",
+  "name": "Gannon McGibbon",
+  "generated_at": "2026-04-08T20:22:16.126154",
+  "summary": {
+    "message_count": 142,
+    "channels_active": 15,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah, I see now the link at the top of the dash. Thanks!",
+          "channel": "yugabyte-dashboard",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I assume we haven't done anything for fixture and maintenance task tests we don't own, right? I'll circle back on this and add some overrides after I",
+          "channel": "yugabyte-dashboard-notifications",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<https://github.com/Shopify/ruby-infra/issues/471> Let me know if you made progress on this. I'll try to get the proto source problem and the thread",
+          "channel": "proj-rails-shopify-ruby-grpc",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<https://github.com/shop/world/pull/519602> should build a single image and not publish it. Ready for review. <@W018HM1FJ2W> Do you want me to update",
+          "channel": "tmp-core-container-reliabiltiy",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I should have a PR up to world for a new gem by the end of the day. I was getting the robot to copy some files and it made mistakes. Feel free to",
+          "channel": "proj-rails-shopify-ruby-grpc",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "tmp-access-auth-unblock-core-yugabyte-migration",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "CI is green on <https://github.com/shop/world/pull/549133>. I had to skip protoc integration tests because those aren't generating files on CI for",
+          "channel": "proj-rails-shopify-ruby-grpc",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't know why we're being tagged for shop identity or notifications or domains either. Core applications owns shop identity now. I think whatever",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "jahfer.husain",
+          "count": 3
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 2
+        },
+        {
+          "user": "jill.klang",
+          "count": 1
+        },
+        {
+          "user": "max.bernstein",
+          "count": 1
+        },
+        {
+          "user": "matt.valentinehouse",
+          "count": 1
+        },
+        {
+          "user": "chao.duan",
+          "count": 1
+        },
+        {
+          "user": "kaan.ozkan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.1,
+      "count": 190,
+      "top_channels": [
+        {
+          "channel": "proj-rails-shopify-ruby-grpc",
+          "messages": 64
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 30
+        },
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 13
+        },
+        {
+          "channel": "tmp-core-container-reliabiltiy",
+          "messages": 13
+        },
+        {
+          "channel": "yugabyte-dashboard-notifications",
+          "messages": 4
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 3
+        },
+        {
+          "channel": "team-ruby-and-rails-infra",
+          "messages": 3
+        },
+        {
+          "channel": "team-ruby-infra",
+          "messages": 2
+        },
+        {
+          "channel": "checkout-foundations",
+          "messages": 2
+        },
+        {
+          "channel": "tmp-access-auth-unblock-core-yugabyte-migration",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "cam.woloshyn",
+          "count": 7
+        },
+        {
+          "user": "chao.duan",
+          "count": 4
+        },
+        {
+          "user": "nery.campusano",
+          "count": 2
+        },
+        {
+          "user": "adrianna.chang",
+          "count": 2
+        },
+        {
+          "user": "nuno.silva",
+          "count": 1
+        },
+        {
+          "user": "jon.ringer",
+          "count": 1
+        },
+        {
+          "user": "jesse.sharps",
+          "count": 1
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 1
+        },
+        {
+          "user": "philip.tolton",
+          "count": 1
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 44,
+      "4": 1,
+      "22": 7,
+      "18": 30,
+      "20": 9,
+      "19": 15,
+      "21": 24,
+      "2": 1,
+      "0": 2,
+      "23": 1,
+      "16": 3,
+      "15": 1,
+      "3": 3,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Tuesday": 48,
+      "Monday": 25,
+      "Thursday": 38,
+      "Friday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.01,
+    "dept_average_30d": 5.75,
+    "dept_rank": 286,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "username": "michael.wilson",
+  "name": "Michael Wilson",
+  "generated_at": "2026-04-08T20:22:29.876945",
+  "summary": {
+    "message_count": 257,
+    "channels_active": 14,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "You too, thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Updated",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team :bufo-wave: can we please get a set of eyes on this PR which adds client_source for some instrumentation calls for Shop Pay External? This",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that - thought it added shop wallet devs. Added you and Callum since he and I paired on it earlier in the week",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Quick bump on this - would appreciate a test to get this in so we can properly hide alternative payment methods in SPE flows. This gets merge",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I can take a look later, I looked at all requests in observe from my ip address in the time that I had a blank request and nothing stood out. Let me",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "The <https://app.graphite.com/github/pr/shop/world/502466|PR> for the server-side fix is available and is passing CI now that the checkout-web piece",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U023HBMG4SV> Quick question for when you get back - there's a few edge case scenarios when the buyer tries to load the Shop page on their device. I",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want me to just fix the regex",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Let me know if you want me to just fix the regex",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Running on my personal laptop now too, to rule out any WARP issues or whatever, and also seeing 0",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "jamie.ly",
+          "count": 6
+        },
+        {
+          "user": "ryan.stone",
+          "count": 4
+        },
+        {
+          "user": "callum.kipin",
+          "count": 3
+        },
+        {
+          "user": "mohammad.adi",
+          "count": 3
+        },
+        {
+          "user": "khizra.abbasi",
+          "count": 1
+        },
+        {
+          "user": "adam.davidson",
+          "count": 1
+        },
+        {
+          "user": "sam.ou",
+          "count": 1
+        },
+        {
+          "user": "chris.bacon",
+          "count": 1
+        },
+        {
+          "user": "noah.woodward",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.91,
+      "count": 180,
+      "top_channels": [
+        {
+          "channel": "proj-retail-shop-pay",
+          "messages": 198
+        },
+        {
+          "channel": "inv-16996-truncated-assets",
+          "messages": 10
+        },
+        {
+          "channel": "help-observability",
+          "messages": 8
+        },
+        {
+          "channel": "retail-buyer-journey-river",
+          "messages": 7
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 7
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20041-gymshark-pos-hub-receipt-printing-delay",
+          "messages": 6
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "shop-tracking",
+          "messages": 3
+        },
+        {
+          "channel": "shop-wallet-dev",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.56,
+      "count": 39,
+      "top_mentioners": [
+        {
+          "user": "dan.katz",
+          "count": 13
+        },
+        {
+          "user": "sam.ou",
+          "count": 6
+        },
+        {
+          "user": "mohammad.adi",
+          "count": 5
+        },
+        {
+          "user": "ryan.stone",
+          "count": 3
+        },
+        {
+          "user": "callum.kipin",
+          "count": 3
+        },
+        {
+          "user": "sean.watson",
+          "count": 2
+        },
+        {
+          "user": "noah.woodward",
+          "count": 1
+        },
+        {
+          "user": "iain.wilson",
+          "count": 1
+        },
+        {
+          "user": "chris.bacon",
+          "count": 1
+        },
+        {
+          "user": "logan.roth",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 25,
+      "22": 24,
+      "21": 37,
+      "20": 50,
+      "23": 13,
+      "19": 37,
+      "17": 27,
+      "18": 26,
+      "4": 1,
+      "1": 6,
+      "15": 8,
+      "8": 1,
+      "14": 2
+    },
+    "by_day": {
+      "Friday": 33,
+      "Thursday": 61,
+      "Tuesday": 50,
+      "Monday": 36,
+      "Wednesday": 77
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.64,
+    "dept_average_30d": 4.74,
+    "dept_rank": 291,
+    "dept_size": 1663
+  }
+}

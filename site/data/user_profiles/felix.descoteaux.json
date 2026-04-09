@@ -1,0 +1,273 @@
+{
+  "username": "felix.descoteaux",
+  "name": "Felix Descoteaux",
+  "generated_at": "2026-04-08T20:22:05.906313",
+  "summary": {
+    "message_count": 824,
+    "channels_active": 31,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 49,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.7,
+      "pos_count": 27,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to ship your PR first (once you get green CI on MySQL :stuck_out_tongue: )",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I have a first PR ready to introduce the new test groups to support the transition to Postgres as the default on PR",
+          "channel": "proj-checkout-yugabyte",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Happy to see something getting done about this. Thank you JP!",
+          "channel": "checkout-foundations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":fyi: If the `Postgres failure detection` step on the `world-shopify-test-onboarding` pipeline is failing on your PR,",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "We are aware several tests in `main` are currently failing on Postgres in the selective test pipeline, which creates a lot of noise when tagging PRs",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "We are aware several tests in `main` are currently failing on Postgres in the selective test pipeline, which creates a lot of noise when tagging PRs",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "The PR was merged yesterday at 10pm. This should help for all Postgres things. Let me know if you encounter anything else.",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Just in case you haven't seen it <https://shopify.slack.com/archives/C09GZB704AW/p1774876759356259>\nWe should tag all PRs impacting YB/Postgres",
+          "channel": "proj-customer-accounts-yugabyte",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Just in case you haven't seen it <https://shopify.slack.com/archives/C09GZB704AW/p1774876759356259>\nWe should tag all PRs impacting YB/Postgres",
+          "channel": "products-yugabyte-exodia",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Just in case you haven't seen it <https://shopify.slack.com/archives/C09GZB704AW/p1774876759356259>\nWe should tag all PRs impacting YB/Postgres",
+          "channel": "pcb-yugabyte-in-core",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt;  Move `The Store` to whatever pod that's continuously replicated to YB (44 or 140?)\n<@W018GA8LW93> is this already possible?",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 50,
+      "top_mentioned": [
+        {
+          "user": "kirill.shatrov",
+          "count": 15
+        },
+        {
+          "user": "michael.go",
+          "count": 7
+        },
+        {
+          "user": "debora.setton",
+          "count": 6
+        },
+        {
+          "user": "nikita.vasilevsky",
+          "count": 6
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 5
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 3
+        },
+        {
+          "user": "chao.duan",
+          "count": 2
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 2
+        },
+        {
+          "user": "louis.vancraen",
+          "count": 2
+        },
+        {
+          "user": "si.le",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.67,
+      "count": 362,
+      "top_channels": [
+        {
+          "channel": "yugabyte-mission",
+          "messages": 178
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 134
+        },
+        {
+          "channel": "proj-checkout-yugabyte",
+          "messages": 123
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 70
+        },
+        {
+          "channel": "products-yugabyte-exodia",
+          "messages": 58
+        },
+        {
+          "channel": "proj-yugabyte-thestore",
+          "messages": 38
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 28
+        },
+        {
+          "channel": "pcb-yugabyte-in-core",
+          "messages": 25
+        },
+        {
+          "channel": "inv-20427-typeerror-spiking-with-deployment",
+          "messages": 24
+        },
+        {
+          "channel": "inv-20326-nomethoderror-storefrontgraphql-responder",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 122,
+      "top_mentioners": [
+        {
+          "user": "debora.setton",
+          "count": 22
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 10
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 8
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 7
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 5
+        },
+        {
+          "user": "chao.duan",
+          "count": 5
+        },
+        {
+          "user": "nate.dipiazza",
+          "count": 5
+        },
+        {
+          "user": "amanda.azevedo",
+          "count": 4
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 97,
+      "17": 81,
+      "16": 78,
+      "15": 117,
+      "14": 92,
+      "20": 64,
+      "19": 81,
+      "13": 72,
+      "11": 13,
+      "23": 16,
+      "22": 48,
+      "21": 24,
+      "2": 1,
+      "1": 1,
+      "0": 3,
+      "12": 36
+    },
+    "by_day": {
+      "Wednesday": 211,
+      "Tuesday": 123,
+      "Monday": 148,
+      "Thursday": 150,
+      "Friday": 192
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.98,
+    "dept_average_30d": 4.74,
+    "dept_rank": 40,
+    "dept_size": 1663
+  }
+}

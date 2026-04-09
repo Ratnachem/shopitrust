@@ -1,0 +1,221 @@
+{
+  "username": "darren.foo",
+  "name": "Darren Foo",
+  "generated_at": "2026-04-08T20:22:06.305104",
+  "summary": {
+    "message_count": 587,
+    "channels_active": 30,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U09ACSG4ZU1> let's leave the google/cloudflare DNS in and just update for ndots then, thanks!",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "got the secret and staging-2 url but don't see anything in egress-gw logs unfortunately. Can pick this up on Friday after your homesite, thanks!",
+          "channel": "team-files",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "SWP doesn't log non TLS terminated SNI fqdns so as a audit tool is useless unfortunately. Opened a partnerissue with google to determine if it's",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "nikita.acharya",
+          "count": 3
+        },
+        {
+          "user": "charlieallan",
+          "count": 3
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 3
+        },
+        {
+          "user": "samuel.dufel",
+          "count": 3
+        },
+        {
+          "user": "sam.obeid",
+          "count": 3
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 2
+        },
+        {
+          "user": "daniel.lobl",
+          "count": 2
+        },
+        {
+          "user": "salima.ammar",
+          "count": 1
+        },
+        {
+          "user": "robertboyle",
+          "count": 1
+        },
+        {
+          "user": "justin.reid",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.65,
+      "count": 272,
+      "top_channels": [
+        {
+          "channel": "team-cloud-systems",
+          "messages": 145
+        },
+        {
+          "channel": "team-files",
+          "messages": 51
+        },
+        {
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "messages": 50
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 47
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 41
+        },
+        {
+          "channel": "proj-secure-egress-gateway",
+          "messages": 38
+        },
+        {
+          "channel": "inv-19996-runtimeenginecputhrottlinginuscentral1",
+          "messages": 28
+        },
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 22
+        },
+        {
+          "channel": "help-observability",
+          "messages": 18
+        },
+        {
+          "channel": "inv-19986-some-mcs-addresses-are-not-getting-create",
+          "messages": 18
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "charlieallan",
+          "count": 14
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 6
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 6
+        },
+        {
+          "user": "justin.reid",
+          "count": 4
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 3
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 3
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 3
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        },
+        {
+          "user": "devon.boyer",
+          "count": 2
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 72,
+      "16": 47,
+      "7": 10,
+      "1": 40,
+      "23": 19,
+      "17": 74,
+      "15": 6,
+      "6": 12,
+      "3": 8,
+      "0": 23,
+      "22": 52,
+      "20": 71,
+      "19": 82,
+      "21": 41,
+      "14": 1,
+      "5": 5,
+      "2": 10,
+      "4": 6,
+      "9": 3,
+      "8": 5
+    },
+    "by_day": {
+      "Wednesday": 152,
+      "Tuesday": 120,
+      "Monday": 51,
+      "Friday": 91,
+      "Thursday": 173
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.41,
+    "dept_average_30d": 5.75,
+    "dept_rank": 73,
+    "dept_size": 357
+  }
+}

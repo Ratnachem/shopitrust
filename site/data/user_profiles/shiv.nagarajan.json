@@ -1,0 +1,219 @@
+{
+  "username": "shiv.nagarajan",
+  "name": "Shiv Nagarajan",
+  "generated_at": "2026-04-08T20:22:27.660325",
+  "summary": {
+    "message_count": 639,
+    "channels_active": 12,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W0197H2QWN4> do u want me to make the adjustment/restart IV?",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes, it is good to go. Thank you",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "that's your user name on shardm",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "kate.boyd",
+          "count": 8
+        },
+        {
+          "user": "mohammad.ahmadi",
+          "count": 5
+        },
+        {
+          "user": "austen.lacy",
+          "count": 5
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 5
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 3
+        },
+        {
+          "user": "brian.chae",
+          "count": 3
+        },
+        {
+          "user": "patrick.begley",
+          "count": 2
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 1
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 1
+        },
+        {
+          "user": "phil.nadon",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.24,
+      "count": 112,
+      "top_channels": [
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 218
+        },
+        {
+          "channel": "db-storefronts-mysql-ops",
+          "messages": 156
+        },
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 128
+        },
+        {
+          "channel": "inv-19874-sfr-migrations-unable-to-progress-due-to-",
+          "messages": 54
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 39
+        },
+        {
+          "channel": "inc-19834-gcp-zonal-issues-central-c",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20017-investigating-sfr-writer--gt-sfr-reader-s",
+          "messages": 14
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20211-one-of-the-core-deploy-targets-failed",
+          "messages": 3
+        },
+        {
+          "channel": "inv-19948-sfr-staleness-on-shard-22-57-41",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "mohammad.ahmadi",
+          "count": 17
+        },
+        {
+          "user": "austen.lacy",
+          "count": 10
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 10
+        },
+        {
+          "user": "kate.boyd",
+          "count": 9
+        },
+        {
+          "user": "bing.li",
+          "count": 5
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 4
+        },
+        {
+          "user": "patrick.begley",
+          "count": 2
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 2
+        },
+        {
+          "user": "james.zhu",
+          "count": 1
+        },
+        {
+          "user": "brian.chae",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 58,
+      "17": 93,
+      "14": 80,
+      "15": 111,
+      "19": 81,
+      "13": 56,
+      "12": 5,
+      "2": 10,
+      "1": 33,
+      "21": 6,
+      "16": 21,
+      "20": 41,
+      "23": 9,
+      "0": 6,
+      "22": 6,
+      "11": 21,
+      "10": 1,
+      "3": 1
+    },
+    "by_day": {
+      "Tuesday": 138,
+      "Monday": 54,
+      "Thursday": 233,
+      "Wednesday": 151,
+      "Friday": 63
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.39,
+    "dept_average_30d": 5.75,
+    "dept_rank": 223,
+    "dept_size": 357
+  }
+}

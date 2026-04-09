@@ -1,0 +1,309 @@
+{
+  "username": "owen.cummings",
+  "name": "Owen Cummings",
+  "generated_at": "2026-04-08T20:22:07.183600",
+  "summary": {
+    "message_count": 402,
+    "channels_active": 22,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 13,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "1. I mistakenly linked an earlier comment in that gh issue my bad - Autopilot clusters are the problem\n    a. Both on composer v2 and v3 we are",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I slapped together a <https://docs.google.com/document/d/1z9vwtUnp38gNiSbRQZWruIZt8PnXm0wmM0lE4096pxU/edit?tab=t.0#heading=h.xhe1ptuzok3b|doc with",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "It's all deployed! Let me know if you folks have any issues that stem from it.",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much folks!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No thank you folks for your patience and help :high5:",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Throwing a quick TL;DR for visibility. Feel free to correct anything that's missing or wrong:\n\n\u2022 Immediate term: <@W018HTHA2RZ> and <@U025QKW329H>",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0283BKGTDM> <@U03NBGFEQDS> Feel free to make changes to supply chain parts of the new nebius workstream in the canvas. Spitballing words :smile:",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":bless-up: Thank you so much Emma!",
+          "channel": "help-vault",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": ":ok_hand: absolutely! My bad this is what happens when you do too many things at once :spongebob-multitasking:\n\nThanks folks!",
+          "channel": "help-ris",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing job today folks! Thank you so much for all your help :blobheart: we'll have several things to do in the coming days I'm sure. Right now I'm",
+          "channel": "infrasec-observability",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I vibed with claude a bit on the Nebius Falco output and found no indicators of compromise! If you want to look at the logs tomorrow to check again,",
+          "channel": "infrasec-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "In the event Falco is overwhelmed by syscall volume it drops syscalls in its own context and does not process them. We only copy out syscalls",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't know that we have an answer for that! My read is the code that devs are storing in github we have whatever controls look at GH. Outside of",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Here's a summary of my poking around with claude and manual validation.\n\nTL;DR there's some indicators that suggest something may exist, but whatever",
+          "channel": "proj-agentic-exploitation-pipeline",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have a dm with geekbot where it asks the questions and you reply",
+          "channel": "infrasec-observability",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; yup we\u2019re gathering some data on how useful this would be. Do you happen to have some permits in mind?\nThe non-existent-today permit needed for",
+          "channel": "clouddo-mpa-feedback",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 36,
+      "top_mentioned": [
+        {
+          "user": "shawn.boutilier",
+          "count": 19
+        },
+        {
+          "user": "alejandro.yepez",
+          "count": 9
+        },
+        {
+          "user": "wanying.zhao",
+          "count": 7
+        },
+        {
+          "user": "nick.wareing",
+          "count": 6
+        },
+        {
+          "user": "dalon.dantzler",
+          "count": 6
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 5
+        },
+        {
+          "user": "margaret.syms",
+          "count": 4
+        },
+        {
+          "user": "devina.dhawan",
+          "count": 4
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 3
+        },
+        {
+          "user": "peter.wagner",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.33,
+      "count": 308,
+      "top_channels": [
+        {
+          "channel": "infrasec-observability",
+          "messages": 121
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 98
+        },
+        {
+          "channel": "falco-performance-tuning",
+          "messages": 58
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 37
+        },
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 14
+        },
+        {
+          "channel": "si-2520-axios",
+          "messages": 14
+        },
+        {
+          "channel": "proj-agentic-exploitation-pipeline",
+          "messages": 13
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 8
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "help-ris",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 77,
+      "top_mentioners": [
+        {
+          "user": "shawn.boutilier",
+          "count": 16
+        },
+        {
+          "user": "soundarya.ramani",
+          "count": 9
+        },
+        {
+          "user": "alejandro.yepez",
+          "count": 6
+        },
+        {
+          "user": "david.jee",
+          "count": 5
+        },
+        {
+          "user": "margaret.syms",
+          "count": 3
+        },
+        {
+          "user": "wanying.zhao",
+          "count": 3
+        },
+        {
+          "user": "brian.warsing",
+          "count": 3
+        },
+        {
+          "user": "tom.rochette",
+          "count": 2
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 2
+        },
+        {
+          "user": "nick.wareing",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 44,
+      "17": 38,
+      "16": 43,
+      "15": 64,
+      "14": 38,
+      "1": 4,
+      "21": 32,
+      "19": 55,
+      "13": 16,
+      "23": 7,
+      "20": 42,
+      "0": 3,
+      "22": 5,
+      "2": 1,
+      "7": 1,
+      "6": 1,
+      "12": 8
+    },
+    "by_day": {
+      "Wednesday": 127,
+      "Tuesday": 66,
+      "Monday": 31,
+      "Friday": 43,
+      "Thursday": 135
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 6.04,
+    "dept_average_30d": 4.89,
+    "dept_rank": 33,
+    "dept_size": 237
+  }
+}

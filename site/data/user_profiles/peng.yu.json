@@ -1,0 +1,270 @@
+{
+  "username": "peng.yu",
+  "name": "Peng Yu",
+  "generated_at": "2026-04-08T20:22:08.719039",
+  "summary": {
+    "message_count": 265,
+    "channels_active": 25,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 27,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! :wave: I\u2019ve got a PR up that flattens the upi-options-dag \u2014 it inlines all the triggered child DAGs (intra-shop-options-dag,",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :heart: please tag this issue on the fixing pr <https://github.com/Shopify/ml-taxonomy/issues/6206>",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! :wave: Quick review request: <https://github.com/Shopify/ml-taxonomy/pull/6188> \u2014 just a no-op change to trigger a dataflow image rebuild",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to merge it, you might need to do some math on how many workers to use in parallel\u2026 <@W018303QLR5> ",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, tyty",
+          "channel": "tmp-upi-metadata-backfill",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!! We can start over tmr morning if you don't feel like it ",
+          "channel": "tmp-upi-metadata-backfill",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "btw, if it is too late for you, feel free to leave me the task, i\u2019ll clean it up",
+          "channel": "the-shopify-catalog-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":dead: life is never easy\u2026\n&gt; - 166 ground truth clusters that were correctly clustered pre-collision got destroyed\n:expressionless:\n  Impact\n\n ",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "We\u2019re removing ~9K lines of dead code \u2014 and none of this would have been possible without the invaluable support of our amazing reviewers,",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi friends, i\u2019ve created the github project dashboard and issues to keep track of the tasks/issues here",
+          "channel": "proj-catalogue-upi-pipeline-optimization",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Great framing \u2014 you\u2019re describing the difference between UPI as a semantic entity (the Burton LimeLight Boots concept) vs UPI as a cluster artifact",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "andrei.danilchenko",
+          "count": 10
+        },
+        {
+          "user": "maxence.haltel",
+          "count": 8
+        },
+        {
+          "user": "mariya.mansurova",
+          "count": 6
+        },
+        {
+          "user": "audreyanne.guindon",
+          "count": 4
+        },
+        {
+          "user": "saravana.nukala",
+          "count": 4
+        },
+        {
+          "user": "ilia.kuchumov",
+          "count": 3
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 3
+        },
+        {
+          "user": "irina.pchelintceva",
+          "count": 2
+        },
+        {
+          "user": "taylor.kellison",
+          "count": 2
+        },
+        {
+          "user": "mladjan.mihajlovic",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.06,
+      "count": 188,
+      "top_channels": [
+        {
+          "channel": "the-shopify-catalog-operations",
+          "messages": 65
+        },
+        {
+          "channel": "proj-universal-products",
+          "messages": 58
+        },
+        {
+          "channel": "the-shopify-catalog",
+          "messages": 40
+        },
+        {
+          "channel": "catalog-platform-team-prs",
+          "messages": 17
+        },
+        {
+          "channel": "proj-catalogue-upi-pipeline-optimization",
+          "messages": 15
+        },
+        {
+          "channel": "tmp-upi-metadata-backfill",
+          "messages": 10
+        },
+        {
+          "channel": "proj-catalogue-instant-product-search",
+          "messages": 9
+        },
+        {
+          "channel": "peng-yu-river",
+          "messages": 7
+        },
+        {
+          "channel": "tmp-categories-backfill",
+          "messages": 5
+        },
+        {
+          "channel": "taxonomy-related-projects",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 94,
+      "top_mentioners": [
+        {
+          "user": "ben.chen",
+          "count": 14
+        },
+        {
+          "user": "andrei.danilchenko",
+          "count": 12
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 9
+        },
+        {
+          "user": "kevin.chou",
+          "count": 8
+        },
+        {
+          "user": "samantha.john",
+          "count": 7
+        },
+        {
+          "user": "audreyanne.guindon",
+          "count": 5
+        },
+        {
+          "user": "maxence.haltel",
+          "count": 5
+        },
+        {
+          "user": "mariya.mansurova",
+          "count": 4
+        },
+        {
+          "user": "irina.pchelintceva",
+          "count": 4
+        },
+        {
+          "user": "saravana.nukala",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 32,
+      "17": 19,
+      "16": 23,
+      "15": 43,
+      "19": 33,
+      "14": 32,
+      "13": 34,
+      "20": 27,
+      "1": 3,
+      "0": 2,
+      "23": 3,
+      "21": 12,
+      "22": 2
+    },
+    "by_day": {
+      "Wednesday": 71,
+      "Tuesday": 77,
+      "Monday": 43,
+      "Friday": 37,
+      "Thursday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.23,
+    "dept_average_30d": 5.79,
+    "dept_rank": 304,
+    "dept_size": 1233
+  }
+}

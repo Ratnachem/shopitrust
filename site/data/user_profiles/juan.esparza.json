@@ -1,0 +1,234 @@
+{
+  "username": "juan.esparza",
+  "name": "Juan Esparza",
+  "generated_at": "2026-04-08T20:22:21.276779",
+  "summary": {
+    "message_count": 283,
+    "channels_active": 14,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "`@shopify/shopifyql-language-server@23.2.1`  is out, we need to update <https://app.graphite.com/github/pr/shop/world/585020> to this version, do you",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you ",
+          "channel": "reportify-api-ops",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. I awm working on Nick\u2019s comments on the `feat(shopifyql-language-server): add ANNOTATE ALL shorthand`",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Just to make sure it is clear, the autocomplete is working and it is suggesting categories and events, the bug that I am trying to figure it out is",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U01HYLAL9NZ> did you figure it out?",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "philipp.schofer",
+          "count": 9
+        },
+        {
+          "user": "ewa.manek",
+          "count": 7
+        },
+        {
+          "user": "susie.kim",
+          "count": 5
+        },
+        {
+          "user": "nick.tierney",
+          "count": 5
+        },
+        {
+          "user": "anqi.gao",
+          "count": 5
+        },
+        {
+          "user": "nick.presta",
+          "count": 4
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 3
+        },
+        {
+          "user": "tyler.noseworthy",
+          "count": 1
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 1
+        },
+        {
+          "user": "christian.lessard",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.39,
+      "count": 116,
+      "top_channels": [
+        {
+          "channel": "reportify-api-ops",
+          "messages": 104
+        },
+        {
+          "channel": "proj-analytics-annotations",
+          "messages": 61
+        },
+        {
+          "channel": "temp-deploy-testing-msg",
+          "messages": 49
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 24
+        },
+        {
+          "channel": "analytics-ui-components",
+          "messages": 12
+        },
+        {
+          "channel": "proj-analytics-relative-dates",
+          "messages": 12
+        },
+        {
+          "channel": "river-jesparza",
+          "messages": 10
+        },
+        {
+          "channel": "proj-analytics-metric-targets",
+          "messages": 2
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 2
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.06,
+      "count": 63,
+      "top_mentioners": [
+        {
+          "user": "philipp.schofer",
+          "count": 14
+        },
+        {
+          "user": "susie.kim",
+          "count": 7
+        },
+        {
+          "user": "ewa.manek",
+          "count": 6
+        },
+        {
+          "user": "nick.tierney",
+          "count": 6
+        },
+        {
+          "user": "nick.presta",
+          "count": 5
+        },
+        {
+          "user": "patrick.racicot",
+          "count": 3
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 3
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 3
+        },
+        {
+          "user": "anqi.gao",
+          "count": 3
+        },
+        {
+          "user": "shamar.phillips",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 35,
+      "20": 24,
+      "19": 21,
+      "18": 43,
+      "17": 25,
+      "21": 27,
+      "15": 13,
+      "0": 6,
+      "22": 70,
+      "23": 16,
+      "1": 2,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 39,
+      "Tuesday": 127,
+      "Monday": 33,
+      "Friday": 56,
+      "Thursday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.76,
+    "dept_average_30d": 5.79,
+    "dept_rank": 597,
+    "dept_size": 1233
+  }
+}

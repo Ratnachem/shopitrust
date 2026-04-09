@@ -1,0 +1,263 @@
+{
+  "username": "henry.zhou",
+  "name": "Henry Zhou",
+  "generated_at": "2026-04-08T20:22:27.022758",
+  "summary": {
+    "message_count": 172,
+    "channels_active": 16,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much Farooq! Would you be willing to review this PR?\n\n<https://github.com/Shopify/infrastructure/pull/39204>",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "inc-20855-signals-deduplication-flink-pipeline-rest",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Josh! :pray:\n\nJust want to make sure we're thinking about the same thing.\n\nWhen you say \"add statsd to the calls in outbox\" \u2014 are you",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Ah sorry about that, I clarified with <@U0A337HEKFV> in a DM :sweat_smile:\n\nOur team is called \"signals\", unrelated to melody",
+          "channel": "help-melody",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey streaming team! :wave:\n\nQuestion about best practices for schema changes in Flink SQL pipelines.\n\nWe have a production SQL pipeline",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the mix up. Yes, `checkout_started` comes from these sources:\n\n\u2022 server side `monorail_server_side_storefront_customer_tracking` \n\u2022",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Made the change. Do you recommend we also move staging to us-east?\n\nOr is that not really important",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you so much Daniel and Luca!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much Khaled and Luca!\n\nWould you have a ETA on this feature Luca?\n\nI was actually thinking that for now, our team could also just drop",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "yup. I'm tempted to go higher than 2 restarts. Maybe 5 restarts? Getting paged like this overnight would be stupid.\n\n&gt; Your",
+          "channel": "mm-fdn-event-instrumentation-ops",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "elson.oliveira",
+          "count": 3
+        },
+        {
+          "user": "andrew.droll",
+          "count": 3
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 2
+        },
+        {
+          "user": "dave.sugden",
+          "count": 2
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 1
+        },
+        {
+          "user": "josh.teeter",
+          "count": 1
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 1
+        },
+        {
+          "user": "rosalie.liu",
+          "count": 1
+        },
+        {
+          "user": "kahvi.patel",
+          "count": 1
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.03,
+      "count": 239,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 49
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 33
+        },
+        {
+          "channel": "mm-fdn-event-instrumentation-ops",
+          "messages": 29
+        },
+        {
+          "channel": "inc-20855-signals-deduplication-flink-pipeline-rest",
+          "messages": 25
+        },
+        {
+          "channel": "customer-events",
+          "messages": 7
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 7
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 6
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 5
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 2
+        },
+        {
+          "channel": "help-trekkie",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 84,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 34
+        },
+        {
+          "user": "sarah.pyo",
+          "count": 13
+        },
+        {
+          "user": "yang.gao",
+          "count": 9
+        },
+        {
+          "user": "kenneth.ng",
+          "count": 6
+        },
+        {
+          "user": "sophie.orta",
+          "count": 4
+        },
+        {
+          "user": "leigh.greenway",
+          "count": 2
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 2
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 2
+        },
+        {
+          "user": "luca.castelli",
+          "count": 2
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 25,
+      "21": 14,
+      "19": 26,
+      "15": 18,
+      "17": 12,
+      "18": 26,
+      "16": 18,
+      "14": 4,
+      "2": 1,
+      "23": 3,
+      "22": 20,
+      "13": 4,
+      "0": 1
+    },
+    "by_day": {
+      "Tuesday": 48,
+      "Monday": 45,
+      "Thursday": 47,
+      "Wednesday": 26,
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.92,
+    "dept_average_30d": 5.77,
+    "dept_rank": 344,
+    "dept_size": 885
+  }
+}

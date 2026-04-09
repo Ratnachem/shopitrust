@@ -1,0 +1,265 @@
+{
+  "username": "ignacio.chiazzo",
+  "name": "Ignacio Chiazzo",
+  "generated_at": "2026-04-08T20:22:22.765239",
+  "summary": {
+    "message_count": 507,
+    "channels_active": 25,
+    "unique_people_mentioned": 31,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh no; thanks!",
+          "channel": "collections-eng",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I couldn't find it",
+          "channel": "help-collections",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Could you update the testing plan section to make",
+          "channel": "proj-most-relevant",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "np, Thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "I realized that I need the *internal tooling* for flexible collections to test the entire workflow (rebuild + reconsider + crud sources) earlier than",
+          "channel": "proj-flexible-collections",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Hey! yep it's not trivial. For collects and collections, the amount of work is big (great work Kitty!).\n\nI'd say we fully focus on yugabyte and then",
+          "channel": "collections_yugabyte",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I really like the explicitness; thanks!",
+          "channel": "proj-variants-in-collections",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "collections_yugabyte",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "If they don't care about unique URL, you could have a single collection with all books and a filter applied `family` + liquid customizations on the",
+          "channel": "help-products",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Chatted with <@W018HNVACNN> about implementation details:\n\n*How? TL;DR*\n\n*New internal and Mobile only fields:*\n1. New field on collection type:",
+          "channel": "shopify-mobile-app-collections",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "adam.ford",
+          "count": 26
+        },
+        {
+          "user": "aaron.richner",
+          "count": 21
+        },
+        {
+          "user": "elias.rumley",
+          "count": 9
+        },
+        {
+          "user": "andrew.pham",
+          "count": 7
+        },
+        {
+          "user": "jesse.sharps",
+          "count": 4
+        },
+        {
+          "user": "daniela.borges",
+          "count": 4
+        },
+        {
+          "user": "kitty.cai",
+          "count": 4
+        },
+        {
+          "user": "diana.cheptene",
+          "count": 4
+        },
+        {
+          "user": "lars.hoffbeck",
+          "count": 3
+        },
+        {
+          "user": "nick.presta",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.49,
+      "count": 369,
+      "top_channels": [
+        {
+          "channel": "proj-flexible-collections",
+          "messages": 142
+        },
+        {
+          "channel": "proj-most-relevant",
+          "messages": 80
+        },
+        {
+          "channel": "proj-variants-in-collections",
+          "messages": 60
+        },
+        {
+          "channel": "tmp-collections-river",
+          "messages": 42
+        },
+        {
+          "channel": "collections-eng",
+          "messages": 38
+        },
+        {
+          "channel": "help-collections",
+          "messages": 28
+        },
+        {
+          "channel": "collections_yugabyte",
+          "messages": 24
+        },
+        {
+          "channel": "tmp-gsd-47347-default-rank-collection-exp",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20836-production-collections-excessive-querying",
+          "messages": 17
+        },
+        {
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "messages": 14
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 102,
+      "top_mentioners": [
+        {
+          "user": "patrick.racicot",
+          "count": 18
+        },
+        {
+          "user": "elias.rumley",
+          "count": 13
+        },
+        {
+          "user": "jesse.sharps",
+          "count": 11
+        },
+        {
+          "user": "lars.hoffbeck",
+          "count": 10
+        },
+        {
+          "user": "wes.baker",
+          "count": 7
+        },
+        {
+          "user": "jon.hamburg",
+          "count": 6
+        },
+        {
+          "user": "adam.ford",
+          "count": 4
+        },
+        {
+          "user": "tatiana.uspenskaia",
+          "count": 3
+        },
+        {
+          "user": "daniela.borges",
+          "count": 3
+        },
+        {
+          "user": "aaron.richner",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 38,
+      "13": 71,
+      "12": 36,
+      "11": 10,
+      "20": 37,
+      "16": 63,
+      "23": 12,
+      "19": 27,
+      "18": 32,
+      "14": 62,
+      "17": 53,
+      "21": 38,
+      "22": 26,
+      "2": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 87,
+      "Tuesday": 121,
+      "Monday": 137,
+      "Friday": 78,
+      "Thursday": 84
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.89,
+    "dept_average_30d": 5.79,
+    "dept_rank": 93,
+    "dept_size": 1233
+  }
+}

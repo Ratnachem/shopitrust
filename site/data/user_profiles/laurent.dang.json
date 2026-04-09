@@ -1,0 +1,278 @@
+{
+  "username": "laurent.dang",
+  "name": "Laurent Dang",
+  "generated_at": "2026-04-08T20:22:07.707833",
+  "summary": {
+    "message_count": 1261,
+    "channels_active": 42,
+    "unique_people_mentioned": 49,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.7,
+      "pos_count": 47,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I am half off tomorrow but feel free to ping me for review, I will on and off working on peer review.",
+          "channel": "inv-21071-cart-flaky-tests",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02P2C3CBD3> :bow::skin-tone-3:",
+          "channel": "inv-21071-cart-flaky-tests",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Other than that, I am ready to :check:, thank you for your help :bow::skin-tone-3:",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "My mistake, I forgot to query for `/cart/add.js`",
+          "channel": "checkout-carts-errors",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'll be on and off today, feel free to ping me :blobwave:",
+          "channel": "inc-21092-flashsales-elevated-checkouts-errors-on-f",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thank you <@U07H95NG11D> for organizing this and helping us through this chaos. Your ownership really shone through, and you truly set the example",
+          "channel": "inv-21071-cart-flaky-tests",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U07H95NG11D> for organizing this and helping us through this chaos. Your ownership really shone through, and you truly set the example",
+          "channel": "inv-21071-cart-flaky-tests",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to update the message?",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I finished all my issues, which 80% were already handled by Niko, or the beta flag issue above. Feel free to ping me for reviews. Everything else",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03QNF477AB> <@U02P2C3CBD3> <@U02EHNQ1LG0> <@U07H95NG11D>\n\nIt's possible that Verdict flags are flaky with parallelization, I've reached out to the",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think I have a fix for this but I don't have the bandwidth at the moment. Basically, it comes the fact that `money_zero` uses the",
+          "channel": "checkout-carts-errors",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 54,
+      "top_mentioned": [
+        {
+          "user": "niko.rutherford",
+          "count": 14
+        },
+        {
+          "user": "gabriel.queiroz",
+          "count": 8
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 7
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 6
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 6
+        },
+        {
+          "user": "jin.xu",
+          "count": 4
+        },
+        {
+          "user": "sander.lijbrink",
+          "count": 4
+        },
+        {
+          "user": "maxime.ndutiye",
+          "count": 4
+        },
+        {
+          "user": "chris.waters",
+          "count": 3
+        },
+        {
+          "user": "devon.meunier",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 595,
+      "top_channels": [
+        {
+          "channel": "inc-20878-change-in-the-delivery-cache-key-caused-d",
+          "messages": 250
+        },
+        {
+          "channel": "checkout-carts-production-support",
+          "messages": 185
+        },
+        {
+          "channel": "checkout-carts-team",
+          "messages": 134
+        },
+        {
+          "channel": "tmp-cart-slo",
+          "messages": 99
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 76
+        },
+        {
+          "channel": "inc-20405-sfr-503s-due-to-dying-workers",
+          "messages": 59
+        },
+        {
+          "channel": "inv-20347-slow-query-on-pod-66",
+          "messages": 48
+        },
+        {
+          "channel": "inv-20334-cart-sfapi-slo-slow-burn",
+          "messages": 39
+        },
+        {
+          "channel": "inc-20186-multipass-errors-elevated",
+          "messages": 38
+        },
+        {
+          "channel": "db-platform-spanner",
+          "messages": 37
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 80,
+      "top_mentioners": [
+        {
+          "user": "clemens.park",
+          "count": 12
+        },
+        {
+          "user": "erik.ryhorchuk",
+          "count": 7
+        },
+        {
+          "user": "niko.rutherford",
+          "count": 7
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 6
+        },
+        {
+          "user": "evan.brodie",
+          "count": 5
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 4
+        },
+        {
+          "user": "raphael.adams",
+          "count": 4
+        },
+        {
+          "user": "jin.xu",
+          "count": 3
+        },
+        {
+          "user": "steven.janczy",
+          "count": 3
+        },
+        {
+          "user": "sander.lijbrink",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 143,
+      "17": 120,
+      "15": 109,
+      "12": 37,
+      "0": 4,
+      "14": 121,
+      "13": 94,
+      "2": 38,
+      "23": 4,
+      "22": 11,
+      "21": 101,
+      "20": 93,
+      "16": 46,
+      "11": 27,
+      "19": 112,
+      "5": 28,
+      "4": 18,
+      "3": 40,
+      "1": 53,
+      "10": 50,
+      "9": 12
+    },
+    "by_day": {
+      "Wednesday": 187,
+      "Tuesday": 443,
+      "Monday": 145,
+      "Friday": 283,
+      "Thursday": 203
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.71,
+    "dept_average_30d": 5.79,
+    "dept_rank": 119,
+    "dept_size": 1233
+  }
+}

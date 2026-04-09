@@ -1,0 +1,188 @@
+{
+  "username": "alex.comerford",
+  "name": "Alex Comerford",
+  "generated_at": "2026-04-08T20:22:21.620238",
+  "summary": {
+    "message_count": 49,
+    "channels_active": 9,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the delay. No issues or concerns",
+          "channel": "buyer-risk-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about this ^. I recently deployed production flink pipelines (as you can obviously tell) but I'm not sure why yet it alerts here.",
+          "channel": "merchant-fraud-risk-data-alerts",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Very good to know thank you!! I just followed the stateless deploy route and everything resolved nicely.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "rose.robertson",
+          "count": 1
+        },
+        {
+          "user": "austen.novis",
+          "count": 1
+        },
+        {
+          "user": "kelsey.ottenhof",
+          "count": 1
+        },
+        {
+          "user": "jenny.shih",
+          "count": 1
+        },
+        {
+          "user": "nuno.silva",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.25,
+      "count": 145,
+      "top_channels": [
+        {
+          "channel": "buyer-risk-team",
+          "messages": 18
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 14
+        },
+        {
+          "channel": "proj-adyen-card-payment-processing",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20308-pod359-backfillordersmissinganalysisreque",
+          "messages": 3
+        },
+        {
+          "channel": "merchant-fraud-risk-data-alerts",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "pp-proj-managed-risk",
+          "messages": 1
+        },
+        {
+          "channel": "feature-platform-shaping",
+          "messages": 1
+        },
+        {
+          "channel": "merchant-fraud-risk-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.52,
+      "count": 29,
+      "top_mentioners": [
+        {
+          "user": "nuno.silva",
+          "count": 6
+        },
+        {
+          "user": "michal.malecki",
+          "count": 6
+        },
+        {
+          "user": "rose.robertson",
+          "count": 3
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 3
+        },
+        {
+          "user": "arinze.okeke",
+          "count": 2
+        },
+        {
+          "user": "giorgos.logiotatidis",
+          "count": 2
+        },
+        {
+          "user": "justin.lang",
+          "count": 2
+        },
+        {
+          "user": "kelsey.ottenhof",
+          "count": 1
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 1
+        },
+        {
+          "user": "jenny.shih",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 9,
+      "16": 6,
+      "20": 4,
+      "1": 4,
+      "23": 2,
+      "21": 1,
+      "17": 6,
+      "14": 8,
+      "19": 3,
+      "18": 1,
+      "12": 1,
+      "13": 4
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Tuesday": 7,
+      "Thursday": 8,
+      "Monday": 8,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.66,
+    "dept_average_30d": 5.77,
+    "dept_rank": 795,
+    "dept_size": 885
+  }
+}

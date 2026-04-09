@@ -1,0 +1,79 @@
+{
+  "username": "ross.coughlan",
+  "name": "Ross Coughlan",
+  "generated_at": "2026-04-08T20:22:28.974628",
+  "summary": {
+    "message_count": 45,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad, I see it now",
+          "channel": "tool-gateway",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "andy.ury",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.27,
+      "count": 146,
+      "top_channels": [
+        {
+          "channel": "tool-gateway",
+          "messages": 43
+        },
+        {
+          "channel": "help-pos-pro-yearly-subscription",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 3,
+      "21": 20,
+      "20": 14,
+      "19": 6,
+      "17": 2
+    },
+    "by_day": {
+      "Monday": 43,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.44,
+    "dept_average_30d": 4.32,
+    "dept_rank": 781,
+    "dept_size": 848
+  }
+}

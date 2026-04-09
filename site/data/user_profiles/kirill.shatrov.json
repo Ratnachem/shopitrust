@@ -1,0 +1,343 @@
+{
+  "username": "kirill.shatrov",
+  "name": "Kirill Shatrov",
+  "generated_at": "2026-04-08T20:22:07.243189",
+  "summary": {
+    "message_count": 1023,
+    "channels_active": 51,
+    "unique_people_mentioned": 77,
+    "unique_mentioners": 77,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 21,
+      "neg_count": 11,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "great work Xiao and Greg!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I forgot we have a codex entry for this too",
+          "channel": "banking-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<@W018PSLEVRA> sorry about this. I should have remembered to raise this unsigned =&gt; signed migration with you.\nI can confirm that none of these",
+          "channel": "inc-18314-investigate-longboat-full-import-failures",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":eyes: thanks!",
+          "channel": "team-ci",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I've closed my earlier PR since that would not have helped here",
+          "channel": "team-ci",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! core is on `main` so probably not? :thinking_face:",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "it should be, yes, but <@U099ZAZAWLD> <@U093FQUHEJG> let me know if you see anything else",
+          "channel": "team-ci",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W01830RGBLP> <@U02GMUJ82LD> can I get your review on <https://app.graphite.com/github/pr/shop/world/529937>? thanks!",
+          "channel": "yugabyte-dashboard",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you both for looking into this",
+          "channel": "team-ci",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! Will try this",
+          "channel": "bulk-data-rnd",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "it should be very doable to capture GQL queries on the original store and attempt to replay them in some way. Note that I'm saying queries, not",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "my understanding is that it would need to seek/scan either way for whatever `LIMIT` that query specified",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "thanks, approved. The stub part feels a bit fragile in case someone refactors and renamed that method but that's your call.",
+          "channel": "yugabyte-dashboard",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever is in overrides.yml is already applied to Yugabyte schema that's in staging. I'm not sure I get the point about production traffic; you",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if location is part of hierarchy then I'd expect it appear somewhere in the PK. For example as ``((shop_id) HASH, location_id, id)`` or `((shop_id)",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://github.com/Shopify/globaldb-yugabyte/pull/5050> is what lets you create testing tables on staging. You can create two tables with each PK",
+          "channel": "core-catalogs-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U02GMUJ82LD> <@U039ZQFCWF4> fyi -- we can get whatever branch deployed to that cluster, and <http://shard390-pingdom.myshopify.com/> will hit mysql",
+          "channel": "tmp-core-sfr-yugabyte-infra",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "similarly, as a developer you should have an option to say \"I want this table to be global RF7\" and ideally that doesn't involve hardcoding the exact",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'd love to copy <https://thestore.shopify.io/> and it's products + theme + whatever else is easy to copy",
+          "channel": "bulk-data-rnd",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "semantically, I don't think including `core` is the right thing because it can theoretially let someone think that it's ok to use migrations in core",
+          "channel": "proj-infra-yugabyte-rails-migrations",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 79,
+      "top_mentioned": [
+        {
+          "user": "austen.lacy",
+          "count": 12
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 9
+        },
+        {
+          "user": "michael.go",
+          "count": 8
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 8
+        },
+        {
+          "user": "daiane.silva",
+          "count": 6
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 5
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 5
+        },
+        {
+          "user": "nate.dipiazza",
+          "count": 4
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 4
+        },
+        {
+          "user": "chao.duan",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 714,
+      "top_channels": [
+        {
+          "channel": "yugabyte-mission",
+          "messages": 185
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 91
+        },
+        {
+          "channel": "yugabyte-and-river",
+          "messages": 73
+        },
+        {
+          "channel": "tmp-core-sfr-yugabyte-infra",
+          "messages": 68
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 64
+        },
+        {
+          "channel": "products-yugabyte-exodia",
+          "messages": 53
+        },
+        {
+          "channel": "team-ci",
+          "messages": 50
+        },
+        {
+          "channel": "proj-infra-yugabyte-rails-migrations",
+          "messages": 48
+        },
+        {
+          "channel": "proj-deliver-yugabyte",
+          "messages": 45
+        },
+        {
+          "channel": "pcb-yugabyte-in-core",
+          "messages": 32
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 216,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 23
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 15
+        },
+        {
+          "user": "austen.lacy",
+          "count": 11
+        },
+        {
+          "user": "emilie.noel",
+          "count": 11
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 10
+        },
+        {
+          "user": "kush.patel",
+          "count": 10
+        },
+        {
+          "user": "adrianna.chang",
+          "count": 9
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 7
+        },
+        {
+          "user": "debora.setton",
+          "count": 7
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 100,
+      "16": 122,
+      "15": 68,
+      "14": 59,
+      "1": 15,
+      "0": 36,
+      "21": 100,
+      "20": 92,
+      "19": 87,
+      "17": 126,
+      "13": 10,
+      "11": 9,
+      "10": 3,
+      "9": 1,
+      "8": 1,
+      "22": 80,
+      "12": 16,
+      "23": 32,
+      "4": 12,
+      "2": 17,
+      "6": 1,
+      "5": 9,
+      "3": 27
+    },
+    "by_day": {
+      "Wednesday": 240,
+      "Tuesday": 232,
+      "Monday": 174,
+      "Thursday": 226,
+      "Friday": 151
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 9.95,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1,
+    "dept_size": 1663
+  }
+}

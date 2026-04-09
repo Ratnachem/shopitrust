@@ -1,0 +1,223 @@
+{
+  "username": "rosa.seohwakang",
+  "name": "Rosa Seohwakang",
+  "generated_at": "2026-04-08T20:22:27.623905",
+  "summary": {
+    "message_count": 431,
+    "channels_active": 20,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "it did, thank you again :bow-girl:",
+          "channel": "proj-core-kafka-consumer-efficiency",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! no rush. :btw: If using jmx exporter can provide jvm metrics to prometheus, i think we may not need the metric binders. so if thats the case",
+          "channel": "proj-core-kafka-consumer-efficiency",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "just putting an example since ive been :math-lady: to the max. Lets say we have log segment 1 (350 bytes), chunk size = 100, 2 consumers reading from",
+          "channel": "streaming-foundations-alerts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "&gt; Cruise-control is only in west1 though I believe\nyeah my bad too many eu threads",
+          "channel": "inc-20226-kafka-regional-eu-offline-partitions",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "jerick.liu",
+          "count": 4
+        },
+        {
+          "user": "david.mariassy",
+          "count": 1
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 1
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 1
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 1
+        },
+        {
+          "user": "balint.bene",
+          "count": 1
+        },
+        {
+          "user": "darren.li",
+          "count": 1
+        },
+        {
+          "user": "michael.terranova",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        },
+        {
+          "user": "rezaan.syed",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.17,
+      "count": 141,
+      "top_channels": [
+        {
+          "channel": "streaming-foundations-alerts",
+          "messages": 123
+        },
+        {
+          "channel": "inc-20226-kafka-regional-eu-offline-partitions",
+          "messages": 80
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 64
+        },
+        {
+          "channel": "proj-infra-kafka-tiered-storage",
+          "messages": 43
+        },
+        {
+          "channel": "proj-core-kafka-consumer-efficiency",
+          "messages": 34
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 20
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 17
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 15
+        },
+        {
+          "channel": "proj-kafka-cluster-splits-and-topology",
+          "messages": 8
+        },
+        {
+          "channel": "inv-19995-gamesday--production-us-region-failover-s",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.15,
+      "count": 35,
+      "top_mentioners": [
+        {
+          "user": "filipe.deo",
+          "count": 8
+        },
+        {
+          "user": "darren.li",
+          "count": 6
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 5
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 3
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 3
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "kenny.kwan",
+          "count": 1
+        },
+        {
+          "user": "eli.bailey",
+          "count": 1
+        },
+        {
+          "user": "jerick.liu",
+          "count": 1
+        },
+        {
+          "user": "karab.sze",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 47,
+      "17": 37,
+      "16": 51,
+      "15": 49,
+      "21": 38,
+      "20": 27,
+      "19": 55,
+      "14": 48,
+      "13": 18,
+      "10": 1,
+      "22": 19,
+      "23": 2,
+      "1": 8,
+      "12": 22,
+      "4": 1,
+      "0": 8
+    },
+    "by_day": {
+      "Tuesday": 178,
+      "Monday": 31,
+      "Friday": 62,
+      "Thursday": 71,
+      "Wednesday": 89
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.45,
+    "dept_average_30d": 4.74,
+    "dept_rank": 359,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "username": "daniel.tamming",
+  "name": "Daniel Tamming",
+  "generated_at": "2026-04-08T20:22:17.840415",
+  "summary": {
+    "message_count": 156,
+    "channels_active": 11,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Depending on how that mart is used, this could be a non-issue, but I just want to flag that the `confirmed_fraud_payout_rate_bps`  and other",
+          "channel": "temp_pcb_kpi_alignment",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats <@U0311RM1M7E>! Very well deserved :tada:",
+          "channel": "payments-cross-border-talk",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you. Just FYI, I shared <https://shopify.slack.com/archives/C0A3KQTNUDN/p1774886558375269|this here>",
+          "channel": "emerging-fraud-trends",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "You're right - my mistake. <@U02428HSP3Q> do you know why fraud SP rejections, outside of IDV, aren't included in our fraud proxy metric?",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "friendly reminder",
+          "text": ":wave: friendly reminder to give",
+          "channel": "proj-payments-sleeper-bustout-detection",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The rule uses whatever NITS model is in production at the time. So now that the new NITS model is fully promoted, the rule is using that model",
+          "channel": "proj-payments-sleeper-bustout-detection",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "alexandre.sauve",
+          "count": 9
+        },
+        {
+          "user": "dikshant.sharma",
+          "count": 6
+        },
+        {
+          "user": "david.greenslade",
+          "count": 5
+        },
+        {
+          "user": "alex.carr",
+          "count": 5
+        },
+        {
+          "user": "jalen.nguyen",
+          "count": 5
+        },
+        {
+          "user": "alex.babinski",
+          "count": 5
+        },
+        {
+          "user": "jarvis.kay",
+          "count": 4
+        },
+        {
+          "user": "jose.degyves",
+          "count": 3
+        },
+        {
+          "user": "andre.ache",
+          "count": 2
+        },
+        {
+          "user": "ronald.feng",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.57,
+      "count": 215,
+      "top_channels": [
+        {
+          "channel": "merchant-fraud-risk-team",
+          "messages": 100
+        },
+        {
+          "channel": "emerging-fraud-trends",
+          "messages": 17
+        },
+        {
+          "channel": "proj-payments-sleeper-bustout-detection",
+          "messages": 11
+        },
+        {
+          "channel": "temp_pcb_kpi_alignment",
+          "messages": 8
+        },
+        {
+          "channel": "dt-river",
+          "messages": 4
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 4
+        },
+        {
+          "channel": "proj-payments-card-cash-optimize",
+          "messages": 4
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 3
+        },
+        {
+          "channel": "proj-nits-ml-model-improvements-gsd48638",
+          "messages": 3
+        },
+        {
+          "channel": "payments-cross-border-talk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.35,
+      "count": 37,
+      "top_mentioners": [
+        {
+          "user": "dikshant.sharma",
+          "count": 9
+        },
+        {
+          "user": "alexandre.sauve",
+          "count": 5
+        },
+        {
+          "user": "tony.kim",
+          "count": 4
+        },
+        {
+          "user": "david.greenslade",
+          "count": 3
+        },
+        {
+          "user": "alex.carr",
+          "count": 3
+        },
+        {
+          "user": "steven.bei",
+          "count": 1
+        },
+        {
+          "user": "tanner.kulbashian",
+          "count": 1
+        },
+        {
+          "user": "ronald.feng",
+          "count": 1
+        },
+        {
+          "user": "jose.degyves",
+          "count": 1
+        },
+        {
+          "user": "jarvis.kay",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 16,
+      "16": 24,
+      "13": 30,
+      "21": 9,
+      "20": 5,
+      "15": 20,
+      "19": 10,
+      "18": 13,
+      "14": 14,
+      "12": 3,
+      "0": 3,
+      "23": 1,
+      "22": 6,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 49,
+      "Tuesday": 35,
+      "Monday": 15,
+      "Thursday": 38,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.85,
+    "dept_average_30d": 5.39,
+    "dept_rank": 84,
+    "dept_size": 272
+  }
+}

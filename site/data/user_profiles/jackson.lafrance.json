@@ -1,0 +1,89 @@
+{
+  "username": "jackson.lafrance",
+  "name": "Jackson Lafrance",
+  "generated_at": "2026-04-08T20:22:32.051628",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 13,
+    "days_scale": 0.57
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team,\n`dev setup`  (or any other dev command) is not working for me, as every time I run it, it asks for a new token.  Then when I input the",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team,\n`dev setup`  (or any other dev command) is not working for me, as every time I run it, it asks for a new token.  Then when I input the",
+          "channel": "dev-up",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 3
+        },
+        {
+          "channel": "dev-up",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.37,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "michael.dooley",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 2,
+      "14": 3
+    },
+    "by_day": {
+      "Monday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.73,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1441,
+    "dept_size": 1663
+  }
+}

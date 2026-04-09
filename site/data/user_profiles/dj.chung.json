@@ -1,0 +1,282 @@
+{
+  "username": "dj.chung",
+  "name": "DJ Chung",
+  "generated_at": "2026-04-08T20:22:06.183631",
+  "summary": {
+    "message_count": 448,
+    "channels_active": 13,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "ok - trying something <@U07UB138TA9> <@U095BF87RQQ>\n1. I put the spec in a .md file and pushed it to a repo, you can get it with `git clone",
+          "channel": "proj-shop-land-push-feed",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018WBP9N2D> <@U07UB138TA9> I've marked High priority for client fixes we shoudl get in",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok sweet thank you - <@U099U3698MR> anything else to check re: eventing?",
+          "channel": "proj-shop-scroll-nudge",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "A few things\n1. Can you use the updated screenshots from here: <https://experiments.shopify.io/experiments/e__shop_feed__home_feed__scroll_nudge>\n2.",
+          "channel": "proj-shop-scroll-nudge",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you and I'll set up some time for us to do final checks as well",
+          "channel": "proj-shop-scroll-nudge",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-shop-scroll-nudge",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Feels like if we keep the 0.1 relevance threshold it should be fine to get extra candidates? I'm not aware of other tradeoffs so let me know if I'm",
+          "channel": "proj-limited-selection-ranker-for-shop",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Good question. Yes for now and likely over time they will not get shown as newly created Posts get created. Let me know if this causes issues",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-shop-scroll-nudge",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sweet thank you!",
+          "channel": "proj-shop-scroll-nudge",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U022Y7W3H1U> - can you weigh in? My take is that I want to make sure we get an accurate read on exp results, that we can review those results",
+          "channel": "proj-shop-land-push-feed",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the 7% is inclusive of whatever path they use to get to Home, back or tap on Home tab",
+          "channel": "proj-shop-land-push-feed",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "ryan.lambert",
+          "count": 61
+        },
+        {
+          "user": "ted.smith",
+          "count": 42
+        },
+        {
+          "user": "kyle.waldrop",
+          "count": 32
+        },
+        {
+          "user": "dean.vanasseldonk",
+          "count": 25
+        },
+        {
+          "user": "eylam.fried",
+          "count": 25
+        },
+        {
+          "user": "sean.dang",
+          "count": 15
+        },
+        {
+          "user": "sebastian.valencia",
+          "count": 11
+        },
+        {
+          "user": "bill.devine",
+          "count": 11
+        },
+        {
+          "user": "jane.cui",
+          "count": 8
+        },
+        {
+          "user": "kyle.weeks",
+          "count": 8
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.06,
+      "count": 188,
+      "top_channels": [
+        {
+          "channel": "proj-shop-scroll-nudge",
+          "messages": 192
+        },
+        {
+          "channel": "proj-shop-posts",
+          "messages": 146
+        },
+        {
+          "channel": "proj-shop-land-push-feed",
+          "messages": 67
+        },
+        {
+          "channel": "proj-shop-first-feed",
+          "messages": 13
+        },
+        {
+          "channel": "proj-shop-superfeed",
+          "messages": 8
+        },
+        {
+          "channel": "shop-talk",
+          "messages": 6
+        },
+        {
+          "channel": "recommendations-team-experiments",
+          "messages": 6
+        },
+        {
+          "channel": "shop-merchant-experience",
+          "messages": 4
+        },
+        {
+          "channel": "shop-feed",
+          "messages": 2
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 199,
+      "top_mentioners": [
+        {
+          "user": "ryan.lambert",
+          "count": 40
+        },
+        {
+          "user": "kyle.waldrop",
+          "count": 38
+        },
+        {
+          "user": "eylam.fried",
+          "count": 15
+        },
+        {
+          "user": "jane.cui",
+          "count": 12
+        },
+        {
+          "user": "kyle.weeks",
+          "count": 12
+        },
+        {
+          "user": "sean.dang",
+          "count": 8
+        },
+        {
+          "user": "bill.devine",
+          "count": 8
+        },
+        {
+          "user": "isaac.ebhodaghe",
+          "count": 7
+        },
+        {
+          "user": "rhys.young",
+          "count": 7
+        },
+        {
+          "user": "ted.smith",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 46,
+      "21": 55,
+      "20": 29,
+      "19": 45,
+      "17": 54,
+      "16": 78,
+      "15": 61,
+      "22": 28,
+      "5": 7,
+      "23": 15,
+      "4": 19,
+      "0": 3,
+      "2": 1,
+      "7": 1,
+      "6": 3,
+      "1": 1,
+      "14": 1,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 114,
+      "Monday": 93,
+      "Friday": 103,
+      "Thursday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.32,
+    "dept_average_30d": 5.86,
+    "dept_rank": 50,
+    "dept_size": 166
+  }
+}

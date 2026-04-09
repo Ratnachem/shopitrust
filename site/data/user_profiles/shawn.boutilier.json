@@ -1,0 +1,203 @@
+{
+  "username": "shawn.boutilier",
+  "name": "Shawn Boutilier",
+  "generated_at": "2026-04-08T20:22:07.542737",
+  "summary": {
+    "message_count": 205,
+    "channels_active": 16,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197J22ZNC> <https://github.com/shop/issues-infrastructure-security/issues/449#issuecomment-4178406549> &lt;--- Leadership targetted doc. Let me",
+          "channel": "infrasec-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi all, can I get a review of <https://github.com/ShopifyRestricted/terraform-environments/pull/1628> ? Thanks!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "~<@U020XBELRFS> My approvals are all through. Still no access. I also popped Unrestricted Access in cloud do and waited ~30m, still no access on",
+          "channel": "help-ris",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Approved and merged. I think I'd like to see the request be bumped, but we can start at limits and see where we wind up. Want me to roll this out?",
+          "channel": "falco-performance-tuning",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Ideally we track them all. But we could target specific ones for the time being. Even this total count being available is super helpful! Really",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "owen.cummings",
+          "count": 16
+        },
+        {
+          "user": "alejandro.yepez",
+          "count": 4
+        },
+        {
+          "user": "nick.wareing",
+          "count": 3
+        },
+        {
+          "user": "mojan.jamalzadeh",
+          "count": 3
+        },
+        {
+          "user": "darren.foo",
+          "count": 1
+        },
+        {
+          "user": "peter.wagner",
+          "count": 1
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 1
+        },
+        {
+          "user": "shane.lawrence",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.93,
+      "count": 234,
+      "top_channels": [
+        {
+          "channel": "infrasec-observability",
+          "messages": 89
+        },
+        {
+          "channel": "falco-performance-tuning",
+          "messages": 41
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 16
+        },
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 11
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 11
+        },
+        {
+          "channel": "help-ris",
+          "messages": 11
+        },
+        {
+          "channel": "proj-security-infrasec-alert-automation",
+          "messages": 10
+        },
+        {
+          "channel": "falco",
+          "messages": 3
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 2
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "owen.cummings",
+          "count": 19
+        },
+        {
+          "user": "alejandro.yepez",
+          "count": 6
+        },
+        {
+          "user": "craigsharpe",
+          "count": 3
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        },
+        {
+          "user": "nick.wareing",
+          "count": 2
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 19,
+      "17": 23,
+      "16": 30,
+      "15": 18,
+      "14": 26,
+      "13": 21,
+      "12": 27,
+      "11": 15,
+      "19": 17,
+      "10": 5,
+      "20": 2,
+      "23": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 26,
+      "Monday": 33,
+      "Thursday": 60,
+      "Friday": 26
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 4.89,
+    "dept_rank": 72,
+    "dept_size": 237
+  }
+}

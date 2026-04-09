@@ -1,0 +1,295 @@
+{
+  "username": "josh.murray",
+  "name": "Josh Murray",
+  "generated_at": "2026-04-08T20:22:09.340035",
+  "summary": {
+    "message_count": 249,
+    "channels_active": 11,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Mornin\u2019!  Now that we\u2019ve rolled out the only-the-fly lat/lons for delivery estimates in Shop App, I\u2019d like to merge",
+          "channel": "promise-experience",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Sorry, I\u2019m still trying to understand how these map to something in `fulfillments` or `fulfillment_events`, if at all.  Is there a",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U03UJ241NLD>, feel free to hop on the customer FE work. I do have a draft PR for the first two, but they are basic and feel free to take over.  I",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh <@U03UJ241NLD>, this may actually be my bad.  I think `public: false` takes care of it. Ignore my comment about the flag, and sorry!",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> I got this response from vault bot. What do you think? This code may be in `areas/core/shopify`:\n\n3P Delivery Promises still exist",
+          "channel": "joshmurray-river",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks! I\u2019ll let this stew for half a day, _just_ in case something weird pops up, and merge this afternoon",
+          "channel": "proj-shop-promise-gated-predictions",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good afternoon! I have <https://app.graphite.com/github/pr/Shopify/shop-server/144955|a stack of two PRs> I\u2019d love an approval from this team on that",
+          "channel": "shop-marketplace",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good afternoon! I have <https://app.graphite.com/github/pr/Shopify/shop-server/144955|a stack of two PRs> I\u2019d like to merge in the next few days that",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I tossed in a new proposal under \u201cKey Decision 2: How do we resolve coordinates for no-postal-code, larger-geography countries (bucket 3) on Shop",
+          "channel": "proj-shop-promise-gated-predictions",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Gah, that was it. I did have ubertools set up, but I didn\u2019t have the zip code set to 10001 (I had my minnesota one) :facepalm:   Thanks!",
+          "channel": "promise-experience",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "That sounds good.  <@U021TMBLKJN>, I shot you an IM as well, but would you mind enabling this flag on whatever shop you are using to test on next",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This conversation half fell out of my :brain:  from yesterday, so resurfacing it here.   <@U02JNGAQDV1> brought up a good point about how to handle",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U08B0H29VSA>, <https://github.com/shop/world/pull/552848|my PR> is feeling pretty good from a test-from-the-CLI standpoint.  I\u2019ll probably ask your",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "```\u276f Help me out: when current_delivery_estimates.rb calls on_time? , does that consider the destination time zone?  I kno wthat function itself",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U026C70FTBK>, no need to look at this today of course, but I have that lat/lon inputs for SFR PR ready:\n\n:pr:",
+          "channel": "proj-shop-promise-gated-predictions",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "andrewcampbell.johnson",
+          "count": 19
+        },
+        {
+          "user": "charlie.morris",
+          "count": 15
+        },
+        {
+          "user": "sergio.garcia",
+          "count": 12
+        },
+        {
+          "user": "chris.sweeney",
+          "count": 11
+        },
+        {
+          "user": "alexa.whitney",
+          "count": 10
+        },
+        {
+          "user": "max.giraldo",
+          "count": 7
+        },
+        {
+          "user": "ryan.creps",
+          "count": 5
+        },
+        {
+          "user": "mori.ahmadi",
+          "count": 3
+        },
+        {
+          "user": "will.pittman",
+          "count": 3
+        },
+        {
+          "user": "jacques.krzepkowski",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.89,
+      "count": 129,
+      "top_channels": [
+        {
+          "channel": "proj-updated-edds-post-checkout",
+          "messages": 130
+        },
+        {
+          "channel": "joshmurray-river",
+          "messages": 37
+        },
+        {
+          "channel": "proj-shop-promise-gated-predictions",
+          "messages": 35
+        },
+        {
+          "channel": "proj-ship-pickup-1-order",
+          "messages": 19
+        },
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 12
+        },
+        {
+          "channel": "promise-experience",
+          "messages": 7
+        },
+        {
+          "channel": "promise-engineering",
+          "messages": 4
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 2
+        },
+        {
+          "channel": "promise-dev-ops",
+          "messages": 1
+        },
+        {
+          "channel": "shop-marketplace",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.27,
+      "count": 65,
+      "top_mentioners": [
+        {
+          "user": "alexa.whitney",
+          "count": 15
+        },
+        {
+          "user": "chris.sweeney",
+          "count": 12
+        },
+        {
+          "user": "xinran.wang",
+          "count": 7
+        },
+        {
+          "user": "charlie.morris",
+          "count": 6
+        },
+        {
+          "user": "andrewcampbell.j-1963",
+          "count": 6
+        },
+        {
+          "user": "max.giraldo",
+          "count": 4
+        },
+        {
+          "user": "jake.joseph",
+          "count": 3
+        },
+        {
+          "user": "mori.ahmadi",
+          "count": 2
+        },
+        {
+          "user": "jon.elliott",
+          "count": 1
+        },
+        {
+          "user": "mathyas.papp",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 50,
+      "16": 21,
+      "15": 15,
+      "14": 25,
+      "13": 37,
+      "17": 33,
+      "20": 31,
+      "19": 24,
+      "21": 5,
+      "12": 8
+    },
+    "by_day": {
+      "Wednesday": 68,
+      "Tuesday": 48,
+      "Thursday": 53,
+      "Monday": 33,
+      "Friday": 47
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 5.77,
+    "dept_rank": 261,
+    "dept_size": 885
+  }
+}

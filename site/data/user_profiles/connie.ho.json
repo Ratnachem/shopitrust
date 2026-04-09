@@ -1,0 +1,272 @@
+{
+  "username": "connie.ho",
+  "name": "Connie Ho",
+  "generated_at": "2026-04-08T20:22:07.061791",
+  "summary": {
+    "message_count": 728,
+    "channels_active": 28,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.4,
+      "pos_count": 29,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "x-posting...\n\nWe rolled out a r*edacted version of the Thank You page* :party-blob: (ty to <@W018WAS8C1X> for all the help here)\n\n*Context*\nWhen",
+          "channel": "checkout-foundations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> I'm trying to get some metrics on how many times we're showing the redacted thank you page. I think based on the code we can",
+          "channel": "connie-river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> I'm trying to get some metrics on how many times we're showing the redacted thank you page. I think based on the code we can",
+          "channel": "connie-river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> Hey team, TMS here. A partner is reporting that `checkouts/create` and `checkouts/update` webhook payloads are missing the `id` field",
+          "channel": "connie-river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Can you add it to this list and like the other issue for the C1 thank you page, make sure that it can be hideable.",
+          "channel": "connie-river",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-c: Wondering if this is an issue your team can help resolve <https://github.com/shop/issues/issues/23010>\nWe think there's something unexpected",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> We've decided to track memcache and verdict tests that are affected externally. For all of the checkouts controller for C1 thank you",
+          "channel": "connie-river",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Slightly confused, are we both looking at this? `ThankYouPageTimeoutError: Timed out waiting for thank you page`",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! do you mind if I tag you for review as well?",
+          "channel": "fulfillment",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; That's\u2026 60+ flaky test issues you want me to triage. On April Fools' Day. How fitting.\nI wonder which of our VPs personality ..",
+          "channel": "tmp-checkout-flaky-tests",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> Okay, now it seems like just a useless test because we're stubbing the result, but then we're also asserting the result at the same",
+          "channel": "connie-river",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "christopher.rintjema",
+          "count": 8
+        },
+        {
+          "user": "spencer.plant",
+          "count": 5
+        },
+        {
+          "user": "evan.brodie",
+          "count": 3
+        },
+        {
+          "user": "aodhagan.clifford",
+          "count": 3
+        },
+        {
+          "user": "kris.delacruz",
+          "count": 3
+        },
+        {
+          "user": "quinn.fahey",
+          "count": 3
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 3
+        },
+        {
+          "user": "damien.ardouin",
+          "count": 2
+        },
+        {
+          "user": "megan.derbyshire",
+          "count": 2
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 480,
+      "top_channels": [
+        {
+          "channel": "connie-river",
+          "messages": 237
+        },
+        {
+          "channel": "tmp-checkout-flaky-tests",
+          "messages": 107
+        },
+        {
+          "channel": "checkout-platform-support",
+          "messages": 105
+        },
+        {
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "messages": 93
+        },
+        {
+          "channel": "inc-20313-investigating-increase-in-reports-of-dupl",
+          "messages": 63
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 32
+        },
+        {
+          "channel": "checkout-one-exceptions",
+          "messages": 18
+        },
+        {
+          "channel": "help-observability",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20264-orderless-transactions-due-to-discount",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20634-balance-paid-emails-arent-reaching-mercha",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 79,
+      "top_mentioners": [
+        {
+          "user": "celine.bensoussan",
+          "count": 22
+        },
+        {
+          "user": "spencer.plant",
+          "count": 9
+        },
+        {
+          "user": "christopher.rintjema",
+          "count": 5
+        },
+        {
+          "user": "aodhagan.clifford",
+          "count": 5
+        },
+        {
+          "user": "damien.ardouin",
+          "count": 5
+        },
+        {
+          "user": "evan.brodie",
+          "count": 4
+        },
+        {
+          "user": "jasmine.kaur",
+          "count": 3
+        },
+        {
+          "user": "james.vidler",
+          "count": 3
+        },
+        {
+          "user": "simon.bats",
+          "count": 3
+        },
+        {
+          "user": "rob.stong",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 51,
+      "17": 109,
+      "16": 100,
+      "15": 122,
+      "23": 26,
+      "22": 60,
+      "21": 81,
+      "20": 86,
+      "19": 53,
+      "14": 32,
+      "0": 3,
+      "3": 1,
+      "4": 1,
+      "1": 2,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 145,
+      "Tuesday": 191,
+      "Monday": 151,
+      "Thursday": 174,
+      "Friday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.49,
+    "dept_average_30d": 5.79,
+    "dept_rank": 189,
+    "dept_size": 1233
+  }
+}

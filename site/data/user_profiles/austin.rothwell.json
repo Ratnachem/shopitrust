@@ -1,0 +1,250 @@
+{
+  "username": "austin.rothwell",
+  "name": "Austin Rothwell",
+  "generated_at": "2026-04-08T20:22:05.878916",
+  "summary": {
+    "message_count": 142,
+    "channels_active": 9,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 9,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yes that is the current target - going to catch up with Diego to review the plan later today then can try to give you a more firm timeline. But yes",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it - we are figuring out the best order of operations as we work with other applications too - so will take this into account and keep you posted",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Just to make sure I understand - the POS pro predictions have a weaker correlation with opp creation than opp -&gt; close (win rate?) in comparison",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it - thank you. Our objective is to help power as many applications as possible, so this is great to hear!",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Mine went through! Thank you",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Nice! A couple ideas for tweaks - let me know if you think these make sense:\n\u2022 Cap eval to 90 days after score timestamp to match the prediction",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "My feedback: I think it would be useful to understand how the queueing of jobs works - is it strictly FIFO or something else? Thank you for the help",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, thank you :sweat_smile: Interesting, they don't show up with `sky status`",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hey <@W018GAGDCVB>! We have been working on various improvements to the HSTU embedding quality over the last few weeks. Would you be",
+          "channel": "proj-payments-seq-nits-classifier",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "diego.ardila",
+          "count": 3
+        },
+        {
+          "user": "breno.limadefreitas",
+          "count": 3
+        },
+        {
+          "user": "aaron.yao",
+          "count": 3
+        },
+        {
+          "user": "matthew.draper",
+          "count": 2
+        },
+        {
+          "user": "pairat.thorncharoensri",
+          "count": 1
+        },
+        {
+          "user": "ram.vemula",
+          "count": 1
+        },
+        {
+          "user": "adrian.prayogo",
+          "count": 1
+        },
+        {
+          "user": "matt.franklin",
+          "count": 1
+        },
+        {
+          "user": "samih.ibrahim",
+          "count": 1
+        },
+        {
+          "user": "daniel.hopper",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.52,
+      "count": 40,
+      "top_channels": [
+        {
+          "channel": "live-site-monitoring",
+          "messages": 68
+        },
+        {
+          "channel": "proj-revenue-tools-product-adoption",
+          "messages": 20
+        },
+        {
+          "channel": "austin-rothwell-river",
+          "messages": 20
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 17
+        },
+        {
+          "channel": "proj-payments-seq-nits-classifier",
+          "messages": 11
+        },
+        {
+          "channel": "hstu-team",
+          "messages": 3
+        },
+        {
+          "channel": "inv-21190-core-has-ci-pipeline-post-merge-testing-f",
+          "messages": 1
+        },
+        {
+          "channel": "inv-20943-sfr-5xx-on-homepage-user-journey",
+          "messages": 1
+        },
+        {
+          "channel": "merchant-events-foundational-model-alerts",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "will.stanton",
+          "count": 7
+        },
+        {
+          "user": "breno.limadefreitas",
+          "count": 7
+        },
+        {
+          "user": "jonathan.klinger",
+          "count": 6
+        },
+        {
+          "user": "tom.rochette",
+          "count": 4
+        },
+        {
+          "user": "ram.vemula",
+          "count": 1
+        },
+        {
+          "user": "nikita.ali",
+          "count": 1
+        },
+        {
+          "user": "matthew.draper",
+          "count": 1
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 1
+        },
+        {
+          "user": "adrian.prayogo",
+          "count": 1
+        },
+        {
+          "user": "matt.franklin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 7,
+      "17": 17,
+      "1": 1,
+      "23": 17,
+      "20": 37,
+      "19": 16,
+      "16": 2,
+      "0": 9,
+      "22": 10,
+      "21": 23,
+      "15": 2,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 28,
+      "Tuesday": 56,
+      "Monday": 39,
+      "Thursday": 14,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.53,
+    "dept_average_30d": 5.58,
+    "dept_rank": 214,
+    "dept_size": 398
+  }
+}

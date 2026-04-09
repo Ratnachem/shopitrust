@@ -1,0 +1,240 @@
+{
+  "username": "ben.lerchin",
+  "name": "Ben Lerchin",
+  "generated_at": "2026-04-08T20:22:18.826264",
+  "summary": {
+    "message_count": 315,
+    "channels_active": 16,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That would be awesome, thank you!",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U03Q04SE01K> That is super helpful to know, thank you! Were you able to run that task successfully? Also could you point me to any docs you have",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Will do.",
+          "channel": "theme-store-devs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing how he keeps up with all this product stuff while balancing an NFL career",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For whatever reason we are using domain instead of `shop_id` in the log viewer currently. So unless we want to change that we need some value for",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "going forward,? please",
+          "text": "Yep. I think as of now we\u2019ve moved the big rocks in terms of setting up foundations for unified logs. Going forward please work on this stack for any",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The new app activities API is totally divorced from extensions so I\u2019m not sure that applies. `handle` can be whatever an app developer types in.",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "simon.levasseur",
+          "count": 7
+        },
+        {
+          "user": "jason.kirtland",
+          "count": 5
+        },
+        {
+          "user": "mladen.rangelov",
+          "count": 4
+        },
+        {
+          "user": "marek.kudlacz",
+          "count": 4
+        },
+        {
+          "user": "tyler.eon",
+          "count": 2
+        },
+        {
+          "user": "achit.ojha",
+          "count": 2
+        },
+        {
+          "user": "mark.trinidad",
+          "count": 2
+        },
+        {
+          "user": "nanakwame.acheampong",
+          "count": 1
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 1
+        },
+        {
+          "user": "colin.iuliano",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.59,
+      "count": 216,
+      "top_channels": [
+        {
+          "channel": "dev-generic-events",
+          "messages": 181
+        },
+        {
+          "channel": "s-foundations-partner-marketplaces-river",
+          "messages": 28
+        },
+        {
+          "channel": "inv-21199-high-number-of-unhandled-errors-in-verdic",
+          "messages": 20
+        },
+        {
+          "channel": "help-theme-store",
+          "messages": 19
+        },
+        {
+          "channel": "proj-functions-tracify-logs",
+          "messages": 14
+        },
+        {
+          "channel": "dev-platform-ops",
+          "messages": 12
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 10
+        },
+        {
+          "channel": "proj-tracify-mission",
+          "messages": 8
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 7
+        },
+        {
+          "channel": "theme-store-atc-deploy",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.44,
+      "count": 57,
+      "top_mentioners": [
+        {
+          "user": "achit.ojha",
+          "count": 8
+        },
+        {
+          "user": "mladen.rangelov",
+          "count": 7
+        },
+        {
+          "user": "tyler.eon",
+          "count": 4
+        },
+        {
+          "user": "jason.kirtland",
+          "count": 4
+        },
+        {
+          "user": "vineet.kumar",
+          "count": 3
+        },
+        {
+          "user": "nanakwame.acheampong",
+          "count": 3
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 3
+        },
+        {
+          "user": "marek.kudlacz",
+          "count": 3
+        },
+        {
+          "user": "jolene.yeo",
+          "count": 2
+        },
+        {
+          "user": "irene.zourdos",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 37,
+      "16": 57,
+      "23": 15,
+      "19": 27,
+      "15": 7,
+      "0": 35,
+      "22": 45,
+      "21": 20,
+      "20": 45,
+      "18": 24,
+      "1": 3
+    },
+    "by_day": {
+      "Wednesday": 69,
+      "Tuesday": 80,
+      "Monday": 100,
+      "Thursday": 51,
+      "Friday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.94,
+    "dept_average_30d": 5.79,
+    "dept_rank": 469,
+    "dept_size": 1233
+  }
+}

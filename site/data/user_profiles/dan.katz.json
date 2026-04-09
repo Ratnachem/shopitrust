@@ -1,0 +1,237 @@
+{
+  "username": "dan.katz",
+  "name": "Dan Katz",
+  "generated_at": "2026-04-08T20:22:10.767987",
+  "summary": {
+    "message_count": 352,
+    "channels_active": 18,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ill give it a shot, thanks!",
+          "channel": "help-exp",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "I made my first live payment with Shop Pay today :celebrate-wooo:",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "definitely looks way better :celebrate-wooo:",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02NXGRDSF5> hoping you can also take a look at the issue Sean was seeing on Friday with the page load.  Some ideas to explore, are we getting",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Hi team!\nShop Pay for POS is ready for internal testing and we'd appreciate your help validating the experience before wider rollout.\n:point_right:",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever the retail buyer returns we send the data",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "michael.wilson",
+          "count": 13
+        },
+        {
+          "user": "sean.watson",
+          "count": 10
+        },
+        {
+          "user": "sam.ou",
+          "count": 7
+        },
+        {
+          "user": "ryan.stone",
+          "count": 6
+        },
+        {
+          "user": "mohammad.adi",
+          "count": 6
+        },
+        {
+          "user": "pere.manresa",
+          "count": 2
+        },
+        {
+          "user": "jamie.ly",
+          "count": 2
+        },
+        {
+          "user": "tianna.fischer",
+          "count": 1
+        },
+        {
+          "user": "robin.senior",
+          "count": 1
+        },
+        {
+          "user": "adam.davidson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.88,
+      "count": 231,
+      "top_channels": [
+        {
+          "channel": "proj-retail-shop-pay",
+          "messages": 254
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 22
+        },
+        {
+          "channel": "retail-bx-journey",
+          "messages": 14
+        },
+        {
+          "channel": "shop-wallet-dev",
+          "messages": 14
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 12
+        },
+        {
+          "channel": "proj-pos-app-modernize-flags",
+          "messages": 8
+        },
+        {
+          "channel": "proj-retail-pay-by-link",
+          "messages": 6
+        },
+        {
+          "channel": "pos-core-selling-flow",
+          "messages": 6
+        },
+        {
+          "channel": "help-exp",
+          "messages": 3
+        },
+        {
+          "channel": "pos-core-selling-flow-checkout",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "ryan.stone",
+          "count": 5
+        },
+        {
+          "user": "sean.watson",
+          "count": 5
+        },
+        {
+          "user": "sam.ou",
+          "count": 2
+        },
+        {
+          "user": "mohammad.adi",
+          "count": 2
+        },
+        {
+          "user": "drake.gebhart",
+          "count": 1
+        },
+        {
+          "user": "tianna.fischer",
+          "count": 1
+        },
+        {
+          "user": "noah.woodward",
+          "count": 1
+        },
+        {
+          "user": "nicholas.licalzi",
+          "count": 1
+        },
+        {
+          "user": "jeanbaptiste.morin",
+          "count": 1
+        },
+        {
+          "user": "simon.bats",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 48,
+      "17": 27,
+      "16": 16,
+      "14": 36,
+      "13": 59,
+      "12": 9,
+      "20": 48,
+      "19": 36,
+      "15": 19,
+      "11": 2,
+      "23": 6,
+      "22": 15,
+      "21": 28,
+      "0": 1,
+      "10": 2
+    },
+    "by_day": {
+      "Wednesday": 104,
+      "Tuesday": 95,
+      "Monday": 49,
+      "Friday": 42,
+      "Thursday": 62
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.41,
+    "dept_average_30d": 5.77,
+    "dept_rank": 577,
+    "dept_size": 885
+  }
+}

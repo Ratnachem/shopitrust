@@ -1,0 +1,242 @@
+{
+  "username": "robin.senior",
+  "name": "Robin Senior",
+  "generated_at": "2026-04-08T20:22:12.435669",
+  "summary": {
+    "message_count": 273,
+    "channels_active": 20,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, thanks for the update! would you mind sharing this at tomorrow's dev meeting?",
+          "channel": "tmp-checkout-oncall-improvements",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Feels worthy of a cherry-pick.",
+          "channel": "pos-release-train",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm ATC today but feel free to pull me into any pairing sessions if it would be useful",
+          "channel": "proj-pos-app-fast-checkout",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ah, thanks!",
+          "channel": "retail-hardware",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "My mistake, the issue is that if the user taps the \"Checkout\" button in the cart before saving the new customer, the customer hasn't actually been",
+          "channel": "pos-core-selling-flow",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Just came back from vacation \u2013 please let me know if you want to circle back on this, I'd love to see it happen",
+          "channel": "proj-retail-pay-by-link",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "although TIL you need to use `devx rig up retail-all *-t <worktree_name>*` or else it always serves the root tree",
+          "channel": "retail-dev",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "drake.gebhart",
+          "count": 4
+        },
+        {
+          "user": "shyam.kotak",
+          "count": 3
+        },
+        {
+          "user": "wesley.marr",
+          "count": 3
+        },
+        {
+          "user": "john.pavlick",
+          "count": 3
+        },
+        {
+          "user": "simon.bats",
+          "count": 2
+        },
+        {
+          "user": "shivin.misra",
+          "count": 2
+        },
+        {
+          "user": "michael.rembach",
+          "count": 2
+        },
+        {
+          "user": "nima.namjouy",
+          "count": 1
+        },
+        {
+          "user": "eros.dipede",
+          "count": 1
+        },
+        {
+          "user": "marc.grenier",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.64,
+      "count": 324,
+      "top_channels": [
+        {
+          "channel": "help-retail-checkout",
+          "messages": 69
+        },
+        {
+          "channel": "proj-pos-app-fast-checkout",
+          "messages": 50
+        },
+        {
+          "channel": "retail-bx-checkout",
+          "messages": 38
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 29
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 22
+        },
+        {
+          "channel": "pos-core-selling-flow-checkout",
+          "messages": 14
+        },
+        {
+          "channel": "retail-hardware",
+          "messages": 14
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 9
+        },
+        {
+          "channel": "evergreen-retail-checkout-maintenance",
+          "messages": 8
+        },
+        {
+          "channel": "proj-retail-pay-by-link",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "drake.gebhart",
+          "count": 8
+        },
+        {
+          "user": "shivin.misra",
+          "count": 4
+        },
+        {
+          "user": "meishang.chen",
+          "count": 2
+        },
+        {
+          "user": "mahendra.nimishakavi",
+          "count": 1
+        },
+        {
+          "user": "john.pavlick",
+          "count": 1
+        },
+        {
+          "user": "alex.kung",
+          "count": 1
+        },
+        {
+          "user": "kate.sterling",
+          "count": 1
+        },
+        {
+          "user": "kostia.arlouski",
+          "count": 1
+        },
+        {
+          "user": "leo.kaliazine",
+          "count": 1
+        },
+        {
+          "user": "stephanie.chancerelle",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 25,
+      "17": 29,
+      "20": 25,
+      "19": 17,
+      "16": 21,
+      "15": 37,
+      "14": 58,
+      "13": 48,
+      "21": 9,
+      "0": 1,
+      "1": 1,
+      "23": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 41,
+      "Tuesday": 84,
+      "Monday": 35,
+      "Thursday": 70,
+      "Friday": 43
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 9.19,
+    "dept_average_30d": 5.77,
+    "dept_rank": 16,
+    "dept_size": 885
+  }
+}

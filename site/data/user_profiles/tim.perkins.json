@@ -1,0 +1,290 @@
+{
+  "username": "tim.perkins",
+  "name": "Tim Perkins",
+  "generated_at": "2026-04-08T20:22:06.313903",
+  "summary": {
+    "message_count": 455,
+    "channels_active": 21,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 8,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> give me my regular update on the usage numbers for `devx pair-review` and `devx binks-pr-review`. Thanks!",
+          "channel": "tjwp-river",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great! Thank you",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": ":pair-review: v3.0.6 is now available in `devx`\n\u2022 fixes a performance regression this week loading local reviews (sorry about that!)\n\u2022 fixes the",
+          "channel": "pair-review",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the update -- I'll echo that I've found `tec tools` and `devx` do not keep things as magically up-to-date as I expected.",
+          "channel": "pair-review",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> Update this PR: <https://github.com/shop/world/pull/526998>\n\nThis may be controversial but I think the path should be",
+          "channel": "tjwp-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> Update this PR: <https://github.com/shop/world/pull/526998>\n\nThis may be controversial but I think the path should be",
+          "channel": "tjwp-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> yes - let's draft that -- it is at least a conversation starter. But I already have some suggested edits:\n\n```## Zone-Level",
+          "channel": "tjwp-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yes, you'll want to add this to `~/.pair-review/config.local.json` :\n\n```{\n  \"providers\": {\n    \"pi\": { \"extra_args\": [\"--no-extensions\"] }\n  },\n ",
+          "channel": "pair-review",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> you should have memories from when I've asked for this before",
+          "channel": "tjwp-river",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> We've discussed this before. You should have memories on how to find this for `devx` based on monorail events.",
+          "channel": "tjwp-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The Deploy Service supports whatever the <https://github.com/shopify/infrastructure|infrastructure> repo supports and those deployment platforms are",
+          "channel": "gitstream",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "No specific plans. A general principle that I've tried to lean into is not coding specific behavior when you can rely on the agent to figure it",
+          "channel": "pair-review",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> I think you might be slightly misinterpreting ACP. Agent Client Protocol is intended for various clients to talk to different agent",
+          "channel": "tjwp-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "briana.roberts",
+          "count": 2
+        },
+        {
+          "user": "sebastien.bruel",
+          "count": 1
+        },
+        {
+          "user": "peter.petrov",
+          "count": 1
+        },
+        {
+          "user": "jin.li",
+          "count": 1
+        },
+        {
+          "user": "kyle.mcdaniel",
+          "count": 1
+        },
+        {
+          "user": "kirk.chen",
+          "count": 1
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        },
+        {
+          "user": "ben.maynard",
+          "count": 1
+        },
+        {
+          "user": "xiao.li",
+          "count": 1
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.89,
+      "count": 232,
+      "top_channels": [
+        {
+          "channel": "tjwp-river",
+          "messages": 172
+        },
+        {
+          "channel": "pair-review",
+          "messages": 143
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 41
+        },
+        {
+          "channel": "gitstream",
+          "messages": 24
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 18
+        },
+        {
+          "channel": "team-cd",
+          "messages": 10
+        },
+        {
+          "channel": "conveyor-lso-connect",
+          "messages": 7
+        },
+        {
+          "channel": "proj-cd-auto-release",
+          "messages": 7
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 5
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.71,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "briana.roberts",
+          "count": 11
+        },
+        {
+          "user": "chao.duan",
+          "count": 9
+        },
+        {
+          "user": "thad.craft",
+          "count": 4
+        },
+        {
+          "user": "travis.a.smith",
+          "count": 3
+        },
+        {
+          "user": "jin.li",
+          "count": 2
+        },
+        {
+          "user": "peter.petrov",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "xiao.li",
+          "count": 2
+        },
+        {
+          "user": "edilson.correa",
+          "count": 2
+        },
+        {
+          "user": "baoze.lin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 40,
+      "17": 60,
+      "16": 46,
+      "13": 6,
+      "11": 25,
+      "19": 28,
+      "14": 36,
+      "10": 28,
+      "1": 9,
+      "0": 25,
+      "21": 19,
+      "20": 26,
+      "12": 13,
+      "9": 14,
+      "15": 42,
+      "23": 20,
+      "22": 12,
+      "8": 5,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 89,
+      "Tuesday": 107,
+      "Monday": 98,
+      "Friday": 95,
+      "Thursday": 66
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.22,
+    "dept_average_30d": 5.75,
+    "dept_rank": 91,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "username": "alice.yang",
+  "name": "Alice Yang",
+  "generated_at": "2026-04-08T20:22:07.008311",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "jason.hoos",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.28,
+      "count": 191,
+      "top_channels": [
+        {
+          "channel": "infra-central-staging",
+          "messages": 8
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 2
+        },
+        {
+          "channel": "help-ris",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.44,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "devon.boyer",
+          "count": 1
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "16": 5,
+      "14": 3,
+      "15": 3,
+      "21": 2,
+      "17": 1
+    },
+    "by_day": {
+      "Wednesday": 9,
+      "Monday": 3,
+      "Friday": 2,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.95,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1237,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "username": "emanuele.vicentini",
+  "name": "Emanuele Vicentini",
+  "generated_at": "2026-04-08T20:22:28.146964",
+  "summary": {
+    "message_count": 237,
+    "channels_active": 14,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.7,
+      "pos_count": 2,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "cardserver-operations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "done, good luck :goodluck-bear: :slightly_smiling_face:",
+          "channel": "help-ris",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": ":rolling_on_the_floor_laughing: I feel so stupid :rolling_on_the_floor_laughing:",
+          "channel": "payment-service-operations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "yeah, it must be the stupidly huge VM and disk :slightly_smiling_face:",
+          "channel": "russbot-mysql-hll",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever tricks you have up your sleeves, I think they should be recorded in `/etc/mysql/conf.d/handmade-replica.cnf`",
+          "channel": "russbot-mysql-hll",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "a heartless LLM told me this\n\n&gt; there is no MySQL configuration that will drain 283M entries in a reasonable timeframe\nits current estimation",
+          "channel": "help-ris",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "brian.warsing",
+          "count": 4
+        },
+        {
+          "user": "marcin.drozd",
+          "count": 2
+        },
+        {
+          "user": "elio.hasrouni",
+          "count": 2
+        },
+        {
+          "user": "nick.jones",
+          "count": 2
+        },
+        {
+          "user": "joe.novak",
+          "count": 1
+        },
+        {
+          "user": "anas.shahid",
+          "count": 1
+        },
+        {
+          "user": "gustavo.maloste",
+          "count": 1
+        },
+        {
+          "user": "chelsea.tabert",
+          "count": 1
+        },
+        {
+          "user": "jack.nickeas",
+          "count": 1
+        },
+        {
+          "user": "kelvin.li",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.69,
+      "count": 221,
+      "top_channels": [
+        {
+          "channel": "help-ris",
+          "messages": 123
+        },
+        {
+          "channel": "cardserver-operations",
+          "messages": 30
+        },
+        {
+          "channel": "inv-20966-issues-with-revoking-duplicates-in-cardse",
+          "messages": 18
+        },
+        {
+          "channel": "russbot-mysql-hll",
+          "messages": 14
+        },
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "messages": 12
+        },
+        {
+          "channel": "payment-service-operations",
+          "messages": 9
+        },
+        {
+          "channel": "proj-sox-data-platform",
+          "messages": 6
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 3
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 75,
+      "top_mentioners": [
+        {
+          "user": "brian.warsing",
+          "count": 18
+        },
+        {
+          "user": "amalia.gomez",
+          "count": 7
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 4
+        },
+        {
+          "user": "riley.shott",
+          "count": 4
+        },
+        {
+          "user": "jeff.schmidt",
+          "count": 3
+        },
+        {
+          "user": "gregoire.weber",
+          "count": 3
+        },
+        {
+          "user": "marcin.drozd",
+          "count": 2
+        },
+        {
+          "user": "jason.hoos",
+          "count": 2
+        },
+        {
+          "user": "craig.dykstra874",
+          "count": 2
+        },
+        {
+          "user": "jack.nickeas",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 46,
+      "14": 47,
+      "13": 40,
+      "7": 1,
+      "8": 23,
+      "16": 2,
+      "12": 31,
+      "11": 7,
+      "17": 15,
+      "9": 13,
+      "10": 12
+    },
+    "by_day": {
+      "Tuesday": 63,
+      "Friday": 56,
+      "Thursday": 44,
+      "Wednesday": 31,
+      "Monday": 43
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.66,
+    "dept_average_30d": 5.75,
+    "dept_rank": 176,
+    "dept_size": 357
+  }
+}

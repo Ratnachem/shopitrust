@@ -1,0 +1,179 @@
+{
+  "username": "luka.grahek",
+  "name": "Luka Grahek",
+  "generated_at": "2026-04-08T20:22:27.307219",
+  "summary": {
+    "message_count": 72,
+    "channels_active": 13,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "Turns out this was my mistake (I encrypted the wrong value in the secrets ejson by accident): <https://github.com/Shopify/accio/pull/11331>",
+          "channel": "privacy-ops",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "nikolas.kouloufakos",
+          "count": 2
+        },
+        {
+          "user": "marc.laforet",
+          "count": 1
+        },
+        {
+          "user": "greg.dodd",
+          "count": 1
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 1
+        },
+        {
+          "user": "siraj.ali",
+          "count": 1
+        },
+        {
+          "user": "travis.hartwell",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.89,
+      "count": 232,
+      "top_channels": [
+        {
+          "channel": "proj-data-platform-privacy-infra-central",
+          "messages": 24
+        },
+        {
+          "channel": "privacy-ops",
+          "messages": 16
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 10
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 5
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 5
+        },
+        {
+          "channel": "db-doc-gem-pipeline-notification",
+          "messages": 4
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 2
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 1
+        },
+        {
+          "channel": "help-theme-store",
+          "messages": 1
+        },
+        {
+          "channel": "help-app-store",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "jamesk.lee",
+          "count": 2
+        },
+        {
+          "user": "travis.hartwell",
+          "count": 2
+        },
+        {
+          "user": "chris.sharp",
+          "count": 2
+        },
+        {
+          "user": "ethan.chiddicks",
+          "count": 2
+        },
+        {
+          "user": "khoi.hoang",
+          "count": 1
+        },
+        {
+          "user": "nikolas.kouloufakos",
+          "count": 1
+        },
+        {
+          "user": "michael.rokas",
+          "count": 1
+        },
+        {
+          "user": "joel.gerber",
+          "count": 1
+        },
+        {
+          "user": "brandon.conway",
+          "count": 1
+        },
+        {
+          "user": "steven.wu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 9,
+      "18": 5,
+      "16": 10,
+      "14": 7,
+      "22": 5,
+      "21": 4,
+      "20": 17,
+      "15": 13,
+      "17": 2
+    },
+    "by_day": {
+      "Tuesday": 12,
+      "Monday": 27,
+      "Wednesday": 9,
+      "Friday": 12,
+      "Thursday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.47,
+    "dept_average_30d": 4.89,
+    "dept_rank": 65,
+    "dept_size": 237
+  }
+}

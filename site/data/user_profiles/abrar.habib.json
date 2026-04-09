@@ -1,0 +1,194 @@
+{
+  "username": "abrar.habib",
+  "name": "Abrar Habib",
+  "generated_at": "2026-04-08T20:22:14.796981",
+  "summary": {
+    "message_count": 122,
+    "channels_active": 10,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Production synthetic checks are passing :celebrate-wooo:",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I feel like the more people on this, the harder it can get to manage, but do let me know if I can help in parallel for something",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I feel like the more people on this, the harder it can get to manage, but do let me know if I can help in parallel for something",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Gotcha, thanks! I made a separate commit for these",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":headscratch-confused: Could it be something related to the cache disappearing during the deploy as certain pods get destroyed and other ones get",
+          "channel": "mozart-ops",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I like the idea! Some of the pods (I think that's what they're called) have huge replica numbers like 1200-2000 which is overkill on first",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "mark.blum",
+          "count": 2
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 2
+        },
+        {
+          "user": "brett.marx",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.13,
+      "count": 139,
+      "top_channels": [
+        {
+          "channel": "proj-tier1-infra-mozart",
+          "messages": 72
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 27
+        },
+        {
+          "channel": "dev-up",
+          "messages": 5
+        },
+        {
+          "channel": "mozart-ops-staging",
+          "messages": 4
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 4
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 3
+        },
+        {
+          "channel": "help-interns",
+          "messages": 3
+        },
+        {
+          "channel": "intern-everyone",
+          "messages": 2
+        },
+        {
+          "channel": "pi",
+          "messages": 1
+        },
+        {
+          "channel": "team-ci",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "fernando.calderon",
+          "count": 13
+        },
+        {
+          "user": "dave.benvenuti",
+          "count": 11
+        },
+        {
+          "user": "brett.marx",
+          "count": 3
+        },
+        {
+          "user": "casey.rockwell",
+          "count": 2
+        },
+        {
+          "user": "mark.blum",
+          "count": 1
+        },
+        {
+          "user": "giselle.cardinal",
+          "count": 1
+        },
+        {
+          "user": "george.li",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 11,
+      "17": 13,
+      "16": 24,
+      "20": 22,
+      "15": 6,
+      "21": 13,
+      "19": 19,
+      "5": 1,
+      "22": 8,
+      "4": 2,
+      "23": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 19,
+      "Tuesday": 20,
+      "Monday": 19,
+      "Friday": 31,
+      "Thursday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.3,
+    "dept_average_30d": 4.74,
+    "dept_rank": 412,
+    "dept_size": 1663
+  }
+}

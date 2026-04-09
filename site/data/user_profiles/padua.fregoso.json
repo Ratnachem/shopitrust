@@ -1,0 +1,233 @@
+{
+  "username": "padua.fregoso",
+  "name": "Padua Fregoso",
+  "generated_at": "2026-04-08T20:22:25.944166",
+  "summary": {
+    "message_count": 141,
+    "channels_active": 18,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you all!",
+          "channel": "growth-mobile-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad forgot to share the link :facepalm:\n<https://app.graphite.com/github/pr/shop/world/575250|here it is>",
+          "channel": "proj-mobile-signup-overhaul",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@W018PUC8NJG> here's the fix for the monorail schema validation error <https://app.graphite.com/github/pr/Shopify/shop-client/99116>\nWould be",
+          "channel": "shop-mobile",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "The github command didn't work, but I think we can just re-run the last job, I see the manifest is passed as an env variable.\nWant me to do it?",
+          "channel": "proj-mobile-signup-overhaul",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello <@W018L9EKK18> can we cherry-pick this one as well?",
+          "channel": "shop-mobile",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "jacob.shafer",
+          "count": 3
+        },
+        {
+          "user": "evelyn.liu",
+          "count": 3
+        },
+        {
+          "user": "nick.lewis",
+          "count": 2
+        },
+        {
+          "user": "onur.ersel",
+          "count": 2
+        },
+        {
+          "user": "sam.park",
+          "count": 2
+        },
+        {
+          "user": "aj.robidas",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "brad.kratky",
+          "count": 1
+        },
+        {
+          "user": "james.go",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.73,
+      "count": 382,
+      "top_channels": [
+        {
+          "channel": "proj-mobile-signup-overhaul",
+          "messages": 34
+        },
+        {
+          "channel": "growth-mobile-team",
+          "messages": 22
+        },
+        {
+          "channel": "proj-growth-mobile-native-first-time-land",
+          "messages": 12
+        },
+        {
+          "channel": "mobile-app-integration-singular-shared",
+          "messages": 10
+        },
+        {
+          "channel": "shopify-mobile-atc",
+          "messages": 10
+        },
+        {
+          "channel": "shop-yugabyte",
+          "messages": 9
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 8
+        },
+        {
+          "channel": "test-padua",
+          "messages": 8
+        },
+        {
+          "channel": "growth-mobile-quality",
+          "messages": 5
+        },
+        {
+          "channel": "help-zip",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.5,
+      "count": 48,
+      "top_mentioners": [
+        {
+          "user": "james.go",
+          "count": 8
+        },
+        {
+          "user": "brad.kratky",
+          "count": 5
+        },
+        {
+          "user": "jacob.shafer",
+          "count": 4
+        },
+        {
+          "user": "nick.lewis",
+          "count": 3
+        },
+        {
+          "user": "aj.robidas",
+          "count": 3
+        },
+        {
+          "user": "evelyn.liu",
+          "count": 3
+        },
+        {
+          "user": "chaitanya.bilgikar",
+          "count": 3
+        },
+        {
+          "user": "onur.ersel",
+          "count": 2
+        },
+        {
+          "user": "kishor.pandya",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "2": 4,
+      "17": 51,
+      "15": 8,
+      "16": 16,
+      "3": 1,
+      "0": 2,
+      "23": 3,
+      "22": 1,
+      "21": 8,
+      "20": 9,
+      "19": 14,
+      "18": 16,
+      "14": 2,
+      "5": 1,
+      "13": 1,
+      "10": 1,
+      "6": 1,
+      "4": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 38,
+      "Tuesday": 27,
+      "Monday": 14,
+      "Friday": 34,
+      "Thursday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.11,
+    "dept_average_30d": 5.58,
+    "dept_rank": 113,
+    "dept_size": 398
+  }
+}

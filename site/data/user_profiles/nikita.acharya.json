@@ -1,0 +1,282 @@
+{
+  "username": "nikita.acharya",
+  "name": "Nikita Acharya",
+  "generated_at": "2026-04-08T20:22:12.327097",
+  "summary": {
+    "message_count": 1422,
+    "channels_active": 41,
+    "unique_people_mentioned": 39,
+    "unique_mentioners": 50,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 12,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "You can update it, that was the issue we had on Monday, when I tried to create new token it just replaced because the read to GCS failed somehow and",
+          "channel": "gitstream",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; Restored `exe/dns-allowlist-sync`. Now 11 files changed, -369 lines. Want me to push and open the PR?\n<@U0AEPQCKB3M> Yes push the changes and",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I am back now, let me know if I can be of any help",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; Want me to look at the GitStream codebase to see what the current LFS handling looks like and where these changes would fit?\n<@U0AEPQCKB3M>",
+          "channel": "nikita-acharya-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> Can you check this PR, and let me know if anything is wrong here causing 401 failure from gitstream",
+          "channel": "nikita-acharya-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> Can you review the PR and let me know if the changes makes sense",
+          "channel": "nikita-acharya-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! After merge need to verify creating PR in <https://github.com/shopify-playground/cicd-staging/tree/main/areas/tools/ci-e2e> zone",
+          "channel": "team-ci-paged-alerts",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "gitstream",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U09996E2VCZ> I will handover this to you as I am OOO tomorrow and Friday. let me know if you have any questions before I leave.",
+          "channel": "inv-19759-ci-cluster-maxed-out",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "But yeah either way you should have got `{\"error\":\"Zone not found: //areas/core/shopify\"}` error and not 302",
+          "channel": "gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> How much time are we saving by doing that\nThis speeds up when jobs are retried because of some failure/or any job get scheduled later by when all",
+          "channel": "team-ci",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "xiao.li",
+          "count": 19
+        },
+        {
+          "user": "ben.maynard",
+          "count": 14
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 13
+        },
+        {
+          "user": "chao.duan",
+          "count": 10
+        },
+        {
+          "user": "thad.craft",
+          "count": 8
+        },
+        {
+          "user": "kangze.jia",
+          "count": 7
+        },
+        {
+          "user": "darren.foo",
+          "count": 6
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 6
+        },
+        {
+          "user": "aaron.scull",
+          "count": 6
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.77,
+      "count": 384,
+      "top_channels": [
+        {
+          "channel": "nikita-acharya-river",
+          "messages": 468
+        },
+        {
+          "channel": "gitstream",
+          "messages": 272
+        },
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 175
+        },
+        {
+          "channel": "team-ci",
+          "messages": 115
+        },
+        {
+          "channel": "inv-19759-ci-cluster-maxed-out",
+          "messages": 66
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 62
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 52
+        },
+        {
+          "channel": "proj-mq-p90-stabilization",
+          "messages": 33
+        },
+        {
+          "channel": "inv-21139-high-number-of-flaky-tests",
+          "messages": 18
+        },
+        {
+          "channel": "team-ci-paged-alerts",
+          "messages": 14
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 218,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 50
+        },
+        {
+          "user": "xiao.li",
+          "count": 35
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 21
+        },
+        {
+          "user": "kangze.jia",
+          "count": 16
+        },
+        {
+          "user": "thad.craft",
+          "count": 8
+        },
+        {
+          "user": "daiane.silva",
+          "count": 6
+        },
+        {
+          "user": "xiaodong.fan",
+          "count": 5
+        },
+        {
+          "user": "scott.jensen",
+          "count": 5
+        },
+        {
+          "user": "ben.maynard",
+          "count": 5
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 158,
+      "17": 117,
+      "16": 115,
+      "15": 66,
+      "1": 92,
+      "0": 72,
+      "23": 116,
+      "22": 114,
+      "21": 131,
+      "20": 137,
+      "7": 11,
+      "6": 26,
+      "5": 34,
+      "4": 48,
+      "2": 36,
+      "19": 115,
+      "14": 19,
+      "3": 15
+    },
+    "by_day": {
+      "Wednesday": 273,
+      "Tuesday": 347,
+      "Monday": 237,
+      "Friday": 277,
+      "Thursday": 288
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 9.33,
+    "dept_average_30d": 5.75,
+    "dept_rank": 4,
+    "dept_size": 357
+  }
+}

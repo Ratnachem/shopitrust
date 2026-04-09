@@ -1,0 +1,273 @@
+{
+  "username": "jan.borchmann",
+  "name": "Jan Borchmann",
+  "generated_at": "2026-04-08T20:22:11.307542",
+  "summary": {
+    "message_count": 400,
+    "channels_active": 40,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 44,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U02CX0RV94G> To confirm, do you want me to create a PR to do this?",
+          "channel": "inv-21212-seeing-error-in-core-deploy-trustbatterys",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Also to flag, this was only one of a few pings about flaky tests. I think a couple were the same issue as the one tagged here. See",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> Thanks! PR looks good. We'll validate with random seeds.",
+          "channel": "merchant-fraud-risk-data-alerts",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, good to get rid of dead weight",
+          "channel": "proj-nits-ml-model-improvements-gsd48638",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": ":tada: :tada: :tada: Team, something amazing has happened today! <@W018GAGDCVB> is now one of our latest Senior Staff MLEs at Shopify and it couldn't",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "Hey team, I just wanted to call out what a great week this was. We shipped quite a lot of really impactful things and it's important that we",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Hey team, I just wanted to call out what a great week this was. We shipped quite a lot of really impactful things and it's important that we",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. <@U0AEPQCKB3M> now investigate the trust battery decision `CanProcessImmediatePosRefunds` and explain the logic behind it. Is this always",
+          "channel": "payments-platform-risk-pm-river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help and then we do 50/50 :deal:",
+          "channel": "toronto-data-port-peeps",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Probably worth it to go through all features and see if there are some useless ones we could kill as well - something for the backlog",
+          "channel": "proj-nits-ml-model-improvements-gsd48638",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "My push is to align with how payments are reporting the losses and make sure they align. So whatever you call Payments losses is the number that",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "alex.babinski",
+          "count": 3
+        },
+        {
+          "user": "dikshant.sharma",
+          "count": 3
+        },
+        {
+          "user": "merlin.davies",
+          "count": 3
+        },
+        {
+          "user": "breno.limadefreitas",
+          "count": 2
+        },
+        {
+          "user": "nidhi.patel",
+          "count": 2
+        },
+        {
+          "user": "jeanpaul.tyo",
+          "count": 2
+        },
+        {
+          "user": "alex.carr",
+          "count": 2
+        },
+        {
+          "user": "sahil.batra",
+          "count": 2
+        },
+        {
+          "user": "lily.liao",
+          "count": 1
+        },
+        {
+          "user": "matt.burnett",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 420,
+      "top_channels": [
+        {
+          "channel": "merchant-fraud-risk-data-alerts",
+          "messages": 114
+        },
+        {
+          "channel": "payments-platform-risk-pm-river",
+          "messages": 76
+        },
+        {
+          "channel": "merchant-fraud-risk-team",
+          "messages": 52
+        },
+        {
+          "channel": "merchant-fraud-risk-triage",
+          "messages": 17
+        },
+        {
+          "channel": "inv-21212-seeing-error-in-core-deploy-trustbatterys",
+          "messages": 13
+        },
+        {
+          "channel": "elevated-vamp-rates-global",
+          "messages": 11
+        },
+        {
+          "channel": "proj-payments-sleeper-bustout-detection",
+          "messages": 9
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 8
+        },
+        {
+          "channel": "proj-deceptive-commerce-detection",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20646-auto-reserve-workflow-incorrectly-lifts-p",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 118,
+      "top_mentioners": [
+        {
+          "user": "dikshant.sharma",
+          "count": 20
+        },
+        {
+          "user": "george.zanetti",
+          "count": 11
+        },
+        {
+          "user": "jeanpaul.tyo",
+          "count": 11
+        },
+        {
+          "user": "jarvis.kay",
+          "count": 9
+        },
+        {
+          "user": "florian.conrady",
+          "count": 5
+        },
+        {
+          "user": "jose.degyves",
+          "count": 5
+        },
+        {
+          "user": "alex.babinski",
+          "count": 4
+        },
+        {
+          "user": "kevin.norring",
+          "count": 4
+        },
+        {
+          "user": "alexandre.sauve",
+          "count": 3
+        },
+        {
+          "user": "eli.parker",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 42,
+      "17": 38,
+      "16": 31,
+      "15": 40,
+      "13": 53,
+      "12": 31,
+      "20": 30,
+      "19": 32,
+      "14": 44,
+      "1": 15,
+      "23": 4,
+      "21": 20,
+      "2": 1,
+      "0": 11,
+      "11": 3,
+      "22": 5
+    },
+    "by_day": {
+      "Wednesday": 127,
+      "Tuesday": 94,
+      "Monday": 49,
+      "Friday": 44,
+      "Thursday": 86
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.6,
+    "dept_average_30d": 5.77,
+    "dept_rank": 90,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "username": "sam.jiang",
+  "name": "Sam Jiang",
+  "generated_at": "2026-04-08T20:22:11.573334",
+  "summary": {
+    "message_count": 177,
+    "channels_active": 10,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yep! <@W018HMW7EKU> - sorry about the slow reply today \u2013 But yes that should be fine to simplify things. As long as there are no repeated rates here",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "One more clarification here: We bias toward whatever the checkout currency is *originally*. So if the checkout started in CAD, and Ceremonia also",
+          "channel": "proj-universal-checkout",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "alexis.katigbak",
+          "count": 11
+        },
+        {
+          "user": "martin.lechner",
+          "count": 8
+        },
+        {
+          "user": "jeanloup.trolliard",
+          "count": 6
+        },
+        {
+          "user": "christine.zoltok",
+          "count": 5
+        },
+        {
+          "user": "jonathan.dupuis",
+          "count": 5
+        },
+        {
+          "user": "lucas.medeirosleite",
+          "count": 4
+        },
+        {
+          "user": "gladys.ng",
+          "count": 3
+        },
+        {
+          "user": "tiago.santos",
+          "count": 2
+        },
+        {
+          "user": "philibert.dugas",
+          "count": 1
+        },
+        {
+          "user": "emily.chandel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.46,
+      "count": 209,
+      "top_channels": [
+        {
+          "channel": "proj-universal-checkout",
+          "messages": 76
+        },
+        {
+          "channel": "proj-ship-pickup-1-order",
+          "messages": 44
+        },
+        {
+          "channel": "checkout-accounts-ux-river",
+          "messages": 22
+        },
+        {
+          "channel": "fulfillment-checkout-collab",
+          "messages": 15
+        },
+        {
+          "channel": "proj-checkout-delivery-redesign",
+          "messages": 9
+        },
+        {
+          "channel": "ship-pickup-1-order-feds",
+          "messages": 3
+        },
+        {
+          "channel": "design-talk",
+          "messages": 3
+        },
+        {
+          "channel": "help-shop-cash",
+          "messages": 2
+        },
+        {
+          "channel": "proj-shipup-cart-api",
+          "messages": 2
+        },
+        {
+          "channel": "orders-eng",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "martin.lechner",
+          "count": 13
+        },
+        {
+          "user": "alexis.katigbak",
+          "count": 11
+        },
+        {
+          "user": "jeanloup.trolliard",
+          "count": 6
+        },
+        {
+          "user": "lucas.medeirosleite",
+          "count": 6
+        },
+        {
+          "user": "ryan.creps",
+          "count": 4
+        },
+        {
+          "user": "gladys.ng",
+          "count": 3
+        },
+        {
+          "user": "louis.mccracken",
+          "count": 3
+        },
+        {
+          "user": "jake.joseph",
+          "count": 3
+        },
+        {
+          "user": "lazir.pascual",
+          "count": 2
+        },
+        {
+          "user": "christine.zoltok",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 27,
+      "17": 29,
+      "16": 34,
+      "0": 2,
+      "23": 21,
+      "22": 4,
+      "20": 23,
+      "21": 13,
+      "15": 17,
+      "2": 1,
+      "19": 6
+    },
+    "by_day": {
+      "Wednesday": 44,
+      "Tuesday": 45,
+      "Monday": 36,
+      "Friday": 27,
+      "Thursday": 25
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.24,
+    "dept_average_30d": 5.79,
+    "dept_rank": 298,
+    "dept_size": 1233
+  }
+}

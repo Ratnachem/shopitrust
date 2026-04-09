@@ -1,0 +1,108 @@
+{
+  "username": "anita.kalra",
+  "name": "Anita Kalra",
+  "generated_at": "2026-04-08T20:22:31.494262",
+  "summary": {
+    "message_count": 28,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W0197H35YD6> - can you send this note on Monday morning?\n\n\n&gt; Dear Adriano,\n&gt; \n&gt; Thank you for reaching out. We are confirming receipt",
+          "channel": "emi-application",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "matthew.martin",
+          "count": 4
+        },
+        {
+          "user": "daniel.resendez",
+          "count": 3
+        },
+        {
+          "user": "jack.albers",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.57,
+      "count": 15,
+      "top_channels": [
+        {
+          "channel": "dev-environment-setup",
+          "messages": 21
+        },
+        {
+          "channel": "emi-application",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "daniel.resendez",
+          "count": 3
+        },
+        {
+          "user": "chris.filiberto",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 1,
+      "23": 1,
+      "16": 1,
+      "15": 2,
+      "14": 18,
+      "21": 1,
+      "2": 2,
+      "1": 2
+    },
+    "by_day": {
+      "Monday": 1,
+      "Wednesday": 1,
+      "Friday": 4,
+      "Thursday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Legal",
+    "user_score_30d": 3.92,
+    "dept_average_30d": 4.2,
+    "dept_rank": 50,
+    "dept_size": 82
+  }
+}

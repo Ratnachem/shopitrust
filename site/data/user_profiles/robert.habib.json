@@ -1,0 +1,253 @@
+{
+  "username": "robert.habib",
+  "name": "Robert Habib",
+  "generated_at": "2026-04-08T20:22:23.439237",
+  "summary": {
+    "message_count": 255,
+    "channels_active": 14,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "PR is up for your review <@U03NCL08YQ2> here: <https://github.com/Shopify/grokt/pull/1984>\n\nCI is green, there is a checklist of what you should",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey <@U03NCL08YQ2> we are experimenting with a new agentic approach where we have it configured to do all the heavy lifting and you will be in",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "yeah sometimes github is just not cooperating, let me know if you have other issues",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "the fix for the buildkite item has been deployed, pls try the automated fix again and let me know if it worked as expected and how long it took",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "hey guys, seeing some great work being done today, can you update me on the status?\nI know the dir change PR was merged, how much time did it take to",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "let me know when you merge the PR so that I can help with upcoming steps\ntry to track how much time it takes to review as an estimate, it will help",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "steps *do remain* as is, what we do right now is that we replace `step-v1` with `step-v2` , repos that see the v1 don't have their view change at",
+          "channel": "proj-monorepo-migration-automation",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U098PMA161E> pls share whatever relevant to that incident that I can read, I'll schedule sometime if more context is needed",
+          "channel": "proj-monorepo-migration-automation",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "ahmed.ismail",
+          "count": 29
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 8
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 7
+        },
+        {
+          "user": "chao.duan",
+          "count": 6
+        },
+        {
+          "user": "islam.abdelnaby",
+          "count": 6
+        },
+        {
+          "user": "moumen.khadr",
+          "count": 5
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 4
+        },
+        {
+          "user": "pamela.wu",
+          "count": 3
+        },
+        {
+          "user": "lisa.melo",
+          "count": 2
+        },
+        {
+          "user": "ahmed.omran",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.06,
+      "count": 135,
+      "top_channels": [
+        {
+          "channel": "proj-monorepo-migration-automation",
+          "messages": 136
+        },
+        {
+          "channel": "data-monorepo-migration",
+          "messages": 38
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 24
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 15
+        },
+        {
+          "channel": "team-ci",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20306-selective-tests-failing",
+          "messages": 8
+        },
+        {
+          "channel": "inc-20289-sigabrt-errors-seen-in-core",
+          "messages": 8
+        },
+        {
+          "channel": "test-river-playground",
+          "messages": 5
+        },
+        {
+          "channel": "dev-up",
+          "messages": 3
+        },
+        {
+          "channel": "team-cd",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 121,
+      "top_mentioners": [
+        {
+          "user": "ahmed.ismail",
+          "count": 54
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 26
+        },
+        {
+          "user": "ziyad.abdelmaguid",
+          "count": 7
+        },
+        {
+          "user": "moumen.khadr",
+          "count": 4
+        },
+        {
+          "user": "chao.duan",
+          "count": 4
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 4
+        },
+        {
+          "user": "lisa.melo",
+          "count": 3
+        },
+        {
+          "user": "daiane.silva",
+          "count": 3
+        },
+        {
+          "user": "marcolivier.arsenault",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 38,
+      "13": 26,
+      "22": 5,
+      "21": 5,
+      "15": 45,
+      "10": 10,
+      "9": 7,
+      "16": 20,
+      "12": 23,
+      "11": 12,
+      "8": 5,
+      "7": 1,
+      "18": 18,
+      "17": 13,
+      "19": 23,
+      "23": 1,
+      "20": 3
+    },
+    "by_day": {
+      "Wednesday": 92,
+      "Tuesday": 49,
+      "Monday": 80,
+      "Thursday": 33,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.16,
+    "dept_average_30d": 5.75,
+    "dept_rank": 104,
+    "dept_size": 357
+  }
+}

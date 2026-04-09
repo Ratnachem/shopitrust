@@ -1,0 +1,249 @@
+{
+  "username": "ye.an",
+  "name": "Ye An",
+  "generated_at": "2026-04-08T20:22:26.139644",
+  "summary": {
+    "message_count": 140,
+    "channels_active": 14,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok I actually don't think this particular store has any impact with respect to OneDCG. The latest Daily Pulse scrape did not return any products from",
+          "channel": "search-ingestion-and-indexing-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Good morning <@U02SLS1FZN2> , i know there are a bunch of moving pieces with v4.1, but let me know if/when you get to the place of doing a full run",
+          "channel": "tmp-proj-metrics-v4",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "FYI I added the storefront charts back on the front page of Daily Pulse. I set the default composite version to both v4 and storefront_v1.2 and that",
+          "channel": "storefront-onedcg",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Yep coming up shortly. <@U02SLS1FZN2> since you are testing, do you just want me to store the query, shop_account_uuid in an ad hoc bigquery table",
+          "channel": "search-p13n",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much for helping with this!",
+          "channel": "search-tooling-ops",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if anything else.",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok it works thank you!",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "i see let me try that. Thank you for the quick response!",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "jp.trawinski",
+          "count": 14
+        },
+        {
+          "user": "mustafa.ak",
+          "count": 5
+        },
+        {
+          "user": "kevin.chou",
+          "count": 4
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 3
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 3
+        },
+        {
+          "user": "nikola.todic",
+          "count": 2
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 2
+        },
+        {
+          "user": "carine.araujo",
+          "count": 1
+        },
+        {
+          "user": "baiji.he",
+          "count": 1
+        },
+        {
+          "user": "noah.frank",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.47,
+      "count": 157,
+      "top_channels": [
+        {
+          "channel": "tmp-proj-metrics-v4",
+          "messages": 35
+        },
+        {
+          "channel": "search-relevance-metrics-v-team",
+          "messages": 19
+        },
+        {
+          "channel": "storefront-onedcg",
+          "messages": 18
+        },
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 17
+        },
+        {
+          "channel": "proj-meridian-relevance",
+          "messages": 16
+        },
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 12
+        },
+        {
+          "channel": "search-p13n",
+          "messages": 7
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 6
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 3
+        },
+        {
+          "channel": "search-tooling-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 87,
+      "top_mentioners": [
+        {
+          "user": "mustafa.ak",
+          "count": 18
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 17
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 16
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 10
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 10
+        },
+        {
+          "user": "regan.zhao",
+          "count": 5
+        },
+        {
+          "user": "caroline.lee",
+          "count": 3
+        },
+        {
+          "user": "kevin.chou",
+          "count": 2
+        },
+        {
+          "user": "rahim.daya",
+          "count": 2
+        },
+        {
+          "user": "jeff.doker",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 1,
+      "20": 18,
+      "19": 24,
+      "18": 14,
+      "17": 9,
+      "16": 23,
+      "15": 16,
+      "12": 4,
+      "14": 9,
+      "13": 11,
+      "22": 3,
+      "21": 5,
+      "11": 2,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Tuesday": 46,
+      "Monday": 34,
+      "Thursday": 17,
+      "Friday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.53,
+    "dept_average_30d": 5.79,
+    "dept_rank": 720,
+    "dept_size": 1233
+  }
+}

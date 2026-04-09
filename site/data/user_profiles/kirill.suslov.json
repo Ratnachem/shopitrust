@@ -1,0 +1,254 @@
+{
+  "username": "kirill.suslov",
+  "name": "Kirill Suslov",
+  "generated_at": "2026-04-08T20:22:14.524826",
+  "summary": {
+    "message_count": 325,
+    "channels_active": 18,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "yeah, I just did it manually too. idk why I thought at some point it used to work from a `setup profile` promt but I guess I was wrong",
+          "channel": "second-brain",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh my bad <@U0AEPQCKB3M> <https://app.graphite.com/github/pr/shop/world/528205>",
+          "channel": "inventory-mavericks-river",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "```attrs.quantities_by_item_groups: [\n{\nitem_group: \"{ item_id=47386088571053, group_id=112525508781 }\"\nquantity:",
+          "channel": "proj-inventory-reservations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you both for jumping in there!",
+          "channel": "proj-inventory-categorize-and-prevent-committed-quantity-drift",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "And PR to fix the last over replenishment issue is finally ready: <https://github.com/shop/world/pull/568658>. There was a quirk with error handling",
+          "channel": "proj-inventory-reservations",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "presumably ahead of time replenishment when we `reserve_without_claim` . We don't insert `reserved_quantity` in that case, but ledger is not yet",
+          "channel": "proj-inventory-reservations",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "overall though, whatever River did is what we had in Redis, i.e. repeated reserve call for same token, unreserved everything and re-reserved whatever",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "emilie.noel",
+          "count": 5
+        },
+        {
+          "user": "shane.dharan",
+          "count": 2
+        },
+        {
+          "user": "alessandro.dalgrande",
+          "count": 1
+        },
+        {
+          "user": "stephen.anders",
+          "count": 1
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 1
+        },
+        {
+          "user": "ryan.kazokas",
+          "count": 1
+        },
+        {
+          "user": "alex.carruthers",
+          "count": 1
+        },
+        {
+          "user": "richard.ludvigh",
+          "count": 1
+        },
+        {
+          "user": "brooks.ilg",
+          "count": 1
+        },
+        {
+          "user": "walter.kuhn",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.85,
+      "count": 128,
+      "top_channels": [
+        {
+          "channel": "proj-inventory-reservations",
+          "messages": 84
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 83
+        },
+        {
+          "channel": "proj-inventory-yugabyte",
+          "messages": 56
+        },
+        {
+          "channel": "inventory-mavericks-river",
+          "messages": 37
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20080-db-writer-cpu-saturation--95-for-25-min",
+          "messages": 20
+        },
+        {
+          "channel": "second-brain",
+          "messages": 4
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 4
+        },
+        {
+          "channel": "inventory-alerts",
+          "messages": 2
+        },
+        {
+          "channel": "inventory",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.77,
+      "count": 41,
+      "top_mentioners": [
+        {
+          "user": "justin.bicknell",
+          "count": 12
+        },
+        {
+          "user": "dylan.kirby",
+          "count": 8
+        },
+        {
+          "user": "emilie.noel",
+          "count": 7
+        },
+        {
+          "user": "neil.anderson",
+          "count": 4
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 2
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 1
+        },
+        {
+          "user": "chao.duan",
+          "count": 1
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 1
+        },
+        {
+          "user": "alex.carruthers",
+          "count": 1
+        },
+        {
+          "user": "stephen.anders",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 40,
+      "17": 36,
+      "15": 40,
+      "14": 41,
+      "13": 36,
+      "20": 52,
+      "16": 29,
+      "19": 27,
+      "23": 10,
+      "21": 11,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 99,
+      "Tuesday": 68,
+      "Monday": 34,
+      "Thursday": 57,
+      "Friday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.88,
+    "dept_average_30d": 5.79,
+    "dept_rank": 519,
+    "dept_size": 1233
+  }
+}

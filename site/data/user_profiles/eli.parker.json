@@ -1,0 +1,266 @@
+{
+  "username": "eli.parker",
+  "name": "Eli Parker",
+  "generated_at": "2026-04-08T20:22:06.627451",
+  "summary": {
+    "message_count": 201,
+    "channels_active": 19,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I can take lead and <@U08JX61MPHN> feel free to jump in with any additional insights I might miss.",
+          "channel": "temp-ideal-monitoring-exit",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both! <@U01V0GHQSQJ> Could you share the draft PR when you get a chance?\n\nAlso, is there a draft PR for introducing `is_deceptive` into",
+          "channel": "proj-deceptive-commerce-detection",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I didn't end up rolling out `f_sp_unavailable_payment_methods` as we need the above PR to be release before rolling out",
+          "channel": "pp-turn-on-all-sp-lpms",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018HNRNCN6> Do you want me to look into adding to the relevant statuses?\n&gt; add  `!provider_active` to our new unrequested status checks",
+          "channel": "pp-turn-on-all-sp-lpms",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I was working on the same!",
+          "channel": "pp-turn-on-all-sp-lpms",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll try that now.",
+          "channel": "help-localization",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh that's right, thanks!",
+          "channel": "pp-local-payment-methods-monitoring",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I think I left my mouse at the pod we were in the first day. Before I order another one, ff anyone is in the office soon let me know if you see it",
+          "channel": "temp-lpm-onboarding-issues-burst",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Okay thanks! Do you know who I can reach out to to get the merchant comms sent out?",
+          "channel": "pp-lpm-risk-onboarding",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Just posted :+1: Thanks!",
+          "channel": "front-end-development",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "nadia.kostiv",
+          "count": 6
+        },
+        {
+          "user": "adam.butterworth",
+          "count": 6
+        },
+        {
+          "user": "jan.borchmann",
+          "count": 3
+        },
+        {
+          "user": "meredith.micks",
+          "count": 3
+        },
+        {
+          "user": "john.houser",
+          "count": 2
+        },
+        {
+          "user": "mahtab.dhaliwal",
+          "count": 2
+        },
+        {
+          "user": "andy.di",
+          "count": 2
+        },
+        {
+          "user": "nick.chen",
+          "count": 2
+        },
+        {
+          "user": "shireen.koul",
+          "count": 1
+        },
+        {
+          "user": "patrick.fang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.15,
+      "count": 351,
+      "top_channels": [
+        {
+          "channel": "pp-turn-on-all-sp-lpms",
+          "messages": 99
+        },
+        {
+          "channel": "temp-lpm-onboarding-issues-burst",
+          "messages": 38
+        },
+        {
+          "channel": "lpm-temp-river-threads",
+          "messages": 15
+        },
+        {
+          "channel": "temp-ideal-monitoring-exit",
+          "messages": 10
+        },
+        {
+          "channel": "river-and-nadia",
+          "messages": 7
+        },
+        {
+          "channel": "proj-deceptive-commerce-detection",
+          "messages": 6
+        },
+        {
+          "channel": "help-polaris",
+          "messages": 4
+        },
+        {
+          "channel": "help-localization",
+          "messages": 3
+        },
+        {
+          "channel": "pp-lpm-risk-onboarding",
+          "messages": 3
+        },
+        {
+          "channel": "front-end-development",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "nadia.kostiv",
+          "count": 8
+        },
+        {
+          "user": "meredith.micks",
+          "count": 5
+        },
+        {
+          "user": "andy.di",
+          "count": 4
+        },
+        {
+          "user": "george.zanetti",
+          "count": 2
+        },
+        {
+          "user": "sarah.leviseur",
+          "count": 2
+        },
+        {
+          "user": "max.piorischin",
+          "count": 1
+        },
+        {
+          "user": "nick.chen",
+          "count": 1
+        },
+        {
+          "user": "katrina.bautista",
+          "count": 1
+        },
+        {
+          "user": "nick.smith",
+          "count": 1
+        },
+        {
+          "user": "james.dirosa",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "16": 19,
+      "22": 18,
+      "19": 17,
+      "17": 27,
+      "15": 7,
+      "6": 5,
+      "5": 7,
+      "21": 22,
+      "20": 13,
+      "7": 2,
+      "4": 2,
+      "0": 7,
+      "23": 10,
+      "1": 4,
+      "14": 5,
+      "13": 1
+    },
+    "by_day": {
+      "Wednesday": 40,
+      "Tuesday": 71,
+      "Monday": 29,
+      "Thursday": 28,
+      "Friday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.79,
+    "dept_average_30d": 5.77,
+    "dept_rank": 411,
+    "dept_size": 885
+  }
+}

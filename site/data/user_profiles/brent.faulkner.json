@@ -1,0 +1,301 @@
+{
+  "username": "brent.faulkner",
+  "name": "Brent Faulkner",
+  "generated_at": "2026-04-08T20:22:09.333904",
+  "summary": {
+    "message_count": 1022,
+    "channels_active": 27,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 9,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "good luck <@U0223MUV7CH> -- this is where we need a real feature to add a staging domain to a shop :cry:",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "naming is hard -- you lost me when you called it templates (maybe bundles or *groups*?)\nnote: feel free to ignore me",
+          "channel": "pi",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-self-hosted-envoy",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "team-edge-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "that's better now  - thanks!",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "normalization should be mostly scoped to backend, but I can help dig into that in the morning",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "actually nvm... I'm going to see if AI can help me decode first",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "fwiw... I found the message I was remembering in the ticket...\n&gt; The internal engineering team is currently working on this, and at this moment",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so should wafflestack or whatever maybe be extended to support...\nalternatives of...\n`value: \"...\"`\nor\n`variable:",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "ultimately I don't care whether they are there or not -- *BUT* I do want the behaviour to be consistent for both google and cloudflare edge, and",
+          "channel": "proj-self-hosted-envoy",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "or I guess we can just talk to it and since the skill is discoverable it would figure it out",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "yeah I don't know and don't care enough to experiment with it (nor to encourage you to try further -- I'd rather we just get on with it for",
+          "channel": "proj-tm-domain-resiliency",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if you don't want terraform to fix the drift you need to update the terraform config to whatever you use spy to shift to :slightly_smiling_face:",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yeah - I'm suggesting that just returning 503 not available (or 202 accepted or whatever...) for all /dux requests on the secondary edge might be",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "kalindu.decosta",
+          "count": 23
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 13
+        },
+        {
+          "user": "joshua.sager",
+          "count": 10
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 7
+        },
+        {
+          "user": "peiran.liu",
+          "count": 5
+        },
+        {
+          "user": "charles.ng",
+          "count": 4
+        },
+        {
+          "user": "bill.bean",
+          "count": 2
+        },
+        {
+          "user": "navied.shoushtarian",
+          "count": 2
+        },
+        {
+          "user": "nick.silverman",
+          "count": 2
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.26,
+      "count": 304,
+      "top_channels": [
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 387
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 183
+        },
+        {
+          "channel": "imagery-efficiency",
+          "messages": 93
+        },
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 84
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 47
+        },
+        {
+          "channel": "proj-application-edge-resiliency",
+          "messages": 45
+        },
+        {
+          "channel": "pi",
+          "messages": 44
+        },
+        {
+          "channel": "proj-tm-domain-resiliency",
+          "messages": 34
+        },
+        {
+          "channel": "proj-self-hosted-envoy",
+          "messages": 29
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "pascal.deladurantaye",
+          "count": 14
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 6
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 6
+        },
+        {
+          "user": "navied.shoushtarian",
+          "count": 4
+        },
+        {
+          "user": "joshua.sager",
+          "count": 2
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 2
+        },
+        {
+          "user": "wolfgang.nagele",
+          "count": 2
+        },
+        {
+          "user": "charles.ng",
+          "count": 2
+        },
+        {
+          "user": "arbab.ahmed",
+          "count": 2
+        },
+        {
+          "user": "daiane.silva",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 152,
+      "16": 116,
+      "15": 124,
+      "14": 117,
+      "23": 22,
+      "21": 51,
+      "19": 76,
+      "17": 205,
+      "13": 70,
+      "20": 66,
+      "12": 13,
+      "3": 1,
+      "2": 3,
+      "11": 1,
+      "10": 2,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 202,
+      "Tuesday": 290,
+      "Monday": 66,
+      "Thursday": 332,
+      "Friday": 132
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.5,
+    "dept_average_30d": 5.75,
+    "dept_rank": 60,
+    "dept_size": 357
+  }
+}

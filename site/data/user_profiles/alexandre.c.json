@@ -1,0 +1,275 @@
+{
+  "username": "alexandre.c",
+  "name": "Alexandre C",
+  "generated_at": "2026-04-08T20:22:15.895779",
+  "summary": {
+    "message_count": 839,
+    "channels_active": 28,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 14,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks!",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M>\n&gt; `formatShopifyQLQuery` \u2192 `@shared/analytics` \u2014 this one *could* be `@domain/analytics`. It's 11 lines, pure `.ts`, only depends",
+          "channel": "alx-river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey folks :wave::skin-tone-3:  Sorry about the late ping, I have a couple of refactors to SSEs that I'd like to do this week as part of the",
+          "channel": "sidekick-streaming",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U09JAP751FX> - lmk if you have more test cases to go through that we should test out. Otherwise feel free to send me anything that is caught during",
+          "channel": "sidekick-streaming",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Alright sorry about the delay, we're finally in a good place with the PRs to support analytics subagent with the new streaming.\n\nI will need some",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good to know, thanks!",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah so no shared dashboard. I'll take a look thanks!",
+          "channel": "help-proxy-shopify-ai",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Error monitor should recover, I'll stay around for a little longer. Sorry about the late ping, really didn't expect to cause this :disappointed:",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome, thanks!",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "lmk happy to help port this over if there's something conflicting with the new implementation",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "<@U0AEPQCKB3M> Correct, but perhaps we keep using LoadingIndicator since it already has the logic for rendering loader message and rotating the",
+          "channel": "sidekick-streaming",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "cole.derochie",
+          "count": 12
+        },
+        {
+          "user": "apurva.gorti",
+          "count": 10
+        },
+        {
+          "user": "jason.z.liu",
+          "count": 8
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 6
+        },
+        {
+          "user": "dima.belyaev",
+          "count": 5
+        },
+        {
+          "user": "aly.gemae",
+          "count": 5
+        },
+        {
+          "user": "colby.fayock",
+          "count": 5
+        },
+        {
+          "user": "leslie.xin",
+          "count": 3
+        },
+        {
+          "user": "bill.story",
+          "count": 2
+        },
+        {
+          "user": "nick.matantsev",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 404,
+      "top_channels": [
+        {
+          "channel": "sidekick-streaming",
+          "messages": 342
+        },
+        {
+          "channel": "proj-agent-shared-client",
+          "messages": 78
+        },
+        {
+          "channel": "proj-analytics-schema-selection-subagent",
+          "messages": 54
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 54
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 53
+        },
+        {
+          "channel": "alx-river",
+          "messages": 46
+        },
+        {
+          "channel": "sidekick-input",
+          "messages": 45
+        },
+        {
+          "channel": "proj-todo-list-sidekick",
+          "messages": 29
+        },
+        {
+          "channel": "proj-apps-in-sk",
+          "messages": 26
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 22
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 94,
+      "top_mentioners": [
+        {
+          "user": "jason.z.liu",
+          "count": 16
+        },
+        {
+          "user": "cole.derochie",
+          "count": 13
+        },
+        {
+          "user": "aly.gemae",
+          "count": 11
+        },
+        {
+          "user": "apurva.gorti",
+          "count": 11
+        },
+        {
+          "user": "matt.koenig",
+          "count": 10
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 5
+        },
+        {
+          "user": "dima.belyaev",
+          "count": 3
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 3
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 2
+        },
+        {
+          "user": "sai.nihas",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 91,
+      "16": 132,
+      "15": 114,
+      "14": 88,
+      "3": 7,
+      "2": 10,
+      "1": 8,
+      "0": 33,
+      "23": 40,
+      "22": 35,
+      "21": 52,
+      "20": 55,
+      "19": 80,
+      "18": 60,
+      "13": 21,
+      "11": 6,
+      "12": 6,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 174,
+      "Tuesday": 225,
+      "Monday": 124,
+      "Friday": 169,
+      "Thursday": 147
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.55,
+    "dept_average_30d": 4.74,
+    "dept_rank": 88,
+    "dept_size": 1663
+  }
+}

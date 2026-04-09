@@ -1,0 +1,106 @@
+{
+  "username": "julia.baumberg",
+  "name": "Julia Baumberg",
+  "generated_at": "2026-04-08T20:22:30.055447",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! I hope you're doing well today ~  I have an Enterprise merchant facing an issue where using the rewards option on the customer account page",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! I am not able to get Slack to work on my new phone as the yubi-key keeps timing out when verifying. Just wondering if you can help with",
+          "channel": "help-it",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "brian.shen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.03,
+      "count": 80,
+      "top_channels": [
+        {
+          "channel": "help-it",
+          "messages": 6
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.46,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "amelia.yap",
+          "count": 3
+        },
+        {
+          "user": "brian.shen",
+          "count": 1
+        },
+        {
+          "user": "jenica.mcguire",
+          "count": 1
+        },
+        {
+          "user": "carmela.leung",
+          "count": 1
+        },
+        {
+          "user": "claudia.kwok",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "3": 1,
+      "4": 3,
+      "10": 6
+    },
+    "by_day": {
+      "Friday": 1,
+      "Thursday": 3,
+      "Tuesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.47,
+    "dept_average_30d": 4.09,
+    "dept_rank": 490,
+    "dept_size": 642
+  }
+}

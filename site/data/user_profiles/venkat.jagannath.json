@@ -1,0 +1,140 @@
+{
+  "username": "venkat.jagannath",
+  "name": "Venkat Jagannath",
+  "generated_at": "2026-04-08T20:22:28.278124",
+  "summary": {
+    "message_count": 24,
+    "channels_active": 7,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U037Q70GS4B> <@U02DU3SJX7D> do you have some time tomorrow for us to touch base and discuss next steps?\n\nsent you a calendar invite. let me know if",
+          "channel": "proj-hstu-personalization-engine",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good, thank you!",
+          "channel": "merchant-events-foundational-model-alerts",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.33,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "elvin.ouyang",
+          "count": 4
+        },
+        {
+          "user": "amy.furgoch",
+          "count": 2
+        },
+        {
+          "user": "connor.mckay",
+          "count": 1
+        },
+        {
+          "user": "diego.ardila",
+          "count": 1
+        },
+        {
+          "user": "daniel.hopper",
+          "count": 1
+        },
+        {
+          "user": "brandon.reid",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.69,
+      "count": 68,
+      "top_channels": [
+        {
+          "channel": "proj-hstu-personalization-engine",
+          "messages": 11
+        },
+        {
+          "channel": "dev-platform-data-river",
+          "messages": 5
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "merchant-events-foundational-model-alerts",
+          "messages": 2
+        },
+        {
+          "channel": "team-ci",
+          "messages": 1
+        },
+        {
+          "channel": "ml-community",
+          "messages": 1
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.09,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "elvin.ouyang",
+          "count": 4
+        },
+        {
+          "user": "diego.ardila",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 2,
+      "14": 5,
+      "3": 1,
+      "20": 5,
+      "18": 1,
+      "21": 3,
+      "16": 5,
+      "19": 2
+    },
+    "by_day": {
+      "Tuesday": 14,
+      "Monday": 7,
+      "Friday": 2,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.87,
+    "dept_average_30d": 4.74,
+    "dept_rank": 614,
+    "dept_size": 1663
+  }
+}

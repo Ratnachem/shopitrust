@@ -1,0 +1,249 @@
+{
+  "username": "pamela.wu",
+  "name": "Pamela Wu",
+  "generated_at": "2026-04-08T20:22:08.074266",
+  "summary": {
+    "message_count": 191,
+    "channels_active": 26,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Okay so sorry about the misunderstanding, but could we maybe close both? 1. I thought you were talking about a different commented out thing, this",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I already looked",
+          "channel": "retail-product-data-goalie",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Oh amazing, okay I get it now",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hey <@W018311H431> I def can, but what command do you want me to run, just any sdp_airflow deploy command?",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I'll get to this in 30min, thanks!",
+          "channel": "retail-data-science",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yeah so this is one part of what we mean by \"blocked by SDP\". We'll talk on Friday, but let me know if you have any major concerns about what I",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I keep having an Okta failed issue. Usually whatever verification method I try first works (Okta Verify, Yubikey) and then it asks for another one,",
+          "channel": "help-fleet-rollout",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "This is actually barely worth it, but if I re-run all partitions, it'll probably fix itself. The stupid thing is that this one isn't even the new one",
+          "channel": "retail-product-data-goalie",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "matthew.boyd",
+          "count": 4
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 4
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 2
+        },
+        {
+          "user": "nolan.jardine",
+          "count": 2
+        },
+        {
+          "user": "robert.habib",
+          "count": 2
+        },
+        {
+          "user": "tyler.carr",
+          "count": 1
+        },
+        {
+          "user": "pouya.kabiri",
+          "count": 1
+        },
+        {
+          "user": "kevin.yu",
+          "count": 1
+        },
+        {
+          "user": "vrishti.dutta",
+          "count": 1
+        },
+        {
+          "user": "chao.duan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.35,
+      "count": 309,
+      "top_channels": [
+        {
+          "channel": "retail-product-data-goalie",
+          "messages": 56
+        },
+        {
+          "channel": "data-monorepo-migration",
+          "messages": 47
+        },
+        {
+          "channel": "data-engineering-community",
+          "messages": 12
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 10
+        },
+        {
+          "channel": "dw-buyer-activity-team",
+          "messages": 10
+        },
+        {
+          "channel": "data-community",
+          "messages": 7
+        },
+        {
+          "channel": "help-it",
+          "messages": 7
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 7
+        },
+        {
+          "channel": "retail-data-science",
+          "messages": 4
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "adolfo.rodriguez",
+          "count": 12
+        },
+        {
+          "user": "robert.habib",
+          "count": 4
+        },
+        {
+          "user": "jan.hartigan",
+          "count": 4
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 3
+        },
+        {
+          "user": "josh.kraut",
+          "count": 3
+        },
+        {
+          "user": "asad.jaffery",
+          "count": 3
+        },
+        {
+          "user": "pere.manresa",
+          "count": 2
+        },
+        {
+          "user": "pouya.kabiri",
+          "count": 2
+        },
+        {
+          "user": "yang.gao",
+          "count": 2
+        },
+        {
+          "user": "jeanbaptiste.morin",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 22,
+      "14": 69,
+      "13": 22,
+      "21": 2,
+      "20": 7,
+      "19": 25,
+      "16": 16,
+      "15": 15,
+      "17": 7,
+      "12": 2,
+      "2": 2,
+      "23": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 29,
+      "Monday": 34,
+      "Thursday": 46,
+      "Friday": 23
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 8.74,
+    "dept_average_30d": 5.77,
+    "dept_rank": 24,
+    "dept_size": 885
+  }
+}

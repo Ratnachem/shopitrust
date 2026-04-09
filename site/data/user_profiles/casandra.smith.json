@@ -1,0 +1,100 @@
+{
+  "username": "casandra.smith",
+  "name": "Casandra Smith",
+  "generated_at": "2026-04-08T20:22:31.335437",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 2,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.85,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "nick.lepine",
+          "count": 2
+        },
+        {
+          "user": "feken.baboyan",
+          "count": 1
+        },
+        {
+          "user": "mauricio.meirelles",
+          "count": 1
+        },
+        {
+          "user": "mateus.jabour",
+          "count": 1
+        },
+        {
+          "user": "victor.tortolero",
+          "count": 1
+        },
+        {
+          "user": "rory.tanner",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.91,
+      "count": 23,
+      "top_channels": [
+        {
+          "channel": "proj-ose-sidekick",
+          "messages": 5
+        },
+        {
+          "channel": "proj-ai-block-generation",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.65,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "feken.baboyan",
+          "count": 2
+        },
+        {
+          "user": "rory.tanner",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 2,
+      "16": 1,
+      "20": 3,
+      "19": 1
+    },
+    "by_day": {
+      "Tuesday": 5,
+      "Thursday": 1,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.79,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1362,
+    "dept_size": 1663
+  }
+}

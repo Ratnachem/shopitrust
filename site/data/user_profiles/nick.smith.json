@@ -1,0 +1,274 @@
+{
+  "username": "nick.smith",
+  "name": "Nick Smith",
+  "generated_at": "2026-04-08T20:22:14.411480",
+  "summary": {
+    "message_count": 942,
+    "channels_active": 22,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 4,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Not sure they will push back but if they do I'm happy to help make the argument. The credentials approach is cleaner.",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes thank you!",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "No worries. Just re-request my review once you have something you want me to look at.",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work <@U06H8V3ECQ2> and <@U023MUNMCKU> getting this all put together!",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Stupid question. The completion endpoint only lists merchantAccount as required. Do we really need the emvData",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "If this data really is only relevant to the terminal, then is there also a middle ground between A &amp; B where the provider interactor returns the",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The origin can actually flex in some cases so it would just be payment_method=card_present + whatever product_key for the account",
+          "channel": "pp-card-payment-methods-team",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "After talking with the cards team, they are iterating on the idea and it may be picked up by an intern so I created",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever we go with, having a standard result for EMV is where we need to land.",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "That flag should be separate from whatever flag we use to switch merchants to use the gateway. We will most likely have to backfill to create PCCs",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> The issue is that anytime an update is run we\u2019re going to end up overwriting whatever Stripe has with that dummy data unless we override all the",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "saki.futamura",
+          "count": 15
+        },
+        {
+          "user": "tvesha.shah",
+          "count": 11
+        },
+        {
+          "user": "david.hou",
+          "count": 7
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 7
+        },
+        {
+          "user": "kyro.nassif",
+          "count": 5
+        },
+        {
+          "user": "cameron.nickert",
+          "count": 5
+        },
+        {
+          "user": "joel.kerfoot",
+          "count": 5
+        },
+        {
+          "user": "frederic.marois",
+          "count": 4
+        },
+        {
+          "user": "daniel.wyckoff",
+          "count": 3
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.48,
+      "count": 263,
+      "top_channels": [
+        {
+          "channel": "proj-payments-card-present-emv",
+          "messages": 602
+        },
+        {
+          "channel": "card-present-payment-gateway-central",
+          "messages": 52
+        },
+        {
+          "channel": "proj-auth-rate-data-greenpath",
+          "messages": 42
+        },
+        {
+          "channel": "pp-multi-direct-gateway",
+          "messages": 33
+        },
+        {
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "messages": 32
+        },
+        {
+          "channel": "pp-card-payment-methods-team",
+          "messages": 25
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 24
+        },
+        {
+          "channel": "nick-smith-river",
+          "messages": 21
+        },
+        {
+          "channel": "proj-adyen-account-management",
+          "messages": 21
+        },
+        {
+          "channel": "inc-15712-3ds-payments-on-shop-pay-commerce-compone",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 81,
+      "top_mentioners": [
+        {
+          "user": "cole.pilegard",
+          "count": 13
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 12
+        },
+        {
+          "user": "saki.futamura",
+          "count": 5
+        },
+        {
+          "user": "yibing.yang",
+          "count": 4
+        },
+        {
+          "user": "raphael.papillon",
+          "count": 3
+        },
+        {
+          "user": "sana.asghar",
+          "count": 3
+        },
+        {
+          "user": "michal.malecki",
+          "count": 3
+        },
+        {
+          "user": "joel.kerfoot",
+          "count": 3
+        },
+        {
+          "user": "cameron.nickert",
+          "count": 2
+        },
+        {
+          "user": "david.hou",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 62,
+      "16": 128,
+      "13": 27,
+      "2": 8,
+      "1": 8,
+      "22": 65,
+      "21": 147,
+      "19": 126,
+      "17": 50,
+      "15": 85,
+      "14": 80,
+      "0": 3,
+      "20": 122,
+      "3": 12,
+      "4": 2,
+      "23": 16,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 179,
+      "Tuesday": 222,
+      "Monday": 236,
+      "Friday": 188,
+      "Thursday": 117
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.34,
+    "dept_average_30d": 5.77,
+    "dept_rank": 166,
+    "dept_size": 885
+  }
+}

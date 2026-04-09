@@ -1,0 +1,277 @@
+{
+  "username": "joseph.enzminger",
+  "name": "Joseph Enzminger",
+  "generated_at": "2026-04-08T20:22:23.885572",
+  "summary": {
+    "message_count": 371,
+    "channels_active": 20,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 38,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 7,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03HLRZTLG2> <@U050HJF0T9P> this PR was merged today.  Can you take a look at it and let me know if you see any issues? ",
+          "channel": "proj-test-pilot-shared",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great!  Thank you!",
+          "channel": "help-external-workers",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03CZ900XGT> - I'm not sure who owns the onboarding, but is that something we can update as well?",
+          "channel": "help-external-workers",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Resolved!  Thank you!",
+          "channel": "help-external-workers",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-external-workers",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W0182UN1E4X> this is still a draft, but feel free to take a look as I start to get the infrastructure and Infra Central  parts aligned.",
+          "channel": "index-serving-monorepo-transition",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08LGMQJVME> thank you.  Can you rebase your PR off of main and resolve any conflicts?",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think this will break a a lot of dashboards and alerts that were relying on \"use_case_name\" semantics from BSL (use case name was bsl, version was",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said \"good state\" is complicated :slightly_smiling_face:.  For pipelines that have CD enabled, we actually may not want to go back to the",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Ok - that PR has already landed in PROD.  You should have logs in every topic (dev, stage, and prod)",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "I have a presentation deck I'd like to share.  If not possible I'll deal with it another way",
+          "channel": "help-external-workers",
+          "timestamp": "2026-03-09"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "girish.malkarnenkar",
+          "count": 12
+        },
+        {
+          "user": "pavle.radosavljevic",
+          "count": 10
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 9
+        },
+        {
+          "user": "robert.adler",
+          "count": 6
+        },
+        {
+          "user": "calvin.delima",
+          "count": 4
+        },
+        {
+          "user": "chris.c.barnes",
+          "count": 3
+        },
+        {
+          "user": "helen.y.zhang",
+          "count": 3
+        },
+        {
+          "user": "topher.bullock",
+          "count": 3
+        },
+        {
+          "user": "tim.smith",
+          "count": 3
+        },
+        {
+          "user": "taylor.peoples",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.52,
+      "count": 212,
+      "top_channels": [
+        {
+          "channel": "search-engineering-shared",
+          "messages": 91
+        },
+        {
+          "channel": "proj-test-pilot-shared",
+          "messages": 75
+        },
+        {
+          "channel": "proj-dsl-shared",
+          "messages": 47
+        },
+        {
+          "channel": "tmp-agent-vantage",
+          "messages": 40
+        },
+        {
+          "channel": "help-external-workers",
+          "messages": 38
+        },
+        {
+          "channel": "proj-search-deployment-pipeline",
+          "messages": 31
+        },
+        {
+          "channel": "index-serving-monorepo-transition",
+          "messages": 10
+        },
+        {
+          "channel": "inc-20567-vantage-search-latency-spiking",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20374-dsl-retention-issue-in-staging-amp-prod",
+          "messages": 7
+        },
+        {
+          "channel": "tmp-dsl-image-checks",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 158,
+      "top_mentioners": [
+        {
+          "user": "girish.malkarnenkar",
+          "count": 22
+        },
+        {
+          "user": "logan.best",
+          "count": 16
+        },
+        {
+          "user": "chris.c.barnes",
+          "count": 15
+        },
+        {
+          "user": "misha.shakhray",
+          "count": 12
+        },
+        {
+          "user": "calvin.delima",
+          "count": 11
+        },
+        {
+          "user": "topher.bullock",
+          "count": 10
+        },
+        {
+          "user": "riti.nagi",
+          "count": 8
+        },
+        {
+          "user": "alex.watt",
+          "count": 7
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 6
+        },
+        {
+          "user": "chao.duan",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 40,
+      "21": 22,
+      "20": 32,
+      "18": 18,
+      "17": 31,
+      "15": 64,
+      "13": 30,
+      "3": 3,
+      "19": 25,
+      "16": 44,
+      "23": 12,
+      "0": 11,
+      "1": 6,
+      "22": 20,
+      "11": 1,
+      "12": 1,
+      "5": 6,
+      "2": 1,
+      "6": 1,
+      "4": 3
+    },
+    "by_day": {
+      "Wednesday": 80,
+      "Tuesday": 73,
+      "Monday": 47,
+      "Friday": 119,
+      "Thursday": 52
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.62,
+    "dept_average_30d": 4.74,
+    "dept_rank": 78,
+    "dept_size": 1663
+  }
+}

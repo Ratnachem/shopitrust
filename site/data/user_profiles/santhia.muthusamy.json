@@ -1,0 +1,228 @@
+{
+  "username": "santhia.muthusamy",
+  "name": "Santhia Muthusamy",
+  "generated_at": "2026-04-08T20:22:09.065757",
+  "summary": {
+    "message_count": 178,
+    "channels_active": 17,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U094AHM63T8> and <@U039ZQFF7RQ>, Thank you both for your help with this! I now see the new extracts in the aggregate schema!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad.. it is a shop-server event and it is supposed to emit to both versions.. I will need to introduce a filter (date cutoffin the union model)",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Appreciate your help",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U039ZQFF7RQ>, are you able to add the new versions? If there is anything I can help with, let me know",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I did hear that IVM/tokenization may be going away with ER, or possibly even sooner.But these topics are getting a major version bump as a part of",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "andrew.lo",
+          "count": 10
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 6
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 6
+        },
+        {
+          "user": "josh.rounsville",
+          "count": 5
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 3
+        },
+        {
+          "user": "constantino.schillebeeckx",
+          "count": 3
+        },
+        {
+          "user": "caroline.lee",
+          "count": 2
+        },
+        {
+          "user": "blake.ordway",
+          "count": 2
+        },
+        {
+          "user": "paul.linton",
+          "count": 2
+        },
+        {
+          "user": "karl.taylor",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.75,
+      "count": 277,
+      "top_channels": [
+        {
+          "channel": "shop-data-dev",
+          "messages": 31
+        },
+        {
+          "channel": "temp-shopyuga-client-cutover",
+          "messages": 29
+        },
+        {
+          "channel": "shop-data-alerts",
+          "messages": 28
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 28
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 18
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 10
+        },
+        {
+          "channel": "recommendations-generative-recs",
+          "messages": 8
+        },
+        {
+          "channel": "shop-data",
+          "messages": 4
+        },
+        {
+          "channel": "proj-growth-ads-shop-campaigns-dw",
+          "messages": 4
+        },
+        {
+          "channel": "ads-campaigns-engine-ops",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 86,
+      "top_mentioners": [
+        {
+          "user": "elaine.y.chan",
+          "count": 13
+        },
+        {
+          "user": "constantino.schi-7983",
+          "count": 12
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 10
+        },
+        {
+          "user": "ines.pancorbo",
+          "count": 7
+        },
+        {
+          "user": "yang.gao",
+          "count": 5
+        },
+        {
+          "user": "josh.rounsville",
+          "count": 5
+        },
+        {
+          "user": "rafael.schulman",
+          "count": 5
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 5
+        },
+        {
+          "user": "ali.khanafer",
+          "count": 3
+        },
+        {
+          "user": "caroline.lee",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 16,
+      "17": 15,
+      "16": 32,
+      "15": 30,
+      "13": 19,
+      "19": 6,
+      "14": 21,
+      "21": 11,
+      "20": 18,
+      "1": 1,
+      "23": 2,
+      "22": 5,
+      "0": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 49,
+      "Tuesday": 50,
+      "Monday": 26,
+      "Thursday": 36,
+      "Friday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.96,
+    "dept_average_30d": 5.86,
+    "dept_rank": 83,
+    "dept_size": 166
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "username": "william.gong",
+  "name": "William Gong",
+  "generated_at": "2026-04-08T20:22:15.042699",
+  "summary": {
+    "message_count": 287,
+    "channels_active": 12,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yeah looks good to me, thanks!",
+          "channel": "proj-pos-app-cross-store-pickup",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Will do, thanks!]",
+          "channel": "observability-metrics",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Don't know what's the best solution here, but I think not gating it at all would probably be easiest, since 1. Schema changes will be present",
+          "channel": "proj-pos-app-cross-store-pickup",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "Ahhh my mistake, nevermind then",
+          "channel": "proj-pos-app-cross-store-pickup",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Also <@U02F4SJU82X> let me know if you want to pair on this",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Also <@U02F4SJU82X> let me know if you have any good ideas on how to get all available pickup locations with inventory, but also get our current",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "This is pretty much how the flow will work: <https://drive.google.com/file/d/1klSmYiVhXwxhbpNa6Uo_NdTgd1dGYqnn/view?usp=sharing>.\n\nThere are 5",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HMEQSTU> let me know if you see anything wrong with this version",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "If it's gonna break stuff, I'm inclined to try and get this in as a cherry pick, but if we're going to be ok without it, I think it's safe to fit in",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yup, CI is all green now, Thanks!",
+          "channel": "retail-pos-customerview-dev",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The main changes between versions:\n*CheckoutSDK*\nIn V1:\n\u2022 CheckoutSDK performs C1, gets all available pickup options, filters by which one matches",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This commit will probably need to be cherry picked in: <https://github.com/shop/issues-retail/issues/26345>\n\nFor context, during testing with local",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Spoke to <@W018HMW7EKU> and he gave these insights:\n1. When we have a shipping cart with physical + digital items, why do we move digital items",
+          "channel": "retail-mx-merchandising",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Once we add the proper gating, we shouldn't end up in this flow like 99% of the time unless they're doing something weird like:\n1. Create a cart with",
+          "channel": "proj-pos-creating-pickup-order",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "kwan.fu",
+          "count": 30
+        },
+        {
+          "user": "mark.polivchuk",
+          "count": 25
+        },
+        {
+          "user": "helen.tsvirinkal",
+          "count": 18
+        },
+        {
+          "user": "alexei.koulikov",
+          "count": 17
+        },
+        {
+          "user": "peter.limawal",
+          "count": 13
+        },
+        {
+          "user": "eric.wichman",
+          "count": 10
+        },
+        {
+          "user": "alexander.rigney",
+          "count": 9
+        },
+        {
+          "user": "adrian.omoruyi",
+          "count": 7
+        },
+        {
+          "user": "bryan.kou",
+          "count": 4
+        },
+        {
+          "user": "james.trever",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.97,
+      "count": 183,
+      "top_channels": [
+        {
+          "channel": "proj-pos-creating-pickup-order",
+          "messages": 163
+        },
+        {
+          "channel": "proj-pos-app-cross-store-pickup",
+          "messages": 34
+        },
+        {
+          "channel": "retail-mx-inventory-fulfillment",
+          "messages": 24
+        },
+        {
+          "channel": "inc-20717-merchants-cannot-view-products-in-quick-c",
+          "messages": 23
+        },
+        {
+          "channel": "pos-core-selling-flow-cart",
+          "messages": 15
+        },
+        {
+          "channel": "retail-pos-customerview-dev",
+          "messages": 14
+        },
+        {
+          "channel": "retail-deliver-collab",
+          "messages": 4
+        },
+        {
+          "channel": "observability-metrics",
+          "messages": 3
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 2
+        },
+        {
+          "channel": "retail-mx-search",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 115,
+      "top_mentioners": [
+        {
+          "user": "kwan.fu",
+          "count": 42
+        },
+        {
+          "user": "alexei.koulikov",
+          "count": 18
+        },
+        {
+          "user": "peter.limawal",
+          "count": 13
+        },
+        {
+          "user": "helen.tsvirinkal",
+          "count": 10
+        },
+        {
+          "user": "adrian.omoruyi",
+          "count": 8
+        },
+        {
+          "user": "mark.polivchuk",
+          "count": 6
+        },
+        {
+          "user": "bryan.kou",
+          "count": 4
+        },
+        {
+          "user": "eric.wichman",
+          "count": 3
+        },
+        {
+          "user": "marc.grenier",
+          "count": 3
+        },
+        {
+          "user": "andrew.wan",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 52,
+      "17": 40,
+      "16": 38,
+      "15": 10,
+      "23": 11,
+      "20": 38,
+      "1": 1,
+      "22": 7,
+      "21": 32,
+      "0": 17,
+      "19": 30,
+      "13": 8,
+      "14": 2,
+      "6": 1
+    },
+    "by_day": {
+      "Wednesday": 67,
+      "Tuesday": 55,
+      "Monday": 58,
+      "Friday": 48,
+      "Thursday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.89,
+    "dept_average_30d": 5.77,
+    "dept_rank": 361,
+    "dept_size": 885
+  }
+}

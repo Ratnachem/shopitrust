@@ -1,0 +1,186 @@
+{
+  "username": "hongming.wang",
+  "name": "Hongming Wang",
+  "generated_at": "2026-04-08T20:22:10.594910",
+  "summary": {
+    "message_count": 68,
+    "channels_active": 17,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Will update the PR and file a breaking change request.",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Also, we should ensure the CLI does not treat `channel_specifications` as empty.",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "joseph.smarr",
+          "count": 2
+        },
+        {
+          "user": "martin.wallace",
+          "count": 2
+        },
+        {
+          "user": "alex.grant",
+          "count": 1
+        },
+        {
+          "user": "catherine.fu",
+          "count": 1
+        },
+        {
+          "user": "shopify",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.26,
+      "count": 304,
+      "top_channels": [
+        {
+          "channel": "proj-multi-channel",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20019-index-serving---long-lived-shard-online-r",
+          "messages": 7
+        },
+        {
+          "channel": "channels-platform-ops",
+          "messages": 6
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 6
+        },
+        {
+          "channel": "channel-platform-e2e-prototype",
+          "messages": 5
+        },
+        {
+          "channel": "inc-19750-discount-code-api-failures",
+          "messages": 5
+        },
+        {
+          "channel": "help-core-catalogs",
+          "messages": 4
+        },
+        {
+          "channel": "proj-channel-entitlement",
+          "messages": 3
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 2
+        },
+        {
+          "channel": "inv-18370-prolonged-db-writer-cpu-saturation",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "joseph.smarr",
+          "count": 8
+        },
+        {
+          "user": "tejas.mehta",
+          "count": 5
+        },
+        {
+          "user": "martin.wallace",
+          "count": 3
+        },
+        {
+          "user": "alex.tan",
+          "count": 3
+        },
+        {
+          "user": "thomas.tau",
+          "count": 2
+        },
+        {
+          "user": "kristian.ott",
+          "count": 2
+        },
+        {
+          "user": "maurizio.cucchiara",
+          "count": 2
+        },
+        {
+          "user": "catherine.fu",
+          "count": 2
+        },
+        {
+          "user": "chris.lee",
+          "count": 2
+        },
+        {
+          "user": "arman.kazemi",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 10,
+      "17": 6,
+      "15": 5,
+      "22": 6,
+      "21": 6,
+      "20": 10,
+      "19": 7,
+      "23": 4,
+      "4": 1,
+      "1": 6,
+      "16": 5,
+      "12": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 6,
+      "Tuesday": 18,
+      "Thursday": 25,
+      "Friday": 15,
+      "Monday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 541,
+    "dept_size": 1233
+  }
+}

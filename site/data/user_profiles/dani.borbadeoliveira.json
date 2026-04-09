@@ -1,0 +1,108 @@
+{
+  "username": "dani.borbadeoliveira",
+  "name": "Dani Borbadeoliveira",
+  "generated_at": "2026-04-08T20:22:31.845843",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I\u2019m trying to set up the support-core MCP in Claude Code (VS Code) to work with Zendesk tickets and data. The Minerva/OAuth flow doesn\u2019t",
+          "channel": "help-cx-rnd",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.0,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "dan.dobrick",
+          "count": 1
+        },
+        {
+          "user": "daniel.abalos",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-billing-platform",
+          "messages": 4
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "help-cx-rnd",
+          "messages": 1
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        },
+        {
+          "channel": "help-legal",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.46,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "dan.dobrick",
+          "count": 1
+        },
+        {
+          "user": "daniel.abalos",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "13": 1,
+      "9": 1,
+      "12": 1,
+      "14": 2,
+      "17": 1
+    },
+    "by_day": {
+      "Thursday": 3,
+      "Tuesday": 2,
+      "Monday": 1,
+      "Friday": 1,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.3,
+    "dept_average_30d": 4.74,
+    "dept_rank": 986,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "username": "mike.wagg",
+  "name": "Mike Wagg",
+  "generated_at": "2026-04-08T20:22:24.389463",
+  "summary": {
+    "message_count": 112,
+    "channels_active": 11,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197J1D6QY> here you go <https://app.graphite.com/github/pr/Shopify/shop-server/150298>\nLet me know if you have any feedback, and in the meantime",
+          "channel": "proj-shop-app-shopcash-ledger",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Great!\n\nSo for 1, I think what we'll do is not use migrations for non-shop schema and instead have a separate step in `dev up` to add these. I'll",
+          "channel": "proj-shop-app-shopcash-ledger",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm thinking specifically about the goal for the end of the month of putting load on the ledger\n\nSo I think we focus on getting the buyer/shop cash",
+          "channel": "proj-shop-app-shopcash-ledger",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "shabnam.emdadi",
+          "count": 5
+        },
+        {
+          "user": "kajol.maheshwari",
+          "count": 5
+        },
+        {
+          "user": "martin.larochelle",
+          "count": 2
+        },
+        {
+          "user": "carljohan.gustavsson",
+          "count": 1
+        },
+        {
+          "user": "nidhi.jain",
+          "count": 1
+        },
+        {
+          "user": "enrico.telesca",
+          "count": 1
+        },
+        {
+          "user": "juan.guerrero",
+          "count": 1
+        },
+        {
+          "user": "dominic.lind",
+          "count": 1
+        },
+        {
+          "user": "simon.menardlariviere",
+          "count": 1
+        },
+        {
+          "user": "mike.welsh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.09,
+      "count": 137,
+      "top_channels": [
+        {
+          "channel": "proj-shop-app-shopcash-ledger",
+          "messages": 30
+        },
+        {
+          "channel": "shopify-ledger-dev",
+          "messages": 19
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 17
+        },
+        {
+          "channel": "shop-yugabyte",
+          "messages": 13
+        },
+        {
+          "channel": "proj-shop-chatgpt-app",
+          "messages": 12
+        },
+        {
+          "channel": "proj-shop-agents-api",
+          "messages": 6
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 5
+        },
+        {
+          "channel": "shop-tracking",
+          "messages": 4
+        },
+        {
+          "channel": "proj-shopify-ledger",
+          "messages": 3
+        },
+        {
+          "channel": "shop-buyer-acq",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "mazen.alhagri",
+          "count": 3
+        },
+        {
+          "user": "joe.rinaldijohnson",
+          "count": 3
+        },
+        {
+          "user": "charles.ouimet",
+          "count": 2
+        },
+        {
+          "user": "michi.hiratsuka",
+          "count": 2
+        },
+        {
+          "user": "peter.keogh",
+          "count": 2
+        },
+        {
+          "user": "lorenzo.sciandra",
+          "count": 1
+        },
+        {
+          "user": "kajol.maheshwari",
+          "count": 1
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 1
+        },
+        {
+          "user": "matthew.elphick",
+          "count": 1
+        },
+        {
+          "user": "ian.quan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 8,
+      "11": 11,
+      "8": 11,
+      "16": 11,
+      "12": 7,
+      "14": 11,
+      "10": 17,
+      "9": 16,
+      "17": 6,
+      "15": 12,
+      "21": 1,
+      "18": 1
+    },
+    "by_day": {
+      "Wednesday": 20,
+      "Tuesday": 49,
+      "Thursday": 21,
+      "Monday": 9,
+      "Friday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.66,
+    "dept_average_30d": 5.86,
+    "dept_rank": 111,
+    "dept_size": 166
+  }
+}

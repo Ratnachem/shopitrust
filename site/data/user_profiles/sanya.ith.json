@@ -1,0 +1,112 @@
+{
+  "username": "sanya.ith",
+  "name": "Sanya Ith",
+  "generated_at": "2026-04-08T20:22:31.382073",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 3,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U02CWV71QSC>; Just wanted to confirm that the mozart campaign did go out last Friday as discussed. Thanks!",
+          "channel": "proj-billing-egypt-vat-collection",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "melissa.obrien",
+          "count": 3
+        },
+        {
+          "user": "george.jennings",
+          "count": 2
+        },
+        {
+          "user": "al.ismail",
+          "count": 1
+        },
+        {
+          "user": "mithun.baskaran",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.33,
+      "count": 35,
+      "top_channels": [
+        {
+          "channel": "proj-billing-egypt-vat-collection",
+          "messages": 3
+        },
+        {
+          "channel": "mozart-approval-notifications",
+          "messages": 2
+        },
+        {
+          "channel": "billing-questions-for-tax",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.5,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "melissa.obrien",
+          "count": 5
+        },
+        {
+          "user": "al.ismail",
+          "count": 3
+        },
+        {
+          "user": "george.jennings",
+          "count": 3
+        },
+        {
+          "user": "mithun.baskaran",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "19": 1,
+      "15": 2,
+      "18": 1,
+      "16": 1
+    },
+    "by_day": {
+      "Tuesday": 3,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 3.41,
+    "dept_average_30d": 4.35,
+    "dept_rank": 146,
+    "dept_size": 151
+  }
+}

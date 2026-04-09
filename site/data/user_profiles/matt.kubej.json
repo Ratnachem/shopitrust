@@ -1,0 +1,291 @@
+{
+  "username": "matt.kubej",
+  "name": "Matt Kubej",
+  "generated_at": "2026-04-08T20:22:23.160306",
+  "summary": {
+    "message_count": 1149,
+    "channels_active": 63,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 41,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 24,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hi Mike,\n\nIt's a real light crew today due to the Canadian holiday. I'm needing to assist with a couple of other issues before I can help with",
+          "channel": "help-admin-web-platform",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "To second what Jay stated here, if we're wanting to hotfix a change, then it should have an incident associated with it to create the paper trail.",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "The request being to review the document and provide any feedback (i.e., improve clarity and accuracy)? You just want me to comment on the doc?",
+          "channel": "proj-trust-battery-identity-trust-score",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Anything I can help with? I'll still be around for a bit",
+          "channel": "dev-up",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Oh shoot, makes sense, sorry about that, thanks",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to remove the test from the skip list or you got it?",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both, that's really helpful!\n\nA bit more on my use case: with admin web, we have an airflow job that builds a report of routes where we\u2019re",
+          "channel": "river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Gotcha, thank you!",
+          "channel": "river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Seeing the same on our dashboard",
+          "channel": "inc-20833-banking-error-reporting-new-errors-for-ba",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n\nAny additional context on the root cause and/or was there an incident, so we could close ours as dupe?",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Should we create an investigation for this? Whatever this person is doing is still spamming us with error page views",
+          "channel": "admin-web-oncall-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "&gt; The quickest way for you to test this would probably be to sign up with your own email, you should have access to frozen on your own accounts",
+          "channel": "convert-grow-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So, we should likely be chasing whatever happened on the 7th",
+          "channel": "help-products-workflow",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "bryan.white",
+          "count": 12
+        },
+        {
+          "user": "nicholas.luciw",
+          "count": 8
+        },
+        {
+          "user": "carolina.pinzon",
+          "count": 7
+        },
+        {
+          "user": "derek.yu",
+          "count": 6
+        },
+        {
+          "user": "emily.ye",
+          "count": 5
+        },
+        {
+          "user": "kush.patel",
+          "count": 5
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 4
+        },
+        {
+          "user": "drew.suitor",
+          "count": 4
+        },
+        {
+          "user": "victor.tortolero",
+          "count": 2
+        },
+        {
+          "user": "amanda.kirsh",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 583,
+      "top_channels": [
+        {
+          "channel": "admin-web-platform",
+          "messages": 121
+        },
+        {
+          "channel": "river-mattkubej",
+          "messages": 114
+        },
+        {
+          "channel": "proj-admin-web-perf-llm",
+          "messages": 76
+        },
+        {
+          "channel": "inv-21181-merchant-triggering-throttling-likely-due",
+          "messages": 58
+        },
+        {
+          "channel": "proj-trust-battery-identity-trust-score",
+          "messages": 52
+        },
+        {
+          "channel": "inv-20333-admin-web-observing-intermittent-failures",
+          "messages": 47
+        },
+        {
+          "channel": "inv-20394-evaluate-admin-web-redirect-loop-tripwire",
+          "messages": 44
+        },
+        {
+          "channel": "admin-web-oncall-team",
+          "messages": 42
+        },
+        {
+          "channel": "proj-admin-regression-detection",
+          "messages": 35
+        },
+        {
+          "channel": "inv-20604-signup-e2e-test-failing-on-main",
+          "messages": 34
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 92,
+      "top_mentioners": [
+        {
+          "user": "nate.jacobs",
+          "count": 13
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 9
+        },
+        {
+          "user": "bryan.white",
+          "count": 6
+        },
+        {
+          "user": "yoav.weiss",
+          "count": 6
+        },
+        {
+          "user": "kush.patel",
+          "count": 5
+        },
+        {
+          "user": "celso.marciano",
+          "count": 3
+        },
+        {
+          "user": "victor.tortolero",
+          "count": 3
+        },
+        {
+          "user": "victor.r.vuong",
+          "count": 3
+        },
+        {
+          "user": "nicholas.luciw",
+          "count": 3
+        },
+        {
+          "user": "craig.brunner",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 105,
+      "20": 105,
+      "19": 85,
+      "17": 80,
+      "16": 110,
+      "15": 125,
+      "13": 50,
+      "5": 35,
+      "3": 23,
+      "22": 76,
+      "21": 63,
+      "18": 74,
+      "23": 59,
+      "1": 20,
+      "0": 44,
+      "4": 53,
+      "11": 1,
+      "6": 13,
+      "2": 25,
+      "7": 3
+    },
+    "by_day": {
+      "Wednesday": 141,
+      "Tuesday": 278,
+      "Monday": 256,
+      "Friday": 296,
+      "Thursday": 178
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 98,
+    "dept_size": 1233
+  }
+}

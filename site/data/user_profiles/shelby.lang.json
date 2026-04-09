@@ -1,0 +1,98 @@
+{
+  "username": "shelby.lang",
+  "name": "Shelby Lang",
+  "generated_at": "2026-04-08T20:22:29.203122",
+  "summary": {
+    "message_count": 23,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi folks! I noticed this :restart-project: button on the POS Hub (image below, it's the far left one) but can't find any docs referencing what that",
+          "channel": "pos-hub-early-access-support",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "jade.fraser",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.52,
+      "count": 40,
+      "top_channels": [
+        {
+          "channel": "temp-rsh-river-playground",
+          "messages": 15
+        },
+        {
+          "channel": "pos-hub-early-access-support",
+          "messages": 5
+        },
+        {
+          "channel": "proj-cash-rounding-on-pos",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "dave.waddell",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 4,
+      "18": 6,
+      "17": 3,
+      "13": 1,
+      "16": 6,
+      "22": 1,
+      "15": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Monday": 10,
+      "Friday": 6,
+      "Wednesday": 5,
+      "Thursday": 1,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.94,
+    "dept_average_30d": 4.09,
+    "dept_rank": 298,
+    "dept_size": 642
+  }
+}

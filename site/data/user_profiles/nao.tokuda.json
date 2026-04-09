@@ -1,0 +1,121 @@
+{
+  "username": "nao.tokuda",
+  "name": "Nao Tokuda",
+  "generated_at": "2026-04-08T20:22:32.313725",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 2,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much <@W01830W1PEK> :raised_hands:\n\n<@U0235467H4K> san, it seems <https://shopify.zendesk.com/agent/tickets/64524536|#64524536> is",
+          "channel": "help-support-org-data",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team!\n\nQuick question about *<https://shopify.zendesk.com/agent/tickets/64489143|#64489143>.*\nIn the Coachy, it\u2019s showing as AFTR: `false`",
+          "channel": "help-support-org-data",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you Verdant\nI C&P your message and asked it in Claude Code in Terminal, they helped me to fix, finally reconnected! So far, it looks it\u2019s",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team, Claude Code question from me please !\n\nI have set up the Claude code successfully last Friday, however when I open `devx claude` , MCP",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.99,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "aiko.menda",
+          "count": 2
+        },
+        {
+          "user": "ash.beaumont",
+          "count": 2
+        },
+        {
+          "user": "alex.cargnel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.83,
+      "count": 20,
+      "top_channels": [
+        {
+          "channel": "psl-river-test",
+          "messages": 8
+        },
+        {
+          "channel": "help-support-org-data",
+          "messages": 2
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.46,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "ash.beaumont",
+          "count": 1
+        },
+        {
+          "user": "alex.cargnel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "6": 1,
+      "0": 9,
+      "7": 1,
+      "4": 1
+    },
+    "by_day": {
+      "Friday": 8,
+      "Thursday": 2,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.98,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1214,
+    "dept_size": 1663
+  }
+}

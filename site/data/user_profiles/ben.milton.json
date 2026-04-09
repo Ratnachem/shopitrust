@@ -1,0 +1,329 @@
+{
+  "username": "ben.milton",
+  "name": "Ben Milton",
+  "generated_at": "2026-04-08T20:22:20.517631",
+  "summary": {
+    "message_count": 952,
+    "channels_active": 29,
+    "unique_people_mentioned": 42,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.5,
+      "pos_count": 30,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "We're in the merge queue! Great work everyone :teamwork-makes-the-bufo-work:",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197GV9MPA> <@U01HYLAL9NZ> Looks like we have 5 approvals on the PR now, I'm gonna add to the MQ when CI goes green. Let me know if y'all have any",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Looks like we're still missing some. Review the failures in this build:",
+          "channel": "s-foundations-analytics-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah perfect, thank you!",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great, thank you! :excellent-mr-burns:",
+          "channel": "admin-polaris",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "OMG this is the first time I've seen it with multi-month and 100% width. Amazing job!",
+          "channel": "tmp-proj-analytics-date-picker",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Aha that's good context, thank you!",
+          "channel": "admin-polaris",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Excellent, thank you!",
+          "channel": "tmp-proj-analytics-date-picker",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "ui-api-design-working-group",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "admin-polaris",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I've never really done any substantive collaborating in one, but my lord a River Slack thread cannot be beaten for going from `bug reported in Slack",
+          "channel": "developers-talk",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok yes, this is what a version bump diff should look like, not the +30/-70 or whatever it was before :yesss:",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Should we also bump `ui-api-design` to match whatever the newest version of `admin-ui-components` is using? We just want to",
+          "channel": "s-foundations-analytics-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "The concern is that I believe we're blocked on _1PA_ migration until this happens, not just 3P, since it's such a major rename and we're planning on",
+          "channel": "ui-api-design-working-group",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would have to go with... whatever option is the most expedient haha",
+          "channel": "ui-api-design-working-group",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "+1 to this thread. The <https://github.com/shop/world/tree/main/libraries/javascript/analytics-ui|analytics-ui component library> (which is modeled",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; do you guys render our components from polaris-internal or are you directly using the `s-whatever` version?\n<@U030WL0V11T> Yup, like",
+          "channel": "admin-polaris",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Lord, I can't wait for the 3 months or so between when this migration is done and whatever the next migration is starts",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm not necessarily saying that we bring it into the shared component platform, but we need to decide to what extent we're integrating with the",
+          "channel": "proj-analytics-sidekick-home",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "maryam.kaka",
+          "count": 16
+        },
+        {
+          "user": "michael.nesen",
+          "count": 13
+        },
+        {
+          "user": "hannah.liu",
+          "count": 13
+        },
+        {
+          "user": "susie.kim",
+          "count": 12
+        },
+        {
+          "user": "jeremy.ludwig",
+          "count": 12
+        },
+        {
+          "user": "jorge.moller",
+          "count": 11
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 8
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 8
+        },
+        {
+          "user": "matthew.vickers",
+          "count": 7
+        },
+        {
+          "user": "nicolas.grasset",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.56,
+      "count": 320,
+      "top_channels": [
+        {
+          "channel": "analytics-ui-components",
+          "messages": 509
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 91
+        },
+        {
+          "channel": "admin-polaris",
+          "messages": 60
+        },
+        {
+          "channel": "tmp-proj-analytics-date-picker",
+          "messages": 39
+        },
+        {
+          "channel": "proj-analytics-sidekick-home",
+          "messages": 39
+        },
+        {
+          "channel": "analytics-design",
+          "messages": 26
+        },
+        {
+          "channel": "proj-analytics-annotations",
+          "messages": 25
+        },
+        {
+          "channel": "analytics-team-experience",
+          "messages": 24
+        },
+        {
+          "channel": "proj-analytics-web-components-migration",
+          "messages": 20
+        },
+        {
+          "channel": "polaris-internal-release-roulette",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 89,
+      "top_mentioners": [
+        {
+          "user": "tammie.childs",
+          "count": 12
+        },
+        {
+          "user": "jeremy.ludwig",
+          "count": 7
+        },
+        {
+          "user": "tyler.noseworthy",
+          "count": 5
+        },
+        {
+          "user": "nick.presta",
+          "count": 4
+        },
+        {
+          "user": "nicolas.grasset",
+          "count": 4
+        },
+        {
+          "user": "melissa.king",
+          "count": 4
+        },
+        {
+          "user": "steven.foote",
+          "count": 4
+        },
+        {
+          "user": "miray.ozcan",
+          "count": 3
+        },
+        {
+          "user": "hong.zhang",
+          "count": 3
+        },
+        {
+          "user": "aly.gemae",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 64,
+      "15": 129,
+      "14": 139,
+      "13": 136,
+      "12": 17,
+      "3": 3,
+      "2": 7,
+      "22": 27,
+      "21": 51,
+      "20": 84,
+      "19": 90,
+      "18": 87,
+      "17": 80,
+      "0": 12,
+      "23": 22,
+      "1": 4
+    },
+    "by_day": {
+      "Wednesday": 243,
+      "Tuesday": 168,
+      "Monday": 138,
+      "Friday": 143,
+      "Thursday": 260
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.56,
+    "dept_average_30d": 5.79,
+    "dept_rank": 164,
+    "dept_size": 1233
+  }
+}

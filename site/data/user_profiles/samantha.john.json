@@ -1,0 +1,279 @@
+{
+  "username": "samantha.john",
+  "name": "Samantha John",
+  "generated_at": "2026-04-08T20:22:19.505027",
+  "summary": {
+    "message_count": 569,
+    "channels_active": 40,
+    "unique_people_mentioned": 48,
+    "unique_mentioners": 50,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.6,
+      "pos_count": 31,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it! thank you",
+          "channel": "opencode-ai",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":hi-hi:  from catalog API team. This is awesome, thank you!!\n\nDo you know if this improvement is related to the",
+          "channel": "proj-product-loader",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah, thank you, that's great!",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! Will try and get to assigning out the action items later today",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Really appreciate it ",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!! ",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "You are a hero! Thank you so much Alexis and Ryan for all your patience with my :turtle-gasp:  PR. Now Microsoft better appreciate this!",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I took a look at this, looks like a regression that happened when I was fixing something else. I'm very sorry about that! We have a bit of a",
+          "channel": "help-agentic-storefronts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "This is very helpful! Really appreciate it",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<https://github.com/Shopify/discovery/issues/29311> I think there's enough in this issue to figure it out. I would like to make it easier to get the",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I hate that we have that stupid UPI decoding logic duplicated in so many places, but not sure how to solve that problem. Otherwise your approach",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 54,
+      "top_mentioned": [
+        {
+          "user": "peng.yu",
+          "count": 7
+        },
+        {
+          "user": "nikola.todic",
+          "count": 7
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 6
+        },
+        {
+          "user": "joe.navetta",
+          "count": 5
+        },
+        {
+          "user": "alex.watt",
+          "count": 5
+        },
+        {
+          "user": "prabhjot.singh",
+          "count": 4
+        },
+        {
+          "user": "ed.gallant",
+          "count": 3
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 3
+        },
+        {
+          "user": "taylor.peoples",
+          "count": 3
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 508,
+      "top_channels": [
+        {
+          "channel": "catalog-api-team",
+          "messages": 65
+        },
+        {
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "messages": 65
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 49
+        },
+        {
+          "channel": "catalog-platform-team-prs",
+          "messages": 45
+        },
+        {
+          "channel": "proj-catalogue-instant-product-search",
+          "messages": 41
+        },
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 40
+        },
+        {
+          "channel": "inc-20567-vantage-search-latency-spiking",
+          "messages": 30
+        },
+        {
+          "channel": "catalog-api-latency",
+          "messages": 28
+        },
+        {
+          "channel": "search-ingest-ops",
+          "messages": 22
+        },
+        {
+          "channel": "the-shopify-catalog",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 136,
+      "top_mentioners": [
+        {
+          "user": "alex.watt",
+          "count": 15
+        },
+        {
+          "user": "abigail.stone",
+          "count": 15
+        },
+        {
+          "user": "andriana.hnatykiw",
+          "count": 10
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 7
+        },
+        {
+          "user": "mariya.mansurova",
+          "count": 7
+        },
+        {
+          "user": "joe.navetta",
+          "count": 5
+        },
+        {
+          "user": "nikola.todic",
+          "count": 5
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 5
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 5
+        },
+        {
+          "user": "felipe.besson",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 64,
+      "21": 52,
+      "20": 45,
+      "19": 87,
+      "18": 95,
+      "17": 73,
+      "14": 63,
+      "13": 45,
+      "15": 22,
+      "2": 1,
+      "0": 3,
+      "23": 7,
+      "22": 5,
+      "1": 4,
+      "12": 3
+    },
+    "by_day": {
+      "Wednesday": 123,
+      "Tuesday": 117,
+      "Monday": 152,
+      "Friday": 112,
+      "Thursday": 65
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.48,
+    "dept_average_30d": 5.79,
+    "dept_rank": 194,
+    "dept_size": 1233
+  }
+}

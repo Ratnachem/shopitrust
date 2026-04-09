@@ -1,0 +1,206 @@
+{
+  "username": "wolfgang.nagele",
+  "name": "Wolfgang Nagele",
+  "generated_at": "2026-04-08T20:22:06.063418",
+  "summary": {
+    "message_count": 485,
+    "channels_active": 19,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "sorry my bad",
+          "channel": "team-edge-infrastructure",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "all i can tell you right now is that business-platform is responding extremely slow to whatever that request is. since its graphql - maybe its a",
+          "channel": "inv-20093-consistent-500s-in-dev-dash",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "elvin.efendiev",
+          "count": 5
+        },
+        {
+          "user": "nick.silverman",
+          "count": 5
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 4
+        },
+        {
+          "user": "bill.bean",
+          "count": 4
+        },
+        {
+          "user": "thomas.antonio",
+          "count": 3
+        },
+        {
+          "user": "joshua.sager",
+          "count": 3
+        },
+        {
+          "user": "brent.faulkner",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "david.radcliffe",
+          "count": 2
+        },
+        {
+          "user": "luke.sterrett",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.77,
+      "count": 278,
+      "top_channels": [
+        {
+          "channel": "proj-reduce-cdn-purge-rate",
+          "messages": 91
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 90
+        },
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 54
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 52
+        },
+        {
+          "channel": "proj-tm-domain-resiliency",
+          "messages": 30
+        },
+        {
+          "channel": "inc-20038-retroactive-multiple-apps-down-across-adm",
+          "messages": 28
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 27
+        },
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 20
+        },
+        {
+          "channel": "proj-exp-data-plane",
+          "messages": 20
+        },
+        {
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "elvin.efendiev",
+          "count": 6
+        },
+        {
+          "user": "peiran.liu",
+          "count": 4
+        },
+        {
+          "user": "vincent.zwanenburg",
+          "count": 2
+        },
+        {
+          "user": "charles.ng",
+          "count": 2
+        },
+        {
+          "user": "sam.ou",
+          "count": 2
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 2
+        },
+        {
+          "user": "arbab.ahmed",
+          "count": 2
+        },
+        {
+          "user": "charlieallan",
+          "count": 2
+        },
+        {
+          "user": "bill.bean",
+          "count": 2
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 30,
+      "17": 54,
+      "14": 73,
+      "19": 55,
+      "15": 54,
+      "13": 67,
+      "12": 7,
+      "21": 53,
+      "20": 48,
+      "16": 39,
+      "22": 3,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 231,
+      "Tuesday": 31,
+      "Monday": 58,
+      "Thursday": 116,
+      "Friday": 49
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.27,
+    "dept_average_30d": 5.75,
+    "dept_rank": 87,
+    "dept_size": 357
+  }
+}

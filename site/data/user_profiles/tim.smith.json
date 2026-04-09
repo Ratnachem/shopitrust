@@ -1,0 +1,245 @@
+{
+  "username": "tim.smith",
+  "name": "Tim Smith",
+  "generated_at": "2026-04-08T20:22:24.228706",
+  "summary": {
+    "message_count": 396,
+    "channels_active": 26,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 24,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you!",
+          "channel": "team-cd",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "A great workaround is to use the Infra Central API now :smile: (but we don't have API endpoint implemented yet... small detail)",
+          "channel": "proj-ci-cd-conveyor-gitless",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help with any followup too!",
+          "channel": "team-cd",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": ":tada: Great work, Tai!",
+          "channel": "proj-ci-cd-conveyor-gitless",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm actually on my way to bed, so I'll have to pick this up tomorrow. Let me know if you find any other issues",
+          "channel": "dev-tools-data",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Unrelated, but I don't think you need/want `pipeline: infrastructure-deploy` in your",
+          "channel": "team-cd",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So I can update Multi Deploy to use the right environment. However it needs to be parameterized with whatever the environment of the given step being",
+          "channel": "inv-20594-investigating-failing-vip-synthetics",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.06,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "jon.bastien",
+          "count": 3
+        },
+        {
+          "user": "aqeel.nazeer",
+          "count": 2
+        },
+        {
+          "user": "edilson.correa",
+          "count": 1
+        },
+        {
+          "user": "briana.roberts",
+          "count": 1
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 1
+        },
+        {
+          "user": "simon.chau",
+          "count": 1
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "david.aminpriddle",
+          "count": 1
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 1
+        },
+        {
+          "user": "abdulrahman.alhamali",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.39,
+      "count": 247,
+      "top_channels": [
+        {
+          "channel": "team-cd",
+          "messages": 115
+        },
+        {
+          "channel": "proj-ci-cd-conveyor-gitless",
+          "messages": 42
+        },
+        {
+          "channel": "dev-tools-data",
+          "messages": 32
+        },
+        {
+          "channel": "shipit-ruby-upgrade",
+          "messages": 28
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20594-investigating-failing-vip-synthetics",
+          "messages": 20
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20985-20260401-recs-inference-restarting-becaus",
+          "messages": 15
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 13
+        },
+        {
+          "channel": "infra-central",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.27,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 7
+        },
+        {
+          "user": "tai.dickerson",
+          "count": 5
+        },
+        {
+          "user": "travis.hartwell",
+          "count": 5
+        },
+        {
+          "user": "jon.bastien",
+          "count": 4
+        },
+        {
+          "user": "aaron.scull",
+          "count": 3
+        },
+        {
+          "user": "briana.roberts",
+          "count": 3
+        },
+        {
+          "user": "marvin.davila",
+          "count": 3
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 3
+        },
+        {
+          "user": "kirk.chen",
+          "count": 3
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 71,
+      "20": 17,
+      "19": 74,
+      "18": 65,
+      "17": 19,
+      "14": 38,
+      "15": 55,
+      "23": 9,
+      "1": 9,
+      "0": 5,
+      "12": 2,
+      "16": 18,
+      "11": 3,
+      "22": 1,
+      "21": 1,
+      "3": 9
+    },
+    "by_day": {
+      "Wednesday": 101,
+      "Tuesday": 75,
+      "Thursday": 118,
+      "Monday": 34,
+      "Friday": 68
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.83,
+    "dept_average_30d": 4.74,
+    "dept_rank": 234,
+    "dept_size": 1663
+  }
+}

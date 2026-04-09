@@ -1,0 +1,264 @@
+{
+  "username": "michael.terranova",
+  "name": "Michael Terranova",
+  "generated_at": "2026-04-08T20:22:21.778082",
+  "summary": {
+    "message_count": 304,
+    "channels_active": 17,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Someone with deeper flink knowledge feel free to correct my assumptions here, but I believe this is the way.\n\nThe only exception I think would be if",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; thanks! tried the first ones without luck. now trying `git gc --prune=now` which takes a while\nI ran it too it took like 45 minutes",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "This is writing to a temporary table as a proof of concept.\n\n> are those values true though?\nDepends on what you mean. These numbers are meant to",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "edit: ignore, I was behind on the progress on this my bad. looks like it's all covered here",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Hi, can someone confirm if this updated? I still see:\n\n\n```ERROR: Graphite encountered a 404 Not Found error when querying GitHub for your repo.\nThis",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I have an artifact of the full table backfill functionality building here: <https://buildkite.com/shopify/flink-lib-publish-package/builds/606>",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey sorry about that! I'll deploy it here in just a moment",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Improve efficiency on tables that may be indexed by shop_id, or have low density shop_ids.\n\n\n<https://github.com/Shopify/flink-lib/pull/488>\n\ncc",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I think it's a cardinality problem, since we added new metrics with multiple dimensions, then broke up topics into tasks.\n\nThere are like 1500 tasks",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "You shouldn't have to specify the schema id\n\nBut, if you can deal with it a bit longer supporting the old schema as well is going to be the quickest",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "pritesh.gudge",
+          "count": 5
+        },
+        {
+          "user": "joshua.kim",
+          "count": 4
+        },
+        {
+          "user": "balint.bene",
+          "count": 4
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 3
+        },
+        {
+          "user": "john.tanza",
+          "count": 3
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 2
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 2
+        },
+        {
+          "user": "mauricio.castaneda",
+          "count": 1
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.4,
+      "count": 153,
+      "top_channels": [
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 145
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 49
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 48
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 26
+        },
+        {
+          "channel": "cdc-streaming-alerts",
+          "messages": 6
+        },
+        {
+          "channel": "inc-20168-core-500s-due-to-webhooks-overload-shard-",
+          "messages": 6
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 5
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 3
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 3
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "balint.bene",
+          "count": 15
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 8
+        },
+        {
+          "user": "john.tanza",
+          "count": 4
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 3
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 3
+        },
+        {
+          "user": "yifan.ye",
+          "count": 3
+        },
+        {
+          "user": "francois.campeau",
+          "count": 2
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "yuichi.hagio",
+          "count": 2
+        },
+        {
+          "user": "ryan.self",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 29,
+      "13": 15,
+      "20": 39,
+      "14": 29,
+      "21": 15,
+      "17": 30,
+      "16": 38,
+      "19": 44,
+      "0": 3,
+      "18": 39,
+      "12": 10,
+      "23": 1,
+      "22": 11,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 94,
+      "Tuesday": 74,
+      "Monday": 31,
+      "Friday": 37,
+      "Thursday": 68
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.95,
+    "dept_average_30d": 5.75,
+    "dept_rank": 123,
+    "dept_size": 357
+  }
+}

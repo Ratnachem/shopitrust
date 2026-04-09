@@ -1,0 +1,318 @@
+{
+  "username": "peter.thesling",
+  "name": "Peter Thesling",
+  "generated_at": "2026-04-08T20:22:14.714259",
+  "summary": {
+    "message_count": 1267,
+    "channels_active": 42,
+    "unique_people_mentioned": 60,
+    "unique_mentioners": 49,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 23,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Nice, thank you!",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "yeah I think that's OK, but <@U096K190N2F> <@U089U71HW3A> <@U02UJ40Q4MR> feel free to disagree",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'd love to deploy... But feel free to send me away given above discussion :slightly_smiling_face:",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I just bumped the partition to 2. So if it doubles, that should be more than enough",
+          "channel": "collections-eng",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; <@W01830K651V> bunch of optimizations were expected to land early this week in prod\n&gt; you want me to check?\nYes, let's figure out why somehow",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://peter-thesling-test.myshopify.com/> is already set up, so feel free to use that",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I suggest we order our recommendations as follows:\n\u2022 If we have personalized results from Flink, let's use those.\n\u2022 If we don't have personalized",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Ping me if you want a deployment. I deployed last night, so I guess sometime this afternoon makes most sense? Also feel free to deploy yourself if",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; Thats it. All this BP found or not-found is useless",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes, basically. Whatever the schema is actually like",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Since we send a filter to Vantage to say \"in_stock: true\" or whatever it is",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I know it's stupid, but the identity graph team doesn't care about DSLs...",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "(or whatever your region was again)",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "who broke",
+          "text": "So who broke it...",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Proposed set-up:\n&gt; \u2022 select N random shops\n&gt; \u2022 for each shop - select random current ProductId and random previous ProductId\n&gt; Evaluate",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 62,
+      "top_mentioned": [
+        {
+          "user": "francois.saintjacques",
+          "count": 41
+        },
+        {
+          "user": "ashay.pathak",
+          "count": 25
+        },
+        {
+          "user": "misha.shakhray",
+          "count": 21
+        },
+        {
+          "user": "long.qiu",
+          "count": 17
+        },
+        {
+          "user": "jenny.stanchak",
+          "count": 15
+        },
+        {
+          "user": "anas.taimah",
+          "count": 14
+        },
+        {
+          "user": "mirerfan.gheibi",
+          "count": 9
+        },
+        {
+          "user": "jerry.wang",
+          "count": 8
+        },
+        {
+          "user": "soroush.mirzaei",
+          "count": 7
+        },
+        {
+          "user": "himanshu.arora",
+          "count": 7
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 529,
+      "top_channels": [
+        {
+          "channel": "proj-real-time-inference-product-network",
+          "messages": 457
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 333
+        },
+        {
+          "channel": "ads-bidify-api-ops",
+          "messages": 175
+        },
+        {
+          "channel": "proj-complementary-products-pdp",
+          "messages": 52
+        },
+        {
+          "channel": "inc-20271-broken-query-engine-connection-causing-st",
+          "messages": 28
+        },
+        {
+          "channel": "inc-20207-bidify-low-recs-success-rate",
+          "messages": 27
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 18
+        },
+        {
+          "channel": "collections-eng",
+          "messages": 17
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 14
+        },
+        {
+          "channel": "factoids-cdc-sunset",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 151,
+      "top_mentioners": [
+        {
+          "user": "akshay.soni",
+          "count": 21
+        },
+        {
+          "user": "misha.shakhray",
+          "count": 17
+        },
+        {
+          "user": "ashay.pathak",
+          "count": 10
+        },
+        {
+          "user": "jenny.stanchak",
+          "count": 9
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 8
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 6
+        },
+        {
+          "user": "anas.taimah",
+          "count": 6
+        },
+        {
+          "user": "mirerfan.gheibi",
+          "count": 5
+        },
+        {
+          "user": "jerry.wang",
+          "count": 5
+        },
+        {
+          "user": "jon.burns",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 91,
+      "7": 1,
+      "13": 106,
+      "19": 107,
+      "17": 119,
+      "15": 108,
+      "14": 162,
+      "0": 73,
+      "23": 20,
+      "21": 127,
+      "20": 62,
+      "16": 56,
+      "1": 98,
+      "22": 65,
+      "12": 18,
+      "11": 10,
+      "10": 7,
+      "2": 8,
+      "5": 29
+    },
+    "by_day": {
+      "Wednesday": 296,
+      "Tuesday": 277,
+      "Friday": 210,
+      "Thursday": 289,
+      "Monday": 195
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.95,
+    "dept_average_30d": 5.77,
+    "dept_rank": 64,
+    "dept_size": 885
+  }
+}

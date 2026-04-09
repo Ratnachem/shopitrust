@@ -1,0 +1,341 @@
+{
+  "username": "andrew.droll",
+  "name": "Andrew Droll",
+  "generated_at": "2026-04-08T20:22:14.172674",
+  "summary": {
+    "message_count": 1502,
+    "channels_active": 28,
+    "unique_people_mentioned": 98,
+    "unique_mentioners": 56,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 35,
+      "neg_count": 19,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, I think it could be very simple. For these, there is no always-need-to-listen-for-GPC new requirement for ex. It could be a simple request to",
+          "channel": "tmp-sec-gpc-merchant-sessions",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing",
+          "channel": "tmp-sec-gpc-merchant-sessions",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Peter! :eyes: Very soon.\n\nI am going to add one more thought not in this channel previously yet, and overall less urgent in some kind of",
+          "channel": "tmp-sec-gpc-merchant-sessions",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018HMMH93L> and all!!!",
+          "channel": "help-data-hiring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "OK:\n\nI see `shop.id.lowid` hydrated on events in Kafka via Kafkanet. Can you please double check that <@U02F8AQ684U>?\n\nI also see `id` and",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Context <@W018GAMHKV3> - Matt and I have been pals on this for a long time and it has its roots more than a year ago :) Matt's team has built",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "(my bad on letting it slip, to be clear!)",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to book me <@U082L0ABB4G>",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "And yes I think I can help with lots of the boundaries here next week, by the way",
+          "channel": "tmp-sec-gpc-merchant-sessions",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "I assume that is specific logic in the Dux pipeline <@U094T90BFLH>. Admin has a special case problem in that URLs can contain sensitive data",
+          "channel": "dux-and-dux-adjacent",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> What options are available to us? Can we consider by-passing ER for now until there's an option that allows us to collect non-essential data in",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "_\u2026continued (2/3)_\n\n*:stopwatch: The Timing: Two Separate Paths*\n\nI traced the full Checkout One order processing flow in",
+          "channel": "river-andrewdroll",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Pi: Does that Core-resolved customer_id make it onto events when available? Look deeply, like I said enlist River if she can help. If not that's kind",
+          "channel": "river-andrewdroll",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "_\u2026continued (3/4)_\n\nHere's where it breaks down \u2014 there's a *complete disconnect* between Core's order-level customer resolution and Event Refinery's",
+          "channel": "river-andrewdroll",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Pi: Take a look at this thread and especially this idea.",
+          "channel": "river-andrewdroll",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Your event looks like it is making it through ER in staging <@U01HQ7NH6F9>, but please do not turn it on in production yet. I'm going to book some",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "should not be a lot of things that will break (and I can have Pi draft some PRs to help folks), but it's possible I've missed things like I said",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@W018HUSRC67> <@W018PT2QB6G> maybe one of you knows. If CEP had it it seems like we can probably figure it out for ER, especially if it came from",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "To be clear <@W01830KJUTZ>, I think this `Gem Version` discussion is not of much concern to myself or ER. I'd treat it as a consumer <>",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 100,
+      "top_mentioned": [
+        {
+          "user": "sarah.pyo",
+          "count": 38
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 34
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 33
+        },
+        {
+          "user": "henry.zhou",
+          "count": 33
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 32
+        },
+        {
+          "user": "kenneth.ng",
+          "count": 20
+        },
+        {
+          "user": "robert.lake",
+          "count": 19
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 18
+        },
+        {
+          "user": "marc.laforet",
+          "count": 18
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 16
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 450,
+      "top_channels": [
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 254
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 238
+        },
+        {
+          "channel": "proj-admin-events-in-event-refinery",
+          "messages": 213
+        },
+        {
+          "channel": "river-andrewdroll",
+          "messages": 192
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 181
+        },
+        {
+          "channel": "proj-tracify-mission",
+          "messages": 159
+        },
+        {
+          "channel": "streaming-platform-discuss",
+          "messages": 50
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 40
+        },
+        {
+          "channel": "dux-and-dux-adjacent",
+          "messages": 30
+        },
+        {
+          "channel": "retool-events-community",
+          "messages": 30
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 198,
+      "top_mentioners": [
+        {
+          "user": "sarah.pyo",
+          "count": 31
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 16
+        },
+        {
+          "user": "yang.gao",
+          "count": 13
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 10
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 9
+        },
+        {
+          "user": "darren.li",
+          "count": 8
+        },
+        {
+          "user": "gautam.lad",
+          "count": 8
+        },
+        {
+          "user": "murtaza.haider",
+          "count": 7
+        },
+        {
+          "user": "kumar.mcmillan",
+          "count": 6
+        },
+        {
+          "user": "kenneth.ng",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 174,
+      "15": 215,
+      "14": 145,
+      "13": 91,
+      "23": 38,
+      "22": 50,
+      "19": 139,
+      "17": 137,
+      "16": 229,
+      "21": 123,
+      "20": 93,
+      "1": 19,
+      "11": 7,
+      "4": 3,
+      "0": 13,
+      "12": 16,
+      "2": 1,
+      "3": 2,
+      "8": 2,
+      "5": 2,
+      "7": 3
+    },
+    "by_day": {
+      "Wednesday": 388,
+      "Tuesday": 286,
+      "Monday": 242,
+      "Friday": 266,
+      "Thursday": 320
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.48,
+    "dept_average_30d": 5.79,
+    "dept_rank": 48,
+    "dept_size": 1233
+  }
+}

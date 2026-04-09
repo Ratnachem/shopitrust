@@ -1,0 +1,87 @@
+{
+  "username": "jeronimo.duque",
+  "name": "Jeronimo Duque",
+  "generated_at": "2026-04-08T20:22:32.324509",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 1,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 20,
+    "days_scale": 0.87
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0209SHEACQ> I can not thank you enough for this, have a wonderful rest of your shift",
+          "channel": "help-shopify-forms",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0209SHEACQ>!!",
+          "channel": "help-shopify-forms",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.05,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "chad.cole",
+          "count": 2
+        },
+        {
+          "user": "matthew.elphick",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.61,
+      "count": 37,
+      "top_channels": [
+        {
+          "channel": "help-shopify-forms",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.24,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "matthew.elphick",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 1,
+      "16": 4
+    },
+    "by_day": {
+      "Thursday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.05,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1154,
+    "dept_size": 1663
+  }
+}

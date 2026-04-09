@@ -1,0 +1,286 @@
+{
+  "username": "jack.mackle",
+  "name": "Jack Mackle",
+  "generated_at": "2026-04-08T20:22:09.661152",
+  "summary": {
+    "message_count": 259,
+    "channels_active": 17,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Okay sweet! I'm not sure best next steps, but happy to help explain the changes and why they're cool.",
+          "channel": "hd39-revenue-feedback-scout",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "And then the skill is pretty dialled in now (thanks to Jamie), so that should work, but I agree, let's all pair!",
+          "channel": "proj-psn-governance-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh my bad! The only real change was the table and links to the feedback tool. Let me see if I can dig it up.",
+          "channel": "scout-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> can you look into flywheel and let me know if there's permanence to the output of the datasets that flywheel generates. Can we build",
+          "channel": "jack-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Alright beautiful! Thank you",
+          "channel": "proj-psn-governance-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Yeah we're big on <https://skills.quick.shopify.io/> as well for most things. This one felt like a bit of a repo specific one.",
+          "channel": "help-commercial-data-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W018GB2B56Z>, <@W018HUXTAHZ>, <@W018HMDEPNE>, <@W018HM74FT4>, <@U02359NNEH1>! I met with <@U030WKENPMK> this morning to chat about support",
+          "channel": "help-psn-support-topics",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Okay sounds good. We should bake some level of inter-rater validation into each (even if it's a small number of tickets). Is there any way I can help",
+          "channel": "proj-elevate-build",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> can you look at the current state of psn-hub and let me know if it's reasonable to recreate something like that in flywheel?\n\nAt a",
+          "channel": "proj-psn-governance-platform",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "You guys are fast! Thank you!",
+          "channel": "psn-dev-build",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It might be long. But yeah to your initial point I guess the first big batch sync would be off (as it would be whatever date we did the sync on) and",
+          "channel": "proj-scout-explorer",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Okay so the easy route is just map it in scout explorer (and maybe make that available elsewhere). This could be like a stop gap solution. But we",
+          "channel": "proj-psn-governance-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Okay so two main things:\n\u2022 The search inside Scout is going to be better than whatever we can do on the front end (unless we decide to replicate it",
+          "channel": "hd39-revenue-feedback-scout",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "adil.zakhilwal",
+          "count": 11
+        },
+        {
+          "user": "constance.dupont",
+          "count": 11
+        },
+        {
+          "user": "emma.broadfoot",
+          "count": 8
+        },
+        {
+          "user": "jamie.craig",
+          "count": 7
+        },
+        {
+          "user": "cristan.brown",
+          "count": 6
+        },
+        {
+          "user": "ben.ayscough.macgowan",
+          "count": 6
+        },
+        {
+          "user": "pierreluc.godin",
+          "count": 5
+        },
+        {
+          "user": "alexander.sirris",
+          "count": 4
+        },
+        {
+          "user": "nathan.mcclung",
+          "count": 4
+        },
+        {
+          "user": "austin.kirk",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.4,
+      "count": 206,
+      "top_channels": [
+        {
+          "channel": "proj-psn-governance-platform",
+          "messages": 56
+        },
+        {
+          "channel": "proj-elevate-build",
+          "messages": 44
+        },
+        {
+          "channel": "jack-river",
+          "messages": 40
+        },
+        {
+          "channel": "hd39-revenue-feedback-scout",
+          "messages": 35
+        },
+        {
+          "channel": "proj-scout-explorer",
+          "messages": 24
+        },
+        {
+          "channel": "psn-dev-build",
+          "messages": 13
+        },
+        {
+          "channel": "scout-team",
+          "messages": 10
+        },
+        {
+          "channel": "help-scout",
+          "messages": 9
+        },
+        {
+          "channel": "temp-px-burst-march26",
+          "messages": 7
+        },
+        {
+          "channel": "help-psn-support-topics",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 119,
+      "top_mentioners": [
+        {
+          "user": "rich.brown",
+          "count": 28
+        },
+        {
+          "user": "jamie.craig",
+          "count": 26
+        },
+        {
+          "user": "adil.zakhilwal",
+          "count": 9
+        },
+        {
+          "user": "christina.black",
+          "count": 7
+        },
+        {
+          "user": "alexander.sirris",
+          "count": 6
+        },
+        {
+          "user": "cristan.brown",
+          "count": 5
+        },
+        {
+          "user": "murdo.connochie",
+          "count": 5
+        },
+        {
+          "user": "constance.dupont",
+          "count": 5
+        },
+        {
+          "user": "alicia.denouden",
+          "count": 5
+        },
+        {
+          "user": "sandra.drag",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 23,
+      "17": 32,
+      "16": 14,
+      "14": 26,
+      "13": 32,
+      "12": 10,
+      "22": 5,
+      "21": 23,
+      "20": 35,
+      "19": 25,
+      "1": 2,
+      "15": 25,
+      "23": 3,
+      "0": 1,
+      "11": 3
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 56,
+      "Monday": 34,
+      "Thursday": 54,
+      "Friday": 55
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 6.28,
+    "dept_average_30d": 4.09,
+    "dept_rank": 17,
+    "dept_size": 642
+  }
+}

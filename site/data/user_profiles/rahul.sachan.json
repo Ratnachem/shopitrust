@@ -1,0 +1,198 @@
+{
+  "username": "rahul.sachan",
+  "name": "Rahul Sachan",
+  "generated_at": "2026-04-08T20:22:28.130405",
+  "summary": {
+    "message_count": 54,
+    "channels_active": 10,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I spot-checked the data and it looks good! I just wish we didn't lose some attribution due to queries reaching sdp_bigquery_job_costs_v1 as redacted,",
+          "channel": "dw-infra",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi, I was not able to get this in time on Thursday or Friday.\n<@U06FNTKFL3D> Let me know if you have some time today to pair?\nLink to the two PRs:\n1.",
+          "channel": "dw-infra",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "yang.gao",
+          "count": 4
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 4
+        },
+        {
+          "user": "marc.laforet",
+          "count": 2
+        },
+        {
+          "user": "ariane.schang",
+          "count": 2
+        },
+        {
+          "user": "elize.papineau",
+          "count": 2
+        },
+        {
+          "user": "nick.ryan",
+          "count": 1
+        },
+        {
+          "user": "eugene.katella",
+          "count": 1
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.77,
+      "count": 126,
+      "top_channels": [
+        {
+          "channel": "event-sweeper-notify",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20906-dbt-models-failling-from-permissions-issu",
+          "messages": 9
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 8
+        },
+        {
+          "channel": "tmp-er-long-term-cg-storage",
+          "messages": 7
+        },
+        {
+          "channel": "data-platform-governance-river-chats",
+          "messages": 5
+        },
+        {
+          "channel": "data-platform-governance-notify",
+          "messages": 2
+        },
+        {
+          "channel": "data-remote-happy-hour",
+          "messages": 2
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 1
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 1
+        },
+        {
+          "channel": "oncall-data-platform",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "marc.laforet",
+          "count": 6
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 6
+        },
+        {
+          "user": "ariane.schang",
+          "count": 4
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 3
+        },
+        {
+          "user": "caroline.lee",
+          "count": 1
+        },
+        {
+          "user": "taher.elsheikh",
+          "count": 1
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 1
+        },
+        {
+          "user": "mara.batdelger",
+          "count": 1
+        },
+        {
+          "user": "steven.wu",
+          "count": 1
+        },
+        {
+          "user": "nick.wareing",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3,
+      "15": 7,
+      "17": 5,
+      "14": 5,
+      "13": 5,
+      "20": 6,
+      "18": 3,
+      "19": 4,
+      "12": 1,
+      "23": 2,
+      "22": 2,
+      "21": 10,
+      "1": 1
+    },
+    "by_day": {
+      "Tuesday": 14,
+      "Wednesday": 8,
+      "Monday": 9,
+      "Thursday": 7,
+      "Friday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.54,
+    "dept_average_30d": 5.39,
+    "dept_rank": 116,
+    "dept_size": 272
+  }
+}

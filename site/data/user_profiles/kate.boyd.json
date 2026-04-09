@@ -1,0 +1,227 @@
+{
+  "username": "kate.boyd",
+  "name": "Kate Boyd",
+  "generated_at": "2026-04-08T20:22:16.675768",
+  "summary": {
+    "message_count": 172,
+    "channels_active": 5,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh, alright thank you!",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I have the PR ready in shardlifter-deploy that will add the necessary env vars to connect to core-general-1:",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! gonna ship that PR then and we can follow up",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay thank you for clarifying, that makes it a lot easier for us since backfilter can also just scream loudly if it sees a write for a shop we've got",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Absolutely - I'll be much, much more careful with that (and thank you for debugging it, don't hesitate to page me if something weird happens with",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Absolutely - I'll be much, much more careful with that (and thank you for debugging it, don't hesitate to page me if something weird happens with",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "restarted the proxysql after editing that and it's there! thank you",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, I'll update that regex",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! yeah we have a read-write user we would like to limit the permissions of. we have a staging DB I can mess around with the users of to",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that, thank you all for investigating and fixing it! ",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "shiv.nagarajan",
+          "count": 9
+        },
+        {
+          "user": "mohammad.ahmadi",
+          "count": 7
+        },
+        {
+          "user": "kate.galieva",
+          "count": 5
+        },
+        {
+          "user": "austen.lacy",
+          "count": 3
+        },
+        {
+          "user": "patrick.begley",
+          "count": 2
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 2
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 2
+        },
+        {
+          "user": "phil.nadon",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.23,
+      "count": 144,
+      "top_channels": [
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 105
+        },
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 27
+        },
+        {
+          "channel": "db-storefronts-mysql-ops",
+          "messages": 23
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 11
+        },
+        {
+          "channel": "team-cd",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 46,
+      "top_mentioners": [
+        {
+          "user": "mohammad.ahmadi",
+          "count": 16
+        },
+        {
+          "user": "austen.lacy",
+          "count": 8
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 8
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 7
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 3
+        },
+        {
+          "user": "phil.nadon",
+          "count": 2
+        },
+        {
+          "user": "patrick.begley",
+          "count": 1
+        },
+        {
+          "user": "aaron.scull",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 27,
+      "16": 18,
+      "22": 14,
+      "14": 20,
+      "3": 1,
+      "23": 4,
+      "13": 4,
+      "12": 1,
+      "2": 1,
+      "18": 29,
+      "21": 9,
+      "20": 14,
+      "15": 10,
+      "19": 20
+    },
+    "by_day": {
+      "Wednesday": 41,
+      "Tuesday": 50,
+      "Monday": 30,
+      "Thursday": 46,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.86,
+    "dept_average_30d": 5.75,
+    "dept_rank": 306,
+    "dept_size": 357
+  }
+}

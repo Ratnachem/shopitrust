@@ -1,0 +1,107 @@
+{
+  "username": "alison.smith",
+  "name": "Alison Smith",
+  "generated_at": "2026-04-08T20:22:25.995393",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "This is really great Steve!  Thank you, thank you!",
+          "channel": "ae-assistant",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Can I get the correct `npm config set @shopify-internal:registry` URL - Thank you!",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "yasmine.abdulhadi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.28,
+      "count": 113,
+      "top_channels": [
+        {
+          "channel": "ae-assistant",
+          "messages": 2
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 2
+        },
+        {
+          "channel": "retail-smb-americas-announcer",
+          "messages": 1
+        },
+        {
+          "channel": "help-pos-pro-yearly-subscription",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "steve.popov",
+          "count": 1
+        },
+        {
+          "user": "maiwand.faqiri",
+          "count": 1
+        },
+        {
+          "user": "chad.rasmussen",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 1,
+      "5": 1,
+      "17": 2,
+      "19": 1,
+      "18": 1
+    },
+    "by_day": {
+      "Wednesday": 3,
+      "Tuesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.52,
+    "dept_average_30d": 4.32,
+    "dept_rank": 764,
+    "dept_size": 848
+  }
+}

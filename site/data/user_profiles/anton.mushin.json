@@ -1,0 +1,156 @@
+{
+  "username": "anton.mushin",
+  "name": "Anton Mushin",
+  "generated_at": "2026-04-08T20:22:27.840458",
+  "summary": {
+    "message_count": 50,
+    "channels_active": 5,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you\npublish steps have condition - `if: build.branch =~ /^conveyor\\/release\\// || build.message =~ /^\\[publish package\\]/` - so there should",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "sandeep.sikka",
+          "count": 3
+        },
+        {
+          "user": "peter.moon",
+          "count": 2
+        },
+        {
+          "user": "seth.fiawoo",
+          "count": 2
+        },
+        {
+          "user": "atul.sharma",
+          "count": 1
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 1
+        },
+        {
+          "user": "jingxian.hou",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.86,
+      "count": 49,
+      "top_channels": [
+        {
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "messages": 27
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 14
+        },
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 4
+        },
+        {
+          "channel": "proj-discrete-hazard-modeling",
+          "messages": 3
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "sandeep.sikka",
+          "count": 9
+        },
+        {
+          "user": "atul.sharma",
+          "count": 7
+        },
+        {
+          "user": "trey.wilson",
+          "count": 3
+        },
+        {
+          "user": "jesse.li",
+          "count": 3
+        },
+        {
+          "user": "jingxian.hou",
+          "count": 3
+        },
+        {
+          "user": "marshal.guo",
+          "count": 2
+        },
+        {
+          "user": "ryan.wang",
+          "count": 2
+        },
+        {
+          "user": "janson.webster",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 17,
+      "12": 3,
+      "0": 2,
+      "16": 6,
+      "15": 2,
+      "11": 3,
+      "9": 1,
+      "8": 1,
+      "6": 1,
+      "1": 1,
+      "18": 6,
+      "13": 5,
+      "14": 1,
+      "10": 1
+    },
+    "by_day": {
+      "Tuesday": 15,
+      "Thursday": 7,
+      "Monday": 16,
+      "Friday": 3,
+      "Wednesday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.63,
+    "dept_average_30d": 5.77,
+    "dept_rank": 802,
+    "dept_size": 885
+  }
+}

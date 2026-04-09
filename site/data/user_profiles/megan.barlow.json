@@ -1,0 +1,118 @@
+{
+  "username": "megan.barlow",
+  "name": "Megan Barlow",
+  "generated_at": "2026-04-08T20:22:28.565284",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 5,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh thank you! I'm not sure why this re-pinged today, I am not actually at the port today. Do I need to close out my ticket somehow?",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Okay they are letting me up, thank you! Sorry about that! ",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay they are letting me up, thank you! Sorry about that! ",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.87,
+      "count": 23,
+      "top_channels": [
+        {
+          "channel": "help-safety-security",
+          "messages": 7
+        },
+        {
+          "channel": "help-payroll",
+          "messages": 2
+        },
+        {
+          "channel": "help-people-data",
+          "messages": 1
+        },
+        {
+          "channel": "help-ports",
+          "messages": 1
+        },
+        {
+          "channel": "comp-engine-health-checks",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "iris.lieuw",
+          "count": 3
+        },
+        {
+          "user": "tascha.douglas",
+          "count": 3
+        },
+        {
+          "user": "kaylee.shackleton",
+          "count": 1
+        },
+        {
+          "user": "josh.kraut",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "0": 1,
+      "20": 2,
+      "13": 8
+    },
+    "by_day": {
+      "Tuesday": 2,
+      "Thursday": 7,
+      "Friday": 2,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 4.79,
+    "dept_average_30d": 4.13,
+    "dept_rank": 12,
+    "dept_size": 64
+  }
+}

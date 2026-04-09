@@ -1,0 +1,268 @@
+{
+  "username": "wiliam.oliveira",
+  "name": "Wiliam Oliveira",
+  "generated_at": "2026-04-08T20:22:25.155377",
+  "summary": {
+    "message_count": 254,
+    "channels_active": 13,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.1,
+      "pos_count": 21,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U04GW8XPU95> thank you for create the tables. Should we cluster the tables on shop_id? And maybe the product_variants on product_id as well.",
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for fixing it",
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018WBMJ6C9> thank you! Did you deploy it? I still don't see events in staging/production for some of them like `dynamic_content_translations` ,",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018WBMJ6C9>",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you very much!",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "<@U0AEPQCKB3M> Well done river! It is working. Now rebase on main so CI do not fail on freshness and push",
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yes! I see it. thanks!",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U04GW8XPU95> Thanks! Fixed.",
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about the duplicated message... I haven't seen this one before.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "joe.navetta",
+          "count": 18
+        },
+        {
+          "user": "nikola.todic",
+          "count": 13
+        },
+        {
+          "user": "mladjan.mihajlovic",
+          "count": 9
+        },
+        {
+          "user": "balint.bene",
+          "count": 7
+        },
+        {
+          "user": "prabhjot.singh",
+          "count": 3
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 2
+        },
+        {
+          "user": "tdelazzari",
+          "count": 2
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 2
+        },
+        {
+          "user": "pawan.patel",
+          "count": 2
+        },
+        {
+          "user": "kevin.lam",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.78,
+      "count": 226,
+      "top_channels": [
+        {
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "messages": 158
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 17
+        },
+        {
+          "channel": "search-ingest-ops",
+          "messages": 16
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20100-ssshsfdf-realtime-indexer-topic-lag-excee",
+          "messages": 10
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 8
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 7
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 7
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 6
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "joe.navetta",
+          "count": 18
+        },
+        {
+          "user": "nikola.todic",
+          "count": 11
+        },
+        {
+          "user": "mladjan.mihajlovic",
+          "count": 5
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 4
+        },
+        {
+          "user": "drew.hayward",
+          "count": 4
+        },
+        {
+          "user": "lorenzo.sciandra",
+          "count": 3
+        },
+        {
+          "user": "pawan.patel",
+          "count": 3
+        },
+        {
+          "user": "samantha.john",
+          "count": 2
+        },
+        {
+          "user": "tdelazzari",
+          "count": 2
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 18,
+      "11": 24,
+      "9": 25,
+      "6": 2,
+      "20": 28,
+      "13": 16,
+      "17": 19,
+      "16": 25,
+      "15": 35,
+      "8": 7,
+      "2": 3,
+      "18": 7,
+      "14": 22,
+      "10": 9,
+      "19": 8,
+      "7": 2,
+      "22": 2,
+      "21": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 56,
+      "Monday": 35,
+      "Friday": 61,
+      "Thursday": 51
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.45,
+    "dept_average_30d": 5.79,
+    "dept_rank": 204,
+    "dept_size": 1233
+  }
+}

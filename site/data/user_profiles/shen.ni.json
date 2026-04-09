@@ -1,0 +1,271 @@
+{
+  "username": "shen.ni",
+  "name": "Shen Ni",
+  "generated_at": "2026-04-08T20:22:24.049968",
+  "summary": {
+    "message_count": 216,
+    "channels_active": 17,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! glad to know i didn't overlook anything else",
+          "channel": "compacabana-data-monitoring",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Thanks for taking a pass <@U02CZGED0US>! <@U03QFPA58C9>, just a heads up, i still don't have approval permission in the dw :sweat_smile: . I'm happy",
+          "channel": "sf-xo-b2b-merch-data-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "hey <@U03QFPA58C9>, just an FYI, the latest run of",
+          "channel": "checkout-data-goalie",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Hey <@U03B2MMBTAP> and <@U08KS8ZCUPP>, happy to help but I don't entirely follow the ask.\nThe original ask (and it doesn't seem to change throughout",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "woah, thank you <@W0197H65H4G>!",
+          "channel": "compacabana-data-monitoring",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U08TUQQQCG2> for viz. Please lmk if i can help in any way, but since the code appears ephemeral, there's nothing i can do about this error",
+          "channel": "compacabana-data-monitoring",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018WAEDR4Z>, i put 15 min on your cal tm to chat about how we add/remove the `_shadow` keys in `shopify_request_priority`. I would love to figure",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that! updated!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about pageview_requests_per_min_per_shop's failures",
+          "channel": "storefronts-data-goalie",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W0182V0MK7Z>, that ddos isn't in our dataset due to a 2 day latency in our data pipelines. I kicked off a manual run to get march 16th data in",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "`supplemental_ddos_training_data` has data through feb 14, so the limiting factor will be whatever edge logs still has.",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "scott.mcneil",
+          "count": 19
+        },
+        {
+          "user": "adam.ziolkowski",
+          "count": 9
+        },
+        {
+          "user": "michael.harris",
+          "count": 5
+        },
+        {
+          "user": "sean.kelly",
+          "count": 4
+        },
+        {
+          "user": "sarah.mokros",
+          "count": 4
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 4
+        },
+        {
+          "user": "sneha.shah",
+          "count": 4
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 4
+        },
+        {
+          "user": "brandon.tu",
+          "count": 3
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.83,
+      "count": 176,
+      "top_channels": [
+        {
+          "channel": "proj-ddos-protection",
+          "messages": 105
+        },
+        {
+          "channel": "storefronts-data-goalie",
+          "messages": 21
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 15
+        },
+        {
+          "channel": "sf-xo-b2b-merch-data-platform",
+          "messages": 13
+        },
+        {
+          "channel": "sf-xo-b2b-merch-critical-alerts",
+          "messages": 12
+        },
+        {
+          "channel": "compacabana-data-monitoring",
+          "messages": 12
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 9
+        },
+        {
+          "channel": "checkout-data",
+          "messages": 7
+        },
+        {
+          "channel": "human-bot-signals-data-goalie",
+          "messages": 6
+        },
+        {
+          "channel": "meltano-community",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 85,
+      "top_mentioners": [
+        {
+          "user": "scott.mcneil",
+          "count": 25
+        },
+        {
+          "user": "adam.ziolkowski",
+          "count": 12
+        },
+        {
+          "user": "michael.harris",
+          "count": 8
+        },
+        {
+          "user": "brandon.tu",
+          "count": 6
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 5
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 4
+        },
+        {
+          "user": "sneha.shah",
+          "count": 4
+        },
+        {
+          "user": "sarah.mokros",
+          "count": 4
+        },
+        {
+          "user": "ratna",
+          "count": 3
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 29,
+      "15": 25,
+      "22": 13,
+      "21": 22,
+      "19": 19,
+      "17": 23,
+      "16": 35,
+      "20": 18,
+      "23": 9,
+      "18": 3,
+      "13": 17,
+      "1": 1,
+      "4": 1,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 61,
+      "Tuesday": 34,
+      "Monday": 60,
+      "Thursday": 26,
+      "Friday": 35
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.79,
+    "dept_rank": 478,
+    "dept_size": 1233
+  }
+}

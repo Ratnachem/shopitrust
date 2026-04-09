@@ -1,0 +1,111 @@
+{
+  "username": "mohammed.abubakr",
+  "name": "Mohammed Abubakr",
+  "generated_at": "2026-04-08T20:22:29.926963",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok thanks!",
+          "channel": "help-agentic-storefronts",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you v much",
+          "channel": "help-rollouts",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh, my bad. I didn't realize it would be under markets. However, here it said disabled when I searched for the Shop ID in the flag telemetry -",
+          "channel": "help-rollouts",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "samuel.flores",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.41,
+      "count": 90,
+      "top_channels": [
+        {
+          "channel": "help-rollouts",
+          "messages": 6
+        },
+        {
+          "channel": "help-agentic-storefronts",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20007-receiving-an-increasing-amount-of-reports",
+          "messages": 3
+        },
+        {
+          "channel": "merchant-escalations",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "kevin.charette",
+          "count": 1
+        },
+        {
+          "user": "kate.may",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 4,
+      "14": 4,
+      "18": 1,
+      "12": 4,
+      "21": 2,
+      "20": 1
+    },
+    "by_day": {
+      "Friday": 6,
+      "Monday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.06,
+    "dept_average_30d": 4.09,
+    "dept_rank": 597,
+    "dept_size": 642
+  }
+}

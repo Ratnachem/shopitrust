@@ -1,0 +1,273 @@
+{
+  "username": "ryan.wang",
+  "name": "Ryan Wang",
+  "generated_at": "2026-04-08T20:22:29.460240",
+  "summary": {
+    "message_count": 318,
+    "channels_active": 17,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Magellan <https://github.com/Shopify/magellan-data-uploader/pull/3966|PR> looking for L2 review :thank: <@U03CZ90954K> /<@U03HULKV3T9>\n\nMonorail",
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "Kudos to Peter for pushing through and getting the new library out! :thank-you: I have verified V0.1.4 works for Core, and added",
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave:  Hey team, <@U03CZ90954K> and I paired on how to move monorail-required data out of debug info. Design writeup here:",
+          "channel": "proj-discrete-hazard-modeling",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team, I'm working on unblocking `is_debug` mode to be set for DHM library so we can turn off debug overhead to reduce latency without breaking",
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "sounds good, thank you!",
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U06N7D5352B>, I checked your *`Delivery Day Distribution (Overlaid)`* section of the <https://dhm-lgbm-recon.quick.shopify.io/|dashboard>, and",
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team, `areas-core-storefront-liquid-vm-compile-json` CI is consistently failing on main, blocking PR merges to SFR. Can someone take a look at",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hey data friends, we've discovered some gaps in monorails between core and sfr, and would like to confirm if our proposed fix is correct and",
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yeah we got what we needed, thanks!",
+          "channel": "inc-20094-checkout-predictions-generated-with-error",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "So the \"what-if\" these orders are predicted by lightgbm models scenario is not needed. Thank you for your time <@U07TZ8UCCTH> <@U094AKL9DF1> :bow:",
+          "channel": "inc-20094-checkout-predictions-generated-with-error",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Yeah I think we can do both though, let me create a ticket for the platform team to figure it out",
+          "channel": "promise-dev-ops",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "joseph.carino",
+          "count": 16
+        },
+        {
+          "user": "trey.wilson",
+          "count": 14
+        },
+        {
+          "user": "siraj.ali",
+          "count": 9
+        },
+        {
+          "user": "surya.dutta",
+          "count": 9
+        },
+        {
+          "user": "jingxian.hou",
+          "count": 9
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 9
+        },
+        {
+          "user": "jesse.li",
+          "count": 4
+        },
+        {
+          "user": "christopher.young",
+          "count": 4
+        },
+        {
+          "user": "sergio.garcia",
+          "count": 3
+        },
+        {
+          "user": "moumen.khadr",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.61,
+      "count": 69,
+      "top_channels": [
+        {
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "messages": 132
+        },
+        {
+          "channel": "promise-dev-ops",
+          "messages": 69
+        },
+        {
+          "channel": "inc-20062-docker-error-on-default-branch-for-core",
+          "messages": 24
+        },
+        {
+          "channel": "private-river-ryan",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20094-checkout-predictions-generated-with-error",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20125-eu-using-wrong-thresholds-for-50-of-predi",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20062-docker-error-on-default-branch-for-core",
+          "messages": 11
+        },
+        {
+          "channel": "promise-engineering",
+          "messages": 7
+        },
+        {
+          "channel": "promise-foundations",
+          "messages": 5
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "sandeep.sikka",
+          "count": 9
+        },
+        {
+          "user": "jingxian.hou",
+          "count": 9
+        },
+        {
+          "user": "trey.wilson",
+          "count": 8
+        },
+        {
+          "user": "joseph.carino",
+          "count": 4
+        },
+        {
+          "user": "janson.webster",
+          "count": 4
+        },
+        {
+          "user": "andrewcampbell.j-1963",
+          "count": 4
+        },
+        {
+          "user": "alexa.whitney",
+          "count": 3
+        },
+        {
+          "user": "amanda.billingsley",
+          "count": 3
+        },
+        {
+          "user": "marshal.guo",
+          "count": 2
+        },
+        {
+          "user": "peter.moon",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 39,
+      "14": 36,
+      "21": 19,
+      "20": 20,
+      "19": 24,
+      "18": 35,
+      "17": 27,
+      "16": 37,
+      "13": 20,
+      "2": 1,
+      "12": 7,
+      "9": 3,
+      "1": 7,
+      "22": 21,
+      "0": 11,
+      "23": 11
+    },
+    "by_day": {
+      "Monday": 40,
+      "Friday": 96,
+      "Thursday": 71,
+      "Wednesday": 70,
+      "Tuesday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.24,
+    "dept_average_30d": 5.77,
+    "dept_rank": 207,
+    "dept_size": 885
+  }
+}

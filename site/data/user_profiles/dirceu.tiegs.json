@@ -1,0 +1,282 @@
+{
+  "username": "dirceu.tiegs",
+  "name": "Dirceu Tiegs",
+  "generated_at": "2026-04-08T20:22:13.694765",
+  "summary": {
+    "message_count": 747,
+    "channels_active": 43,
+    "unique_people_mentioned": 43,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 18,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "thanks, let me know if you need help with anything!",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "CI failed, I'll check thanks!",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome, thanks! please notify in <#C06340N1SR3> when scheduling the real deletes, for extra visibility",
+          "channel": "inv-20387-sidekick-messages-table-is-over-10-teraby",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "nope, I was wrong",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you Claujustin, Clauceu is on it",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "it was expected for this week (<https://github.com/shop/issues-sidekick/issues/4707>) but incidents (and the impending doom of reaching katesql",
+          "channel": "proj-ai-attribution",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; Who'd you meet with from the YB infra group?\nasking around (this was before I joined the team I believe)\n\n&gt; if schema migrations can support",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, that makes sense. Please add that info back to the plan (as we approach Editions, questions about infra sizing and any blocking of deploys",
+          "channel": "proj-sidekick-falcon",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "inc-20088-high-500-on-unifiedauth-proxy",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it, thank you!",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "are there any downsides to assigning a subject type = shop like you suggested? Asking because I want to make sure `dev up` works for people as they",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W018WB1QH4Z> <@U06RYE7N88L> I got paged about something else but regarding the migration:\n\n**Short answer: it targets `conversations`, not",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 46,
+      "top_mentioned": [
+        {
+          "user": "charles.qian",
+          "count": 7
+        },
+        {
+          "user": "chris.maltais",
+          "count": 6
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 6
+        },
+        {
+          "user": "colby.fayock",
+          "count": 6
+        },
+        {
+          "user": "rafa.lastirimonroy",
+          "count": 4
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 4
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 3
+        },
+        {
+          "user": "ates.goral",
+          "count": 3
+        },
+        {
+          "user": "nick.matantsev",
+          "count": 3
+        },
+        {
+          "user": "alexandre.c",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.55,
+      "count": 372,
+      "top_channels": [
+        {
+          "channel": "sidekick-operations",
+          "messages": 190
+        },
+        {
+          "channel": "proj-sidekick-server-move-to-world",
+          "messages": 129
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 96
+        },
+        {
+          "channel": "inv-20387-sidekick-messages-table-is-over-10-teraby",
+          "messages": 43
+        },
+        {
+          "channel": "assistants-resiliency-backlog-war-room",
+          "messages": 31
+        },
+        {
+          "channel": "proj-sidekick-pulse",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20258-sidekick-server---canary-exceptions",
+          "messages": 23
+        },
+        {
+          "channel": "proj-sidekick-falcon",
+          "messages": 22
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 15
+        },
+        {
+          "channel": "claude-code",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 101,
+      "top_mentioners": [
+        {
+          "user": "chris.maltais",
+          "count": 21
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 13
+        },
+        {
+          "user": "justin.harris",
+          "count": 5
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 5
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 5
+        },
+        {
+          "user": "tavian.barnes",
+          "count": 5
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 4
+        },
+        {
+          "user": "vitor.correa",
+          "count": 4
+        },
+        {
+          "user": "narendra.shetty",
+          "count": 3
+        },
+        {
+          "user": "peter.lazzarino",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 88,
+      "17": 68,
+      "16": 62,
+      "15": 103,
+      "13": 89,
+      "19": 52,
+      "14": 113,
+      "12": 21,
+      "11": 35,
+      "10": 4,
+      "23": 3,
+      "22": 33,
+      "20": 26,
+      "1": 1,
+      "21": 27,
+      "0": 9,
+      "7": 2,
+      "6": 11
+    },
+    "by_day": {
+      "Wednesday": 103,
+      "Tuesday": 175,
+      "Monday": 175,
+      "Thursday": 213,
+      "Friday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.6,
+    "dept_average_30d": 5.79,
+    "dept_rank": 149,
+    "dept_size": 1233
+  }
+}

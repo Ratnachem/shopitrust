@@ -1,0 +1,277 @@
+{
+  "username": "timothy.willard",
+  "name": "Timothy Willard",
+  "generated_at": "2026-04-08T20:22:10.389821",
+  "summary": {
+    "message_count": 533,
+    "channels_active": 34,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah, thank you, this is a great explanation. Give me a moment to dig into it",
+          "channel": "help-flow",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "&gt; other consequences to cancelling a run midway\nThe merchant would need to ensure they only use idempotent/atomic actions. I don\u2019t know how",
+          "channel": "flow-project-iterator",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Yeah, I tried using ae for a week, and I've found it just has different issues from Claude. I'm not sure that I've really had it picking worse",
+          "channel": "flow-development",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The end to end tests are still passing, so its likely your shop/browser/whatever is configured similarly incorrectly",
+          "channel": "flow-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; But if a run fails constantly until it times out after 36 hours, those should probably be counted as failures in this case?\nBut I wouldn\u2019t say",
+          "channel": "flow-execution-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019m just going to be repeating what Paul said here: whatever instructions they are following in that email is wrong, the box they *do* see *is* the",
+          "channel": "help-flow",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Here's a thought: if we don't have diffs anyway, do we *care* about the actual order of the original events? So long as we act after the last event,",
+          "channel": "flow-project-iterator",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We use a \u201cbinary size long\u201d, whatever that means",
+          "channel": "flow-execution-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Maybe this needs to be brought to whatever team manages segments?",
+          "channel": "flow-execution-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "hmmmm, maybe I should clearly state my understanding of terms:\napp: a discrete entry in the Shopify App Store. We currently have 3 tied to deployed",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Our `node_specs` looks like\n```  node-specs:\n  - data-volume-size: 1000Gi\n    replicas: 12\n    resources:\n      limits:\n        cpu: 16\n       ",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019m not proposing we make canary some new region. I think it should be a separate app (running in whatever region we want), that is another (the",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "lily.li",
+          "count": 7
+        },
+        {
+          "user": "alex.gomez",
+          "count": 6
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 4
+        },
+        {
+          "user": "tomas.baena",
+          "count": 3
+        },
+        {
+          "user": "robert.mic",
+          "count": 3
+        },
+        {
+          "user": "jeff.armstrong",
+          "count": 3
+        },
+        {
+          "user": "colin.vrugteman",
+          "count": 2
+        },
+        {
+          "user": "christie.felker",
+          "count": 2
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 2
+        },
+        {
+          "user": "carol.yun",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.39,
+      "count": 116,
+      "top_channels": [
+        {
+          "channel": "proj-flow-regional-flow",
+          "messages": 194
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 75
+        },
+        {
+          "channel": "flow-execution-team",
+          "messages": 48
+        },
+        {
+          "channel": "flow-development",
+          "messages": 44
+        },
+        {
+          "channel": "inc-20312-scheduled-triggers-arent-firing",
+          "messages": 20
+        },
+        {
+          "channel": "help-flow",
+          "messages": 19
+        },
+        {
+          "channel": "flow-project-iterator",
+          "messages": 18
+        },
+        {
+          "channel": "inv-21009-lag-in-elasticbridge-consumers",
+          "messages": 18
+        },
+        {
+          "channel": "flow-team",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20304-manual-run-e2e-tests-failing",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 84,
+      "top_mentioners": [
+        {
+          "user": "lily.li",
+          "count": 10
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 10
+        },
+        {
+          "user": "alex.gomez",
+          "count": 8
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 8
+        },
+        {
+          "user": "jeff.armstrong",
+          "count": 7
+        },
+        {
+          "user": "morgan.vallati",
+          "count": 5
+        },
+        {
+          "user": "aline.manera",
+          "count": 5
+        },
+        {
+          "user": "michael.rokas",
+          "count": 5
+        },
+        {
+          "user": "kenny.kwan",
+          "count": 4
+        },
+        {
+          "user": "colin.vrugteman",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 55,
+      "17": 62,
+      "16": 28,
+      "15": 64,
+      "14": 91,
+      "13": 74,
+      "20": 57,
+      "19": 59,
+      "21": 33,
+      "2": 1,
+      "23": 4,
+      "12": 4,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 208,
+      "Tuesday": 89,
+      "Monday": 89,
+      "Thursday": 64,
+      "Friday": 83
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.19,
+    "dept_average_30d": 5.79,
+    "dept_rank": 326,
+    "dept_size": 1233
+  }
+}

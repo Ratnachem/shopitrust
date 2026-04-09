@@ -1,0 +1,318 @@
+{
+  "username": "surma",
+  "name": "Surma",
+  "generated_at": "2026-04-08T20:22:07.979484",
+  "summary": {
+    "message_count": 870,
+    "channels_active": 22,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 50,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 22,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Yeah this was built firmly with the assumption that this is cheap thanks to Lazy Trees",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> do it! Thank you",
+          "channel": "surma-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Good shit. Thank you. Will look at this tomorrow :slightly_smiling_face:",
+          "channel": "river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0A0MQWDANR> That\u2019s great! Thank you! How do I get the bearer token? Or do I use my gcloud one?",
+          "channel": "gitstream",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@W0197HU8YN4> amazing. Will look at this tomorrow",
+          "channel": "river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "I was wrong",
+          "channel": "river-dev",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh thank you kindly",
+          "channel": "river-infra",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AA8CDFHB7> gonna kick you off staging to check main is functional before I ship to prod. Please feel free to re-deploy your thingy once I\u2019m done",
+          "channel": "river-infra",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yep, we're seeing a lot of that. Really sorry about that.",
+          "channel": "river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Good luck ATC\u2019ing!!",
+          "channel": "river",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "We very much don\u2019t want to add more top-level skills to River (as in, skills that auto-load). In fact, if you read our skill-convention, you should",
+          "channel": "river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> So River has this dynamic skills extension or whatever it's called that loads skills depending on the zone and world that the river is",
+          "channel": "surma-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever you put in `agent.skills` in your `zone.nix` will be put into `.agent/skills` when you do `dev up`",
+          "channel": "river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> yup. and I already asked you to open a PR. You know I gave you consent, and you should have a note/memory about me to not ask for",
+          "channel": "surma-river",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have noticed that you introducing a big reformatting for a well-established, core file and that is not something that you should \u201cjust do\u201d",
+          "channel": "river",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Blame",
+          "pattern": "who broke",
+          "text": "Oh interesting! I wonder who broke that",
+          "channel": "river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Sorry, we are currently experiment with using the `DEV_GOOGLE_ACCESS_TOKEN`  env variable and running `dev rotate-cloudsmith-token` command or",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "christian.bruckmayer",
+          "count": 12
+        },
+        {
+          "user": "will.goldstein",
+          "count": 8
+        },
+        {
+          "user": "javier.moreno",
+          "count": 6
+        },
+        {
+          "user": "derek.pyne",
+          "count": 5
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "jevon.macdonald",
+          "count": 3
+        },
+        {
+          "user": "jacob.michels",
+          "count": 3
+        },
+        {
+          "user": "alexander.brasil",
+          "count": 3
+        },
+        {
+          "user": "burke.libbey",
+          "count": 2
+        },
+        {
+          "user": "ester.kais",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.59,
+      "count": 163,
+      "top_channels": [
+        {
+          "channel": "surma-river",
+          "messages": 244
+        },
+        {
+          "channel": "river",
+          "messages": 162
+        },
+        {
+          "channel": "tmp-tangle-super-mla",
+          "messages": 67
+        },
+        {
+          "channel": "river-infra",
+          "messages": 66
+        },
+        {
+          "channel": "tectonix",
+          "messages": 52
+        },
+        {
+          "channel": "river-dev",
+          "messages": 46
+        },
+        {
+          "channel": "proj-infra-repo-vms-with-nix",
+          "messages": 42
+        },
+        {
+          "channel": "ergokeebs",
+          "messages": 27
+        },
+        {
+          "channel": "river-lab",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20364-github-ip-issue-returning-403",
+          "messages": 26
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 126,
+      "top_mentioners": [
+        {
+          "user": "christian.bruckmayer",
+          "count": 25
+        },
+        {
+          "user": "ashley.williams",
+          "count": 15
+        },
+        {
+          "user": "javier.moreno",
+          "count": 13
+        },
+        {
+          "user": "will.goldstein",
+          "count": 7
+        },
+        {
+          "user": "alexander.brasil",
+          "count": 6
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 4
+        },
+        {
+          "user": "samuel.path",
+          "count": 3
+        },
+        {
+          "user": "colin.gray",
+          "count": 2
+        },
+        {
+          "user": "ester.kais",
+          "count": 2
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 47,
+      "16": 96,
+      "15": 73,
+      "8": 17,
+      "14": 65,
+      "20": 27,
+      "13": 103,
+      "22": 60,
+      "21": 67,
+      "19": 27,
+      "17": 94,
+      "12": 42,
+      "11": 29,
+      "10": 26,
+      "9": 46,
+      "7": 2,
+      "2": 1,
+      "23": 44,
+      "1": 4
+    },
+    "by_day": {
+      "Wednesday": 257,
+      "Tuesday": 204,
+      "Friday": 136,
+      "Thursday": 194,
+      "Monday": 79
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 9.59,
+    "dept_average_30d": 4.74,
+    "dept_rank": 5,
+    "dept_size": 1663
+  }
+}

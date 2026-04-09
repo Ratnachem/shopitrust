@@ -1,0 +1,144 @@
+{
+  "username": "jane.harrison",
+  "name": "Jane Harrison",
+  "generated_at": "2026-04-08T20:22:26.470073",
+  "summary": {
+    "message_count": 91,
+    "channels_active": 6,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Morning, folks! :coffee-blob:\n\nShortly I'm going to be enabling the flag to do a shadow compare to ensure campaign target parity against legacy",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello QE team! I have a PR that's merged and I'm just waiting on a deploy to be able to ship the code that uses my new view. I was just wondering if",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "yazeed.sabil",
+          "count": 1
+        },
+        {
+          "user": "yumi.minami",
+          "count": 1
+        },
+        {
+          "user": "peter.thesling",
+          "count": 1
+        },
+        {
+          "user": "shaveer.bajpeyi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.43,
+      "count": 117,
+      "top_channels": [
+        {
+          "channel": "ads-bidify-api-ops",
+          "messages": 53
+        },
+        {
+          "channel": "ads-engine-river",
+          "messages": 22
+        },
+        {
+          "channel": "proj-mm-ads-engine-editable-campaigns",
+          "messages": 10
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 3
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 2
+        },
+        {
+          "channel": "mm-bidify-notifications",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "yazeed",
+          "count": 4
+        },
+        {
+          "user": "billy.cai",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "simon.pearson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 7,
+      "21": 12,
+      "1": 1,
+      "23": 9,
+      "16": 11,
+      "15": 1,
+      "19": 22,
+      "18": 7,
+      "17": 13,
+      "20": 6,
+      "0": 2
+    },
+    "by_day": {
+      "Tuesday": 13,
+      "Monday": 15,
+      "Thursday": 13,
+      "Friday": 35,
+      "Wednesday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.84,
+    "dept_average_30d": 5.77,
+    "dept_rank": 761,
+    "dept_size": 885
+  }
+}

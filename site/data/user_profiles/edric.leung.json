@@ -1,0 +1,226 @@
+{
+  "username": "edric.leung",
+  "name": "Edric Leung",
+  "generated_at": "2026-04-08T20:22:17.316802",
+  "summary": {
+    "message_count": 99,
+    "channels_active": 13,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "perfect. thanks!",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ah okay thanks!",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Added the ACE results to the PR  (also copied here). The results here compare ~1450 of the same conversations between the baseline production and the",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "What approach are you using to fix it? I can't seem to figure it out",
+          "channel": "sidekick-evals",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Yup the current version of model is using mBert (*distilbert-base-multilingual-cased).* \nFor training, I focused on prioritizing the Precision of",
+          "channel": "shopkick-team-relevance-domain",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "vinny.degenova",
+          "count": 9
+        },
+        {
+          "user": "jared.rader",
+          "count": 7
+        },
+        {
+          "user": "andrew.rhyne",
+          "count": 6
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 2
+        },
+        {
+          "user": "avi.swerdlow",
+          "count": 1
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 1
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 1
+        },
+        {
+          "user": "anya.gongora",
+          "count": 1
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 1
+        },
+        {
+          "user": "vitor.correa",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.67,
+      "count": 97,
+      "top_channels": [
+        {
+          "channel": "shopkick-team-relevance-domain",
+          "messages": 59
+        },
+        {
+          "channel": "shop-agent-eng",
+          "messages": 9
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 7
+        },
+        {
+          "channel": "sidekick-evals",
+          "messages": 6
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 6
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 3
+        },
+        {
+          "channel": "shopkick-team",
+          "messages": 2
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 2
+        },
+        {
+          "channel": "agent-x-search-working-group",
+          "messages": 1
+        },
+        {
+          "channel": "tmp-memory-burst",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.06,
+      "count": 63,
+      "top_mentioners": [
+        {
+          "user": "andrew.rhyne",
+          "count": 41
+        },
+        {
+          "user": "daniel.weng",
+          "count": 7
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 4
+        },
+        {
+          "user": "jared.rader",
+          "count": 3
+        },
+        {
+          "user": "anya.gongora",
+          "count": 2
+        },
+        {
+          "user": "steel.ferguson",
+          "count": 2
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 1
+        },
+        {
+          "user": "vitor.correa",
+          "count": 1
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 1
+        },
+        {
+          "user": "jenica.mcguire",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 17,
+      "16": 10,
+      "21": 3,
+      "20": 9,
+      "19": 19,
+      "18": 16,
+      "14": 8,
+      "13": 2,
+      "15": 12,
+      "23": 2,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Tuesday": 42,
+      "Monday": 22,
+      "Thursday": 22,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.06,
+    "dept_average_30d": 5.79,
+    "dept_rank": 975,
+    "dept_size": 1233
+  }
+}

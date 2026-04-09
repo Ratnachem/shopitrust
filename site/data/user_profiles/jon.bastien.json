@@ -1,0 +1,215 @@
+{
+  "username": "jon.bastien",
+  "name": "Jon Bastien",
+  "generated_at": "2026-04-08T20:22:14.200473",
+  "summary": {
+    "message_count": 110,
+    "channels_active": 16,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I've been calling it a staging env but it was created for this purpose so it's called `production-ruby-upgrade` we might rename it after this and",
+          "channel": "team-cd",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I can also let you dig into this and you can let me know if you need anything cause I suspect your investigation will be faster than mine",
+          "channel": "shipit-ruby-upgrade",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0182UN1E4X> let me know if you're still seeing OOMKills?",
+          "channel": "shipit-ruby-upgrade",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U02C7FM4X19> confirmed with the team, if it's possible to change to `issues-cd` that would be better to keep things consistent with our naming",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want a hand with any of the testing stuff. I know last week we mentioned pairing on that",
+          "channel": "proj-ci-cd-conveyor-zone-moves",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I addressed the first point and commented about the second one. Let me know if there's anything else I can do",
+          "channel": "proj-ci-cd-conveyor-zone-moves",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hey! I spent the morning getting caught up after vacation. I saw that the GSD got delayed but that if I understand correctly we're scope creeping a",
+          "channel": "proj-ci-cd-conveyor-zone-moves",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "tim.smith",
+          "count": 4
+        },
+        {
+          "user": "kirk.chen",
+          "count": 3
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        },
+        {
+          "user": "briana.roberts",
+          "count": 1
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.7,
+      "count": 169,
+      "top_channels": [
+        {
+          "channel": "shipit-ruby-upgrade",
+          "messages": 43
+        },
+        {
+          "channel": "team-cd",
+          "messages": 13
+        },
+        {
+          "channel": "jon-bastien-river",
+          "messages": 13
+        },
+        {
+          "channel": "proj-ci-cd-conveyor-zone-moves",
+          "messages": 12
+        },
+        {
+          "channel": "river",
+          "messages": 7
+        },
+        {
+          "channel": "team-cd-standup",
+          "messages": 3
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 3
+        },
+        {
+          "channel": "pair-review",
+          "messages": 3
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 3
+        },
+        {
+          "channel": "team-cd-river",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "tim.smith",
+          "count": 3
+        },
+        {
+          "user": "briana.roberts",
+          "count": 3
+        },
+        {
+          "user": "gulkaran.singh",
+          "count": 3
+        },
+        {
+          "user": "tai.dickerson",
+          "count": 1
+        },
+        {
+          "user": "april.co",
+          "count": 1
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 1
+        },
+        {
+          "user": "kirk.chen",
+          "count": 1
+        },
+        {
+          "user": "edilson.correa",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 8,
+      "16": 7,
+      "15": 14,
+      "19": 22,
+      "13": 6,
+      "1": 1,
+      "20": 22,
+      "12": 11,
+      "21": 4,
+      "17": 6,
+      "14": 9
+    },
+    "by_day": {
+      "Wednesday": 12,
+      "Tuesday": 33,
+      "Monday": 36,
+      "Friday": 16,
+      "Thursday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.03,
+    "dept_average_30d": 5.75,
+    "dept_rank": 284,
+    "dept_size": 357
+  }
+}

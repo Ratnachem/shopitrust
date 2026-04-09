@@ -1,0 +1,242 @@
+{
+  "username": "jon.hamburg",
+  "name": "Jon Hamburg",
+  "generated_at": "2026-04-08T20:22:24.895805",
+  "summary": {
+    "message_count": 340,
+    "channels_active": 24,
+    "unique_people_mentioned": 67,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "okay, thank you again!!!",
+          "channel": "help-data-notebooks",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Janet \u2014 took a crack at reworking the summary based on your feedback. Here's a preview of the new format:\n\n*7-Day Migration Activity*\n\u2022 *Mar 29:*",
+          "channel": "proj-markets-api-and-admin-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M>, I don't have access to delete. So I'll need to manually edit the data in metrics maker.\n\nThis is the converastion I had with",
+          "channel": "metrics-maker",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "&gt; My assumption is the sort is computed fresh on every page load, so during the experiment each buyer should get the correct sort based on their",
+          "channel": "tmp-gsd-47347-default-rank-collection-exp",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>, a few comments:\n\n1. Are there concerns about the Order modifications through C1 metric? Take a look at Vault to see the progress and",
+          "channel": "metrics-maker",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we need to ship a PR to separate the ER dependent fields into it's own tbale. And then join back via a View so we don't need to fully rebuild. When I",
+          "channel": "help-deliver-data",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 69,
+      "top_mentioned": [
+        {
+          "user": "dimitar.panayotov",
+          "count": 18
+        },
+        {
+          "user": "chris.hronek",
+          "count": 17
+        },
+        {
+          "user": "valentinas.mitalauskas",
+          "count": 13
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 12
+        },
+        {
+          "user": "nicholas.w.chen",
+          "count": 9
+        },
+        {
+          "user": "siraj.ali",
+          "count": 9
+        },
+        {
+          "user": "daniela.borges",
+          "count": 7
+        },
+        {
+          "user": "ignacio.chiazzo",
+          "count": 6
+        },
+        {
+          "user": "jolie.demuth",
+          "count": 6
+        },
+        {
+          "user": "vincent.chio",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.58,
+      "count": 268,
+      "top_channels": [
+        {
+          "channel": "metrics-maker",
+          "messages": 72
+        },
+        {
+          "channel": "help-merchandising-data",
+          "messages": 43
+        },
+        {
+          "channel": "proj-markets-api-and-admin-migration",
+          "messages": 26
+        },
+        {
+          "channel": "sdp-back-office-logistics",
+          "messages": 23
+        },
+        {
+          "channel": "help-deliver-data",
+          "messages": 22
+        },
+        {
+          "channel": "help-data-notebooks",
+          "messages": 21
+        },
+        {
+          "channel": "dave-river-chat",
+          "messages": 19
+        },
+        {
+          "channel": "deliver-metrics-pulse",
+          "messages": 18
+        },
+        {
+          "channel": "tmp-gsd-47347-default-rank-collection-exp",
+          "messages": 16
+        },
+        {
+          "channel": "tmp-merchandising-logistic-merchant-sales-ownership-transfer",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "jolie.demuth",
+          "count": 10
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 7
+        },
+        {
+          "user": "chris.hronek",
+          "count": 5
+        },
+        {
+          "user": "valentinas.mital-2577",
+          "count": 5
+        },
+        {
+          "user": "lin.taylor",
+          "count": 5
+        },
+        {
+          "user": "dimitar.panayotov",
+          "count": 4
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 4
+        },
+        {
+          "user": "daniela.borges",
+          "count": 4
+        },
+        {
+          "user": "ignacio.chiazzo",
+          "count": 2
+        },
+        {
+          "user": "luc.somers",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 36,
+      "12": 30,
+      "15": 19,
+      "16": 30,
+      "17": 28,
+      "11": 2,
+      "2": 7,
+      "19": 34,
+      "0": 15,
+      "14": 42,
+      "21": 13,
+      "20": 15,
+      "18": 35,
+      "10": 1,
+      "3": 1,
+      "1": 12,
+      "23": 15,
+      "22": 3,
+      "8": 1,
+      "5": 1
+    },
+    "by_day": {
+      "Wednesday": 111,
+      "Tuesday": 97,
+      "Monday": 47,
+      "Friday": 37,
+      "Thursday": 48
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.65,
+    "dept_average_30d": 5.79,
+    "dept_rank": 133,
+    "dept_size": 1233
+  }
+}

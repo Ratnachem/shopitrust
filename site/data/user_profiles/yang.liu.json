@@ -1,0 +1,244 @@
+{
+  "username": "yang.liu",
+  "name": "Yang Liu",
+  "generated_at": "2026-04-08T20:22:08.931108",
+  "summary": {
+    "message_count": 144,
+    "channels_active": 5,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.3,
+      "pos_count": 32,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "&gt; :tada: You removed more code than you added, well done!\n:joy:",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey Team, I've opened a group of PRs to support multiple positives for the next _n_ days in HSTU co-training. This should help minimize the gap",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey, team, More PRs for support the tangle pipeline to inference the user embedding from cotrain model, please feel free to review it when you are",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey, team, More PRs for support the tangle pipeline to inference the user embedding from cotrain model, please feel free to review it when you are",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "That is amazing! Thank you for the great work! <@U03LB4313JA> <@U07AES023FB>. Just want to double check, have you test the training and inference?",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That is amazing! Thank you for the great work! <@U03LB4313JA> <@U07AES023FB>. Just want to double check, have you test the training and inference?",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "That is amazing! Thank you for the great work! <@U03LB4313JA> <@U07AES023FB>. Just want to double check, have you test the training and inference?",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey, team, have a hotfix PR for fixing the issue we just recently introduce with HSTU and ckpt prs, please feel free to review it when you are",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Just approved!! Thank you for addressing the concern~",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "jonathan.sabbagh",
+          "count": 5
+        },
+        {
+          "user": "sourav.bhattacharjee",
+          "count": 4
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 3
+        },
+        {
+          "user": "christophe.vangysel",
+          "count": 2
+        },
+        {
+          "user": "shuying.sun",
+          "count": 2
+        },
+        {
+          "user": "akshay.soni",
+          "count": 2
+        },
+        {
+          "user": "adrien.biarnes",
+          "count": 1
+        },
+        {
+          "user": "mirerfan.gheibi",
+          "count": 1
+        },
+        {
+          "user": "yasser.gonzalez",
+          "count": 1
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.23,
+      "count": 144,
+      "top_channels": [
+        {
+          "channel": "proj-finetuned-product-embeddings",
+          "messages": 94
+        },
+        {
+          "channel": "recommendations-generative-recs",
+          "messages": 27
+        },
+        {
+          "channel": "commerce-foundation-model",
+          "messages": 11
+        },
+        {
+          "channel": "tangle",
+          "messages": 7
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 73,
+      "top_mentioners": [
+        {
+          "user": "shuying.sun",
+          "count": 27
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 14
+        },
+        {
+          "user": "sourav.bhattacharjee",
+          "count": 8
+        },
+        {
+          "user": "christophe.vangysel",
+          "count": 7
+        },
+        {
+          "user": "jonathan.sabbagh",
+          "count": 6
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 5
+        },
+        {
+          "user": "patrick.haluptzok",
+          "count": 2
+        },
+        {
+          "user": "shane.moran",
+          "count": 2
+        },
+        {
+          "user": "michael.garner",
+          "count": 1
+        },
+        {
+          "user": "ali.khanafer",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 6,
+      "20": 7,
+      "17": 8,
+      "16": 32,
+      "15": 26,
+      "13": 8,
+      "12": 5,
+      "11": 1,
+      "21": 10,
+      "14": 20,
+      "2": 1,
+      "23": 4,
+      "22": 4,
+      "19": 11,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 14,
+      "Tuesday": 47,
+      "Monday": 36,
+      "Thursday": 20,
+      "Friday": 27
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.79,
+    "dept_rank": 494,
+    "dept_size": 1233
+  }
+}

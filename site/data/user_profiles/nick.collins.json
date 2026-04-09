@@ -1,0 +1,101 @@
+{
+  "username": "nick.collins",
+  "name": "Nick Collins",
+  "generated_at": "2026-04-08T20:22:29.237450",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 11,
+    "days_scale": 0.48
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hi <!subteam^S07EW5C0VRC> looking for a second opinion <https://trust-platform.shopify.io/tickets/19856327|here> - sudden ramp in high value draft",
+          "channel": "emerging-fraud-trends",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hi team - please review <https://trust-platform.shopify.io/shops/95545524511|this shop> for credit risk - similar activity/strong link to prior",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "jeanpaul.tyo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.37,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "help-credit-risk",
+          "messages": 2
+        },
+        {
+          "channel": "emerging-fraud-trends",
+          "messages": 2
+        },
+        {
+          "channel": "cti-team",
+          "messages": 2
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.87,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "jeanpaul.tyo",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "21": 1,
+      "17": 2,
+      "15": 2,
+      "20": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Thursday": 3,
+      "Friday": 2,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.21,
+    "dept_average_30d": 4.89,
+    "dept_rank": 158,
+    "dept_size": 237
+  }
+}

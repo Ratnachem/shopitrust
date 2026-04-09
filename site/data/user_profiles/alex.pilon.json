@@ -1,0 +1,233 @@
+{
+  "username": "alex.pilon",
+  "name": "Alex Pilon",
+  "generated_at": "2026-04-08T20:22:11.443166",
+  "summary": {
+    "message_count": 357,
+    "channels_active": 11,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "it seems you really want me to point reporting at that",
+          "channel": "proj-quicksite-security-paved-path",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> hey - can you look into this:\n\n&gt; It's in the nix store at `quick-cli-0.3.17`. So tec/nix builds and installs it as a nix",
+          "channel": "alt-tab-build",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "but enforcement doesn't affect for example the extension that inserts some junk - like it doesn't prevent whatever it is from working",
+          "channel": "proj-quicksite-security-paved-path",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> can you vet something for me with data portal - i'm looking for a rough gut check on average order value - i pulled some records (5000",
+          "channel": "alt-tab-build",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>\n1. i think we could suggest using /tmp/quick-sites as a working dir, where each site is /tmp/quick-sites/{site} - and that is per",
+          "channel": "alt-tab-build",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes, there's a clear recommendation here. Alex's instinct is right that the header should be server-defined (Quick's contract), not client-specific",
+          "channel": "melanie-river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> hey - can you look into this:\n\n&gt; It's in the nix store at `quick-cli-0.3.17`. So tec/nix builds and installs it as a nix",
+          "channel": "alt-tab-build",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> great - ok can you update the commits (like squash or whatever you were doing before) and update the PR with notes about how this",
+          "channel": "alt-tab-build",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> well no - can install this package locally and have tokens in ~/.config/npm whatever path it is - so you should be able to give me a",
+          "channel": "quick",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "melanie.hageman",
+          "count": 2
+        },
+        {
+          "user": "natasha.yang",
+          "count": 1
+        },
+        {
+          "user": "janna.falasco",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.02,
+      "count": 27,
+      "top_channels": [
+        {
+          "channel": "alt-tab-build",
+          "messages": 146
+        },
+        {
+          "channel": "quick",
+          "messages": 123
+        },
+        {
+          "channel": "melanie-river",
+          "messages": 41
+        },
+        {
+          "channel": "proj-quicksite-security-paved-path",
+          "messages": 18
+        },
+        {
+          "channel": "river-dev",
+          "messages": 11
+        },
+        {
+          "channel": "help-draw",
+          "messages": 5
+        },
+        {
+          "channel": "help-cx-rnd",
+          "messages": 5
+        },
+        {
+          "channel": "claude-code",
+          "messages": 3
+        },
+        {
+          "channel": "streamlit",
+          "messages": 2
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "ates.goral",
+          "count": 4
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 4
+        },
+        {
+          "user": "derek.pyne",
+          "count": 3
+        },
+        {
+          "user": "alejandra.meza",
+          "count": 2
+        },
+        {
+          "user": "phil.mcclelland",
+          "count": 2
+        },
+        {
+          "user": "zack.deveau",
+          "count": 1
+        },
+        {
+          "user": "sabrina.lobo",
+          "count": 1
+        },
+        {
+          "user": "nick.presta",
+          "count": 1
+        },
+        {
+          "user": "douglas.campos",
+          "count": 1
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "15": 20,
+      "13": 17,
+      "4": 5,
+      "3": 4,
+      "20": 48,
+      "17": 51,
+      "16": 18,
+      "2": 4,
+      "1": 2,
+      "0": 15,
+      "21": 50,
+      "14": 32,
+      "12": 3,
+      "19": 34,
+      "23": 6,
+      "11": 2,
+      "22": 11
+    },
+    "by_day": {
+      "Wednesday": 37,
+      "Tuesday": 110,
+      "Monday": 24,
+      "Friday": 80,
+      "Thursday": 106
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.73,
+    "dept_average_30d": 5.39,
+    "dept_rank": 188,
+    "dept_size": 272
+  }
+}

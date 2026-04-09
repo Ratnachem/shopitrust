@@ -1,0 +1,120 @@
+{
+  "username": "mark.y.wang",
+  "name": "Mark Y Wang",
+  "generated_at": "2026-04-08T20:22:29.145490",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 6,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi folks, I got no space left on device problem on last night's skypilot training, any idea about this? Thanks!\n```[rank0]:   File",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "erik.ryhorchuk",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.56,
+      "count": 90,
+      "top_channels": [
+        {
+          "channel": "sidekick-staging",
+          "messages": 8
+        },
+        {
+          "channel": "help-it",
+          "messages": 3
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "sidekick-pulse-distillation",
+          "messages": 1
+        },
+        {
+          "channel": "vancouver-mar-31-breakbread-meetup",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.52,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "dielli.hoxha",
+          "count": 2
+        },
+        {
+          "user": "lingyun.wang",
+          "count": 1
+        },
+        {
+          "user": "nicolas.bertagnolli",
+          "count": 1
+        },
+        {
+          "user": "erik.ryhorchuk",
+          "count": 1
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 1
+        },
+        {
+          "user": "joe.lin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 5,
+      "20": 3,
+      "16": 2,
+      "1": 1,
+      "18": 1,
+      "17": 2,
+      "8": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Thursday": 7,
+      "Wednesday": 4,
+      "Tuesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.4,
+    "dept_average_30d": 4.74,
+    "dept_rank": 902,
+    "dept_size": 1663
+  }
+}

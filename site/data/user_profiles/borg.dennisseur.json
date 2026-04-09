@@ -1,0 +1,121 @@
+{
+  "username": "borg.dennisseur",
+  "name": "Borg Dennisseur",
+  "generated_at": "2026-04-08T20:22:30.909903",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 2,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Could not have done it without <@U05UHQH456E> Thank you allowing me to bother you every 5 mins.",
+          "channel": "midmarket-deal-announcer",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "julien.baunay",
+          "count": 1
+        },
+        {
+          "user": "william.bedard",
+          "count": 1
+        },
+        {
+          "user": "forrest.riddle",
+          "count": 1
+        },
+        {
+          "user": "julie.marcott",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.39,
+      "count": 116,
+      "top_channels": [
+        {
+          "channel": "midmarket-deal-announcer",
+          "messages": 2
+        },
+        {
+          "channel": "b2b-opportunity-request",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.88,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "diana.gates",
+          "count": 2
+        },
+        {
+          "user": "alexandra.bernasconi",
+          "count": 1
+        },
+        {
+          "user": "ashley.stennis",
+          "count": 1
+        },
+        {
+          "user": "jessica.cooper",
+          "count": 1
+        },
+        {
+          "user": "ranesha.mattu",
+          "count": 1
+        },
+        {
+          "user": "james.carlson",
+          "count": 1
+        },
+        {
+          "user": "tucker.walsh",
+          "count": 1
+        },
+        {
+          "user": "julie.marcott",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 2,
+      "17": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.08,
+    "dept_average_30d": 4.32,
+    "dept_rank": 484,
+    "dept_size": 848
+  }
+}

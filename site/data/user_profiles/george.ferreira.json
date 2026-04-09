@@ -1,0 +1,213 @@
+{
+  "username": "george.ferreira",
+  "name": "George Ferreira",
+  "generated_at": "2026-04-08T20:22:28.077876",
+  "summary": {
+    "message_count": 71,
+    "channels_active": 6,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-purchase-orders-create-transfers",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to blame me :smile:",
+          "channel": "proj-purchase-orders-create-transfers",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you guys!",
+          "channel": "proj-purchase-orders-create-transfers",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-purchase-orders-create-transfers",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, agree with Natalie here. I couldn't get it working locally. Sidekick can't get the session_id for whatever reason. Followed the sidekick-server",
+          "channel": "proj-purchase-orders-create-transfers",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "brandon.ashley",
+          "count": 5
+        },
+        {
+          "user": "mike.averto",
+          "count": 3
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 2
+        },
+        {
+          "user": "dylan.tittel",
+          "count": 2
+        },
+        {
+          "user": "gabriel.dube",
+          "count": 2
+        },
+        {
+          "user": "jian.mahmoudi",
+          "count": 2
+        },
+        {
+          "user": "hisham.kalban",
+          "count": 2
+        },
+        {
+          "user": "brooks.ilg",
+          "count": 1
+        },
+        {
+          "user": "alastair.lewis",
+          "count": 1
+        },
+        {
+          "user": "richard.ludvigh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.14,
+      "count": 30,
+      "top_channels": [
+        {
+          "channel": "proj-purchase-orders-create-transfers",
+          "messages": 35
+        },
+        {
+          "channel": "george-ferreira-river",
+          "messages": 31
+        },
+        {
+          "channel": "proj-inventory-sidekick",
+          "messages": 2
+        },
+        {
+          "channel": "stocky-deliver-handoff",
+          "messages": 1
+        },
+        {
+          "channel": "proj-inventory-transfers-redesign-v1",
+          "messages": 1
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "justin.bicknell",
+          "count": 4
+        },
+        {
+          "user": "gabriel.dube",
+          "count": 2
+        },
+        {
+          "user": "brandon.ashley",
+          "count": 2
+        },
+        {
+          "user": "dylan.tittel",
+          "count": 1
+        },
+        {
+          "user": "rj.davis",
+          "count": 1
+        },
+        {
+          "user": "dylan.kirby",
+          "count": 1
+        },
+        {
+          "user": "natalie.jeong",
+          "count": 1
+        },
+        {
+          "user": "yiyi.dai",
+          "count": 1
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 1
+        },
+        {
+          "user": "jian.mahmoudi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3,
+      "2": 3,
+      "1": 3,
+      "20": 11,
+      "19": 2,
+      "18": 7,
+      "15": 4,
+      "14": 4,
+      "22": 5,
+      "13": 10,
+      "12": 7,
+      "23": 2,
+      "21": 3,
+      "17": 7
+    },
+    "by_day": {
+      "Tuesday": 29,
+      "Monday": 11,
+      "Thursday": 6,
+      "Wednesday": 17,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.21,
+    "dept_average_30d": 5.79,
+    "dept_rank": 916,
+    "dept_size": 1233
+  }
+}

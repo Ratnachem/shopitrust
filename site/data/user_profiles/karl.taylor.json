@@ -1,0 +1,186 @@
+{
+  "username": "karl.taylor",
+  "name": "Karl Taylor",
+  "generated_at": "2026-04-08T20:22:11.778666",
+  "summary": {
+    "message_count": 348,
+    "channels_active": 19,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Sorry, my bad for assuming you knew that :shame-bell:",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey folks, I\u2019ve added a second weekly sync Thursday afternoons (16 ET) for us to walk through the exit criteria (of whatever milestone we\u2019re in!).",
+          "channel": "proj-data-platform-bigquery-backfills",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "bo.senyshyn",
+          "count": 3
+        },
+        {
+          "user": "khaled.hammouda",
+          "count": 2
+        },
+        {
+          "user": "david.garfinkle",
+          "count": 1
+        },
+        {
+          "user": "erik.wright",
+          "count": 1
+        },
+        {
+          "user": "sagar.haria",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.38,
+      "count": 205,
+      "top_channels": [
+        {
+          "channel": "inv-20769-excessive-gaps-across-many-topics",
+          "messages": 58
+        },
+        {
+          "channel": "proj-data-platform-bigquery-backfills",
+          "messages": 56
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 49
+        },
+        {
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "messages": 41
+        },
+        {
+          "channel": "inc-18314-investigate-longboat-full-import-failures",
+          "messages": 27
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 24
+        },
+        {
+          "channel": "data-factoids-alerts",
+          "messages": 22
+        },
+        {
+          "channel": "proj-data-platform-ingest-governance",
+          "messages": 18
+        },
+        {
+          "channel": "oncall-data-platform",
+          "messages": 9
+        },
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.08,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "miguel.mora",
+          "count": 5
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 4
+        },
+        {
+          "user": "patrick.lazarus",
+          "count": 4
+        },
+        {
+          "user": "ian.robertson",
+          "count": 4
+        },
+        {
+          "user": "erik.wright",
+          "count": 4
+        },
+        {
+          "user": "dexter.cogswell",
+          "count": 3
+        },
+        {
+          "user": "bo.senyshyn",
+          "count": 2
+        },
+        {
+          "user": "sean.ittel",
+          "count": 2
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 2
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "14": 36,
+      "13": 18,
+      "20": 46,
+      "21": 30,
+      "19": 10,
+      "17": 37,
+      "16": 11,
+      "22": 38,
+      "15": 45,
+      "23": 37,
+      "0": 5
+    },
+    "by_day": {
+      "Wednesday": 97,
+      "Monday": 28,
+      "Thursday": 37,
+      "Tuesday": 89,
+      "Friday": 97
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.86,
+    "dept_average_30d": 5.39,
+    "dept_rank": 175,
+    "dept_size": 272
+  }
+}

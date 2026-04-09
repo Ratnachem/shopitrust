@@ -1,0 +1,167 @@
+{
+  "username": "francisco.garcia",
+  "name": "Francisco Garcia",
+  "generated_at": "2026-04-08T20:22:18.961630",
+  "summary": {
+    "message_count": 52,
+    "channels_active": 6,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want me to filter to only data with 20 images?",
+          "channel": "project-llm-cg",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "now it's good, thank you!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi team, I encountered an error when setting up the airflow directory on shop-ml during onboarding. I created a small fix on this PR:",
+          "channel": "recommendations-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "that worked, thank you!",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi all, I am trying to setup `playground-slack-mcp`  per the instruction on this <https://technical-learning.docs.shopify.io/setup/mcp|guide> , but I",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "ahmed.dawod",
+          "count": 2
+        },
+        {
+          "user": "himanshu.arora",
+          "count": 2
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.36,
+      "count": 115,
+      "top_channels": [
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 24
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 10
+        },
+        {
+          "channel": "project-llm-cg",
+          "messages": 7
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 6
+        },
+        {
+          "channel": "shop-data-dev",
+          "messages": 3
+        },
+        {
+          "channel": "shared-shopify-skypilot",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.5,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "ahmed.dawod",
+          "count": 6
+        },
+        {
+          "user": "rudi.natarajan",
+          "count": 3
+        },
+        {
+          "user": "himanshu.arora",
+          "count": 1
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 1
+        },
+        {
+          "user": "abhinav.vs",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 13,
+      "14": 11,
+      "13": 4,
+      "21": 2,
+      "18": 4,
+      "20": 1,
+      "19": 1,
+      "15": 11,
+      "16": 4,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 14,
+      "Tuesday": 22,
+      "Monday": 6,
+      "Friday": 9,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.08,
+    "dept_average_30d": 5.77,
+    "dept_rank": 856,
+    "dept_size": 885
+  }
+}

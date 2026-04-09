@@ -1,0 +1,101 @@
+{
+  "username": "cooper.vandewalle",
+  "name": "Cooper VandeWalle",
+  "generated_at": "2026-04-08T20:22:29.031590",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great, that was what I was thinking as well. Thank you",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 3.75,
+      "count": 99,
+      "top_channels": [
+        {
+          "channel": "global-b2b-sales-team",
+          "messages": 3
+        },
+        {
+          "channel": "b2b-opportunity-request",
+          "messages": 2
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.29,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "jordan.yeats",
+          "count": 6
+        },
+        {
+          "user": "victoria.forte",
+          "count": 2
+        },
+        {
+          "user": "al.sohrabi",
+          "count": 1
+        },
+        {
+          "user": "kajsa.cuthbert",
+          "count": 1
+        },
+        {
+          "user": "insiya.bookwala",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 2,
+      "18": 1,
+      "15": 1,
+      "14": 1,
+      "16": 2
+    },
+    "by_day": {
+      "Monday": 2,
+      "Thursday": 1,
+      "Tuesday": 2,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.1,
+    "dept_average_30d": 4.32,
+    "dept_rank": 475,
+    "dept_size": 848
+  }
+}

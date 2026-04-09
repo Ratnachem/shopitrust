@@ -1,0 +1,231 @@
+{
+  "username": "chethana.siddappa",
+  "name": "Chethana Siddappa",
+  "generated_at": "2026-04-08T20:22:12.537953",
+  "summary": {
+    "message_count": 446,
+    "channels_active": 11,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 16,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":ok_hand: thank you",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! I could edit the flinkdeployments to unset them for now, and test it on a prod-test/staging pipeline later",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yay looks like it, thank you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "thanks to AI for finding that :sweat_smile:",
+          "channel": "customer-data-platform-ops",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you :raised_hands:",
+          "channel": "customer-data-platform-ops",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah ok! thank you, I applied it :noted: for the future. thanks for following up on this :blobheart:",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you:ok_hand:",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome, thank you!",
+          "channel": "customer-data-platform-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome! thank you :raised_hands:",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "gabriel.tanchen",
+          "count": 1
+        },
+        {
+          "user": "connor.clark",
+          "count": 1
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.05,
+      "count": 54,
+      "top_channels": [
+        {
+          "channel": "customer-data-platform-ops",
+          "messages": 233
+        },
+        {
+          "channel": "bp-cdp-flink-dev",
+          "messages": 147
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 30
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 11
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 7
+        },
+        {
+          "channel": "proj-customer-events-refinery",
+          "messages": 6
+        },
+        {
+          "channel": "customer-data-platform-ops-staging",
+          "messages": 4
+        },
+        {
+          "channel": "mm-fdn-atc",
+          "messages": 3
+        },
+        {
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "messages": 2
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.15,
+      "count": 35,
+      "top_mentioners": [
+        {
+          "user": "ryan.self",
+          "count": 16
+        },
+        {
+          "user": "ash.charles",
+          "count": 5
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 4
+        },
+        {
+          "user": "francois.campeau",
+          "count": 3
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 2
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 2
+        },
+        {
+          "user": "nicolas.ottonello",
+          "count": 1
+        },
+        {
+          "user": "ryan.griffin",
+          "count": 1
+        },
+        {
+          "user": "eli.bailey",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 29,
+      "15": 51,
+      "13": 9,
+      "19": 62,
+      "22": 42,
+      "21": 54,
+      "16": 53,
+      "20": 65,
+      "14": 39,
+      "17": 30,
+      "2": 2,
+      "0": 3,
+      "12": 1,
+      "1": 6
+    },
+    "by_day": {
+      "Wednesday": 139,
+      "Tuesday": 36,
+      "Monday": 177,
+      "Thursday": 37,
+      "Friday": 57
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.51,
+    "dept_average_30d": 5.77,
+    "dept_rank": 538,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "username": "mark.shan",
+  "name": "Mark Shan",
+  "generated_at": "2026-04-08T20:22:13.416273",
+  "summary": {
+    "message_count": 339,
+    "channels_active": 21,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "No worries! I ended up finding the issue\u2026 Banking had a broken database metadata exporter build step for the past month. Fixed it and now it\u2019s",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; I don\u2019t think we have it automated, but we do occasionally roll-up our migrations. I think we did that in the past couple of weeks.\nThanks!",
+          "channel": "banking-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "It\u2019s weird cuz the other table succeeds :susp:",
+          "channel": "help-banking-data-science",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Adding a <https://shopify.enterprise.slack.com/docs/T024G4BGQ/F0APQ0V0Z33|Monitoring> tab to this project.\nAdded Elton\u2019s monitoring of transfers with",
+          "channel": "proj-balance-domestic-wire-transfers",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it! Created the override :pray:",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it! :pray:",
+          "channel": "help-banking-data-science",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! One ask we had was that ideally we\u2019d use the new ledger models for such reports, before we knew some existed already :smile:\nWondering how",
+          "channel": "help-banking-data-science",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah I see it might have just picked you from a list of editors. I\u2019ll try the ATC, thanks!",
+          "channel": "proj-balance-domestic-wire-transfers",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I was unsure cuz deliver details could be modeled separately, but the relationship with Stripe object changes that :smile: Thanks! I\u2019ll close",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it :pray:",
+          "channel": "proj-balance-domestic-wire-transfers",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Maybe we should tweak the alert to only post in the <#C010Z5F8TML> channel and not page?\nI\u2019m sensing some similar needs we have in",
+          "channel": "balance-exceptions",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://shopify.slack.com/archives/C09V2FK3E3S/p1774027288736849?thread_ts=1774019350.687079&amp;cid=C09V2FK3E3S>\nShould land in bigquery by monday,",
+          "channel": "proj-balance-domestic-wire-transfers",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "sandeep.koduvanda",
+          "count": 10
+        },
+        {
+          "user": "alex.selesse",
+          "count": 6
+        },
+        {
+          "user": "azan.zulfiqar",
+          "count": 6
+        },
+        {
+          "user": "raphael.lomotey",
+          "count": 6
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 5
+        },
+        {
+          "user": "devansh.malik",
+          "count": 4
+        },
+        {
+          "user": "mujtaba.zaidi",
+          "count": 3
+        },
+        {
+          "user": "jackie.mes",
+          "count": 3
+        },
+        {
+          "user": "ryan.quanz",
+          "count": 2
+        },
+        {
+          "user": "alex.hutnik",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.98,
+      "count": 184,
+      "top_channels": [
+        {
+          "channel": "proj-balance-domestic-wire-transfers",
+          "messages": 143
+        },
+        {
+          "channel": "balance-exceptions",
+          "messages": 56
+        },
+        {
+          "channel": "banking-dev",
+          "messages": 40
+        },
+        {
+          "channel": "balance-operations",
+          "messages": 27
+        },
+        {
+          "channel": "help-banking-data-science",
+          "messages": 20
+        },
+        {
+          "channel": "inc-20833-banking-error-reporting-new-errors-for-ba",
+          "messages": 15
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 7
+        },
+        {
+          "channel": "help-balance",
+          "messages": 6
+        },
+        {
+          "channel": "proj-ledgerize-banking",
+          "messages": 4
+        },
+        {
+          "channel": "proj-balance-credit-ad-rewards",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "michael.elfassy",
+          "count": 17
+        },
+        {
+          "user": "sandeep.koduvanda",
+          "count": 10
+        },
+        {
+          "user": "raphael.lomotey",
+          "count": 6
+        },
+        {
+          "user": "silvia.hayden",
+          "count": 4
+        },
+        {
+          "user": "robin.brandt",
+          "count": 4
+        },
+        {
+          "user": "mujtaba.zaidi",
+          "count": 3
+        },
+        {
+          "user": "alex.hutnik",
+          "count": 3
+        },
+        {
+          "user": "devansh.malik",
+          "count": 3
+        },
+        {
+          "user": "chris.sharp",
+          "count": 2
+        },
+        {
+          "user": "marcus.carvalho",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 29,
+      "15": 40,
+      "14": 77,
+      "13": 72,
+      "2": 1,
+      "20": 26,
+      "19": 38,
+      "17": 34,
+      "16": 11,
+      "21": 1,
+      "12": 9,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 37,
+      "Friday": 82,
+      "Thursday": 74,
+      "Monday": 116
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.63,
+    "dept_average_30d": 5.77,
+    "dept_rank": 476,
+    "dept_size": 885
+  }
+}

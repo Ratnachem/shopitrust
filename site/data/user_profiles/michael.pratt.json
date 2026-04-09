@@ -1,0 +1,241 @@
+{
+  "username": "michael.pratt",
+  "name": "Michael Pratt",
+  "generated_at": "2026-04-08T20:22:16.397936",
+  "summary": {
+    "message_count": 204,
+    "channels_active": 16,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok, change is pushed and CI is green, let me know if there's anything else it needs",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HMJV1QA> The PR is ready again with these changes, but just a heads up it was a little more substantial than I expected",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks! I took a first crack at a PR with Claude and requested you as a reviewer, but let me know if it should be someone",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I took a first crack at a PR with Claude and requested you as a reviewer, but let me know if it should be someone",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018HMJV1QA>! That makes sense, the province having a 1 to many relationship with counties doesn't make it possible to locate a user to a",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W01830X45DM> <@W0182UT9BE3> I was going to start looking at <https://github.com/shop/issues-fulfillment/issues/4171|this issue> seems it seems like",
+          "channel": "proj-shipping-becomes-a-markets-responder",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> let's keep whatever approach was on `main` during the rebase. If the code we've added is redundant, lets remove it.",
+          "channel": "deliver-river",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "roch.lefebvre",
+          "count": 4
+        },
+        {
+          "user": "beth.townsend",
+          "count": 2
+        },
+        {
+          "user": "marcus.turner",
+          "count": 2
+        },
+        {
+          "user": "hamish.morgan",
+          "count": 1
+        },
+        {
+          "user": "tyler.kelleher",
+          "count": 1
+        },
+        {
+          "user": "chema.balsas",
+          "count": 1
+        },
+        {
+          "user": "suhshin.hwang",
+          "count": 1
+        },
+        {
+          "user": "fekadeab.dejene",
+          "count": 1
+        },
+        {
+          "user": "daniella.niyonkuru",
+          "count": 1
+        },
+        {
+          "user": "ashley.williams",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.31,
+      "count": 201,
+      "top_channels": [
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 78
+        },
+        {
+          "channel": "fulfillment-overfulfillment-investigate",
+          "messages": 65
+        },
+        {
+          "channel": "deliver-river",
+          "messages": 21
+        },
+        {
+          "channel": "help-addresses",
+          "messages": 13
+        },
+        {
+          "channel": "rubymine",
+          "messages": 5
+        },
+        {
+          "channel": "inc-17639-potential-overfulfillment-detected-by-new",
+          "messages": 5
+        },
+        {
+          "channel": "proj-shipping-profile-redesign-eng",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20762-cannot-create-fulfillment-due-to-invalid",
+          "messages": 3
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 3
+        },
+        {
+          "channel": "pigeon-post",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "marcus.turner",
+          "count": 4
+        },
+        {
+          "user": "tyler.kelleher",
+          "count": 2
+        },
+        {
+          "user": "zin.pomarenski",
+          "count": 2
+        },
+        {
+          "user": "erik.ryhorchuk",
+          "count": 1
+        },
+        {
+          "user": "fekadeab.dejene",
+          "count": 1
+        },
+        {
+          "user": "felix.agagnier",
+          "count": 1
+        },
+        {
+          "user": "james.highfield",
+          "count": 1
+        },
+        {
+          "user": "nicholas.pan",
+          "count": 1
+        },
+        {
+          "user": "steven.slade",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 8,
+      "15": 9,
+      "16": 14,
+      "14": 15,
+      "1": 9,
+      "0": 6,
+      "23": 14,
+      "22": 25,
+      "21": 9,
+      "13": 21,
+      "2": 9,
+      "20": 28,
+      "19": 17,
+      "18": 13,
+      "12": 3,
+      "3": 4
+    },
+    "by_day": {
+      "Wednesday": 37,
+      "Tuesday": 28,
+      "Monday": 49,
+      "Friday": 28,
+      "Thursday": 62
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.17,
+    "dept_average_30d": 5.79,
+    "dept_rank": 939,
+    "dept_size": 1233
+  }
+}

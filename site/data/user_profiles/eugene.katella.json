@@ -1,0 +1,207 @@
+{
+  "username": "eugene.katella",
+  "name": "Eugene Katella",
+  "generated_at": "2026-04-08T20:22:16.106632",
+  "summary": {
+    "message_count": 113,
+    "channels_active": 12,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi: I'm gonna start a release cycle in `//areas/stream-processing/melody` . Need to redeploy event-processor\nlet me know if you plan to release",
+          "channel": "melody-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0947HU5JHH> let me know if you wanna tuple",
+          "channel": "melody-team",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "But whatever is going on with observe is disturbing, we're kinda blind right now",
+          "channel": "melody-cdp-ops",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "nahom.befekadu",
+          "count": 7
+        },
+        {
+          "user": "hussein.patni",
+          "count": 6
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 3
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 3
+        },
+        {
+          "user": "jake.anderson",
+          "count": 2
+        },
+        {
+          "user": "justin.arak",
+          "count": 1
+        },
+        {
+          "user": "dan.okeeffe",
+          "count": 1
+        },
+        {
+          "user": "christian.shumharden",
+          "count": 1
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "melody-team",
+          "messages": 41
+        },
+        {
+          "channel": "melody-cdp-ops",
+          "messages": 29
+        },
+        {
+          "channel": "proj-migrate-melody-flink",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20918-melody-event-processor-drops-events-with",
+          "messages": 10
+        },
+        {
+          "channel": "help-melody",
+          "messages": 6
+        },
+        {
+          "channel": "melody-river",
+          "messages": 5
+        },
+        {
+          "channel": "proj-migrate-marketing-event-distribution",
+          "messages": 3
+        },
+        {
+          "channel": "growth-paid-channels-ops-notifications",
+          "messages": 2
+        },
+        {
+          "channel": "help-security",
+          "messages": 1
+        },
+        {
+          "channel": "inv-21063-melody-intermittent-high-cdp-attribute-er",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.21,
+      "count": 26,
+      "top_mentioners": [
+        {
+          "user": "daniel.newbury",
+          "count": 5
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 3
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 3
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 2
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 2
+        },
+        {
+          "user": "jake.anderson",
+          "count": 2
+        },
+        {
+          "user": "chand.bud",
+          "count": 1
+        },
+        {
+          "user": "rahul.sachan",
+          "count": 1
+        },
+        {
+          "user": "taher.elsheikh",
+          "count": 1
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 23,
+      "16": 33,
+      "15": 14,
+      "10": 1,
+      "21": 7,
+      "14": 6,
+      "13": 7,
+      "18": 13,
+      "19": 7,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 23,
+      "Tuesday": 39,
+      "Thursday": 15,
+      "Monday": 26,
+      "Friday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.77,
+    "dept_average_30d": 5.58,
+    "dept_rank": 174,
+    "dept_size": 398
+  }
+}

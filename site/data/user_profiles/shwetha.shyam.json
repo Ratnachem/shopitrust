@@ -1,0 +1,290 @@
+{
+  "username": "shwetha.shyam",
+  "name": "Shwetha Shyam",
+  "generated_at": "2026-04-08T20:22:06.166334",
+  "summary": {
+    "message_count": 323,
+    "channels_active": 16,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U0AEPQCKB3M> you should still do this: I can write *replacement queries* that bypass the marts and go directly to the monorail source data with the",
+          "channel": "river-deliverypredictions",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!:pray: ",
+          "channel": "promise-experience",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U01R935M1MW> Thank you so much! Looking at the data. What type of carrier EDD is this?\nDoes this refer to carrier EDD not being available after",
+          "channel": "shipping-tracking",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "<@W018WAU93BK> Thanks for the detailed response, I really appreciate it.\nWe've been running cross-functional weekly syncs across all teams on this",
+          "channel": "proj-tracking-shop-tracking-layer",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U09SAJ4RW77> we are planning on adding precomputed delivery predictions to search and discovery and plan to integrate w/ Vantage in the near",
+          "channel": "proj-precomputed-delivery-predictions",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "CONGRATS Siraj!!!",
+          "channel": "shipping-taxes-talk",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That works for me <@U0AFW0Z1AA1> thank you!",
+          "channel": "proj-cart-delivery-predictions",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02MB65AZ7X>\n\u2022 This should apply to both Shop app and Customer Accounts yes (aligned with Matt in last week's meeting) <@U01T4V57ZSB> feel free to",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0244SGF929> I am aligned with the above. Thanks!",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U01R935M1MW> For the pre-checkout model, we don't care about location but for the post-checkout model we care about location (in all states, like",
+          "channel": "shipping-tracking",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Not sure. Will let Xinran and Charles answer that as they figure it out. Better might not be faster in this case because we want very specific",
+          "channel": "promise-experience",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "In general, I agree with what <@U0829PTEY2V> is saying. The way I see this is that any decision-making power should be given to the Rust library. We",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "siraj.ali",
+          "count": 30
+        },
+        {
+          "user": "charlie.morris",
+          "count": 21
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 20
+        },
+        {
+          "user": "janson.webster",
+          "count": 16
+        },
+        {
+          "user": "richard.newman",
+          "count": 16
+        },
+        {
+          "user": "xinran.wang",
+          "count": 15
+        },
+        {
+          "user": "gabriel.ng",
+          "count": 15
+        },
+        {
+          "user": "charles.pignon",
+          "count": 13
+        },
+        {
+          "user": "durmus.karatay",
+          "count": 12
+        },
+        {
+          "user": "asaf.karpel",
+          "count": 8
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.81,
+      "count": 175,
+      "top_channels": [
+        {
+          "channel": "river-deliverypredictions",
+          "messages": 116
+        },
+        {
+          "channel": "proj-cart-delivery-predictions",
+          "messages": 36
+        },
+        {
+          "channel": "shipping-tracking",
+          "messages": 35
+        },
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 29
+        },
+        {
+          "channel": "proj-updated-edds-post-checkout",
+          "messages": 21
+        },
+        {
+          "channel": "promise-experience",
+          "messages": 20
+        },
+        {
+          "channel": "proj-precomputed-delivery-predictions",
+          "messages": 16
+        },
+        {
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "messages": 15
+        },
+        {
+          "channel": "proj-tracking-shop-tracking-layer",
+          "messages": 12
+        },
+        {
+          "channel": "promise-team",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 131,
+      "top_mentioners": [
+        {
+          "user": "siraj.ali",
+          "count": 17
+        },
+        {
+          "user": "gabriel.ng",
+          "count": 15
+        },
+        {
+          "user": "charles.pignon",
+          "count": 11
+        },
+        {
+          "user": "xinran.wang",
+          "count": 11
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 9
+        },
+        {
+          "user": "charlie.morris",
+          "count": 7
+        },
+        {
+          "user": "janson.webster",
+          "count": 7
+        },
+        {
+          "user": "asaf.karpel",
+          "count": 7
+        },
+        {
+          "user": "pedro.durek",
+          "count": 6
+        },
+        {
+          "user": "amanda.billingsley",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 43,
+      "17": 37,
+      "16": 24,
+      "15": 11,
+      "7": 2,
+      "3": 10,
+      "1": 5,
+      "0": 17,
+      "20": 33,
+      "19": 29,
+      "13": 2,
+      "6": 8,
+      "5": 5,
+      "4": 14,
+      "23": 20,
+      "22": 25,
+      "21": 35,
+      "9": 1,
+      "14": 2
+    },
+    "by_day": {
+      "Wednesday": 90,
+      "Tuesday": 78,
+      "Monday": 58,
+      "Friday": 56,
+      "Thursday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.77,
+    "dept_rank": 352,
+    "dept_size": 885
+  }
+}

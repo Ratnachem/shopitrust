@@ -1,0 +1,87 @@
+{
+  "username": "eduardo.lipe",
+  "name": "Eduardo Lipe",
+  "generated_at": "2026-04-08T20:22:31.345229",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you! Works now for me :smile:",
+          "channel": "help-av",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "tif.flowers",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.09,
+      "count": 137,
+      "top_channels": [
+        {
+          "channel": "help-av",
+          "messages": 3
+        },
+        {
+          "channel": "ad-salon",
+          "messages": 2
+        },
+        {
+          "channel": "design-livestream",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "alejandra.meza",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 3,
+      "13": 1,
+      "15": 3
+    },
+    "by_day": {
+      "Tuesday": 4,
+      "Friday": 2,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Brand Design Studio",
+    "user_score_30d": 4.01,
+    "dept_average_30d": 4.57,
+    "dept_rank": 50,
+    "dept_size": 81
+  }
+}

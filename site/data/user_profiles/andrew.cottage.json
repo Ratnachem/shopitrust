@@ -1,0 +1,253 @@
+{
+  "username": "andrew.cottage",
+  "name": "Andrew Cottage",
+  "generated_at": "2026-04-08T20:22:06.252964",
+  "summary": {
+    "message_count": 439,
+    "channels_active": 22,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yes! Both of those are in CustomerAccountTranslationsIntegrationTest \u2014 PR #574140 adds Flags::TestHelper to that class which resets the Verdict flag",
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I'll loop them in, thanks!",
+          "channel": "proj-cleanup-events-table",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey. Yeah I can help. I was stepping away around 2pm on Friday to drive up to Boston for the weekend, but I can help until then.",
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "That flag isn't used in the codebase. I thought it was gating the changes for the api side, but I was wrong. I've asked <@W018PT6UG12> what the flag",
+          "channel": "proj-enrich-customer-with-provider-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "We can discuss atomic updates. My current PR makes them fully atomic.",
+          "channel": "proj-enrich-customer-with-provider-data",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "ok here is what I found...\n\nShort version: they're not \"bypassing\" BINDec, Shop Pay is a completely separate checkout path that BINDec has no",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "*Updates on my",
+          "channel": "proj-enrich-customer-with-provider-data",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "inv-20243-shop-sso-redirect-callback-success-rate-a",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "nick.bell",
+          "count": 9
+        },
+        {
+          "user": "denis.laliberte",
+          "count": 5
+        },
+        {
+          "user": "nick.pinto",
+          "count": 4
+        },
+        {
+          "user": "romain.gallais",
+          "count": 3
+        },
+        {
+          "user": "ryan.snape",
+          "count": 3
+        },
+        {
+          "user": "emilie.cloutier",
+          "count": 3
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 2
+        },
+        {
+          "user": "ashley.allen",
+          "count": 2
+        },
+        {
+          "user": "kyle.schellen",
+          "count": 2
+        },
+        {
+          "user": "sander.lijbrink",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.9,
+      "count": 338,
+      "top_channels": [
+        {
+          "channel": "proj-enrich-customer-with-provider-data",
+          "messages": 79
+        },
+        {
+          "channel": "inc-20186-multipass-errors-elevated",
+          "messages": 65
+        },
+        {
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "messages": 64
+        },
+        {
+          "channel": "customer-account-and-login-river",
+          "messages": 60
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 51
+        },
+        {
+          "channel": "customer-account-and-login-ops",
+          "messages": 28
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20325-estee-lauder-customers-unable-to-add-paym",
+          "messages": 14
+        },
+        {
+          "channel": "inc-19199-legacy-account-creating-a-new-account-and",
+          "messages": 9
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.23,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "dan.robinson",
+          "count": 6
+        },
+        {
+          "user": "nick.bell",
+          "count": 5
+        },
+        {
+          "user": "denis.laliberte",
+          "count": 4
+        },
+        {
+          "user": "joey.tedeschi",
+          "count": 4
+        },
+        {
+          "user": "oluwatimi.owoturo",
+          "count": 3
+        },
+        {
+          "user": "hershey.prevendido",
+          "count": 3
+        },
+        {
+          "user": "romain.gallais",
+          "count": 2
+        },
+        {
+          "user": "shawn.leekwong",
+          "count": 2
+        },
+        {
+          "user": "dominic.olmedo",
+          "count": 2
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 76,
+      "17": 30,
+      "14": 33,
+      "13": 82,
+      "12": 15,
+      "15": 41,
+      "20": 41,
+      "16": 33,
+      "19": 61,
+      "22": 1,
+      "21": 26
+    },
+    "by_day": {
+      "Wednesday": 122,
+      "Tuesday": 86,
+      "Monday": 126,
+      "Friday": 35,
+      "Thursday": 70
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.26,
+    "dept_average_30d": 5.79,
+    "dept_rank": 288,
+    "dept_size": 1233
+  }
+}

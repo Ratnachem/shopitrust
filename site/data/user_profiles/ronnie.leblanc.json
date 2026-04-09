@@ -1,0 +1,225 @@
+{
+  "username": "ronnie.leblanc",
+  "name": "Ronnie LeBlanc",
+  "generated_at": "2026-04-08T20:22:24.992912",
+  "summary": {
+    "message_count": 192,
+    "channels_active": 10,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.7,
+      "pos_count": 2,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Just a heads up I'm OOO today for my on call day off/some appts.\n\nIf needed feel free to repurpose this afternoons sync or cancel (I know the",
+          "channel": "proj-fleetdm",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for putting up with our shenanigans :rolling_on_the_floor_laughing:",
+          "channel": "proj-fleetdm",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "hit a this is useless wall",
+          "channel": "inc-20829-macos-keychain-corruption",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "did they change the response body on the API call or something stupid",
+          "channel": "security-development-app-alerts",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Hey Peter! I've seen this happen a couple times, sometimes the okta auth window pops up behind the enrollment screen. If you select that `connecting",
+          "channel": "help-fleet-rollout",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "andy.ury",
+          "count": 11
+        },
+        {
+          "user": "jesse.makort",
+          "count": 1
+        },
+        {
+          "user": "kiddi.gudjonsson",
+          "count": 1
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        },
+        {
+          "user": "adya.dutt",
+          "count": 1
+        },
+        {
+          "user": "tony.cummings",
+          "count": 1
+        },
+        {
+          "user": "jesse.steig",
+          "count": 1
+        },
+        {
+          "user": "edmond.cotterell",
+          "count": 1
+        },
+        {
+          "user": "marek.lubanski",
+          "count": 1
+        },
+        {
+          "user": "rob.healy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.97,
+      "count": 52,
+      "top_channels": [
+        {
+          "channel": "help-fleet-rollout",
+          "messages": 67
+        },
+        {
+          "channel": "inv-20829-macos-keychain-corruption",
+          "messages": 49
+        },
+        {
+          "channel": "proj-fleetdm",
+          "messages": 32
+        },
+        {
+          "channel": "inc-20829-macos-keychain-corruption",
+          "messages": 22
+        },
+        {
+          "channel": "security-development-app-alerts",
+          "messages": 8
+        },
+        {
+          "channel": "proj-nix-supply-chain",
+          "messages": 5
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 5
+        },
+        {
+          "channel": "proj-trust-platform-vscode-extension-governance",
+          "messages": 2
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "beryl.wu",
+          "count": 5
+        },
+        {
+          "user": "tony.cummings",
+          "count": 3
+        },
+        {
+          "user": "andy.ury",
+          "count": 2
+        },
+        {
+          "user": "paul.gagliardi",
+          "count": 2
+        },
+        {
+          "user": "rob.healy",
+          "count": 2
+        },
+        {
+          "user": "sara.adcock",
+          "count": 1
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        },
+        {
+          "user": "chema.balsas",
+          "count": 1
+        },
+        {
+          "user": "david.jee",
+          "count": 1
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 1,
+      "20": 21,
+      "19": 16,
+      "15": 21,
+      "14": 37,
+      "13": 59,
+      "18": 16,
+      "16": 8,
+      "23": 2,
+      "17": 11
+    },
+    "by_day": {
+      "Wednesday": 54,
+      "Tuesday": 48,
+      "Monday": 32,
+      "Thursday": 16,
+      "Friday": 42
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.96,
+    "dept_average_30d": 4.89,
+    "dept_rank": 96,
+    "dept_size": 237
+  }
+}

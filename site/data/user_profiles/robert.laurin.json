@@ -1,0 +1,213 @@
+{
+  "username": "robert.laurin",
+  "name": "Robert Laurin",
+  "generated_at": "2026-04-08T20:22:11.016097",
+  "summary": {
+    "message_count": 210,
+    "channels_active": 13,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help",
+          "channel": "help-observability",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I need to switch away from this, but I think this leaves you in a good place to solve the problem\n\u2022 Adjusting the span queue size so it can absorb",
+          "channel": "help-observability",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help.\n\nYou can sort of analyze segments of large traces.\n\n\u2022 Get the span id of the thing you're interested in\n\u2022 Scope the search by\n\u2022",
+          "channel": "help-observability",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Whoever made these manually sortable and reflected onto the column order, thank you.",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "It uses tempo for trace storage which doesn't work amazingly well when doing searches, your mileage will vary.",
+          "channel": "help-observability",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to ping me along the way. I think you can start with a much more minimal config than web.",
+          "channel": "help-observability",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Or not, I guess whatever is supplied to the signal takes precedence is being proposed.\n&gt; Upon telemetry items creation (e.g. Span, LogRecordItem),",
+          "channel": "o11y-instrumentation",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Log exception summary does exactly what's on the label it simply \"logs\" whatever it is provided, without any additional business logic built onto it.",
+          "channel": "help-observability",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "sam.handler",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.64,
+      "count": 96,
+      "top_channels": [
+        {
+          "channel": "help-observability",
+          "messages": 129
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 20
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 14
+        },
+        {
+          "channel": "inv-21192-high-rate-of-shops-marked-as-ineligible",
+          "messages": 11
+        },
+        {
+          "channel": "identity-graph",
+          "messages": 9
+        },
+        {
+          "channel": "o11y-instrumentation",
+          "messages": 7
+        },
+        {
+          "channel": "observability-ingestion-alerts",
+          "messages": 4
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 4
+        },
+        {
+          "channel": "clickhouse-gke-migrations",
+          "messages": 4
+        },
+        {
+          "channel": "discuss-investigate-api",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "sam.handler",
+          "count": 12
+        },
+        {
+          "user": "andy.fleming",
+          "count": 2
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 1
+        },
+        {
+          "user": "ryan.woodworth",
+          "count": 1
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 1
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 1
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 1
+        },
+        {
+          "user": "michael.rye",
+          "count": 1
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 1
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 20,
+      "15": 33,
+      "14": 17,
+      "22": 9,
+      "17": 9,
+      "4": 1,
+      "21": 28,
+      "19": 31,
+      "1": 2,
+      "0": 4,
+      "23": 6,
+      "16": 19,
+      "20": 31
+    },
+    "by_day": {
+      "Wednesday": 29,
+      "Tuesday": 76,
+      "Monday": 38,
+      "Friday": 17,
+      "Thursday": 50
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.0,
+    "dept_average_30d": 5.75,
+    "dept_rank": 289,
+    "dept_size": 357
+  }
+}

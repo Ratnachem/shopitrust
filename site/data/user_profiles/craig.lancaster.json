@@ -1,0 +1,113 @@
+{
+  "username": "craig.lancaster",
+  "name": "Craig Lancaster",
+  "generated_at": "2026-04-08T20:22:25.108292",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        },
+        {
+          "user": "laith.fraijat",
+          "count": 1
+        },
+        {
+          "user": "jenny.mueller",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "merchant-escalations",
+          "messages": 6
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 3
+        },
+        {
+          "channel": "help-lending-engineering",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "adolfo.rodriguez",
+          "count": 2
+        },
+        {
+          "user": "jenny.mueller",
+          "count": 2
+        },
+        {
+          "user": "nehal.azzab",
+          "count": 1
+        },
+        {
+          "user": "annmarie.doyle",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 1,
+      "17": 1,
+      "16": 1,
+      "23": 1,
+      "11": 1,
+      "20": 1,
+      "19": 1,
+      "18": 4
+    },
+    "by_day": {
+      "Wednesday": 7,
+      "Thursday": 2,
+      "Monday": 1,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.67,
+    "dept_average_30d": 4.32,
+    "dept_rank": 704,
+    "dept_size": 848
+  }
+}

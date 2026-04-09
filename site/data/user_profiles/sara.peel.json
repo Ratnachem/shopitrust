@@ -1,0 +1,99 @@
+{
+  "username": "sara.peel",
+  "name": "Sara Peel",
+  "generated_at": "2026-04-08T20:22:28.100300",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I will try! Thank you thank you.",
+          "channel": "ops-ai",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": ":sad-1:  Can anyone help hold my hand to fix my MCPs?\n\nMy Claude lost slack mcp connection over the weekend and I've tried getting claude to address",
+          "channel": "ops-ai",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "kyle.acres",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.04,
+      "count": 134,
+      "top_channels": [
+        {
+          "channel": "dev-environment-setup",
+          "messages": 4
+        },
+        {
+          "channel": "ops-ai",
+          "messages": 3
+        },
+        {
+          "channel": "lets-make-ai-easier",
+          "messages": 1
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "venkat.iyer",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "15": 1,
+      "19": 2,
+      "14": 4
+    },
+    "by_day": {
+      "Tuesday": 3,
+      "Friday": 5,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.77,
+    "dept_average_30d": 4.56,
+    "dept_rank": 58,
+    "dept_size": 74
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "username": "rosa.rodriguezmota",
+  "name": "Rosa Rodriguezmota",
+  "generated_at": "2026-04-08T20:22:22.167925",
+  "summary": {
+    "message_count": 25,
+    "channels_active": 9,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Stripe team,\nI'm looking at the `itemized_fees` table on SDP and I see `incurred_by` is always null for ACH debit failures (looking specifically",
+          "channel": "external-shopify-shopifypayments-stripe",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh thanks! I'll look at it tomorrow ",
+          "channel": "payments-ds-exceptions",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hi team, i have a ramp transaction that requires approval from an admin (i forgot to get a receipt for a taxi). Can someone take a look or redirect",
+          "channel": "help-talent-support",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.43,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 1
+        },
+        {
+          "user": "weiyi.yin",
+          "count": 1
+        },
+        {
+          "user": "haitham.fallatah",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 154,
+      "top_channels": [
+        {
+          "channel": "external-shopify-shopifypayments-stripe",
+          "messages": 13
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 3
+        },
+        {
+          "channel": "payments-ds-exceptions",
+          "messages": 2
+        },
+        {
+          "channel": "payments-data-science",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "estimated-rev-unified-pipeline",
+          "messages": 1
+        },
+        {
+          "channel": "dw-money-products-pr-reviews",
+          "messages": 1
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        },
+        {
+          "channel": "stripe-data-pipeline-leverage",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.09,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 2
+        },
+        {
+          "user": "hugo.vacher",
+          "count": 1
+        },
+        {
+          "user": "weiyi.yin",
+          "count": 1
+        },
+        {
+          "user": "alex.carvalho",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 6,
+      "13": 2,
+      "22": 1,
+      "21": 3,
+      "20": 4,
+      "14": 2,
+      "16": 2,
+      "19": 2,
+      "18": 1,
+      "17": 2
+    },
+    "by_day": {
+      "Wednesday": 3,
+      "Tuesday": 5,
+      "Monday": 1,
+      "Friday": 3,
+      "Thursday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.0,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1199,
+    "dept_size": 1663
+  }
+}

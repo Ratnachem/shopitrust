@@ -1,0 +1,229 @@
+{
+  "username": "chad.cromwell",
+  "name": "Chad Cromwell",
+  "generated_at": "2026-04-08T20:22:19.964167",
+  "summary": {
+    "message_count": 117,
+    "channels_active": 9,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay, brilliant! Thank you so much!",
+          "channel": "retail-first",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I'm in, thanks!",
+          "channel": "pos-release-train",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah, sure, thanks! Either way, no code on my end.",
+          "channel": "pos-release-train",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "It was quite the project! Great work to all involved :fist-bump-hand:",
+          "channel": "retail-talk",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'm in. Thank you!",
+          "channel": "proj-retail-yugabyte-migration",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I was just writing up a response here and was waiting until a few more checks passed on my end... But, I saw that update was merged in. Just pulled",
+          "channel": "proj-checkout-yugabyte",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "checkout my branch and then just do gt create -am 'whatever your branch name is gonna be', then tell it to create a branch with no commit and when",
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "gino.valente",
+          "count": 3
+        },
+        {
+          "user": "carolina.darski",
+          "count": 3
+        },
+        {
+          "user": "antonino.urbano",
+          "count": 3
+        },
+        {
+          "user": "britta.evansfenton",
+          "count": 2
+        },
+        {
+          "user": "ramesh.raj",
+          "count": 2
+        },
+        {
+          "user": "si.le",
+          "count": 2
+        },
+        {
+          "user": "mauricio.sierra",
+          "count": 1
+        },
+        {
+          "user": "ruth.fuentes",
+          "count": 1
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 1
+        },
+        {
+          "user": "alex.graffeocohen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.72,
+      "count": 170,
+      "top_channels": [
+        {
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "messages": 46
+        },
+        {
+          "channel": "retail-first",
+          "messages": 44
+        },
+        {
+          "channel": "proj-checkout-yugabyte",
+          "messages": 7
+        },
+        {
+          "channel": "retail-first-ops",
+          "messages": 5
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 5
+        },
+        {
+          "channel": "proj-retail-yugabyte-migration",
+          "messages": 5
+        },
+        {
+          "channel": "pods",
+          "messages": 2
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 2
+        },
+        {
+          "channel": "retail-talk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "ruth.fuentes",
+          "count": 11
+        },
+        {
+          "user": "carolina.darski",
+          "count": 7
+        },
+        {
+          "user": "jolene.hayes",
+          "count": 5
+        },
+        {
+          "user": "antonino.urbano",
+          "count": 4
+        },
+        {
+          "user": "gino.valente",
+          "count": 1
+        },
+        {
+          "user": "britta.evansfenton",
+          "count": 1
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 1
+        },
+        {
+          "user": "ramesh.raj",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 14,
+      "13": 4,
+      "19": 2,
+      "18": 33,
+      "17": 33,
+      "14": 18,
+      "10": 2,
+      "0": 3,
+      "22": 1,
+      "21": 3,
+      "12": 2,
+      "15": 2
+    },
+    "by_day": {
+      "Wednesday": 3,
+      "Tuesday": 63,
+      "Thursday": 9,
+      "Friday": 32,
+      "Monday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.1,
+    "dept_average_30d": 5.77,
+    "dept_rank": 693,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "username": "hassan.imran",
+  "name": "Hassan Imran",
+  "generated_at": "2026-04-08T20:22:29.126439",
+  "summary": {
+    "message_count": 33,
+    "channels_active": 7,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your quick assistance on this team! We will update the merchant to let them know this should be sorted",
+          "channel": "banking-dev",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "vince.duquette",
+          "count": 1
+        },
+        {
+          "user": "gabrielle.sinclair",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.86,
+      "count": 102,
+      "top_channels": [
+        {
+          "channel": "help-draft-orders",
+          "messages": 8
+        },
+        {
+          "channel": "help-checkout-accounts-customizations",
+          "messages": 6
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 6
+        },
+        {
+          "channel": "banking-dev",
+          "messages": 4
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 3
+        },
+        {
+          "channel": "help-selling-strategies",
+          "messages": 3
+        },
+        {
+          "channel": "help-localization",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "andrew.knowles",
+          "count": 1
+        },
+        {
+          "user": "nabeel.ahsen",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 13,
+      "13": 3,
+      "19": 7,
+      "17": 8,
+      "18": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Monday": 4,
+      "Friday": 4,
+      "Tuesday": 17,
+      "Thursday": 2,
+      "Wednesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.11,
+    "dept_average_30d": 4.09,
+    "dept_rank": 587,
+    "dept_size": 642
+  }
+}

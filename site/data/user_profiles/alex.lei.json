@@ -1,0 +1,259 @@
+{
+  "username": "alex.lei",
+  "name": "Alex Lei",
+  "generated_at": "2026-04-08T20:22:07.011122",
+  "summary": {
+    "message_count": 93,
+    "channels_active": 14,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 13,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Thank you for your report! We were able to reproduce the issue and our engineering team is working on a fix. We will get back to you within a week",
+          "channel": "hackerone",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey :wave: from Appsec, we received a <https://bugbounty.shopify.io/reports/3630790|bug bounty report> flagging that internal `shopify-*` headers",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @cafecito,\n\nThank you for your report! We were able to reproduce the issue and our engineering team is working on a fix. We will get back to",
+          "channel": "hackerone",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @kill_sh,\n\nThank you again for your report. We've completed our assessment of the B2B invoice payment flow you described, including the case",
+          "channel": "hackerone-bounty-sync",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah, thank you! I see you mentioned `we should have a mitigation plan in place to prevent these types of attacks.` is this something we will accept",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @guidotpy,\n\nThank you for your patience on this one, and for pushing back with the additional context around the `metafieldsSet` mutation",
+          "channel": "hackerone",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @galtertime,\n\nThank you for this well-researched report.\n\nAfter investigation, we've determined that this does not constitute a vulnerability",
+          "channel": "hackerone",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @ahmed1233,\n\nThank you for following up and for the clarification on your IDOR argument. You're correct that a valid IDOR vulnerability doesn't",
+          "channel": "hackerone",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @n1rmala,\n\nThank you for your report.\n\nThis appears to be the same root cause as your previous submission, as there is an intended grace period",
+          "channel": "hackerone",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @n1rmala,\n\nThank you for your report.\n\nThis appears to be the same root cause as your previous submission, as there is an intended grace period",
+          "channel": "hackerone",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "alex.vindua",
+          "count": 5
+        },
+        {
+          "user": "santosh.bhadri",
+          "count": 4
+        },
+        {
+          "user": "max.veldink",
+          "count": 3
+        },
+        {
+          "user": "josh.zucker",
+          "count": 3
+        },
+        {
+          "user": "brandon.szymanski",
+          "count": 3
+        },
+        {
+          "user": "craig.eplin",
+          "count": 3
+        },
+        {
+          "user": "rick.sperko",
+          "count": 2
+        },
+        {
+          "user": "josh.bregar",
+          "count": 2
+        },
+        {
+          "user": "derek.yu",
+          "count": 2
+        },
+        {
+          "user": "francis.beaudoin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.78,
+      "count": 226,
+      "top_channels": [
+        {
+          "channel": "hackerone",
+          "messages": 30
+        },
+        {
+          "channel": "hackerone-bounty-sync",
+          "messages": 20
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 8
+        },
+        {
+          "channel": "help-it",
+          "messages": 7
+        },
+        {
+          "channel": "help-storefront-mcp",
+          "messages": 6
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 5
+        },
+        {
+          "channel": "help-metafields-and-metaobjects",
+          "messages": 4
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 3
+        },
+        {
+          "channel": "marketplace-connect-eng",
+          "messages": 3
+        },
+        {
+          "channel": "inc-21191-custom-delivery-strategy-handle-can-be-in",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "tharupa.panangalage",
+          "count": 4
+        },
+        {
+          "user": "max.veldink",
+          "count": 2
+        },
+        {
+          "user": "craig.eplin",
+          "count": 2
+        },
+        {
+          "user": "chris.giba",
+          "count": 2
+        },
+        {
+          "user": "debora.setton",
+          "count": 1
+        },
+        {
+          "user": "santosh.bhadri",
+          "count": 1
+        },
+        {
+          "user": "alex.wong",
+          "count": 1
+        },
+        {
+          "user": "josh.bregar",
+          "count": 1
+        },
+        {
+          "user": "fran.martinez",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 11,
+      "22": 6,
+      "15": 13,
+      "0": 4,
+      "23": 18,
+      "20": 5,
+      "17": 8,
+      "21": 7,
+      "16": 2,
+      "19": 5,
+      "4": 3,
+      "3": 5,
+      "14": 1,
+      "1": 5
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 24,
+      "Monday": 12,
+      "Friday": 7,
+      "Thursday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.92,
+    "dept_average_30d": 4.89,
+    "dept_rank": 100,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "username": "ethan.chiddicks",
+  "name": "Ethan Chiddicks",
+  "generated_at": "2026-04-08T20:22:16.008205",
+  "summary": {
+    "message_count": 60,
+    "channels_active": 8,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Confirming that this is fixed as of <https://github.com/Shopify/u2/pull/44595>. Thanks!",
+          "channel": "vault-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Checking in this morning - should we try to find a different table to experiment with? Let me know how I can help. I could also go find the team for",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if I should be working on anything other than <https://github.com/Shopify/accio/issues/11269|TTL Time Travel>.",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "joel.gerber",
+          "count": 5
+        },
+        {
+          "user": "barbara.evangelista",
+          "count": 4
+        },
+        {
+          "user": "chris.sharp",
+          "count": 4
+        },
+        {
+          "user": "luka.grahek",
+          "count": 2
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 1
+        },
+        {
+          "user": "dave.sugden",
+          "count": 1
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 1
+        },
+        {
+          "user": "chris.giba",
+          "count": 1
+        },
+        {
+          "user": "jamesk.lee",
+          "count": 1
+        },
+        {
+          "user": "seb.barre",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.18,
+      "count": 84,
+      "top_channels": [
+        {
+          "channel": "proj-improve-sdp-redaction",
+          "messages": 36
+        },
+        {
+          "channel": "privacy-ops",
+          "messages": 10
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 8
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 2
+        },
+        {
+          "channel": "db-doc-gem-pipeline-notification",
+          "messages": 1
+        },
+        {
+          "channel": "vault-team",
+          "messages": 1
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 1
+        },
+        {
+          "channel": "help-security",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "chris.sharp",
+          "count": 16
+        },
+        {
+          "user": "joel.gerber",
+          "count": 7
+        },
+        {
+          "user": "alyssa.dong",
+          "count": 1
+        },
+        {
+          "user": "brandon.conway",
+          "count": 1
+        },
+        {
+          "user": "barbara.evangelista",
+          "count": 1
+        },
+        {
+          "user": "scott.jackson",
+          "count": 1
+        },
+        {
+          "user": "mostafa.yassine",
+          "count": 1
+        },
+        {
+          "user": "stephanie.chou",
+          "count": 1
+        },
+        {
+          "user": "jon.force",
+          "count": 1
+        },
+        {
+          "user": "steven.wu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 6,
+      "15": 10,
+      "16": 8,
+      "21": 1,
+      "20": 3,
+      "13": 15,
+      "19": 6,
+      "14": 3,
+      "12": 1,
+      "18": 6,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 17,
+      "Tuesday": 11,
+      "Monday": 15,
+      "Friday": 5,
+      "Thursday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.73,
+    "dept_average_30d": 5.39,
+    "dept_rank": 101,
+    "dept_size": 272
+  }
+}

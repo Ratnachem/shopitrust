@@ -1,0 +1,157 @@
+{
+  "username": "sparsh.patel",
+  "name": "Sparsh Patel",
+  "generated_at": "2026-04-08T20:22:29.391092",
+  "summary": {
+    "message_count": 91,
+    "channels_active": 11,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 5,
+    "days_in_window": 16,
+    "days_scale": 0.7
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> ok so based on this what does he want me to do\n```query {\n    order(id: \"<gid://shopify/Order/7380630667605>\") {\n      name\n     ",
+          "channel": "sparsh-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "help-draft-orders",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sounds good will see if I can find anything from there, thanks!",
+          "channel": "shipping-admin-team",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.96,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "carolina.darski",
+          "count": 1
+        },
+        {
+          "user": "mateusz.wasik",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.31,
+      "count": 250,
+      "top_channels": [
+        {
+          "channel": "sparsh-river",
+          "messages": 68
+        },
+        {
+          "channel": "help-retail-hardware",
+          "messages": 4
+        },
+        {
+          "channel": "help-draft-orders",
+          "messages": 4
+        },
+        {
+          "channel": "shipping-admin-team",
+          "messages": 4
+        },
+        {
+          "channel": "retail-hardware",
+          "messages": 2
+        },
+        {
+          "channel": "retail-mx-orders",
+          "messages": 2
+        },
+        {
+          "channel": "pos-core-selling-flow-checkout",
+          "messages": 2
+        },
+        {
+          "channel": "retail-first",
+          "messages": 2
+        },
+        {
+          "channel": "retail-mx-inventory-fulfillment",
+          "messages": 1
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.4,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "antonino.urbano",
+          "count": 3
+        },
+        {
+          "user": "carolina.darski",
+          "count": 2
+        },
+        {
+          "user": "steven.thomas",
+          "count": 1
+        },
+        {
+          "user": "mark.polivchuk",
+          "count": 1
+        },
+        {
+          "user": "ayman.salloom",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 7,
+      "15": 6,
+      "21": 4,
+      "18": 11,
+      "14": 8,
+      "17": 16,
+      "20": 6,
+      "19": 32,
+      "12": 1
+    },
+    "by_day": {
+      "Monday": 11,
+      "Thursday": 10,
+      "Tuesday": 3,
+      "Friday": 66,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.59,
+    "dept_average_30d": 4.74,
+    "dept_rank": 777,
+    "dept_size": 1663
+  }
+}

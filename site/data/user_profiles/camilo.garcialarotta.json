@@ -1,0 +1,289 @@
+{
+  "username": "camilo.garcialarotta",
+  "name": "Camilo Garcialarotta",
+  "generated_at": "2026-04-08T20:22:24.260655",
+  "summary": {
+    "message_count": 836,
+    "channels_active": 42,
+    "unique_people_mentioned": 64,
+    "unique_mentioners": 45,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 23,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":bow::skin-tone-3: <@U01PNCG2Q00> before you go out for the day, let me know if there's any major blockers for",
+          "channel": "shop-identity-yugabyte-migration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<#C0256EEELEA>\n\u2022 <https://shopify.slack.com/archives/C0256EEELEA/p1775051005860529|this thread> helped find that from a receipt attribution POV,",
+          "channel": "help-shop-identity",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to @ me :slightly_smiling_face: I'll hop on to other tasks in the meantime",
+          "channel": "shop-engineering",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "inline-write ready for re-review, if approved, feel free to queue\n",
+          "channel": "shop-identity-yugabyte-migration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you very much for the per-ticket breakdown, it is super super useful\nI'll also cc <@U081X75V4KU> to complete the Product feedback mentions",
+          "channel": "help-shop-identity",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave::skin-tone-3:\n\u2022 rolled out transfer tokens\n\u2022 queued to merge the inline-writes stack for",
+          "channel": "shop-identity-yugabyte-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for the help! see you online Elia!",
+          "channel": "shop-identity-yugabyte-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "thanks for holding the fort Q :salutt:\n<@U01D97JU7JM> feel free to ping me in <#C0256EEELEA> if after your investigation anything identity related",
+          "channel": "shop-recognition-continuity-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help move the ball forward by applying the feedback I raised in <https://github.com/Shopify/shop-server/pull/147945|the PR>",
+          "channel": "shop-identity-yugabyte-migration",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "oh apologies! feel free to poke me via graphite after 24h :bow::skin-tone-3:",
+          "channel": "shop-identity-ops",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U03DT7N3QQY> <@U0209SHEACQ> we've had a couple of iterations in this area, I want to make sure the change I'm proposing aligns with your historical",
+          "channel": "help-shop-identity",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "here's the <https://observe.shopify.io/goto/ffht15i4t5mv4f?orgId=1|trace> from our POV.\n\nThe user signed in with shop and had a valid",
+          "channel": "help-shop-identity",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "I believe so, thanks to the context :exp: feature you can set rules based on the email for example. As long as your callsite has access to the",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 68,
+      "top_mentioned": [
+        {
+          "user": "paul.linton",
+          "count": 15
+        },
+        {
+          "user": "stefan.magnuson",
+          "count": 13
+        },
+        {
+          "user": "elsa.huang",
+          "count": 12
+        },
+        {
+          "user": "john.datserakis",
+          "count": 9
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 9
+        },
+        {
+          "user": "erin.ren",
+          "count": 7
+        },
+        {
+          "user": "igor.sobreira",
+          "count": 7
+        },
+        {
+          "user": "chad.cole",
+          "count": 7
+        },
+        {
+          "user": "quinton.chester",
+          "count": 7
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.91,
+      "count": 273,
+      "top_channels": [
+        {
+          "channel": "shop-identity-yugabyte-migration",
+          "messages": 185
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 99
+        },
+        {
+          "channel": "shop-identity-ops",
+          "messages": 75
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 67
+        },
+        {
+          "channel": "shop-recognition-continuity-team",
+          "messages": 66
+        },
+        {
+          "channel": "inv-20005-small-drop-in-discount-success-rate",
+          "messages": 46
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 39
+        },
+        {
+          "channel": "inc-20415-high-percentage-of-graphql-accesstokenref",
+          "messages": 33
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 27
+        },
+        {
+          "channel": "boost-user-recognition",
+          "messages": 22
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 117,
+      "top_mentioners": [
+        {
+          "user": "elsa.huang",
+          "count": 18
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 11
+        },
+        {
+          "user": "erin.ren",
+          "count": 7
+        },
+        {
+          "user": "max.rais",
+          "count": 6
+        },
+        {
+          "user": "stefan.magnuson",
+          "count": 6
+        },
+        {
+          "user": "maria.yudina",
+          "count": 5
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 4
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 4
+        },
+        {
+          "user": "andre.ericson",
+          "count": 4
+        },
+        {
+          "user": "ian.paul",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 65,
+      "12": 66,
+      "11": 46,
+      "10": 43,
+      "19": 63,
+      "18": 92,
+      "17": 47,
+      "16": 56,
+      "15": 112,
+      "14": 125,
+      "21": 18,
+      "20": 39,
+      "9": 5,
+      "0": 29,
+      "23": 15,
+      "3": 1,
+      "2": 6,
+      "1": 8
+    },
+    "by_day": {
+      "Wednesday": 162,
+      "Tuesday": 177,
+      "Monday": 143,
+      "Friday": 175,
+      "Thursday": 179
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.81,
+    "dept_average_30d": 4.74,
+    "dept_rank": 50,
+    "dept_size": 1663
+  }
+}

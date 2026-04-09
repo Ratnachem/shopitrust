@@ -1,0 +1,313 @@
+{
+  "username": "alex.gomez",
+  "name": "Alex Gomez",
+  "generated_at": "2026-04-08T20:22:07.206415",
+  "summary": {
+    "message_count": 967,
+    "channels_active": 40,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.4,
+      "pos_count": 49,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Np! Thank you for leading this through :blobexcited:",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U04GHQ16TGB> let me know if this smokes out any errors on any app surface in the next 24 hours please. If all looks good, we can proceed with",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I have updated guidance on full recovery <https://github.com/shop/issues-search-platform/issues/618#issuecomment-4206744440|here>, i.e., how long it",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U037C3ZD71P> I transferred you the issue for the shop pipeline sending messages for files that are not in the bucket. Feel free to reassign within",
+          "channel": "inv-21186-shop-elasticsearch-lost-permissions-to-re",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'm going to archive this channel now. Thank you everyone for your contributions!!",
+          "channel": "proj-search-control-plane-3",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Btw I left a link to Observe showing zero usage. You have to add an additional filter but feel free to use this when removing fields as a",
+          "channel": "help-search-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "We only need to do this once so I think this approach is fine. But let me know if you think differently. Happy to chat",
+          "channel": "proj-bulk-jobs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Lily! Ok sounds good. I have a <https://github.com/shop/issues-search-platform/issues/537|ticket> to review devolution of alerts for large",
+          "channel": "flow-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: I was able to get in touch with the manager for the envs team, <@U08959VBCUT>, and we are going to arrange a meeting to coordinate how our",
+          "channel": "proj-search-upgrade-to-es-9",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The test app doesn't require approvals so I'll just merge this when the AI review is finished. But feel free to :gh-green:",
+          "channel": "proj-search-control-plane-3",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":wave: I need a codeowner approval of this PR to mitigate an issue with shop-elasticsearch large record buckets. elasticbridge has lost whatever",
+          "channel": "inv-21186-shop-elasticsearch-lost-permissions-to-re",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "deploy whatever app this infrastructure is for",
+          "channel": "inv-21186-shop-elasticsearch-lost-permissions-to-re",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "other than re-rendering every helm chart, which like, whatever, i'll pay that penalty",
+          "channel": "proj-search-control-plane-3",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "I can totally appreciate that this is a mess and needs to be cleaned up. I can take a stab at it but like I said, if you want the engineered version,",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Like for real, you're getting 0 dogmatic opinions with me :frog-pray: Whatever is practical, works well for the regionalization project and protects",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i think whatever this api client is doing is breaking the algo for this specific consistency checker in some new way",
+          "channel": "inv-20004-prolonged-db-writer-cpu-saturation",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Would you mind opening a thread on <#C05ABDX94GK> asking for their advice, or someone to coordinate with? Between the 3 teams we can figure it out,",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 44,
+      "top_mentioned": [
+        {
+          "user": "morgan.vallati",
+          "count": 13
+        },
+        {
+          "user": "kenny.kwan",
+          "count": 13
+        },
+        {
+          "user": "robert.adler",
+          "count": 12
+        },
+        {
+          "user": "timothy.willard",
+          "count": 8
+        },
+        {
+          "user": "jivan.gubbi",
+          "count": 5
+        },
+        {
+          "user": "ben.eichler",
+          "count": 5
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 4
+        },
+        {
+          "user": "lily.li",
+          "count": 4
+        },
+        {
+          "user": "chema.balsas",
+          "count": 3
+        },
+        {
+          "user": "gale.shafer",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 486,
+      "top_channels": [
+        {
+          "channel": "help-search-platform",
+          "messages": 209
+        },
+        {
+          "channel": "inv-21186-shop-elasticsearch-lost-permissions-to-re",
+          "messages": 114
+        },
+        {
+          "channel": "proj-search-control-plane-3",
+          "messages": 111
+        },
+        {
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "messages": 101
+        },
+        {
+          "channel": "proj-flow-regional-flow",
+          "messages": 85
+        },
+        {
+          "channel": "proj-bulk-jobs",
+          "messages": 69
+        },
+        {
+          "channel": "inv-19964-investigating-high-delay-in-central",
+          "messages": 35
+        },
+        {
+          "channel": "search-platform-alerts",
+          "messages": 31
+        },
+        {
+          "channel": "search-platform-ops",
+          "messages": 27
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 22
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "denis.ivanov",
+          "count": 7
+        },
+        {
+          "user": "chema.balsas",
+          "count": 7
+        },
+        {
+          "user": "timothy.willard",
+          "count": 6
+        },
+        {
+          "user": "lily.li",
+          "count": 5
+        },
+        {
+          "user": "bing.li",
+          "count": 5
+        },
+        {
+          "user": "morgan.vallati",
+          "count": 4
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 3
+        },
+        {
+          "user": "joe.letizia",
+          "count": 3
+        },
+        {
+          "user": "celina.assal",
+          "count": 2
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 140,
+      "17": 97,
+      "15": 79,
+      "14": 96,
+      "13": 95,
+      "12": 49,
+      "19": 154,
+      "16": 42,
+      "22": 3,
+      "21": 55,
+      "20": 110,
+      "11": 29,
+      "23": 1,
+      "1": 17
+    },
+    "by_day": {
+      "Wednesday": 218,
+      "Tuesday": 268,
+      "Monday": 245,
+      "Thursday": 158,
+      "Friday": 78
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.19,
+    "dept_average_30d": 5.75,
+    "dept_rank": 94,
+    "dept_size": 357
+  }
+}

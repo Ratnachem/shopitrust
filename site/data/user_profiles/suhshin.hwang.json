@@ -1,0 +1,186 @@
+{
+  "username": "suhshin.hwang",
+  "name": "Suhshin Hwang",
+  "generated_at": "2026-04-08T20:22:26.012011",
+  "summary": {
+    "message_count": 84,
+    "channels_active": 14,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 7,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing! Thanks Emilie",
+          "channel": "tmp-benchmark-yugabyte",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh that'd be great thank you!",
+          "channel": "fulfillment-team-in-toronto",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! i'm iterating with claude at the moment to capture better intent on what we want to measure",
+          "channel": "proj-deliver-yugabyte",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! A computer restart worked",
+          "channel": "developers-talk",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.85,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "israel.valverde",
+          "count": 2
+        },
+        {
+          "user": "max.romaniv",
+          "count": 2
+        },
+        {
+          "user": "chema.balsas",
+          "count": 1
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "max.perry",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.37,
+      "count": 85,
+      "top_channels": [
+        {
+          "channel": "proj-deliver-yugabyte",
+          "messages": 22
+        },
+        {
+          "channel": "fulfillments-yugabyte",
+          "messages": 21
+        },
+        {
+          "channel": "fulfillment-team-in-toronto",
+          "messages": 8
+        },
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 5
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 5
+        },
+        {
+          "channel": "sshwang-river",
+          "messages": 4
+        },
+        {
+          "channel": "tmp-benchmark-yugabyte",
+          "messages": 4
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 4
+        },
+        {
+          "channel": "yugabyte-and-river",
+          "messages": 3
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.61,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "max.perry",
+          "count": 3
+        },
+        {
+          "user": "emilie.noel",
+          "count": 3
+        },
+        {
+          "user": "ilana.beer",
+          "count": 2
+        },
+        {
+          "user": "kumar.mcmillan",
+          "count": 1
+        },
+        {
+          "user": "israel.valverde",
+          "count": 1
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "michael.pratt",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 2,
+      "21": 5,
+      "19": 8,
+      "18": 9,
+      "20": 7,
+      "17": 8,
+      "14": 17,
+      "13": 8,
+      "12": 1,
+      "15": 9,
+      "16": 10
+    },
+    "by_day": {
+      "Wednesday": 15,
+      "Tuesday": 16,
+      "Monday": 31,
+      "Thursday": 8,
+      "Friday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 8.21,
+    "dept_average_30d": 4.74,
+    "dept_rank": 19,
+    "dept_size": 1663
+  }
+}

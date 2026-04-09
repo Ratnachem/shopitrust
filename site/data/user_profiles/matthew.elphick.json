@@ -1,0 +1,312 @@
+{
+  "username": "matthew.elphick",
+  "name": "Matthew Elphick",
+  "generated_at": "2026-04-08T20:22:07.796644",
+  "summary": {
+    "message_count": 926,
+    "channels_active": 44,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 35,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.3,
+      "pos_count": 38,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Aha - gotcha. So this is the signal on the window bit above. Nice. :+1: Thanks!",
+          "channel": "proj-shop-sign-in-swish-storefront-signin",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I can't read. The two migrations are for the environments, not access/refresh tokens. My bad. That makes sense on why it has to shitlist to avoid the",
+          "channel": "proj-shop-meta-persistent-auth",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Great, thanks.\n\nOne last quick question for your PR so I can approve it ASAP - why the shitlist for your migration and why only refresh tokens, and",
+          "channel": "proj-shop-meta-persistent-auth",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Okay - let's have a thread here to chat about",
+          "channel": "proj-shop-sign-in-swish-storefront-signin",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I think the main reasoning is what if we have data (input or return typing)/product divergences. So for example:\n1. What if we wanted only one",
+          "channel": "proj-favorite-primitives",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Did you want me to update Tech Design or are you good to? Not sure what's on your plate at the moment. I've got 30 mins now, then a 121 with",
+          "channel": "proj-shop-sign-in-swish-storefront-signin",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Meeting ended early. You got a Tuple link that you're on/want me to join?",
+          "channel": "inv-20771-graphql-field-errors-error",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! My main questions are mainly around some product discovery:\n\u2022 What are the differences between favorites and product lists? Are there any",
+          "channel": "shop-feed",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sorry for the delay! <https://docs.google.com/document/d/19ZlX-BF57NLIF9ixjq_6KOaxgW1meC1go7fie5VVeLo/edit?tab=t.0|Here's the Google Doc I promised",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That looks right, thank you.",
+          "channel": "inv-20694-shopshop-identity-shop-js-flakyfailing-te",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "> What we publicize / document to the partners doesn\u2019t change the implementation of the PR.\nSure - but we were talking earlier about what we",
+          "channel": "proj-shop-sign-in-swish-storefront-signin",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "&gt; Ryan is looking into Api Client that can use \"store\" apis without needing a full api client. It is part of the ability to use our APIs more",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Aha, fun. Well I'll keep my fingers crossed too.\n\nI'll keep an eye on errors for Monorail validations/query timeouts, but please ping me if you spot",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://github.com/Shopify/shop-server/blob/main/areas/platforms/shop-server/app/utils/verdict_helper.rb#L14|It's from here>, so it's",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "> For the PR description, I feel quite strongly about it being filled even though there's an issue.\nFor sure - hear you on the PR description, like I",
+          "channel": "proj-id-lead-capture",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "&gt; Where are we in the core deploy queue?\nCurrently looking - to my knowledge there's no easy way to check this.\n\nNeither River nor VaultBot seem",
+          "channel": "proj-id-lead-capture",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "chad.cole",
+          "count": 36
+        },
+        {
+          "user": "dave.alexander",
+          "count": 25
+        },
+        {
+          "user": "kristen.fisher",
+          "count": 18
+        },
+        {
+          "user": "hussien.khayoon",
+          "count": 17
+        },
+        {
+          "user": "quinton.chester",
+          "count": 14
+        },
+        {
+          "user": "tobias.frostenberg",
+          "count": 7
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 7
+        },
+        {
+          "user": "michael.bottens",
+          "count": 5
+        },
+        {
+          "user": "ilyess.bachiri",
+          "count": 4
+        },
+        {
+          "user": "fred.ulrich",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.33,
+      "count": 345,
+      "top_channels": [
+        {
+          "channel": "proj-id-lead-capture",
+          "messages": 268
+        },
+        {
+          "channel": "proj-shop-sign-in-swish-storefront-signin",
+          "messages": 92
+        },
+        {
+          "channel": "shop-platform-expansion",
+          "messages": 67
+        },
+        {
+          "channel": "inv-19903-shopshop-identity-sign-in-rate-dropped-no",
+          "messages": 60
+        },
+        {
+          "channel": "inv-20514-shopshop-identitye2e-e2e-build-is-failing",
+          "messages": 57
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 40
+        },
+        {
+          "channel": "shop-identity-ops",
+          "messages": 38
+        },
+        {
+          "channel": "inv-20406-failing-synthetic-tests-in-canary",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20596-managed-synthetic-check-shopshop-identity",
+          "messages": 26
+        },
+        {
+          "channel": "help-shopify-forms",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 118,
+      "top_mentioners": [
+        {
+          "user": "dave.alexander",
+          "count": 27
+        },
+        {
+          "user": "chad.cole",
+          "count": 13
+        },
+        {
+          "user": "kristen.fisher",
+          "count": 11
+        },
+        {
+          "user": "tobias.frostenberg",
+          "count": 7
+        },
+        {
+          "user": "quinton.chester",
+          "count": 7
+        },
+        {
+          "user": "omer.noor",
+          "count": 6
+        },
+        {
+          "user": "annie.caron",
+          "count": 4
+        },
+        {
+          "user": "philibert.dugas",
+          "count": 3
+        },
+        {
+          "user": "ali.ibrahim",
+          "count": 3
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 68,
+      "17": 66,
+      "16": 99,
+      "15": 106,
+      "14": 90,
+      "13": 123,
+      "10": 55,
+      "6": 2,
+      "12": 114,
+      "11": 84,
+      "9": 22,
+      "8": 23,
+      "7": 4,
+      "20": 16,
+      "23": 1,
+      "21": 12,
+      "22": 6,
+      "19": 19,
+      "4": 13,
+      "3": 3
+    },
+    "by_day": {
+      "Wednesday": 150,
+      "Tuesday": 268,
+      "Monday": 179,
+      "Thursday": 178,
+      "Friday": 151
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.93,
+    "dept_average_30d": 4.74,
+    "dept_rank": 43,
+    "dept_size": 1663
+  }
+}

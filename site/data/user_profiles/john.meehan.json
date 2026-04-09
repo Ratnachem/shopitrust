@@ -1,0 +1,204 @@
+{
+  "username": "john.meehan",
+  "name": "John Meehan",
+  "generated_at": "2026-04-08T20:22:20.753179",
+  "summary": {
+    "message_count": 176,
+    "channels_active": 14,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi: I modified the PR to add the entirety of `ysql_pg_conf_csv` because (i believe) merging the two is a shallow copy, meaning that the default",
+          "channel": "db-platform-yugabyte-ops",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi:  We are rolling out incremental backups in production. These will replace hourly full backups. We have verified there will be no loss in backup",
+          "channel": "db-platform-yugabyte-ops",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "jordan.wheeler",
+          "count": 11
+        },
+        {
+          "user": "brandon.mcnama",
+          "count": 6
+        },
+        {
+          "user": "rodrigo.saito",
+          "count": 6
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 5
+        },
+        {
+          "user": "jeffrey.bian",
+          "count": 5
+        },
+        {
+          "user": "carine.araujo",
+          "count": 3
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 3
+        },
+        {
+          "user": "max.giraldo",
+          "count": 2
+        },
+        {
+          "user": "brendan.dougherty",
+          "count": 2
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.15,
+      "count": 140,
+      "top_channels": [
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 66
+        },
+        {
+          "channel": "proj-data-storage-yugabyte-stability",
+          "messages": 23
+        },
+        {
+          "channel": "shipping-tracking",
+          "messages": 21
+        },
+        {
+          "channel": "db-platform-yugabyte-alerts-prod",
+          "messages": 16
+        },
+        {
+          "channel": "inv-21141-increased-catalog-rpcs-pgrange-and-pgrang",
+          "messages": 15
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20259-yugabyte-node-root-volume-usage",
+          "messages": 8
+        },
+        {
+          "channel": "db-platform-yugabyte-alerts-staging",
+          "messages": 5
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 4
+        },
+        {
+          "channel": "river-jmee",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "brandon.mcnama",
+          "count": 6
+        },
+        {
+          "user": "jeffrey.bian",
+          "count": 6
+        },
+        {
+          "user": "max.giraldo",
+          "count": 2
+        },
+        {
+          "user": "carine.araujo",
+          "count": 2
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 2
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        },
+        {
+          "user": "siraj.ali",
+          "count": 1
+        },
+        {
+          "user": "julian.dong",
+          "count": 1
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "fernando.aguasvivas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 18,
+      "23": 21,
+      "22": 19,
+      "21": 27,
+      "20": 20,
+      "19": 19,
+      "18": 4,
+      "15": 12,
+      "14": 20,
+      "17": 10,
+      "0": 6
+    },
+    "by_day": {
+      "Wednesday": 35,
+      "Tuesday": 54,
+      "Monday": 21,
+      "Friday": 49,
+      "Thursday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.6,
+    "dept_average_30d": 5.75,
+    "dept_rank": 185,
+    "dept_size": 357
+  }
+}

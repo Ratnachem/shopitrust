@@ -1,0 +1,281 @@
+{
+  "username": "josh.davey",
+  "name": "Josh Davey",
+  "generated_at": "2026-04-08T20:22:07.927703",
+  "summary": {
+    "message_count": 244,
+    "channels_active": 31,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 49,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes. Ship it. Thank you and enjoy!",
+          "channel": "proj-datasharing-activity-log",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "nailed it. thank you",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I kept trying to diagram the importance of Buyer Profile feature freshness, but no single diagram could capture it \u2014 you really need to see it in the",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Aligned that we need data-processor classification. Let me know if I can help in anyway, but this seems straightforward.",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Aligned that we need data-processor classification. Let me know if I can help in anyway, but this seems straightforward.",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U09CHL1N9F1> thank you so much for keeping an eye on this. This is exactly the type of monitoring we need. \n\nHow did you notice the decline?",
+          "channel": "proj-pixel-data-sharing-controls",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "hi - yea, I can help. <@U037JSSHMU6> are you the one to connect with on the Autopilot side?",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome work <@W0199R1G46S>. thank you!",
+          "channel": "proj-pixel-data-sharing-controls",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "why didn't you",
+          "text": "<@U0AEPQCKB3M> why didn't you consider optimizing duplicate logic?",
+          "channel": "help-web-pixels",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "right, so if we don't need to de-dupe Autopilot conversions, doesn't that simplify things? Autopilot is not a channel. Marketing activities are just",
+          "channel": "proj-autopilot-reporting",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "on request to a new online store we want to do the following:\n\n1. look up a UBID for the new shopify_y that matches historical shopify_ys\n2. look up",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U028ETRCVL5> one direction is to use your thinking around how to report on AdRoll, which is essentially the same thing as Autopilot. Another",
+          "channel": "proj-autopilot-ux-pillar",
+          "timestamp": "2026-03-09"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "said.madi",
+          "count": 6
+        },
+        {
+          "user": "day.levesque",
+          "count": 4
+        },
+        {
+          "user": "laura.idziszek",
+          "count": 3
+        },
+        {
+          "user": "judah.okwuobi",
+          "count": 3
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 3
+        },
+        {
+          "user": "alexander.cecil",
+          "count": 3
+        },
+        {
+          "user": "sophie.orta",
+          "count": 3
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 3
+        },
+        {
+          "user": "eric.liang",
+          "count": 2
+        },
+        {
+          "user": "emile.bergeron",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.11,
+      "count": 349,
+      "top_channels": [
+        {
+          "channel": "proj-pixel-data-sharing-controls",
+          "messages": 41
+        },
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 31
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 19
+        },
+        {
+          "channel": "proj-autopilot-reporting",
+          "messages": 17
+        },
+        {
+          "channel": "proj-customer-events-server-pixels-migration",
+          "messages": 13
+        },
+        {
+          "channel": "proj-product-interaction-events",
+          "messages": 12
+        },
+        {
+          "channel": "proj-autopilot",
+          "messages": 11
+        },
+        {
+          "channel": "proj-datasharing-activity-log",
+          "messages": 10
+        },
+        {
+          "channel": "s26-editions-merchant-marketing",
+          "messages": 8
+        },
+        {
+          "channel": "proj-server-pixels-identity-graph-exp",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 134,
+      "top_mentioners": [
+        {
+          "user": "benjamin.destrempes",
+          "count": 17
+        },
+        {
+          "user": "said.madi",
+          "count": 17
+        },
+        {
+          "user": "leigh.greenway",
+          "count": 11
+        },
+        {
+          "user": "ash.charles",
+          "count": 7
+        },
+        {
+          "user": "susan.du",
+          "count": 5
+        },
+        {
+          "user": "madie.cyr",
+          "count": 4
+        },
+        {
+          "user": "taralyn.wohlfeld",
+          "count": 4
+        },
+        {
+          "user": "lukas.neicelis",
+          "count": 4
+        },
+        {
+          "user": "natasha.lacasse",
+          "count": 4
+        },
+        {
+          "user": "day.levesque",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "17": 34,
+      "16": 44,
+      "15": 36,
+      "3": 7,
+      "2": 7,
+      "19": 20,
+      "20": 18,
+      "14": 33,
+      "1": 2,
+      "0": 2,
+      "22": 1,
+      "11": 1,
+      "5": 1,
+      "21": 12,
+      "13": 7,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 55,
+      "Monday": 35,
+      "Friday": 16,
+      "Thursday": 57
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.29,
+    "dept_average_30d": 5.77,
+    "dept_rank": 185,
+    "dept_size": 885
+  }
+}

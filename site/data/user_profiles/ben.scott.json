@@ -1,0 +1,259 @@
+{
+  "username": "ben.scott",
+  "name": "Ben Scott",
+  "generated_at": "2026-04-08T20:22:10.878407",
+  "summary": {
+    "message_count": 591,
+    "channels_active": 28,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.0,
+      "pos_count": 5,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing, thank you. appreciate you just finding the time to get it done.",
+          "channel": "checkout-web-perf",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, thank you. appreciate you just finding the time to get it done.",
+          "channel": "checkout-web-perf",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "For review: Simplifying some tsconfigs thanks to the new defaults in ts6: <https://github.com/shop/world/pull/548204>\n(<@U03B2MMBTAP> was taking too",
+          "channel": "checkout-web-infra-workstream",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U06H6NSPB97>: worker deploys happing in 2mins for the whole pipeline - that now consists of a single step - is amazing work!",
+          "channel": "checkout-web-infra-workstream",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "```\u276f regarding your initial context - how much does each file take up?\n\n\u23fa Bash(BASE=/Users/ben/world/trees/root/src/areas/clients/checkout-web\n     ",
+          "channel": "checkout-web-agentic",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> CHANGELOG entries are for user-facing changes. we don't need to describe internal reactors as they have no bearing on users of a",
+          "channel": "checkout-web-foundations-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "atm in checkout I've taken that to mean: we'll author our zone-specific skills in .claude/skills/WHATEVER, and they live alongside any symlinks (that",
+          "channel": "proj-admin-web-agentic-tooling",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> can you run `devx ci trigger` on commits? I thought devx was a wrapper around tec, and thus you should have access to the ci commnad?",
+          "channel": "checkout-web-foundations-river",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U0AEPQCKB3M> Read the context on <https://github.com/shop/issues/issues/9027> and the linked slack threads and incidents.\nEdgeMesh is rewriting",
+          "channel": "checkout-web-foundations-river",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 36,
+      "top_mentioned": [
+        {
+          "user": "louis.vancraen",
+          "count": 13
+        },
+        {
+          "user": "alex.salisbury",
+          "count": 12
+        },
+        {
+          "user": "christian.indra",
+          "count": 6
+        },
+        {
+          "user": "caroline.song",
+          "count": 6
+        },
+        {
+          "user": "victor.sumner",
+          "count": 6
+        },
+        {
+          "user": "patrick.douglas",
+          "count": 3
+        },
+        {
+          "user": "alessandro.dalgrande",
+          "count": 3
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 3
+        },
+        {
+          "user": "jesse.noseworthy",
+          "count": 2
+        },
+        {
+          "user": "jeanloup.trolliard",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.78,
+      "count": 279,
+      "top_channels": [
+        {
+          "channel": "checkout-web-foundations-river",
+          "messages": 266
+        },
+        {
+          "channel": "checkout-web-infra-workstream",
+          "messages": 55
+        },
+        {
+          "channel": "checkout-web-agentic",
+          "messages": 48
+        },
+        {
+          "channel": "checkout-web-foundations",
+          "messages": 46
+        },
+        {
+          "channel": "checkout-experience",
+          "messages": 33
+        },
+        {
+          "channel": "checkout-web-perf",
+          "messages": 30
+        },
+        {
+          "channel": "river",
+          "messages": 24
+        },
+        {
+          "channel": "inv-20597-continued-failures-in-post-deploy-steps-f",
+          "messages": 11
+        },
+        {
+          "channel": "advanced-checkout-experiences",
+          "messages": 8
+        },
+        {
+          "channel": "help-exp",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.27,
+      "count": 65,
+      "top_mentioners": [
+        {
+          "user": "christian.indra",
+          "count": 11
+        },
+        {
+          "user": "alex.salisbury",
+          "count": 8
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 6
+        },
+        {
+          "user": "caroline.song",
+          "count": 4
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 4
+        },
+        {
+          "user": "louis.vancraen",
+          "count": 4
+        },
+        {
+          "user": "evan.brodie",
+          "count": 3
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 3
+        },
+        {
+          "user": "yoav.weiss",
+          "count": 2
+        },
+        {
+          "user": "chris.sauve",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 67,
+      "17": 58,
+      "5": 8,
+      "4": 5,
+      "2": 20,
+      "1": 28,
+      "0": 46,
+      "22": 39,
+      "21": 79,
+      "20": 57,
+      "15": 36,
+      "23": 24,
+      "19": 73,
+      "16": 16,
+      "3": 7,
+      "14": 28
+    },
+    "by_day": {
+      "Wednesday": 169,
+      "Tuesday": 92,
+      "Monday": 82,
+      "Friday": 61,
+      "Thursday": 187
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.39,
+    "dept_average_30d": 5.79,
+    "dept_rank": 18,
+    "dept_size": 1233
+  }
+}

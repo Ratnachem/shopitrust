@@ -1,0 +1,272 @@
+{
+  "username": "austen.novis",
+  "name": "Austen Novis",
+  "generated_at": "2026-04-08T20:22:17.189902",
+  "summary": {
+    "message_count": 352,
+    "channels_active": 13,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!subteam^S039PPS355F> Thank you everyone for attending the earlier call on unifying decision rules with pre auth rules. I added a summary section to",
+          "channel": "pp-proj-managed-risk",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<!subteam^S039PPS355F> Thank you everyone for attending the earlier call on unifying decision rules with pre auth rules. I added a summary section to",
+          "channel": "pp-proj-managed-risk",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah ok. That makes sense. Thank you",
+          "channel": "buyer-risk-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U07L9NFV59T>!",
+          "channel": "buyer-risk-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "i know we wanted to get on a cadence for posts to <#C08CQCZKX7T>\n\nhere is a draft post. let me know if this summarizes recent work and if we want to",
+          "channel": "auth-rate-champions",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! it seems that there should be a firewall rule already covering my case. i am adding one more change to my client code to see if that",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Do we have the decision rule tasks written out yet. Happy to help on that since I haven't worked on that area yet. \n\n<@W01B237REV6> I can also help",
+          "channel": "pp-proj-managed-risk",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "we have done a lot of recent changes, ongoing ressearch, and planned next steps so figured it may be useful to have a central hub to document and",
+          "channel": "auth-rate-champions",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "great work. super interesting findings",
+          "channel": "auth-rate-champions",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you. i am trying to make a call to an ILB, but it is failing on mtls. Another team is making a similar call and are using this cert loader",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yeah. i am feeling same way. whatever i am thinking i just deploy with a flag in case it is something we want since the alternative is waiting 3 days",
+          "channel": "buyer-risk-team",
+          "timestamp": "2026-04-06"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "eugene.chae",
+          "count": 17
+        },
+        {
+          "user": "daisy.li",
+          "count": 15
+        },
+        {
+          "user": "michal.malecki",
+          "count": 15
+        },
+        {
+          "user": "rose.robertson",
+          "count": 11
+        },
+        {
+          "user": "xiaoxiao.li",
+          "count": 7
+        },
+        {
+          "user": "nicola.lochead",
+          "count": 5
+        },
+        {
+          "user": "gabriel.magill",
+          "count": 5
+        },
+        {
+          "user": "arinze.okeke",
+          "count": 3
+        },
+        {
+          "user": "giorgos.logiotatidis",
+          "count": 3
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.45,
+      "count": 91,
+      "top_channels": [
+        {
+          "channel": "buyer-risk-team",
+          "messages": 152
+        },
+        {
+          "channel": "auth-rate-champions",
+          "messages": 96
+        },
+        {
+          "channel": "pp-proj-managed-risk",
+          "messages": 28
+        },
+        {
+          "channel": "risk-exceptions",
+          "messages": 20
+        },
+        {
+          "channel": "proj-model-based-routing-on-sp",
+          "messages": 16
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 11
+        },
+        {
+          "channel": "buyer-risk-ds-exceptions",
+          "messages": 9
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 7
+        },
+        {
+          "channel": "merchant-fraud-risk-data-alerts",
+          "messages": 4
+        },
+        {
+          "channel": "ms-real-time-model-serving-layer",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.9,
+      "count": 71,
+      "top_mentioners": [
+        {
+          "user": "eugene.chae",
+          "count": 12
+        },
+        {
+          "user": "michal.malecki",
+          "count": 11
+        },
+        {
+          "user": "rose.robertson",
+          "count": 9
+        },
+        {
+          "user": "daisy.li",
+          "count": 8
+        },
+        {
+          "user": "nuno.silva",
+          "count": 5
+        },
+        {
+          "user": "xiaoxiao.li",
+          "count": 5
+        },
+        {
+          "user": "gabriel.magill",
+          "count": 5
+        },
+        {
+          "user": "nicola.lochead",
+          "count": 5
+        },
+        {
+          "user": "giorgos.logiotatidis",
+          "count": 3
+        },
+        {
+          "user": "eric.lybrand",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 43,
+      "16": 35,
+      "14": 68,
+      "13": 25,
+      "12": 16,
+      "19": 20,
+      "18": 30,
+      "15": 47,
+      "11": 2,
+      "1": 4,
+      "21": 13,
+      "20": 36,
+      "22": 8,
+      "0": 3,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 69,
+      "Monday": 62,
+      "Friday": 76,
+      "Thursday": 86
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.35,
+    "dept_average_30d": 5.77,
+    "dept_rank": 603,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "username": "matt.eman",
+  "name": "Matt Eman",
+  "generated_at": "2026-04-08T20:22:26.635948",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U094PAX13DY> Enablement via the experiments dashboard is in - let me know if it works?",
+          "channel": "de-support",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hey <@U094PAX13DY> - I can see that the scraper is running on the page but not picking up any of the products. As I look at the categories page",
+          "channel": "de-support",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I am unfamiliar w/ that theme you purchased, so without looking at it directly I can't be sure exactly where to render it/include it. If you can't",
+          "channel": "de-support",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If you look at my demo's <https://github.com/shopify-playground/de-opp-lululemon/blob/main/theme/snippets/collection-breadcrumbs.liquid|repo file",
+          "channel": "de-support",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "amanda.sannella",
+          "count": 6
+        },
+        {
+          "user": "truman.lahr",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.92,
+      "count": 77,
+      "top_channels": [
+        {
+          "channel": "de-support",
+          "messages": 13
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "se-ocial-engineering",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "amanda.sannella",
+          "count": 2
+        },
+        {
+          "user": "truman.lahr",
+          "count": 1
+        },
+        {
+          "user": "christopher.joannou",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 1,
+      "16": 11,
+      "15": 2,
+      "20": 2
+    },
+    "by_day": {
+      "Tuesday": 1,
+      "Monday": 5,
+      "Friday": 9,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.43,
+    "dept_average_30d": 4.32,
+    "dept_rank": 336,
+    "dept_size": 848
+  }
+}

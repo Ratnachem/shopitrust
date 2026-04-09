@@ -1,0 +1,289 @@
+{
+  "username": "brandon.fonseca",
+  "name": "Brandon Fonseca",
+  "generated_at": "2026-04-08T20:22:14.031767",
+  "summary": {
+    "message_count": 619,
+    "channels_active": 20,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.3,
+      "pos_count": 28,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<!subteam^S0AAH25CU69> A <https://github.com/Shopify/shop-client/pull/99434|small PR> I need to get into this release to fix an eventing issue on the",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W019G1LB5U3> I have a <https://github.com/Shopify/shop-client/pull/99434|release gating PR> I'm about to put up, thanks! Update: Shipping now",
+          "channel": "shop-mobile",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<!subteam^S0AAH25CU69> <https://app.graphite.com/github/pr/Shopify/shop-client/99308|Small PR> to further update the persona creation modal per",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! Would it be possible to turn down temp in 13-115 Toronto port? Thanks!",
+          "channel": "help-ports",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<!subteam^S0AAH25CU69> Two PRs are ready for review, thank you!\n\n<https://github.com/Shopify/shop-client/pull/99128|This PR> adds support for",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I scheduled a meeting for us at 3:30 p.m. let me know if that doesn't work for anyone or if we'd prefer to move it to next week.",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I prepared a short video to align us on the Personas work and the proposed technical solution. Please give it a watch, thanks!\n\ncc <@W018PSXUAUC>",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Seems like I've missed an exciting past couple days. Anyways, I'm back now, and I had Claude catch me up. I'll be focusing on personas, but let me",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing!!!!",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Heads up that the E2E Vault project has officially been approved to `Done` on Vault! Great work folks!! cc <@W018PSXUAUC>",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For the brand new creation case I agree it can be handled in the resolver. But for the case where the agent has a persona in mind and it asks you to",
+          "channel": "proj-shop-agent-personas",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said otherwise we can just do it on the client, it wouldn't be too bad tbh ",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Let's just make sure whatever we do doesn't put things in a broken state if the work isn't caught up.\n\nLike I think the flow probably needs to be the",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "nikita.ali",
+          "count": 24
+        },
+        {
+          "user": "daniel.weng",
+          "count": 24
+        },
+        {
+          "user": "ben.eichler",
+          "count": 21
+        },
+        {
+          "user": "vitor.correa",
+          "count": 15
+        },
+        {
+          "user": "avi.swerdlow",
+          "count": 13
+        },
+        {
+          "user": "julian.kelly",
+          "count": 12
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 11
+        },
+        {
+          "user": "adam.duncan",
+          "count": 11
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 7
+        },
+        {
+          "user": "mitchell.soares",
+          "count": 7
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.4,
+      "count": 206,
+      "top_channels": [
+        {
+          "channel": "shop-agentic-search",
+          "messages": 188
+        },
+        {
+          "channel": "shop-agent-eng",
+          "messages": 187
+        },
+        {
+          "channel": "proj-shopkick",
+          "messages": 72
+        },
+        {
+          "channel": "proj-shop-agent-personas",
+          "messages": 69
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 51
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 7
+        },
+        {
+          "channel": "shop-web",
+          "messages": 6
+        },
+        {
+          "channel": "help-exp",
+          "messages": 6
+        },
+        {
+          "channel": "shop-agentic-search-bots",
+          "messages": 6
+        },
+        {
+          "channel": "help-network",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "mitchell.soares",
+          "count": 13
+        },
+        {
+          "user": "lorenzo.sciandra",
+          "count": 8
+        },
+        {
+          "user": "nikita.ali",
+          "count": 6
+        },
+        {
+          "user": "daniel.weng",
+          "count": 4
+        },
+        {
+          "user": "ben.eichler",
+          "count": 4
+        },
+        {
+          "user": "vitor.correa",
+          "count": 4
+        },
+        {
+          "user": "adam.duncan",
+          "count": 3
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 3
+        },
+        {
+          "user": "jason.kim",
+          "count": 3
+        },
+        {
+          "user": "enrico.telesca",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 64,
+      "16": 72,
+      "15": 75,
+      "14": 76,
+      "13": 33,
+      "4": 2,
+      "22": 51,
+      "21": 64,
+      "20": 44,
+      "19": 46,
+      "17": 62,
+      "1": 4,
+      "12": 1,
+      "9": 3,
+      "0": 8,
+      "23": 11,
+      "2": 2,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 119,
+      "Tuesday": 110,
+      "Monday": 104,
+      "Thursday": 212,
+      "Friday": 74
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.68,
+    "dept_average_30d": 5.86,
+    "dept_rank": 22,
+    "dept_size": 166
+  }
+}

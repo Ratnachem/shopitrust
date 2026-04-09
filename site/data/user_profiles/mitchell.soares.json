@@ -1,0 +1,322 @@
+{
+  "username": "mitchell.soares",
+  "name": "Mitchell Soares",
+  "generated_at": "2026-04-08T20:22:11.986611",
+  "summary": {
+    "message_count": 1341,
+    "channels_active": 31,
+    "unique_people_mentioned": 42,
+    "unique_mentioners": 38,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Looks good, thank you!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing thank u",
+          "channel": "help-exp",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Have tested and the content from my pr looks good, thanks!",
+          "channel": "shop-mobile",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Had this silenced, will continue to silence until we're at 100% my bad!",
+          "channel": "shop-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad thanks Brett",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it thank u!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Okay amazing! so to get this setup, would the exp team just add the group to the flag?",
+          "channel": "help-exp",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "oh amazing, yea let me know when its good to go",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "shop-mobile",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if u still see this",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "okay also, my device is on android 10 which seems very outdated? it says my security patch level (whatever that means) is `September 1, 2020`",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "no worries! sorry i didnt raise this earlier haha\ni think the use case is _slightly_ different but think either way we should use this approach for",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "it just builds it at whatever the code was at the moment",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yes we have code in whats called the `template`  of the feed on the BE where we can use signals available to change the output based on it\nthen the",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "nice, yea its also very easy for us to make this content dynamic based on some conditions (ex. someone has some threshold of convos, show them more",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Okay so it seems like from the table there are ways to parse what we need from the eventing but we just need to adjust a few payloads, if thats the",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yea we just need to map whatever models currently rely on the bespoke typeahead eventing from before to use this",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "New analysis\n\n``` Updated Incident Summary\n\n  Quick search card silently stopped appearing ~12:25 UTC. No errors, no exceptions \u2014 the backend simply",
+          "channel": "inc-19907-quick-search-broken-in-agent-prod",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 44,
+      "top_mentioned": [
+        {
+          "user": "nikita.ali",
+          "count": 27
+        },
+        {
+          "user": "avi.swerdlow",
+          "count": 20
+        },
+        {
+          "user": "albert.lee",
+          "count": 18
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 15
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 13
+        },
+        {
+          "user": "brandon.fonseca",
+          "count": 13
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 13
+        },
+        {
+          "user": "julian.kelly",
+          "count": 11
+        },
+        {
+          "user": "daniel.weng",
+          "count": 10
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 7
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.09,
+      "count": 348,
+      "top_channels": [
+        {
+          "channel": "shop-agent-eng",
+          "messages": 469
+        },
+        {
+          "channel": "shop-agentic-search",
+          "messages": 433
+        },
+        {
+          "channel": "inc-19907-quick-search-broken-in-agent-prod",
+          "messages": 123
+        },
+        {
+          "channel": "proj-shopkick",
+          "messages": 56
+        },
+        {
+          "channel": "shop-alerts",
+          "messages": 50
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 39
+        },
+        {
+          "channel": "help-exp",
+          "messages": 36
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 31
+        },
+        {
+          "channel": "shop-agentic-search-bots",
+          "messages": 16
+        },
+        {
+          "channel": "shop-feed",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 127,
+      "top_mentioners": [
+        {
+          "user": "andrew.rhyne",
+          "count": 13
+        },
+        {
+          "user": "lorenzo.sciandra",
+          "count": 12
+        },
+        {
+          "user": "nikita.ali",
+          "count": 12
+        },
+        {
+          "user": "adam.duncan",
+          "count": 9
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 7
+        },
+        {
+          "user": "brandon.fonseca",
+          "count": 7
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 5
+        },
+        {
+          "user": "jared.rader",
+          "count": 4
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 4
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 136,
+      "15": 171,
+      "14": 139,
+      "13": 173,
+      "12": 73,
+      "22": 41,
+      "21": 134,
+      "20": 88,
+      "19": 70,
+      "17": 98,
+      "16": 157,
+      "23": 38,
+      "1": 2,
+      "0": 17,
+      "2": 2,
+      "3": 2
+    },
+    "by_day": {
+      "Wednesday": 355,
+      "Tuesday": 477,
+      "Monday": 217,
+      "Friday": 117,
+      "Thursday": 175
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.89,
+    "dept_average_30d": 5.86,
+    "dept_rank": 8,
+    "dept_size": 166
+  }
+}

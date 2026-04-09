@@ -1,0 +1,278 @@
+{
+  "username": "aaron.zhang",
+  "name": "Aaron Zhang",
+  "generated_at": "2026-04-08T20:22:16.177854",
+  "summary": {
+    "message_count": 447,
+    "channels_active": 20,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to suspend EU as well?",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Could you link the deploy? I can help keep an eye on it and re-trigger again if needed. That way I don't have to bother you further",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U04GVRS4UET> don't think your PR deployed, want me to re run shipit?",
+          "channel": "inc-20469-keycommittoolarge-on-metafields-dimension",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok thank you!",
+          "channel": "reportify-etl",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok I'll keep an eye on it then. Thank you!",
+          "channel": "reportify-etl-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok thank you! I'm just verifying some yugabyte PKs for the model and wondering whether the date timestamp is needed for uniqueness",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi team, does anyone know who owns the model: currency_conversion_rate_facts? git log shows Wendy, did anyone take over this one or knows about",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it thank you!",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Hi team getting an exception from QE connector, claude can't figure it out, anyone have suggestions?\n```java.io.IOException: Failed to deserialize",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "vanessa.vuibert",
+          "count": 5
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 4
+        },
+        {
+          "user": "michael.terranova",
+          "count": 3
+        },
+        {
+          "user": "yifan.ye",
+          "count": 3
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 2
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "joshua.kim",
+          "count": 2
+        },
+        {
+          "user": "trideep.roy",
+          "count": 2
+        },
+        {
+          "user": "james.kan",
+          "count": 2
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.66,
+      "count": 325,
+      "top_channels": [
+        {
+          "channel": "inc-20469-keycommittoolarge-on-metafields-dimension",
+          "messages": 107
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 93
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 83
+        },
+        {
+          "channel": "aaronz-river",
+          "messages": 50
+        },
+        {
+          "channel": "reportify-etl-ops",
+          "messages": 34
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 16
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 15
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 11
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 8
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "vanessa.vuibert",
+          "count": 7
+        },
+        {
+          "user": "trideep.roy",
+          "count": 7
+        },
+        {
+          "user": "yifan.ye",
+          "count": 6
+        },
+        {
+          "user": "joshua.kim",
+          "count": 3
+        },
+        {
+          "user": "steven.lee",
+          "count": 2
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 2
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 2
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 2
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 1
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 57,
+      "16": 33,
+      "15": 61,
+      "14": 51,
+      "13": 9,
+      "22": 23,
+      "21": 42,
+      "20": 40,
+      "19": 47,
+      "18": 25,
+      "12": 4,
+      "3": 7,
+      "2": 7,
+      "23": 9,
+      "9": 1,
+      "8": 2,
+      "4": 16,
+      "5": 9,
+      "11": 2,
+      "0": 1,
+      "7": 1
+    },
+    "by_day": {
+      "Wednesday": 121,
+      "Tuesday": 125,
+      "Monday": 55,
+      "Friday": 41,
+      "Thursday": 105
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.08,
+    "dept_average_30d": 5.79,
+    "dept_rank": 969,
+    "dept_size": 1233
+  }
+}

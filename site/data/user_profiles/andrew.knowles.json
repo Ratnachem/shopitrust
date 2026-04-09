@@ -1,0 +1,245 @@
+{
+  "username": "andrew.knowles",
+  "name": "Andrew Knowles",
+  "generated_at": "2026-04-08T20:22:22.674105",
+  "summary": {
+    "message_count": 526,
+    "channels_active": 32,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "team-ci",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02DE5HNA05> feel free to spam my calendar next week so we can get this shipped. Have a nice weekend everyone! Excellent work and discoveries!",
+          "channel": "tmp-reversible-maintenance-tasks",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> monitor my prs for bad builds. Use whatever buildkite token necessary to get access. Use your memory.",
+          "channel": "tmp-river-playground",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> once you figure it out store the golden algo in your memories that always get loaded so you know how to dev up dev test",
+          "channel": "tmp-river-playground",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I use it a ton, but I miss my MCP servers, direct access to buildkite without ceremony. Give me direct CLI access to whatever river runs in and I'd",
+          "channel": "developers-talk",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm getting river to <https://shopify.slack.com/archives/C09RVUXB41K/p1773150001861049|grind> through them with a consolidated CI run, which might",
+          "channel": "proj-yugabyte-migration-orders-and-returns",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "<@U0AEPQCKB3M> a cold run of tapioca literally takes minutes, that's your target",
+          "channel": "tmp-river-playground",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "reuben.sutton",
+          "count": 7
+        },
+        {
+          "user": "joel.rubio",
+          "count": 7
+        },
+        {
+          "user": "emilie.noel",
+          "count": 6
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "sean.moranrichards",
+          "count": 3
+        },
+        {
+          "user": "aliya.mohamed",
+          "count": 3
+        },
+        {
+          "user": "muna.rahman",
+          "count": 2
+        },
+        {
+          "user": "gale.shafer",
+          "count": 2
+        },
+        {
+          "user": "rohit.c.sharma",
+          "count": 2
+        },
+        {
+          "user": "shaan.suthar",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.26,
+      "count": 304,
+      "top_channels": [
+        {
+          "channel": "proj-yugabyte-migration-orders-and-returns",
+          "messages": 129
+        },
+        {
+          "channel": "tmp-river-playground",
+          "messages": 128
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 45
+        },
+        {
+          "channel": "draft-orders-exceptions",
+          "messages": 38
+        },
+        {
+          "channel": "tmp-reversible-maintenance-tasks",
+          "messages": 31
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 28
+        },
+        {
+          "channel": "draft-orders-dev",
+          "messages": 18
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 15
+        },
+        {
+          "channel": "help-draft-orders",
+          "messages": 11
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "emilie.noel",
+          "count": 8
+        },
+        {
+          "user": "sean.moranrichards",
+          "count": 5
+        },
+        {
+          "user": "mike.guterl",
+          "count": 4
+        },
+        {
+          "user": "nuno.silva",
+          "count": 3
+        },
+        {
+          "user": "reuben.sutton",
+          "count": 3
+        },
+        {
+          "user": "ignacio.chiazzo",
+          "count": 2
+        },
+        {
+          "user": "gale.shafer",
+          "count": 2
+        },
+        {
+          "user": "joel.rubio",
+          "count": 2
+        },
+        {
+          "user": "scott.plybon",
+          "count": 2
+        },
+        {
+          "user": "renxia.wang",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 49,
+      "13": 39,
+      "11": 25,
+      "20": 65,
+      "16": 78,
+      "1": 20,
+      "23": 9,
+      "22": 12,
+      "21": 33,
+      "18": 40,
+      "17": 29,
+      "14": 47,
+      "2": 2,
+      "19": 70,
+      "12": 4,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 148,
+      "Tuesday": 130,
+      "Friday": 73,
+      "Thursday": 128,
+      "Monday": 47
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 7.97,
+    "dept_average_30d": 5.79,
+    "dept_rank": 61,
+    "dept_size": 1233
+  }
+}

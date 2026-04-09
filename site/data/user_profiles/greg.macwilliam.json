@@ -1,0 +1,250 @@
+{
+  "username": "greg.macwilliam",
+  "name": "Greg MacWilliam",
+  "generated_at": "2026-04-08T20:22:09.768817",
+  "summary": {
+    "message_count": 592,
+    "channels_active": 22,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.4,
+      "pos_count": 4,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Just flatten yours down to a single commit and cherry-pick it onto the base branch",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm on ATC the whole week, feel free to stop back with other questions.",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "<@U0AEPQCKB3M> but wait, errors prior to <https://github.com/shop/world/pull/463522> would have a raised an UnauthorizedObject exception, right? We",
+          "channel": "inv-20498-core-deployment-23rd-march-728-prs",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Whoa, that'd be amazing to define return types. My one note would be to make sure to feed all the usage to Claude and tell it to update the breadth",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> I am on the API platform team. We want to close this as minimally as possible. Here's what I care about and how we should proceed:\n\u2022",
+          "channel": "river-api-foundations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Based on rollout experiences, we should also probably start with pod 21/55 rollout targets up to at least 50% before trying 1% on all shops. That'd",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Okay, I've spent the entire afternoon pumping the claude skill full of every bit of training I can think of for connections:",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I mean, I don't care that much. I was just trying to boost our numbers to buy some headspace. Doing it right is certainly better than doing it",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "jonathan.j.chang",
+          "count": 7
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 5
+        },
+        {
+          "user": "jonathan.baker",
+          "count": 4
+        },
+        {
+          "user": "jordan.verasamy",
+          "count": 4
+        },
+        {
+          "user": "adam.macdonald",
+          "count": 2
+        },
+        {
+          "user": "sam.killgallon",
+          "count": 2
+        },
+        {
+          "user": "allan.calix",
+          "count": 2
+        },
+        {
+          "user": "martin.samson",
+          "count": 2
+        },
+        {
+          "user": "scott.walkinshaw",
+          "count": 2
+        },
+        {
+          "user": "marcelo.mottalli",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.65,
+      "count": 272,
+      "top_channels": [
+        {
+          "channel": "proj-breadth-first-exec",
+          "messages": 359
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 98
+        },
+        {
+          "channel": "river-api-foundations",
+          "messages": 40
+        },
+        {
+          "channel": "inv-20498-core-deployment-23rd-march-728-prs",
+          "messages": 12
+        },
+        {
+          "channel": "s-foundations-apis-alerts",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20830-investigating-graphql-errors-seen-in-core",
+          "messages": 11
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 8
+        },
+        {
+          "channel": "promise-dev-ops",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20566-core-deploy---nomethoderror-productvarian",
+          "messages": 6
+        },
+        {
+          "channel": "inc-20547-amazon-mcf-getting-internal-server-errors",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.58,
+      "count": 68,
+      "top_mentioners": [
+        {
+          "user": "scott.walkinshaw",
+          "count": 11
+        },
+        {
+          "user": "jonathan.baker",
+          "count": 6
+        },
+        {
+          "user": "jordan.verasamy",
+          "count": 4
+        },
+        {
+          "user": "carlos.pereira",
+          "count": 4
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 3
+        },
+        {
+          "user": "guilherme.vieira",
+          "count": 3
+        },
+        {
+          "user": "jonathan.j.chang",
+          "count": 2
+        },
+        {
+          "user": "colin.gray",
+          "count": 2
+        },
+        {
+          "user": "george.zanetti",
+          "count": 2
+        },
+        {
+          "user": "richard.vining",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 72,
+      "17": 49,
+      "16": 82,
+      "15": 72,
+      "0": 2,
+      "12": 25,
+      "13": 67,
+      "11": 5,
+      "22": 4,
+      "20": 41,
+      "14": 72,
+      "19": 70,
+      "1": 1,
+      "21": 30
+    },
+    "by_day": {
+      "Wednesday": 178,
+      "Tuesday": 124,
+      "Monday": 99,
+      "Thursday": 89,
+      "Friday": 102
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.97,
+    "dept_average_30d": 5.79,
+    "dept_rank": 34,
+    "dept_size": 1233
+  }
+}

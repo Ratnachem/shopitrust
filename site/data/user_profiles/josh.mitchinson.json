@@ -1,0 +1,113 @@
+{
+  "username": "josh.mitchinson",
+  "name": "Josh Mitchinson",
+  "generated_at": "2026-04-08T20:22:31.858033",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Just came through in slack thank you William! Still no email or anything! Question for you, is there anyway to see if there \"unclaimed\" shop cash",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "william.wallace",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.13,
+      "count": 109,
+      "top_channels": [
+        {
+          "channel": "help-shop-cash",
+          "messages": 4
+        },
+        {
+          "channel": "proj-no-ttp-quicksale",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.88,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "andy.chimicles",
+          "count": 2
+        },
+        {
+          "user": "brian.glick",
+          "count": 1
+        },
+        {
+          "user": "jack.read",
+          "count": 1
+        },
+        {
+          "user": "alan.masarsky",
+          "count": 1
+        },
+        {
+          "user": "jon.rundle",
+          "count": 1
+        },
+        {
+          "user": "katarina.batina",
+          "count": 1
+        },
+        {
+          "user": "derek.wu",
+          "count": 1
+        },
+        {
+          "user": "lucia.cedron",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 2,
+      "17": 3,
+      "15": 2
+    },
+    "by_day": {
+      "Thursday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.19,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1181,
+    "dept_size": 1233
+  }
+}

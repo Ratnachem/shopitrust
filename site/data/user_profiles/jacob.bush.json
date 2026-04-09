@@ -1,0 +1,264 @@
+{
+  "username": "jacob.bush",
+  "name": "Jacob Bush",
+  "generated_at": "2026-04-08T20:22:07.224522",
+  "summary": {
+    "message_count": 295,
+    "channels_active": 24,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Any way I can help to get this PR merged?",
+          "channel": "tectonix",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": ":wave: I need a codeowner review from application-infrastructure on this PR\n<https://github.com/Shopify/infra-central/pull/20287>\nIf someone has time",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing that works! :tada:",
+          "channel": "tectonix",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Give me a few minutes to put up a PR\nSorry about that",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad -- didn't realize I needed to unschedule them as well",
+          "channel": "data-platform-tools-notify",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: Feel free to mute, this will probably become a fairly noisy channel",
+          "channel": "data-platform-tools-release-notifications",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "If you don't care about git history you can migrate piecemeal",
+          "channel": "data-monorepo-migration",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Yeah that would be ideal -- I would love to just point it at the zone.nix file and have it figure it out for me",
+          "channel": "tectonix",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For context: python packages less than 7 days old are blocked as part of this <#C0APSMWF6NM>\nAnd cloudsmith, for whatever reason, does not include",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Oh even weirder that's the interim loaders\nWhatever, I've paused it\nWe should properly archive the repo at some point",
+          "channel": "data-platform-tools-notify",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "anthony.tasca",
+          "count": 5
+        },
+        {
+          "user": "alankrit.joshi",
+          "count": 4
+        },
+        {
+          "user": "marc.laforet",
+          "count": 4
+        },
+        {
+          "user": "alex.djordjevic",
+          "count": 1
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 1
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 1
+        },
+        {
+          "user": "siqi.fang",
+          "count": 1
+        },
+        {
+          "user": "virag.khara",
+          "count": 1
+        },
+        {
+          "user": "daniel.cole",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.28,
+      "count": 305,
+      "top_channels": [
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 79
+        },
+        {
+          "channel": "tectonix",
+          "messages": 27
+        },
+        {
+          "channel": "data-platform-tools-notify",
+          "messages": 23
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 23
+        },
+        {
+          "channel": "proj-data-platform-data-discovery",
+          "messages": 20
+        },
+        {
+          "channel": "data-platform-tools-release-notifications",
+          "messages": 18
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 16
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 16
+        },
+        {
+          "channel": "pi",
+          "messages": 15
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "siqi.fang",
+          "count": 5
+        },
+        {
+          "user": "lily.foster",
+          "count": 4
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 4
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 3
+        },
+        {
+          "user": "sana.asghar",
+          "count": 3
+        },
+        {
+          "user": "anthony.tasca",
+          "count": 3
+        },
+        {
+          "user": "ashley.williams",
+          "count": 2
+        },
+        {
+          "user": "marc.laforet",
+          "count": 2
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 2
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 33,
+      "15": 47,
+      "14": 43,
+      "13": 19,
+      "21": 8,
+      "20": 16,
+      "17": 43,
+      "16": 27,
+      "19": 49,
+      "3": 3,
+      "0": 1,
+      "1": 4,
+      "22": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 93,
+      "Tuesday": 37,
+      "Monday": 28,
+      "Thursday": 84,
+      "Friday": 53
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.9,
+    "dept_average_30d": 5.39,
+    "dept_rank": 77,
+    "dept_size": 272
+  }
+}

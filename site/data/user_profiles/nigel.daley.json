@@ -1,0 +1,251 @@
+{
+  "username": "nigel.daley",
+  "name": "Nigel Daley",
+  "generated_at": "2026-04-08T20:22:06.213899",
+  "summary": {
+    "message_count": 79,
+    "channels_active": 13,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "That's only 12 hours of overlap for both clusters -- nice job!",
+          "channel": "google-cloud-finances",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "so then this dash is more accurate than Observe in terms of see true QPS peaks.  Thank you!",
+          "channel": "proj-search-business-health-dashboard",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!  Love the quick site!\n\nThe Catalog Search QPS number seem a little inflated vs the",
+          "channel": "proj-search-business-health-dashboard",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-search-business-health-dashboard",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!here> There are a few updates on how we're organizing TPM support across Search &amp; Catalog:\n1. *Expanded scope*: I'm taking on an additional",
+          "channel": "search-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "<!here> There are a few updates on how we're organizing TPM support across Search &amp; Catalog:\n1. *Expanded scope*: I'm taking on an additional",
+          "channel": "search-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. ",
+          "channel": "machine-migration",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "[QPS measurement in Observe is terrible -- what to do?]\nWe know that Observe smooths/buckets data over 30-60 seconds. This leads us to massively",
+          "channel": "search-catalog-capacity-planning",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "chase.platon",
+          "count": 7
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 5
+        },
+        {
+          "user": "robert.adler",
+          "count": 4
+        },
+        {
+          "user": "rani.qumsiyeh",
+          "count": 4
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 3
+        },
+        {
+          "user": "linjun.yang",
+          "count": 3
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 2
+        },
+        {
+          "user": "caroline.lee",
+          "count": 2
+        },
+        {
+          "user": "tom.chikoore",
+          "count": 2
+        },
+        {
+          "user": "misha.shakhray",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.42,
+      "count": 207,
+      "top_channels": [
+        {
+          "channel": "google-cloud-finances",
+          "messages": 19
+        },
+        {
+          "channel": "nigel-river-1-1",
+          "messages": 11
+        },
+        {
+          "channel": "search-catalog-capacity-planning",
+          "messages": 9
+        },
+        {
+          "channel": "search-gsd",
+          "messages": 9
+        },
+        {
+          "channel": "proj-search-business-health-dashboard",
+          "messages": 9
+        },
+        {
+          "channel": "machine-migration",
+          "messages": 5
+        },
+        {
+          "channel": "proj-dnn-ranker",
+          "messages": 4
+        },
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 4
+        },
+        {
+          "channel": "search-team",
+          "messages": 4
+        },
+        {
+          "channel": "sfr-internal-grpc-prototype",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 24
+        },
+        {
+          "user": "linjun.yang",
+          "count": 8
+        },
+        {
+          "user": "igor.kil",
+          "count": 5
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 5
+        },
+        {
+          "user": "caroline.lee",
+          "count": 5
+        },
+        {
+          "user": "sean.ittel",
+          "count": 4
+        },
+        {
+          "user": "bhavika.tekwani",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 2
+        },
+        {
+          "user": "nikola.todic",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 11,
+      "13": 3,
+      "20": 7,
+      "14": 3,
+      "4": 4,
+      "1": 4,
+      "22": 7,
+      "19": 4,
+      "15": 4,
+      "17": 7,
+      "21": 4,
+      "16": 13,
+      "0": 2,
+      "3": 2,
+      "23": 4
+    },
+    "by_day": {
+      "Wednesday": 22,
+      "Monday": 14,
+      "Tuesday": 13,
+      "Friday": 19,
+      "Thursday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.69,
+    "dept_average_30d": 5.79,
+    "dept_rank": 633,
+    "dept_size": 1233
+  }
+}

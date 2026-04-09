@@ -1,0 +1,91 @@
+{
+  "username": "denivin.araneta",
+  "name": "Denivin Araneta",
+  "generated_at": "2026-04-08T20:22:31.905339",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 13,
+    "days_scale": 0.57
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "All set now thank you so much!",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Team, just a follow up on this, I haven't received any updates here, and my merchant is looking for any news. Thanks!",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.8,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "filip.drobnjakovic",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-billing-platform",
+          "messages": 6
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.37,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "nanakwame.acheampong",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "21": 5,
+      "20": 2,
+      "17": 1
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Tuesday": 2,
+      "Monday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.79,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1362,
+    "dept_size": 1663
+  }
+}

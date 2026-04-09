@@ -1,0 +1,112 @@
+{
+  "username": "seamus.leonard",
+  "name": "Seamus Leonard",
+  "generated_at": "2026-04-08T20:22:31.146536",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 2,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team, can someone please DM me? Thank you",
+          "channel": "help-talent-support",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "reisa.matsuda",
+          "count": 2
+        },
+        {
+          "user": "cailin.neal",
+          "count": 1
+        },
+        {
+          "user": "miguel.navarro",
+          "count": 1
+        },
+        {
+          "user": "leeki.sin",
+          "count": 1
+        },
+        {
+          "user": "erina.wu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.73,
+      "count": 72,
+      "top_channels": [
+        {
+          "channel": "help-procurement",
+          "messages": 4
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "reisa.matsuda",
+          "count": 1
+        },
+        {
+          "user": "erina.wu",
+          "count": 1
+        },
+        {
+          "user": "leeki.sin",
+          "count": 1
+        },
+        {
+          "user": "miguel.navarro",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 2,
+      "13": 1,
+      "10": 2
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Thursday": 2,
+      "Tuesday": 1,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 3.87,
+    "dept_average_30d": 4.35,
+    "dept_rank": 111,
+    "dept_size": 151
+  }
+}

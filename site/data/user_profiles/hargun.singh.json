@@ -1,0 +1,177 @@
+{
+  "username": "hargun.singh",
+  "name": "Hargun Singh",
+  "generated_at": "2026-04-08T20:22:21.061283",
+  "summary": {
+    "message_count": 56,
+    "channels_active": 7,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thanks Michael! This is super helpful. So if we add errors to our query fields, we'll be able to detect when ES failed vs genuinely no results. Good",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! What about the search debugger links for these, with what settings are you running that?",
+          "channel": "help-search-tooling",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Clickstream visualization tab to help debug clickstream. You'll find the button on both search debugger and scrapes query results. Thanks to Jingyi",
+          "channel": "search-tooling-team",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "xiaofeng.xu",
+          "count": 5
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 2
+        },
+        {
+          "user": "brenda.segal",
+          "count": 1
+        },
+        {
+          "user": "daniel.qiu",
+          "count": 1
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.46,
+      "count": 65,
+      "top_channels": [
+        {
+          "channel": "help-search-tooling",
+          "messages": 20
+        },
+        {
+          "channel": "proj-meridian-relevance",
+          "messages": 14
+        },
+        {
+          "channel": "search-tooling-team",
+          "messages": 10
+        },
+        {
+          "channel": "testing-hargun",
+          "messages": 8
+        },
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 2
+        },
+        {
+          "channel": "proj-typeahead",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "xiaofeng.xu",
+          "count": 17
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 7
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 4
+        },
+        {
+          "user": "brenda.segal",
+          "count": 3
+        },
+        {
+          "user": "victor.tortolero",
+          "count": 1
+        },
+        {
+          "user": "caroline.lee",
+          "count": 1
+        },
+        {
+          "user": "daniel.qiu",
+          "count": 1
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 1
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 12,
+      "15": 7,
+      "4": 1,
+      "22": 4,
+      "19": 5,
+      "18": 2,
+      "20": 7,
+      "13": 2,
+      "1": 1,
+      "17": 9,
+      "14": 2,
+      "3": 1,
+      "23": 3
+    },
+    "by_day": {
+      "Wednesday": 13,
+      "Tuesday": 6,
+      "Friday": 21,
+      "Thursday": 6,
+      "Monday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.4,
+    "dept_average_30d": 5.79,
+    "dept_rank": 799,
+    "dept_size": 1233
+  }
+}

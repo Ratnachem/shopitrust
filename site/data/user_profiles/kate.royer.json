@@ -1,0 +1,96 @@
+{
+  "username": "kate.royer",
+  "name": "Kate Royer",
+  "generated_at": "2026-04-08T20:22:31.002594",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "also <@U0AEPQCKB3M> what are the neobank ambitions and projects that you can find in the vault (or elsewhere)?",
+          "channel": "etak-river",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "savannah.mitchell",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.91,
+      "count": 24,
+      "top_channels": [
+        {
+          "channel": "etak-river",
+          "messages": 11
+        },
+        {
+          "channel": "slow",
+          "messages": 2
+        },
+        {
+          "channel": "product-ops-ai-use-cases",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "maggie.tran",
+          "count": 1
+        },
+        {
+          "user": "chelsea.rudderham",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 3,
+      "13": 1,
+      "17": 3,
+      "1": 2,
+      "22": 1,
+      "2": 2,
+      "16": 3
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Thursday": 1,
+      "Tuesday": 8,
+      "Monday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Corpo",
+    "user_score_30d": 6.77,
+    "dept_average_30d": 4.84,
+    "dept_rank": 3,
+    "dept_size": 18
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "username": "brendan.dougherty",
+  "name": "Brendan Dougherty",
+  "generated_at": "2026-04-08T20:22:28.319845",
+  "summary": {
+    "message_count": 146,
+    "channels_active": 16,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The Yugabyte pgbouncers are configured to support prepared statements and apps should feel free to use them. I\u2019m not aware of any issues at the",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Took a quick look around our dashboards / logs. I don\u2019t see a clear culprit.\n\u2022 It\u2019s not caused by churning postgres connections. Server churn on",
+          "channel": "inv-21141-increased-catalog-rpcs-pgrange-and-pgrang",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Good to know. If it\u2019s not a big lift for them, I would prefer to be able to use both so we can choose whatever works best for our query",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "then I would recommend using either `text` or app-side compression with `bytea`, and with a much smaller limit, like 100 KiB or whatever you think is",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "graham.cooper",
+          "count": 2
+        },
+        {
+          "user": "carljohan.gustavsson",
+          "count": 1
+        },
+        {
+          "user": "jorge.quan",
+          "count": 1
+        },
+        {
+          "user": "brandon.mcnama",
+          "count": 1
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 1
+        },
+        {
+          "user": "aditya.singh",
+          "count": 1
+        },
+        {
+          "user": "ollie.treend",
+          "count": 1
+        },
+        {
+          "user": "shuo.chen",
+          "count": 1
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 1
+        },
+        {
+          "user": "jesse.li",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.91,
+      "count": 233,
+      "top_channels": [
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 30
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 18
+        },
+        {
+          "channel": "inc-20936-shop-is-down",
+          "messages": 16
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 16
+        },
+        {
+          "channel": "inc-20586-shop-app-high-latency-and-500x-in-sh",
+          "messages": 12
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 9
+        },
+        {
+          "channel": "db-mobility",
+          "messages": 8
+        },
+        {
+          "channel": "mm-ads-channels",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20438-yugabyte-yanked-2025220-downloads",
+          "messages": 7
+        },
+        {
+          "channel": "help-observability",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "brandon.mcnama",
+          "count": 9
+        },
+        {
+          "user": "shuo.chen",
+          "count": 5
+        },
+        {
+          "user": "andre.ericson",
+          "count": 5
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "john.meehan",
+          "count": 2
+        },
+        {
+          "user": "ollie.treend",
+          "count": 2
+        },
+        {
+          "user": "graham.cooper",
+          "count": 2
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 1
+        },
+        {
+          "user": "jason.kim",
+          "count": 1
+        },
+        {
+          "user": "jesse.li",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 17,
+      "17": 15,
+      "16": 20,
+      "14": 13,
+      "23": 3,
+      "19": 17,
+      "22": 22,
+      "21": 11,
+      "18": 14,
+      "13": 3,
+      "20": 11
+    },
+    "by_day": {
+      "Tuesday": 47,
+      "Monday": 22,
+      "Friday": 36,
+      "Wednesday": 13,
+      "Thursday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 5.75,
+    "dept_rank": 224,
+    "dept_size": 357
+  }
+}

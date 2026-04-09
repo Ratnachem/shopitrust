@@ -1,0 +1,213 @@
+{
+  "username": "shane.dharan",
+  "name": "Shane Dharan",
+  "generated_at": "2026-04-08T20:22:23.127270",
+  "summary": {
+    "message_count": 138,
+    "channels_active": 18,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ahh thank you! I think we need to be careful in how we use the observe metrics since its not always the best option to optimize the pk for existing",
+          "channel": "proj-inventory-yugabyte",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; I have <https://app.graphite.com/github/pr/shop/world/491697|this> PR as part of the sku sharing cleanup that might be the same?\nThank you for",
+          "channel": "proj-activation-with-inventory-movement",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations <@U02C7B8RNUA>!!!!! Welcome to the dad club!!",
+          "channel": "proj-stock-counts",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "chris.bielinski",
+          "count": 5
+        },
+        {
+          "user": "kirsten.westeinde",
+          "count": 4
+        },
+        {
+          "user": "karen.bie",
+          "count": 4
+        },
+        {
+          "user": "mike.averto",
+          "count": 3
+        },
+        {
+          "user": "cassia.brooks",
+          "count": 3
+        },
+        {
+          "user": "dylan.tittel",
+          "count": 3
+        },
+        {
+          "user": "ryan.kazokas",
+          "count": 3
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 3
+        },
+        {
+          "user": "jane.tran",
+          "count": 3
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.05,
+      "count": 107,
+      "top_channels": [
+        {
+          "channel": "proj-inventory-categorize-and-prevent-committed-quantity-drift",
+          "messages": 26
+        },
+        {
+          "channel": "inventory-pull-request-concept",
+          "messages": 22
+        },
+        {
+          "channel": "river-sd",
+          "messages": 20
+        },
+        {
+          "channel": "proj-stock-counts",
+          "messages": 20
+        },
+        {
+          "channel": "proj-inventory-yugabyte",
+          "messages": 14
+        },
+        {
+          "channel": "proj-migrate-states-to-groups",
+          "messages": 9
+        },
+        {
+          "channel": "inventory-ledger",
+          "messages": 4
+        },
+        {
+          "channel": "tmp-goosin-burst-april",
+          "messages": 4
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 3
+        },
+        {
+          "channel": "proj-activation-with-inventory-movement",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "kenneth.poling",
+          "count": 11
+        },
+        {
+          "user": "dylan.kirby",
+          "count": 5
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 4
+        },
+        {
+          "user": "cassia.brooks",
+          "count": 3
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 3
+        },
+        {
+          "user": "karen.bie",
+          "count": 3
+        },
+        {
+          "user": "ayman.salloom",
+          "count": 2
+        },
+        {
+          "user": "mike.averto",
+          "count": 2
+        },
+        {
+          "user": "reuben.sutton",
+          "count": 2
+        },
+        {
+          "user": "christine.belan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 35,
+      "18": 10,
+      "17": 3,
+      "15": 21,
+      "13": 10,
+      "19": 24,
+      "21": 7,
+      "16": 11,
+      "20": 10,
+      "23": 1,
+      "12": 2,
+      "11": 1,
+      "2": 3
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 26,
+      "Monday": 16,
+      "Thursday": 26,
+      "Friday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.16,
+    "dept_average_30d": 5.79,
+    "dept_rank": 341,
+    "dept_size": 1233
+  }
+}

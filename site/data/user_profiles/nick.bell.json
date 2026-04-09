@@ -1,0 +1,273 @@
+{
+  "username": "nick.bell",
+  "name": "Nick Bell",
+  "generated_at": "2026-04-08T20:22:22.738985",
+  "summary": {
+    "message_count": 412,
+    "channels_active": 25,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 5,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for the help! and for the `spy waf magic` command :wizard:",
+          "channel": "inv-20912-spammers-on-oauth-endpoint-need-a-waf-rul",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "```There it is. ensure_session_exists_and_extend_lifetime runs as a before_action on all actions (no only: constraint), and it calls",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> close that PR i will do it myself, thank you",
+          "channel": "proj-enrich-customer-with-provider-data",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "got it - thanks!! glad we checked",
+          "channel": "proj-enrich-customer-with-provider-data",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "ok - i'm honestly just going to delete alfred anyways, but if you want me to keep it around to help you debug let me know",
+          "channel": "help-slh-santas-little-helper",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "technically.... :technically:\n\nwe will always get the private email in every log in request - we will have build special logic for apple only",
+          "channel": "tmp-multipass-migration",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "cc <@W0197HC0L6L> do you know anything about this?\n\n``` The customer-account-web SPA loads successfully (200), but the client-side React router",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i think a diagram would be helpful here...\n\n&gt; Users under other Hasselblad domains need to \"silently log in\" instead of being redirected by",
+          "channel": "tmp-multipass-migration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "ugh im an idiot i thought this was the core controller. thanks.",
+          "channel": "inv-20580-several-ssoredirects-attempts-on-storefro",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "can I get another review on this PR: <https://app.graphite.com/github/pr/shop/world/525145>\nremoves the backend check for trigger (already handled on",
+          "channel": "proj-enrich-customer-with-provider-data",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "sorry for whatever ancient alert i just set off trying to buy it",
+          "channel": "river",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "denis.laliberte",
+          "count": 6
+        },
+        {
+          "user": "andrew.cottage",
+          "count": 5
+        },
+        {
+          "user": "nick.pinto",
+          "count": 4
+        },
+        {
+          "user": "romain.gallais",
+          "count": 3
+        },
+        {
+          "user": "patrick.millegan",
+          "count": 3
+        },
+        {
+          "user": "jr.rafols",
+          "count": 2
+        },
+        {
+          "user": "dan.robinson",
+          "count": 1
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 1
+        },
+        {
+          "user": "jonathan.duhaime",
+          "count": 1
+        },
+        {
+          "user": "lindsay.gagnon",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.09,
+      "count": 295,
+      "top_channels": [
+        {
+          "channel": "proj-enrich-customer-with-provider-data",
+          "messages": 99
+        },
+        {
+          "channel": "testytestytesty",
+          "messages": 72
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 50
+        },
+        {
+          "channel": "customer-account-and-login-ops",
+          "messages": 39
+        },
+        {
+          "channel": "tmp-multipass-migration",
+          "messages": 30
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20912-spammers-on-oauth-endpoint-need-a-waf-rul",
+          "messages": 14
+        },
+        {
+          "channel": "proj-cleanup-events-table",
+          "messages": 11
+        },
+        {
+          "channel": "customer-account-and-login-exceptions",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "andrew.cottage",
+          "count": 9
+        },
+        {
+          "user": "nick.pinto",
+          "count": 8
+        },
+        {
+          "user": "denis.laliberte",
+          "count": 8
+        },
+        {
+          "user": "romain.gallais",
+          "count": 8
+        },
+        {
+          "user": "tobias.bales",
+          "count": 5
+        },
+        {
+          "user": "patrick.millegan",
+          "count": 5
+        },
+        {
+          "user": "dan.robinson",
+          "count": 2
+        },
+        {
+          "user": "adam.barrus",
+          "count": 2
+        },
+        {
+          "user": "emilie.cloutier",
+          "count": 2
+        },
+        {
+          "user": "hao.li",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 20,
+      "13": 35,
+      "19": 71,
+      "14": 31,
+      "20": 37,
+      "17": 46,
+      "16": 24,
+      "1": 13,
+      "21": 10,
+      "18": 41,
+      "0": 15,
+      "11": 7,
+      "12": 12,
+      "2": 36,
+      "22": 4,
+      "3": 10
+    },
+    "by_day": {
+      "Wednesday": 78,
+      "Tuesday": 112,
+      "Monday": 54,
+      "Thursday": 131,
+      "Friday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.44,
+    "dept_average_30d": 5.79,
+    "dept_rank": 211,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "username": "m.wakefield",
+  "name": "M Wakefield",
+  "generated_at": "2026-04-08T20:22:10.834162",
+  "summary": {
+    "message_count": 456,
+    "channels_active": 11,
+    "unique_people_mentioned": 83,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 14,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok <@U072W6FRECQ>, I believe all future instances of these series should be deleted. Let me know if I missed any\nYou can delete any past instances",
+          "channel": "help-salesloft-roe-temp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Currently, activity is supposed to log as Mozart tasks, but it's spotty, so the team is currently rebuilding this integration. Let me know if that",
+          "channel": "help-crm",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh, wow, sorry, I thought this message was in <#C97UDFDT9>\nMy bad, let me take a look",
+          "channel": "help-salesloft-roe-temp",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok, thank you, that's very helpful! I'll share all of this with the team, we obviously need both process and technical solutions here, so please keep",
+          "channel": "help-crm",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "It doesn't look like you are the owner for any accounts in Salesforce yet\nLet me know if I'm incorrect",
+          "channel": "help-salesloft-roe-temp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ok, got it, thanks! I'll review then",
+          "channel": "proj-crm-on-vault",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Sorry, was on a meeting lol\nYou are correct on all of the above\nAnd yes, it was removed for sending emails to yourself\nHappy to help!",
+          "channel": "help-crm",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "If you have been having issues with the Salesloft Chrome extension, the Salesloft team just pushed a fix.\n\nPlease update Salesloft Connect to version",
+          "channel": "help-salesloft-roe-temp",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Can you let me know if these steps don't work either?",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U0318AYB049>, Salesloft responded with instructions:\nTo make sure everything is set up properly can Alice please follow these steps and let me",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Hey <@U0AHRNF57M1>, you should have access to Salesloft in your Okta now",
+          "channel": "help-salesforce",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Hey <@U09UZ0ULVFE>, you should have a French callback number assigned. To dial from it, you should open the call window and click the checkbox for",
+          "channel": "help-crm",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Hey team, once you are a member on the account team in Salesforce, you can access the account in CRM.\n\nIf you are not on the account team in",
+          "channel": "help-crm",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 83,
+      "top_mentioned": [
+        {
+          "user": "sarah.lindsay",
+          "count": 17
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 16
+        },
+        {
+          "user": "jaika.berghoff",
+          "count": 8
+        },
+        {
+          "user": "hisham.khan",
+          "count": 7
+        },
+        {
+          "user": "franziska.jaeschke",
+          "count": 7
+        },
+        {
+          "user": "shameel.abdullah",
+          "count": 7
+        },
+        {
+          "user": "alex.belleba",
+          "count": 6
+        },
+        {
+          "user": "ari.cohen",
+          "count": 6
+        },
+        {
+          "user": "maxwell.grey",
+          "count": 5
+        },
+        {
+          "user": "ellie.cooper",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.75,
+      "count": 120,
+      "top_channels": [
+        {
+          "channel": "help-crm",
+          "messages": 199
+        },
+        {
+          "channel": "proj-crm-on-vault",
+          "messages": 182
+        },
+        {
+          "channel": "help-salesloft-roe-temp",
+          "messages": 31
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 15
+        },
+        {
+          "channel": "salesloft-decommission",
+          "messages": 14
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 4
+        },
+        {
+          "channel": "help-copilot",
+          "messages": 4
+        },
+        {
+          "channel": "help-salesloft-partners-temp",
+          "messages": 2
+        },
+        {
+          "channel": "startup-alum",
+          "messages": 2
+        },
+        {
+          "channel": "revops-campaign-execution",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 29,
+      "17": 50,
+      "16": 40,
+      "15": 67,
+      "12": 11,
+      "11": 2,
+      "10": 1,
+      "9": 3,
+      "22": 4,
+      "14": 65,
+      "21": 12,
+      "20": 37,
+      "13": 94,
+      "19": 41
+    },
+    "by_day": {
+      "Wednesday": 127,
+      "Tuesday": 90,
+      "Monday": 108,
+      "Friday": 59,
+      "Thursday": 72
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.98,
+    "dept_average_30d": 4.74,
+    "dept_rank": 555,
+    "dept_size": 1663
+  }
+}

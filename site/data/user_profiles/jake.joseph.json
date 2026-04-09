@@ -1,0 +1,286 @@
+{
+  "username": "jake.joseph",
+  "name": "Jake Joseph",
+  "generated_at": "2026-04-08T20:22:18.876777",
+  "summary": {
+    "message_count": 447,
+    "channels_active": 12,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I haven\u2019t looked into this yet! Been slammed, if you could take a look that\u2019d be amazing :pray:",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Sounds good! No worries, let\u2019s figure it out on Monday. I'll take a look as well and see if it fixes things. Appreciate it!",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Will! I\u2019ll be around for the next little bit if you need a hand. This can also wait until Monday!",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks Lazir! Let me know if you get to Alex\u2019s stack, i assigned the issue to myself but haven\u2019t gotten to it yet as im wrapping up the bug fixing",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah yes we did. Gotcha, thanks!\n",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Here\u2019s the scenerio we\u2019re working with\n\n&gt; The interesting scenario is this:\n&gt; \u2022 buyer hits checkout completion entrypoint in the",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> The message is: \u201clooking for a little frontend help debugging why some buyers are being redirected back to checkout instead of the TYP",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> This is what the thank you page looks like after completing the checkout with the two ship and pick up items.\n\nCan you assert that",
+          "channel": "jake-river",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Do any of the e2e tests assert on the thank you page?",
+          "channel": "jake-river",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Actually, we do not need to expose `supportsSplitDeliveryMethod` on the `PurchaseOrderDeliveryTerms`. Instead we should modify the",
+          "channel": "jake-river",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Ingest all the work i\u2019ve done from Oct 6 2025 to April 2 2026. Include github, slack, and whatever other relevant resources. Show",
+          "channel": "jake-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Sounds good! No worries, let\u2019s figure it out on Monday. I'll take a look as well and see if it fixes things. Appreciate it!",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Update the e2e test PR <https://app.graphite.com/github/pr/shop/world/503348> with\n\u2022 Add a new test directory with a name that clearly",
+          "channel": "jake-river",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "lazir.pascual",
+          "count": 11
+        },
+        {
+          "user": "ryan.creps",
+          "count": 7
+        },
+        {
+          "user": "alexander.yamkov",
+          "count": 7
+        },
+        {
+          "user": "alexis.katigbak",
+          "count": 7
+        },
+        {
+          "user": "likhit.talasila",
+          "count": 5
+        },
+        {
+          "user": "james.calverley",
+          "count": 5
+        },
+        {
+          "user": "joe.hydoski",
+          "count": 4
+        },
+        {
+          "user": "will.pittman",
+          "count": 3
+        },
+        {
+          "user": "sam.jiang",
+          "count": 3
+        },
+        {
+          "user": "lucas.medeirosleite",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.13,
+      "count": 109,
+      "top_channels": [
+        {
+          "channel": "jake-river",
+          "messages": 169
+        },
+        {
+          "channel": "proj-ship-pickup-1-order",
+          "messages": 130
+        },
+        {
+          "channel": "ship-pickup-1-order-feds",
+          "messages": 95
+        },
+        {
+          "channel": "inc-20268-degraded-checkout-for-diesel-power-produc",
+          "messages": 19
+        },
+        {
+          "channel": "advanced-checkout-experiences",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "messages": 11
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 5
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 3
+        },
+        {
+          "channel": "inv-20530-ci-failures-in-world-checkout-web-tophat-",
+          "messages": 1
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.58,
+      "count": 68,
+      "top_mentioners": [
+        {
+          "user": "matt.dentremont",
+          "count": 10
+        },
+        {
+          "user": "ryan.creps",
+          "count": 7
+        },
+        {
+          "user": "likhit.talasila",
+          "count": 6
+        },
+        {
+          "user": "james.calverley",
+          "count": 5
+        },
+        {
+          "user": "lazir.pascual",
+          "count": 4
+        },
+        {
+          "user": "keith.weaver",
+          "count": 4
+        },
+        {
+          "user": "alexis.katigbak",
+          "count": 4
+        },
+        {
+          "user": "will.pittman",
+          "count": 3
+        },
+        {
+          "user": "jass.arora",
+          "count": 3
+        },
+        {
+          "user": "laura.mann",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 28,
+      "16": 25,
+      "14": 62,
+      "13": 15,
+      "4": 6,
+      "2": 6,
+      "0": 14,
+      "23": 6,
+      "20": 80,
+      "18": 53,
+      "21": 33,
+      "19": 52,
+      "15": 47,
+      "22": 18,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 76,
+      "Tuesday": 90,
+      "Monday": 117,
+      "Thursday": 107,
+      "Friday": 57
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.05,
+    "dept_average_30d": 5.79,
+    "dept_rank": 402,
+    "dept_size": 1233
+  }
+}

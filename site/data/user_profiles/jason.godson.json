@@ -1,0 +1,339 @@
+{
+  "username": "jason.godson",
+  "name": "Jason Godson",
+  "generated_at": "2026-04-08T20:22:15.374966",
+  "summary": {
+    "message_count": 2029,
+    "channels_active": 47,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 43,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 14,
+      "neg_count": 14,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":+1::skin-tone-2: thank you, saw your response and I think it was great",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yep it did, thanks!",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thank Bill, appreciate it! The above should make it so at least we don't have to restart the pod to fix things (but I suspect even just trying more",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> sorry I made you work so hard, but it was super helpful thank you :smile:",
+          "channel": "proj-edge-stapled-sessions-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Also my bad for not filtering out staging on my query originally :facepalm:",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need anything from my side!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "db-platform-spanner",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Cool, thanks!",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<https://app.graphite.com/github/shop/world/pull/506882>\n\nlet me know if this makes sense to you, I could add to the storefront slice isntead but not",
+          "channel": "proj-self-hosted-envoy",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "inc-20107-undefined-method--for-nil-from-oxygen-hub",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "So these are all useless sessions effectively. Wonder if there's anything we can do there ",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "won't impact anything since we're 0% but will prevent rolling out util we figure it out",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "it's probably a request made to core/sfr and then returned with whatever headers they set?",
+          "channel": "proj-edge-stapled-sessions-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so unless spanner tells us that whatever you were using is gone now then not sure",
+          "channel": "tmp-spanner-autoscale",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Mostly wondering if we have a floor or down to whatever is 65%",
+          "channel": "tmp-spanner-autoscale",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I do have a merged change that will go out too with whatever deploy, it's not critical but will keep an eye on things if you're doing a deploy",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "At least whatever % of requests is bots :smile:\n\nIf you mean how much extra costs over a normal request for bots, then it's likely a decent chunk.",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "When _they are all_ in a different region, we can rotate them all to make them local. But if they are mixed it means we need all the data or we start",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the latter, it's just to redirect folks tot he Hydrogen storefront _after_ removing the password in case they hit the Online Store (via",
+          "channel": "headless-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Trying to re-figure it out too, I know I have done it before but not havin gluck",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "marco.araujo",
+          "count": 11
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 4
+        },
+        {
+          "user": "sneha.shah",
+          "count": 4
+        },
+        {
+          "user": "bill.bean",
+          "count": 3
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 2
+        },
+        {
+          "user": "michael.go",
+          "count": 2
+        },
+        {
+          "user": "niko.rutherford",
+          "count": 2
+        },
+        {
+          "user": "nick.silverman",
+          "count": 2
+        },
+        {
+          "user": "derek.stride",
+          "count": 1
+        },
+        {
+          "user": "josh.teeter",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 396,
+      "top_channels": [
+        {
+          "channel": "proj-edge-stapled-sessions",
+          "messages": 775
+        },
+        {
+          "channel": "tmp-spanner-autoscale",
+          "messages": 254
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 187
+        },
+        {
+          "channel": "headless-dev",
+          "messages": 101
+        },
+        {
+          "channel": "team-core-applications",
+          "messages": 70
+        },
+        {
+          "channel": "proj-sfr-low-priority-routing",
+          "messages": 62
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 55
+        },
+        {
+          "channel": "proj-edge-stapled-sessions-river",
+          "messages": 52
+        },
+        {
+          "channel": "sfr-incident-announce",
+          "messages": 45
+        },
+        {
+          "channel": "proj-self-hosted-envoy",
+          "messages": 45
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 89,
+      "top_mentioners": [
+        {
+          "user": "marco.araujo",
+          "count": 12
+        },
+        {
+          "user": "sneha.shah",
+          "count": 8
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 6
+        },
+        {
+          "user": "sander.lijbrink",
+          "count": 4
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 3
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 3
+        },
+        {
+          "user": "andrew.droll",
+          "count": 3
+        },
+        {
+          "user": "michael.go",
+          "count": 3
+        },
+        {
+          "user": "laurent.dang",
+          "count": 3
+        },
+        {
+          "user": "joshua.sager",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 160,
+      "17": 243,
+      "16": 244,
+      "15": 185,
+      "13": 58,
+      "23": 184,
+      "22": 119,
+      "21": 192,
+      "20": 189,
+      "19": 140,
+      "14": 67,
+      "4": 44,
+      "1": 41,
+      "0": 87,
+      "5": 31,
+      "3": 15,
+      "11": 8,
+      "2": 9,
+      "12": 13
+    },
+    "by_day": {
+      "Wednesday": 548,
+      "Tuesday": 581,
+      "Monday": 276,
+      "Friday": 240,
+      "Thursday": 384
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.49,
+    "dept_average_30d": 5.79,
+    "dept_rank": 189,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "username": "olga.pilipenco",
+  "name": "Olga Pilipenco",
+  "generated_at": "2026-04-08T20:22:06.295085",
+  "summary": {
+    "message_count": 673,
+    "channels_active": 13,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 23,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "a quick fix how to check how it would behave:\n<https://app.graphite.com/github/pr/shop/world/585766>\n\nbut I think <@U02C7FM4X19> is right and we need",
+          "channel": "gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok ok thanks!",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah thank you",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "if we don\u2019t need super amazing cinematography should be easy peasy!",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Long term authentication will happen whenever gitstream-auth decides it needs to reauthenticate on git operations (fetch/push etc.). This is part how",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "something like this - let me know if we want moe out of it",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "long version (maybe vault post):\n*Upcoming Gitstream Authentication Experiment*\nAs part of our preparations for migrating to Gitstream, we are",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad!",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "ohhh sorry about that! it\u2019s already merged (for 10%), I can disable it and prepare comms",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome, thank you!",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "ok 1 side-effect I thought about:\nif someone is testing gitstream and sets url to gitstream itnentionally - it will be overriden by this job\n\nso",
+          "channel": "gitstream",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "```No. The /info/lfs part is only the default auto-derived convention (when Git LFS builds the URL from your remote URL).\n\n  When you explicitly set",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This is what I\u2019ll do:\n1. i\u2019ll create random command that does the check without feature enable (something like `dev repo gistream-auth-check`). WIll",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "yeah, sorry I\u2019m kinda useless here",
+          "channel": "gitstream",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "even UI should use configs to determine where to push (remote.origin.url or whatever url config gives). I don\u2019t think they push directly to github.",
+          "channel": "gitstream",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "is there anything in tec/windex/caches whatever that will be affected by switch to gistream remote for world?",
+          "channel": "tectonix",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> would it be confusing that env variable is DEV_RESOLVED_ROOT, but it won\u2019t always reflect dev root e.g. in the case when daemon",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> fyi - the revert you proposed was not compatible with implicit tree functionality that works without fuzzy.\ne.g. example\n\ni\u2019m on",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "evan.lee",
+          "count": 5
+        },
+        {
+          "user": "xiao.li",
+          "count": 5
+        },
+        {
+          "user": "don.kelly",
+          "count": 5
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 3
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 3
+        },
+        {
+          "user": "ashley.williams",
+          "count": 2
+        },
+        {
+          "user": "sam.bostock",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "chao.duan",
+          "count": 2
+        },
+        {
+          "user": "vaidas.pilkauskas",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.08,
+      "count": 136,
+      "top_channels": [
+        {
+          "channel": "gitstream",
+          "messages": 185
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 151
+        },
+        {
+          "channel": "dev-up",
+          "messages": 77
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 74
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 63
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 54
+        },
+        {
+          "channel": "inv-19976-google-auth-spam",
+          "messages": 27
+        },
+        {
+          "channel": "tmp-projects-environments-alerts",
+          "messages": 18
+        },
+        {
+          "channel": "tectonix",
+          "messages": 11
+        },
+        {
+          "channel": "help-gitstream",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 100,
+      "top_mentioners": [
+        {
+          "user": "don.kelly",
+          "count": 23
+        },
+        {
+          "user": "xiao.li",
+          "count": 13
+        },
+        {
+          "user": "ashley.williams",
+          "count": 12
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 10
+        },
+        {
+          "user": "sam.bostock",
+          "count": 10
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 5
+        },
+        {
+          "user": "chao.duan",
+          "count": 5
+        },
+        {
+          "user": "ahsan.rogers",
+          "count": 4
+        },
+        {
+          "user": "vaidas.pilkauskas",
+          "count": 3
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 70,
+      "14": 55,
+      "13": 15,
+      "23": 26,
+      "22": 43,
+      "21": 81,
+      "20": 73,
+      "19": 109,
+      "17": 53,
+      "15": 38,
+      "16": 46,
+      "5": 2,
+      "4": 17,
+      "3": 9,
+      "0": 1,
+      "1": 23,
+      "6": 7,
+      "7": 3,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 163,
+      "Tuesday": 179,
+      "Friday": 175,
+      "Thursday": 115,
+      "Monday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 5.75,
+    "dept_rank": 141,
+    "dept_size": 357
+  }
+}

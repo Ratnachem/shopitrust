@@ -1,0 +1,200 @@
+{
+  "username": "eric.h.lee",
+  "name": "Eric H Lee",
+  "generated_at": "2026-04-08T20:22:15.580813",
+  "summary": {
+    "message_count": 121,
+    "channels_active": 8,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Did not need a CI team review after all! Thanks!!",
+          "channel": "team-ci",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok sounds good. thanks!",
+          "channel": "team-ci",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W018HMY2MQA>, following up on this. I paired with <@U0333CRN6A0> on this last Friday and we realized that (parent, child) relationships should",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U04CX6YA146> could you re-review the current state of this pr and let me know if there are any concerns?",
+          "channel": "help-infrasec",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I have a PR that needs a review: <https://app.graphite.com/github/pr/Shopify/terraform-the-cloud/56443>\n\nIt sets up a GCS bucket and IAM",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I have a PR that needs a review: <https://app.graphite.com/github/pr/Shopify/terraform-the-cloud/56443>\n\nIt sets up a GCS bucket and IAM",
+          "channel": "team-ci",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> All the MYSQL queries mostly time out when I try them in Services Internal. Do you want me to give you the partial results? I can't",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I have a PR up for review: <https://app.graphite.com/github/pr/Shopify/terraform-the-cloud/56443>\n\nIt sets up a GCS bucket and IAM for a",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "haha thanks, glad I was on the right track! let me know if anything else stands out!",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team!\nI've been working on an idea for a GraphQL field usage CI check based on this",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.33,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "allan.calix",
+          "count": 3
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 2
+        },
+        {
+          "user": "steve.lu",
+          "count": 2
+        },
+        {
+          "user": "adam.macdonald",
+          "count": 1
+        },
+        {
+          "user": "bronwyn.skelley",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.25,
+      "count": 82,
+      "top_channels": [
+        {
+          "channel": "proj-better-bulk-ops",
+          "messages": 86
+        },
+        {
+          "channel": "team-ci",
+          "messages": 18
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 7
+        },
+        {
+          "channel": "devtools-dev-experience",
+          "messages": 4
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 2
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "proj-move-all-partner-stores-to-dev-dash",
+          "messages": 1
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.44,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "pulkit.garg",
+          "count": 1
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 12,
+      "17": 26,
+      "16": 15,
+      "22": 6,
+      "20": 15,
+      "19": 18,
+      "21": 24,
+      "0": 2,
+      "1": 1,
+      "23": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 22,
+      "Tuesday": 18,
+      "Monday": 52,
+      "Thursday": 26,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.85,
+    "dept_average_30d": 4.74,
+    "dept_rank": 628,
+    "dept_size": 1663
+  }
+}

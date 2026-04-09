@@ -1,0 +1,137 @@
+{
+  "username": "sasha.barazandeh",
+  "name": "Sasha Barazandeh",
+  "generated_at": "2026-04-08T20:22:15.506343",
+  "summary": {
+    "message_count": 71,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you guys!",
+          "channel": "cti-cases-workstream",
+          "timestamp": "2026-04-08"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W0197HSAD7A> For this blinks comment, what would your opinion be? Should we be adding in gte or lte for this or just keep it as is. If someone",
+          "channel": "cti-cases-workstream",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "peter.brandel",
+          "count": 4
+        },
+        {
+          "user": "gonzo.nieto",
+          "count": 2
+        },
+        {
+          "user": "steven.steven",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.26,
+      "count": 86,
+      "top_channels": [
+        {
+          "channel": "cti-cases-workstream",
+          "messages": 49
+        },
+        {
+          "channel": "meetup-toronto-break-bread-dd83d",
+          "messages": 21
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.5,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "peter.brandel",
+          "count": 5
+        },
+        {
+          "user": "mark.dorison",
+          "count": 2
+        },
+        {
+          "user": "brian.chae",
+          "count": 1
+        },
+        {
+          "user": "steven.steven",
+          "count": 1
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 1
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 1
+        },
+        {
+          "user": "ali.imad",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 9,
+      "20": 3,
+      "19": 18,
+      "13": 4,
+      "22": 4,
+      "14": 6,
+      "5": 1,
+      "17": 11,
+      "21": 2,
+      "15": 11,
+      "16": 2
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Thursday": 21,
+      "Tuesday": 10,
+      "Monday": 17,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.52,
+    "dept_average_30d": 4.89,
+    "dept_rank": 136,
+    "dept_size": 237
+  }
+}

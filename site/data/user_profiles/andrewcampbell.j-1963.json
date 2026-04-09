@@ -1,0 +1,243 @@
+{
+  "username": "andrewcampbell.j-1963",
+  "name": "Andrewcampbell J-1963",
+  "generated_at": "2026-04-08T20:22:07.657486",
+  "summary": {
+    "message_count": 418,
+    "channels_active": 32,
+    "unique_people_mentioned": 37,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you\u2026was trying to find it.  (Our dashes are confusing.)",
+          "channel": "inc-20839-most-european-unbranded-not-working-at-ch",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> That\u2019s good, thank you.  Issue created here:  <https://github.com/shop/issues-1p-promise/issues/4065>",
+          "channel": "delivery-predictions-ai",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah, thank you <@U01HMASJU3Z>.  So these probably should belong to somebody on Shop side?",
+          "channel": "promise-experience",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "K, yeah, I\u2019ll send them there.  Thanks!",
+          "channel": "promise-experience",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I think all PRs in the stack are now :check: with the exception of two:\n\u2022 <https://app.graphite.com/github/pr/shop/world/497883> has some stray code",
+          "channel": "proj-predictions-dmd-deprecation",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Can you run the `review-pr` skill on any that you want me to review plz?",
+          "channel": "proj-cart-delivery-predictions",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Will take a look after standup!  Thanks!",
+          "channel": "proj-cart-delivery-predictions",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi: I\u2019ve converted all the draft AIs from the retro into action items.  :eyes: and let me know if you disagree with any of the prioritizations.",
+          "channel": "inc-19666-delivery-promise-policy-is-stuck-returnin",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!  Looking over those threads, it doesn\u2019t appear like any other merchants flagged this?",
+          "channel": "inc-19666-delivery-promise-policy-is-stuck-returnin",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Maybe dumb question:  Can we clarify what we mean by \u201crepeatable file\u201d?  Are we simply talking about a file dump that we generate daily(ish) and drop",
+          "channel": "proj-precomputed-delivery-predictions",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Huh.  OK.  In that case I would use that.  And add new labels if necessary.\n\nI do think it\u2019s valuable to have *some* statsd observability on this,",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019m aligned with <@U03GS4H5S59>.  Keep the statsd, but don\u2019t need to tag the specific limit #.\n\nStatsd is better for dashboarding than Monorail, and",
+          "channel": "proj-cart-delivery-predictions",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I remember <@U03CZ90954K> and <@W018HUQHMNX> and <@U01T4V57ZSB> and I had a sync meeting to figure out what was the right solution.  In the end we",
+          "channel": "promise-dev-ops",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "charlie.morris",
+          "count": 11
+        },
+        {
+          "user": "joseph.carino",
+          "count": 7
+        },
+        {
+          "user": "josh.murray",
+          "count": 6
+        },
+        {
+          "user": "pedro.durek",
+          "count": 6
+        },
+        {
+          "user": "shwetha.shyam",
+          "count": 4
+        },
+        {
+          "user": "alexa.whitney",
+          "count": 4
+        },
+        {
+          "user": "amanda.billingsley",
+          "count": 4
+        },
+        {
+          "user": "ryan.wang",
+          "count": 4
+        },
+        {
+          "user": "reza.soltani",
+          "count": 3
+        },
+        {
+          "user": "janson.webster",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.37,
+      "count": 246,
+      "top_channels": [
+        {
+          "channel": "promise-experience",
+          "messages": 44
+        },
+        {
+          "channel": "promise-engineering",
+          "messages": 40
+        },
+        {
+          "channel": "inv-20062-docker-error-on-default-branch-for-core",
+          "messages": 39
+        },
+        {
+          "channel": "proj-updated-edds-post-checkout",
+          "messages": 37
+        },
+        {
+          "channel": "proj-cart-delivery-predictions",
+          "messages": 37
+        },
+        {
+          "channel": "delivery-predictions-ai",
+          "messages": 37
+        },
+        {
+          "channel": "promise-dev-ops",
+          "messages": 28
+        },
+        {
+          "channel": "inc-20062-docker-error-on-default-branch-for-core",
+          "messages": 22
+        },
+        {
+          "channel": "proj-predictions-dmd-deprecation",
+          "messages": 18
+        },
+        {
+          "channel": "proj-precomputed-delivery-predictions",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 47,
+      "17": 42,
+      "14": 54,
+      "13": 60,
+      "21": 7,
+      "19": 34,
+      "16": 34,
+      "15": 41,
+      "20": 35,
+      "22": 5,
+      "12": 3,
+      "0": 16,
+      "23": 40
+    },
+    "by_day": {
+      "Wednesday": 75,
+      "Tuesday": 89,
+      "Thursday": 132,
+      "Monday": 26,
+      "Friday": 96
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.23,
+    "dept_average_30d": 4.74,
+    "dept_rank": 444,
+    "dept_size": 1663
+  }
+}

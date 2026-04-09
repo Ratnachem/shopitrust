@@ -1,0 +1,194 @@
+{
+  "username": "jian.mahmoudi",
+  "name": "Jian Mahmoudi",
+  "generated_at": "2026-04-08T20:22:26.027776",
+  "summary": {
+    "message_count": 104,
+    "channels_active": 9,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> do a quick rundown summary of the incidents i dealth with during my oncall shift over this last week.",
+          "channel": "river-jian",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good! Thank you!",
+          "channel": "help-polaris",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "dylan.tittel",
+          "count": 4
+        },
+        {
+          "user": "simrun.mannan",
+          "count": 3
+        },
+        {
+          "user": "gabriel.dube",
+          "count": 2
+        },
+        {
+          "user": "brandon.ashley",
+          "count": 2
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 1
+        },
+        {
+          "user": "george.ferreira",
+          "count": 1
+        },
+        {
+          "user": "brooks.ilg",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.74,
+      "count": 171,
+      "top_channels": [
+        {
+          "channel": "river-jian",
+          "messages": 41
+        },
+        {
+          "channel": "proj-purchase-orders-create-transfers",
+          "messages": 40
+        },
+        {
+          "channel": "inc-20545-ci-failing-on-main",
+          "messages": 7
+        },
+        {
+          "channel": "help-polaris",
+          "messages": 4
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20427-typeerror-spiking-with-deployment",
+          "messages": 3
+        },
+        {
+          "channel": "inv-20422-elevated-core-error-rate-across-us-centra",
+          "messages": 2
+        },
+        {
+          "channel": "inv-20396-argumenterror-from-graphql-foundations",
+          "messages": 2
+        },
+        {
+          "channel": "inv-16685-polaris-migration-regressions",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "brandon.ashley",
+          "count": 12
+        },
+        {
+          "user": "hisham.kalban",
+          "count": 4
+        },
+        {
+          "user": "gabriel.dube",
+          "count": 4
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 4
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 3
+        },
+        {
+          "user": "george.ferreira",
+          "count": 2
+        },
+        {
+          "user": "simrun.mannan",
+          "count": 2
+        },
+        {
+          "user": "hossam.mahmoud",
+          "count": 2
+        },
+        {
+          "user": "shashi.gonugunta",
+          "count": 2
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 4,
+      "22": 3,
+      "16": 10,
+      "14": 8,
+      "13": 4,
+      "20": 17,
+      "18": 14,
+      "17": 6,
+      "15": 14,
+      "19": 11,
+      "7": 2,
+      "6": 1,
+      "5": 1,
+      "4": 3,
+      "12": 1,
+      "2": 2,
+      "21": 3
+    },
+    "by_day": {
+      "Wednesday": 7,
+      "Tuesday": 27,
+      "Friday": 23,
+      "Thursday": 37,
+      "Monday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.42,
+    "dept_average_30d": 5.79,
+    "dept_rank": 781,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "username": "kate.studwell",
+  "name": "Kate Studwell",
+  "generated_at": "2026-04-08T20:22:07.859076",
+  "summary": {
+    "message_count": 1302,
+    "channels_active": 24,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 10.0,
+      "pos_count": 104,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh good catch, thank you! I'll take a look shortly",
+          "channel": "trust-battery-resiliency",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yep, makes sense. thanks!",
+          "channel": "inc-21213-trust-battery-decisions-erroring-due-to-b",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks! We have a <https://github.com/shop/world/pull/571966|PR that appears to have been a red merge> which infra central is correctly treating",
+          "channel": "team-cd",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> thanks! this makes sense. Can you write up a summary that I can put into the PR description when I make this change?",
+          "channel": "katestud-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! We'll take this under consideration. Bumping Redis will help with consumer lag :heart: . We'll look at this after we have the back pressure",
+          "channel": "trust-battery-resiliency",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I think you can leave it alone, we're directly looking at that. I wasn't aware of the label so feel free to remove it!",
+          "channel": "trust-battery-resiliency",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Excellent, thank you. And now can you draft an issue for investigating topic routing (from batch to backfill)? I'm not quite sure if we want to do",
+          "channel": "trust-battery-river-rafting",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for summarizing these notes!",
+          "channel": "trust-battery-resiliency",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Nice, thanks! I didn't see that thread",
+          "channel": "proj-cti-idv-improvements",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> Thanks! Marijana and I were discussion Option A and Option B earlier today and had the same concerns in Option B about having the",
+          "channel": "trust-battery-river-rafting",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> you should have access now. I want you to read through that transcript and then look at the issues we have logged as sub issues in",
+          "channel": "trust-battery-river-rafting",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> i increased the memory to 12 GB per replica, but my teammate suggests this might not be the right thing to do. View this context from",
+          "channel": "katestud-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I wonder if River can figure it out :slightly_smiling_face:",
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Okay well given that the builds did run, I think whatever _mechanism_ is deciding to trigger builds and also whether a release should be created for",
+          "channel": "trust-battery-ops",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "adam.shepley",
+          "count": 14
+        },
+        {
+          "user": "marijana.sostaric",
+          "count": 12
+        },
+        {
+          "user": "alex.babinski",
+          "count": 7
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 6
+        },
+        {
+          "user": "jenna.mccormick",
+          "count": 5
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 4
+        },
+        {
+          "user": "jeff.long",
+          "count": 3
+        },
+        {
+          "user": "olakitan.bello",
+          "count": 3
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 3
+        },
+        {
+          "user": "artem.tartakynov",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.48,
+      "count": 263,
+      "top_channels": [
+        {
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "messages": 498
+        },
+        {
+          "channel": "trust-battery-river-rafting",
+          "messages": 175
+        },
+        {
+          "channel": "trust-battery-ops",
+          "messages": 145
+        },
+        {
+          "channel": "inv-21060-redis-memory-low",
+          "messages": 116
+        },
+        {
+          "channel": "katestud-river",
+          "messages": 80
+        },
+        {
+          "channel": "trust-battery-resiliency",
+          "messages": 72
+        },
+        {
+          "channel": "proj-cti-idv-improvements",
+          "messages": 42
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20092-investigating-trust-battery-ooms",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20647-trust-battery-ooms-and-errors",
+          "messages": 24
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "marijana.sostaric",
+          "count": 14
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 8
+        },
+        {
+          "user": "jenna.mccormick",
+          "count": 7
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 6
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 5
+        },
+        {
+          "user": "artem.tartakynov",
+          "count": 3
+        },
+        {
+          "user": "niall.ryan",
+          "count": 3
+        },
+        {
+          "user": "kamakshi.bagga",
+          "count": 3
+        },
+        {
+          "user": "olakitan.bello",
+          "count": 2
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 158,
+      "16": 147,
+      "15": 164,
+      "14": 185,
+      "13": 68,
+      "22": 30,
+      "20": 191,
+      "19": 136,
+      "17": 111,
+      "21": 87,
+      "12": 23,
+      "11": 2
+    },
+    "by_day": {
+      "Wednesday": 325,
+      "Tuesday": 300,
+      "Monday": 166,
+      "Friday": 219,
+      "Thursday": 292
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.85,
+    "dept_average_30d": 5.75,
+    "dept_rank": 29,
+    "dept_size": 357
+  }
+}

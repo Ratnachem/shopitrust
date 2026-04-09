@@ -1,0 +1,301 @@
+{
+  "username": "marcandre.cournoyer",
+  "name": "Marcandre Cournoyer",
+  "generated_at": "2026-04-08T20:22:17.782393",
+  "summary": {
+    "message_count": 534,
+    "channels_active": 17,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 34,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 19,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah I checked it, and this is fine. Thanks! :approve:",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Cool thanks! No need to disrupt plans for now, but yes we should do before marking projects as Done.",
+          "channel": "proj-human-detection-in-envoy",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Will prep this to be the next shadow one",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Will do in ~1h",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "`?_fd=0` works but it's an unauthenticated escape hatch \u2014 there's no shopifolk or bot-classification check on it, anyone can use it. It's fine as a",
+          "channel": "shopify-universal-scraper",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "yep! Thanks to you and <@U03EN4GTZ4N> for the idea :raised_hands:",
+          "channel": "inv-20813-low-prio-sfr-sustained-bot-pressure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Oh actually. I pressed Claude a bit, and it recommends 3 sec :smile:\n\n```\u23fa Here's the comparison:\n\n ",
+          "channel": "inv-20813-low-prio-sfr-sustained-bot-pressure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sent to their channel. Will follow up. Thanks!",
+          "channel": "proj-sfr-low-priority-routing",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "As y'all know, the `request_priority` Nginx Lua stuff needs to be ported to Envoy.\n\nWhat is the latest on that? I'd like to understand what is",
+          "channel": "proj-self-hosted-envoy",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Indeed I dont see in <https://infra-central.shopify.io/deploy/deployments/41236?tab=commit-diff>. Sorry about that :confused: :coffee-intensifies-2:",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Or whatever else needed to start dropping",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said, no rush <@U02DE8VUERK> but I do need to understand the timing split, even if the same as Nginx. I might get pressed on this next week",
+          "channel": "proj-human-detection-in-envoy",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "these were in low priority, so it's OK to degrade whatever",
+          "channel": "proj-sfr-low-priority-routing",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "All right. I'm stepping out, and back at ~3:30 ET. If someone can start a deploy once <https://github.com/shop/world/pull/507706> is merge, please",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@W018WAEDR4Z> are you thinking in terms for prioritizing optimizations? Even if not much, the point is to have the right architecture, and not do",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.63,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "scott.mcneil",
+          "count": 19
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 13
+        },
+        {
+          "user": "josh.teeter",
+          "count": 13
+        },
+        {
+          "user": "sean.kelly",
+          "count": 12
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 12
+        },
+        {
+          "user": "michael.harris",
+          "count": 6
+        },
+        {
+          "user": "shen.ni",
+          "count": 5
+        },
+        {
+          "user": "sneha.shah",
+          "count": 5
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 5
+        },
+        {
+          "user": "marco.araujo",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.5,
+      "count": 202,
+      "top_channels": [
+        {
+          "channel": "proj-ddos-protection",
+          "messages": 289
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 96
+        },
+        {
+          "channel": "inv-20813-low-prio-sfr-sustained-bot-pressure",
+          "messages": 32
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 25
+        },
+        {
+          "channel": "proj-sfr-low-priority-routing",
+          "messages": 21
+        },
+        {
+          "channel": "proj-edge-stapled-sessions",
+          "messages": 18
+        },
+        {
+          "channel": "proj-human-detection-in-envoy",
+          "messages": 11
+        },
+        {
+          "channel": "proj-self-hosted-envoy",
+          "messages": 8
+        },
+        {
+          "channel": "proj-bot-classification-in-envoy",
+          "messages": 8
+        },
+        {
+          "channel": "sfr-internal-grpc-prototype",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 82,
+      "top_mentioners": [
+        {
+          "user": "scott.mcneil",
+          "count": 15
+        },
+        {
+          "user": "eric.walker",
+          "count": 8
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 4
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 4
+        },
+        {
+          "user": "shen.ni",
+          "count": 4
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 3
+        },
+        {
+          "user": "ratna",
+          "count": 3
+        },
+        {
+          "user": "alexa.whitney",
+          "count": 3
+        },
+        {
+          "user": "josh.teeter",
+          "count": 2
+        },
+        {
+          "user": "sean.kelly",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 68,
+      "16": 23,
+      "15": 48,
+      "14": 56,
+      "12": 20,
+      "20": 78,
+      "13": 49,
+      "19": 90,
+      "18": 61,
+      "11": 5,
+      "2": 1,
+      "1": 1,
+      "0": 7,
+      "23": 5,
+      "22": 4,
+      "21": 18
+    },
+    "by_day": {
+      "Wednesday": 122,
+      "Tuesday": 68,
+      "Monday": 125,
+      "Thursday": 124,
+      "Friday": 95
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.29,
+    "dept_average_30d": 4.74,
+    "dept_rank": 129,
+    "dept_size": 1663
+  }
+}

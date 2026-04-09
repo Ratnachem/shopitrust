@@ -1,0 +1,246 @@
+{
+  "username": "vivek.wassan",
+  "name": "Vivek Wassan",
+  "generated_at": "2026-04-08T20:22:19.074709",
+  "summary": {
+    "message_count": 325,
+    "channels_active": 10,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hey Robin, the local dev setup on our end hasn't shipped yet. Until it does, I can help you get things running manually on your machine. Let",
+          "channel": "help-ris",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": ":wave: Hey Robin, the local dev setup on our end hasn't shipped yet. Until it does, I can help you get things running manually on your machine. Let",
+          "channel": "help-ris",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Integrating ShardRouter in engine for `shadow` and `explainify` users based on experimental flags:\n\u2022",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the reply! Any http end-point to keep it simple?",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hey Jan, thank you for your contribution. :ack: ing the :thread: . I'll circle back on this, sometime this week. :bow:",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad! <https://github.com/shop/world/blob/27cd008eeefbc152b57c9ceafb62672a9987f7aa/areas/platforms/query-engine/internal/planner/execute.go#L266>",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "If my :oncall: allows, I'll again give it try this week or else on Monday.",
+          "channel": "tectonix",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "kevin.lam",
+          "count": 8
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 3
+        },
+        {
+          "user": "charlie.king",
+          "count": 2
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "maria.ntalla",
+          "count": 2
+        },
+        {
+          "user": "jonathan.lalande",
+          "count": 2
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 1
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 1
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 1
+        },
+        {
+          "user": "ryan.crumley",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.78,
+      "count": 226,
+      "top_channels": [
+        {
+          "channel": "query-engine-dev",
+          "messages": 163
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 78
+        },
+        {
+          "channel": "proj-semantic-query-engine-ops",
+          "messages": 30
+        },
+        {
+          "channel": "help-exp",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20329-catalog-api-search-latency-spiked-from-co",
+          "messages": 15
+        },
+        {
+          "channel": "tectonix",
+          "messages": 10
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20271-broken-query-engine-connection-causing-st",
+          "messages": 4
+        },
+        {
+          "channel": "inv-19926-catalog-api-search-latency-spiking-due-to",
+          "messages": 4
+        },
+        {
+          "channel": "help-ris",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.54,
+      "count": 58,
+      "top_mentioners": [
+        {
+          "user": "seif.ghazi",
+          "count": 11
+        },
+        {
+          "user": "kevin.lam",
+          "count": 5
+        },
+        {
+          "user": "jonathan.lalande",
+          "count": 5
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 4
+        },
+        {
+          "user": "christian.lessard",
+          "count": 4
+        },
+        {
+          "user": "alex.watt",
+          "count": 3
+        },
+        {
+          "user": "peter.thesling",
+          "count": 3
+        },
+        {
+          "user": "prabhjot.bharaj",
+          "count": 3
+        },
+        {
+          "user": "maria.ntalla",
+          "count": 2
+        },
+        {
+          "user": "charlie.king",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 23,
+      "16": 27,
+      "15": 29,
+      "14": 35,
+      "18": 49,
+      "13": 18,
+      "3": 2,
+      "2": 5,
+      "22": 10,
+      "21": 28,
+      "20": 34,
+      "19": 36,
+      "12": 20,
+      "9": 1,
+      "10": 1,
+      "23": 6,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 130,
+      "Tuesday": 53,
+      "Monday": 36,
+      "Thursday": 78,
+      "Friday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.0,
+    "dept_average_30d": 5.75,
+    "dept_rank": 119,
+    "dept_size": 357
+  }
+}

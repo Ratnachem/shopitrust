@@ -1,0 +1,199 @@
+{
+  "username": "jita.yi",
+  "name": "Jita Yi",
+  "generated_at": "2026-04-08T20:22:22.321195",
+  "summary": {
+    "message_count": 251,
+    "channels_active": 11,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 9,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> that works thank you! Please fix the CI lint",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: hi team, I'm working on migrating the admin-web Companies index table to the new index table experience",
+          "channel": "b2b-eng",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "last chance",
+          "text": "it's our last chance to boss them around before they enslave us",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.28,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "madison.frye",
+          "count": 2
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        },
+        {
+          "user": "matthew.ellig",
+          "count": 1
+        },
+        {
+          "user": "sarchen.starke",
+          "count": 1
+        },
+        {
+          "user": "phil.coggins",
+          "count": 1
+        },
+        {
+          "user": "raman.lally",
+          "count": 1
+        },
+        {
+          "user": "joe.thomas",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.21,
+      "count": 137,
+      "top_channels": [
+        {
+          "channel": "proj-index-tables",
+          "messages": 118
+        },
+        {
+          "channel": "admin-workflows-river",
+          "messages": 89
+        },
+        {
+          "channel": "temp-table-filter-feedback",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20843-investigating-increasing-rate-of-bugsnag-",
+          "messages": 8
+        },
+        {
+          "channel": "b2b-eng",
+          "messages": 5
+        },
+        {
+          "channel": "inv-16685-polaris-migration-regressions",
+          "messages": 3
+        },
+        {
+          "channel": "admin-workflows-ops",
+          "messages": 3
+        },
+        {
+          "channel": "help-admin-workflows",
+          "messages": 3
+        },
+        {
+          "channel": "admin-web-oncall-team",
+          "messages": 2
+        },
+        {
+          "channel": "inv-19772-admin-webclientcritical-abnormally-high-a",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.55,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "kush.patel",
+          "count": 10
+        },
+        {
+          "user": "joe.holston",
+          "count": 4
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 3
+        },
+        {
+          "user": "jack.dziewonski",
+          "count": 3
+        },
+        {
+          "user": "raman.lally",
+          "count": 3
+        },
+        {
+          "user": "scott.birksted",
+          "count": 2
+        },
+        {
+          "user": "nikola.milosevic",
+          "count": 1
+        },
+        {
+          "user": "dave.darnes",
+          "count": 1
+        },
+        {
+          "user": "phil.coggins",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 46,
+      "16": 38,
+      "22": 9,
+      "19": 20,
+      "17": 9,
+      "14": 40,
+      "13": 27,
+      "12": 18,
+      "11": 5,
+      "21": 8,
+      "20": 10,
+      "3": 3,
+      "2": 1,
+      "18": 17
+    },
+    "by_day": {
+      "Wednesday": 70,
+      "Tuesday": 44,
+      "Monday": 42,
+      "Thursday": 61,
+      "Friday": 34
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.4,
+    "dept_average_30d": 4.74,
+    "dept_rank": 375,
+    "dept_size": 1663
+  }
+}

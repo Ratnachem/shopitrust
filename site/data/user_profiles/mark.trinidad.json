@@ -1,0 +1,87 @@
+{
+  "username": "mark.trinidad",
+  "name": "Mark Trinidad",
+  "generated_at": "2026-04-08T20:22:32.018944",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 1,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey <@U030ZHMNDBM>,  I got a follow up from the Broadcast theme listing page issue last week.  The Partner is continuing to get an error in their",
+          "channel": "help-theme-store",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "miller.hall",
+          "count": 2
+        },
+        {
+          "user": "ben.lerchin",
+          "count": 1
+        },
+        {
+          "user": "mya.biagi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.36,
+      "count": 36,
+      "top_channels": [
+        {
+          "channel": "help-theme-store",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "ben.lerchin",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 1,
+      "19": 2,
+      "16": 2
+    },
+    "by_day": {
+      "Tuesday": 1,
+      "Monday": 2,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.54,
+    "dept_average_30d": 4.56,
+    "dept_rank": 66,
+    "dept_size": 74
+  }
+}

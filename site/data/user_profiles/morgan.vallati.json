@@ -1,0 +1,266 @@
+{
+  "username": "morgan.vallati",
+  "name": "Morgan Vallati",
+  "generated_at": "2026-04-08T20:22:14.794077",
+  "summary": {
+    "message_count": 315,
+    "channels_active": 20,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah ok thank you!",
+          "channel": "partner-platform-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the mis-communication in deleting the cluster. We'll coordinate better when we try to delete next time to ensure all references have been",
+          "channel": "inc-20311-elastic-search-unavailable-for-partners-a",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "search-platform-alerts",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! ",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for the call out :sweat_smile:",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U09G876SU7J> do you want me to take the other 3 clusters so you can focus on one? Or do you want to split 2 and 2?",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the quick fix!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! This has changed a lot since I've done it, thank you for your patience :frog-pray:",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ahhh ok thank you!",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ahh ok that makes sense, thank you! :gh-check:",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "If you filter by `actionable only` you're right there's nothing actionable - but that's because there's no index to delete right now. You should have",
+          "channel": "inv-20142-shopsearchelasticsearch-cluster-elasticse",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "timothy.willard",
+          "count": 5
+        },
+        {
+          "user": "alex.gomez",
+          "count": 4
+        },
+        {
+          "user": "joe.letizia",
+          "count": 3
+        },
+        {
+          "user": "kenny.kwan",
+          "count": 3
+        },
+        {
+          "user": "ben.eichler",
+          "count": 2
+        },
+        {
+          "user": "robert.adler",
+          "count": 2
+        },
+        {
+          "user": "lily.li",
+          "count": 1
+        },
+        {
+          "user": "pawan.patel",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.53,
+      "count": 213,
+      "top_channels": [
+        {
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "messages": 122
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 28
+        },
+        {
+          "channel": "search-platform-alerts",
+          "messages": 25
+        },
+        {
+          "channel": "inc-20238-shopweb-foundations-shop-web-5xx499-respo",
+          "messages": 25
+        },
+        {
+          "channel": "inc-20311-elastic-search-unavailable-for-partners-a",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20142-shopsearchelasticsearch-cluster-elasticse",
+          "messages": 22
+        },
+        {
+          "channel": "proj-flow-regional-flow",
+          "messages": 20
+        },
+        {
+          "channel": "proj-search-control-plane-3",
+          "messages": 11
+        },
+        {
+          "channel": "elasticsearch-failovers",
+          "messages": 9
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "kenny.kwan",
+          "count": 17
+        },
+        {
+          "user": "alex.gomez",
+          "count": 13
+        },
+        {
+          "user": "mattie.toia",
+          "count": 4
+        },
+        {
+          "user": "david.rinkoff",
+          "count": 2
+        },
+        {
+          "user": "marek.kudlacz",
+          "count": 2
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "pawan.patel",
+          "count": 2
+        },
+        {
+          "user": "lorenzo.sciandra",
+          "count": 2
+        },
+        {
+          "user": "joe.letizia",
+          "count": 1
+        },
+        {
+          "user": "robert.mic",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 39,
+      "14": 36,
+      "13": 46,
+      "15": 27,
+      "12": 31,
+      "17": 38,
+      "19": 37,
+      "20": 13,
+      "16": 39,
+      "22": 3,
+      "21": 3,
+      "11": 2,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Monday": 60,
+      "Thursday": 53,
+      "Tuesday": 75,
+      "Friday": 46
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.76,
+    "dept_average_30d": 5.75,
+    "dept_rank": 159,
+    "dept_size": 357
+  }
+}

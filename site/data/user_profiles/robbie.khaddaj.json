@@ -1,0 +1,253 @@
+{
+  "username": "robbie.khaddaj",
+  "name": "Robbie Khaddaj",
+  "generated_at": "2026-04-08T20:22:21.921395",
+  "summary": {
+    "message_count": 346,
+    "channels_active": 20,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do we want to tell them to add it or you want me to add it to see if the patterns change?",
+          "channel": "inv-21119-topps-getting-error-pages",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sounds good. Let me know if you need any help",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "cust-accounts-and-shop-identity-collab",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019d also say that this is intentional in the design of using groups. This way if we are to add a new field to our GraphQL API that we\u2019d want to",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Are we talking about the scenario where the customer has the privilege of writing to a payment method but the domain logic does not allow them to for",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The scenario you\u2019re mentioning can happen if the client does not have the scopes that are being requested during the creation of a token for a",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "I think the answer is to deal with it in the authorization layer\u2026",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "There may be something interesting here though where you may have an entitlement but then also log in subsequently giving you more permissions to",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "nick.pinto",
+          "count": 5
+        },
+        {
+          "user": "shawn.leekwong",
+          "count": 5
+        },
+        {
+          "user": "dan.robinson",
+          "count": 3
+        },
+        {
+          "user": "denis.laliberte",
+          "count": 3
+        },
+        {
+          "user": "patrick.millward",
+          "count": 3
+        },
+        {
+          "user": "misha.korablin",
+          "count": 3
+        },
+        {
+          "user": "richard.poirier",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "emilie.cloutier",
+          "count": 2
+        },
+        {
+          "user": "kervin.alam",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.25,
+      "count": 251,
+      "top_channels": [
+        {
+          "channel": "proj-customer-account-api-auth-granularity",
+          "messages": 71
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 69
+        },
+        {
+          "channel": "ucp-identity-linking",
+          "messages": 42
+        },
+        {
+          "channel": "customer-account-and-login-ops",
+          "messages": 39
+        },
+        {
+          "channel": "inv-21119-topps-getting-error-pages",
+          "messages": 37
+        },
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 20
+        },
+        {
+          "channel": "cust-accounts-and-shop-identity-collab",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20369-capability-token-generate-duration---p99-",
+          "messages": 10
+        },
+        {
+          "channel": "si-2518-inv-20859-customer-auth-email-entry-can-bypass-csrf",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20580-several-ssoredirects-attempts-on-storefro",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "richard.poirier",
+          "count": 10
+        },
+        {
+          "user": "mattie.toia",
+          "count": 5
+        },
+        {
+          "user": "michael.dotson",
+          "count": 4
+        },
+        {
+          "user": "hao.li",
+          "count": 3
+        },
+        {
+          "user": "david.pettersson",
+          "count": 3
+        },
+        {
+          "user": "tyler.rowsell",
+          "count": 3
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 2
+        },
+        {
+          "user": "kervin.alam",
+          "count": 2
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 2
+        },
+        {
+          "user": "chris.m.campbell",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 56,
+      "14": 45,
+      "1": 1,
+      "22": 10,
+      "19": 73,
+      "18": 22,
+      "16": 21,
+      "23": 1,
+      "17": 25,
+      "13": 18,
+      "12": 3,
+      "0": 1,
+      "20": 40,
+      "21": 26,
+      "3": 1,
+      "2": 1,
+      "4": 2
+    },
+    "by_day": {
+      "Wednesday": 115,
+      "Tuesday": 59,
+      "Monday": 27,
+      "Friday": 87,
+      "Thursday": 58
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.13,
+    "dept_average_30d": 5.79,
+    "dept_rank": 357,
+    "dept_size": 1233
+  }
+}

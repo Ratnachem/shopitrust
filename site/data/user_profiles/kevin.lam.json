@@ -1,0 +1,273 @@
+{
+  "username": "kevin.lam",
+  "name": "Kevin Lam",
+  "generated_at": "2026-04-08T20:22:15.791487",
+  "summary": {
+    "message_count": 892,
+    "channels_active": 19,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "so once its there you can be feel free to play with it",
+          "channel": "proj-performant-mode-2-x-qe",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "> I\u2019m also assuming that asia-southeast1b is a typo in the capabilities.md, I\nYes, its a typo, that's a zone and the table is meant to be regions -",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats John!!",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! should we be emitting export telemetry?",
+          "channel": "help-observability",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "happy to help!",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for being flexible!",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "np! let me know if you need anything else",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":check: feel free to merge, it won't affect anything until we deploy",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yup let's circle back next week, thank you",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Jonathans change will let you query whatever the freshest snapshot is for a month",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "prabhjot.bharaj",
+          "count": 5
+        },
+        {
+          "user": "maria.ntalla",
+          "count": 5
+        },
+        {
+          "user": "vivek.wassan",
+          "count": 5
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 4
+        },
+        {
+          "user": "ryan.crumley",
+          "count": 3
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 3
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 2
+        },
+        {
+          "user": "jonathan.lalande",
+          "count": 2
+        },
+        {
+          "user": "katherine.bailey",
+          "count": 2
+        },
+        {
+          "user": "chris.pak",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 461,
+      "top_channels": [
+        {
+          "channel": "help-query-engine",
+          "messages": 279
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 209
+        },
+        {
+          "channel": "proj-performant-mode-2-x-qe",
+          "messages": 138
+        },
+        {
+          "channel": "inv-19926-catalog-api-search-latency-spiking-due-to",
+          "messages": 67
+        },
+        {
+          "channel": "proj-semantic-query-engine-ops",
+          "messages": 53
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 48
+        },
+        {
+          "channel": "inv-20329-catalog-api-search-latency-spiked-from-co",
+          "messages": 19
+        },
+        {
+          "channel": "help-observability",
+          "messages": 15
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 15
+        },
+        {
+          "channel": "inc-19926-catalog-api-search-latency-spiking-due-to",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 109,
+      "top_mentioners": [
+        {
+          "user": "prabhjot.bharaj",
+          "count": 17
+        },
+        {
+          "user": "ryan.crumley",
+          "count": 13
+        },
+        {
+          "user": "chris.pak",
+          "count": 8
+        },
+        {
+          "user": "vivek.wassan",
+          "count": 8
+        },
+        {
+          "user": "maurizio.cucchiara",
+          "count": 7
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 5
+        },
+        {
+          "user": "jonathan.lalande",
+          "count": 5
+        },
+        {
+          "user": "robin.brandt",
+          "count": 3
+        },
+        {
+          "user": "ken.prochnow",
+          "count": 3
+        },
+        {
+          "user": "kenny.law",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 124,
+      "17": 109,
+      "15": 92,
+      "19": 126,
+      "14": 155,
+      "21": 3,
+      "20": 75,
+      "13": 127,
+      "16": 38,
+      "12": 11,
+      "23": 3,
+      "9": 1,
+      "1": 6,
+      "6": 1,
+      "0": 12,
+      "22": 9
+    },
+    "by_day": {
+      "Wednesday": 224,
+      "Tuesday": 237,
+      "Monday": 138,
+      "Thursday": 229,
+      "Friday": 64
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.75,
+    "dept_average_30d": 5.75,
+    "dept_rank": 33,
+    "dept_size": 357
+  }
+}

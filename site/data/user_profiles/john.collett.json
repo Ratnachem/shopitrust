@@ -1,0 +1,200 @@
+{
+  "username": "john.collett",
+  "name": "John Collett",
+  "generated_at": "2026-04-08T20:22:31.827095",
+  "summary": {
+    "message_count": 115,
+    "channels_active": 7,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you. Ticket has been updated",
+          "channel": "devtools-proj-templated-refs",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "temp-private-doc-pipeline",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "PR: <https://github.com/shop/world/pull/512415> feel free to test it out and let me know if anything is still missing that you expect",
+          "channel": "proj-devtools-ui-extensions-docs",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "PR: <https://github.com/shop/world/pull/512415> feel free to test it out and let me know if anything is still missing that you expect",
+          "channel": "proj-devtools-ui-extensions-docs",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "oh I'm stupid it should be <https://pr-495102.shopify-dev.shopify.io/internal/bourgeois>",
+          "channel": "temp-private-doc-pipeline",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> so far I create the patch in the old shopify dev repo, i then created a new branch in the world repo.  I began applying the patch.  I",
+          "channel": "devtools-river-rats",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "tim.trevor",
+          "count": 2
+        },
+        {
+          "user": "laurel.king",
+          "count": 2
+        },
+        {
+          "user": "anne.liu",
+          "count": 1
+        },
+        {
+          "user": "phong.pham",
+          "count": 1
+        },
+        {
+          "user": "michelle.vinci",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.13,
+      "count": 109,
+      "top_channels": [
+        {
+          "channel": "devtools-proj-templated-refs",
+          "messages": 51
+        },
+        {
+          "channel": "proj-devtools-ui-extensions-docs",
+          "messages": 37
+        },
+        {
+          "channel": "help-shopify-dev-eng",
+          "messages": 9
+        },
+        {
+          "channel": "devtools-river-rats",
+          "messages": 8
+        },
+        {
+          "channel": "temp-private-doc-pipeline",
+          "messages": 8
+        },
+        {
+          "channel": "help-shopify-dev-content",
+          "messages": 1
+        },
+        {
+          "channel": "ui-extensions-api-releases",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 74,
+      "top_mentioners": [
+        {
+          "user": "laurel.king",
+          "count": 24
+        },
+        {
+          "user": "michelle.vinci",
+          "count": 14
+        },
+        {
+          "user": "ren.chaturvedi",
+          "count": 12
+        },
+        {
+          "user": "majd.almnayer",
+          "count": 5
+        },
+        {
+          "user": "tim.trevor",
+          "count": 4
+        },
+        {
+          "user": "austin.schaefer",
+          "count": 4
+        },
+        {
+          "user": "nelson.wittwer",
+          "count": 3
+        },
+        {
+          "user": "jenniferm.gray",
+          "count": 2
+        },
+        {
+          "user": "midhat.azad",
+          "count": 2
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 25,
+      "16": 8,
+      "15": 13,
+      "20": 11,
+      "19": 21,
+      "13": 10,
+      "12": 2,
+      "17": 3,
+      "14": 21,
+      "21": 1
+    },
+    "by_day": {
+      "Thursday": 16,
+      "Wednesday": 24,
+      "Tuesday": 33,
+      "Monday": 16,
+      "Friday": 26
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.66,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1098,
+    "dept_size": 1233
+  }
+}

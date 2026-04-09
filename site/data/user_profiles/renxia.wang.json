@@ -1,0 +1,212 @@
+{
+  "username": "renxia.wang",
+  "name": "Renxia Wang",
+  "generated_at": "2026-04-08T20:22:32.288310",
+  "summary": {
+    "message_count": 110,
+    "channels_active": 15,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U02SJJ3LNR3> I removed b2b project boards from the issue. will leave it to you to add to the ACH team's board. Thanks!",
+          "channel": "b2b-team",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! <@W018WB3Q59P> can we get an example of the flow from the merchant? or ask the merchant to try again to see if the flag ^ that fixes it?",
+          "channel": "b2b-team",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So it looks like `cart.delivery.selected_address` may get an address from the d2c customer? I am not sure how to get into that path, but here is what",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "hovo.khachikyan",
+          "count": 5
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 5
+        },
+        {
+          "user": "craig.coles",
+          "count": 4
+        },
+        {
+          "user": "gavin.hinchley",
+          "count": 4
+        },
+        {
+          "user": "bheeshmar.redheendran",
+          "count": 2
+        },
+        {
+          "user": "mathieu.wrzesien",
+          "count": 2
+        },
+        {
+          "user": "nathan.wenneker",
+          "count": 2
+        },
+        {
+          "user": "marcos.deoliveiracoutofilho",
+          "count": 2
+        },
+        {
+          "user": "john.pan",
+          "count": 2
+        },
+        {
+          "user": "andrew.knowles",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.46,
+      "count": 262,
+      "top_channels": [
+        {
+          "channel": "b2b-operations",
+          "messages": 27
+        },
+        {
+          "channel": "proj-autopilot",
+          "messages": 19
+        },
+        {
+          "channel": "proj-autopilot-ux-pillar",
+          "messages": 10
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 9
+        },
+        {
+          "channel": "proj-persist-cart-metafields",
+          "messages": 8
+        },
+        {
+          "channel": "b2b-team",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20075-world-shopify-post-merge-testing-failing-",
+          "messages": 6
+        },
+        {
+          "channel": "customer-account-web-contributors",
+          "messages": 6
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 4
+        },
+        {
+          "channel": "checkout-backend-persistence-only",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "bheeshmar.redheendran",
+          "count": 3
+        },
+        {
+          "user": "jass.arora",
+          "count": 3
+        },
+        {
+          "user": "john.barron",
+          "count": 3
+        },
+        {
+          "user": "aaron.soules",
+          "count": 2
+        },
+        {
+          "user": "mark.levidayyan",
+          "count": 2
+        },
+        {
+          "user": "alvaro.perezliano",
+          "count": 2
+        },
+        {
+          "user": "craig.coles",
+          "count": 1
+        },
+        {
+          "user": "greg.yang",
+          "count": 1
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 1
+        },
+        {
+          "user": "sam.dupras",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 6,
+      "18": 19,
+      "17": 18,
+      "15": 11,
+      "13": 11,
+      "12": 11,
+      "2": 2,
+      "22": 2,
+      "14": 16,
+      "20": 2,
+      "16": 12
+    },
+    "by_day": {
+      "Friday": 31,
+      "Thursday": 35,
+      "Wednesday": 27,
+      "Tuesday": 16,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.77,
+    "dept_average_30d": 4.74,
+    "dept_rank": 256,
+    "dept_size": 1663
+  }
+}

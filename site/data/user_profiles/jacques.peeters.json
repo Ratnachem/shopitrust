@@ -1,0 +1,264 @@
+{
+  "username": "jacques.peeters",
+  "name": "Jacques Peeters",
+  "generated_at": "2026-04-08T20:22:16.231618",
+  "summary": {
+    "message_count": 205,
+    "channels_active": 16,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.6,
+      "pos_count": 6,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for splitting into a stack :+1: Approved the first one. It was easy to.",
+          "channel": "proj-mozart-system-send-time-optimization",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey,\n\nThank you <@U0815K8HYAY> for circling back.\n\nMy question is how are we supposed to ship incremental models correctly.\nMy understanding was to",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey <@U097CUD4G9F>,\n\nA warmful thank you. :heart:\n\nBeen pulled into different problems :grumpycat: Added a small comments.\nThank you for bridging the",
+          "channel": "temp-shop-uuid-melodymozart-discussion",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both.\n\n&gt; We should probably make this run in parallel somehow if we can - and still need to keep it after removing",
+          "channel": "melody-cdp-ops",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Anyway, thank you for the feedback :slightly_smiling_face:",
+          "channel": "help-growth-data",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ok my bad. Will wait then.",
+          "channel": "melody-team",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Asking stupid questions to make sure we're aligned:\n\u2022 we want to deprecate contact_id  (columns and concept) in favor of recipient_id\n\u2022 right now",
+          "channel": "temp-shop-uuid-melodymozart-discussion",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "For the one we don't recreate like the V1, we don't care if they're removed?",
+          "channel": "proj-mozart-system-send-time-optimization",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "&gt; The agent gamed the metric. It discovered it could improve selectivity by collapsing scores to binary buckets rather than genuinely improving",
+          "channel": "proj-mozart-system-send-time-optimization",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I'm lacking context so might sound stupid.\n\nMerging this would follow what you proposed as a fast solution. I'm actually fine with it.\n\nif looks good",
+          "channel": "melody-team",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "thomas.brown",
+          "count": 9
+        },
+        {
+          "user": "steve.bako",
+          "count": 7
+        },
+        {
+          "user": "alec.schwinghamer",
+          "count": 6
+        },
+        {
+          "user": "hussein.patni",
+          "count": 5
+        },
+        {
+          "user": "jake.anderson",
+          "count": 5
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 3
+        },
+        {
+          "user": "eugene.katella",
+          "count": 3
+        },
+        {
+          "user": "mark.blum",
+          "count": 3
+        },
+        {
+          "user": "chand.bud",
+          "count": 3
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.97,
+      "count": 236,
+      "top_channels": [
+        {
+          "channel": "proj-mozart-system-send-time-optimization",
+          "messages": 63
+        },
+        {
+          "channel": "melody-cdp-ops",
+          "messages": 32
+        },
+        {
+          "channel": "inc-20152-event-processor-flink--crash-loop",
+          "messages": 30
+        },
+        {
+          "channel": "melody-team",
+          "messages": 16
+        },
+        {
+          "channel": "melody-cdp-ops-staging",
+          "messages": 11
+        },
+        {
+          "channel": "proj-migrate-melody-flink",
+          "messages": 11
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 10
+        },
+        {
+          "channel": "help-growth-data",
+          "messages": 6
+        },
+        {
+          "channel": "help-melody",
+          "messages": 6
+        },
+        {
+          "channel": "temp-shop-uuid-melodymozart-discussion",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.35,
+      "count": 37,
+      "top_mentioners": [
+        {
+          "user": "alec.schwinghamer",
+          "count": 8
+        },
+        {
+          "user": "jake.anderson",
+          "count": 5
+        },
+        {
+          "user": "steve.bako",
+          "count": 4
+        },
+        {
+          "user": "eugene.katella",
+          "count": 3
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 3
+        },
+        {
+          "user": "thomas.brown",
+          "count": 3
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 3
+        },
+        {
+          "user": "hussein.patni",
+          "count": 1
+        },
+        {
+          "user": "mark.blum",
+          "count": 1
+        },
+        {
+          "user": "michael.wu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 9,
+      "15": 23,
+      "10": 28,
+      "9": 17,
+      "7": 1,
+      "16": 42,
+      "13": 22,
+      "12": 7,
+      "8": 11,
+      "11": 15,
+      "19": 2,
+      "14": 23,
+      "18": 4,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 49,
+      "Tuesday": 38,
+      "Thursday": 32,
+      "Monday": 53,
+      "Friday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.9,
+    "dept_average_30d": 5.58,
+    "dept_rank": 142,
+    "dept_size": 398
+  }
+}

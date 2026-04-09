@@ -1,0 +1,252 @@
+{
+  "username": "andrea.dipersio",
+  "name": "Andrea Dipersio",
+  "generated_at": "2026-04-08T20:22:22.372894",
+  "summary": {
+    "message_count": 836,
+    "channels_active": 10,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 5,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "thanks to the hero that updated the dashboards :claps:",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Yes, feel free to migrate it",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "I just realized that thanks to the data correctness skill, when I ask an agent to compare a PR with production it now automatically analyze a time",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I just realized that thanks to the data correctness skill, when I ask an agent to compare a PR with production it now automatically analyze a time",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "The entire album is :amazing-7174: , but this track is just great Italian Prog Rock\n\n<https://www.youtube.com/watch?v=lhj50s1hTIU>",
+          "channel": "rss-feed",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": ":ai:\nThere it is. The p50 IPC batch size grew ~37% in 24 hours:\n\n\u2022 Morning March 23: ~95 MB\n\u2022 Afternoon March 23: ~130 MB\n\u2022 Stabilized overnight:",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I had spent most of the day reading our codebase (after all claude wrote most of it :grimace: ) and checking dashboards.\nI'll be off in ~30m.\nLet me",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Updating the AGENTS.md, let me know if you have something in mind you want to add, otherwise I'll merge in 15m",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if there has been any development on friday and collector updates needs being done",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to apply the fix to the collector as well",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think the agent can do it for you, just ask for a live benchmark of http collector edge, I am done with what I was testing so you can do whatever",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "On Monday I'll also compete the investigation on decisions tracking. I am pretty sure I mentioned naming this thing observe-ingest some weeks ago and",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Perhaps they don't have flush based on age and they rarely hit whatever flush threshold they have",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I use that to double check that I am dealing with the right image since i am stupid and can't properly update the image tag",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.38,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 16
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 9
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 3
+        },
+        {
+          "user": "sam.handler",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.86,
+      "count": 47,
+      "top_channels": [
+        {
+          "channel": "proj-o11y-ingestion-next-gen",
+          "messages": 765
+        },
+        {
+          "channel": "inv-20018-clickhouse-insert-failures",
+          "messages": 25
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 9
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 8
+        },
+        {
+          "channel": "help-observability",
+          "messages": 7
+        },
+        {
+          "channel": "inv-19968-clickhouse-write-failure",
+          "messages": 7
+        },
+        {
+          "channel": "observability-ingestion-alerts",
+          "messages": 5
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 4
+        },
+        {
+          "channel": "observe-ingest-alerts",
+          "messages": 3
+        },
+        {
+          "channel": "observability-logging",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 74,
+      "top_mentioners": [
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 53
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 16
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 2
+        },
+        {
+          "user": "sam.handler",
+          "count": 2
+        },
+        {
+          "user": "michael.rye",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 76,
+      "14": 62,
+      "13": 68,
+      "11": 79,
+      "8": 122,
+      "6": 7,
+      "7": 46,
+      "12": 61,
+      "10": 93,
+      "9": 117,
+      "16": 33,
+      "19": 4,
+      "18": 5,
+      "5": 14,
+      "4": 36,
+      "3": 7,
+      "20": 3,
+      "17": 3
+    },
+    "by_day": {
+      "Wednesday": 241,
+      "Tuesday": 215,
+      "Thursday": 260,
+      "Monday": 95,
+      "Friday": 25
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.62,
+    "dept_average_30d": 4.74,
+    "dept_rank": 296,
+    "dept_size": 1663
+  }
+}

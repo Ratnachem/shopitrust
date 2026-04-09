@@ -1,0 +1,215 @@
+{
+  "username": "allan.calix",
+  "name": "Allan Calix",
+  "generated_at": "2026-04-08T20:22:17.084095",
+  "summary": {
+    "message_count": 153,
+    "channels_active": 10,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to page again if you think there is some way we may be able to help",
+          "channel": "si-2534-qbot-sidekick-bug",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "We don't have much involvement with access/auth at this level aside from post-resolve access enforcement that seems to be working. Anything specific",
+          "channel": "si-2534-qbot-sidekick-bug",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I didnt investigate whatever was causing your timeouts specifically but the batch reader thing has an implicit dependency on the primary key id",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "wait nvm, stupid profiles thing",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So the algorithm would be:\n\u2022 take ANY $batch_size number of rows from bulk operation assets between 2024-06-01 or whatever and the beginning of",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":wave-frog: Hello! I am currently working on admin API bulk operations and we're working on adding a second scheduler for bulk queries. One issue we",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "adam.macdonald",
+          "count": 3
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 2
+        },
+        {
+          "user": "robert.vangennip",
+          "count": 2
+        },
+        {
+          "user": "bronwyn.skelley",
+          "count": 2
+        },
+        {
+          "user": "steve.lu",
+          "count": 1
+        },
+        {
+          "user": "jhskey.galang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.71,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "proj-better-bulk-ops",
+          "messages": 114
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 14
+        },
+        {
+          "channel": "river-api-foundations",
+          "messages": 13
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 3
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 2
+        },
+        {
+          "channel": "si-2534-qbot-sidekick-bug",
+          "messages": 2
+        },
+        {
+          "channel": "quick",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "s-foundations-apis-alerts",
+          "messages": 1
+        },
+        {
+          "channel": "inv-20110-bluejay-graphql-query-validation-percent-",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "steve.lu",
+          "count": 8
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 3
+        },
+        {
+          "user": "eric.h.lee",
+          "count": 3
+        },
+        {
+          "user": "vishnu.arun",
+          "count": 3
+        },
+        {
+          "user": "greg.macwilliam",
+          "count": 2
+        },
+        {
+          "user": "adam.macdonald",
+          "count": 1
+        },
+        {
+          "user": "topher.bullock",
+          "count": 1
+        },
+        {
+          "user": "robert.vangennip",
+          "count": 1
+        },
+        {
+          "user": "jason.selby",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 9,
+      "16": 1,
+      "15": 4,
+      "21": 50,
+      "20": 38,
+      "0": 1,
+      "19": 15,
+      "18": 5,
+      "22": 25,
+      "5": 1,
+      "23": 2,
+      "3": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 16,
+      "Monday": 65,
+      "Friday": 16,
+      "Thursday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.21,
+    "dept_average_30d": 5.79,
+    "dept_rank": 916,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "username": "jorge.quan",
+  "name": "Jorge Quan",
+  "generated_at": "2026-04-08T20:22:13.973494",
+  "summary": {
+    "message_count": 565,
+    "channels_active": 38,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 45,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 10.0,
+      "pos_count": 57,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave:  hi team\na very simple <https://app.graphite.com/github/pr/Shopify/shop-server/151267#|PR> to remove an unused flag from flags.yml, thank you!",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave:  another <https://app.graphite.com/github/pr/Shopify/shop-server/150961#|flag clean PR >if anyone has time, thank you!",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave:  hi team, I have a couple of backend PRs to increase usage of uuids, would appreciate reviews, thanks! :thanking:\n\u2022",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! left a small comment on that we can avoid QueryEngine part when Pay is killswitched, we can query directly using the domains",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I will wait ~30 min or a bit longer  to see how Shop behaves with YB before we attempt to restart reads on Shop pay and identity from YB. Let me know",
+          "channel": "inc-20936-shop-is-down",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "interesting, thanks!\nit seems that this was likely broken around Jan 9th (because were receiving metrics",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "slightly related, I have a <https://app.graphite.com/github/shop/world/pull/561246|PR in core> to start sending the new optional field",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave:  hi team, I am looking for a review in <https://app.graphite.com/github/pr/shop/world/558518|this PR> in core to start sending the new ",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave:  hi team\nLooking for some reviews on these PRs:\n\u2022 <https://app.graphite.com/github/Shopify/shop-server/pull/148687|GlobalDB reads on user",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave:  hi team,\nthere are small amount of errors on `null byte`:",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "andre.ericson",
+          "count": 7
+        },
+        {
+          "user": "barry.simunovic",
+          "count": 5
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 4
+        },
+        {
+          "user": "carljohan.gustavsson",
+          "count": 4
+        },
+        {
+          "user": "layne.koftinowmikan",
+          "count": 4
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 3
+        },
+        {
+          "user": "artur.spirke",
+          "count": 2
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 2
+        },
+        {
+          "user": "erin.ren",
+          "count": 2
+        },
+        {
+          "user": "elsa.huang",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 534,
+      "top_channels": [
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 116
+        },
+        {
+          "channel": "shop-wallet-dev",
+          "messages": 95
+        },
+        {
+          "channel": "shop-wallet-river",
+          "messages": 90
+        },
+        {
+          "channel": "inv-19965-new-subscriptions-not-appearing-in-shopap",
+          "messages": 48
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 41
+        },
+        {
+          "channel": "inc-20936-shop-is-down",
+          "messages": 33
+        },
+        {
+          "channel": "shop-wallet-ops",
+          "messages": 23
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 19
+        },
+        {
+          "channel": "inc-19965-new-subscriptions-not-appearing-in-shopap",
+          "messages": 10
+        },
+        {
+          "channel": "temp-shop-yuga-paykillswitchremoval",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 85,
+      "top_mentioners": [
+        {
+          "user": "rafi.jacoby",
+          "count": 7
+        },
+        {
+          "user": "layne.koftinowmikan",
+          "count": 6
+        },
+        {
+          "user": "erin.ren",
+          "count": 6
+        },
+        {
+          "user": "barry.simunovic",
+          "count": 5
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 4
+        },
+        {
+          "user": "andre.ericson",
+          "count": 4
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 3
+        },
+        {
+          "user": "karissa.genovese",
+          "count": 2
+        },
+        {
+          "user": "elsa.huang",
+          "count": 2
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 41,
+      "14": 70,
+      "13": 59,
+      "15": 68,
+      "12": 8,
+      "19": 36,
+      "17": 56,
+      "16": 49,
+      "22": 27,
+      "20": 58,
+      "2": 10,
+      "1": 15,
+      "0": 13,
+      "23": 19,
+      "21": 29,
+      "11": 3,
+      "5": 4
+    },
+    "by_day": {
+      "Wednesday": 179,
+      "Tuesday": 140,
+      "Monday": 87,
+      "Thursday": 85,
+      "Friday": 74
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.97,
+    "dept_average_30d": 5.77,
+    "dept_rank": 59,
+    "dept_size": 885
+  }
+}

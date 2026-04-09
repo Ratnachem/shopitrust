@@ -1,0 +1,115 @@
+{
+  "username": "krish.sridar",
+  "name": "Krish Sridar",
+  "generated_at": "2026-04-08T20:22:18.900588",
+  "summary": {
+    "message_count": 98,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team, I have a <https://app.graphite.com/github/pr/shop/world/520015?mode=tour|stack> up for updating `retail_tap_to_pay_subscriptions` table and",
+          "channel": "proj-retail-yugabyte-migration",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "shyam.kotak",
+          "count": 1
+        },
+        {
+          "user": "adam.vastopa",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.79,
+      "count": 100,
+      "top_channels": [
+        {
+          "channel": "retail-river",
+          "messages": 92
+        },
+        {
+          "channel": "proj-retail-yugabyte-migration",
+          "messages": 2
+        },
+        {
+          "channel": "retail-payments",
+          "messages": 2
+        },
+        {
+          "channel": "retail-payments-features",
+          "messages": 1
+        },
+        {
+          "channel": "proj-multi-entity-payment-features",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "shyam.kotak",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 12,
+      "16": 14,
+      "18": 10,
+      "0": 1,
+      "23": 2,
+      "22": 3,
+      "6": 3,
+      "5": 4,
+      "4": 7,
+      "3": 1,
+      "2": 7,
+      "1": 6,
+      "21": 5,
+      "19": 10,
+      "15": 5,
+      "14": 2,
+      "20": 6
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Thursday": 18,
+      "Tuesday": 40,
+      "Monday": 14,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.82,
+    "dept_average_30d": 5.77,
+    "dept_rank": 768,
+    "dept_size": 885
+  }
+}

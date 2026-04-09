@@ -1,0 +1,207 @@
+{
+  "username": "jeff.rothwell",
+  "name": "Jeff Rothwell",
+  "generated_at": "2026-04-08T20:22:07.745674",
+  "summary": {
+    "message_count": 133,
+    "channels_active": 15,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0671G26146> <https://github.com/shop/world/pull/529737|this one> has two approvals but then an unresolved comment from the api patterns team.\nWant",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Just updated the code based on your feedback. Thanks!  Ready for re-review",
+          "channel": "proj-order-edit-on-checkout-one",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "No I did not, sorry, want me to look into this or is someone else already investigating?",
+          "channel": "proj-order-edit-on-checkout-one",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You mean the fix for whatever was causing a ton of tests to get flagged as flaky because of sql count assertions? I thought they fixed that earlier",
+          "channel": "orders-penguins",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "riya.walia",
+          "count": 3
+        },
+        {
+          "user": "shairagavi.selvachandran",
+          "count": 2
+        },
+        {
+          "user": "jordan.foreman",
+          "count": 1
+        },
+        {
+          "user": "prajjwal.singh",
+          "count": 1
+        },
+        {
+          "user": "liam.meade",
+          "count": 1
+        },
+        {
+          "user": "diego.gilon",
+          "count": 1
+        },
+        {
+          "user": "henry.peng",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.98,
+      "count": 105,
+      "top_channels": [
+        {
+          "channel": "orders-penguins",
+          "messages": 54
+        },
+        {
+          "channel": "proj-order-edit-on-checkout-one",
+          "messages": 44
+        },
+        {
+          "channel": "penguins-flaky-tests-with-river",
+          "messages": 7
+        },
+        {
+          "channel": "tmp-burst-orders-spring-26",
+          "messages": 6
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 4
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 4
+        },
+        {
+          "channel": "orders-exceptions",
+          "messages": 3
+        },
+        {
+          "channel": "proj-order-edit-send-entire-order-state",
+          "messages": 3
+        },
+        {
+          "channel": "orders-flags-notifications",
+          "messages": 2
+        },
+        {
+          "channel": "proj-express-order-editing-on-c1",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "carson.huang",
+          "count": 8
+        },
+        {
+          "user": "david.hahn",
+          "count": 3
+        },
+        {
+          "user": "liam.meade",
+          "count": 2
+        },
+        {
+          "user": "shairagavi.selva-9056",
+          "count": 2
+        },
+        {
+          "user": "martin.samson",
+          "count": 2
+        },
+        {
+          "user": "jordan.foreman",
+          "count": 1
+        },
+        {
+          "user": "ken.smith",
+          "count": 1
+        },
+        {
+          "user": "prajjwal.singh",
+          "count": 1
+        },
+        {
+          "user": "john.baynton",
+          "count": 1
+        },
+        {
+          "user": "riya.walia",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "17": 12,
+      "15": 24,
+      "14": 29,
+      "21": 5,
+      "19": 17,
+      "16": 8,
+      "13": 17,
+      "20": 3,
+      "11": 1,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 42,
+      "Tuesday": 46,
+      "Monday": 16,
+      "Thursday": 22,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.14,
+    "dept_average_30d": 5.79,
+    "dept_rank": 946,
+    "dept_size": 1233
+  }
+}

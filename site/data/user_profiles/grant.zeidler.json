@@ -1,0 +1,110 @@
+{
+  "username": "grant.zeidler",
+  "name": "Grant Zeidler",
+  "generated_at": "2026-04-08T20:22:30.579908",
+  "summary": {
+    "message_count": 30,
+    "channels_active": 3,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! I want to do the same sort of thing for learn mode so please share your findings with me :pray:",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "colby.fayock",
+          "count": 2
+        },
+        {
+          "user": "apurva.gorti",
+          "count": 1
+        },
+        {
+          "user": "sai.nihas",
+          "count": 1
+        },
+        {
+          "user": "dima.belyaev",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.7,
+      "count": 45,
+      "top_channels": [
+        {
+          "channel": "sidekick-learn-mode",
+          "messages": 24
+        },
+        {
+          "channel": "proj-sidekick-appgen",
+          "messages": 3
+        },
+        {
+          "channel": "sidekick-input",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "apurva.gorti",
+          "count": 10
+        },
+        {
+          "user": "colby.fayock",
+          "count": 7
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 6,
+      "17": 10,
+      "21": 1,
+      "22": 2,
+      "20": 2,
+      "18": 7,
+      "16": 1,
+      "19": 1
+    },
+    "by_day": {
+      "Thursday": 4,
+      "Wednesday": 10,
+      "Tuesday": 6,
+      "Monday": 2,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.65,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1103,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "username": "joseph.fourny",
+  "name": "Joseph Fourny",
+  "generated_at": "2026-04-08T20:22:31.249096",
+  "summary": {
+    "message_count": 451,
+    "channels_active": 26,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help.",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "FYI, this should be fixed now. Let me know if issues persist",
+          "channel": "infra-central",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "more-or-less, yes. feel free to invite me along to help.",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Can you retry the deploy and let me know if problems persist?",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The solution may lie in the Deploy Service or infra repo (whatever is deciding on the clusters for the batch). That would need to take into account",
+          "channel": "infra-central",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "louis.munro",
+          "count": 4
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        },
+        {
+          "user": "kevin.norman",
+          "count": 2
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 2
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 2
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 1
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 1
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 1
+        },
+        {
+          "user": "arun.kumar",
+          "count": 1
+        },
+        {
+          "user": "james.hall",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.13,
+      "count": 350,
+      "top_channels": [
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 135
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 87
+        },
+        {
+          "channel": "infra-central",
+          "messages": 54
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 32
+        },
+        {
+          "channel": "proj-infra-shopify-secrets",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20925-gcp-project-team-ownership-is-being-moved",
+          "messages": 18
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 16
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 13
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 11
+        },
+        {
+          "channel": "job-platform",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.44,
+      "count": 57,
+      "top_mentioners": [
+        {
+          "user": "james.hall",
+          "count": 8
+        },
+        {
+          "user": "louis.munro",
+          "count": 5
+        },
+        {
+          "user": "jacob.lott",
+          "count": 5
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 4
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 3
+        },
+        {
+          "user": "chao.duan",
+          "count": 3
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 2
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        },
+        {
+          "user": "eric.yang",
+          "count": 2
+        },
+        {
+          "user": "filipe.deo",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "3": 2,
+      "23": 7,
+      "22": 9,
+      "21": 32,
+      "20": 35,
+      "19": 44,
+      "18": 73,
+      "17": 56,
+      "16": 39,
+      "15": 44,
+      "14": 36,
+      "0": 12,
+      "13": 34,
+      "12": 9,
+      "4": 1,
+      "2": 2,
+      "1": 15,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 159,
+      "Monday": 50,
+      "Friday": 67,
+      "Thursday": 98
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.52,
+    "dept_average_30d": 5.75,
+    "dept_rank": 56,
+    "dept_size": 357
+  }
+}

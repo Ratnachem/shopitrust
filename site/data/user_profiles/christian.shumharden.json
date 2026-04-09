@@ -1,0 +1,284 @@
+{
+  "username": "christian.shumharden",
+  "name": "Christian Shumharden",
+  "generated_at": "2026-04-08T20:22:25.065914",
+  "summary": {
+    "message_count": 178,
+    "channels_active": 22,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 28,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry - got pulled away - will have a PR in a min with UMD fix <https://app.graphite.com/github/pr/Shopify/dux/2289>\n\nwe will need to update our",
+          "channel": "dux-and-dux-adjacent",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018AV39JMC> are you configuring this specifically for `<http://app.shopify.com|app.shopify.com>` ? Let me know if we extend to other hosts and ill",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey <@U07V2G7HR5E> - sorry caught up in a few other things right now; i threw a calendar invite out for monday; feel free to invite whoever",
+          "channel": "dux-and-dux-adjacent",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "happy to join sync on this but i think it's scheduled for 5:30AM PST :sleeping: - will do my best to throw some ideas out for yall below\n\nfield",
+          "channel": "mission-cookies",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "ah my bad - you want me to revert it back and use latest build SHA from new pipeline? (e.g.",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ah my bad - you want me to revert it back and use latest build SHA from new pipeline? (e.g.",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "increased to 5%;\nim monitoring dux worker",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0892G0DEA1> - not sure if i follow, do you want me to increase admin-web rollout %? or are you doing load testing synthetically?",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you want to turn up volume of data (its at 1% for admin-web) or turn on dux-data for other merchant facing sites",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want me to prep something? i can run an agent to do this or give you a spring board",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "<@U0AEPQCKB3M> the following query and",
+          "channel": "brochure-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "`x-brochure-debug-country` is a bit _specific;_ fine by me to add `x-identity-debug-country`  (or could add a more generic one that everyone can use?",
+          "channel": "dux-and-dux-adjacent",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":thinking_face: should be doable;\nadd a `web_vitals_dom_content_loaded` INT\n\nopen to more drastic ideas too like an unstructured object that takes",
+          "channel": "help-shopify-websites",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.96,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "andrew.droll",
+          "count": 6
+        },
+        {
+          "user": "justin.arak",
+          "count": 5
+        },
+        {
+          "user": "colby.fayock",
+          "count": 4
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 3
+        },
+        {
+          "user": "james.go",
+          "count": 2
+        },
+        {
+          "user": "darren.li",
+          "count": 2
+        },
+        {
+          "user": "kevin.charette",
+          "count": 2
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 2
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 2
+        },
+        {
+          "user": "cathy.yip",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.66,
+      "count": 210,
+      "top_channels": [
+        {
+          "channel": "dux-and-dux-adjacent",
+          "messages": 31
+        },
+        {
+          "channel": "proj-application-edge-resiliency",
+          "messages": 31
+        },
+        {
+          "channel": "brochure-river",
+          "messages": 15
+        },
+        {
+          "channel": "retool-events-community",
+          "messages": 15
+        },
+        {
+          "channel": "proj-admin-events-in-event-refinery",
+          "messages": 14
+        },
+        {
+          "channel": "proj-app-store-cookie-deprecation",
+          "messages": 11
+        },
+        {
+          "channel": "help-shopify-websites",
+          "messages": 8
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 7
+        },
+        {
+          "channel": "proj-tinker-page-build",
+          "messages": 7
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 15
+        },
+        {
+          "user": "brian.berzellini",
+          "count": 6
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 6
+        },
+        {
+          "user": "sam.ugbechie",
+          "count": 6
+        },
+        {
+          "user": "justin.arak",
+          "count": 5
+        },
+        {
+          "user": "kumar.mcmillan",
+          "count": 3
+        },
+        {
+          "user": "kevin.charette",
+          "count": 3
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 3
+        },
+        {
+          "user": "peter.lazzarino",
+          "count": 2
+        },
+        {
+          "user": "gautam.lad",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 2,
+      "19": 23,
+      "23": 23,
+      "22": 19,
+      "20": 16,
+      "17": 25,
+      "15": 18,
+      "14": 2,
+      "0": 4,
+      "18": 23,
+      "16": 11,
+      "21": 10,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Friday": 29,
+      "Thursday": 48,
+      "Tuesday": 50,
+      "Monday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.75,
+    "dept_average_30d": 4.74,
+    "dept_rank": 259,
+    "dept_size": 1663
+  }
+}

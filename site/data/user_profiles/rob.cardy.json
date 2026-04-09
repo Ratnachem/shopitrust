@@ -1,0 +1,245 @@
+{
+  "username": "rob.cardy",
+  "name": "Rob Cardy",
+  "generated_at": "2026-04-08T20:22:19.154037",
+  "summary": {
+    "message_count": 380,
+    "channels_active": 24,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I don't see a meaningful correlation for inserted bytes or rows in that timeframe so I think it is indeed a red herring. Prema feel free to restart",
+          "channel": "inv-20992-clickhouse-insert-delays",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Well that at least unblocks me. Thanks!",
+          "channel": "dev-up",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Feels like so far we have raised up settings that we think will be used almost all the time\n\n&gt; with AI imo we can do \"update server settings spec",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U04GVRS4UET> <@W0183114J3Z> I think the Reportify side should be handling these operations now as you guys have far more context on your data than",
+          "channel": "clickhouse-for-reportify",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "A size cap would be warranted if it is possible to figure out the size of the dictionary in the blueprint layer. Not sure it is since its based on",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For mcp you can have a `.mcp.json` file in whatever directory you want to use your MCPs in. It is the same as the cursor mcp file afaik. Here is mine",
+          "channel": "rss-feed",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "tanner.bruce",
+          "count": 6
+        },
+        {
+          "user": "matt.franklin",
+          "count": 4
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 2
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 2
+        },
+        {
+          "user": "michael.wilkerson",
+          "count": 1
+        },
+        {
+          "user": "chase.platon",
+          "count": 1
+        },
+        {
+          "user": "gus.degeus",
+          "count": 1
+        },
+        {
+          "user": "devon.boyer",
+          "count": 1
+        },
+        {
+          "user": "dustin.hooten",
+          "count": 1
+        },
+        {
+          "user": "yifan.ye",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.46,
+      "count": 209,
+      "top_channels": [
+        {
+          "channel": "proj-ch-operator",
+          "messages": 82
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 74
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 41
+        },
+        {
+          "channel": "inv-20992-clickhouse-insert-delays",
+          "messages": 39
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 28
+        },
+        {
+          "channel": "observability-clickhouse-alerts",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20920-clickhouse-pods-restarting-repeatedly",
+          "messages": 15
+        },
+        {
+          "channel": "dev-up",
+          "messages": 12
+        },
+        {
+          "channel": "rss-ai",
+          "messages": 10
+        },
+        {
+          "channel": "reportify-clickhouse-alerts",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.48,
+      "count": 67,
+      "top_mentioners": [
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 17
+        },
+        {
+          "user": "michael.wilkerson",
+          "count": 11
+        },
+        {
+          "user": "michael.rye",
+          "count": 8
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 7
+        },
+        {
+          "user": "karl.baumgartner",
+          "count": 4
+        },
+        {
+          "user": "sam.handler",
+          "count": 4
+        },
+        {
+          "user": "lyne.champagne",
+          "count": 2
+        },
+        {
+          "user": "aly.gemae",
+          "count": 2
+        },
+        {
+          "user": "yifan.ye",
+          "count": 2
+        },
+        {
+          "user": "jin.li",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 27,
+      "14": 64,
+      "13": 15,
+      "15": 55,
+      "22": 11,
+      "18": 26,
+      "21": 21,
+      "20": 69,
+      "19": 48,
+      "16": 21,
+      "2": 9,
+      "4": 2,
+      "23": 5,
+      "0": 5,
+      "3": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 135,
+      "Tuesday": 85,
+      "Thursday": 75,
+      "Monday": 56,
+      "Friday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 5.75,
+    "dept_rank": 113,
+    "dept_size": 357
+  }
+}

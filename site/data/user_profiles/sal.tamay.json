@@ -1,0 +1,284 @@
+{
+  "username": "sal.tamay",
+  "name": "Sal Tamay",
+  "generated_at": "2026-04-08T20:22:21.527687",
+  "summary": {
+    "message_count": 187,
+    "channels_active": 17,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks for looking into this. let me know if you need anything from me",
+          "channel": "draft-orders-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "yea I'd assumed this would hit different codepath but I was wrong. should've tested it before rolling out. yea we need to remove the padding with a",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Continue this checkout work from the dashboard.\nIssue: #7196 \u2014 The merchant is having an issue accepting payment using PayPal. The",
+          "channel": "checkout-experience-production-support",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Continue this checkout work from the dashboard.\nIssue: #7739 \u2014 Checkout PayPal  | Checkout shows a shipping address even that PayPal",
+          "channel": "checkout-experience-production-support",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, let us know if that resolves the issue so we can close the GH ticket.",
+          "channel": "help-checkout-wallets",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm resolving this for now. Feel free to link this on a new request if you get any recent examples :+1:",
+          "channel": "help-checkout-wallets",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U03KEAGFS7L> can you please create an issue with MBT? Please make sure that we have all the details necessary to debug this, thanks!",
+          "channel": "help-checkout-wallets",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Just seeing this post. I'd appreciate your input on this and I'd also appreciate if I could get reviews on this PR",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hey team, as part of this investigation <#C0AJCRE5Y2G>  I'm looking to get eyes on this PR",
+          "channel": "help-addresses",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "It looks like the changes shipped in PR <https://github.com/shop/world/pull/523888|523888> has caused a",
+          "channel": "inv-19516-apple-pay-orders-continue-to-be-created-w",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":wave: Hey <@U02GZKP6GL9>, I investigated the Egypt Apple Pay recovery rates. Here's what's going on:\n\n*TL;DR:* No bug. Apple Pay in Egypt uses",
+          "channel": "proj-apple-pay-standardized-recovery-flow",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":wave: Hey team, looking for a review on a <https://app.graphite.com/github/pr/shop/world/471797|PR> that adds market-aware storefront URLs for",
+          "channel": "headless-dev",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "kristin.hung",
+          "count": 6
+        },
+        {
+          "user": "courtney.lavigne",
+          "count": 3
+        },
+        {
+          "user": "charlejourdano.planos",
+          "count": 2
+        },
+        {
+          "user": "malcolm.mergulhao",
+          "count": 2
+        },
+        {
+          "user": "laurent.dang",
+          "count": 2
+        },
+        {
+          "user": "amy.gordon",
+          "count": 1
+        },
+        {
+          "user": "alessio.lora",
+          "count": 1
+        },
+        {
+          "user": "scott.plybon",
+          "count": 1
+        },
+        {
+          "user": "steven.li",
+          "count": 1
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.65,
+      "count": 272,
+      "top_channels": [
+        {
+          "channel": "checkout-experience-production-support",
+          "messages": 45
+        },
+        {
+          "channel": "help-checkout-wallets",
+          "messages": 24
+        },
+        {
+          "channel": "headless-dev",
+          "messages": 24
+        },
+        {
+          "channel": "inv-19516-apple-pay-orders-continue-to-be-created-w",
+          "messages": 12
+        },
+        {
+          "channel": "draft-orders-dev",
+          "messages": 11
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 11
+        },
+        {
+          "channel": "help-addresses",
+          "messages": 10
+        },
+        {
+          "channel": "help-it",
+          "messages": 9
+        },
+        {
+          "channel": "checkout-unification-devs",
+          "messages": 9
+        },
+        {
+          "channel": "proj-apple-pay-standardized-recovery-flow",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.77,
+      "count": 41,
+      "top_mentioners": [
+        {
+          "user": "kristin.hung",
+          "count": 7
+        },
+        {
+          "user": "courtney.lavigne",
+          "count": 3
+        },
+        {
+          "user": "scott.plybon",
+          "count": 3
+        },
+        {
+          "user": "steven.li",
+          "count": 2
+        },
+        {
+          "user": "don.taruc",
+          "count": 2
+        },
+        {
+          "user": "stan.kostadinov",
+          "count": 2
+        },
+        {
+          "user": "evan.brodie",
+          "count": 2
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 2
+        },
+        {
+          "user": "jo.morgan",
+          "count": 1
+        },
+        {
+          "user": "wilson.chiang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 42,
+      "18": 18,
+      "17": 34,
+      "14": 28,
+      "13": 11,
+      "16": 21,
+      "19": 13,
+      "22": 6,
+      "21": 4,
+      "12": 3,
+      "2": 4,
+      "0": 1,
+      "20": 2
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 47,
+      "Monday": 14,
+      "Friday": 33,
+      "Thursday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.38,
+    "dept_average_30d": 5.79,
+    "dept_rank": 226,
+    "dept_size": 1233
+  }
+}

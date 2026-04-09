@@ -1,0 +1,219 @@
+{
+  "username": "mihai.popescu",
+  "name": "Mihai Popescu",
+  "generated_at": "2026-04-08T20:22:16.355441",
+  "summary": {
+    "message_count": 203,
+    "channels_active": 11,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oops my bad I didn't click \"yes\" lol",
+          "channel": "flow-operations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "<@W018GBM5QVB> apparently we'll likely run into problems with post deploy thanks to disabling e2e tests :weary:",
+          "channel": "flow-operations",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "initially we assume (as had been the case in the past) that it was just due to the number of pods being too high still, we tried stepping them down",
+          "channel": "inc-20713-flow-web-increase-of-5xx-errors-for-web",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "nice, I think this is it! I was just banging my head against this trying to figure it out, I couldn't find the original workflow so I was working",
+          "channel": "flow-tasks-team",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "lily.li",
+          "count": 10
+        },
+        {
+          "user": "gasser.aly",
+          "count": 5
+        },
+        {
+          "user": "timothy.willard",
+          "count": 3
+        },
+        {
+          "user": "colin.vrugteman",
+          "count": 3
+        },
+        {
+          "user": "tomas.baena",
+          "count": 2
+        },
+        {
+          "user": "robert.mic",
+          "count": 2
+        },
+        {
+          "user": "daria.sova",
+          "count": 2
+        },
+        {
+          "user": "carol.yun",
+          "count": 2
+        },
+        {
+          "user": "maxime.leduc",
+          "count": 1
+        },
+        {
+          "user": "jennifer.wills",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.82,
+      "count": 48,
+      "top_channels": [
+        {
+          "channel": "flow-operations",
+          "messages": 68
+        },
+        {
+          "channel": "inc-20713-flow-web-increase-of-5xx-errors-for-web",
+          "messages": 38
+        },
+        {
+          "channel": "inv-20898-synthetic-check-admin-web-create-workflow",
+          "messages": 37
+        },
+        {
+          "channel": "inv-20713-flow-web-increase-of-5xx-errors-for-web",
+          "messages": 13
+        },
+        {
+          "channel": "flow-oncall",
+          "messages": 12
+        },
+        {
+          "channel": "flow-tasks-team",
+          "messages": 11
+        },
+        {
+          "channel": "flow-development",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20976-kafka-consumers-are-lagging",
+          "messages": 7
+        },
+        {
+          "channel": "flow-project-fields-w-arguments",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20724-synthetic-check-admin-webflow-wait-step-m",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.21,
+      "count": 26,
+      "top_mentioners": [
+        {
+          "user": "lily.li",
+          "count": 4
+        },
+        {
+          "user": "gasser.aly",
+          "count": 4
+        },
+        {
+          "user": "steven.low",
+          "count": 3
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 3
+        },
+        {
+          "user": "ryan.ische",
+          "count": 2
+        },
+        {
+          "user": "carol.yun",
+          "count": 2
+        },
+        {
+          "user": "colin.vrugteman",
+          "count": 2
+        },
+        {
+          "user": "timothy.willard",
+          "count": 1
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 1
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 42,
+      "12": 2,
+      "20": 17,
+      "18": 17,
+      "16": 13,
+      "15": 29,
+      "14": 46,
+      "13": 21,
+      "19": 10,
+      "1": 1,
+      "21": 5
+    },
+    "by_day": {
+      "Wednesday": 65,
+      "Tuesday": 47,
+      "Thursday": 36,
+      "Monday": 2,
+      "Friday": 53
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.3,
+    "dept_average_30d": 5.79,
+    "dept_rank": 859,
+    "dept_size": 1233
+  }
+}

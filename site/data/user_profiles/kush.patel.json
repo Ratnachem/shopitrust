@@ -1,0 +1,299 @@
+{
+  "username": "kush.patel",
+  "name": "Kush Patel",
+  "generated_at": "2026-04-08T20:22:09.126374",
+  "summary": {
+    "message_count": 2672,
+    "channels_active": 89,
+    "unique_people_mentioned": 158,
+    "unique_mentioners": 94,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 10.0,
+      "pos_count": 103,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! ",
+          "channel": "proj-mobile-authentication",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U084V9REWRF> - really helps visibility here for anyone poking into this SA again!",
+          "channel": "admin-polaris",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! what about net new growth? ",
+          "channel": "proj-cleanup-events-table",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "thanks all :pray: appreciate it",
+          "channel": "proj-cleanup-events-table",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "since Customers is only in staff rollout we could revert that for now then figure it out later :thinking_face: cc <@U08HV12JEET>",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "one avenue is to split off customer events into a new table customer_events and power the timeline using it and you can put whatever you want there!",
+          "channel": "proj-cleanup-events-table",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "what is this <https://buildkite.com/shopify/world-shopify-selective-tests/builds/878579>\n```ake aborted!\nStrictWarning::Offense:",
+          "channel": "inc-20934-core-blocked-by-world-shopify-post-merge",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> can you fix\n\n`Lint/UselessAssignment: Useless assignment to variable -",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 163,
+      "top_mentioned": [
+        {
+          "user": "loic.delaubier",
+          "count": 17
+        },
+        {
+          "user": "adam.traver",
+          "count": 14
+        },
+        {
+          "user": "madison.frye",
+          "count": 13
+        },
+        {
+          "user": "nikola.milosevic",
+          "count": 11
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 11
+        },
+        {
+          "user": "emily.ye",
+          "count": 10
+        },
+        {
+          "user": "jita.yi",
+          "count": 10
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 10
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 10
+        },
+        {
+          "user": "bill.klenotiz",
+          "count": 9
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 988,
+      "top_channels": [
+        {
+          "channel": "proj-index-tables",
+          "messages": 311
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 281
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 174
+        },
+        {
+          "channel": "inc-20934-core-blocked-by-world-shopify-post-merge",
+          "messages": 149
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 145
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 134
+        },
+        {
+          "channel": "admin-workflows-river",
+          "messages": 119
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 113
+        },
+        {
+          "channel": "inv-16685-polaris-migration-regressions",
+          "messages": 109
+        },
+        {
+          "channel": "admin-polaris",
+          "messages": 94
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 181,
+      "top_mentioners": [
+        {
+          "user": "carlos.corvaia",
+          "count": 13
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 9
+        },
+        {
+          "user": "joe.holston",
+          "count": 7
+        },
+        {
+          "user": "nikola.milosevic",
+          "count": 5
+        },
+        {
+          "user": "chao.duan",
+          "count": 5
+        },
+        {
+          "user": "madison.frye",
+          "count": 5
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 5
+        },
+        {
+          "user": "matt.kubej",
+          "count": 5
+        },
+        {
+          "user": "michael.go",
+          "count": 5
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 186,
+      "17": 175,
+      "15": 194,
+      "14": 162,
+      "7": 56,
+      "3": 69,
+      "2": 86,
+      "1": 101,
+      "0": 133,
+      "22": 196,
+      "21": 195,
+      "20": 206,
+      "19": 214,
+      "16": 196,
+      "13": 44,
+      "12": 12,
+      "23": 114,
+      "6": 107,
+      "8": 22,
+      "5": 111,
+      "4": 93
+    },
+    "by_day": {
+      "Wednesday": 704,
+      "Tuesday": 724,
+      "Monday": 315,
+      "Friday": 349,
+      "Thursday": 580
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.99,
+    "dept_average_30d": 5.79,
+    "dept_rank": 85,
+    "dept_size": 1233
+  }
+}

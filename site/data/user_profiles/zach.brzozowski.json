@@ -1,0 +1,112 @@
+{
+  "username": "zach.brzozowski",
+  "name": "Zach Brzozowski",
+  "generated_at": "2026-04-08T20:22:29.835359",
+  "summary": {
+    "message_count": 40,
+    "channels_active": 6,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Gord (and River) y'all are amazing. I cloned it. I think I'm good to go",
+          "channel": "dev-up",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "matthew.fortier",
+          "count": 2
+        },
+        {
+          "user": "sadia.hoque",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.12,
+      "count": 56,
+      "top_channels": [
+        {
+          "channel": "dev-up",
+          "messages": 15
+        },
+        {
+          "channel": "help-credit-risk",
+          "messages": 8
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 8
+        },
+        {
+          "channel": "cr-loss-testing",
+          "messages": 4
+        },
+        {
+          "channel": "credit-risk-trends",
+          "messages": 3
+        },
+        {
+          "channel": "emerging-fraud-trends",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "george.zanetti",
+          "count": 2
+        },
+        {
+          "user": "matthew.fortier",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "21": 4,
+      "17": 4,
+      "16": 20,
+      "15": 9,
+      "20": 2
+    },
+    "by_day": {
+      "Friday": 4,
+      "Wednesday": 4,
+      "Tuesday": 3,
+      "Monday": 3,
+      "Thursday": 26
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.1,
+    "dept_average_30d": 4.89,
+    "dept_rank": 165,
+    "dept_size": 237
+  }
+}

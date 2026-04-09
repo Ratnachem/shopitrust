@@ -1,0 +1,284 @@
+{
+  "username": "connor.clark",
+  "name": "Connor Clark",
+  "generated_at": "2026-04-08T20:22:14.665808",
+  "summary": {
+    "message_count": 475,
+    "channels_active": 25,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 10,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds great; thank you.",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Approved! Let me know if I missed any; I think I got them all.",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; We definitely don't want to merge that SA PR, though\nYeah, I just closed it.\n\n&gt; If you don't pass in that header then it uses a default",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U08DRTL0WPK> I can help with these. What's the use case?",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Approved; thank you.",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Approved; thanks!",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Yes, I think that's an acceptable definition of \"identify\". But the \"if so, why?\" is the important part here, IMO. If the answer is always \"because",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://docs.google.com/presentation/d/1naZiXeWVU0XtogWs3aPHZbVN-mMOuZZTOvqJ1mMKfaw/edit?slide=id.g3d79bd0534d_0_5#slide=id.g3d79bd0534d_0_5|done>;",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll update my slide.",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!\n\nThis needs to get into a Vault doc in the Event Refinery section somewhere, since it's something everyone querying ER will need to know",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I'd love to remove these useless events. The only time I encounter them is when I forget to copy/paste the fff filter everywhere :smile:",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "We should definitely proceed carefully here because it really could explode the size of our mapping tables, filling them with mostly-useless data.",
+          "channel": "tmp-sbsid-in-identity-graph",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "FWIW, I spent a couple days of my oncall week on this one and could not figure it out :disappointed: . Here are",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "francois.saintjacques",
+          "count": 9
+        },
+        {
+          "user": "ashay.pathak",
+          "count": 6
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 6
+        },
+        {
+          "user": "timothy.weeks",
+          "count": 5
+        },
+        {
+          "user": "ali.mir",
+          "count": 5
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 4
+        },
+        {
+          "user": "marc.laforet",
+          "count": 3
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 3
+        },
+        {
+          "user": "yang.gao",
+          "count": 2
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.83,
+      "count": 387,
+      "top_channels": [
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 163
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 60
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 43
+        },
+        {
+          "channel": "identity-graph-data-atc",
+          "messages": 37
+        },
+        {
+          "channel": "tmp-sbsid-in-identity-graph",
+          "messages": 28
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 23
+        },
+        {
+          "channel": "boost-user-recognition",
+          "messages": 18
+        },
+        {
+          "channel": "inc-21232-missing-data-in-identifierubimapping-tabl",
+          "messages": 17
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 16
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 105,
+      "top_mentioners": [
+        {
+          "user": "akshay.soni",
+          "count": 17
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 12
+        },
+        {
+          "user": "yang.gao",
+          "count": 8
+        },
+        {
+          "user": "andrew.droll",
+          "count": 6
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 5
+        },
+        {
+          "user": "peter.thesling",
+          "count": 5
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 4
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 4
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 50,
+      "17": 58,
+      "16": 54,
+      "15": 61,
+      "14": 32,
+      "22": 28,
+      "21": 26,
+      "20": 37,
+      "13": 46,
+      "12": 24,
+      "23": 5,
+      "19": 49,
+      "0": 5
+    },
+    "by_day": {
+      "Wednesday": 119,
+      "Tuesday": 104,
+      "Monday": 100,
+      "Friday": 52,
+      "Thursday": 100
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.69,
+    "dept_average_30d": 5.39,
+    "dept_rank": 20,
+    "dept_size": 272
+  }
+}

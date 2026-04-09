@@ -1,0 +1,313 @@
+{
+  "username": "mark.blum",
+  "name": "Mark Blum",
+  "generated_at": "2026-04-08T20:22:06.083268",
+  "summary": {
+    "message_count": 1082,
+    "channels_active": 36,
+    "unique_people_mentioned": 43,
+    "unique_mentioners": 42,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 38,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to still review the refactor :slightly_smiling_face: Or get back to the Mastery grind",
+          "channel": "proj-mozart-shop-app-push-transactional-notifs",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ahh, makes sense. TIL thanks!",
+          "channel": "help-mozart",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Yeah, ask in there and link back to this thread, i'll try and keep eyes on it incase there's something I can help with",
+          "channel": "help-mozart",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "```\ud83d\ude80 Scanning Mozart PRs between commits...\n\n   \ud83d\udcc2 Repository: /Users/markbabc/world/trees/root/src\n   \ud83d\udccc Deployed:  ",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "```\ud83d\ude80 Scanning Mozart PRs between commits...\n\n   \ud83d\udcc2 Repository: /Users/markbabc/world/trees/root/src\n   \ud83d\udccc Deployed:  ",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'll get around to one in maybe an hour or so, if anyone has a pressing PR feel free to deploy sooner",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "Waiting for <https://infra-central.shopify.io/conveyor/releases/31972?tab=contents> to finish\n\n```\ud83d\ude80 Scanning Mozart PRs between commits...\n\n   \ud83d\udcc2",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "```\ud83d\ude80 Scanning Mozart PRs between commits...\n\n   \ud83d\udcc2 Repository: /Users/markbabc/world/trees/root/src\n   \ud83d\udccc Deployed:  ",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Heard, only hedwig workers scaled down, thanks!",
+          "channel": "mozart-ops",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "```\ud83d\ude80 Scanning Mozart PRs between commits...\n\n   \ud83d\udcc2 Repository: /Users/markbabc/world/trees/root/src\n   \ud83d\udccc Deployed:  ",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm assuming since zero rewards had been actually given, whatever initial seed distribution saw the same subject_id/context and scored them exactly",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "friendly reminder",
+          "text": "Friendly reminder this is still outstanding, not yet critical but will block Shop from deprecating the integer id and I think will block Melody from",
+          "channel": "temp-shop-uuid-melodymozart-discussion",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I'm not against removing `preStop` definitely seems useless\n\nThe 4 pre-existing pods should all `SIGTERM` almost at exactly the same time, and from",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I'm not quite following why it would matter (even if useless) <@W018PU3LVNY>\n\nIsnt preStop just \"okay I wont send `SIGTERM` for 30 seconds while I",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can carve out some time to look at this, i'd like to mirror staging to current prod state and validate whatever we do doenst cause issues there out",
+          "channel": "proj-mozart-metadata-search-enhancement",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U02TU1545R6> You should have messages now!",
+          "channel": "temp-shop-uuid-melodymozart-discussion",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes, that's what i'm working on. If getting unblocked ASAP is critical if they go through the process of whatever creates a new email template call",
+          "channel": "proj-mozart-sales-sequence-for-crm",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "adam.archibald",
+          "count": 10
+        },
+        {
+          "user": "brett.marx",
+          "count": 9
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 8
+        },
+        {
+          "user": "nicholas.wu",
+          "count": 5
+        },
+        {
+          "user": "david.aminpriddle",
+          "count": 5
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 4
+        },
+        {
+          "user": "maiha.nguyen",
+          "count": 4
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 4
+        },
+        {
+          "user": "samuel.giles",
+          "count": 4
+        },
+        {
+          "user": "hussein.patni",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.16,
+      "count": 246,
+      "top_channels": [
+        {
+          "channel": "mozart-engineering",
+          "messages": 260
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 150
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 105
+        },
+        {
+          "channel": "mozart-backoffice",
+          "messages": 79
+        },
+        {
+          "channel": "proj-mozart-bandits",
+          "messages": 78
+        },
+        {
+          "channel": "mozart-ops-staging",
+          "messages": 55
+        },
+        {
+          "channel": "proj-tier1-infra-mozart",
+          "messages": 40
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 40
+        },
+        {
+          "channel": "temp-shop-uuid-melodymozart-discussion",
+          "messages": 37
+        },
+        {
+          "channel": "inv-20932-mozart-journey-errors-causing-high-utiliz",
+          "messages": 37
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 144,
+      "top_mentioners": [
+        {
+          "user": "robert.wang",
+          "count": 20
+        },
+        {
+          "user": "david.aminpriddle",
+          "count": 17
+        },
+        {
+          "user": "adam.archibald",
+          "count": 14
+        },
+        {
+          "user": "tomas.echeverri",
+          "count": 11
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 8
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 7
+        },
+        {
+          "user": "samuel.giles",
+          "count": 6
+        },
+        {
+          "user": "brett.marx",
+          "count": 6
+        },
+        {
+          "user": "dave.benvenuti",
+          "count": 5
+        },
+        {
+          "user": "maiha.nguyen",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 112,
+      "17": 95,
+      "16": 130,
+      "15": 77,
+      "14": 124,
+      "13": 106,
+      "12": 77,
+      "23": 42,
+      "20": 110,
+      "11": 6,
+      "19": 133,
+      "21": 33,
+      "0": 3,
+      "22": 34
+    },
+    "by_day": {
+      "Wednesday": 212,
+      "Tuesday": 253,
+      "Monday": 168,
+      "Friday": 231,
+      "Thursday": 218
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.76,
+    "dept_average_30d": 5.58,
+    "dept_rank": 23,
+    "dept_size": 398
+  }
+}

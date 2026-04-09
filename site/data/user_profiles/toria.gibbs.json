@@ -1,0 +1,216 @@
+{
+  "username": "toria.gibbs",
+  "name": "Toria Gibbs",
+  "generated_at": "2026-04-08T20:22:13.215950",
+  "summary": {
+    "message_count": 97,
+    "channels_active": 12,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I think I'm just going to enable emergency mode in my shipit stack to get this out. I want to go to lunch and I don't want to block other",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll get a pods person to review. I just have no idea what I'm doing with these Github Actions/workflows",
+          "channel": "proj-eng-retire-services-db",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Good news: we can probably unblock The Store folks immediately by ensuring whatever pod they're on has got these tables in the config\n\nTBD: cutover",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":brain: TIRED: migrating tables from CG2/shardm using 3 different strategies depending on their write downtime tolerance\n:galaxy-brain: INSPIRED:",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Welcome to the project <@W018HMX8WN6>!!!\n\nKate <https://vault.shopify.io/gsd/projects/48527-Data-Storage-Yugabyte-to-MySQL-fallback-streaming|has",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "brian.chae",
+          "count": 4
+        },
+        {
+          "user": "kate.galieva",
+          "count": 3
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 1
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "hartley.mcguire",
+          "count": 1
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        },
+        {
+          "user": "james.zhu",
+          "count": 1
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.02,
+      "count": 106,
+      "top_channels": [
+        {
+          "channel": "proj-infra-yugabyte-core-tables",
+          "messages": 49
+        },
+        {
+          "channel": "pods",
+          "messages": 17
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 6
+        },
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 5
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 4
+        },
+        {
+          "channel": "proj-infra-yb-core-migration",
+          "messages": 4
+        },
+        {
+          "channel": "proj-yugabyte-thestore",
+          "messages": 3
+        },
+        {
+          "channel": "proj-eng-retire-services-db",
+          "messages": 3
+        },
+        {
+          "channel": "proj-core-applications-yugabyte",
+          "messages": 2
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "james.zhu",
+          "count": 8
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "brian.chae",
+          "count": 2
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 1
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 9,
+      "17": 6,
+      "20": 21,
+      "19": 3,
+      "14": 19,
+      "22": 1,
+      "21": 4,
+      "16": 5,
+      "15": 10,
+      "13": 16,
+      "12": 3
+    },
+    "by_day": {
+      "Wednesday": 34,
+      "Tuesday": 16,
+      "Monday": 15,
+      "Thursday": 23,
+      "Friday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.19,
+    "dept_average_30d": 5.75,
+    "dept_rank": 346,
+    "dept_size": 357
+  }
+}

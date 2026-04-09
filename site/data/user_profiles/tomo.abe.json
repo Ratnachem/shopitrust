@@ -1,0 +1,121 @@
+{
+  "username": "tomo.abe",
+  "name": "Tomo Abe",
+  "generated_at": "2026-04-08T20:22:25.934011",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! Please take a look at this case:\n\n\u2022 Store Information: Yuasa Paper Shop (Shop ID: 75025416501)  \n\u2022 Ticket ID:",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh okay, so Japanese  merchant (not in Shopify) is also able to sell with ChatGPT on Agentic plan. Thank you William !",
+          "channel": "help-agentic-plan",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W0197GGSAPJ> Thank you for your answer.\n\n&gt;  the plan is available globally however the merchant will currently be limited to selling only to US",
+          "channel": "help-agentic-plan",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "nicole.giacomel",
+          "count": 1
+        },
+        {
+          "user": "joey.cardosi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.14,
+      "count": 30,
+      "top_channels": [
+        {
+          "channel": "help-agentic-plan",
+          "messages": 7
+        },
+        {
+          "channel": "help-billing-platform",
+          "messages": 4
+        },
+        {
+          "channel": "help-fraud-operations",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "william.leiter",
+          "count": 2
+        },
+        {
+          "user": "paul.kirwan",
+          "count": 1
+        },
+        {
+          "user": "elissa.unrau",
+          "count": 1
+        },
+        {
+          "user": "nanakwame.acheampong",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "2": 3,
+      "5": 5,
+      "4": 2,
+      "1": 1,
+      "6": 2
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Friday": 1,
+      "Thursday": 3,
+      "Tuesday": 1,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.31,
+    "dept_average_30d": 4.09,
+    "dept_rank": 540,
+    "dept_size": 642
+  }
+}

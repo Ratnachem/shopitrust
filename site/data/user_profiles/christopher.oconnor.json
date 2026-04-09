@@ -1,0 +1,104 @@
+{
+  "username": "christopher.oconnor",
+  "name": "Christopher Oconnor",
+  "generated_at": "2026-04-08T20:22:32.196626",
+  "summary": {
+    "message_count": 14,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you - i am on the right path i think",
+          "channel": "claude-code",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "hi team - i am getting stuck here. i have all my autos set up and git hub etc but keep getting this error. can you please help / guide me to fix it.",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "hi team - i am getting stuck here. i have all my autos set up and git hub etc but keep getting this error. can you please help / guide me to fix it.",
+          "channel": "claude-code",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0182UZCXNK> - That worked but now I am seeing this;\n\ntec-up is new software, there may be bugs. If you have feedback or issues,\nplease",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.0,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "kyle.acres",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "dev-environment-setup",
+          "messages": 8
+        },
+        {
+          "channel": "claude-code",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.46,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "amy.boswell",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 5,
+      "14": 1,
+      "13": 3,
+      "16": 5
+    },
+    "by_day": {
+      "Wednesday": 10,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.81,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1345,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "username": "chris.davis",
+  "name": "Chris Davis",
+  "generated_at": "2026-04-08T20:22:15.332989",
+  "summary": {
+    "message_count": 22,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hey team - i received a link from a prospective customer with their security assessment - is there an email i can forward it to for help completing",
+          "channel": "help-plus-security",
+          "timestamp": "2026-04-08"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "owen.evans",
+          "count": 1
+        },
+        {
+          "user": "zach.francque",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.3,
+      "count": 87,
+      "top_channels": [
+        {
+          "channel": "customer-references",
+          "messages": 17
+        },
+        {
+          "channel": "help-plus-security",
+          "messages": 4
+        },
+        {
+          "channel": "b2b-opportunity-request",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "andrew.eastridge",
+          "count": 2
+        },
+        {
+          "user": "katie.george",
+          "count": 1
+        },
+        {
+          "user": "aldrich.pamintuan",
+          "count": 1
+        },
+        {
+          "user": "zach.francque",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 4,
+      "17": 5,
+      "16": 2,
+      "15": 2,
+      "20": 3,
+      "19": 2,
+      "22": 2,
+      "14": 1,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Thursday": 5,
+      "Tuesday": 6,
+      "Monday": 3,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.37,
+    "dept_average_30d": 4.32,
+    "dept_rank": 798,
+    "dept_size": 848
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "username": "sam.obeid",
+  "name": "Sam Obeid",
+  "generated_at": "2026-04-08T20:22:15.696058",
+  "summary": {
+    "message_count": 256,
+    "channels_active": 21,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you Tim, cc/<@U07UDKCHWMR> &amp; <@U03UEDGUNHL>",
+          "channel": "job-platform-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you.",
+          "channel": "infra-central",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "proj-rts-identitycache-shutdown",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Jeff.",
+          "channel": "rustaceans",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Mark",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing work <@U07UDKCHWMR> and <@U085F9CFXFX>",
+          "channel": "proj-rts-identitycache-shutdown",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":nice_neon: Thank you Mark.",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Aadi. <@U07UDKCHWMR> is the ipman error you reported correlated in anyway with this change, around 3:53pm EST?",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Phil :thank:.",
+          "channel": "machine-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Definitely forces me to think more about my prompt, be more clear about scope and priorities.\nThis is anecdotal, but from what I see, AI outcome is",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "nicholas.herson",
+          "count": 16
+        },
+        {
+          "user": "dan.mayer",
+          "count": 10
+        },
+        {
+          "user": "majuth.kira",
+          "count": 6
+        },
+        {
+          "user": "mark.rattle",
+          "count": 5
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 5
+        },
+        {
+          "user": "jason.godson",
+          "count": 1
+        },
+        {
+          "user": "kush.patel",
+          "count": 1
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 1
+        },
+        {
+          "user": "jason.chen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.87,
+      "count": 178,
+      "top_channels": [
+        {
+          "channel": "caching-platform-team",
+          "messages": 97
+        },
+        {
+          "channel": "proj-rts-identitycache-shutdown",
+          "messages": 25
+        },
+        {
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "messages": 24
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 22
+        },
+        {
+          "channel": "leela",
+          "messages": 16
+        },
+        {
+          "channel": "caching-platform-alerts",
+          "messages": 15
+        },
+        {
+          "channel": "tmp-sfr-prod-memcached-on-vms",
+          "messages": 12
+        },
+        {
+          "channel": "inv-19981-storefront-dalliservererror-increase",
+          "messages": 12
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 7
+        },
+        {
+          "channel": "job-platform-team",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "nicholas.herson",
+          "count": 5
+        },
+        {
+          "user": "tim.borkhodoev",
+          "count": 3
+        },
+        {
+          "user": "darren.foo",
+          "count": 3
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 3
+        },
+        {
+          "user": "himanshu.chhabra",
+          "count": 3
+        },
+        {
+          "user": "mark.rattle",
+          "count": 1
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 1
+        },
+        {
+          "user": "sonal.sharma",
+          "count": 1
+        },
+        {
+          "user": "sneha.shah",
+          "count": 1
+        },
+        {
+          "user": "olivier.theriault",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "15": 26,
+      "1": 3,
+      "20": 19,
+      "13": 4,
+      "12": 1,
+      "21": 20,
+      "17": 25,
+      "16": 20,
+      "19": 40,
+      "14": 13,
+      "23": 26,
+      "22": 18,
+      "0": 5,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 107,
+      "Tuesday": 69,
+      "Monday": 31,
+      "Thursday": 39,
+      "Friday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.54,
+    "dept_average_30d": 5.75,
+    "dept_rank": 194,
+    "dept_size": 357
+  }
+}

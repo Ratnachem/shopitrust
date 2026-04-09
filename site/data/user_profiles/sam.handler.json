@@ -1,0 +1,311 @@
+{
+  "username": "sam.handler",
+  "name": "Sam Handler",
+  "generated_at": "2026-04-08T20:22:13.326399",
+  "summary": {
+    "message_count": 1332,
+    "channels_active": 30,
+    "unique_people_mentioned": 31,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 17,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to page me if i have fucked things up in an unforseen way",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "so i was wrong",
+          "channel": "streaming-foundations-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "don't hesitate to page if any issues Daniel!",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to page me if you need me",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "sry attention split, please feel free to update queries",
+          "channel": "inv-20581-clickhouse-insert-delays",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "it's oriented towards tracing dataset but feel free to push updates to main, it's  a work in progress.",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for asking Qs instead of blindly clicking approve",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi everyone, I got mad and worked on making error analytics metaData fields directly searchable in Observe. Today these fields are buried in a JSON",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "i'd imagine that due to concerns about \"code quality\" and \"not shipping bullshit\" you don't want me to rough in an api endpoint that lets you hit a",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Apart from a couple cluster teardowns we're done with k8s cluster migration <https://github.com/shop/issues/issues/21363>. Lessons learned:\n\n*1. We",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": ":ack:  yeah, don't care about consumer latency really. We need to produce from the eastern hemisphere bc that's where our data comes in. Will mull.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "call me old fashioned but if you're going to be held accountable for achieving a certain \"service level\" and that's your \"objective\" ....",
+          "channel": "help-observability",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I mean correct me if i'm wrong <@U039759AUF4> I think the correct move would be to have teams to define their own SLOs, and derive those SLOs from",
+          "channel": "help-observability",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "OR ELSE!",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "do we have approx landing date for the alpha or whatever?",
+          "channel": "help-rat",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Today I will focus on utf-8 problem in tracing dataset and following up on whatever we decide about db statement processor (where to process",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "karl.baumgartner",
+          "count": 32
+        },
+        {
+          "user": "michael.rye",
+          "count": 23
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 23
+        },
+        {
+          "user": "robert.laurin",
+          "count": 12
+        },
+        {
+          "user": "tanner.bruce",
+          "count": 10
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 9
+        },
+        {
+          "user": "samuel.dufel",
+          "count": 9
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 7
+        },
+        {
+          "user": "dustin.hooten",
+          "count": 5
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.57,
+      "count": 215,
+      "top_channels": [
+        {
+          "channel": "proj-o11y-ingestion-next-gen",
+          "messages": 307
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 201
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 162
+        },
+        {
+          "channel": "help-observability",
+          "messages": 118
+        },
+        {
+          "channel": "observability-ingestion-alerts",
+          "messages": 79
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 65
+        },
+        {
+          "channel": "proj-observability-tracing-schema",
+          "messages": 61
+        },
+        {
+          "channel": "identity-graph",
+          "messages": 54
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 37
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 36
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "thiago.trennepohl",
+          "count": 16
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 11
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 6
+        },
+        {
+          "user": "karl.baumgartner",
+          "count": 3
+        },
+        {
+          "user": "romain.dauby",
+          "count": 2
+        },
+        {
+          "user": "charlieallan",
+          "count": 2
+        },
+        {
+          "user": "jenna.black",
+          "count": 2
+        },
+        {
+          "user": "anya.zenkina",
+          "count": 2
+        },
+        {
+          "user": "dale.hamel",
+          "count": 1
+        },
+        {
+          "user": "sonal.sharma",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 112,
+      "17": 154,
+      "16": 203,
+      "15": 106,
+      "14": 269,
+      "22": 55,
+      "19": 113,
+      "13": 61,
+      "21": 105,
+      "20": 142,
+      "4": 2,
+      "3": 10
+    },
+    "by_day": {
+      "Wednesday": 369,
+      "Tuesday": 310,
+      "Monday": 161,
+      "Friday": 220,
+      "Thursday": 272
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.6,
+    "dept_average_30d": 5.75,
+    "dept_rank": 47,
+    "dept_size": 357
+  }
+}

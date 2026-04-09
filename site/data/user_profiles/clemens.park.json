@@ -1,0 +1,272 @@
+{
+  "username": "clemens.park",
+  "name": "Clemens Park",
+  "generated_at": "2026-04-08T20:22:21.953273",
+  "summary": {
+    "message_count": 453,
+    "channels_active": 20,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 18,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey everyone, the Checkout Foundations team is almost ready to roll out the functionality to block checkout for obsolete currencies. The rollout plan",
+          "channel": "temp-bulgaria-currency-transition",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>: I had to update the implementation, as the previous one was causing the tests to fail. Feel free to take a peek, but since CI passes",
+          "channel": "cp-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Sure, happy to help.",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good. Thanks!",
+          "channel": "help-localization",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I think the above test is sufficient (new violation added to an existing policy). Let me know if you'd like to look at anything else. for draft",
+          "channel": "draft-orders-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "FYI: The message will be changing to \"The store's currency is no longer supported.\" Let me know if there are any concerns.",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U03JMTMA2M7>: Thank you for confirming. For this case, as long as the message surfaces (as opposed to breaking the UI), that is the desired",
+          "channel": "retail-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Looking to validate an assumption.\n\nCurrent state\n\u2022 Checkout not blocked for stores configured with obsolete currencies\n\u2022 Payment is blocked, but",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "It's back to 10%. Definitely feel free to roll it back if necessary, but it should be fine.",
+          "channel": "inc-20435-checkout-metrics-and-alerts-firing-off",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "On the rollout side:\n\u2022 the value of the `cartDiscountApplication.value` field changes immediately for the unstable branch, affecting all clients of",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "laurent.dang",
+          "count": 12
+        },
+        {
+          "user": "kerala.brendon",
+          "count": 8
+        },
+        {
+          "user": "narges.ashrafizadeh",
+          "count": 6
+        },
+        {
+          "user": "dave.strang",
+          "count": 5
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 5
+        },
+        {
+          "user": "steven.janczy",
+          "count": 4
+        },
+        {
+          "user": "adam.macdonald",
+          "count": 3
+        },
+        {
+          "user": "vishnu.arun",
+          "count": 2
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 2
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.84,
+      "count": 335,
+      "top_channels": [
+        {
+          "channel": "checkout-carts-team",
+          "messages": 141
+        },
+        {
+          "channel": "checkout-platform-support",
+          "messages": 85
+        },
+        {
+          "channel": "cp-river",
+          "messages": 74
+        },
+        {
+          "channel": "tmp-checkout-flaky-tests",
+          "messages": 52
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 31
+        },
+        {
+          "channel": "checkout-carts-production-support",
+          "messages": 9
+        },
+        {
+          "channel": "help-localization",
+          "messages": 8
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 7
+        },
+        {
+          "channel": "draft-orders-dev",
+          "messages": 6
+        },
+        {
+          "channel": "inc-20435-checkout-metrics-and-alerts-firing-off",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "adam.macdonald",
+          "count": 4
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 3
+        },
+        {
+          "user": "dave.strang",
+          "count": 3
+        },
+        {
+          "user": "kyle.myers",
+          "count": 3
+        },
+        {
+          "user": "laurent.dang",
+          "count": 3
+        },
+        {
+          "user": "connie.ho",
+          "count": 2
+        },
+        {
+          "user": "rick.caplan",
+          "count": 2
+        },
+        {
+          "user": "thomas.lacher",
+          "count": 1
+        },
+        {
+          "user": "evan.brodie",
+          "count": 1
+        },
+        {
+          "user": "christopher.rintjema",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 26,
+      "14": 39,
+      "13": 15,
+      "20": 55,
+      "17": 78,
+      "16": 39,
+      "21": 41,
+      "18": 59,
+      "19": 76,
+      "2": 4,
+      "0": 1,
+      "23": 9,
+      "22": 8,
+      "12": 2,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 101,
+      "Tuesday": 84,
+      "Monday": 68,
+      "Thursday": 120,
+      "Friday": 80
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.88,
+    "dept_average_30d": 5.79,
+    "dept_rank": 519,
+    "dept_size": 1233
+  }
+}

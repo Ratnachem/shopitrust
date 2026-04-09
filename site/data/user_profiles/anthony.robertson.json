@@ -1,0 +1,192 @@
+{
+  "username": "anthony.robertson",
+  "name": "Anthony Robertson",
+  "generated_at": "2026-04-08T20:22:22.508917",
+  "summary": {
+    "message_count": 142,
+    "channels_active": 7,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U07D1HM1RJ5> doesn't look like you've done that yet, want me to do so?",
+          "channel": "proj-migrate-states-to-groups",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Interesting thanks! Yeah these would get blocked once CSP violations actually get enforced, but that's a good thing :+1:",
+          "channel": "stocky-dev",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "for whatever reason US central 1 is draining slower than the others :shrug: still ~1 hour of delay in kafka",
+          "channel": "inc-20916-stocky---frequently-reoccurring-error",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "mitch.miller",
+          "count": 7
+        },
+        {
+          "user": "andrew.ross",
+          "count": 3
+        },
+        {
+          "user": "dane.carr",
+          "count": 3
+        },
+        {
+          "user": "neil.anderson",
+          "count": 2
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 2
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 2
+        },
+        {
+          "user": "christine.belan",
+          "count": 2
+        },
+        {
+          "user": "kelsey.law",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.54,
+      "count": 67,
+      "top_channels": [
+        {
+          "channel": "inc-20916-stocky---frequently-reoccurring-error",
+          "messages": 72
+        },
+        {
+          "channel": "stocky-dev",
+          "messages": 21
+        },
+        {
+          "channel": "proj-migrate-states-to-groups",
+          "messages": 17
+        },
+        {
+          "channel": "inventory-alerts",
+          "messages": 13
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 11
+        },
+        {
+          "channel": "stocky-alerts",
+          "messages": 7
+        },
+        {
+          "channel": "proj-inventory-transfers-redesign-v1",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "kenneth.poling",
+          "count": 8
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 3
+        },
+        {
+          "user": "christine.belan",
+          "count": 3
+        },
+        {
+          "user": "mitch.miller",
+          "count": 2
+        },
+        {
+          "user": "ross.andrew",
+          "count": 2
+        },
+        {
+          "user": "josh.hawkins",
+          "count": 2
+        },
+        {
+          "user": "natalie.jeong",
+          "count": 2
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 1
+        },
+        {
+          "user": "frank.jiao",
+          "count": 1
+        },
+        {
+          "user": "dylan.kirby",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 10,
+      "18": 18,
+      "16": 4,
+      "20": 11,
+      "17": 23,
+      "14": 19,
+      "0": 5,
+      "23": 10,
+      "22": 21,
+      "21": 12,
+      "19": 9
+    },
+    "by_day": {
+      "Wednesday": 17,
+      "Tuesday": 101,
+      "Monday": 7,
+      "Friday": 7,
+      "Thursday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.62,
+    "dept_average_30d": 5.79,
+    "dept_rank": 671,
+    "dept_size": 1233
+  }
+}

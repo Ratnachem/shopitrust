@@ -1,0 +1,336 @@
+{
+  "username": "nick.presta",
+  "name": "Nick Presta",
+  "generated_at": "2026-04-08T20:22:14.612085",
+  "summary": {
+    "message_count": 981,
+    "channels_active": 95,
+    "unique_people_mentioned": 73,
+    "unique_mentioners": 64,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.9,
+      "pos_count": 49,
+      "neg_count": 18,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No fire today - tomorrow is good :+1: Thank you",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "It includes an agent skill so I wasn't sure if it was easier for a single person to just run Claude on it all at once or split it up. Let me know if",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to manually deploy this if the auto-deploy isn't working/you don't want to wait",
+          "channel": "analytics-team-api-shopifyql",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W019NR3FNUQ> once your change goes into `main` for Reportify, feel free to manually deploy it and don't wait for auto-deploy. The auto-deploy",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I literally thought this was an April Fool's day joke, but I'm the joke for not believing in Quick...\n\nI told my agent to look at the QHP docs and it",
+          "channel": "quick",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :facepalm:",
+          "channel": "shopify-foundations-gsd",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your effort on this - let's hope we never need to do this again or involve CEP :crossed_fingers:",
+          "channel": "inc-15385-cep-data-loss-caused-by-kafka-issues",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": ":amaze_gif: Well done!!!!",
+          "channel": "proj-analytics-metafields",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. Appreciate the updated clarity",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I have a new gRPC service that is internal-only via ILB and serves TLS\n\nI've confirmed that I can query it via `grpcurl` but in Production I am",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We can't \"just scale\" ClickHouse nodes anyways - it's an explicit step that a human needs to do and update infra configs so costs can't really \"go",
+          "channel": "analytics-team-api-shopifyql",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "It doesn't sound like it based on that - that more sounds like they're going to add a hardcoded query-time filter. It looks like they're trying to",
+          "channel": "foundation-analytics-intake",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "It seems to be that when a release fails in infra central, even if a subsequent releases succeeds, it blocks auto-deployment. Would be cool if River",
+          "channel": "reportify-api",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "My take is that if this is just a continued effort, either we need the Data Steward on rotation to handle it, and handoff as needed, or we just need",
+          "channel": "inc-20576-title-unverified-returns-misidentified-as",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You can add a `LIMIT 5000` or whatever number you need.\n\nDoing this causes more compute on our side so if you're trying to get all the shop's",
+          "channel": "inv-20836-production-collections-excessive-querying",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> take a crack at it. Be sure you don't break any existing functionality or introduce performance regressions by needing a network",
+          "channel": "analytics-team-api-shopifyql",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can we make sure whatever the empty state is, it follows the standard ShopifyQL formatting + color scheme",
+          "channel": "flow-project-shopifyql",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0AEPQCKB3M> Is there something in your system prompt or set of guidelines that prevents you from opening up a PR when someone directly asks you to",
+          "channel": "river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; How do we decide what goes and not go in \"gross sales\"? (eg.: gift cards and tips are excluded)\nThis is more of a Production question for how we",
+          "channel": "s-foundations-analytics-unified-analytics",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 82,
+      "top_mentioned": [
+        {
+          "user": "nick.tierney",
+          "count": 13
+        },
+        {
+          "user": "david.vincelli",
+          "count": 8
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 6
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 6
+        },
+        {
+          "user": "anqi.gao",
+          "count": 6
+        },
+        {
+          "user": "susie.kim",
+          "count": 5
+        },
+        {
+          "user": "margarita.morozova",
+          "count": 5
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 4
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 4
+        },
+        {
+          "user": "ben.milton",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 603,
+      "top_channels": [
+        {
+          "channel": "reportify-api-ops",
+          "messages": 128
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 107
+        },
+        {
+          "channel": "proj-app-transparency-boiler-room",
+          "messages": 61
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 37
+        },
+        {
+          "channel": "inc-20508-multi-value-filters-not-working-on-report",
+          "messages": 34
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 32
+        },
+        {
+          "channel": "tmp-analytics-returns-metric",
+          "messages": 32
+        },
+        {
+          "channel": "proj-analytics-sidekick-home",
+          "messages": 29
+        },
+        {
+          "channel": "analytics-ui-components",
+          "messages": 27
+        },
+        {
+          "channel": "proj-analytics-metafields",
+          "messages": 27
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 154,
+      "top_mentioners": [
+        {
+          "user": "daniel.conlin",
+          "count": 8
+        },
+        {
+          "user": "nick.tierney",
+          "count": 8
+        },
+        {
+          "user": "anqi.gao",
+          "count": 7
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 6
+        },
+        {
+          "user": "david.vincelli",
+          "count": 6
+        },
+        {
+          "user": "valentinas.mital-2577",
+          "count": 5
+        },
+        {
+          "user": "juan.esparza",
+          "count": 5
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 5
+        },
+        {
+          "user": "jared.sullivan",
+          "count": 5
+        },
+        {
+          "user": "ben.milton",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 138,
+      "17": 107,
+      "16": 98,
+      "15": 141,
+      "14": 131,
+      "13": 60,
+      "21": 15,
+      "20": 83,
+      "22": 26,
+      "19": 97,
+      "23": 27,
+      "11": 6,
+      "12": 36,
+      "1": 5,
+      "0": 10,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 240,
+      "Tuesday": 232,
+      "Monday": 191,
+      "Friday": 147,
+      "Thursday": 171
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.81,
+    "dept_average_30d": 5.79,
+    "dept_rank": 4,
+    "dept_size": 1233
+  }
+}

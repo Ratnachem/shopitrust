@@ -1,0 +1,100 @@
+{
+  "username": "dorothy.aragona",
+  "name": "Dorothy Aragona",
+  "generated_at": "2026-04-08T20:22:25.847098",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, thanks!",
+          "channel": "help-search-serving",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team, I have a Plus merchant whose SP is currently not active and they were asked to provide additional documents. The merchant said that they",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "caroline",
+          "count": 2
+        },
+        {
+          "user": "michael.herold",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-search-serving",
+          "messages": 9
+        },
+        {
+          "channel": "help-balance",
+          "messages": 2
+        },
+        {
+          "channel": "help-fraud-operations",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.22,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "caroline",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "4": 5,
+      "2": 1,
+      "0": 2,
+      "8": 1,
+      "7": 1,
+      "6": 2
+    },
+    "by_day": {
+      "Wednesday": 8,
+      "Tuesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.77,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1388,
+    "dept_size": 1663
+  }
+}

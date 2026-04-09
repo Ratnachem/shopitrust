@@ -1,0 +1,338 @@
+{
+  "username": "tom.rochette",
+  "name": "Tom Rochette",
+  "generated_at": "2026-04-08T20:22:13.087596",
+  "summary": {
+    "message_count": 896,
+    "channels_active": 27,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 42,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.9,
+      "pos_count": 54,
+      "neg_count": 12,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W018WAQC8M7> Regarding <https://shopify.slack.com/archives/C73QZF6D8/p1770755186924559|this discussion>, do you think you could look into adding",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U0424J8HZ2M>, has this been released or it's still pending?\nThanks!",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey all!\nPinging the channel to see if you've had the opportunity to test the tool (please :+1:  this message) and if you had any",
+          "channel": "tmp-ml-training-migration",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need some help tomorrow getting the node pool up, I see it's still in the create failed state.",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U08L5DB742V> Buyer foundation model's volume is currently the biggest at 35 TiB.\nIs there a chance your team could look at cleaning up the",
+          "channel": "ml-infrastructure-users",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Pinging to see if we're still on track for April 7th or earlier!\nThanks!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U087P1UL0D8> <@U0A9XL5EQPK> Can I get your input <https://github.com/Shopify/davies/issues/679#issuecomment-4170400166|here> about how we want to",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HUWSQTV> I updated Noel's volume name so there shouldn't be any conflict anymore, give it a try and let me know if that worked for you!",
+          "channel": "tmp-ml-training-migration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\nUsing `uv sync`  instead of `uv pip`  might be cumbersome.\nI tried getting it to work and it wouldn't cooperate, forcing me to have",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "In order to get things moving we'd like to know what are your current blockers when using `devx ml (jobs submit)` so that we may address them.\nPlease",
+          "channel": "tmp-ml-training-migration",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Copying what I ended up writing in the thread below about <https://github.com/Shopify/davies/issues/571#top|Ensure Davies jobs reliably and",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": ":thread: to discuss tackling <#C07LTGURLCT> spam and being \"useless\" as <#C07LM1GQYBG> :hidepain:\n1. Bumped",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Great news.... :troll_face:\nSomething happened in the us-east-2 cluster for some yet unknown reasons that caused the previously running 15 nodes from",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "According to the composer-1.5 model...\n&gt; Here\u2019s what explains why a CPU-only workload wasn\u2019t being admitted despite plenty of CPU in the",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have access immediately.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Approved your request, you should have an email invite in your inbox.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Next up to try for Madhav is to remove pyenv from loading during shell initialization to see if it's conflicting with whatever dev manages.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Right.\nEither you need to add a step in your example to `gcloud storage cp`  (or whatever you want to copy it to a place you can read it).\nAnother",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So the same as mine, so that means whatever is in the location returns an error. :thinkies:",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Is whatever that generated <https://github.com/Shopify/davies/pull/541|this PR> re-runnable?\nGiven the file moves it generates, it seems best to do",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 49,
+      "top_mentioned": [
+        {
+          "user": "dakota.szabo",
+          "count": 46
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 15
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 11
+        },
+        {
+          "user": "ethan.bates",
+          "count": 10
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 10
+        },
+        {
+          "user": "zhaoyu.zhang",
+          "count": 7
+        },
+        {
+          "user": "ming.zhu",
+          "count": 7
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 6
+        },
+        {
+          "user": "diego.ardila",
+          "count": 5
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.97,
+      "count": 289,
+      "top_channels": [
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 286
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 270
+        },
+        {
+          "channel": "proj-davies-gpu-control-plane",
+          "messages": 149
+        },
+        {
+          "channel": "tmp-ml-training-migration",
+          "messages": 31
+        },
+        {
+          "channel": "inv-20393-sidekick-analytics-on-centml-is-failing",
+          "messages": 27
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 26
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 21
+        },
+        {
+          "channel": "team-ml-infrastructure",
+          "messages": 12
+        },
+        {
+          "channel": "ml-infra-goalie",
+          "messages": 10
+        },
+        {
+          "channel": "inc-19916-nebius-gpus-unavailable-for-training-and-",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 130,
+      "top_mentioners": [
+        {
+          "user": "dakota.szabo",
+          "count": 15
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 13
+        },
+        {
+          "user": "zhaoyu.zhang",
+          "count": 10
+        },
+        {
+          "user": "diego.ardila",
+          "count": 7
+        },
+        {
+          "user": "ming.zhu",
+          "count": 7
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 5
+        },
+        {
+          "user": "reenkat",
+          "count": 5
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 4
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 4
+        },
+        {
+          "user": "bcmtran",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 96,
+      "17": 103,
+      "16": 98,
+      "15": 93,
+      "22": 47,
+      "21": 88,
+      "20": 102,
+      "19": 79,
+      "14": 87,
+      "13": 34,
+      "4": 4,
+      "23": 4,
+      "11": 5,
+      "3": 12,
+      "2": 13,
+      "1": 10,
+      "0": 16,
+      "12": 5
+    },
+    "by_day": {
+      "Wednesday": 296,
+      "Tuesday": 166,
+      "Monday": 103,
+      "Friday": 129,
+      "Thursday": 202
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.05,
+    "dept_average_30d": 5.39,
+    "dept_rank": 65,
+    "dept_size": 272
+  }
+}

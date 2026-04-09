@@ -1,0 +1,108 @@
+{
+  "username": "etienne.barrie",
+  "name": "Etienne Barrie",
+  "generated_at": "2026-04-08T20:22:31.182334",
+  "summary": {
+    "message_count": 21,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you both so much!",
+          "channel": "ruby-and-rails-infra-operations",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "randy.stauner",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.29,
+      "count": 34,
+      "top_channels": [
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 6
+        },
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 6
+        },
+        {
+          "channel": "team-ruby-infra",
+          "messages": 5
+        },
+        {
+          "channel": "ruby-concurrency",
+          "messages": 3
+        },
+        {
+          "channel": "proj-rails-ractor-safe-rails",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "john.hawthorn",
+          "count": 1
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 1
+        },
+        {
+          "user": "nickolas.means",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 1,
+      "10": 3,
+      "14": 7,
+      "19": 3,
+      "18": 1,
+      "17": 1,
+      "16": 1,
+      "15": 4
+    },
+    "by_day": {
+      "Wednesday": 10,
+      "Monday": 3,
+      "Tuesday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.69,
+    "dept_average_30d": 5.75,
+    "dept_rank": 171,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "username": "vincent.boucher",
+  "name": "Vincent Boucher",
+  "generated_at": "2026-04-08T20:22:29.444375",
+  "summary": {
+    "message_count": 14,
+    "channels_active": 7,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02PA48DKSM> I will ask there then.\nAnd yes I tried in my demo env and I was able to reproduce the problem.\nI have captured everything",
+          "channel": "taxes-pricing",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hello all,\nI do have a question, hope this is the right place. Let me know if there is a more appropriate channel.\nMy merchant would like:\n\u2022",
+          "channel": "taxes-pricing",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok got it, thank you.",
+          "channel": "de-support",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "blair.feng",
+          "count": 1
+        },
+        {
+          "user": "danielle.waknine",
+          "count": 1
+        },
+        {
+          "user": "mike.crawford",
+          "count": 1
+        },
+        {
+          "user": "keith.dell",
+          "count": 1
+        },
+        {
+          "user": "nuno.silva",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.1,
+      "count": 243,
+      "top_channels": [
+        {
+          "channel": "help-horizon-theme",
+          "messages": 4
+        },
+        {
+          "channel": "gworkspace-mcp",
+          "messages": 3
+        },
+        {
+          "channel": "taxes-pricing",
+          "messages": 2
+        },
+        {
+          "channel": "de-support",
+          "messages": 2
+        },
+        {
+          "channel": "rev-gen-teams",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "global-b2b-sales-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "louise.garrigos",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 1,
+      "9": 1,
+      "13": 1,
+      "14": 3,
+      "10": 3,
+      "8": 2,
+      "21": 2,
+      "11": 1
+    },
+    "by_day": {
+      "Monday": 3,
+      "Tuesday": 1,
+      "Friday": 6,
+      "Thursday": 2,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.23,
+    "dept_average_30d": 4.32,
+    "dept_rank": 415,
+    "dept_size": 848
+  }
+}

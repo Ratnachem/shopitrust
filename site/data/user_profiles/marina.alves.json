@@ -1,0 +1,114 @@
+{
+  "username": "marina.alves",
+  "name": "Marina Alves",
+  "generated_at": "2026-04-08T20:22:18.074546",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "oh no, sorry about the no-show Bo. He RSVP\u2019d to the interview and hasn\u2019t sent me any message, I am check in with him!",
+          "channel": "help-data-hiring",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello, I attended the session this morning and I am currently in the Phase 4: MCP (green path). When I ran /mcp in claude, it shows I have no mcp",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.74,
+      "count": 46,
+      "top_channels": [
+        {
+          "channel": "dev-environment-setup",
+          "messages": 6
+        },
+        {
+          "channel": "help-data-hiring",
+          "messages": 3
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 3
+        },
+        {
+          "channel": "ta-verdant-poc",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "alix.balevi",
+          "count": 2
+        },
+        {
+          "user": "bo.bi",
+          "count": 1
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        },
+        {
+          "user": "isis.abramovici",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 4,
+      "16": 4,
+      "14": 1,
+      "19": 1,
+      "20": 1,
+      "18": 2
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Tuesday": 1,
+      "Thursday": 6,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 3.58,
+    "dept_average_30d": 4.13,
+    "dept_rank": 55,
+    "dept_size": 64
+  }
+}

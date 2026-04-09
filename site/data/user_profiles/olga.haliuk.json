@@ -1,0 +1,107 @@
+{
+  "username": "olga.haliuk",
+  "name": "Olga Haliuk",
+  "generated_at": "2026-04-08T20:22:29.350731",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!  I kept at it, and ended up with this unlock that finally",
+          "channel": "ops-ai",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'll try that, thank you!",
+          "channel": "ops-ai",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 2.23,
+      "count": 59,
+      "top_channels": [
+        {
+          "channel": "ops-ai",
+          "messages": 8
+        },
+        {
+          "channel": "help-ports",
+          "messages": 1
+        },
+        {
+          "channel": "help-supply",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "cristina.flores",
+          "count": 1
+        },
+        {
+          "user": "natasha.lacasse",
+          "count": 1
+        },
+        {
+          "user": "moonta.kabir",
+          "count": 1
+        },
+        {
+          "user": "emma.schmid",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "14": 1,
+      "15": 1,
+      "12": 1,
+      "13": 2,
+      "18": 2,
+      "20": 1
+    },
+    "by_day": {
+      "Monday": 2,
+      "Friday": 2,
+      "Thursday": 4,
+      "Wednesday": 1,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.67,
+    "dept_average_30d": 4.56,
+    "dept_rank": 59,
+    "dept_size": 74
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "username": "josh.bregar",
+  "name": "Josh Bregar",
+  "generated_at": "2026-04-08T20:22:28.016639",
+  "summary": {
+    "message_count": 167,
+    "channels_active": 17,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hey @n1rmala,\n\nThank you for your detailed response. Happy to clarify our assessment:\n\nWe understand your argument that this represents a",
+          "channel": "hackerone",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hey @bornwinnerrr,\n\nThank you for your report! We were able to reproduce the issue and our engineering team is working on a fix. We will get back",
+          "channel": "hackerone",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "1. Up to you! So long as the fix is visible in the advisory I don't think it matters. IIRC you can append a PR to a GHSA.\n2. Thank you!",
+          "channel": "help-mobile-foundations",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hey @mrrajputhacker2,\n\nThank you for the additional context, including the token analysis and diagram.\n\nYour proof of concept demonstrates that",
+          "channel": "hackerone",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hey n1rmala,\n\nThank you for your report.\n\nUnfortunately, this report shares the same root cause that is pending a fix in #3535110. We appreciate",
+          "channel": "hackerone",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hey @saltymermaid,\n\nThank you for your report! We were able to reproduce the issue and our engineering team is working on a fix. We will get back",
+          "channel": "hackerone",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I ran this through Claude and it pointed to two spots in `areas/clients/customer-account-web/app/foundation/extensibility/`\n\nYou know this code",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @n1rmala,\n\nThank you for your submission. This issue has been previously reported and assessed in report #3535110, which you also submitted.",
+          "channel": "hackerone",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "I think that gives us enough context to work with, I appreciate it",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U08J2R51ZTQ>  Hey folks, was wondering if there's any progress on this report, in particular:\n\n&gt; 1. Is this 2FA bypass exploitable regardless of",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Two questions about the deliveryStrategyByHandle flow in checkout.\n\n  1. When a buyer submits `deliveryStrategyByHandle {",
+          "channel": "josh-bb-river",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "alex.wong",
+          "count": 6
+        },
+        {
+          "user": "carlos.l.perez",
+          "count": 5
+        },
+        {
+          "user": "brandon.szymanski",
+          "count": 3
+        },
+        {
+          "user": "heather.knowlton",
+          "count": 2
+        },
+        {
+          "user": "alex.vindua",
+          "count": 2
+        },
+        {
+          "user": "vithusha.ravirajan",
+          "count": 2
+        },
+        {
+          "user": "tibi.mitran",
+          "count": 1
+        },
+        {
+          "user": "robin.drexler",
+          "count": 1
+        },
+        {
+          "user": "colin.iuliano",
+          "count": 1
+        },
+        {
+          "user": "derek.yu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.14,
+      "count": 245,
+      "top_channels": [
+        {
+          "channel": "hackerone",
+          "messages": 64
+        },
+        {
+          "channel": "hackerone-bounty-sync",
+          "messages": 30
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 22
+        },
+        {
+          "channel": "josh-bb-river",
+          "messages": 15
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 6
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 6
+        },
+        {
+          "channel": "help-mobile-foundations",
+          "messages": 5
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 4
+        },
+        {
+          "channel": "help-files",
+          "messages": 3
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.56,
+      "count": 39,
+      "top_mentioners": [
+        {
+          "user": "alex.wong",
+          "count": 10
+        },
+        {
+          "user": "carlos.l.perez",
+          "count": 7
+        },
+        {
+          "user": "alex.vindua",
+          "count": 7
+        },
+        {
+          "user": "craig.eplin",
+          "count": 2
+        },
+        {
+          "user": "alex.lei",
+          "count": 2
+        },
+        {
+          "user": "robin.drexler",
+          "count": 2
+        },
+        {
+          "user": "kenza.iraki",
+          "count": 2
+        },
+        {
+          "user": "tibi.mitran",
+          "count": 1
+        },
+        {
+          "user": "brandon.szymanski",
+          "count": 1
+        },
+        {
+          "user": "oleksandr.oliynyk",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 19,
+      "15": 22,
+      "14": 18,
+      "13": 13,
+      "21": 16,
+      "20": 15,
+      "19": 22,
+      "18": 19,
+      "17": 21,
+      "23": 2
+    },
+    "by_day": {
+      "Tuesday": 40,
+      "Thursday": 21,
+      "Friday": 52,
+      "Wednesday": 46,
+      "Monday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.55,
+    "dept_average_30d": 4.89,
+    "dept_rank": 58,
+    "dept_size": 237
+  }
+}

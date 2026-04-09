@@ -1,0 +1,179 @@
+{
+  "username": "kelvin.tse",
+  "name": "Kelvin Tse",
+  "generated_at": "2026-04-08T20:22:28.382027",
+  "summary": {
+    "message_count": 152,
+    "channels_active": 8,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks for the help <@W018GAVLEDT> :raised_hands: Really appreciate it",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Ok amazing. i'll make that change.",
+          "channel": "proj-dynamic-cle-with-completeness-engine",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or root or whatever i switch the config to",
+          "channel": "entities-river",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "filip.drobnjakovic",
+          "count": 4
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 1
+        },
+        {
+          "user": "dan.menard",
+          "count": 1
+        },
+        {
+          "user": "elom.tsiagbey",
+          "count": 1
+        },
+        {
+          "user": "joshua.kline",
+          "count": 1
+        },
+        {
+          "user": "boki.beran",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.85,
+      "count": 128,
+      "top_channels": [
+        {
+          "channel": "proj-dynamic-cle-with-completeness-engine",
+          "messages": 66
+        },
+        {
+          "channel": "entities-river",
+          "messages": 61
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 14
+        },
+        {
+          "channel": "foundations-entities-team",
+          "messages": 6
+        },
+        {
+          "channel": "completeness-engine-observe-alert-training",
+          "messages": 2
+        },
+        {
+          "channel": "dev-up",
+          "messages": 1
+        },
+        {
+          "channel": "tmp-access-auth-unblock-core-yugabyte-migration",
+          "messages": 1
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.29,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "francis.kafieh",
+          "count": 2
+        },
+        {
+          "user": "gaurav.keswani",
+          "count": 2
+        },
+        {
+          "user": "joshua.kline",
+          "count": 2
+        },
+        {
+          "user": "dan.menard",
+          "count": 1
+        },
+        {
+          "user": "don.kelly",
+          "count": 1
+        },
+        {
+          "user": "jan.gulan",
+          "count": 1
+        },
+        {
+          "user": "camila.garciasan-1262",
+          "count": 1
+        },
+        {
+          "user": "ziyan.liu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 17,
+      "13": 9,
+      "21": 18,
+      "20": 18,
+      "19": 24,
+      "18": 19,
+      "17": 13,
+      "16": 6,
+      "15": 21,
+      "22": 7
+    },
+    "by_day": {
+      "Tuesday": 22,
+      "Thursday": 34,
+      "Wednesday": 52,
+      "Monday": 21,
+      "Friday": 23
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.28,
+    "dept_average_30d": 5.79,
+    "dept_rank": 875,
+    "dept_size": 1233
+  }
+}

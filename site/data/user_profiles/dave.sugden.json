@@ -1,0 +1,227 @@
+{
+  "username": "dave.sugden",
+  "name": "Dave Sugden",
+  "generated_at": "2026-04-08T20:22:10.662294",
+  "summary": {
+    "message_count": 172,
+    "channels_active": 11,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thnx. We have deployed this, we should start seeing data in that table soon?",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ugg rtfm, my bad.",
+          "channel": "proj-worker-ai-tool-usage",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":announce-redd: Attention: The Event Refinery pipeline will be begin the processing of server side events as of 16h today (Thursday).\n\n:tada:  This",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":announce-redd: Attention: The Event Refinery pipeline will be begin the processing of server side events as of 16h today (Thursday).\n\n:tada:  This",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":announce-redd: Attention: The Event Refinery pipeline will be begin the processing of server side events as of 16h today (Thursday).\n\n:tada:  This",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "bo.senyshyn",
+          "count": 3
+        },
+        {
+          "user": "rich.chen",
+          "count": 3
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 2
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 2
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 1
+        },
+        {
+          "user": "justin.chen",
+          "count": 1
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 1
+        },
+        {
+          "user": "andrew.droll",
+          "count": 1
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.37,
+      "count": 89,
+      "top_channels": [
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 67
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 32
+        },
+        {
+          "channel": "unified-logs-ops",
+          "messages": 15
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 13
+        },
+        {
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20855-signals-deduplication-flink-pipeline-rest",
+          "messages": 11
+        },
+        {
+          "channel": "proj-worker-ai-tool-usage",
+          "messages": 11
+        },
+        {
+          "channel": "proj-data-platform-event-retry-dlq",
+          "messages": 4
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 3
+        },
+        {
+          "channel": "streaming-compute-alerts",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "sarah.pyo",
+          "count": 11
+        },
+        {
+          "user": "andrew.droll",
+          "count": 8
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 6
+        },
+        {
+          "user": "kenneth.ng",
+          "count": 5
+        },
+        {
+          "user": "siqi.fang",
+          "count": 3
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 3
+        },
+        {
+          "user": "bo.senyshyn",
+          "count": 2
+        },
+        {
+          "user": "henry.zhou",
+          "count": 2
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 1
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 32,
+      "17": 13,
+      "14": 16,
+      "13": 23,
+      "15": 12,
+      "16": 22,
+      "19": 14,
+      "4": 6,
+      "3": 3,
+      "22": 1,
+      "1": 2,
+      "0": 9,
+      "12": 11,
+      "20": 5,
+      "21": 1,
+      "11": 1,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 47,
+      "Tuesday": 33,
+      "Monday": 34,
+      "Thursday": 42,
+      "Friday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.23,
+    "dept_average_30d": 5.39,
+    "dept_rank": 144,
+    "dept_size": 272
+  }
+}

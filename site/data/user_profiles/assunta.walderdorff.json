@@ -1,0 +1,299 @@
+{
+  "username": "assunta.walderdorff",
+  "name": "Assunta Walderdorff",
+  "generated_at": "2026-04-08T20:22:17.308853",
+  "summary": {
+    "message_count": 714,
+    "channels_active": 33,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 21,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, I could have made that more clear (or at all clear) when we first started talking about creating support cases",
+          "channel": "proj-infra-river-k8s-debug",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hmm I just had a look at the previous phase 3 deploys and they all seem to take around an hour (between 55 minutes and 1:03) :thinking_face: The",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Super helpful, thanks!",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Reviewed!",
+          "channel": "infra-central",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok, let me know if you need any help on the infra-central side of things (I also have no wafflestack experience to offer) :raised_hands:",
+          "channel": "infra-central",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Kevin for being our guiding light here",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "(let me know if I\u2019m wrong \u2013 otherwise this is just a River PR away)",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Nice, thanks! I left a little question (mainly for my understanding). I\u2019d be lying if I said I had enough context to review this properly, so the",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Agree that this should live in infra-central :+1: I\u2019d defer to the Edge folks for roadmapping but am happy to help where I can",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Logan :wave: This is a community-driven help channel and Application Infrastructure (the owners of the infra repo) don\u2019t monitor it as part of on",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, I introduced that because of what we spoke about re: impersonation remember? The agent being able to pass in whatever requester_email someone",
+          "channel": "proj-infra-river-k8s-debug",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; does it stop the rest of the restoration?\nYes \u2013 if you hit cancel on the deploy \u2013 but it does not shift traffic away from that cluster (that\u2019s",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "I think if this is pipeline-specific, you should have a pipeline model where an environment `has_one :flink_pipeline`. Otherwise you\u2019ll end up with a",
+          "channel": "infra-central",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019ve gotta run so this is a good chance for you to ignore me and do whatever you want :grin: I\u2019m sure it\u2019ll be great either way",
+          "channel": "proj-agentic-debugging-k8s",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think it would probably also be fine to start with one `Minimal` namespace and one `BroadAccess` (or whatever), and make an enum on the api client",
+          "channel": "proj-agentic-debugging-k8s",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "nathan.coulas",
+          "count": 11
+        },
+        {
+          "user": "jessica.li",
+          "count": 10
+        },
+        {
+          "user": "kevin.norman",
+          "count": 8
+        },
+        {
+          "user": "louis.munro",
+          "count": 6
+        },
+        {
+          "user": "jacob.lott",
+          "count": 5
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 5
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 2
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 1
+        },
+        {
+          "user": "tim.smith",
+          "count": 1
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.41,
+      "count": 365,
+      "top_channels": [
+        {
+          "channel": "infra-central",
+          "messages": 157
+        },
+        {
+          "channel": "proj-infra-fast-secure-clusters",
+          "messages": 135
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 83
+        },
+        {
+          "channel": "proj-infra-river-k8s-debug",
+          "messages": 64
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 63
+        },
+        {
+          "channel": "proj-agentic-debugging-k8s",
+          "messages": 51
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 37
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 19
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20551-bfcm-2026-scale-test-1",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.79,
+      "count": 70,
+      "top_mentioners": [
+        {
+          "user": "jacob.lott",
+          "count": 11
+        },
+        {
+          "user": "felipe.cuozzo",
+          "count": 6
+        },
+        {
+          "user": "pulkit.garg",
+          "count": 5
+        },
+        {
+          "user": "eric.yang",
+          "count": 4
+        },
+        {
+          "user": "louis.munro",
+          "count": 3
+        },
+        {
+          "user": "matthew.frail",
+          "count": 3
+        },
+        {
+          "user": "jia.wang",
+          "count": 3
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 2
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 2
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 51,
+      "16": 79,
+      "15": 123,
+      "14": 94,
+      "13": 64,
+      "11": 25,
+      "10": 34,
+      "9": 43,
+      "8": 91,
+      "7": 25,
+      "18": 16,
+      "12": 37,
+      "20": 5,
+      "19": 27
+    },
+    "by_day": {
+      "Wednesday": 223,
+      "Tuesday": 197,
+      "Thursday": 153,
+      "Monday": 80,
+      "Friday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.91,
+    "dept_average_30d": 5.75,
+    "dept_rank": 25,
+    "dept_size": 357
+  }
+}

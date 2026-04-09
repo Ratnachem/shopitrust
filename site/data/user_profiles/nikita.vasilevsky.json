@@ -1,0 +1,264 @@
+{
+  "username": "nikita.vasilevsky",
+  "name": "Nikita Vasilevsky",
+  "generated_at": "2026-04-08T20:22:18.329198",
+  "summary": {
+    "message_count": 328,
+    "channels_active": 22,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.1,
+      "pos_count": 6,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "damn then I agree this is the fix, thank you !!",
+          "channel": "devs-ask-quick-questions",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey, I think this one got merged already. I saw it and the fix looked correct. Let me know if there is anything else I can help with",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "hey, I think this one got merged already. I saw it and the fix looked correct. Let me know if there is anything else I can help with",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I can have an initial look, <@W018HMA0RFC> let me know if it would be more suitable to hand it over to you as the ATC\n\nBut the very first thing that",
+          "channel": "ruby-and-rails-infra-operations",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Perhaps it's a good opportunity for me to familiarize myself with YB explains, for example for a query like:\n```select * from",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "So it's failing on querying\n```\"SHOW FULL FIELDS FROM `billing_attempt_state_transitions`\"```\nand two things:\n1. As I mentioned above the table isn't",
+          "channel": "devs-ask-quick-questions",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> yeah, we aren't focusing on where it's being called from, it's somewhat clear that it can happen anywhere. What we also know that it",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "okay whatever let's do the simplest even if it means an `if` branch",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; iterate every reflection and touch `.klass` (so autoloading is already done)\nMy bet is that applications do happen to have a lot of \"dead\"",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> In zone core shopify analyze this:\n&gt; ```Boot time is dominated by one test file. valid_active_record_associations_test.rb takes 35",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "how much effort would it require to change the code to work with `order_id` being `0` and not `nil`?\nI want to be clear that the main pushback here",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "matthew.draper",
+          "count": 2
+        },
+        {
+          "user": "mahendra.nimishakavi",
+          "count": 1
+        },
+        {
+          "user": "adrianna.chang",
+          "count": 1
+        },
+        {
+          "user": "kevin.hendry",
+          "count": 1
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 1
+        },
+        {
+          "user": "lovejesh.bangar",
+          "count": 1
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.73,
+      "count": 276,
+      "top_channels": [
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 103
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 49
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 39
+        },
+        {
+          "channel": "river",
+          "messages": 25
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 16
+        },
+        {
+          "channel": "devs-ask-quick-questions",
+          "messages": 16
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 14
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 10
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 10
+        },
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "andrew.novoselac",
+          "count": 7
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 6
+        },
+        {
+          "user": "michael.go",
+          "count": 3
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "leonardo.pereira",
+          "count": 3
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 3
+        },
+        {
+          "user": "adrianna.chang",
+          "count": 2
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 2
+        },
+        {
+          "user": "stan.lo",
+          "count": 2
+        },
+        {
+          "user": "lovejesh.bangar",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 13,
+      "22": 9,
+      "15": 75,
+      "20": 25,
+      "19": 15,
+      "14": 62,
+      "16": 26,
+      "13": 60,
+      "12": 12,
+      "18": 21,
+      "23": 8,
+      "21": 2
+    },
+    "by_day": {
+      "Wednesday": 69,
+      "Tuesday": 116,
+      "Monday": 44,
+      "Friday": 62,
+      "Thursday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.49,
+    "dept_average_30d": 5.75,
+    "dept_rank": 205,
+    "dept_size": 357
+  }
+}

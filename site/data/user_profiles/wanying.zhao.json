@@ -1,0 +1,194 @@
+{
+  "username": "wanying.zhao",
+  "name": "Wanying Zhao",
+  "generated_at": "2026-04-08T20:22:30.134429",
+  "summary": {
+    "message_count": 80,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W0197J22ZNC> We've done our test and everything is normal. It's good to roll out Falco to prod now. Thank you!",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! (Wondering what's the possibility that my claude read your kv cache)",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I see. Will try to get the test done before the time. Thanks!",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I'm going to run some training jobs on nebius staging cluster to test if training will be affected by falco. <@U07G5TUFSJF> Do you have any",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Discussed with Dakota and we decide to run some test on staging first. Will come back to you after it finishes. Thanks! <@W0197J22ZNC>",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Owen!",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Let me take a look",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Added the yaml file snippets with github links for different usage pattern on package installation.",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'll take a look now, thank you Owen!",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "owen.cummings",
+          "count": 3
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 3
+        },
+        {
+          "user": "tom.rochette",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.69,
+      "count": 71,
+      "top_channels": [
+        {
+          "channel": "proj-davies-gpu-control-plane",
+          "messages": 28
+        },
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 27
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 25
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.33,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "owen.cummings",
+          "count": 7
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 2
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 2
+        },
+        {
+          "user": "tom.rochette",
+          "count": 1
+        },
+        {
+          "user": "ethan.bates",
+          "count": 1
+        },
+        {
+          "user": "kangyuan.shu",
+          "count": 1
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 1
+        },
+        {
+          "user": "zac.roberts",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 3,
+      "21": 10,
+      "20": 6,
+      "19": 3,
+      "18": 18,
+      "17": 12,
+      "16": 23,
+      "15": 3,
+      "0": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Thursday": 25,
+      "Wednesday": 33,
+      "Tuesday": 10,
+      "Friday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.46,
+    "dept_average_30d": 5.39,
+    "dept_rank": 217,
+    "dept_size": 272
+  }
+}

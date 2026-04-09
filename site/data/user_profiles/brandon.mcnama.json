@@ -1,0 +1,295 @@
+{
+  "username": "brandon.mcnama",
+  "name": "Brandon McNama",
+  "generated_at": "2026-04-08T20:22:24.501263",
+  "summary": {
+    "message_count": 528,
+    "channels_active": 36,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 11,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Can you record it?",
+          "channel": "inc-20936-shop-is-down",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "A comment in the code plus the readme to make it clear that this should not be shipped to production without consulting the Yugabyte Infra team would",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Appreciate that this is more work on Yugabyte than it is on MySQL. :slightly_smiling_face: If you have suggestions for how to improve it, feel free",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Appreciate this is frustrating, feel free to mark your GSD as blocked against YB Infra cc <@W0197H2R9HN>",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":thumb: Was waiting until the prod upgrade was done. Feel free to run the playbook",
+          "channel": "db-platform-yugabyte-alerts-prod",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "platform-efficiency",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":thumb: Can do. Thanks!",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for volunteering to do that. :slightly_smiling_face:",
+          "channel": "proj-data-storage-yugabyte-stability",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to report a blocker on YB Infra while we're working through this.",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The idea being we can add all the constraints now, then validate them all later when we figure out whatever is wrong.",
+          "channel": "shop-yugabyte",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Shouldn't need to specify an API key, this is all you need in your MCP config:\n\n```jq '.mcpServers.\"fellow-mcp\"' ~/.claude.json\n{\n  \"type\": \"http\",\n ",
+          "channel": "claude-code",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; whatever it's worth Claude thinks\n\"Not much\" and \"no it doesn't\", respectively. :slightly_smiling_face:",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Stupid question, where's the button?",
+          "channel": "help-observability",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "brendan.dougherty",
+          "count": 9
+        },
+        {
+          "user": "austen.lacy",
+          "count": 8
+        },
+        {
+          "user": "john.meehan",
+          "count": 6
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 5
+        },
+        {
+          "user": "jordan.wheeler",
+          "count": 4
+        },
+        {
+          "user": "rodrigo.saito",
+          "count": 3
+        },
+        {
+          "user": "brad.dietrich",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 430,
+      "top_channels": [
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 111
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 80
+        },
+        {
+          "channel": "inc-20936-shop-is-down",
+          "messages": 68
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 34
+        },
+        {
+          "channel": "proj-data-storage-yugabyte-stability",
+          "messages": 32
+        },
+        {
+          "channel": "proj-yugabyte-query-perf-monitor",
+          "messages": 23
+        },
+        {
+          "channel": "dev-up",
+          "messages": 18
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 18
+        },
+        {
+          "channel": "inc-17806-potential-index-corruption-on-yugabyte-fo",
+          "messages": 17
+        },
+        {
+          "channel": "db-platform-yugabyte-alerts-prod",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "john.meehan",
+          "count": 6
+        },
+        {
+          "user": "jeffrey.bian",
+          "count": 4
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 3
+        },
+        {
+          "user": "austen.lacy",
+          "count": 3
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "erin.ren",
+          "count": 2
+        },
+        {
+          "user": "andre.ericson",
+          "count": 2
+        },
+        {
+          "user": "richard.newman",
+          "count": 2
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 69,
+      "11": 9,
+      "1": 8,
+      "23": 2,
+      "22": 23,
+      "21": 36,
+      "20": 54,
+      "15": 48,
+      "19": 37,
+      "17": 68,
+      "16": 56,
+      "14": 72,
+      "12": 2,
+      "18": 22,
+      "0": 18,
+      "3": 3,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 115,
+      "Tuesday": 109,
+      "Monday": 80,
+      "Friday": 139,
+      "Thursday": 85
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.64,
+    "dept_average_30d": 5.75,
+    "dept_rank": 43,
+    "dept_size": 357
+  }
+}

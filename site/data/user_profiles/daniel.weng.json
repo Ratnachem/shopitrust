@@ -1,0 +1,279 @@
+{
+  "username": "daniel.weng",
+  "name": "Daniel Weng",
+  "generated_at": "2026-04-08T20:22:10.891939",
+  "summary": {
+    "message_count": 688,
+    "channels_active": 46,
+    "unique_people_mentioned": 44,
+    "unique_mentioners": 52,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.8,
+      "pos_count": 28,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "yeah web search would be appropriate here, feel free to edit the prompt to clarify when web search should be used",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Looks great, thank you. Please share the flows when they're ready and I'll update the prompt.",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "added my gtx, thanks!",
+          "channel": "shopkick-team-memory-domain",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://github.com/Shopify/sidekick-server/pull/14154|PR> to ship the demo agent prompt behind",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "nice thanks! will try evals again later",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "created a <https://skills.quick.shopify.io/?q=iterate-#/iterate-shop-agent-prompt|SKILL.md> for iterating on the shop agent prompt w/ synthetic convo",
+          "channel": "shopkick-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah thank you, so it's mainly a tool problem causing the 404s? glad you guys are already on it!",
+          "channel": "proj-merchant-llm",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want me to create the PR for the proto?",
+          "channel": "tmp-memory-burst",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Scenario 1 - Medium confidence, could fit multiple personas, e.g. \"running shoes\"\n\u2022 assume self, but ask follow up question to clarify which",
+          "channel": "tmp-memory-burst",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "nice thanks! can I add this <https://github.com/Shopify/shop-server/pull/147863|PR> back to the merge queue then?",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "agree it's confusing though, we should just go with whatever leadership is more comfortable with",
+          "channel": "shopkick-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or have the ability to override the buyer context with whatever we want",
+          "channel": "tmp-memory-burst",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "siddhant.bajaj",
+          "count": 17
+        },
+        {
+          "user": "steel.ferguson",
+          "count": 16
+        },
+        {
+          "user": "moaz.mahran",
+          "count": 16
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 16
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 15
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 12
+        },
+        {
+          "user": "andrew.rhyne",
+          "count": 12
+        },
+        {
+          "user": "jared.rader",
+          "count": 10
+        },
+        {
+          "user": "avi.swerdlow",
+          "count": 8
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 8
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.66,
+      "count": 378,
+      "top_channels": [
+        {
+          "channel": "shop-agent-eng",
+          "messages": 211
+        },
+        {
+          "channel": "shopkick-team-memory-domain",
+          "messages": 60
+        },
+        {
+          "channel": "tmp-memory-burst",
+          "messages": 42
+        },
+        {
+          "channel": "shopkick-team",
+          "messages": 38
+        },
+        {
+          "channel": "proj-shopkick",
+          "messages": 35
+        },
+        {
+          "channel": "inc-19907-quick-search-broken-in-agent-prod",
+          "messages": 30
+        },
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 26
+        },
+        {
+          "channel": "shop-agent-evals",
+          "messages": 25
+        },
+        {
+          "channel": "shopkick-team-relevance-domain",
+          "messages": 23
+        },
+        {
+          "channel": "agent-x-search-working-group",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 286,
+      "top_mentioners": [
+        {
+          "user": "mujtaba.khambatti",
+          "count": 45
+        },
+        {
+          "user": "andrew.rhyne",
+          "count": 33
+        },
+        {
+          "user": "brandon.fonseca",
+          "count": 24
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 24
+        },
+        {
+          "user": "steel.ferguson",
+          "count": 22
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 14
+        },
+        {
+          "user": "mitchell.soares",
+          "count": 10
+        },
+        {
+          "user": "moaz.mahran",
+          "count": 9
+        },
+        {
+          "user": "jared.rader",
+          "count": 8
+        },
+        {
+          "user": "ellen.dunne",
+          "count": 7
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 68,
+      "17": 66,
+      "16": 56,
+      "15": 81,
+      "14": 78,
+      "13": 58,
+      "21": 60,
+      "20": 96,
+      "19": 84,
+      "6": 1,
+      "1": 3,
+      "0": 2,
+      "23": 7,
+      "22": 23,
+      "12": 5
+    },
+    "by_day": {
+      "Wednesday": 126,
+      "Tuesday": 187,
+      "Monday": 119,
+      "Friday": 70,
+      "Thursday": 186
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.91,
+    "dept_average_30d": 5.39,
+    "dept_rank": 12,
+    "dept_size": 272
+  }
+}

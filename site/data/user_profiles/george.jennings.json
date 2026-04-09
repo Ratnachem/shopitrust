@@ -1,0 +1,266 @@
+{
+  "username": "george.jennings",
+  "name": "George Jennings",
+  "generated_at": "2026-04-08T20:22:05.851234",
+  "summary": {
+    "message_count": 301,
+    "channels_active": 7,
+    "unique_people_mentioned": 51,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 20,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0183015AR5>",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U02CGH09TTM> - let me know if you have any feedback on these - I'm going to explore adding them to River this week.",
+          "channel": "ma-team-campaigns",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I've run into this occassionally and the way I've fixed it is.\n\n1. Delete the CSV from the campaign.\n2. Press Save\n3. Confirm there is no CSV left in",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I think there is a caching issue. This sometimes happens when CSVs get changed. <@W01AQRBKL3B> please do a forced refresh (`Cmd + Shift + R`) and let",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U06QG0MBEFR> - I've declined for now. Please resubmit tomorrow once you have a chance to review the above feedback. Thanks!",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018HTL83D1> the invite emails are blank. Do you want me to delete them?",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "(But Claude was pulling them for me, so let me know if he was cheating).",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "All Transactional notifications have been approved <@U0725HURJRZ> - ping me directly if you run into any issues. Thanks!",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03J975697D> the only other thing I've noticed is there is no campaign utm parameter assigned. I'm assuming this is because the email is",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U03J975697D> - I was just going to suggest this!\n\nThat looks right. Let me know if you have any questions following these instructions.",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "&gt; This copy was written by our content writer and approved by many design leaders including the VP and product stakeholders. Can we stick to what",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U02P0QZ53MH>  I noticed a couple of minor inconsistencies:\n\n*Landing page*\n\u2022 Replace ampersands with `and` in  `...private shopping experience",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-09"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 52,
+      "top_mentioned": [
+        {
+          "user": "christina.mele",
+          "count": 28
+        },
+        {
+          "user": "lauren.hockenson",
+          "count": 14
+        },
+        {
+          "user": "shauna.banning",
+          "count": 10
+        },
+        {
+          "user": "carola.mayolustrell",
+          "count": 8
+        },
+        {
+          "user": "ines.leou",
+          "count": 7
+        },
+        {
+          "user": "robin.fontaine",
+          "count": 6
+        },
+        {
+          "user": "johnny.nguyen",
+          "count": 6
+        },
+        {
+          "user": "ayumi.manabe",
+          "count": 5
+        },
+        {
+          "user": "tyler.haugenstanley",
+          "count": 5
+        },
+        {
+          "user": "alan.masarsky",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.4,
+      "count": 37,
+      "top_channels": [
+        {
+          "channel": "mozart-approval-notifications",
+          "messages": 192
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 60
+        },
+        {
+          "channel": "proj-ma-quality-guardrails",
+          "messages": 25
+        },
+        {
+          "channel": "ma-team-campaigns",
+          "messages": 9
+        },
+        {
+          "channel": "mozart-backoffice",
+          "messages": 9
+        },
+        {
+          "channel": "ma-team-river",
+          "messages": 5
+        },
+        {
+          "channel": "proj-mozart-bandits",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 78,
+      "top_mentioners": [
+        {
+          "user": "lauren.hockenson",
+          "count": 8
+        },
+        {
+          "user": "carola.mayolustrell",
+          "count": 7
+        },
+        {
+          "user": "shauna.banning",
+          "count": 6
+        },
+        {
+          "user": "christina.mele",
+          "count": 6
+        },
+        {
+          "user": "robin.fontaine",
+          "count": 4
+        },
+        {
+          "user": "amanda.fowler",
+          "count": 4
+        },
+        {
+          "user": "johnny.nguyen",
+          "count": 3
+        },
+        {
+          "user": "ayumi.manabe",
+          "count": 3
+        },
+        {
+          "user": "tyler.haugenstanley",
+          "count": 3
+        },
+        {
+          "user": "stephany.moronmendoza",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 29,
+      "16": 13,
+      "13": 28,
+      "14": 39,
+      "21": 26,
+      "1": 1,
+      "0": 1,
+      "23": 1,
+      "22": 14,
+      "20": 25,
+      "19": 57,
+      "17": 38,
+      "15": 27,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 107,
+      "Tuesday": 75,
+      "Monday": 23,
+      "Friday": 55,
+      "Thursday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 4.75,
+    "dept_average_30d": 5.58,
+    "dept_rank": 320,
+    "dept_size": 398
+  }
+}

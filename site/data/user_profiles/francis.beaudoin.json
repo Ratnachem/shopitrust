@@ -1,0 +1,286 @@
+{
+  "username": "francis.beaudoin",
+  "name": "Francis Beaudoin",
+  "generated_at": "2026-04-08T20:22:19.052815",
+  "summary": {
+    "message_count": 587,
+    "channels_active": 83,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 13,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Is there anything specific you're concerned about? Everything looks good on my end.\n\nIf you need a more formal _pentest_ or code review for anything",
+          "channel": "help-appsec",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Oh, that's great. I must have checked the wrong place, because I was under the impression there was no auth at the ingress layer when I looked. Sorry",
+          "channel": "flow-development",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "fyi I created the GH release tag: <https://github.com/Shopify/elasticsearch-shopify/releases/tag/v4.0.1> Feel free to edit if something is off",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018HMBTA3U> By any chance I could get your :eyes: on this? Feel free to forward",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Will do! Sorry about that",
+          "channel": "inv-20630-admin-web-deployment-failure-due-to-chang",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Thanks for catching this <@U06FLUSLPHR> and sorry about that. Not sure what happened given that I shipped that in staging without any issues... `dev",
+          "channel": "help-admin-web-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Gotcha, thanks! fwiw It might be worth updating the project readme/any ownership references",
+          "channel": "help-shopify-dev-eng",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to ignore :smile:",
+          "channel": "proj-ssb-stateful-gem-awareness",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Sure. I'm not sure what to look for tho. Want me to call you on Tuple?",
+          "channel": "help-web-pixels",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-hand: Team\n\nCould we get some :eyes: on this tiny <https://github.com/Shopify/rails-ivm-frontend/pull/1252|dependency bump PR> for",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm not clear on the question.\n\nThe code change was changed to always call `ShopifySecurityBase::HTTPHostRestriction.allowlist(host)` which",
+          "channel": "new-markets-growth-operations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; afaik the consumer retries automatically (I think 3 times?)\nI'm not aware of retries on the consumer.\n\nRegarding handling that is a good",
+          "channel": "proj-ssb-stateful-gem-awareness",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Gotcha.\n\nBasically, for tokens that expire while we're processing async requests, I\u2019m not too worried\u2014in an ideal world, we'd be able to invalidate",
+          "channel": "help-appsec",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "jay.dancer",
+          "count": 3
+        },
+        {
+          "user": "abdulwahaab.ahmed",
+          "count": 2
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 2
+        },
+        {
+          "user": "guillaume.jacques",
+          "count": 1
+        },
+        {
+          "user": "alex.gomez",
+          "count": 1
+        },
+        {
+          "user": "joshua.bee",
+          "count": 1
+        },
+        {
+          "user": "gray.gilmore",
+          "count": 1
+        },
+        {
+          "user": "stephanie.chou",
+          "count": 1
+        },
+        {
+          "user": "zack.deveau",
+          "count": 1
+        },
+        {
+          "user": "josh.bregar",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 1264,
+      "top_channels": [
+        {
+          "channel": "proj-ssb-stateful-gem-awareness",
+          "messages": 219
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 63
+        },
+        {
+          "channel": "proj-ssb-gem-enhancement",
+          "messages": 31
+        },
+        {
+          "channel": "new-markets-growth-operations",
+          "messages": 31
+        },
+        {
+          "channel": "proj-security-admin-csp",
+          "messages": 16
+        },
+        {
+          "channel": "hackerone",
+          "messages": 16
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 12
+        },
+        {
+          "channel": "proj-quicksite-security-paved-path",
+          "messages": 11
+        },
+        {
+          "channel": "magellan-zookeeper",
+          "messages": 11
+        },
+        {
+          "channel": "help-web-pixels",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "carlos.corvaia",
+          "count": 3
+        },
+        {
+          "user": "jay.dancer",
+          "count": 3
+        },
+        {
+          "user": "brian.berzellini",
+          "count": 2
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 2
+        },
+        {
+          "user": "joe.basirico",
+          "count": 2
+        },
+        {
+          "user": "ramses.lopez",
+          "count": 2
+        },
+        {
+          "user": "alex.lei",
+          "count": 1
+        },
+        {
+          "user": "sirak.radaa",
+          "count": 1
+        },
+        {
+          "user": "chris.giba",
+          "count": 1
+        },
+        {
+          "user": "clemens.park",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 76,
+      "16": 17,
+      "13": 50,
+      "18": 115,
+      "15": 68,
+      "14": 66,
+      "10": 2,
+      "20": 74,
+      "19": 71,
+      "12": 12,
+      "11": 13,
+      "22": 6,
+      "21": 14,
+      "0": 2,
+      "9": 1
+    },
+    "by_day": {
+      "Wednesday": 137,
+      "Tuesday": 115,
+      "Friday": 149,
+      "Monday": 44,
+      "Thursday": 142
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.94,
+    "dept_average_30d": 4.89,
+    "dept_rank": 38,
+    "dept_size": 237
+  }
+}

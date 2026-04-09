@@ -1,0 +1,248 @@
+{
+  "username": "sarah.pickett",
+  "name": "Sarah Pickett",
+  "generated_at": "2026-04-08T20:22:16.828405",
+  "summary": {
+    "message_count": 306,
+    "channels_active": 19,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 27,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":smol-pr: Fixing the same exact <https://github.com/shop/world/pull/589170|input schema compliance issues> in `Cart` that I fixed in `Checkout` -",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":smol-pr: I fixed fulfillment's required fields for the released version but not draft so here's a PR to remedy that",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":github-pull-request: I need some :eyes: on <https://github.com/shop/world/pull/512550|this PR to register> the new `ucp-schema-gem` in the monorepo",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U01E5H7HK1C> :wave-om-nom:  I was cross-referencing the issue with the spec and the directionality is inverted in the issue. The agentic platform",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I will dig in after lunch :nom:",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "wait, I think I can help you",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":github-pull-request: <https://github.com/shop/world/pull/488439|Enhancing observability for UCP throttling> needs a couple of reviews :review:",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For this new store type, will whatever the merchant puts into the store actually get published to Catalog?",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "niko.rutherford",
+          "count": 6
+        },
+        {
+          "user": "denis.kefallinos",
+          "count": 6
+        },
+        {
+          "user": "dave.ariens",
+          "count": 6
+        },
+        {
+          "user": "lee.richmond",
+          "count": 5
+        },
+        {
+          "user": "steven.janczy",
+          "count": 4
+        },
+        {
+          "user": "victoria.duggan",
+          "count": 4
+        },
+        {
+          "user": "alex.park",
+          "count": 4
+        },
+        {
+          "user": "matt.hutchinson",
+          "count": 3
+        },
+        {
+          "user": "danielius.visockas",
+          "count": 3
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.48,
+      "count": 263,
+      "top_channels": [
+        {
+          "channel": "proj-universal-commerce-protocol",
+          "messages": 150
+        },
+        {
+          "channel": "checkout-carts-production-support",
+          "messages": 47
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 22
+        },
+        {
+          "channel": "carts-and-river",
+          "messages": 18
+        },
+        {
+          "channel": "proj-cart-throttle-improvements",
+          "messages": 9
+        },
+        {
+          "channel": "universal-commerce-protocol-operations",
+          "messages": 9
+        },
+        {
+          "channel": "checkout-carts-team",
+          "messages": 9
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 8
+        },
+        {
+          "channel": "agentic-checkout-oai-v1-v2",
+          "messages": 8
+        },
+        {
+          "channel": "proj-global-api-rate-limit",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.69,
+      "count": 69,
+      "top_mentioners": [
+        {
+          "user": "dave.ariens",
+          "count": 8
+        },
+        {
+          "user": "niko.rutherford",
+          "count": 7
+        },
+        {
+          "user": "laurent.dang",
+          "count": 6
+        },
+        {
+          "user": "alex.park",
+          "count": 6
+        },
+        {
+          "user": "lee.richmond",
+          "count": 5
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 4
+        },
+        {
+          "user": "steven.janczy",
+          "count": 4
+        },
+        {
+          "user": "gabriel.queiroz",
+          "count": 4
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 3
+        },
+        {
+          "user": "victoria.duggan",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 53,
+      "14": 41,
+      "12": 31,
+      "13": 27,
+      "21": 3,
+      "18": 34,
+      "16": 20,
+      "19": 26,
+      "15": 45,
+      "20": 20,
+      "22": 2,
+      "11": 4
+    },
+    "by_day": {
+      "Wednesday": 76,
+      "Tuesday": 56,
+      "Monday": 27,
+      "Friday": 72,
+      "Thursday": 75
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.39,
+    "dept_average_30d": 5.79,
+    "dept_rank": 224,
+    "dept_size": 1233
+  }
+}

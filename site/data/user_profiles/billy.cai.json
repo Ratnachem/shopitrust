@@ -1,0 +1,234 @@
+{
+  "username": "billy.cai",
+  "name": "Billy Cai",
+  "generated_at": "2026-04-08T20:22:15.918237",
+  "summary": {
+    "message_count": 139,
+    "channels_active": 14,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that Luc, we will make sure to follow these steps in the future. Maintenance task is running, created",
+          "channel": "mm-ads-experience",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats Gavin, well deserved!",
+          "channel": "merchant-marketing-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome, thanks! will rebase my PR",
+          "channel": "ads-merchant-exp-team",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Thanks, I could use some help with the regression testing. Feel free to leave comments, or even push changes to it. I'll try to clean it up when I",
+          "channel": "ads-merchant-exp-team",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We've used <https://github.com/shop/issues-ads-experience/issues/329|github> tickets in the past and people would add comments to the ticket during",
+          "channel": "mm-proj-multi-bid-campaign-setup",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So right now those are optional fields on the creation endpoints, however FE always provides them. I think it might make sense to update those to",
+          "channel": "mm-proj-multi-bid-campaign-setup",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "tal.benshoam",
+          "count": 5
+        },
+        {
+          "user": "dongfang.zhao",
+          "count": 4
+        },
+        {
+          "user": "yazeed.sabil",
+          "count": 3
+        },
+        {
+          "user": "elie.elia",
+          "count": 3
+        },
+        {
+          "user": "audrey.chen",
+          "count": 2
+        },
+        {
+          "user": "alex.borisenko",
+          "count": 2
+        },
+        {
+          "user": "sarah.foster",
+          "count": 2
+        },
+        {
+          "user": "jane.harrison",
+          "count": 2
+        },
+        {
+          "user": "selina.li",
+          "count": 2
+        },
+        {
+          "user": "stacy.faizulina",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.11,
+      "count": 82,
+      "top_channels": [
+        {
+          "channel": "ads-merchant-exp-team",
+          "messages": 35
+        },
+        {
+          "channel": "mm-proj-multi-bid-campaign-setup",
+          "messages": 26
+        },
+        {
+          "channel": "proj-shop-campaigns-autopilot",
+          "messages": 20
+        },
+        {
+          "channel": "ads-merchant-experience-ops",
+          "messages": 20
+        },
+        {
+          "channel": "proj-app-intents",
+          "messages": 13
+        },
+        {
+          "channel": "help-shop-campaigns",
+          "messages": 7
+        },
+        {
+          "channel": "river-chats-ads-exp",
+          "messages": 4
+        },
+        {
+          "channel": "proj-mm-yugabyte-migration",
+          "messages": 4
+        },
+        {
+          "channel": "mm-ads-experience",
+          "messages": 3
+        },
+        {
+          "channel": "inv-21013-investigation-shop-server-app-getting-wit",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "dongfang.zhao",
+          "count": 6
+        },
+        {
+          "user": "stacy.faizulina",
+          "count": 5
+        },
+        {
+          "user": "chelsea.leathley",
+          "count": 4
+        },
+        {
+          "user": "chris.barnes",
+          "count": 4
+        },
+        {
+          "user": "benny.zhao",
+          "count": 3
+        },
+        {
+          "user": "tal.benshoam",
+          "count": 3
+        },
+        {
+          "user": "joe.james",
+          "count": 3
+        },
+        {
+          "user": "tyler.xing",
+          "count": 1
+        },
+        {
+          "user": "frederic.mheir",
+          "count": 1
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 17,
+      "16": 16,
+      "15": 19,
+      "14": 30,
+      "20": 21,
+      "18": 10,
+      "13": 8,
+      "12": 4,
+      "3": 1,
+      "19": 9,
+      "2": 2,
+      "21": 2
+    },
+    "by_day": {
+      "Wednesday": 41,
+      "Tuesday": 42,
+      "Monday": 11,
+      "Thursday": 23,
+      "Friday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.75,
+    "dept_average_30d": 5.77,
+    "dept_rank": 428,
+    "dept_size": 885
+  }
+}

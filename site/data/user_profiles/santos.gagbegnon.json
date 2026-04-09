@@ -1,0 +1,273 @@
+{
+  "username": "santos.gagbegnon",
+  "name": "Santos Gagbegnon",
+  "generated_at": "2026-04-08T20:22:20.991465",
+  "summary": {
+    "message_count": 190,
+    "channels_active": 19,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Multiple at the same time will be a bit of the challenge, but I don't think the multi-usage/max usage piece is too concerning.\n\nThe spring event sale",
+          "channel": "shop-week-2026-eng",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ahh okay, thanks! Does explain work in vitess?",
+          "channel": "shop-buyer-acq-bots",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks! Can we kick off another deploy once the current one is done &amp; the PR is merged?",
+          "channel": "inv-20815-shopshop-retention-shop-server-errors---f",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "It's the handle of the reward policy that's used to award the shop cash. If you point me to where shop cash is awarded for buyers in shop promise, i",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, ty guys! I'll give you guys a heads up when we should try out the production stores - probably sometime tomorrow. On our side, we'll do some",
+          "channel": "shop-marketing_shopping-events",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Looks like the server PR deployed :celebrate-wooo:",
+          "channel": "shop-mobile",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey everyone! Let me know if help is still needed here. I confirmed the following stores are all disabled:\n\u2022 Aldo - 91188429099\n\u2022 Sperry -",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you!",
+          "channel": "shop-marketing_shopping-events",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Hey, Travis and I are pairing and tested out separating the icon from the background and it works well and fixed the tag clipping issue on the",
+          "channel": "shop-marketing_shopping-events",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "No concerns from me, as you mentioned the cutover doesn't include client changes. If Yugabyte errors start popping up, they'd be agnostic to whatever",
+          "channel": "proj-shop-yugabyte-storedvalue-cutover",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't think adding more Shop Cash to the user would fix this, the test is applying whatever balance they have + covering the rest with the credit",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "anna.decilveo",
+          "count": 10
+        },
+        {
+          "user": "liam.fennell",
+          "count": 6
+        },
+        {
+          "user": "simon.menardlariviere",
+          "count": 6
+        },
+        {
+          "user": "nankai.pan",
+          "count": 5
+        },
+        {
+          "user": "travis.amaral",
+          "count": 4
+        },
+        {
+          "user": "daniel.calderwood",
+          "count": 4
+        },
+        {
+          "user": "nicole.lee",
+          "count": 3
+        },
+        {
+          "user": "onur.ersel",
+          "count": 3
+        },
+        {
+          "user": "aj.robidas",
+          "count": 3
+        },
+        {
+          "user": "natalia.blanc",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.41,
+      "count": 259,
+      "top_channels": [
+        {
+          "channel": "shop-marketing_shopping-events",
+          "messages": 85
+        },
+        {
+          "channel": "help-shop-cash",
+          "messages": 36
+        },
+        {
+          "channel": "shop-buyer-acq-bots",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20815-shopshop-retention-shop-server-errors---f",
+          "messages": 9
+        },
+        {
+          "channel": "shop-feed",
+          "messages": 6
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 6
+        },
+        {
+          "channel": "proj-shop-mothersday2026",
+          "messages": 5
+        },
+        {
+          "channel": "inc-19751-shop-cash-offer-redemption-causes-infinit",
+          "messages": 5
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 5
+        },
+        {
+          "channel": "shop-week-2026-eng",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "anna.decilveo",
+          "count": 24
+        },
+        {
+          "user": "travis.amaral",
+          "count": 7
+        },
+        {
+          "user": "dylan.watt",
+          "count": 6
+        },
+        {
+          "user": "charles.ouimet",
+          "count": 6
+        },
+        {
+          "user": "nicole.lee",
+          "count": 6
+        },
+        {
+          "user": "nankai.pan",
+          "count": 5
+        },
+        {
+          "user": "juan.guerrero",
+          "count": 5
+        },
+        {
+          "user": "william.wallace",
+          "count": 4
+        },
+        {
+          "user": "kristin.macintosh",
+          "count": 4
+        },
+        {
+          "user": "jennie.kim",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 13,
+      "14": 20,
+      "13": 29,
+      "22": 16,
+      "20": 17,
+      "17": 23,
+      "18": 17,
+      "15": 18,
+      "21": 15,
+      "1": 4,
+      "12": 2,
+      "19": 11,
+      "5": 2,
+      "2": 1,
+      "0": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 41,
+      "Monday": 52,
+      "Thursday": 36,
+      "Friday": 31
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.45,
+    "dept_average_30d": 5.86,
+    "dept_rank": 45,
+    "dept_size": 166
+  }
+}

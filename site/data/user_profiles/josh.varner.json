@@ -1,0 +1,227 @@
+{
+  "username": "josh.varner",
+  "name": "Josh Varner",
+  "generated_at": "2026-04-08T20:22:26.439854",
+  "summary": {
+    "message_count": 247,
+    "channels_active": 17,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you :slightly_smiling_face:",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "i'm not sure query engine is the right path. for one, you'd have to define views for every table, and keep defining new ones as new tables are",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "for some reason, i was thinking in the call that we were concerned about some kind of column type issue or whatever. but it's more about how to",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the frequency of resizes is fairly rare-- sometimes it can burst a bit when we see periods of high write activity for whatever reason. we will",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U09SN1U9LUS> right now, no timeline. the most recent push was based on N2 CUD coverage, so we may have plateaued for a bit, assuming we don't need",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "tom.krouper",
+          "count": 5
+        },
+        {
+          "user": "craigsharpe",
+          "count": 4
+        },
+        {
+          "user": "garth.goodson",
+          "count": 4
+        },
+        {
+          "user": "brian.warsing",
+          "count": 4
+        },
+        {
+          "user": "jeff.schmidt",
+          "count": 3
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 3
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 3
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 3
+        },
+        {
+          "user": "craig.soules",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.74,
+      "count": 224,
+      "top_channels": [
+        {
+          "channel": "russbot-mysql-hll",
+          "messages": 56
+        },
+        {
+          "channel": "proj-infra-yugabyte-oid",
+          "messages": 47
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 30
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 25
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "messages": 20
+        },
+        {
+          "channel": "proj-infra-mysql-backup-costs",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20966-issues-with-revoking-duplicates-in-cardse",
+          "messages": 7
+        },
+        {
+          "channel": "db-storefronts-mysql-ops",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "craigsharpe",
+          "count": 13
+        },
+        {
+          "user": "brian.warsing",
+          "count": 10
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 8
+        },
+        {
+          "user": "tom.krouper",
+          "count": 3
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 3
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 3
+        },
+        {
+          "user": "craig.soules",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "ben.thul",
+          "count": 2
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 13,
+      "20": 35,
+      "18": 23,
+      "17": 24,
+      "16": 49,
+      "15": 36,
+      "14": 15,
+      "13": 2,
+      "19": 37,
+      "12": 1,
+      "0": 3,
+      "23": 1,
+      "21": 8
+    },
+    "by_day": {
+      "Tuesday": 113,
+      "Monday": 48,
+      "Wednesday": 71,
+      "Thursday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.69,
+    "dept_average_30d": 5.75,
+    "dept_rank": 38,
+    "dept_size": 357
+  }
+}

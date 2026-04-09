@@ -1,0 +1,214 @@
+{
+  "username": "brian.cahill",
+  "name": "Brian Cahill",
+  "generated_at": "2026-04-08T20:22:12.586651",
+  "summary": {
+    "message_count": 117,
+    "channels_active": 11,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U01SFK583PD> with your approval want me to ship today? I don't know if shop has another deploy before tomorrow though. I commented about the naming",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; I also wonder if starting with an AI-generated draft of peer feedback (not talking about a summary/list of work) fundamentally changes the depth",
+          "channel": "search-team",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "alex.watt",
+          "count": 5
+        },
+        {
+          "user": "dave.ariens",
+          "count": 3
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 2
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 2
+        },
+        {
+          "user": "samantha.john",
+          "count": 1
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        },
+        {
+          "user": "regan.zhao",
+          "count": 1
+        },
+        {
+          "user": "nikola.todic",
+          "count": 1
+        },
+        {
+          "user": "mladjan.mihajlovic",
+          "count": 1
+        },
+        {
+          "user": "ed.gallant",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.45,
+      "count": 156,
+      "top_channels": [
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 34
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 23
+        },
+        {
+          "channel": "search-team",
+          "messages": 22
+        },
+        {
+          "channel": "search-ingest-ops",
+          "messages": 22
+        },
+        {
+          "channel": "inv-20329-catalog-api-search-latency-spiked-from-co",
+          "messages": 5
+        },
+        {
+          "channel": "inv-20260-similarity-search-broken-after-shop-spann",
+          "messages": 4
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 2
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 2
+        },
+        {
+          "channel": "help-search-tooling",
+          "messages": 1
+        },
+        {
+          "channel": "proj-dsl-shared",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.67,
+      "count": 40,
+      "top_mentioners": [
+        {
+          "user": "alex.watt",
+          "count": 14
+        },
+        {
+          "user": "dave.ariens",
+          "count": 5
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 3
+        },
+        {
+          "user": "michael.herold",
+          "count": 3
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 2
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 1
+        },
+        {
+          "user": "sagar.ungaralla",
+          "count": 1
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 1
+        },
+        {
+          "user": "samantha.john",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 7,
+      "1": 1,
+      "22": 11,
+      "21": 16,
+      "17": 8,
+      "16": 19,
+      "15": 20,
+      "23": 4,
+      "20": 9,
+      "19": 17,
+      "0": 1,
+      "14": 3,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Tuesday": 25,
+      "Thursday": 36,
+      "Monday": 31,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.09,
+    "dept_average_30d": 5.79,
+    "dept_rank": 58,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "username": "sydney.martin",
+  "name": "Sydney Martin",
+  "generated_at": "2026-04-08T20:22:20.717706",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team,\nJust wrapped up our sync with Dave and Jeff. Here's where we landed:\n*Decision:* They've decided not to move forward with the Enterprise",
+          "channel": "bump-cbn-enterprise-contract",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "yesha.shah",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.14,
+      "count": 30,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 9
+        },
+        {
+          "channel": "temp-goodbye-jasgoat",
+          "messages": 1
+        },
+        {
+          "channel": "bump-cbn-enterprise-contract",
+          "messages": 1
+        },
+        {
+          "channel": "amer-2026-march-madness-bracket",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "yesha.shah",
+          "count": 4
+        },
+        {
+          "user": "a.rodriguez",
+          "count": 3
+        },
+        {
+          "user": "emily.dalbom",
+          "count": 1
+        },
+        {
+          "user": "christina.anastos",
+          "count": 1
+        },
+        {
+          "user": "aaron.moody",
+          "count": 1
+        },
+        {
+          "user": "jackson.waggoner",
+          "count": 1
+        },
+        {
+          "user": "andrew.eastridge",
+          "count": 1
+        },
+        {
+          "user": "marisha.nichols",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 5,
+      "14": 3,
+      "19": 1,
+      "18": 3
+    },
+    "by_day": {
+      "Wednesday": 3,
+      "Tuesday": 8,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.72,
+    "dept_average_30d": 4.32,
+    "dept_rank": 682,
+    "dept_size": 848
+  }
+}

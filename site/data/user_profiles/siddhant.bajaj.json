@@ -1,0 +1,221 @@
+{
+  "username": "siddhant.bajaj",
+  "name": "Siddhant Bajaj",
+  "generated_at": "2026-04-08T20:22:24.087049",
+  "summary": {
+    "message_count": 417,
+    "channels_active": 23,
+    "unique_people_mentioned": 37,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Fixed some issues in ACE due to uuid swapping:\n\n\u2022 <https://github.com/Shopify/sidekick/pull/12978>\n\u2022",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!! :bless-up:",
+          "channel": "inc-19907-quick-search-broken-in-agent-prod",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think we might get around without the extractors as well, there is `analysis.py`  script that I think sidekick uses for their latency analysis",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "daniel.weng",
+          "count": 14
+        },
+        {
+          "user": "vitor.correa",
+          "count": 11
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 9
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 7
+        },
+        {
+          "user": "jared.rader",
+          "count": 7
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 7
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 6
+        },
+        {
+          "user": "andrew.rhyne",
+          "count": 5
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 4
+        },
+        {
+          "user": "mitchell.soares",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.03,
+      "count": 239,
+      "top_channels": [
+        {
+          "channel": "shop-agent-eng",
+          "messages": 195
+        },
+        {
+          "channel": "proj-shopkick",
+          "messages": 61
+        },
+        {
+          "channel": "tmp-unified-memory-on-agent-server",
+          "messages": 38
+        },
+        {
+          "channel": "inc-19907-quick-search-broken-in-agent-prod",
+          "messages": 27
+        },
+        {
+          "channel": "google-vertex-gemini",
+          "messages": 17
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 11
+        },
+        {
+          "channel": "proj-consumer-with-sidekick",
+          "messages": 10
+        },
+        {
+          "channel": "shopkick-operations",
+          "messages": 9
+        },
+        {
+          "channel": "catalog-api-team",
+          "messages": 8
+        },
+        {
+          "channel": "shopkick-team-relevance-domain",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 219,
+      "top_mentioners": [
+        {
+          "user": "vinny.degenova",
+          "count": 24
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 24
+        },
+        {
+          "user": "vitor.correa",
+          "count": 23
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 19
+        },
+        {
+          "user": "andrew.rhyne",
+          "count": 19
+        },
+        {
+          "user": "jared.rader",
+          "count": 17
+        },
+        {
+          "user": "daniel.weng",
+          "count": 17
+        },
+        {
+          "user": "mitchell.soares",
+          "count": 13
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 9
+        },
+        {
+          "user": "brandon.fonseca",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 68,
+      "21": 22,
+      "20": 20,
+      "16": 62,
+      "15": 30,
+      "13": 59,
+      "22": 6,
+      "19": 26,
+      "18": 31,
+      "17": 46,
+      "12": 7,
+      "8": 1,
+      "6": 1,
+      "11": 2,
+      "2": 7,
+      "0": 11,
+      "23": 11,
+      "1": 5,
+      "3": 1,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 89,
+      "Tuesday": 128,
+      "Monday": 96,
+      "Thursday": 79,
+      "Friday": 25
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.7,
+    "dept_average_30d": 5.79,
+    "dept_rank": 122,
+    "dept_size": 1233
+  }
+}

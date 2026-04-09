@@ -1,0 +1,127 @@
+{
+  "username": "igor.sobreira",
+  "name": "Igor Sobreira",
+  "generated_at": "2026-04-08T20:22:25.986967",
+  "summary": {
+    "message_count": 43,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "happy to help and learn more about the process!",
+          "channel": "shop-identity-yugabyte-migration",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great, I'm in. thanks!",
+          "channel": "help-it",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "camilo.garcialarotta",
+          "count": 2
+        },
+        {
+          "user": "elsa.huang",
+          "count": 1
+        },
+        {
+          "user": "jenica.mcguire",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.74,
+      "count": 46,
+      "top_channels": [
+        {
+          "channel": "help-it",
+          "messages": 21
+        },
+        {
+          "channel": "shop-identity-yugabyte-migration",
+          "messages": 18
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 3
+        },
+        {
+          "channel": "shop-agentic-search",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "elsa.huang",
+          "count": 17
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 7
+        },
+        {
+          "user": "erin.ren",
+          "count": 2
+        },
+        {
+          "user": "ben.eichler",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 3,
+      "21": 21,
+      "19": 4,
+      "17": 2,
+      "8": 2,
+      "23": 2,
+      "6": 2,
+      "7": 2,
+      "18": 4,
+      "20": 1
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Tuesday": 4,
+      "Monday": 9,
+      "Friday": 6,
+      "Thursday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 4.84,
+    "dept_average_30d": 5.86,
+    "dept_rank": 148,
+    "dept_size": 166
+  }
+}

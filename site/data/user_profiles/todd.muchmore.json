@@ -1,0 +1,290 @@
+{
+  "username": "todd.muchmore",
+  "name": "Todd Muchmore",
+  "generated_at": "2026-04-08T20:22:15.948286",
+  "summary": {
+    "message_count": 323,
+    "channels_active": 19,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U02DE58E8LD> could you reach out to <#CDCQADLCC> with this question? They handle the billing portion of the app store registration process. Thanks!",
+          "channel": "help-app-store",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for chasing down all these threads!",
+          "channel": "proj-admin-perf-dev-dash",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Andrew's coding agent! I'll be merging those in right now.",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you - I'll be picking my kid up in 15 minutes - I know the pain. :upside_down_face: I'll put the PRs when I get back.\n\nFor estimated volume, it",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197H0RR4Y> if you could let me know if that looks okay or if i need change any of the defaults (partitions, acls, configs, etc) and if it looks",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I've added this as the recommended approach to handle the App Store ingestion of Tracify data in",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'll be taking the approach outlined in <https://write.quick.shopify.io/#/doc/4b5466e9-80fc-427f-85af-8a452ed08c13|Tracify \u2192 App Store Data Flow:",
+          "channel": "proj-admin-perf-dev-dash",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I gotch you! Feel free to take any one of mine.",
+          "channel": "app-store-oncall-scheduling",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you.",
+          "channel": "inv-20058-app-store-logincontroller-error-increases",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "> target, type, result_status, execution_duration_ms, subject_app_key\nTarget, type, result_status looks like they are getting set okay in the",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Maybe we just make that headline average match whatever the date range is, because you are right - it would look weird to change the drop down and",
+          "channel": "proj-admin-perf-dev-dash",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "It seems like these were all previously seen errors, so I asked the clanker for some help and it pointed out the following PR:",
+          "channel": "app-store-ops",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Will the partner dashboard continue running alongside the new dev dash reports?\nWe can definitely keep that pipeline and surface active for as",
+          "channel": "proj-admin-perf-dev-dash",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "andrew.droll",
+          "count": 16
+        },
+        {
+          "user": "james.varga",
+          "count": 9
+        },
+        {
+          "user": "simon.levasseur",
+          "count": 7
+        },
+        {
+          "user": "matt.franklin",
+          "count": 5
+        },
+        {
+          "user": "mark.j.tan",
+          "count": 4
+        },
+        {
+          "user": "jia.wang",
+          "count": 3
+        },
+        {
+          "user": "joanna.klekotka",
+          "count": 3
+        },
+        {
+          "user": "mladen.rangelov",
+          "count": 3
+        },
+        {
+          "user": "danny.garcia",
+          "count": 3
+        },
+        {
+          "user": "haozhi.liao",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.68,
+      "count": 168,
+      "top_channels": [
+        {
+          "channel": "proj-tracify-mission",
+          "messages": 65
+        },
+        {
+          "channel": "proj-admin-perf-dev-dash",
+          "messages": 48
+        },
+        {
+          "channel": "help-app-store",
+          "messages": 38
+        },
+        {
+          "channel": "app-store-ops",
+          "messages": 29
+        },
+        {
+          "channel": "app-store-atc-deploy",
+          "messages": 26
+        },
+        {
+          "channel": "inc-20311-elastic-search-unavailable-for-partners-a",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20002-synthetic-check-app-store-availability-fa",
+          "messages": 18
+        },
+        {
+          "channel": "help-localization",
+          "messages": 13
+        },
+        {
+          "channel": "dev-platform-data-river",
+          "messages": 11
+        },
+        {
+          "channel": "app-store-devs",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 11
+        },
+        {
+          "user": "jia.wang",
+          "count": 9
+        },
+        {
+          "user": "elvin.ouyang",
+          "count": 7
+        },
+        {
+          "user": "james.varga",
+          "count": 5
+        },
+        {
+          "user": "jennifer.miller",
+          "count": 5
+        },
+        {
+          "user": "nam.mai",
+          "count": 5
+        },
+        {
+          "user": "murtaza.haider",
+          "count": 4
+        },
+        {
+          "user": "simon.levasseur",
+          "count": 4
+        },
+        {
+          "user": "mark.j.tan",
+          "count": 3
+        },
+        {
+          "user": "diego.ardila",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 39,
+      "21": 45,
+      "19": 22,
+      "18": 28,
+      "16": 40,
+      "14": 11,
+      "15": 42,
+      "23": 21,
+      "22": 31,
+      "20": 30,
+      "13": 1,
+      "0": 13
+    },
+    "by_day": {
+      "Wednesday": 88,
+      "Tuesday": 78,
+      "Monday": 49,
+      "Friday": 41,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.79,
+    "dept_rank": 494,
+    "dept_size": 1233
+  }
+}

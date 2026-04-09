@@ -1,0 +1,261 @@
+{
+  "username": "delong.gao",
+  "name": "Delong Gao",
+  "generated_at": "2026-04-08T20:22:11.650152",
+  "summary": {
+    "message_count": 137,
+    "channels_active": 14,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hi <@W018GBX6ELD> :wave: want to check if you have any other PRs for the TRE refactoring waiting to be reviewed, I can help with that :smile: My",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations Rose!! :tada-animated::rocket_animated:",
+          "channel": "payments-cross-border-talk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thanks for the discussion everyone! So the plan for now:\n\n\u2022 No new retention policy, instead, relying on locking + TTL (preserving the original TTL)",
+          "channel": "help-ris",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! And no worries at all! It's definitely on me to skip the normal ATC process here, it feels different from the normal ATC questions and could",
+          "channel": "help-ris",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Looks like the `filter_by_card_brand` ",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Hey <@U02STLGTNLT> I think this would be something we want to check from one of the rules, would we have access to the SP account to get this",
+          "channel": "pp-multi-direct-gateway",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@W0197GS6EAU> sorry for the explicit ping, but I feel this is more of a architectural discussion for 3P cardserver interactions, and it's a",
+          "channel": "help-ris",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I do think pairing today sometime will be helpful, I'd trying another fix quickly on my local then it would be good for us a pair a bit",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hi Drake, I think it can be helpful, feel free to invite others",
+          "channel": "inv-20146-one-merchant-all-payment-declined-for-100",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi: I created a quick postmortem meeting for next Monday for us to discuss early learnings and action items while the investigation is on going,",
+          "channel": "inv-20146-one-merchant-all-payment-declined-for-100",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "manef.zahra",
+          "count": 5
+        },
+        {
+          "user": "frederic.boivin",
+          "count": 5
+        },
+        {
+          "user": "gregoire.weber",
+          "count": 4
+        },
+        {
+          "user": "mark.bastawros",
+          "count": 4
+        },
+        {
+          "user": "sophie.bernadinmercier",
+          "count": 2
+        },
+        {
+          "user": "colin.thompson",
+          "count": 2
+        },
+        {
+          "user": "drake.white",
+          "count": 2
+        },
+        {
+          "user": "danny.elisha",
+          "count": 1
+        },
+        {
+          "user": "adeniyi.adeyemi",
+          "count": 1
+        },
+        {
+          "user": "joshua.shessel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.73,
+      "count": 276,
+      "top_channels": [
+        {
+          "channel": "pp-partner-platform-river",
+          "messages": 54
+        },
+        {
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "messages": 32
+        },
+        {
+          "channel": "inv-20146-one-merchant-all-payment-declined-for-100",
+          "messages": 17
+        },
+        {
+          "channel": "pcb-yugabyte-in-core",
+          "messages": 7
+        },
+        {
+          "channel": "delong-test-river",
+          "messages": 5
+        },
+        {
+          "channel": "help-ris",
+          "messages": 5
+        },
+        {
+          "channel": "hd39-payment-icons-release",
+          "messages": 4
+        },
+        {
+          "channel": "payments-crossborder-incident-room",
+          "messages": 4
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 3
+        },
+        {
+          "channel": "inv-20325-estee-lauder-customers-unable-to-add-paym",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "bertrand.braschi",
+          "count": 5
+        },
+        {
+          "user": "manef.zahra",
+          "count": 4
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 3
+        },
+        {
+          "user": "frederic.boivin",
+          "count": 2
+        },
+        {
+          "user": "gregoire.weber",
+          "count": 2
+        },
+        {
+          "user": "colin.thompson",
+          "count": 2
+        },
+        {
+          "user": "danny.elisha",
+          "count": 2
+        },
+        {
+          "user": "rahil.virani",
+          "count": 2
+        },
+        {
+          "user": "joshua.shessel",
+          "count": 1
+        },
+        {
+          "user": "sophie.bernadinm-5747",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "17": 16,
+      "16": 22,
+      "23": 18,
+      "22": 14,
+      "20": 14,
+      "19": 18,
+      "15": 6,
+      "21": 5,
+      "0": 7,
+      "1": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Tuesday": 34,
+      "Monday": 33,
+      "Friday": 13,
+      "Thursday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.77,
+    "dept_rank": 217,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "username": "marek.rebandel",
+  "name": "Marek Rebandel",
+  "generated_at": "2026-04-08T20:22:31.848585",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it <@W018HM81N02>! Is there a possibility of receiving a best path forward for her today? If she reapplies will she run into this same",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hi <@W0197GCA2U8> - I spoke with the merchant and they mentioned that for whatever reason they see david has a shopify card on file. It doesn't",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "megan.boudreau",
+          "count": 2
+        },
+        {
+          "user": "justin.mutter",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 8
+        },
+        {
+          "channel": "help-lending-engineering",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "katie.george",
+          "count": 1
+        },
+        {
+          "user": "marly.suarez",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 4,
+      "14": 3,
+      "16": 1,
+      "18": 1,
+      "13": 2
+    },
+    "by_day": {
+      "Thursday": 6,
+      "Monday": 2,
+      "Wednesday": 1,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.45,
+    "dept_average_30d": 4.32,
+    "dept_rank": 778,
+    "dept_size": 848
+  }
+}

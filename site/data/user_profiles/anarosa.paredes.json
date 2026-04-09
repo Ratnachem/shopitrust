@@ -1,0 +1,84 @@
+{
+  "username": "anarosa.paredes",
+  "name": "Anarosa Paredes",
+  "generated_at": "2026-04-08T20:22:32.211781",
+  "summary": {
+    "message_count": 27,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, I was able to validate faster this way, and left my review!",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 1.44,
+      "count": 38,
+      "top_channels": [
+        {
+          "channel": "katesql-dev",
+          "messages": 26
+        },
+        {
+          "channel": "katesql-ops-testing",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "james.zhu",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 11,
+      "14": 2,
+      "15": 2,
+      "22": 2,
+      "19": 1,
+      "17": 8,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 8,
+      "Friday": 3,
+      "Thursday": 9,
+      "Tuesday": 5,
+      "Monday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.17,
+    "dept_average_30d": 5.75,
+    "dept_rank": 348,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "username": "david.cortes",
+  "name": "David Cortes",
+  "generated_at": "2026-04-08T20:22:08.630761",
+  "summary": {
+    "message_count": 1203,
+    "channels_active": 21,
+    "unique_people_mentioned": 41,
+    "unique_mentioners": 48,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 11,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey <@U01TCS4BXJA> let me know if it happens again",
+          "channel": "shopify-skills",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "admin-polaris",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U028T3KT5BL> I addressed the tsgo issue, let me know if you still want to discuss this further",
+          "channel": "proj-admin-web-agentic-tooling",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "please let me know if something changes before I start my day ",
+          "channel": "admin-polaris",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you have a chance to review the script, apart from tsgo what needs to change. I'll address the issues tomorrow morning <@U028T3KT5BL>",
+          "channel": "proj-admin-web-agentic-tooling",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018WAZ0DMX> it's late for you, want me to take this over?",
+          "channel": "polaris-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-polaris-pickers",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "dang this looks amazing",
+          "channel": "autoresearch-wins",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "this visualization of pi-autoresearch results is amazing <https://x.com/DanielGri/status/2033876528480563484/photo/1>",
+          "channel": "autoresearch-wins",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "I'd appreciate it!",
+          "channel": "proj-polaris-pickers",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "but whatever we do that is programatic checks will be prone to block someone. Like having a pi extension that River runs on post edits. That would be",
+          "channel": "proj-admin-web-agentic-tooling",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "we'll need to add dev checks as part of pre-commit for this to work. There the importance of having this to be a River-only thing. A pre-commit for",
+          "channel": "proj-admin-web-agentic-tooling",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "prettier should be even auto-executed on every change file, via hooks or whatever, the same way when you save on Cursor",
+          "channel": "polaris-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think whatever we build it should not need git history, it should build with top of the branch in the PR and compare with main",
+          "channel": "admin-polaris",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "there was at some point the idea of having skill bundles, arbitrary bundles that could be based on a team name, or based on a guilt, or based on",
+          "channel": "shopify-skills",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> sorry, wrong skill, pull again, now you should have the generic one. You use pi under the hood, can you install it for yourself, only",
+          "channel": "dcortes-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "maxence.parenteau",
+          "count": 32
+        },
+        {
+          "user": "marc.thomas",
+          "count": 15
+        },
+        {
+          "user": "anthony.frehner",
+          "count": 10
+        },
+        {
+          "user": "alex.page",
+          "count": 7
+        },
+        {
+          "user": "david.cameron",
+          "count": 5
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 5
+        },
+        {
+          "user": "alessandro.dalgrande",
+          "count": 4
+        },
+        {
+          "user": "jason.addleman",
+          "count": 3
+        },
+        {
+          "user": "kyle.durand",
+          "count": 3
+        },
+        {
+          "user": "sophie.schneider",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.38,
+      "count": 205,
+      "top_channels": [
+        {
+          "channel": "proj-polaris-pickers",
+          "messages": 237
+        },
+        {
+          "channel": "dcortes-river",
+          "messages": 146
+        },
+        {
+          "channel": "admin-polaris",
+          "messages": 135
+        },
+        {
+          "channel": "polaris-river",
+          "messages": 129
+        },
+        {
+          "channel": "polaris-internal-release-roulette",
+          "messages": 110
+        },
+        {
+          "channel": "proj-admin-web-agentic-tooling",
+          "messages": 93
+        },
+        {
+          "channel": "shopify-skills",
+          "messages": 80
+        },
+        {
+          "channel": "autoresearch-wins",
+          "messages": 72
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 45
+        },
+        {
+          "channel": "proj-admin-web-component-coverage",
+          "messages": 35
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 107,
+      "top_mentioners": [
+        {
+          "user": "alex.page",
+          "count": 15
+        },
+        {
+          "user": "david.cameron",
+          "count": 10
+        },
+        {
+          "user": "anthony.frehner",
+          "count": 4
+        },
+        {
+          "user": "sophie.schneider",
+          "count": 4
+        },
+        {
+          "user": "dave.darnes",
+          "count": 4
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 4
+        },
+        {
+          "user": "maxence.parenteau",
+          "count": 4
+        },
+        {
+          "user": "galen.king",
+          "count": 4
+        },
+        {
+          "user": "dan.vanlunen",
+          "count": 3
+        },
+        {
+          "user": "mateus.ferreira",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 11,
+      "16": 189,
+      "15": 179,
+      "14": 100,
+      "13": 65,
+      "12": 126,
+      "19": 18,
+      "20": 5,
+      "17": 125,
+      "11": 111,
+      "9": 70,
+      "8": 44,
+      "7": 23,
+      "10": 94,
+      "6": 23,
+      "5": 1,
+      "21": 19
+    },
+    "by_day": {
+      "Wednesday": 364,
+      "Tuesday": 160,
+      "Monday": 269,
+      "Thursday": 205,
+      "Friday": 205
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.66,
+    "dept_average_30d": 5.79,
+    "dept_rank": 8,
+    "dept_size": 1233
+  }
+}

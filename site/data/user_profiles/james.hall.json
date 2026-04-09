@@ -1,0 +1,206 @@
+{
+  "username": "james.hall",
+  "name": "James Hall",
+  "generated_at": "2026-04-08T20:22:13.999186",
+  "summary": {
+    "message_count": 348,
+    "channels_active": 25,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to tag me on a fix",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Here's my take:\nIf Infra Central calls `Revision.create` and it passes either the `build_sha` or the `use_last_build_sha` parameters, then the",
+          "channel": "proj-47266-infrastructure-target-separation",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "joseph.fourny",
+          "count": 8
+        },
+        {
+          "user": "chad.denyar",
+          "count": 7
+        },
+        {
+          "user": "anya.zenkina",
+          "count": 4
+        },
+        {
+          "user": "kevin.norman",
+          "count": 3
+        },
+        {
+          "user": "jia.wang",
+          "count": 3
+        },
+        {
+          "user": "jessica.li",
+          "count": 2
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 2
+        },
+        {
+          "user": "phil.boyd",
+          "count": 2
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 1
+        },
+        {
+          "user": "louis.vancraen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.57,
+      "count": 215,
+      "top_channels": [
+        {
+          "channel": "proj-infra-shopify-secrets",
+          "messages": 69
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 60
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 52
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 38
+        },
+        {
+          "channel": "proj-47266-infrastructure-target-separation",
+          "messages": 21
+        },
+        {
+          "channel": "proj-secret-mgmt-infrastructure",
+          "messages": 18
+        },
+        {
+          "channel": "job-platform",
+          "messages": 15
+        },
+        {
+          "channel": "proj-40171-infrastructure-repo",
+          "messages": 14
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 14
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "jia.wang",
+          "count": 9
+        },
+        {
+          "user": "louis.munro",
+          "count": 6
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 2
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 2
+        },
+        {
+          "user": "lucas.bajolet",
+          "count": 1
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 1
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 1
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 1
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 1
+        },
+        {
+          "user": "patrick.crane",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 57,
+      "17": 51,
+      "16": 29,
+      "14": 53,
+      "13": 71,
+      "20": 22,
+      "15": 20,
+      "21": 1,
+      "19": 39,
+      "10": 1,
+      "11": 2,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 129,
+      "Tuesday": 39,
+      "Monday": 49,
+      "Thursday": 72,
+      "Friday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.13,
+    "dept_average_30d": 5.75,
+    "dept_rank": 106,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "username": "justin.flick",
+  "name": "Justin Flick",
+  "generated_at": "2026-04-08T20:22:23.465523",
+  "summary": {
+    "message_count": 372,
+    "channels_active": 33,
+    "unique_people_mentioned": 39,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oof. Yeah my bad.",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Yoooo! Let's go! Congrats",
+          "channel": "cx-rnd-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats!",
+          "channel": "cx-rnd-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh my bad. Probably read that too quickly. Either way, it's pretty much just me now on that side of the house :joy:",
+          "channel": "cx-tooling-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<!here> we need to get more efficient at managing the resiliency backlog. Take look at this video detailing the triage bot I've set up and my flow",
+          "channel": "cx-resiliency",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "FYI, if you ever get the `Zone areas/whatever/whatever exists remotely, but not locally`  error, you can solve it with `cd ~/world/trees/root/src",
+          "channel": "cx-engineering",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "<@U03FMUYD4BG> that's your PR implementation, right?",
+          "channel": "tmp-cx-tooling-q1-2026-ny-burst-kill-ihc",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't think we should offer a testing period. We should push eng to be ready by EOD Tuesday, and then have comms go Wed. No staged rollout, flip",
+          "channel": "tmp-cx-tooling-q1-2026-ny-burst-kill-ihc",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Set a time to live on whatever you build to orchestrate the service? You get 48 hours before it's nuked. But yeah, you\u2019d need a copy of main for each",
+          "channel": "cx-tooling-code-review",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I have some questions about River's implementation that I'm curious about. I don't see a #help-river (and now there are a million channels with river",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "ali.inay",
+          "count": 15
+        },
+        {
+          "user": "douglas.campos",
+          "count": 11
+        },
+        {
+          "user": "talha.saifi",
+          "count": 9
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 7
+        },
+        {
+          "user": "jordan.raitses",
+          "count": 7
+        },
+        {
+          "user": "bill.brower",
+          "count": 6
+        },
+        {
+          "user": "topher.bullock",
+          "count": 5
+        },
+        {
+          "user": "swastik.naik",
+          "count": 5
+        },
+        {
+          "user": "jana.hussien",
+          "count": 4
+        },
+        {
+          "user": "joy.ekuta",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.97,
+      "count": 289,
+      "top_channels": [
+        {
+          "channel": "cx-oncalls",
+          "messages": 46
+        },
+        {
+          "channel": "proj-conversationless-copilot",
+          "messages": 36
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 34
+        },
+        {
+          "channel": "proj-copilot-autodraft-replies",
+          "messages": 33
+        },
+        {
+          "channel": "tmp-cx-tooling-q1-2026-ny-burst-kill-ihc",
+          "messages": 27
+        },
+        {
+          "channel": "cx-resiliency",
+          "messages": 22
+        },
+        {
+          "channel": "cx-tooling-team",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20162-support-core-high-number-of-rejected-twil",
+          "messages": 17
+        },
+        {
+          "channel": "help-cx-rnd",
+          "messages": 14
+        },
+        {
+          "channel": "cx-river",
+          "messages": 14
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 164,
+      "top_mentioners": [
+        {
+          "user": "ali.inay",
+          "count": 34
+        },
+        {
+          "user": "abdi.yusuf",
+          "count": 15
+        },
+        {
+          "user": "douglas.campos",
+          "count": 9
+        },
+        {
+          "user": "monica.cordon",
+          "count": 9
+        },
+        {
+          "user": "kyle.benk",
+          "count": 8
+        },
+        {
+          "user": "swastik.naik",
+          "count": 7
+        },
+        {
+          "user": "caroline.oneil",
+          "count": 7
+        },
+        {
+          "user": "jordan.raitses",
+          "count": 6
+        },
+        {
+          "user": "jose.sandoya",
+          "count": 6
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 21,
+      "12": 1,
+      "19": 43,
+      "18": 54,
+      "17": 38,
+      "15": 47,
+      "23": 24,
+      "21": 16,
+      "20": 22,
+      "16": 28,
+      "1": 14,
+      "0": 23,
+      "4": 13,
+      "2": 2,
+      "22": 24,
+      "6": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Wednesday": 95,
+      "Tuesday": 65,
+      "Monday": 92,
+      "Thursday": 73,
+      "Friday": 47
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.77,
+    "dept_average_30d": 5.58,
+    "dept_rank": 22,
+    "dept_size": 398
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "username": "madhav.thaker",
+  "name": "Madhav Thaker",
+  "generated_at": "2026-04-08T20:22:08.429888",
+  "summary": {
+    "message_count": 367,
+    "channels_active": 17,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 13,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "No problem at all, thanks!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Strange, I manually rebased to avoid this. Not sure if claude overwrote my changes. My bad, will fix",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! And how we get added to this queue? Is it when the specified quota group is being completely utilized and you request GPUs?",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Cool will remove that piece, thanks!",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M>\n`dev up` in the root discovery-embeddings directory then in `src/tangle` . Try that and let me know if that unblocks you",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sure I have time now, thanks!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work setting up this automation <@U09FM857V0R> :claps:",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That'd be great, thanks!",
+          "channel": "proj-finetuned-product-embeddings",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "shuying.sun",
+          "count": 18
+        },
+        {
+          "user": "christophe.vangysel",
+          "count": 15
+        },
+        {
+          "user": "yang.liu",
+          "count": 14
+        },
+        {
+          "user": "nilay.menon",
+          "count": 10
+        },
+        {
+          "user": "sourav.bhattacharjee",
+          "count": 7
+        },
+        {
+          "user": "jonathan.sabbagh",
+          "count": 6
+        },
+        {
+          "user": "tom.rochette",
+          "count": 5
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 4
+        },
+        {
+          "user": "noah.frank",
+          "count": 3
+        },
+        {
+          "user": "kevin.chou",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.48,
+      "count": 263,
+      "top_channels": [
+        {
+          "channel": "proj-finetuned-product-embeddings",
+          "messages": 238
+        },
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 31
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 28
+        },
+        {
+          "channel": "search-data-goalie",
+          "messages": 17
+        },
+        {
+          "channel": "search-data-ops",
+          "messages": 9
+        },
+        {
+          "channel": "tangle",
+          "messages": 9
+        },
+        {
+          "channel": "search-relevance-metrics-v-team",
+          "messages": 8
+        },
+        {
+          "channel": "help-search-tooling",
+          "messages": 6
+        },
+        {
+          "channel": "search-relevance-retrieval",
+          "messages": 5
+        },
+        {
+          "channel": "search-p13n",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "shuying.sun",
+          "count": 15
+        },
+        {
+          "user": "christophe.vangysel",
+          "count": 10
+        },
+        {
+          "user": "sourav.bhattacharjee",
+          "count": 8
+        },
+        {
+          "user": "nilay.menon",
+          "count": 6
+        },
+        {
+          "user": "jonathan.sabbagh",
+          "count": 5
+        },
+        {
+          "user": "noah.frank",
+          "count": 4
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 4
+        },
+        {
+          "user": "yang.liu",
+          "count": 3
+        },
+        {
+          "user": "felipe.besson",
+          "count": 2
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 45,
+      "17": 28,
+      "15": 41,
+      "5": 1,
+      "23": 27,
+      "3": 5,
+      "22": 27,
+      "13": 9,
+      "16": 41,
+      "14": 10,
+      "11": 3,
+      "4": 7,
+      "0": 21,
+      "19": 28,
+      "1": 11,
+      "21": 23,
+      "20": 31,
+      "2": 6,
+      "12": 2,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 64,
+      "Tuesday": 55,
+      "Monday": 101,
+      "Friday": 63,
+      "Thursday": 84
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.57,
+    "dept_average_30d": 5.79,
+    "dept_rank": 158,
+    "dept_size": 1233
+  }
+}

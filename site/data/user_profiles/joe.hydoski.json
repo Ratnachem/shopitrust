@@ -1,0 +1,175 @@
+{
+  "username": "joe.hydoski",
+  "name": "Joe Hydoski",
+  "generated_at": "2026-04-08T20:22:11.513827",
+  "summary": {
+    "message_count": 87,
+    "channels_active": 5,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sounds good thanks!",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "No problem! Good luck w/ the fix",
+          "channel": "dev-up",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "NP! It went great. I think Jake's concerns are alleviated. Added a comment here:",
+          "channel": "ship-pickup-1-order-feds",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "jake.joseph",
+          "count": 2
+        },
+        {
+          "user": "narges.ashrafizadeh",
+          "count": 2
+        },
+        {
+          "user": "lucas.medeirosleite",
+          "count": 1
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 1
+        },
+        {
+          "user": "lazir.pascual",
+          "count": 1
+        },
+        {
+          "user": "ryan.creps",
+          "count": 1
+        },
+        {
+          "user": "alexander.yamkov",
+          "count": 1
+        },
+        {
+          "user": "will.pittman",
+          "count": 1
+        },
+        {
+          "user": "josh.murray",
+          "count": 1
+        },
+        {
+          "user": "cleo.reyes",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.01,
+      "count": 53,
+      "top_channels": [
+        {
+          "channel": "proj-ship-pickup-1-order",
+          "messages": 59
+        },
+        {
+          "channel": "ship-pickup-1-order-feds",
+          "messages": 10
+        },
+        {
+          "channel": "dev-up",
+          "messages": 10
+        },
+        {
+          "channel": "proj-fulfillable-m0-5",
+          "messages": 4
+        },
+        {
+          "channel": "acxp-river",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "keith.weaver",
+          "count": 6
+        },
+        {
+          "user": "jake.joseph",
+          "count": 4
+        },
+        {
+          "user": "narges.ashrafizadeh",
+          "count": 2
+        },
+        {
+          "user": "will.pittman",
+          "count": 1
+        },
+        {
+          "user": "jeremy.reyes",
+          "count": 1
+        },
+        {
+          "user": "alexis.katigbak",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 16,
+      "15": 8,
+      "20": 13,
+      "14": 13,
+      "13": 7,
+      "21": 2,
+      "19": 16,
+      "17": 4,
+      "16": 2,
+      "22": 6
+    },
+    "by_day": {
+      "Wednesday": 38,
+      "Monday": 13,
+      "Thursday": 20,
+      "Tuesday": 12,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.65,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1103,
+    "dept_size": 1233
+  }
+}

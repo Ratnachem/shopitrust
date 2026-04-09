@@ -1,0 +1,268 @@
+{
+  "username": "eric.yang",
+  "name": "Eric Yang",
+  "generated_at": "2026-04-08T20:22:06.112303",
+  "summary": {
+    "message_count": 544,
+    "channels_active": 23,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I don't expect all 23 can be handled by TA. I'm not that lucky. :laughing:",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "FYI the PR is merged. Let me know if you want to update the issue type for existing action items.",
+          "channel": "tmp-sync-infra-security-action-item-to-vault",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "However let me know if you need help. I can  rewrite these files.",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need help on this. I can work on the PR~",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HTHA2RZ> i saw you updated the request/limit resources for SFR deployment. Just want to double check with you on this final roll out since",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want to change it or keep it is fine.",
+          "channel": "tmp-sync-infra-security-action-item-to-vault",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if your dashboard for the application goes crazy.:smile:",
+          "channel": "cx-tooling-code-review",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! This is used for sync Action Items from Infra Central to Vault. Here is the context PR: <https://github.com/Shopify/codex/pull/392>",
+          "channel": "help-vault",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you see any problems.",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi team, I'm about to migrate kroxylicious-deploy production to a new gke cluster. Can you let me know if there are any concerns with this? ",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "1. deploy the new one, the backends will show up in the Backends\n2. Update the max rate and scaler to the same as existing ones, or whatever the team",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "louis.munro",
+          "count": 5
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 4
+        },
+        {
+          "user": "devon.boyer",
+          "count": 3
+        },
+        {
+          "user": "justin.reid",
+          "count": 3
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 2
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 2
+        },
+        {
+          "user": "mauricio.castaneda",
+          "count": 2
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        },
+        {
+          "user": "bill.brower",
+          "count": 2
+        },
+        {
+          "user": "jie.wu",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.67,
+      "count": 326,
+      "top_channels": [
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 94
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 88
+        },
+        {
+          "channel": "app-infra-gke-134",
+          "messages": 77
+        },
+        {
+          "channel": "cx-tooling-code-review",
+          "messages": 59
+        },
+        {
+          "channel": "tmp-sync-infra-security-action-item-to-vault",
+          "messages": 42
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 41
+        },
+        {
+          "channel": "proj-iam-permissions-analysis",
+          "messages": 25
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 21
+        },
+        {
+          "channel": "help-vault",
+          "messages": 18
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 14
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "pulkit.garg",
+          "count": 10
+        },
+        {
+          "user": "leonardo.pereira",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "jessica.huynh",
+          "count": 2
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 2
+        },
+        {
+          "user": "jordan.raitses",
+          "count": 2
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 2
+        },
+        {
+          "user": "anya.zenkina",
+          "count": 1
+        },
+        {
+          "user": "giorgos.logiotatidis",
+          "count": 1
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 69,
+      "17": 84,
+      "20": 50,
+      "16": 37,
+      "15": 59,
+      "14": 58,
+      "13": 41,
+      "22": 18,
+      "21": 28,
+      "19": 89,
+      "12": 11
+    },
+    "by_day": {
+      "Wednesday": 139,
+      "Tuesday": 73,
+      "Thursday": 124,
+      "Monday": 42,
+      "Friday": 166
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.48,
+    "dept_average_30d": 5.75,
+    "dept_rank": 65,
+    "dept_size": 357
+  }
+}

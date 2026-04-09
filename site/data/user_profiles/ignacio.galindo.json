@@ -1,0 +1,188 @@
+{
+  "username": "ignacio.galindo",
+  "name": "Ignacio Galindo",
+  "generated_at": "2026-04-08T20:22:26.059043",
+  "summary": {
+    "message_count": 88,
+    "channels_active": 7,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you Shireen.",
+          "channel": "inc-15765-twint-payments-failing-due-to-authenticat",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hi <@U01HLVDKKQX>, Abacus's store-details page calls `paymentProviders(first: 100, enabledOnly: true)` via the Admin API and displays whatever it",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "findings on *abacus:*\n\n*Abacus store-details query is clean* \u2014 it calls `paymentProviders(first: 100, enabledOnly: true)` via the Admin API",
+          "channel": "river-payment-account-capabilities",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "ryan.fabunan",
+          "count": 2
+        },
+        {
+          "user": "jewel.dejesus",
+          "count": 1
+        },
+        {
+          "user": "weiyi.yin",
+          "count": 1
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 1
+        },
+        {
+          "user": "madison.brown",
+          "count": 1
+        },
+        {
+          "user": "anya.li",
+          "count": 1
+        },
+        {
+          "user": "mich.fong",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.48,
+      "count": 92,
+      "top_channels": [
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 33
+        },
+        {
+          "channel": "river-payment-account-capabilities",
+          "messages": 32
+        },
+        {
+          "channel": "sp-us-1099k-2021",
+          "messages": 14
+        },
+        {
+          "channel": "sp-exceptions",
+          "messages": 5
+        },
+        {
+          "channel": "inc-15765-twint-payments-failing-due-to-authenticat",
+          "messages": 2
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 1
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.96,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "anya.li",
+          "count": 5
+        },
+        {
+          "user": "kevin.norring",
+          "count": 4
+        },
+        {
+          "user": "traian.svinti",
+          "count": 2
+        },
+        {
+          "user": "xaria.kwa",
+          "count": 2
+        },
+        {
+          "user": "thomas.gwynnetimothy",
+          "count": 1
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 1
+        },
+        {
+          "user": "asma.laaribi",
+          "count": 1
+        },
+        {
+          "user": "haroon.ahmed",
+          "count": 1
+        },
+        {
+          "user": "ronald.feng",
+          "count": 1
+        },
+        {
+          "user": "svetlin.nachev",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 6,
+      "23": 7,
+      "20": 8,
+      "19": 2,
+      "16": 5,
+      "15": 3,
+      "13": 9,
+      "12": 10,
+      "11": 13,
+      "14": 3,
+      "18": 8,
+      "17": 14
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Tuesday": 44,
+      "Monday": 2,
+      "Thursday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.31,
+    "dept_average_30d": 5.77,
+    "dept_rank": 621,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "username": "samuel.williams",
+  "name": "Samuel Williams",
+  "generated_at": "2026-04-08T20:22:26.049712",
+  "summary": {
+    "message_count": 347,
+    "channels_active": 26,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Okay, so how can I help? Do you want me to remove the railtie from Falcon? Or is using `Fiber.current_scheduler` sufficient?",
+          "channel": "proj-sidekick-falcon",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Damn, sorry about this incident, thanks everyone for working on it.",
+          "channel": "inc-20405-sfr-503s-due-to-dying-workers",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-storefronts-processing-time",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about this!",
+          "channel": "inc-20286-burst-of-unhandled-errors-on-last-phase-o",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to revert my PR: <https://app.graphite.dev/github/shop/world/pull/490494>",
+          "channel": "inc-20286-burst-of-unhandled-errors-on-last-phase-o",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For whatever reason, this affected the healthcheck service more than any other component, causing kubernetes pods to become unhealthy by accident =",
+          "channel": "proj-storefronts-processing-time",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I am fine with whatever works for you :slightly_smiling_face:",
+          "channel": "proj-sidekick-falcon",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "justin.reid",
+          "count": 7
+        },
+        {
+          "user": "josh.teeter",
+          "count": 4
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 2
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 2
+        },
+        {
+          "user": "philip.tolton",
+          "count": 2
+        },
+        {
+          "user": "sourabh.ail",
+          "count": 2
+        },
+        {
+          "user": "sam.obrien",
+          "count": 1
+        },
+        {
+          "user": "ian.kerseymer",
+          "count": 1
+        },
+        {
+          "user": "chris.giba",
+          "count": 1
+        },
+        {
+          "user": "rafael.franca",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.86,
+      "count": 230,
+      "top_channels": [
+        {
+          "channel": "sfr-internal-grpc-prototype",
+          "messages": 114
+        },
+        {
+          "channel": "proj-storefronts-processing-time",
+          "messages": 53
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 34
+        },
+        {
+          "channel": "proj-sidekick-falcon",
+          "messages": 28
+        },
+        {
+          "channel": "inc-20405-sfr-503s-due-to-dying-workers",
+          "messages": 22
+        },
+        {
+          "channel": "inc-20286-burst-of-unhandled-errors-on-last-phase-o",
+          "messages": 21
+        },
+        {
+          "channel": "team-ruby-infra",
+          "messages": 20
+        },
+        {
+          "channel": "help-security",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20971-investigate-sfr-ooms",
+          "messages": 7
+        },
+        {
+          "channel": "falcon",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.27,
+      "count": 65,
+      "top_mentioners": [
+        {
+          "user": "arina.obuchova",
+          "count": 19
+        },
+        {
+          "user": "eric.walker",
+          "count": 12
+        },
+        {
+          "user": "justin.reid",
+          "count": 8
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 5
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 3
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 2
+        },
+        {
+          "user": "ian.kerseymer",
+          "count": 1
+        },
+        {
+          "user": "sourabh.ail",
+          "count": 1
+        },
+        {
+          "user": "felipe.cuozzo",
+          "count": 1
+        },
+        {
+          "user": "vishnusankar.ms",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 8,
+      "20": 57,
+      "9": 27,
+      "7": 39,
+      "3": 16,
+      "0": 5,
+      "23": 18,
+      "22": 30,
+      "21": 53,
+      "2": 13,
+      "18": 1,
+      "6": 20,
+      "11": 6,
+      "5": 15,
+      "19": 18,
+      "8": 19,
+      "10": 2
+    },
+    "by_day": {
+      "Wednesday": 103,
+      "Tuesday": 61,
+      "Monday": 62,
+      "Friday": 40,
+      "Thursday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.64,
+    "dept_average_30d": 5.79,
+    "dept_rank": 658,
+    "dept_size": 1233
+  }
+}

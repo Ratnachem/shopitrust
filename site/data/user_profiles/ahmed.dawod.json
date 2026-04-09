@@ -1,0 +1,270 @@
+{
+  "username": "ahmed.dawod",
+  "name": "Ahmed Dawod",
+  "generated_at": "2026-04-08T20:22:06.015610",
+  "summary": {
+    "message_count": 457,
+    "channels_active": 20,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.1,
+      "pos_count": 30,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U09GQMTSY84> this worked",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018HT9H3MH>\nOne more thing: We have a new CG source called `buyer_profile_v1` that has been running for a few days now but I don't see",
+          "channel": "recommendations-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U099E4QG6LW> I will do the change now",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I will work on the prefetching idea on Monday. Thank you for the suggestion.",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. I will give this a try.\ncc: <@U098PV7TZQB> <@U0AL8EAK1FS> might be useful to you too",
+          "channel": "ml-infrastructure-users",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No problem. Thank you for the fast review",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03RYRWRL8Z> but where is the the review? I don't see any comments from you on the PR ?",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for notifying us.\nI will stop the DAG and rerun it after you ping us that it is up again.",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah I missed that one. Thank you",
+          "channel": "recommendations-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018HT9H3MH>\nCan we also add specific card type filters?\nI see only \"UR cards\" and \"Non-UR cards\"",
+          "channel": "recommendations-team",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "himanshu.arora",
+          "count": 47
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 17
+        },
+        {
+          "user": "rudi.natarajan",
+          "count": 10
+        },
+        {
+          "user": "tom.chikoore",
+          "count": 10
+        },
+        {
+          "user": "yang.gao",
+          "count": 9
+        },
+        {
+          "user": "akshay.soni",
+          "count": 8
+        },
+        {
+          "user": "kevin.durda",
+          "count": 6
+        },
+        {
+          "user": "francisco.garcia",
+          "count": 6
+        },
+        {
+          "user": "steel.ferguson",
+          "count": 6
+        },
+        {
+          "user": "benjamin.allevius",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.07,
+      "count": 294,
+      "top_channels": [
+        {
+          "channel": "project-llm-cg",
+          "messages": 155
+        },
+        {
+          "channel": "llm-cg-vantage",
+          "messages": 123
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 73
+        },
+        {
+          "channel": "shop-p13n-ml-alerts-production",
+          "messages": 27
+        },
+        {
+          "channel": "llm-cg-buyer-profiles",
+          "messages": 21
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 9
+        },
+        {
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "messages": 9
+        },
+        {
+          "channel": "meld-help-and-updates",
+          "messages": 8
+        },
+        {
+          "channel": "shop-data-dev",
+          "messages": 6
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 156,
+      "top_mentioners": [
+        {
+          "user": "tom.chikoore",
+          "count": 32
+        },
+        {
+          "user": "akshay.soni",
+          "count": 27
+        },
+        {
+          "user": "yang.gao",
+          "count": 22
+        },
+        {
+          "user": "himanshu.arora",
+          "count": 19
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 12
+        },
+        {
+          "user": "rudi.natarajan",
+          "count": 6
+        },
+        {
+          "user": "khalil.hajji",
+          "count": 3
+        },
+        {
+          "user": "rich.chen",
+          "count": 3
+        },
+        {
+          "user": "steel.ferguson",
+          "count": 3
+        },
+        {
+          "user": "armin.moradi",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 39,
+      "17": 55,
+      "16": 44,
+      "15": 35,
+      "14": 41,
+      "5": 3,
+      "4": 14,
+      "3": 15,
+      "2": 15,
+      "1": 18,
+      "0": 17,
+      "23": 21,
+      "22": 20,
+      "21": 33,
+      "20": 26,
+      "19": 37,
+      "6": 2,
+      "13": 19,
+      "12": 1,
+      "10": 1,
+      "9": 1
+    },
+    "by_day": {
+      "Wednesday": 133,
+      "Tuesday": 94,
+      "Monday": 101,
+      "Friday": 60,
+      "Thursday": 69
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.81,
+    "dept_average_30d": 5.77,
+    "dept_rank": 70,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "username": "kenny.kwan",
+  "name": "Kenny Kwan",
+  "generated_at": "2026-04-08T20:22:30.714675",
+  "summary": {
+    "message_count": 430,
+    "channels_active": 18,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W018PTYDBNY> Would you be able to take a look at this alert? I think you deleted this cluster in",
+          "channel": "search-platform-alerts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'll be scheduling a retro for this on Wednesday after lunch. Feel free to let me know if that time doesn't work and we can reschedule",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'll be scheduling a retro for this on Wednesday after lunch. Feel free to let me know if that time doesn't work and we can reschedule",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "cc <@W018WAEJU0Z> but feel free to include the next oncall as well :slightly_smiling_face:",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! You can never be too sure",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I'll be waiting to approve to proposal",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "okay sounds good! Thanks!",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to CC me in that thread in <#C05ABDX94GK> too! We'll do our best to unwind this together :smile:",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "no objections - if you don't care about data loss then scale down away",
+          "channel": "proj-search-control-plane-3",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The batch duration was longer for these problematic partitions - comparing 30 to 33. This like its attributed to just more messages polled for",
+          "channel": "inv-19964-investigating-high-delay-in-central",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would also go with best effort for it - if it fails to clean it up for whatever reason, we shouldn't fail the failover and instead continue",
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "morgan.vallati",
+          "count": 17
+        },
+        {
+          "user": "timothy.willard",
+          "count": 4
+        },
+        {
+          "user": "brenda.segal",
+          "count": 4
+        },
+        {
+          "user": "filipe.deo",
+          "count": 1
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 1
+        },
+        {
+          "user": "alex.gomez",
+          "count": 1
+        },
+        {
+          "user": "brett.marx",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.42,
+      "count": 207,
+      "top_channels": [
+        {
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "messages": 280
+        },
+        {
+          "channel": "proj-flow-regional-flow",
+          "messages": 37
+        },
+        {
+          "channel": "proj-search-control-plane-3",
+          "messages": 29
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 24
+        },
+        {
+          "channel": "search-platform-alerts",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20642-elasticsearch-core-realtime-consumer-dela",
+          "messages": 9
+        },
+        {
+          "channel": "inv-19964-investigating-high-delay-in-central",
+          "messages": 8
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 5
+        },
+        {
+          "channel": "elasticsearch-failovers",
+          "messages": 5
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "alex.gomez",
+          "count": 13
+        },
+        {
+          "user": "mattie.toia",
+          "count": 4
+        },
+        {
+          "user": "gale.shafer",
+          "count": 3
+        },
+        {
+          "user": "morgan.vallati",
+          "count": 3
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "justin.reid",
+          "count": 1
+        },
+        {
+          "user": "timothy.willard",
+          "count": 1
+        },
+        {
+          "user": "nathan.anisi",
+          "count": 1
+        },
+        {
+          "user": "robert.adler",
+          "count": 1
+        },
+        {
+          "user": "nikola.todic",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 52,
+      "13": 56,
+      "19": 69,
+      "18": 82,
+      "17": 26,
+      "12": 1,
+      "16": 43,
+      "15": 51,
+      "21": 1,
+      "20": 45,
+      "1": 4
+    },
+    "by_day": {
+      "Thursday": 89,
+      "Wednesday": 59,
+      "Tuesday": 100,
+      "Monday": 97,
+      "Friday": 85
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.08,
+    "dept_average_30d": 5.75,
+    "dept_rank": 273,
+    "dept_size": 357
+  }
+}

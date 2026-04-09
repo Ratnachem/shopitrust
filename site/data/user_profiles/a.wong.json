@@ -1,0 +1,105 @@
+{
+  "username": "a.wong",
+  "name": "A Wong",
+  "generated_at": "2026-04-08T20:22:29.038509",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 3,
+    "days_in_window": 14,
+    "days_scale": 0.61
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.24,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "peter.pandelidis",
+          "count": 2
+        },
+        {
+          "user": "leigh.greenway",
+          "count": 1
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.3,
+      "count": 53,
+      "top_channels": [
+        {
+          "channel": "identity-and-events-atc",
+          "messages": 7
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 2
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "customer-events",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.71,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "joseph.kahn",
+          "count": 2
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 2
+        },
+        {
+          "user": "jonny.lomond",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 1,
+      "20": 1,
+      "23": 2,
+      "19": 5,
+      "18": 1,
+      "17": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Thursday": 7,
+      "Wednesday": 2,
+      "Tuesday": 1,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.98,
+    "dept_average_30d": 4.74,
+    "dept_rank": 555,
+    "dept_size": 1663
+  }
+}

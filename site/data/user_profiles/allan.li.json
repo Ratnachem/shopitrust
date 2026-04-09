@@ -1,0 +1,123 @@
+{
+  "username": "allan.li",
+  "name": "Allan Li",
+  "generated_at": "2026-04-08T20:22:27.105387",
+  "summary": {
+    "message_count": 32,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 5,
+    "days_in_window": 15,
+    "days_scale": 0.65
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Could I get a review on the transitions api pr? <https://github.com/ShopifyFRS/bourgeois/pull/40080> Thanks!",
+          "channel": "proj-1-5-expansion",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "re this: i think this proposal can save us a lot of time and help us understand which dashboards explicitly are useless.\n\nif we had a list of suspect",
+          "channel": "proj-bourgeois-observability",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.39,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "reid.vanmelle",
+          "count": 3
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.97,
+      "count": 34,
+      "top_channels": [
+        {
+          "channel": "proj-bourgeois-observability",
+          "messages": 24
+        },
+        {
+          "channel": "hd39-inter-agent",
+          "messages": 5
+        },
+        {
+          "channel": "proj-1-5-expansion",
+          "messages": 2
+        },
+        {
+          "channel": "help-observability",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.47,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "reid.vanmelle",
+          "count": 9
+        },
+        {
+          "user": "eddy.wang",
+          "count": 2
+        },
+        {
+          "user": "michael.roberts",
+          "count": 1
+        },
+        {
+          "user": "steve.frost",
+          "count": 1
+        },
+        {
+          "user": "brittany.gibson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 4,
+      "19": 11,
+      "17": 10,
+      "15": 3,
+      "16": 2,
+      "13": 2
+    },
+    "by_day": {
+      "Tuesday": 2,
+      "Monday": 3,
+      "Thursday": 22,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.39,
+    "dept_average_30d": 4.74,
+    "dept_rank": 914,
+    "dept_size": 1663
+  }
+}

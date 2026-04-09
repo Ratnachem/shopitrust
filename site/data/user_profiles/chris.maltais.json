@@ -1,0 +1,283 @@
+{
+  "username": "chris.maltais",
+  "name": "Chris Maltais",
+  "generated_at": "2026-04-08T20:22:07.033926",
+  "summary": {
+    "message_count": 1176,
+    "channels_active": 47,
+    "unique_people_mentioned": 67,
+    "unique_mentioners": 60,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks - our app (sidekick-server) just migrated to `shop/world`. We noticed the schema migration app still links to the old",
+          "channel": "help-database-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "this is our zone in infra central: <https://infra-central.shopify.io/conveyor/zones/4443527>\n\nour prod envs are the only ones that dont auto-deploy,",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome taha thank you for testing!",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to navigate the uncharted waters and report back",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! im wondering if this is more of an infra central issue than a conveyor issue though?",
+          "channel": "team-cd",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hey folks our application just migrated to shop/world this morning and we're trying to kick off our first deployment using conveyor. we see the",
+          "channel": "team-cd",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hey <@U097L943SS3> <@U09AP2NV4TY> <@U098PMA161E> any update on the sidekick-server migration? we can see the slice is in shop/world but the buildkite",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great, thanks!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hey folks, can we get some :eyes: on this error?",
+          "channel": "flow-project-ai",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you its very noisy",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "nothing in in our slice in world has updated prompts yet, its whatever was in latest main for sidekick-server",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "hey alex id encourage you folks to join the sidekick office hours this thursday we can chat more then\n\nImmediate reaction though is it probably",
+          "channel": "sidekick-api-and-tools",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 70,
+      "top_mentioned": [
+        {
+          "user": "dirceu.tiegs",
+          "count": 21
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 11
+        },
+        {
+          "user": "matt.koenig",
+          "count": 8
+        },
+        {
+          "user": "rafa.lastirimonroy",
+          "count": 7
+        },
+        {
+          "user": "tavian.barnes",
+          "count": 6
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 5
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 5
+        },
+        {
+          "user": "lynnsey.grahamnovak",
+          "count": 5
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 5
+        },
+        {
+          "user": "joud.chataoui",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 543,
+      "top_channels": [
+        {
+          "channel": "sidekick-operations",
+          "messages": 212
+        },
+        {
+          "channel": "proj-sidekick-server-move-to-world",
+          "messages": 209
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 123
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 77
+        },
+        {
+          "channel": "inc-20277-multimodal-sidekick-down",
+          "messages": 66
+        },
+        {
+          "channel": "proj-sidekick-multimodal",
+          "messages": 52
+        },
+        {
+          "channel": "big-agent-small-agent",
+          "messages": 45
+        },
+        {
+          "channel": "team-cd",
+          "messages": 45
+        },
+        {
+          "channel": "sidekick-river",
+          "messages": 41
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 38
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 142,
+      "top_mentioners": [
+        {
+          "user": "katie.lawhorn",
+          "count": 14
+        },
+        {
+          "user": "lynnsey.grahamnovak",
+          "count": 14
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 7
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 6
+        },
+        {
+          "user": "joe.lin",
+          "count": 5
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 5
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 5
+        },
+        {
+          "user": "apurva.gorti",
+          "count": 4
+        },
+        {
+          "user": "vitor.correa",
+          "count": 4
+        },
+        {
+          "user": "sarah.choi",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 141,
+      "17": 107,
+      "16": 164,
+      "15": 133,
+      "14": 46,
+      "5": 2,
+      "22": 117,
+      "21": 131,
+      "19": 100,
+      "1": 10,
+      "0": 33,
+      "23": 55,
+      "20": 79,
+      "13": 22,
+      "12": 3,
+      "11": 20,
+      "3": 8,
+      "2": 3,
+      "4": 2
+    },
+    "by_day": {
+      "Wednesday": 246,
+      "Tuesday": 276,
+      "Monday": 157,
+      "Thursday": 382,
+      "Friday": 115
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.99,
+    "dept_average_30d": 5.79,
+    "dept_rank": 85,
+    "dept_size": 1233
+  }
+}

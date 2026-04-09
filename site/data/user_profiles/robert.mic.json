@@ -1,0 +1,300 @@
+{
+  "username": "robert.mic",
+  "name": "Robert Mic",
+  "generated_at": "2026-04-08T20:22:11.342624",
+  "summary": {
+    "message_count": 720,
+    "channels_active": 24,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "flow-development",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I thought I got the AI to remove that already but it failed me :sad-face:. Will update!",
+          "channel": "agentic-engineering",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "river-flrob",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave-frog: Heads up I just merged a PR to migrate us to use nix powered gems. Hopefully this means faster `dev up`s and nothing else. Please let me",
+          "channel": "flow-development",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Also please let me know if things break because of this :bow:",
+          "channel": "flow-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U01FGRBPJ5V> Heads up on the state of the backend\n\u2022 We still have a missing API, `sampleEventSchema`. Working on that stack\n\u2022 The rest of the APIs,",
+          "channel": "flow-project-testing",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave-frog: Hey friends. Just wanted to share this here. TLDR; I recently merged a PR into `areas/apps/flow` that gives us multi worktree nginx",
+          "channel": "shopify-foundations-engineering",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Op thanks! Will just clear them out then, thanks : )",
+          "channel": "flow-project-testing",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "It assigns PRs now??? amazing",
+          "channel": "flow-development",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to get a PR for that if it fixes it? Until they figure it out upstream? It only impacts dev so I don't think there's a huge security concern",
+          "channel": "flow-development",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I'll take a look and see if I can figure it out today but if not I will ping you tmrw <@U0829SW6WKT>!",
+          "channel": "flow-project-ai",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Sure, whatever is the latest and greatest",
+          "channel": "agentic-engineering",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "In your river chat, tell it to change the DB migration to a maintenance task. It'll figure it out",
+          "channel": "flow-continuous-improvements",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Want me to get a PR for that if it fixes it? Until they figure it out upstream? It only impacts dev so I don't think there's a huge security concern",
+          "channel": "flow-development",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I was thinking more of an `event_tags` table like we have for workflows. Not sure if there's any desire on the UX side to allow merchants to tag",
+          "channel": "flow-project-testing",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "jeff.kehres",
+          "count": 15
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 15
+        },
+        {
+          "user": "daria.sova",
+          "count": 14
+        },
+        {
+          "user": "gasser.aly",
+          "count": 7
+        },
+        {
+          "user": "katie.bauchman",
+          "count": 4
+        },
+        {
+          "user": "josh.beckman",
+          "count": 4
+        },
+        {
+          "user": "christie.felker",
+          "count": 4
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 3
+        },
+        {
+          "user": "tobias.bales",
+          "count": 3
+        },
+        {
+          "user": "jeff.armstrong",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.14,
+      "count": 298,
+      "top_channels": [
+        {
+          "channel": "flow-development",
+          "messages": 204
+        },
+        {
+          "channel": "flow-project-testing",
+          "messages": 108
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 88
+        },
+        {
+          "channel": "river-flrob",
+          "messages": 57
+        },
+        {
+          "channel": "inc-20231-multiple-kafka-consumers-with-lag-in-flow",
+          "messages": 53
+        },
+        {
+          "channel": "flow-project-ai",
+          "messages": 47
+        },
+        {
+          "channel": "flow-automations-team",
+          "messages": 34
+        },
+        {
+          "channel": "inv-20304-manual-run-e2e-tests-failing",
+          "messages": 31
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 30
+        },
+        {
+          "channel": "inc-20226-kafka-regional-eu-offline-partitions",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.48,
+      "count": 67,
+      "top_mentioners": [
+        {
+          "user": "jeff.kehres",
+          "count": 9
+        },
+        {
+          "user": "dave.mcvittie",
+          "count": 8
+        },
+        {
+          "user": "michael.rokas",
+          "count": 7
+        },
+        {
+          "user": "mathius.johnson",
+          "count": 5
+        },
+        {
+          "user": "josh.beckman",
+          "count": 4
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 4
+        },
+        {
+          "user": "colin.vrugteman",
+          "count": 3
+        },
+        {
+          "user": "timothy.willard",
+          "count": 3
+        },
+        {
+          "user": "tobias.bales",
+          "count": 3
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 74,
+      "16": 81,
+      "14": 104,
+      "12": 24,
+      "20": 71,
+      "19": 55,
+      "13": 104,
+      "17": 63,
+      "21": 43,
+      "15": 83,
+      "22": 4,
+      "23": 4,
+      "0": 4,
+      "2": 1,
+      "1": 5
+    },
+    "by_day": {
+      "Wednesday": 183,
+      "Tuesday": 224,
+      "Monday": 87,
+      "Thursday": 139,
+      "Friday": 87
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.74,
+    "dept_average_30d": 5.79,
+    "dept_rank": 113,
+    "dept_size": 1233
+  }
+}

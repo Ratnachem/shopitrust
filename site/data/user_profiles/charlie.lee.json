@@ -1,0 +1,228 @@
+{
+  "username": "charlie.lee",
+  "name": "Charlie Lee",
+  "generated_at": "2026-04-08T20:22:11.119561",
+  "summary": {
+    "message_count": 317,
+    "channels_active": 22,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "perfect thanks! I'll extend",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I like this pattern as a consumer but yeah we should discuss some of the tail end goals and UX.\n\nIf you haven't already seen",
+          "channel": "proj-sidekick-agentic-skills",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "perfect thanks!",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "In this case, can you see what the gap would be to extend that table with whatever fields we would need to support the pulse case. iirc that table is",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This looks great and yeah agreed with Andres in that we should add whatever is missing from the new artifacts API.\n\n&gt;",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "michael.w.hsu",
+          "count": 7
+        },
+        {
+          "user": "nick.matantsev",
+          "count": 4
+        },
+        {
+          "user": "octav.druta",
+          "count": 3
+        },
+        {
+          "user": "matt.koenig",
+          "count": 3
+        },
+        {
+          "user": "logan.vegna",
+          "count": 2
+        },
+        {
+          "user": "charles.qian",
+          "count": 2
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 2
+        },
+        {
+          "user": "daniela.velasquez",
+          "count": 1
+        },
+        {
+          "user": "phil.shadlyn",
+          "count": 1
+        },
+        {
+          "user": "rafa.lastirimonroy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.37,
+      "count": 310,
+      "top_channels": [
+        {
+          "channel": "proj-sidekick-pulse",
+          "messages": 108
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 38
+        },
+        {
+          "channel": "proj-sidekick-async",
+          "messages": 35
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 32
+        },
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20393-sidekick-analytics-on-centml-is-failing",
+          "messages": 17
+        },
+        {
+          "channel": "proj-sidekick-pulse-integrations",
+          "messages": 15
+        },
+        {
+          "channel": "sidekick-river",
+          "messages": 8
+        },
+        {
+          "channel": "sidekick-streaming",
+          "messages": 8
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 90,
+      "top_mentioners": [
+        {
+          "user": "michael.w.hsu",
+          "count": 11
+        },
+        {
+          "user": "daniela.velasquez",
+          "count": 10
+        },
+        {
+          "user": "matt.koenig",
+          "count": 7
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 5
+        },
+        {
+          "user": "andres.hernandez",
+          "count": 5
+        },
+        {
+          "user": "sai.nihas",
+          "count": 5
+        },
+        {
+          "user": "nick.matantsev1",
+          "count": 4
+        },
+        {
+          "user": "stephan.leroux",
+          "count": 4
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 3
+        },
+        {
+          "user": "tom.rochette",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 41,
+      "17": 42,
+      "3": 1,
+      "1": 8,
+      "23": 32,
+      "21": 27,
+      "20": 53,
+      "19": 22,
+      "16": 27,
+      "22": 29,
+      "15": 1,
+      "2": 11,
+      "0": 23
+    },
+    "by_day": {
+      "Wednesday": 47,
+      "Tuesday": 101,
+      "Friday": 81,
+      "Thursday": 68,
+      "Monday": 20
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.51,
+    "dept_average_30d": 5.79,
+    "dept_rank": 180,
+    "dept_size": 1233
+  }
+}

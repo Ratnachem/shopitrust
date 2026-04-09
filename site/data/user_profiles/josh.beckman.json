@@ -1,0 +1,227 @@
+{
+  "username": "josh.beckman",
+  "name": "Josh Beckman",
+  "generated_at": "2026-04-08T20:22:32.092509",
+  "summary": {
+    "message_count": 243,
+    "channels_active": 32,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "I\u2019m so excited for the get-workflow-run-data!",
+          "channel": "flow-tasks-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "So I hope to figure that out separately. I haven't found a way to do it in the API but feel free to try!",
+          "channel": "flow-development",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "<!here> <https://claude-joshbeckman-flow-cleanup.quick.shopify.io/|Great work on dependency cleanup this week> by <@W018PU3DHGC> and",
+          "channel": "flow-development",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I\u2019ll click the button above to have it be tracked on the incident, which will help in future contexts",
+          "channel": "inv-19997-devx-ci-trigger-is-failing",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can you look at the pattern that Core uses for their GraphQL resolvers that are gated by flags? I think whatever they have would be overkill, but",
+          "channel": "flow-development",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "robert.mic",
+          "count": 4
+        },
+        {
+          "user": "peter.lazzarino",
+          "count": 3
+        },
+        {
+          "user": "michael.rokas",
+          "count": 3
+        },
+        {
+          "user": "dave.mcvittie",
+          "count": 3
+        },
+        {
+          "user": "elias.hawa",
+          "count": 2
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 2
+        },
+        {
+          "user": "daria.sova",
+          "count": 2
+        },
+        {
+          "user": "steven.low",
+          "count": 2
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 2
+        },
+        {
+          "user": "timothy.willard",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 409,
+      "top_channels": [
+        {
+          "channel": "flow-development",
+          "messages": 100
+        },
+        {
+          "channel": "flow-project-history",
+          "messages": 28
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 22
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 13
+        },
+        {
+          "channel": "tectonix",
+          "messages": 13
+        },
+        {
+          "channel": "flow-team",
+          "messages": 7
+        },
+        {
+          "channel": "river-flrob",
+          "messages": 6
+        },
+        {
+          "channel": "flow-execution-team",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20423-start-writer-p99-blip",
+          "messages": 4
+        },
+        {
+          "channel": "shopify-foundations-engineering",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "michael.rokas",
+          "count": 4
+        },
+        {
+          "user": "robert.mic",
+          "count": 4
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 3
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 3
+        },
+        {
+          "user": "dave.mcvittie",
+          "count": 3
+        },
+        {
+          "user": "paul.nuschke",
+          "count": 2
+        },
+        {
+          "user": "steven.low",
+          "count": 2
+        },
+        {
+          "user": "lily.li",
+          "count": 2
+        },
+        {
+          "user": "fisher.manning",
+          "count": 2
+        },
+        {
+          "user": "ani.tumanyan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 26,
+      "18": 14,
+      "16": 45,
+      "15": 45,
+      "13": 33,
+      "19": 32,
+      "14": 13,
+      "2": 1,
+      "0": 2,
+      "21": 7,
+      "17": 23,
+      "12": 2
+    },
+    "by_day": {
+      "Friday": 87,
+      "Thursday": 45,
+      "Wednesday": 51,
+      "Tuesday": 50,
+      "Monday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.52,
+    "dept_average_30d": 5.79,
+    "dept_rank": 173,
+    "dept_size": 1233
+  }
+}

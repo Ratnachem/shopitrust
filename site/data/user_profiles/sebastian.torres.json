@@ -1,0 +1,95 @@
+{
+  "username": "sebastian.torres",
+  "name": "Sebastian Torres",
+  "generated_at": "2026-04-08T20:22:29.907259",
+  "summary": {
+    "message_count": 29,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "nicole.gerhold",
+          "count": 1
+        },
+        {
+          "user": "ryan.wu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.08,
+      "count": 2,
+      "top_channels": [
+        {
+          "channel": "wfp-queue-monitor-test",
+          "messages": 18
+        },
+        {
+          "channel": "gumloop-seb-intraday",
+          "messages": 8
+        },
+        {
+          "channel": "help-observability",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "ryan.wu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 15,
+      "17": 2,
+      "12": 5,
+      "11": 5,
+      "21": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Friday": 18,
+      "Thursday": 8,
+      "Wednesday": 2,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.56,
+    "dept_average_30d": 4.09,
+    "dept_rank": 456,
+    "dept_size": 642
+  }
+}

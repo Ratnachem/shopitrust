@@ -1,0 +1,104 @@
+{
+  "username": "reuben.osborne",
+  "name": "Reuben Osborne",
+  "generated_at": "2026-04-08T20:22:31.886346",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 11,
+    "days_scale": 0.48
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; CF bot score is irrelevant\nNoted, thank you. Is there a playbook that would benefit support in understanding this space? We\u2019re a bit light on",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey team I\u2019m investigating a case where a legitimate buyer on <http://www.tenways.com|www.tenways.com> is getting 429s on cart API requests due to",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team I\u2019m investigating a case where a legitimate buyer on <http://www.tenways.com|www.tenways.com> is getting 429s on cart API requests due to",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.85,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "kara.daviduik",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.84,
+      "count": 160,
+      "top_channels": [
+        {
+          "channel": "help-checkout",
+          "messages": 3
+        },
+        {
+          "channel": "headless-dev",
+          "messages": 2
+        },
+        {
+          "channel": "proj-horizon-theme",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.31,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "kara.daviduik",
+          "count": 2
+        },
+        {
+          "user": "markus.voigt",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 3,
+      "4": 2,
+      "1": 1
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Wednesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.99,
+    "dept_average_30d": 4.74,
+    "dept_rank": 552,
+    "dept_size": 1663
+  }
+}

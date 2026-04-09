@@ -1,0 +1,256 @@
+{
+  "username": "callum.kipin",
+  "name": "Callum Kipin",
+  "generated_at": "2026-04-08T20:22:08.710313",
+  "summary": {
+    "message_count": 256,
+    "channels_active": 18,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Agh, forgot to mark the flag as ready. Sorry about that! :sweat_smile:",
+          "channel": "shop-bots",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U095BFLLF9N> I've got a <https://docs.google.com/document/d/1WThJ11hmXg0S_Pl1UCnwKCwK8SoWKCu6b1abYmRDXIE/edit?usp=sharing|Google Doc here> for",
+          "channel": "proj-shop-unify-consent",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "In terms of other key stakeholders:\n\u2022 <@W01AQRPKP1P> <@U08PUUPB3D0> from my team\n\u2022 <@U02DDD514ET> shop wallet\n\u2022 <@W018HT9G0N7> shop identity\n_TLDR",
+          "channel": "proj-shop-unify-consent",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Scheduled a retro for tomorrow (<https://meet.google.com/axv-wkfy-gyz|Google Meet here>). Feel free to ping me if you'd like to be added to the",
+          "channel": "inc-20050-3ds-cards-block-shop-pay-external-checkou",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "See <https://shopify.slack.com/archives/C08867PMPD1/p1773323283974569|this thread> (feel free to ask questions there, it should be easier to keep the",
+          "channel": "help-shop-off-shopify",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "<https://infra-central.shopify.io/github/shop/world/pull/487211|Deployed>. :celebrate-all:",
+          "channel": "shop-wallet-ops",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Confirmed, thanks! Also verified on production (FragranceNet).",
+          "channel": "shop-off-shopify-dev",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Agh, I tested an account earlier without the *payment_service_test* permission. With it enabled, I don't have any issues adding the 'Decline after",
+          "channel": "help-shop-off-shopify",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Hey <@U01UK8WNTPH>! Just wanted to follow up with some important info. It looks like we'll be running another experiment on the `InlineUserConsent`",
+          "channel": "proj-shop-unify-consent",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "chris.bacon",
+          "count": 17
+        },
+        {
+          "user": "jamie.ly",
+          "count": 9
+        },
+        {
+          "user": "said.madi",
+          "count": 5
+        },
+        {
+          "user": "june.ha",
+          "count": 4
+        },
+        {
+          "user": "michael.wilson",
+          "count": 3
+        },
+        {
+          "user": "layne.koftinowmikan",
+          "count": 3
+        },
+        {
+          "user": "javier.barrera",
+          "count": 2
+        },
+        {
+          "user": "alejandro.clavero",
+          "count": 2
+        },
+        {
+          "user": "zachary.alton",
+          "count": 2
+        },
+        {
+          "user": "dylan.j.smith",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.56,
+      "count": 373,
+      "top_channels": [
+        {
+          "channel": "shop-wallet-dev",
+          "messages": 50
+        },
+        {
+          "channel": "inv-20050-3ds-cards-block-shop-pay-external-checkou",
+          "messages": 34
+        },
+        {
+          "channel": "inc-20050-3ds-cards-block-shop-pay-external-checkou",
+          "messages": 30
+        },
+        {
+          "channel": "shop-off-shopify-dev",
+          "messages": 26
+        },
+        {
+          "channel": "proj-shop-unify-consent",
+          "messages": 24
+        },
+        {
+          "channel": "help-shop-off-shopify",
+          "messages": 22
+        },
+        {
+          "channel": "shop-wallet-river",
+          "messages": 20
+        },
+        {
+          "channel": "inv-19924-duplicate-order-on-shop-pay-commerce-comp",
+          "messages": 19
+        },
+        {
+          "channel": "shop-wallet-ops",
+          "messages": 7
+        },
+        {
+          "channel": "proj-retail-shop-pay",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.6,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "chris.bacon",
+          "count": 13
+        },
+        {
+          "user": "jamie.ly",
+          "count": 4
+        },
+        {
+          "user": "said.madi",
+          "count": 4
+        },
+        {
+          "user": "javier.barrera",
+          "count": 3
+        },
+        {
+          "user": "michael.wilson",
+          "count": 3
+        },
+        {
+          "user": "hailey.vezza",
+          "count": 2
+        },
+        {
+          "user": "eros.dipede",
+          "count": 2
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 2
+        },
+        {
+          "user": "silvia.hayden",
+          "count": 2
+        },
+        {
+          "user": "jake.chambers",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 22,
+      "20": 33,
+      "19": 14,
+      "14": 34,
+      "13": 13,
+      "0": 23,
+      "21": 17,
+      "16": 10,
+      "15": 29,
+      "1": 14,
+      "17": 29,
+      "23": 7,
+      "22": 11
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 48,
+      "Monday": 31,
+      "Thursday": 73,
+      "Friday": 45
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.3,
+    "dept_average_30d": 5.77,
+    "dept_rank": 180,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "username": "charlie.loulakis",
+  "name": "Charlie Loulakis",
+  "generated_at": "2026-04-08T20:22:22.541167",
+  "summary": {
+    "message_count": 125,
+    "channels_active": 9,
+    "unique_people_mentioned": 31,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Can we check on the acceptance of the 120 H200s yesterday? Not showing as accepted on the AWS side yet. Thanks!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U09CTCP2L9Z> we should be able to accept first thing tomorrow. Bruce from AWS will share details and tag us. Thanks!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "On top of Nick's post on the GMD announcement, we are due for our end of March monthly post in the data community.\n\nPosting below, might make sense",
+          "channel": "data-bigrock2-privacy-data-infra",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yeah that makes sense, thanks!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Reading through - still want me to move the column to the end?",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Let me know once we are able to push this PR! Thanks!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Let me know when y'all are able to get to this, thank you!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Here would be the fully corrected based on the staging capacity - let me know if you have additional thoughts!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I'm sorry that's my bad, we were talking to them about h200s as well and had the p5e on my mind. \n\nYou are right. These are p5.48large H100s",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hit me with an \"ack\" once you all are on it, thank you!!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "what dev effort would it take for us to support this?\n\nI think we should be pushing for an expectation of batch jobs per gpu per day for jobs under 6",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "dielli.hoxha",
+          "count": 5
+        },
+        {
+          "user": "tom.rochette",
+          "count": 3
+        },
+        {
+          "user": "nicolas.bertagnolli",
+          "count": 3
+        },
+        {
+          "user": "saravana.nukala",
+          "count": 3
+        },
+        {
+          "user": "alberto.castelo",
+          "count": 3
+        },
+        {
+          "user": "ming.zhu",
+          "count": 2
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        },
+        {
+          "user": "nick.wareing",
+          "count": 2
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 2
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.7,
+      "count": 124,
+      "top_channels": [
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 57
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 26
+        },
+        {
+          "channel": "ml-infrastructure-users",
+          "messages": 23
+        },
+        {
+          "channel": "data-ops-tpm-gsd",
+          "messages": 6
+        },
+        {
+          "channel": "aws-external",
+          "messages": 5
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 5
+        },
+        {
+          "channel": "data-bigrock2-privacy-data-infra",
+          "messages": 1
+        },
+        {
+          "channel": "product-ops-ai-use-cases",
+          "messages": 1
+        },
+        {
+          "channel": "data-remote-happy-hour",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 87,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 15
+        },
+        {
+          "user": "tom.rochette",
+          "count": 10
+        },
+        {
+          "user": "ming.zhu",
+          "count": 10
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 9
+        },
+        {
+          "user": "reenkat",
+          "count": 6
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 5
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 5
+        },
+        {
+          "user": "nicolas.bertagnolli",
+          "count": 3
+        },
+        {
+          "user": "logan.vegna",
+          "count": 3
+        },
+        {
+          "user": "diego.ardila",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 11,
+      "20": 3,
+      "13": 8,
+      "18": 16,
+      "21": 22,
+      "17": 3,
+      "14": 19,
+      "11": 3,
+      "1": 1,
+      "0": 6,
+      "19": 12,
+      "22": 9,
+      "12": 1,
+      "16": 7,
+      "23": 4
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Tuesday": 44,
+      "Monday": 13,
+      "Friday": 19,
+      "Thursday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.32,
+    "dept_average_30d": 5.39,
+    "dept_rank": 45,
+    "dept_size": 272
+  }
+}

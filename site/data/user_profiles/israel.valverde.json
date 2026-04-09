@@ -1,0 +1,272 @@
+{
+  "username": "israel.valverde",
+  "name": "Israel Valverde",
+  "generated_at": "2026-04-08T20:22:13.129907",
+  "summary": {
+    "message_count": 282,
+    "channels_active": 37,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 20,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Done, thanks!",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh, my bad - I trusted River too much to find appropriate teams to ping :sweat_smile:",
+          "channel": "help-domains",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hi! I have a small PR fixing `assert_raises` misuse in `components/billing` test files (6 files). It replaces bare string args with the",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hi! I have a small PR fixing `assert_raises` misuse in `components/apps` test files (12 files). It ensures error messages are properly",
+          "channel": "help-domains",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hi! I have a small PR fixing `assert_raises` misuse in domains test files (2 files). It replaces bare string args with the `match:` keyword so",
+          "channel": "help-domains",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hi team! I have a couple of small PRs fixing `assert_raises` misuse in core shopify test files \u2014 it replaces bare string args with the",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I've added <@U02DE5HNA05> to it as he's interested in Yuga's performance",
+          "channel": "tmp-benchmark-yugabyte",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@W018WA22PFT>, can you please bring up in the chain the concerns we have with performance and how tricky it is to test it at the moment?\n\nIt would",
+          "channel": "proj-deliver-yugabyte",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I can kick off the analysis for those affected tomorrow :point_up_2:\n\nLet me know if we should also run it for all the other models without a GHI",
+          "channel": "core-read-committed-migration",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n\nI see the <https://schema-migrations.shopifysvc.com/shopify/production/podded/20260306103921|pending migration> is already set to manually",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Now they have no specific API rate limit modifier applied to their store, which should give whatever they had before.",
+          "channel": "inc-20818-slow-query-in-fulfillmentcreatev2-admin-g",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "jeffrey.bagdis",
+          "count": 7
+        },
+        {
+          "user": "paul.ayling",
+          "count": 7
+        },
+        {
+          "user": "jacoby.joukema",
+          "count": 7
+        },
+        {
+          "user": "vicki.crowe",
+          "count": 4
+        },
+        {
+          "user": "manuel.asensio",
+          "count": 3
+        },
+        {
+          "user": "ollie.treend",
+          "count": 2
+        },
+        {
+          "user": "max.perry",
+          "count": 2
+        },
+        {
+          "user": "emilie.noel",
+          "count": 2
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 2
+        },
+        {
+          "user": "max.romaniv",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 455,
+      "top_channels": [
+        {
+          "channel": "fulfillments-yugabyte",
+          "messages": 39
+        },
+        {
+          "channel": "inc-20818-slow-query-in-fulfillmentcreatev2-admin-g",
+          "messages": 38
+        },
+        {
+          "channel": "river-ipvalverde",
+          "messages": 25
+        },
+        {
+          "channel": "proj-deliver-yugabyte",
+          "messages": 25
+        },
+        {
+          "channel": "inv-19830-10-events-in-1h-for-slicefulfillments",
+          "messages": 25
+        },
+        {
+          "channel": "core-read-committed-migration",
+          "messages": 22
+        },
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 20
+        },
+        {
+          "channel": "proj-core-reaper",
+          "messages": 7
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 6
+        },
+        {
+          "channel": "tmp-benchmark-yugabyte",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.38,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "jeffrey.bagdis",
+          "count": 10
+        },
+        {
+          "user": "paul.ayling",
+          "count": 9
+        },
+        {
+          "user": "emilie.noel",
+          "count": 6
+        },
+        {
+          "user": "max.perry",
+          "count": 4
+        },
+        {
+          "user": "marcus.turner",
+          "count": 3
+        },
+        {
+          "user": "mathyas.papp",
+          "count": 3
+        },
+        {
+          "user": "martin.samson",
+          "count": 2
+        },
+        {
+          "user": "jacoby.joukema",
+          "count": 2
+        },
+        {
+          "user": "vicki.crowe",
+          "count": 2
+        },
+        {
+          "user": "daniella.niyonkuru",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 12,
+      "11": 24,
+      "10": 19,
+      "9": 23,
+      "8": 15,
+      "16": 32,
+      "15": 40,
+      "14": 42,
+      "13": 24,
+      "12": 25,
+      "22": 2,
+      "17": 18,
+      "3": 1,
+      "23": 1,
+      "21": 4
+    },
+    "by_day": {
+      "Wednesday": 90,
+      "Thursday": 63,
+      "Tuesday": 49,
+      "Monday": 40,
+      "Friday": 40
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 9.84,
+    "dept_average_30d": 4.74,
+    "dept_rank": 3,
+    "dept_size": 1663
+  }
+}

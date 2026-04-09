@@ -1,0 +1,206 @@
+{
+  "username": "jordan.wheeler",
+  "name": "Jordan Wheeler",
+  "generated_at": "2026-04-08T20:22:26.207181",
+  "summary": {
+    "message_count": 236,
+    "channels_active": 9,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you so much. this has been bothering me for a while now.\n\nis there, uh, a similar backfill possible for the review statistics :blush:",
+          "channel": "help-vault",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for finally helping me track this down",
+          "channel": "help-vault",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "after it deploys you can create the cluster in infra central and converge, good luck :salute_canada:",
+          "channel": "proj-data-storage-yugabyte-stability",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "at this point, whatever happens after we perform the maintenance almost feels more concerning than the upgrade does :sweat_smile:",
+          "channel": "db-platform-yugabyte-ops",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yep. for getting this one through, i'm still in the camp of \"whatever works\".\n\nhighlssd is probably the easiest right? i assume that would work",
+          "channel": "proj-data-storage-yugabyte-stability",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "you just run the play, it figure it out",
+          "channel": "db-platform-yugabyte-alerts-prod",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "rodrigo.saito",
+          "count": 2
+        },
+        {
+          "user": "john.meehan",
+          "count": 1
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 1
+        },
+        {
+          "user": "brandon.mcnama",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.06,
+      "count": 28,
+      "top_channels": [
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 120
+        },
+        {
+          "channel": "proj-data-storage-yugabyte-stability",
+          "messages": 35
+        },
+        {
+          "channel": "help-vault",
+          "messages": 25
+        },
+        {
+          "channel": "db-platform-yugabyte-alerts-prod",
+          "messages": 22
+        },
+        {
+          "channel": "proj-1000-node-yugabyte",
+          "messages": 17
+        },
+        {
+          "channel": "proj-yugabyte-query-perf-monitor",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20784-new-master-instance-failing-to-join-the-c",
+          "messages": 5
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 4
+        },
+        {
+          "channel": "yugabyte-announcements",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "rodrigo.saito",
+          "count": 12
+        },
+        {
+          "user": "john.meehan",
+          "count": 11
+        },
+        {
+          "user": "brandon.mcnama",
+          "count": 4
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 3
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "sasa.ilic",
+          "count": 1
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        },
+        {
+          "user": "andre.ericson",
+          "count": 1
+        },
+        {
+          "user": "tom.krouper",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "23": 9,
+      "22": 14,
+      "21": 18,
+      "20": 14,
+      "19": 26,
+      "18": 22,
+      "15": 19,
+      "14": 28,
+      "17": 20,
+      "16": 12,
+      "13": 46,
+      "12": 8
+    },
+    "by_day": {
+      "Tuesday": 56,
+      "Monday": 39,
+      "Thursday": 52,
+      "Wednesday": 17,
+      "Friday": 72
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.1,
+    "dept_average_30d": 5.75,
+    "dept_rank": 269,
+    "dept_size": 357
+  }
+}

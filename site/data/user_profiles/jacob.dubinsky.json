@@ -1,0 +1,271 @@
+{
+  "username": "jacob.dubinsky",
+  "name": "Jacob Dubinsky",
+  "generated_at": "2026-04-08T20:22:10.361497",
+  "summary": {
+    "message_count": 324,
+    "channels_active": 17,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: could I get a review on this PR to add firewall rules between buyer-profile in staging/prod (`apps-staging` and `merchant-marketing`) and",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: could I get a review on this PR to add firewall rules between buyer-profile in staging/prod (`apps-staging` and `merchant-marketing`) and",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: I'm working on cross cluster grpc integration and running into networking issues with MCS. my team's application runs on `apps-staging-*`",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "the company and company locations names in catalogs should still be filtered. for example, I have a catalog setup based on 2 company locations (first",
+          "channel": "markets-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":+1: thanks!",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh yeah, my bad :sweat_smile: I'll do that tomorrow",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to take it over if you need to",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "works, thanks!",
+          "channel": "proj-infra-shopkv-store",
+          "timestamp": "2026-03-09"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "works, thank you! let me know when I can replace it with the one on main",
+          "channel": "proj-infra-shopkv-store",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "it's not a cap. if you pass in 0 to `Put` it uses the config ttl. otherwise it'll use whatever you pass in",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "vincent.lizotte",
+          "count": 5
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 4
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 4
+        },
+        {
+          "user": "mac.kudrenecky",
+          "count": 3
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 3
+        },
+        {
+          "user": "baoyuan.xing",
+          "count": 1
+        },
+        {
+          "user": "sabrina.zhu",
+          "count": 1
+        },
+        {
+          "user": "martin.samson",
+          "count": 1
+        },
+        {
+          "user": "anastasia.tumanov",
+          "count": 1
+        },
+        {
+          "user": "dan.mayer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.76,
+      "count": 225,
+      "top_channels": [
+        {
+          "channel": "mm-fdn-buyer-profile-ops",
+          "messages": 134
+        },
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 47
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 30
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 30
+        },
+        {
+          "channel": "proj-buyer-profile-shopkv",
+          "messages": 27
+        },
+        {
+          "channel": "amazon-orders-scope",
+          "messages": 24
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 6
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 5
+        },
+        {
+          "channel": "mm-fdn-buyer-profile-ops-test",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.08,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "martin.samson",
+          "count": 14
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 7
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 2
+        },
+        {
+          "user": "mac.kudrenecky",
+          "count": 2
+        },
+        {
+          "user": "dustin.firman",
+          "count": 2
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 2
+        },
+        {
+          "user": "ishani.ghosh",
+          "count": 2
+        },
+        {
+          "user": "eddie.cheung",
+          "count": 2
+        },
+        {
+          "user": "ryan.creps",
+          "count": 1
+        },
+        {
+          "user": "baoyuan.xing",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 54,
+      "6": 4,
+      "20": 18,
+      "16": 22,
+      "0": 3,
+      "21": 38,
+      "17": 55,
+      "19": 44,
+      "15": 16,
+      "14": 12,
+      "1": 1,
+      "23": 23,
+      "22": 31,
+      "13": 3
+    },
+    "by_day": {
+      "Wednesday": 121,
+      "Tuesday": 58,
+      "Monday": 58,
+      "Thursday": 58,
+      "Friday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.25,
+    "dept_average_30d": 5.77,
+    "dept_rank": 202,
+    "dept_size": 885
+  }
+}

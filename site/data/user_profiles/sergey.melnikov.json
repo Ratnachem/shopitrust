@@ -1,0 +1,222 @@
+{
+  "username": "sergey.melnikov",
+  "name": "Sergey Melnikov",
+  "generated_at": "2026-04-08T20:22:07.262158",
+  "summary": {
+    "message_count": 136,
+    "channels_active": 9,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U01HQ9TDTST> want me to wrap up the existing deploy?",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That looks like it might be a good reference file in a broader \"state models\" skill for admin-web. Thanks!",
+          "channel": "proj-admin-web-agentic-tooling",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Let me know how that feels, bit of extra boilerplate but the agents can handle that",
+          "channel": "proj-admin-state-models",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to pause the deploy for now?",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "IIRC it just rethrows whatever you put in there",
+          "channel": "proj-admin-state-models",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "aaron.casanova",
+          "count": 5
+        },
+        {
+          "user": "jason.miller",
+          "count": 2
+        },
+        {
+          "user": "david.cortes",
+          "count": 2
+        },
+        {
+          "user": "levi.morales",
+          "count": 2
+        },
+        {
+          "user": "henry.tao",
+          "count": 2
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 1
+        },
+        {
+          "user": "matt.kubej",
+          "count": 1
+        },
+        {
+          "user": "kelly.ma",
+          "count": 1
+        },
+        {
+          "user": "stephen.last",
+          "count": 1
+        },
+        {
+          "user": "andre.wiggins",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.06,
+      "count": 241,
+      "top_channels": [
+        {
+          "channel": "proj-admin-web-agentic-tooling",
+          "messages": 57
+        },
+        {
+          "channel": "proj-admin-state-models",
+          "messages": 38
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 10
+        },
+        {
+          "channel": "inc-21188-pos-apps-returning-404-errors",
+          "messages": 9
+        },
+        {
+          "channel": "inv-19977-print-extension-doesnt-work-on-mobile",
+          "messages": 9
+        },
+        {
+          "channel": "help-admin-web-platform",
+          "messages": 6
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 4
+        },
+        {
+          "channel": "autoresearch-wins",
+          "messages": 2
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.08,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "aaron.casanova",
+          "count": 16
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 6
+        },
+        {
+          "user": "mitch.lillie",
+          "count": 3
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 2
+        },
+        {
+          "user": "stephen.last",
+          "count": 2
+        },
+        {
+          "user": "matt.kubej",
+          "count": 1
+        },
+        {
+          "user": "alex.graffeocohen",
+          "count": 1
+        },
+        {
+          "user": "kelly.ma",
+          "count": 1
+        },
+        {
+          "user": "amin.pakseresht",
+          "count": 1
+        },
+        {
+          "user": "jay.laiche",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 11,
+      "16": 16,
+      "17": 22,
+      "15": 28,
+      "22": 11,
+      "21": 4,
+      "19": 9,
+      "13": 9,
+      "20": 13,
+      "14": 12,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 53,
+      "Monday": 21,
+      "Thursday": 10,
+      "Tuesday": 42,
+      "Friday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.93,
+    "dept_average_30d": 5.79,
+    "dept_rank": 37,
+    "dept_size": 1233
+  }
+}

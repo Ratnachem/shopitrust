@@ -1,0 +1,99 @@
+{
+  "username": "moonta.kabir",
+  "name": "Moonta Kabir",
+  "generated_at": "2026-04-08T20:22:32.175907",
+  "summary": {
+    "message_count": 26,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "what a rush ---- thank you for pairing with me via slack :slightly_smiling_face:",
+          "channel": "ops-ai",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "javier.herrera",
+          "count": 2
+        },
+        {
+          "user": "stephany.nielsen",
+          "count": 1
+        },
+        {
+          "user": "olga.haliuk",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.42,
+      "count": 64,
+      "top_channels": [
+        {
+          "channel": "ops-ai",
+          "messages": 17
+        },
+        {
+          "channel": "dxd-workplace-experience-river-test",
+          "messages": 7
+        },
+        {
+          "channel": "claude-code",
+          "messages": 1
+        },
+        {
+          "channel": "builder-sundays-volunteers",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "javier.herrera",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 21,
+      "13": 3,
+      "15": 2
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Wednesday": 8,
+      "Tuesday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 4.21,
+    "dept_average_30d": 4.56,
+    "dept_rank": 44,
+    "dept_size": 74
+  }
+}

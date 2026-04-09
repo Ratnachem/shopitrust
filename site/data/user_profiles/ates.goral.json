@@ -1,0 +1,312 @@
+{
+  "username": "ates.goral",
+  "name": "Ates Goral",
+  "generated_at": "2026-04-08T20:22:17.936188",
+  "summary": {
+    "message_count": 771,
+    "channels_active": 50,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 50,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.3,
+      "pos_count": 11,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the report/feedback!",
+          "channel": "qlaw",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "BIG CONGRATS!",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> Please create a docs-only PR in Shopify/sidekick-server that updates 3 files. No code changes.\n\n**Context:** The Verdict flag",
+          "channel": "sidekick-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "In case you missed it (or haven't refreshed Qlaw in a while), try the *pop out* button in the header to bring Qlaw with you to other desktops, and be",
+          "channel": "qlaw",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0214NYEYEB>!",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Good catch Josh \u2014 you're right, and I dug into the proxy source to understand it properly.\n\nThe `stream` tag is set from the *response* Content-Type",
+          "channel": "inv-20917-spike-of-exceptions-in-sidekick-server",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":thank: thank you so much!",
+          "channel": "webmcp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great points, thank you! Updated gist.",
+          "channel": "webmcp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ideas are worthless without execution, so thank you!",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Campechano on Adelaide (behind this building) is amazing. So I'm sure this location is also great! Enjoy! And have a margarita for me! (I got fish",
+          "channel": "tmp-storekick-agent-eval-burst",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I just ask Qlaw and it does whatever it takes to find answers :slightly_smiling_face:",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Man Qlaw is getting crazy. These are the only messages I wrote to get this app created and published:",
+          "channel": "qlaw",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> see this PR you created earlier to address the issue where a SidekickFetchError was being thrown instead of a",
+          "channel": "sidekick-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> when we rethrow `SidekickMaintenanceError` it will percolate up to whatever surface called it and it will be up to the call site to",
+          "channel": "sidekick-river",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": ":loudspeaker2: OMG I just fixed a set of bugs in Qlaw's context management that made it egregiously more stupid than it was supposed to be. Please",
+          "channel": "qlaw",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "do the most simple stupid lazy thing until everyone migrates",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 36,
+      "top_mentioned": [
+        {
+          "user": "bahar.pourazar",
+          "count": 6
+        },
+        {
+          "user": "mila.koeva",
+          "count": 5
+        },
+        {
+          "user": "matt.koenig",
+          "count": 4
+        },
+        {
+          "user": "josh.zucker",
+          "count": 4
+        },
+        {
+          "user": "alex.pilon",
+          "count": 4
+        },
+        {
+          "user": "trish.ta",
+          "count": 4
+        },
+        {
+          "user": "colton.powell",
+          "count": 3
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 3
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 3
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 598,
+      "top_channels": [
+        {
+          "channel": "sidekick-river",
+          "messages": 89
+        },
+        {
+          "channel": "qlaw",
+          "messages": 86
+        },
+        {
+          "channel": "proj-apps-in-sk",
+          "messages": 83
+        },
+        {
+          "channel": "quick",
+          "messages": 77
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 72
+        },
+        {
+          "channel": "proj-shopkick",
+          "messages": 60
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 36
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 29
+        },
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 25
+        },
+        {
+          "channel": "tmp-storekick-agent-eval-burst",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 114,
+      "top_mentioners": [
+        {
+          "user": "mujtaba.khambatti",
+          "count": 9
+        },
+        {
+          "user": "sean.ittel",
+          "count": 8
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 7
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 5
+        },
+        {
+          "user": "richard.poirier",
+          "count": 5
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 4
+        },
+        {
+          "user": "yoav.weiss",
+          "count": 4
+        },
+        {
+          "user": "benjamin.czegeny",
+          "count": 4
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 4
+        },
+        {
+          "user": "mila.koeva",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 88,
+      "16": 57,
+      "15": 76,
+      "14": 85,
+      "13": 56,
+      "23": 13,
+      "22": 40,
+      "21": 67,
+      "2": 15,
+      "20": 81,
+      "19": 59,
+      "6": 2,
+      "1": 19,
+      "0": 20,
+      "18": 65,
+      "11": 7,
+      "9": 8,
+      "4": 1,
+      "3": 8,
+      "5": 4
+    },
+    "by_day": {
+      "Wednesday": 185,
+      "Tuesday": 256,
+      "Monday": 108,
+      "Friday": 121,
+      "Thursday": 101
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.91,
+    "dept_average_30d": 4.74,
+    "dept_rank": 44,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "username": "catherine.ponsford",
+  "name": "Catherine Ponsford",
+  "generated_at": "2026-04-08T20:22:31.195096",
+  "summary": {
+    "message_count": 64,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Claude response:\n&gt; :black_circle_for_record: Your shell has the token (shopify-eyJtb2RlIjoi...) but launchctl getenv returned nothing \u2014 confirming",
+          "channel": "tool-gateway",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both for your help, glad to know my account is secure!",
+          "channel": "help-shop-identity",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you both SOOOO much",
+          "channel": "help-it",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03R04JTDHB> :angel-blob: - I've tried FileZilla and Cyberduck, and have tried restarting twice, reinstalled WARP, turned WARP off and on",
+          "channel": "help-it",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "this is a terribly stupid question but how do I get to that folder?",
+          "channel": "tool-gateway",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "melanie.hageman",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.73,
+      "count": 125,
+      "top_channels": [
+        {
+          "channel": "tool-gateway",
+          "messages": 38
+        },
+        {
+          "channel": "help-it",
+          "messages": 12
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 8
+        },
+        {
+          "channel": "vault-team",
+          "messages": 4
+        },
+        {
+          "channel": "talent-tech-tooling-alerts",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "diana.delpino",
+          "count": 3
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 3
+        },
+        {
+          "user": "tony.cummings",
+          "count": 2
+        },
+        {
+          "user": "wanda.heeley",
+          "count": 2
+        },
+        {
+          "user": "omas.abdullah",
+          "count": 2
+        },
+        {
+          "user": "sarah.ahier",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 6,
+      "19": 1,
+      "18": 18,
+      "17": 5,
+      "16": 3,
+      "15": 14,
+      "14": 9,
+      "13": 7,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Tuesday": 53,
+      "Monday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 3.91,
+    "dept_average_30d": 4.13,
+    "dept_rank": 37,
+    "dept_size": 64
+  }
+}

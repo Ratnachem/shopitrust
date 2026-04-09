@@ -1,0 +1,172 @@
+{
+  "username": "guido.westenberg",
+  "name": "Guido Westenberg",
+  "generated_at": "2026-04-08T20:22:31.898428",
+  "summary": {
+    "message_count": 58,
+    "channels_active": 8,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 10,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Tim, I thought you might be familiar because Joe mentioned that they are building deployment orchestration for these apps in infra-central, and I",
+          "channel": "index-serving-monorepo-transition",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "To draw this to an interesting conclusion: While we may all be in a single monorepo and developing against the same mainline, what we actually should",
+          "channel": "team-cd",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.99,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "edilson.correa",
+          "count": 5
+        },
+        {
+          "user": "tim.smith",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "david.radcliffe",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.26,
+      "count": 133,
+      "top_channels": [
+        {
+          "channel": "team-cd",
+          "messages": 32
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 15
+        },
+        {
+          "channel": "conveyor-lso-connect",
+          "messages": 4
+        },
+        {
+          "channel": "index-serving-monorepo-transition",
+          "messages": 3
+        },
+        {
+          "channel": "proj-git-and-infracentral-history-archival",
+          "messages": 1
+        },
+        {
+          "channel": "gitstream",
+          "messages": 1
+        },
+        {
+          "channel": "temp-mobile-e2e-bitrise-after-canary-deploy",
+          "messages": 1
+        },
+        {
+          "channel": "dev-tools-data",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.11,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 4
+        },
+        {
+          "user": "aaron.scull",
+          "count": 3
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 2
+        },
+        {
+          "user": "aqeel.nazeer",
+          "count": 2
+        },
+        {
+          "user": "edilson.correa",
+          "count": 2
+        },
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 1
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 1
+        },
+        {
+          "user": "sam.obrien",
+          "count": 1
+        },
+        {
+          "user": "simon.chau",
+          "count": 1
+        },
+        {
+          "user": "nandini.parimi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 8,
+      "15": 4,
+      "14": 9,
+      "12": 3,
+      "17": 14,
+      "13": 4,
+      "18": 11,
+      "16": 2,
+      "10": 2,
+      "9": 1
+    },
+    "by_day": {
+      "Wednesday": 7,
+      "Tuesday": 9,
+      "Monday": 4,
+      "Friday": 1,
+      "Thursday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.32,
+    "dept_average_30d": 4.74,
+    "dept_rank": 969,
+    "dept_size": 1663
+  }
+}

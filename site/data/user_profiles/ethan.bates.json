@@ -1,0 +1,201 @@
+{
+  "username": "ethan.bates",
+  "name": "Ethan Bates",
+  "generated_at": "2026-04-08T20:22:29.553470",
+  "summary": {
+    "message_count": 146,
+    "channels_active": 12,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Or we log \"treasure hunt mode activated, good luck finding your files\"",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Looks like your fixes worked nice job <@U087P1UL0D8>",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Pretty much downhill since Thomas Dohmke left and they folded GitHub into \"CoreAI\" -- whatever that means\n\u2022",
+          "channel": "developers-talk",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "tom.rochette",
+          "count": 3
+        },
+        {
+          "user": "diego.ardila",
+          "count": 3
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 2
+        },
+        {
+          "user": "wanying.zhao",
+          "count": 1
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 1
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 1
+        },
+        {
+          "user": "devon.boyer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.11,
+      "count": 82,
+      "top_channels": [
+        {
+          "channel": "proj-davies-gpu-control-plane",
+          "messages": 89
+        },
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 37
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 5
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 4
+        },
+        {
+          "channel": "tmp-ml-training-migration",
+          "messages": 3
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 2
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 1
+        },
+        {
+          "channel": "tom-rochette-river",
+          "messages": 1
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 1
+        },
+        {
+          "channel": "team-ml-infrastructure",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "tom.rochette",
+          "count": 10
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 6
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 5
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 5
+        },
+        {
+          "user": "ming.zhu",
+          "count": 3
+        },
+        {
+          "user": "diego.ardila",
+          "count": 2
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 2
+        },
+        {
+          "user": "devon.boyer",
+          "count": 1
+        },
+        {
+          "user": "zac.roberts",
+          "count": 1
+        },
+        {
+          "user": "kangyuan.shu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 8,
+      "17": 12,
+      "16": 21,
+      "20": 13,
+      "19": 14,
+      "18": 13,
+      "21": 17,
+      "15": 19,
+      "14": 23,
+      "23": 3,
+      "22": 2,
+      "2": 1
+    },
+    "by_day": {
+      "Monday": 14,
+      "Friday": 19,
+      "Thursday": 27,
+      "Wednesday": 49,
+      "Tuesday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.18,
+    "dept_average_30d": 5.75,
+    "dept_rank": 258,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "username": "fatuma.tahalil",
+  "name": "Fatuma Tahalil",
+  "generated_at": "2026-04-08T20:22:31.646034",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 4,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Continue this checkout work from the dashboard.\nIssue: #9019 \u2014 PayPal express checkout button does not work on cart page\nUse the",
+          "channel": "checkout-experience-production-support",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.48,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 1.43,
+      "count": 36,
+      "top_channels": [
+        {
+          "channel": "checkout-experience-production-support",
+          "messages": 8
+        },
+        {
+          "channel": "checkout-wallets-river",
+          "messages": 4
+        },
+        {
+          "channel": "claude-code",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.87,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "cindy.li",
+          "count": 1
+        },
+        {
+          "user": "ramanan.sampath",
+          "count": 1
+        },
+        {
+          "user": "jordan.murphy",
+          "count": 1
+        },
+        {
+          "user": "michael.bottens",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 3,
+      "13": 3,
+      "18": 4,
+      "14": 2,
+      "19": 3
+    },
+    "by_day": {
+      "Friday": 4,
+      "Thursday": 4,
+      "Wednesday": 2,
+      "Tuesday": 4,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.61,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1599,
+    "dept_size": 1663
+  }
+}

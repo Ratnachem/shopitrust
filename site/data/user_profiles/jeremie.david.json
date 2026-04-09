@@ -1,0 +1,228 @@
+{
+  "username": "jeremie.david",
+  "name": "Jeremie David",
+  "generated_at": "2026-04-08T20:22:17.415791",
+  "summary": {
+    "message_count": 349,
+    "channels_active": 14,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "But feel free to use another approach as we dicussed (time cutover without any backfill)",
+          "channel": "proj-sox-data-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02C4A57MNZ> Let me know if you need more info to address this :smile:",
+          "channel": "help-ris",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Nice job folks! :claps:",
+          "channel": "russbot-mysql-hll",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to iterate or modify anything tho, it was mostly an adhoc investigation for my own learning of how query patterns can impact BigQuery",
+          "channel": "proj-sox-data-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Im free all afternoon, feel free to book any time!",
+          "channel": "proj-sox-data-platform",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "pedro.baracho",
+          "count": 9
+        },
+        {
+          "user": "shirley.selvan",
+          "count": 7
+        },
+        {
+          "user": "elio.hasrouni",
+          "count": 5
+        },
+        {
+          "user": "amalia.gomez",
+          "count": 5
+        },
+        {
+          "user": "anes.khadiri",
+          "count": 5
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 4
+        },
+        {
+          "user": "beryl.wu",
+          "count": 3
+        },
+        {
+          "user": "bony.roopchandani",
+          "count": 2
+        },
+        {
+          "user": "matt.farmer",
+          "count": 2
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.36,
+      "count": 151,
+      "top_channels": [
+        {
+          "channel": "proj-sox-data-platform",
+          "messages": 128
+        },
+        {
+          "channel": "sox-data-warehouse-monitoring",
+          "messages": 50
+        },
+        {
+          "channel": "help-russbot",
+          "messages": 36
+        },
+        {
+          "channel": "russbot-operations",
+          "messages": 33
+        },
+        {
+          "channel": "help-ris",
+          "messages": 25
+        },
+        {
+          "channel": "inv-19910-investigate-increasing-mysql-cpu-usage",
+          "messages": 25
+        },
+        {
+          "channel": "inc-19910-investigate-increasing-mysql-cpu-usage",
+          "messages": 21
+        },
+        {
+          "channel": "shopify-payments-russbot",
+          "messages": 11
+        },
+        {
+          "channel": "russbot-staging-2-alerts",
+          "messages": 9
+        },
+        {
+          "channel": "estimated-rev-unified-pipeline",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.85,
+      "count": 61,
+      "top_mentioners": [
+        {
+          "user": "amalia.gomez",
+          "count": 12
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 8
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 6
+        },
+        {
+          "user": "elio.hasrouni",
+          "count": 6
+        },
+        {
+          "user": "brian.warsing",
+          "count": 5
+        },
+        {
+          "user": "anes.khadiri",
+          "count": 3
+        },
+        {
+          "user": "andrew.tubman",
+          "count": 3
+        },
+        {
+          "user": "bony.roopchandani",
+          "count": 2
+        },
+        {
+          "user": "manuel.ocana",
+          "count": 2
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 29,
+      "23": 32,
+      "18": 29,
+      "16": 18,
+      "15": 45,
+      "14": 25,
+      "13": 22,
+      "21": 34,
+      "19": 28,
+      "1": 5,
+      "20": 64,
+      "2": 2,
+      "0": 9,
+      "22": 7
+    },
+    "by_day": {
+      "Wednesday": 125,
+      "Tuesday": 68,
+      "Monday": 78,
+      "Thursday": 54,
+      "Friday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 4.35,
+    "dept_rank": 4,
+    "dept_size": 151
+  }
+}

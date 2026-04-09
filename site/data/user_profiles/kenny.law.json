@@ -1,0 +1,252 @@
+{
+  "username": "kenny.law",
+  "name": "Kenny Law",
+  "generated_at": "2026-04-08T20:22:12.725926",
+  "summary": {
+    "message_count": 287,
+    "channels_active": 37,
+    "unique_people_mentioned": 39,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great find! Thank you both. Don't close it until that merges though, it'll just get reopened",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "That's amazing! Thanks for sharing!",
+          "channel": "product-foundations-team-channel",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing thank you for the follow up on this",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing thank you for the follow up on this",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah I see thank you for following up and clearing it up. We have quite a few of these lately",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok great thank you",
+          "channel": "squad-product-warnings",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing thanks for the update!",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This would actually be the last time we would need this process to work (because we are moving taxonomy to BQ).\n\nWe need to hydrate our BQ tables",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "jesse.mignac",
+          "count": 15
+        },
+        {
+          "user": "kelly.huang",
+          "count": 14
+        },
+        {
+          "user": "guilherme.vieira",
+          "count": 12
+        },
+        {
+          "user": "daniel.gross",
+          "count": 10
+        },
+        {
+          "user": "majuth.kira",
+          "count": 8
+        },
+        {
+          "user": "tim.lombardo",
+          "count": 7
+        },
+        {
+          "user": "gabriel.letarte",
+          "count": 7
+        },
+        {
+          "user": "ishaan.chawla",
+          "count": 7
+        },
+        {
+          "user": "luke.busler",
+          "count": 5
+        },
+        {
+          "user": "caren.rizk",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 427,
+      "top_channels": [
+        {
+          "channel": "proj-improve-taxonomy-pipeline",
+          "messages": 87
+        },
+        {
+          "channel": "product-foundations-team-channel",
+          "messages": 39
+        },
+        {
+          "channel": "squad-product-warnings",
+          "messages": 38
+        },
+        {
+          "channel": "help-products",
+          "messages": 31
+        },
+        {
+          "channel": "products-yugabyte-exodia",
+          "messages": 16
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 8
+        },
+        {
+          "channel": "products-river-playground",
+          "messages": 7
+        },
+        {
+          "channel": "help-taxonomy",
+          "messages": 7
+        },
+        {
+          "channel": "inv-21163-retroactive-pod-354-high-core-p95-latency",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20592-merchants-reporting-very-slow-csv-imports",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 106,
+      "top_mentioners": [
+        {
+          "user": "ishaan.chawla",
+          "count": 31
+        },
+        {
+          "user": "jesse.mignac",
+          "count": 15
+        },
+        {
+          "user": "tim.lombardo",
+          "count": 10
+        },
+        {
+          "user": "daniel.gross",
+          "count": 9
+        },
+        {
+          "user": "efstathios.stivaros",
+          "count": 8
+        },
+        {
+          "user": "jeffrey.chan",
+          "count": 4
+        },
+        {
+          "user": "kelly.huang",
+          "count": 2
+        },
+        {
+          "user": "chris.pak",
+          "count": 2
+        },
+        {
+          "user": "eric.walker",
+          "count": 2
+        },
+        {
+          "user": "saravana.nukala",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 24,
+      "17": 15,
+      "16": 14,
+      "15": 36,
+      "13": 39,
+      "23": 3,
+      "22": 19,
+      "21": 41,
+      "14": 37,
+      "12": 14,
+      "11": 1,
+      "20": 21,
+      "19": 20,
+      "2": 1,
+      "0": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 73,
+      "Monday": 59,
+      "Thursday": 53,
+      "Friday": 42
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 5.79,
+    "dept_rank": 387,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "username": "wheaton.welbourn",
+  "name": "Wheaton Welbourn",
+  "generated_at": "2026-04-08T20:22:23.698070",
+  "summary": {
+    "message_count": 177,
+    "channels_active": 7,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yeah, I do think we should track this. It's definitely an important metric for anything involving LLM based judges. If there's a way to get it setup",
+          "channel": "storefront-agent-evals",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: FYI I've made some updates to the <https://lookerstudio.google.com/reporting/d1ef22f5-eb72-473a-a332-aa9447e793d4/page/p_3bc3ddpa2d|Storefront",
+          "channel": "storefront-agent-evals",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": ":wave: FYI I've made some updates to the <https://lookerstudio.google.com/reporting/d1ef22f5-eb72-473a-a332-aa9447e793d4/page/p_3bc3ddpa2d|Storefront",
+          "channel": "storefront-agent-evals",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok, so here are the exact steps we need to do for the switch over:\n*ACE Scores*\n1. Have a judge_id that we are comfortable with and make sure that a",
+          "channel": "shop-agent-evals",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think something broke for sure, but whatever happened caused that table to no longer populate. Could this be something related to the flywheel",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "jared.garvinjoseph",
+          "count": 12
+        },
+        {
+          "user": "sheri.nguyen",
+          "count": 8
+        },
+        {
+          "user": "jared.rader",
+          "count": 7
+        },
+        {
+          "user": "mike.sassak",
+          "count": 7
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 6
+        },
+        {
+          "user": "matthew.sherar",
+          "count": 6
+        },
+        {
+          "user": "ellen.dunne",
+          "count": 5
+        },
+        {
+          "user": "brett.wallace",
+          "count": 5
+        },
+        {
+          "user": "tyler.rowsell",
+          "count": 5
+        },
+        {
+          "user": "albert.lee",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.85,
+      "count": 128,
+      "top_channels": [
+        {
+          "channel": "shop-agent-eng",
+          "messages": 68
+        },
+        {
+          "channel": "storefront-agent-evals",
+          "messages": 57
+        },
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 37
+        },
+        {
+          "channel": "shop-agent-evals",
+          "messages": 4
+        },
+        {
+          "channel": "shopkick-team-latency-domain",
+          "messages": 4
+        },
+        {
+          "channel": "core-magic-data-alerts",
+          "messages": 4
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "albert.lee",
+          "count": 9
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 7
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 7
+        },
+        {
+          "user": "sheri.nguyen",
+          "count": 5
+        },
+        {
+          "user": "jessica.huynh",
+          "count": 4
+        },
+        {
+          "user": "mike.sassak",
+          "count": 3
+        },
+        {
+          "user": "brett.wallace",
+          "count": 3
+        },
+        {
+          "user": "jared.rader",
+          "count": 3
+        },
+        {
+          "user": "ellen.dunne",
+          "count": 2
+        },
+        {
+          "user": "anya.gongora",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 37,
+      "22": 2,
+      "21": 5,
+      "20": 16,
+      "19": 14,
+      "18": 9,
+      "13": 17,
+      "15": 29,
+      "17": 15,
+      "16": 27,
+      "1": 1,
+      "23": 4,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 36,
+      "Tuesday": 54,
+      "Monday": 39,
+      "Thursday": 26,
+      "Friday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.13,
+    "dept_average_30d": 5.79,
+    "dept_rank": 949,
+    "dept_size": 1233
+  }
+}

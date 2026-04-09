@@ -1,0 +1,292 @@
+{
+  "username": "louis.munro",
+  "name": "Louis Munro",
+  "generated_at": "2026-04-08T20:22:08.305194",
+  "summary": {
+    "message_count": 586,
+    "channels_active": 45,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 56,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 13,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah.\nI guess we can close that PR then...\nI was circling back on Action Items from that incident and noticed that PR was still open.\nI guess we're",
+          "channel": "infra-central",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "&gt; GitStream wants infra-central to maintain a local bare mirror of world for read operations. \nWhy would that need to be part of",
+          "channel": "infra-central",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Gerry is out today.\nLet me know if we need to do anything specific.",
+          "channel": "inv-20925-gcp-project-team-ownership-is-being-moved",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the heads-up.\n:eagleeyemardell:",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "&gt; I just ran into a quota issue trying to provision a hyperdisk ML PVC with the multi-zone storage class\nWe should just bump the quotas.\nYou may",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Agenda added <https://docs.google.com/spreadsheets/d/1BUTF6bKFqJoYhBR8MdPCtBLvDm50g165YjlvPWYUZNc/edit?usp=sharing|here> and in the bookmarks",
+          "channel": "tmp-infra-central-maintainers-homesite-march-2026",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "\"Real Artists Ship\".\n\nThank you Maestro.",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That should be fine.\nThank you for the heads-up.",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That makes sense.\nThank you for the clarification.\nSo even staging would be fine with that, and AI is lying again.\n:squinty-eyes:",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "All right, let's try this.\nJames, you go ahead as it is without the added permissions.\n\nI'm not sure you are going to need them.\nNobody else seems to",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; If we have a cluster that has N2 or whatever nodes\nWe could get you one in a few hours.\nLet's just make sure that's what we want to do, given",
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Just because changing the cluster sets is a bit annoying after the fact, should we have a higher maximum node count for the `c4d-highmem-384-1`?\nE.g.",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It seems to me that what you want is a staging environment, isn't it?\nThat would just be a separate environment in `Infrastructure` and you could",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "<@W018HTHA2RZ> We'll deal with it.",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "kevin.norman",
+          "count": 8
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 7
+        },
+        {
+          "user": "james.hall",
+          "count": 6
+        },
+        {
+          "user": "justin.reid",
+          "count": 6
+        },
+        {
+          "user": "ben.thul",
+          "count": 5
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 5
+        },
+        {
+          "user": "jacob.lott",
+          "count": 4
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 3
+        },
+        {
+          "user": "jessica.li",
+          "count": 3
+        },
+        {
+          "user": "matthew.frail",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 467,
+      "top_channels": [
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 137
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 133
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 55
+        },
+        {
+          "channel": "infra-central",
+          "messages": 20
+        },
+        {
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "messages": 20
+        },
+        {
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "messages": 17
+        },
+        {
+          "channel": "proj-infra-katesql-migration",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20925-gcp-project-team-ownership-is-being-moved",
+          "messages": 14
+        },
+        {
+          "channel": "inc-21062-beacon-ticket-submission-failures",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20971-investigate-sfr-ooms",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 103,
+      "top_mentioners": [
+        {
+          "user": "matthew.frail",
+          "count": 12
+        },
+        {
+          "user": "jacob.lott",
+          "count": 7
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 6
+        },
+        {
+          "user": "eric.yang",
+          "count": 5
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 5
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 4
+        },
+        {
+          "user": "anton.molleda",
+          "count": 3
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 3
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 2
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 94,
+      "17": 50,
+      "13": 67,
+      "20": 55,
+      "19": 61,
+      "15": 34,
+      "14": 55,
+      "23": 25,
+      "22": 19,
+      "21": 62,
+      "11": 1,
+      "16": 45,
+      "12": 6,
+      "0": 12
+    },
+    "by_day": {
+      "Wednesday": 139,
+      "Tuesday": 85,
+      "Monday": 116,
+      "Thursday": 159,
+      "Friday": 87
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.58,
+    "dept_average_30d": 5.75,
+    "dept_rank": 50,
+    "dept_size": 357
+  }
+}

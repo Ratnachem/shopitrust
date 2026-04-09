@@ -1,0 +1,256 @@
+{
+  "username": "michael.viveros",
+  "name": "Michael Viveros",
+  "generated_at": "2026-04-08T20:22:24.374666",
+  "summary": {
+    "message_count": 98,
+    "channels_active": 9,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Yup, sounds like a known issue from `.claude/skills/lending-support/references/recipes/credit-onboarding-stuck.md` where the completion kafka event",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Thanks. It's likely a bug I caused, sorry about that. :eyes:",
+          "channel": "unified-uc-criteria-for-capital",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Not yet, I got some feedback to backfill the health statuses for Flex that I am working on now. Sorry about that, I should have given you an",
+          "channel": "unified-uc-criteria-for-capital",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Not yet, I got some feedback to backfill the health statuses for Flex that I am working on now. Sorry about that, I should have given you an",
+          "channel": "unified-uc-criteria-for-capital",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "Ah yes, my mistake, sorry about that. Yup I will look into backfilling this week. Thanks for catching that Shaunak.",
+          "channel": "unified-uc-criteria-for-capital",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Ah yes, my mistake, sorry about that. Yup I will look into backfilling this week. Thanks for catching that Shaunak.",
+          "channel": "unified-uc-criteria-for-capital",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "You are correct, the ledger already separates the principal vs interest part of repayments, my mistake. I will update the code accordingly. Thanks",
+          "channel": "unified-uc-criteria-for-capital",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Dang, sorry about that. I don't have access to devicemanager, can you send screenshots? And I have to get back to my main project today, will try to",
+          "channel": "inc-17141-accelerating-credit-spend-from-account-ta",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Still not sure why the option isn't showing. I confirmed the code I added didn't break it since it's still correctly marking the shop as eligible for",
+          "channel": "unified-uc-criteria-for-capital",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I did a brief initial investigation into this but couldn't figure it out. Will continue looking into it after I get back from my appointment",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "priya.patel",
+          "count": 8
+        },
+        {
+          "user": "oliver.garwil",
+          "count": 4
+        },
+        {
+          "user": "khasim.shaik",
+          "count": 3
+        },
+        {
+          "user": "negin.shirandasht",
+          "count": 2
+        },
+        {
+          "user": "vitor.rigoni",
+          "count": 2
+        },
+        {
+          "user": "viki.maurer",
+          "count": 1
+        },
+        {
+          "user": "kelvin.li",
+          "count": 1
+        },
+        {
+          "user": "arian.taherzadeh",
+          "count": 1
+        },
+        {
+          "user": "kyle.follmer",
+          "count": 1
+        },
+        {
+          "user": "mich.fong",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.71,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "unified-uc-criteria-for-capital",
+          "messages": 42
+        },
+        {
+          "channel": "help-lending-engineering",
+          "messages": 23
+        },
+        {
+          "channel": "inc-17141-accelerating-credit-spend-from-account-ta",
+          "messages": 12
+        },
+        {
+          "channel": "lending-exceptions",
+          "messages": 8
+        },
+        {
+          "channel": "help-capital-engineering",
+          "messages": 4
+        },
+        {
+          "channel": "capital-line-team",
+          "messages": 3
+        },
+        {
+          "channel": "lending-migration-2-0",
+          "messages": 2
+        },
+        {
+          "channel": "merchant-lending-atc",
+          "messages": 2
+        },
+        {
+          "channel": "help-ports",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.17,
+      "count": 20,
+      "top_mentioners": [
+        {
+          "user": "priya.patel",
+          "count": 3
+        },
+        {
+          "user": "michael.roberts",
+          "count": 2
+        },
+        {
+          "user": "nehal.azzab",
+          "count": 1
+        },
+        {
+          "user": "kaitlin.chiu",
+          "count": 1
+        },
+        {
+          "user": "oliver.garwil",
+          "count": 1
+        },
+        {
+          "user": "karan.malik",
+          "count": 1
+        },
+        {
+          "user": "kyle.follmer",
+          "count": 1
+        },
+        {
+          "user": "khasim.shaik",
+          "count": 1
+        },
+        {
+          "user": "sean.tan",
+          "count": 1
+        },
+        {
+          "user": "janice.blundell",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 7,
+      "18": 15,
+      "20": 13,
+      "17": 10,
+      "16": 10,
+      "15": 11,
+      "14": 17,
+      "19": 5,
+      "21": 9,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Tuesday": 19,
+      "Monday": 22,
+      "Thursday": 25,
+      "Friday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.14,
+    "dept_average_30d": 5.77,
+    "dept_rank": 681,
+    "dept_size": 885
+  }
+}

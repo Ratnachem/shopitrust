@@ -1,0 +1,226 @@
+{
+  "username": "joe.navetta",
+  "name": "Joe Navetta",
+  "generated_at": "2026-04-08T20:22:16.315147",
+  "summary": {
+    "message_count": 206,
+    "channels_active": 22,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Good suggestion, thank you for bringing it up.\n\nI hadn't clustered on shop id since we don't need to fetch with shop grouping. For the shadow tables,",
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you. We've been holding off setting up pipelines for the multi table views. But it sounds like what you have so far is good enough to",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U09BGGMN8JD> <@U07Q80HJX61> Catching up on my threads... any updates here or anything I can help with resolving?",
+          "channel": "search-ingestion-and-indexing-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Back from :vacation: . I see that <https://github.com/google/flink-connector-gcp/pull/130|#130> was merged",
+          "channel": "help-gcp-ext-dataplatform",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "wiliam.oliveira",
+          "count": 18
+        },
+        {
+          "user": "nikola.todic",
+          "count": 13
+        },
+        {
+          "user": "drew.hayward",
+          "count": 9
+        },
+        {
+          "user": "samantha.john",
+          "count": 5
+        },
+        {
+          "user": "mladjan.mihajlovic",
+          "count": 5
+        },
+        {
+          "user": "prabhjot.singh",
+          "count": 4
+        },
+        {
+          "user": "elijah.mcpherson",
+          "count": 4
+        },
+        {
+          "user": "mingqin.li",
+          "count": 4
+        },
+        {
+          "user": "abigail.stone",
+          "count": 3
+        },
+        {
+          "user": "brad.dietrich",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.88,
+      "count": 337,
+      "top_channels": [
+        {
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "messages": 105
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 19
+        },
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 15
+        },
+        {
+          "channel": "temp-shopkv-search-hydration",
+          "messages": 15
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 11
+        },
+        {
+          "channel": "google-cloud-finances",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-agentic-publishing",
+          "messages": 4
+        },
+        {
+          "channel": "the-shopify-catalog",
+          "messages": 4
+        },
+        {
+          "channel": "catalog-api-team",
+          "messages": 3
+        },
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 102,
+      "top_mentioners": [
+        {
+          "user": "wiliam.oliveira",
+          "count": 18
+        },
+        {
+          "user": "nikola.todic",
+          "count": 15
+        },
+        {
+          "user": "sean.ittel",
+          "count": 7
+        },
+        {
+          "user": "abigail.stone",
+          "count": 6
+        },
+        {
+          "user": "alex.watt",
+          "count": 6
+        },
+        {
+          "user": "drew.hayward",
+          "count": 6
+        },
+        {
+          "user": "samantha.john",
+          "count": 5
+        },
+        {
+          "user": "eric.walker",
+          "count": 4
+        },
+        {
+          "user": "breno.limadefreitas",
+          "count": 3
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 8,
+      "12": 23,
+      "4": 5,
+      "19": 13,
+      "16": 20,
+      "15": 23,
+      "13": 26,
+      "3": 6,
+      "1": 5,
+      "21": 11,
+      "18": 9,
+      "14": 25,
+      "2": 7,
+      "11": 7,
+      "20": 6,
+      "0": 6,
+      "22": 4,
+      "9": 1,
+      "7": 1
+    },
+    "by_day": {
+      "Wednesday": 74,
+      "Tuesday": 58,
+      "Monday": 13,
+      "Friday": 28,
+      "Thursday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.65,
+    "dept_average_30d": 5.79,
+    "dept_rank": 133,
+    "dept_size": 1233
+  }
+}

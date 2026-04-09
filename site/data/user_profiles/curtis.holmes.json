@@ -1,0 +1,177 @@
+{
+  "username": "curtis.holmes",
+  "name": "Curtis Holmes",
+  "generated_at": "2026-04-08T20:22:19.835894",
+  "summary": {
+    "message_count": 46,
+    "channels_active": 8,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! i'm scheduled a meeting to chat about this",
+          "channel": "proj-next-best-action-crm",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about this",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! We'll review the results and then use them to improve our generation. We may need to do several rounds of annotation/review. Once we're more",
+          "channel": "proj-ai-email-revmar-emea-multi",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the backfill started on 2026-03-26 12:55:37 UTC, it hasn't been 7 days yet. so we should be able to recover whatever we had",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "jonathan.klinger",
+          "count": 2
+        },
+        {
+          "user": "kelci.martinsen",
+          "count": 1
+        },
+        {
+          "user": "jonathan.sinclair",
+          "count": 1
+        },
+        {
+          "user": "moe.maysami",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.61,
+      "count": 16,
+      "top_channels": [
+        {
+          "channel": "help-mozart",
+          "messages": 16
+        },
+        {
+          "channel": "commercial-ai-pr-review",
+          "messages": 9
+        },
+        {
+          "channel": "curtis-river",
+          "messages": 5
+        },
+        {
+          "channel": "proj-next-best-action-crm",
+          "messages": 5
+        },
+        {
+          "channel": "proj-ai-email-prompt-injection",
+          "messages": 4
+        },
+        {
+          "channel": "proj-ai-email-revmar-emea-multi",
+          "messages": 3
+        },
+        {
+          "channel": "proj-ai-email-emea-sales-mm-d2c-retail",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "teddy.wenneker",
+          "count": 5
+        },
+        {
+          "user": "hannah.kendallbrown",
+          "count": 4
+        },
+        {
+          "user": "kelci.martinsen",
+          "count": 4
+        },
+        {
+          "user": "ali.soleymani",
+          "count": 3
+        },
+        {
+          "user": "moe.maysami",
+          "count": 3
+        },
+        {
+          "user": "jonathan.klinger",
+          "count": 2
+        },
+        {
+          "user": "jonathan.sinclair",
+          "count": 1
+        },
+        {
+          "user": "sarah.lindsay",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 1,
+      "18": 3,
+      "17": 3,
+      "14": 5,
+      "20": 16,
+      "19": 11,
+      "13": 2,
+      "15": 3,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 7,
+      "Tuesday": 24,
+      "Thursday": 6,
+      "Monday": 5,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.93,
+    "dept_average_30d": 5.39,
+    "dept_rank": 172,
+    "dept_size": 272
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "username": "hanna.kebedom",
+  "name": "Hanna Kebedom",
+  "generated_at": "2026-04-08T20:22:20.843691",
+  "summary": {
+    "message_count": 43,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Partial thank you state demo! :thank-u:",
+          "channel": "proj-universal-checkout",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0AEPQCKB3M> Please investigate and fix the checkout bug where, if the top order summary is expanded in one-page checkout, applying a discount from",
+          "channel": "checkout-experience-production-support",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "martin.lechner",
+          "count": 1
+        },
+        {
+          "user": "sam.jiang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.74,
+      "count": 46,
+      "top_channels": [
+        {
+          "channel": "hanna-river",
+          "messages": 17
+        },
+        {
+          "channel": "proj-universal-checkout",
+          "messages": 11
+        },
+        {
+          "channel": "checkout-experience-production-support",
+          "messages": 11
+        },
+        {
+          "channel": "help-checkout-accounts-customizations",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "martin.lechner",
+          "count": 7
+        },
+        {
+          "user": "jesse.noseworthy",
+          "count": 6
+        },
+        {
+          "user": "andrew.mcgoveran",
+          "count": 1
+        },
+        {
+          "user": "sam.jiang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 4,
+      "15": 2,
+      "21": 4,
+      "20": 2,
+      "18": 10,
+      "17": 2,
+      "22": 1,
+      "14": 9,
+      "19": 7,
+      "13": 2
+    },
+    "by_day": {
+      "Wednesday": 23,
+      "Tuesday": 3,
+      "Monday": 7,
+      "Thursday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.31,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1166,
+    "dept_size": 1233
+  }
+}

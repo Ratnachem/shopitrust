@@ -1,0 +1,280 @@
+{
+  "username": "blake.ordway",
+  "name": "Blake Ordway",
+  "generated_at": "2026-04-08T20:22:10.511827",
+  "summary": {
+    "message_count": 340,
+    "channels_active": 23,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I'll ping you when I address the comments :slightly_smiling_face:",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "good luck! There should be reconciliation information in the comments of the PR. It's been a few days since I looked (thursday last week?) so if I'm",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hello folks :wave-c: I've got a couple of PRs for you to take a look at if you've got some time! Both are related to Yugabyte migration for Shop",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome! thank you :slightly_smiling_face:",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Nice job tracking this down <@U09CDAGNCJV>! This was a really tricky one :oof-burn:\n\n\nIs it only for the `yugabyte_map_uuid_to_id` macro, or also the",
+          "channel": "proj-dw-shop-yugabyte-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks!",
+          "channel": "proj-dw-shop-yugabyte-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "Shoutout to <@U0A5GAZ593R> for powering through this with me this week :slightly_smiling_face: Couldn't have done it without his help!",
+          "channel": "proj-data-platform-warehouse-versioning",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Posting in here for posterity, but mainly to <@U0A5GAZ593R> :\n\n\nI'm looking at models we're missing and we're down to 33 according to this query--I",
+          "channel": "proj-data-platform-warehouse-versioning",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! :slightly_smiling_face:",
+          "channel": "inv-20196-dw-prod-job-failures-related-to-stale-man",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-data-platform-warehouse-versioning",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes, filtering by `line_type = 'product'` should give you what you need!\n\nI think I remember seeing something related to checking for 'unknown' line",
+          "channel": "dw-merchant-sales-domain",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Posting in here for posterity, but mainly to <@U0A5GAZ593R> :\n\n\nI'm looking at models we're missing and we're down to 33 according to this query--I",
+          "channel": "proj-data-platform-warehouse-versioning",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "shannon.alfimova",
+          "count": 8
+        },
+        {
+          "user": "asad.jaffery",
+          "count": 7
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 5
+        },
+        {
+          "user": "constantino.schillebeeckx",
+          "count": 5
+        },
+        {
+          "user": "luc.somers",
+          "count": 5
+        },
+        {
+          "user": "margaret.andersonkilfoil",
+          "count": 5
+        },
+        {
+          "user": "cliff.leighton",
+          "count": 4
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 3
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 3
+        },
+        {
+          "user": "lin.taylor",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.8,
+      "count": 280,
+      "top_channels": [
+        {
+          "channel": "proj-data-platform-warehouse-versioning",
+          "messages": 147
+        },
+        {
+          "channel": "proj-dw-shop-yugabyte-migration",
+          "messages": 56
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 52
+        },
+        {
+          "channel": "dw-commerce-cda-monitoring",
+          "messages": 12
+        },
+        {
+          "channel": "dw-merchant-sales-domain",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20539-investigation-finance-models-versioning-f",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20196-dw-prod-job-failures-related-to-stale-man",
+          "messages": 8
+        },
+        {
+          "channel": "help-merchant-fraud-risk-data",
+          "messages": 6
+        },
+        {
+          "channel": "ae-trustworthiness-2026",
+          "messages": 5
+        },
+        {
+          "channel": "data-acq-notify-extra",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 84,
+      "top_mentioners": [
+        {
+          "user": "asad.jaffery",
+          "count": 15
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 10
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 9
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 7
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 6
+        },
+        {
+          "user": "jill.cates",
+          "count": 4
+        },
+        {
+          "user": "kristie.ching",
+          "count": 3
+        },
+        {
+          "user": "lin.taylor",
+          "count": 3
+        },
+        {
+          "user": "luc.somers",
+          "count": 2
+        },
+        {
+          "user": "taher.elsheikh",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 44,
+      "17": 35,
+      "16": 48,
+      "20": 32,
+      "19": 46,
+      "15": 39,
+      "14": 15,
+      "13": 1,
+      "23": 15,
+      "21": 39,
+      "22": 13,
+      "1": 1,
+      "0": 9,
+      "4": 1,
+      "5": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 65,
+      "Tuesday": 81,
+      "Monday": 42,
+      "Friday": 55,
+      "Thursday": 97
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.66,
+    "dept_average_30d": 5.39,
+    "dept_rank": 23,
+    "dept_size": 272
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "username": "julia.sangster",
+  "name": "Julia Sangster",
+  "generated_at": "2026-04-08T20:22:30.246186",
+  "summary": {
+    "message_count": 249,
+    "channels_active": 24,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.7,
+      "pos_count": 22,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hello - I've linked your ticket to this one above:",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Whats your personal account email (feel free to DM me if you don't want that public)",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U01V6LDHVGU> Please feel free to relay this action to the merchant - apologies for the delay",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hello - I looked into it further and it appears that setting it to pending did not auto-trigger a contribution process. I just ran a maintenance task",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Hello - I looked into it further and it appears that setting it to pending did not auto-trigger a contribution process. I just ran a maintenance task",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Ah I see the issue - the <https://server.shop.app/internal/shop_cash/giveaways/587|giveaway> expired on Feb 10, 2026\n\nIt looks like the giveaway is",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I am marking this as complete as this should resolve the issue for the merchant. Please let me know if it does not resolve the inconsistency they saw",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Works for me! I'm still Shop Cash ATC until EOD tomorrow, feel free to directly ping me when the list is ready!",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; *1. Admin page renders user's refresh tokens*                                                                                                   ",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Here's my best attempt to answer your questions.\n\n> Is a buyer eligible to use a Shop Offer *only once* on their account? If yes, is this true",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "```OK wait \u2014 if the campaign was out of funds, the Shop Ads service shouldn't return an offer at all. But we did see a\n  SHOP_DISCOUNT_OFFER payment",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You typically need to get approval from another member of your team, but then you should have access - I can also work on getting you approvals if",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "``` The key is line 94-97 of fetch_action.rb:     \n                                                                  \nledger =",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "erin.walder",
+          "count": 6
+        },
+        {
+          "user": "nankai.pan",
+          "count": 4
+        },
+        {
+          "user": "charles.ouimet",
+          "count": 3
+        },
+        {
+          "user": "dylan.watt",
+          "count": 3
+        },
+        {
+          "user": "rafael.schulman",
+          "count": 3
+        },
+        {
+          "user": "kelcy.kipfer",
+          "count": 2
+        },
+        {
+          "user": "elise.smith",
+          "count": 2
+        },
+        {
+          "user": "kenny.cohen",
+          "count": 2
+        },
+        {
+          "user": "shabnam.emdadi",
+          "count": 1
+        },
+        {
+          "user": "maya.pozzolo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 403,
+      "top_channels": [
+        {
+          "channel": "help-shop-cash",
+          "messages": 146
+        },
+        {
+          "channel": "proj-shop-promotions",
+          "messages": 25
+        },
+        {
+          "channel": "inv-20785-cart-sync-gmv-drop",
+          "messages": 22
+        },
+        {
+          "channel": "shop-buyer-acq",
+          "messages": 15
+        },
+        {
+          "channel": "shop-buyer-acquisition-tooling",
+          "messages": 5
+        },
+        {
+          "channel": "shop-buyer-acq-river",
+          "messages": 5
+        },
+        {
+          "channel": "evolving-shop-cash-eng",
+          "messages": 4
+        },
+        {
+          "channel": "shop-crm",
+          "messages": 3
+        },
+        {
+          "channel": "help-shop-campaigns",
+          "messages": 2
+        },
+        {
+          "channel": "shop-buyer-acq-bots",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "nankai.pan",
+          "count": 6
+        },
+        {
+          "user": "william.wallace",
+          "count": 5
+        },
+        {
+          "user": "erin.walder",
+          "count": 5
+        },
+        {
+          "user": "dylan.watt",
+          "count": 3
+        },
+        {
+          "user": "charles.ouimet",
+          "count": 3
+        },
+        {
+          "user": "aethelind.racic",
+          "count": 2
+        },
+        {
+          "user": "mori.ahmadi",
+          "count": 2
+        },
+        {
+          "user": "shabnam.emdadi",
+          "count": 2
+        },
+        {
+          "user": "samuel.giles",
+          "count": 1
+        },
+        {
+          "user": "santos.gagbegnon",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 28,
+      "16": 6,
+      "13": 19,
+      "21": 47,
+      "19": 36,
+      "14": 18,
+      "12": 2,
+      "2": 1,
+      "22": 25,
+      "15": 16,
+      "18": 21,
+      "17": 17,
+      "23": 13
+    },
+    "by_day": {
+      "Thursday": 60,
+      "Wednesday": 49,
+      "Tuesday": 62,
+      "Monday": 25,
+      "Friday": 53
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.59,
+    "dept_average_30d": 5.86,
+    "dept_rank": 28,
+    "dept_size": 166
+  }
+}

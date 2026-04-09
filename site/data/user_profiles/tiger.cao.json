@@ -1,0 +1,217 @@
+{
+  "username": "tiger.cao",
+  "name": "Tiger Cao",
+  "generated_at": "2026-04-08T20:22:24.168266",
+  "summary": {
+    "message_count": 123,
+    "channels_active": 14,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I found a <https://github.com/Shopify/shop-server/pull/141097/changes|sample PR>",
+          "channel": "proj-shop-campaigns-autopilot",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "*Hey <@U096K190N2F> and <@W018300GHPH>!* :wave:\n\nFlagging a concern that came up around the budget/guardrails recommendation flow\n\n*The scenario:* A",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can we look at it as - whatever the merchant set, the recommender would be the source of truth, if they are different, we show something - a warning",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "hussein.hegazy",
+          "count": 6
+        },
+        {
+          "user": "craig.coles",
+          "count": 6
+        },
+        {
+          "user": "hovo.khachikyan",
+          "count": 5
+        },
+        {
+          "user": "mathieu.wrzesien",
+          "count": 3
+        },
+        {
+          "user": "eagle.yeh",
+          "count": 2
+        },
+        {
+          "user": "virak.ngauv",
+          "count": 2
+        },
+        {
+          "user": "sam.dupras",
+          "count": 2
+        },
+        {
+          "user": "marc.posth",
+          "count": 2
+        },
+        {
+          "user": "greg.yang",
+          "count": 2
+        },
+        {
+          "user": "chris.barnes",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.06,
+      "count": 188,
+      "top_channels": [
+        {
+          "channel": "proj-autopilot",
+          "messages": 52
+        },
+        {
+          "channel": "proj-autopilot-ux-pillar",
+          "messages": 32
+        },
+        {
+          "channel": "b2b-operations",
+          "messages": 10
+        },
+        {
+          "channel": "proj-autopilot-ai-flows",
+          "messages": 6
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 6
+        },
+        {
+          "channel": "proj-shop-campaigns-autopilot",
+          "messages": 3
+        },
+        {
+          "channel": "help-draw",
+          "messages": 3
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 3
+        },
+        {
+          "channel": "b2b-operations-e2e",
+          "messages": 2
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "hussein.hegazy",
+          "count": 8
+        },
+        {
+          "user": "craig.coles",
+          "count": 2
+        },
+        {
+          "user": "eagle.yeh",
+          "count": 2
+        },
+        {
+          "user": "hovo.khachikyan",
+          "count": 2
+        },
+        {
+          "user": "nathan.perez",
+          "count": 1
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 1
+        },
+        {
+          "user": "sam.dupras",
+          "count": 1
+        },
+        {
+          "user": "greg.yang",
+          "count": 1
+        },
+        {
+          "user": "jaime.cepeda",
+          "count": 1
+        },
+        {
+          "user": "carolina.pinzon",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 8,
+      "23": 2,
+      "21": 13,
+      "20": 12,
+      "18": 22,
+      "17": 15,
+      "4": 1,
+      "16": 22,
+      "15": 7,
+      "22": 4,
+      "19": 9,
+      "13": 3,
+      "11": 1,
+      "2": 1,
+      "1": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 20,
+      "Tuesday": 21,
+      "Monday": 18,
+      "Thursday": 60,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.72,
+    "dept_average_30d": 5.77,
+    "dept_rank": 440,
+    "dept_size": 885
+  }
+}

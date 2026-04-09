@@ -1,0 +1,222 @@
+{
+  "username": "louis.mccracken",
+  "name": "Louis McCracken",
+  "generated_at": "2026-04-08T20:22:29.805973",
+  "summary": {
+    "message_count": 232,
+    "channels_active": 30,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it. Thank you!",
+          "channel": "checkout-accounts-redesign-main",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I used to be a stickler about letting more shops enable this, but I see someone (I think <@W0182UU0F47>) at one point added `If a merchant asks for",
+          "channel": "checkout-web-foundations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. I could have sworn there was another!",
+          "channel": "proj-wallets-apple-pay-e2e",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I don't care who does it, but what I want to avoid is having either a branded PayPal button in Shop Pay or a totally different implementation of",
+          "channel": "checkout-unification",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "christian.indra",
+          "count": 8
+        },
+        {
+          "user": "leah.liu",
+          "count": 6
+        },
+        {
+          "user": "alex.salisbury",
+          "count": 5
+        },
+        {
+          "user": "alexis.katigbak",
+          "count": 5
+        },
+        {
+          "user": "jesse.noseworthy",
+          "count": 4
+        },
+        {
+          "user": "ryan.wooden",
+          "count": 4
+        },
+        {
+          "user": "sam.jiang",
+          "count": 3
+        },
+        {
+          "user": "michael.elmgreen",
+          "count": 3
+        },
+        {
+          "user": "osaru.izeiyamu",
+          "count": 3
+        },
+        {
+          "user": "gladys.ng",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.35,
+      "count": 256,
+      "top_channels": [
+        {
+          "channel": "proj-checkout-persistent-order-summary",
+          "messages": 39
+        },
+        {
+          "channel": "proj-ship-pickup-1-order",
+          "messages": 31
+        },
+        {
+          "channel": "help-checkout-wallets",
+          "messages": 23
+        },
+        {
+          "channel": "checkout-web-foundations",
+          "messages": 15
+        },
+        {
+          "channel": "proj-universal-checkout",
+          "messages": 10
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 10
+        },
+        {
+          "channel": "proj-vaulted-checkouts-n-rollup",
+          "messages": 10
+        },
+        {
+          "channel": "checkout-backend-persistence-only",
+          "messages": 9
+        },
+        {
+          "channel": "proj-create-shop-accounts-for-all-pay-checkouts",
+          "messages": 9
+        },
+        {
+          "channel": "checkout-unification",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 81,
+      "top_mentioners": [
+        {
+          "user": "osaru.izeiyamu",
+          "count": 14
+        },
+        {
+          "user": "kristin.hung",
+          "count": 8
+        },
+        {
+          "user": "martin.lechner",
+          "count": 8
+        },
+        {
+          "user": "christian.indra",
+          "count": 7
+        },
+        {
+          "user": "christine.zoltok",
+          "count": 4
+        },
+        {
+          "user": "remy.orans",
+          "count": 4
+        },
+        {
+          "user": "joey.tedeschi",
+          "count": 3
+        },
+        {
+          "user": "alexis.katigbak",
+          "count": 3
+        },
+        {
+          "user": "youxin.li",
+          "count": 2
+        },
+        {
+          "user": "jess.alvesdesa",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 21,
+      "17": 29,
+      "15": 23,
+      "13": 28,
+      "20": 30,
+      "14": 39,
+      "12": 4,
+      "23": 4,
+      "22": 2,
+      "16": 21,
+      "18": 23,
+      "21": 4,
+      "0": 2,
+      "11": 2
+    },
+    "by_day": {
+      "Friday": 40,
+      "Thursday": 50,
+      "Wednesday": 40,
+      "Tuesday": 42,
+      "Monday": 60
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.04,
+    "dept_average_30d": 5.79,
+    "dept_rank": 406,
+    "dept_size": 1233
+  }
+}

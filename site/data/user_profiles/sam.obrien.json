@@ -1,0 +1,274 @@
+{
+  "username": "sam.obrien",
+  "name": "Sam Obrien",
+  "generated_at": "2026-04-08T20:22:12.949155",
+  "summary": {
+    "message_count": 879,
+    "channels_active": 64,
+    "unique_people_mentioned": 42,
+    "unique_mentioners": 42,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 27,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "inv-21231-schema-tests-in-core-failing",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inv-21234-drbdrbremoteerror",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\nAppears to be impacting merge queue CI this time.",
+          "channel": "inv-21234-drbdrbremoteerror",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\nWe're seeing it across builds, like this release CI yesterday:\n\u2022",
+          "channel": "inv-21190-core-has-ci-pipeline-post-merge-testing-f",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!! :np2:",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ahh awesome, thank you!!\nWill keep an eye out today",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah we're good here, thank you both for the help!",
+          "channel": "inv-21015-testaddtocartfailsafterunpublishingapubli",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you!",
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ahh awesome, thank you!\nI tried a restack earlier and no luck, but :fingers_crossed:",
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "There was a single unit test failure:\n&gt; *Test failure:*",
+          "channel": "inv-21190-core-has-ci-pipeline-post-merge-testing-f",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 48,
+      "top_mentioned": [
+        {
+          "user": "ram.vemula",
+          "count": 11
+        },
+        {
+          "user": "chao.duan",
+          "count": 8
+        },
+        {
+          "user": "kevin.robertson",
+          "count": 6
+        },
+        {
+          "user": "vishnusankar.ms",
+          "count": 6
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 6
+        },
+        {
+          "user": "chris.dakin",
+          "count": 5
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 4
+        },
+        {
+          "user": "sourabh.ail",
+          "count": 3
+        },
+        {
+          "user": "shashi.gonugunta",
+          "count": 3
+        },
+        {
+          "user": "himanshu.chhabra",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 387,
+      "top_channels": [
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 248
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 64
+        },
+        {
+          "channel": "sams-river",
+          "messages": 63
+        },
+        {
+          "channel": "inv-20613-argumenterror-negative-argument-exception",
+          "messages": 51
+        },
+        {
+          "channel": "inv-21190-core-has-ci-pipeline-post-merge-testing-f",
+          "messages": 47
+        },
+        {
+          "channel": "inv-20331-consistently-failing-post-merge-testing-c",
+          "messages": 42
+        },
+        {
+          "channel": "lso-river",
+          "messages": 36
+        },
+        {
+          "channel": "inv-20518-multiple-failing-tests-in-core",
+          "messages": 29
+        },
+        {
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20734-sfr-ci-very-flakey-on-db-safety-check",
+          "messages": 24
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "vandhana.mohanraj",
+          "count": 13
+        },
+        {
+          "user": "chao.duan",
+          "count": 11
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 6
+        },
+        {
+          "user": "mike.nugent",
+          "count": 6
+        },
+        {
+          "user": "kush.patel",
+          "count": 5
+        },
+        {
+          "user": "fernando.aguasvivas",
+          "count": 4
+        },
+        {
+          "user": "jake.levine",
+          "count": 4
+        },
+        {
+          "user": "ram.vemula",
+          "count": 3
+        },
+        {
+          "user": "kevin.robertson",
+          "count": 3
+        },
+        {
+          "user": "logan.martel",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 52,
+      "1": 54,
+      "0": 129,
+      "23": 102,
+      "22": 98,
+      "21": 129,
+      "19": 79,
+      "17": 30,
+      "6": 21,
+      "5": 2,
+      "20": 144,
+      "4": 2,
+      "2": 25,
+      "14": 2,
+      "12": 2,
+      "16": 4,
+      "13": 4
+    },
+    "by_day": {
+      "Wednesday": 267,
+      "Tuesday": 216,
+      "Monday": 116,
+      "Friday": 41,
+      "Thursday": 239
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.17,
+    "dept_average_30d": 4.74,
+    "dept_rank": 158,
+    "dept_size": 1663
+  }
+}

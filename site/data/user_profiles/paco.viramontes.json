@@ -1,0 +1,240 @@
+{
+  "username": "paco.viramontes",
+  "name": "Paco Viramontes",
+  "generated_at": "2026-04-08T20:22:20.959476",
+  "summary": {
+    "message_count": 364,
+    "channels_active": 21,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad I did not check the rendered manifiests only the requested was updated not the acutal used by the deploy",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I just worked through the problem with ai from first principles and this made most sense. I prefer to isolate the ask from the expectation. Feel free",
+          "channel": "help-observability",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to only deploy the apps deploy kroxy consumer for now?",
+          "channel": "proj-infra-kafka-compliance-topology",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Yeah feel free to remove it for now",
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't think we should have a preference. We should look into supporting other consumers however our main concern is that core and its ok to",
+          "channel": "streaming-foundations-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Omg the metrics optimizations where not really worth it. I turns out that alleged \u201c56%\u201d was cumulative with whatever other optimizations it had been",
+          "channel": "proj-infra-kafka-compliance-topology",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019ve had to touch\n\u2022 Active Kafka\n\u2022 Core\n\u2022 Monorail\n\u2022 kafka-shopify\n\u2022 kafka-seed-gem\nLook into all the posible effects of these version bumps,",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "justin.chen",
+          "count": 18
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 10
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 6
+        },
+        {
+          "user": "andrew.droll",
+          "count": 5
+        },
+        {
+          "user": "rich.chen",
+          "count": 4
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 3
+        },
+        {
+          "user": "marc.laforet",
+          "count": 3
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 2
+        },
+        {
+          "user": "filipe.deo",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.98,
+      "count": 184,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 102
+        },
+        {
+          "channel": "proj-infra-kafka-compliance-topology",
+          "messages": 71
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 39
+        },
+        {
+          "channel": "streaming-platform-discuss",
+          "messages": 25
+        },
+        {
+          "channel": "proj-tracify-mission",
+          "messages": 22
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 18
+        },
+        {
+          "channel": "help-observability",
+          "messages": 16
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 15
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 10
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "may.aboalrejal",
+          "count": 7
+        },
+        {
+          "user": "justin.chen",
+          "count": 7
+        },
+        {
+          "user": "andrew.droll",
+          "count": 7
+        },
+        {
+          "user": "darren.li",
+          "count": 4
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "nick.ryan",
+          "count": 2
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 2
+        },
+        {
+          "user": "eli.bailey",
+          "count": 2
+        },
+        {
+          "user": "sam.bostock",
+          "count": 1
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 41,
+      "23": 41,
+      "19": 58,
+      "17": 35,
+      "22": 25,
+      "21": 45,
+      "20": 44,
+      "18": 60,
+      "15": 5,
+      "0": 9,
+      "14": 1
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 127,
+      "Monday": 65,
+      "Friday": 28,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.75,
+    "dept_rank": 131,
+    "dept_size": 357
+  }
+}

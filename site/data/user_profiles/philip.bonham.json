@@ -1,0 +1,167 @@
+{
+  "username": "philip.bonham",
+  "name": "Philip Bonham",
+  "generated_at": "2026-04-08T20:22:23.067145",
+  "summary": {
+    "message_count": 37,
+    "channels_active": 9,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inv-21227-negotiatefromsession-latency-increased",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I have a question about query planner behavior on `customer_authentication_refresh_tokens`. We are doing the following query.\n```SELECT * FROM",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "customer-account-login-data",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, I definitely considered that. For whatever it's worth Claude thinks it will not use that session_id index even for larger tables because the",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "dan.robinson",
+          "count": 2
+        },
+        {
+          "user": "levent.ince",
+          "count": 1
+        },
+        {
+          "user": "bastian.schon",
+          "count": 1
+        },
+        {
+          "user": "chris.m.campbell",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.58,
+      "count": 68,
+      "top_channels": [
+        {
+          "channel": "yugabyte-mission",
+          "messages": 12
+        },
+        {
+          "channel": "proj-customer-accounts-yugabyte",
+          "messages": 10
+        },
+        {
+          "channel": "customer-account-login-data",
+          "messages": 4
+        },
+        {
+          "channel": "emacs",
+          "messages": 3
+        },
+        {
+          "channel": "inv-21227-negotiatefromsession-latency-increased",
+          "messages": 2
+        },
+        {
+          "channel": "customer-account-and-login-ops",
+          "messages": 2
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 2
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 1
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "dan.robinson",
+          "count": 3
+        },
+        {
+          "user": "denis.laliberte",
+          "count": 1
+        },
+        {
+          "user": "bastian.schon",
+          "count": 1
+        },
+        {
+          "user": "alexander.brasil",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 5,
+      "14": 4,
+      "13": 3,
+      "17": 13,
+      "16": 2,
+      "20": 3,
+      "18": 1,
+      "19": 1,
+      "21": 2,
+      "2": 1,
+      "22": 2
+    },
+    "by_day": {
+      "Wednesday": 9,
+      "Monday": 7,
+      "Friday": 17,
+      "Tuesday": 3,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.97,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1011,
+    "dept_size": 1233
+  }
+}

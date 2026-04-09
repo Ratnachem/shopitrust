@@ -1,0 +1,92 @@
+{
+  "username": "emma.mannan",
+  "name": "Emma Mannan",
+  "generated_at": "2026-04-08T20:22:08.157938",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 1,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 7,
+    "days_scale": 0.3
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U08QLJ2SK5H> <https://github.com/Shopify/ml-taxonomy/pull/6225> implemented the exponential backoff retires. Please let me know if this looks",
+          "channel": "proj-catalogue-clustering",
+          "timestamp": "2026-04-08"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.99,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "ilia.kuchumov",
+          "count": 2
+        },
+        {
+          "user": "mariya.mansurova",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.61,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "proj-catalogue-clustering",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.58,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "mariya.mansurova",
+          "count": 5
+        },
+        {
+          "user": "ilia.kuchumov",
+          "count": 2
+        },
+        {
+          "user": "ben.chen",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "21": 2,
+      "20": 1,
+      "17": 1
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Monday": 3,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.05,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1154,
+    "dept_size": 1663
+  }
+}

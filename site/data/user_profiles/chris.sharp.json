@@ -1,0 +1,245 @@
+{
+  "username": "chris.sharp",
+  "name": "Chris Sharp",
+  "generated_at": "2026-04-08T20:22:11.952815",
+  "summary": {
+    "message_count": 199,
+    "channels_active": 4,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "What's the best path/way to convert a user_emails to a user_uuid? We previous has used `ShopServerAPI::ShopAccountsClient.client.get_user_by_email` ,",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah, that works. :sweat_smile: Thank you so much",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hmm, if I'm reading that page right, I think our SA should be able to read the data correctly (as it's got the sensitive access permission, and that",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hello folks, I had a good chat with <@U02BY3LFG8P> this afternoon on the status of our project, roll outs and all other fun related stuff",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello :wave:  I'm working on get our Shop Account Privacy Access Requests to work with the new Yugabyte tables and I've run into a permission issue",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":slightly_smiling_face: I've got more tickets ready for you <@U08ME9KASG7> <https://github.com/Shopify/accio/issues/11363> or",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U08ME9KASG7> are you working on a fix for this or did you want me to dig in?",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "If small changes are needed, please feel free to make them and push without waiting for me, to help unblock",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U08ME9KASG7> <@U07S5FA8NF8> <@U03UZMDNYP3> could I get a quick review on <https://github.com/Shopify/accio/pull/11292>? I realized that since we",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U07S5FA8NF8>, sounds good. Did you want me to still fill in that ticket or did you want to set it up?",
+          "channel": "proj-improve-sdp-redaction",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok, we've just landed the change to stop resetting TTL tables at T0 when their schema changes, so this alert doesn't matter anymore. I've silenced it",
+          "channel": "privacy-ops",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "joel.gerber",
+          "count": 26
+        },
+        {
+          "user": "barbara.evangelista",
+          "count": 26
+        },
+        {
+          "user": "ethan.chiddicks",
+          "count": 16
+        },
+        {
+          "user": "jamesk.lee",
+          "count": 4
+        },
+        {
+          "user": "luka.grahek",
+          "count": 2
+        },
+        {
+          "user": "seb.barre",
+          "count": 2
+        },
+        {
+          "user": "mark.shan",
+          "count": 2
+        },
+        {
+          "user": "diana.delpino",
+          "count": 1
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 1
+        },
+        {
+          "user": "karl.taylor",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.35,
+      "count": 62,
+      "top_channels": [
+        {
+          "channel": "proj-improve-sdp-redaction",
+          "messages": 122
+        },
+        {
+          "channel": "privacy-ops",
+          "messages": 37
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 24
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "joel.gerber",
+          "count": 21
+        },
+        {
+          "user": "barbara.evangelista",
+          "count": 10
+        },
+        {
+          "user": "brandon.conway",
+          "count": 5
+        },
+        {
+          "user": "ethan.chiddicks",
+          "count": 4
+        },
+        {
+          "user": "diana.delpino",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 1
+        },
+        {
+          "user": "seb.barre",
+          "count": 1
+        },
+        {
+          "user": "mark.shan",
+          "count": 1
+        },
+        {
+          "user": "josh.bregar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "17": 11,
+      "15": 27,
+      "23": 1,
+      "20": 27,
+      "19": 16,
+      "16": 16,
+      "14": 26,
+      "12": 1,
+      "21": 19,
+      "13": 28,
+      "22": 9
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 54,
+      "Monday": 27,
+      "Thursday": 45,
+      "Friday": 43
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 5.39,
+    "dept_rank": 61,
+    "dept_size": 272
+  }
+}

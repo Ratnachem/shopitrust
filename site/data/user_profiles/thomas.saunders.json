@@ -1,0 +1,227 @@
+{
+  "username": "thomas.saunders",
+  "name": "Thomas Saunders",
+  "generated_at": "2026-04-08T20:22:26.998291",
+  "summary": {
+    "message_count": 259,
+    "channels_active": 22,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018B103UGN> That should not be the case afaik.  Let me know if you have examples we could look at.",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "And of course we avoid deploying a nearly-useless container everywhere just for prewarming.",
+          "channel": "proj-proxysql-rearchitecturing",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The concern back then as I understand it was that we didn\u2019t want a flood of thread creation on the backends, but simply throttling means a spike in",
+          "channel": "proj-proxysql-rearchitecturing",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I\u2019m not sure whether he just means starting with single clusters out of general caution, or there\u2019s some specific concern involving something new",
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This is similar to something that certain jobs already do.  We provided a reasonably good workaround for them a few years ago while working on a",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 9
+        },
+        {
+          "user": "josh.broughton",
+          "count": 7
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "tom.krouper",
+          "count": 2
+        },
+        {
+          "user": "ben.thul",
+          "count": 2
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 1
+        },
+        {
+          "user": "toni.zeng",
+          "count": 1
+        },
+        {
+          "user": "james.zhu",
+          "count": 1
+        },
+        {
+          "user": "kevin.lam",
+          "count": 1
+        },
+        {
+          "user": "yevgeniy.safronov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.4,
+      "count": 153,
+      "top_channels": [
+        {
+          "channel": "proj-proxysql-rearchitecturing",
+          "messages": 89
+        },
+        {
+          "channel": "db-core-mysql-alerts",
+          "messages": 40
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 36
+        },
+        {
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "messages": 21
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 19
+        },
+        {
+          "channel": "inv-19990-more-frequent-mysql-node-failures",
+          "messages": 10
+        },
+        {
+          "channel": "inv-19652-elevated-hll-on-shard-372",
+          "messages": 7
+        },
+        {
+          "channel": "magellan-zookeeper",
+          "messages": 6
+        },
+        {
+          "channel": "pods",
+          "messages": 6
+        },
+        {
+          "channel": "inc-19834-gcp-zonal-issues-central-c",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 13
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 10
+        },
+        {
+          "user": "josh.broughton",
+          "count": 4
+        },
+        {
+          "user": "toni.zeng",
+          "count": 2
+        },
+        {
+          "user": "jeremy.rowe",
+          "count": 2
+        },
+        {
+          "user": "james.zhu",
+          "count": 2
+        },
+        {
+          "user": "brian.chae",
+          "count": 2
+        },
+        {
+          "user": "tom.krouper",
+          "count": 2
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 1
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 27,
+      "18": 54,
+      "16": 40,
+      "17": 22,
+      "22": 14,
+      "21": 14,
+      "19": 28,
+      "15": 38,
+      "23": 5,
+      "13": 4,
+      "14": 7,
+      "1": 5,
+      "0": 1
+    },
+    "by_day": {
+      "Tuesday": 69,
+      "Monday": 39,
+      "Thursday": 60,
+      "Wednesday": 91
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.28,
+    "dept_average_30d": 5.75,
+    "dept_rank": 244,
+    "dept_size": 357
+  }
+}

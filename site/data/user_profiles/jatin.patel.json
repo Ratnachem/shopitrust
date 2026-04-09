@@ -1,0 +1,175 @@
+{
+  "username": "jatin.patel",
+  "name": "Jatin Patel",
+  "generated_at": "2026-04-08T20:22:11.491568",
+  "summary": {
+    "message_count": 126,
+    "channels_active": 5,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "stupid gopher I told you to pass CI!",
+          "channel": "revenue-data-staging-notifications",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "kouros.falati",
+          "count": 9
+        },
+        {
+          "user": "jesse.vanpatter",
+          "count": 4
+        },
+        {
+          "user": "cindy.zhu",
+          "count": 3
+        },
+        {
+          "user": "humberto.gonzalez",
+          "count": 3
+        },
+        {
+          "user": "kris.bethea",
+          "count": 3
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        },
+        {
+          "user": "gary.wang",
+          "count": 1
+        },
+        {
+          "user": "ali.soleymani",
+          "count": 1
+        },
+        {
+          "user": "pamela.wu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.95,
+      "count": 78,
+      "top_channels": [
+        {
+          "channel": "revenue-data-airflow-dags-status",
+          "messages": 40
+        },
+        {
+          "channel": "dw-sales-monitoring",
+          "messages": 39
+        },
+        {
+          "channel": "data-monorepo-migration",
+          "messages": 26
+        },
+        {
+          "channel": "revenue-data-staging-notifications",
+          "messages": 17
+        },
+        {
+          "channel": "help-commercial-data-platform",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.15,
+      "count": 35,
+      "top_mentioners": [
+        {
+          "user": "adolfo.rodriguez",
+          "count": 6
+        },
+        {
+          "user": "cindy.zhu",
+          "count": 6
+        },
+        {
+          "user": "kouros.falati",
+          "count": 5
+        },
+        {
+          "user": "kris.bethea",
+          "count": 4
+        },
+        {
+          "user": "jesse.vanpatter",
+          "count": 4
+        },
+        {
+          "user": "will.stanton",
+          "count": 3
+        },
+        {
+          "user": "humberto.gonzalez",
+          "count": 2
+        },
+        {
+          "user": "teddy.wenneker",
+          "count": 1
+        },
+        {
+          "user": "jordan.stern",
+          "count": 1
+        },
+        {
+          "user": "jill.hogan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 13,
+      "17": 12,
+      "20": 14,
+      "23": 1,
+      "19": 7,
+      "15": 14,
+      "14": 10,
+      "12": 2,
+      "11": 18,
+      "21": 9,
+      "16": 11,
+      "13": 11,
+      "22": 4
+    },
+    "by_day": {
+      "Wednesday": 44,
+      "Monday": 15,
+      "Thursday": 45,
+      "Tuesday": 20,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.56,
+    "dept_average_30d": 5.39,
+    "dept_rank": 114,
+    "dept_size": 272
+  }
+}

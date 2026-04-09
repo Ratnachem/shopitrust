@@ -1,0 +1,96 @@
+{
+  "username": "nafis.sadat",
+  "name": "Nafis Sadat",
+  "generated_at": "2026-04-08T20:22:22.129795",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 19,
+    "days_scale": 0.83
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much. I have reached out to PayPal with the new information. I will update you here once I get a reply from them.",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much for looking into this for me. I will proceed as suggested. Thanks again.",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.55,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "chris.dakin",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 5
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.76,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "chris.dakin",
+          "count": 2
+        },
+        {
+          "user": "agamjot.singh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 1,
+      "14": 1,
+      "22": 1,
+      "16": 1,
+      "20": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.79,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1362,
+    "dept_size": 1663
+  }
+}

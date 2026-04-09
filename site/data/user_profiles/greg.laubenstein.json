@@ -1,0 +1,99 @@
+{
+  "username": "greg.laubenstein",
+  "name": "Greg Laubenstein",
+  "generated_at": "2026-04-08T20:22:29.884851",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ah my bad dropped the ball on I'll make one right now.",
+          "channel": "payments-funds-flow-team",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 1.89,
+      "count": 50,
+      "top_channels": [
+        {
+          "channel": "proj-funds-flow-on-ledger",
+          "messages": 4
+        },
+        {
+          "channel": "payments-funds-flow-team",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "dj.patterson",
+          "count": 6
+        },
+        {
+          "user": "igor.belsa",
+          "count": 2
+        },
+        {
+          "user": "zack.carlson",
+          "count": 2
+        },
+        {
+          "user": "simon.lacoursiere",
+          "count": 1
+        },
+        {
+          "user": "carlos.gavino",
+          "count": 1
+        },
+        {
+          "user": "bilal.alp",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 1,
+      "21": 4,
+      "22": 2
+    },
+    "by_day": {
+      "Friday": 1,
+      "Thursday": 2,
+      "Tuesday": 2,
+      "Monday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.37,
+    "dept_average_30d": 5.77,
+    "dept_rank": 833,
+    "dept_size": 885
+  }
+}

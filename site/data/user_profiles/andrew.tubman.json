@@ -1,0 +1,259 @@
+{
+  "username": "andrew.tubman",
+  "name": "Andrew Tubman",
+  "generated_at": "2026-04-08T20:22:14.978370",
+  "summary": {
+    "message_count": 321,
+    "channels_active": 20,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 6,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect thank you!\n\nOnce its rolled out we should see the lagging pods return back to baseline",
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Was about to say CI failure seems unrelated",
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'm not familiar with that action but fixing it there seems sensible to me. Good catch thank you!",
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Will do",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U01EZURSHAL> left a reply. Billing anchor seems perfectly reasonable. Just not sure about the billable/terminated portion fields on the API.",
+          "channel": "growth-and-billing-team-combo-chats",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Nice! Let me know if I can be of help :smile:",
+          "channel": "proj-managed-pricing",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": ":clanker: 2-3x more `NotifySubscriptionChanged` workflows created today vs yesterday\n``` ### April 1 (normal-ish day)\n\n - Peak: 79k at 11:00, 64k at",
+          "channel": "inv-21081-billing-worker-queue-backed-up",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Agree ^ More just an option to unblock you for now.\n\nI think the problem is it shouldn't even be trying to create a charge if the contract hasn't",
+          "channel": "foundations-and-billing-team-combo-chats",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0283QZARCP> you should have access now",
+          "channel": "inv-20109-outstanding-legacy-deal-revenue",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "carol.valeriopena",
+          "count": 15
+        },
+        {
+          "user": "aj.lowndes",
+          "count": 11
+        },
+        {
+          "user": "amalia.gomez",
+          "count": 7
+        },
+        {
+          "user": "al.ismail",
+          "count": 6
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 5
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 3
+        },
+        {
+          "user": "jeremie.david",
+          "count": 3
+        },
+        {
+          "user": "nanakwame.acheampong",
+          "count": 2
+        },
+        {
+          "user": "dan.dobrick",
+          "count": 2
+        },
+        {
+          "user": "tyler.eon",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.64,
+      "count": 96,
+      "top_channels": [
+        {
+          "channel": "inv-20109-outstanding-legacy-deal-revenue",
+          "messages": 105
+        },
+        {
+          "channel": "foundations-and-billing-team-combo-chats",
+          "messages": 53
+        },
+        {
+          "channel": "inv-21081-billing-worker-queue-backed-up",
+          "messages": 34
+        },
+        {
+          "channel": "billing-operations",
+          "messages": 30
+        },
+        {
+          "channel": "help-billing-platform",
+          "messages": 20
+        },
+        {
+          "channel": "proj-managed-pricing",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "messages": 16
+        },
+        {
+          "channel": "billing-finance-team-sync",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20921-deal-cancellation-rev-recs",
+          "messages": 7
+        },
+        {
+          "channel": "growth-and-billing-team-combo-chats",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.79,
+      "count": 70,
+      "top_mentioners": [
+        {
+          "user": "azadeh.alirezay",
+          "count": 9
+        },
+        {
+          "user": "caleb.powell",
+          "count": 8
+        },
+        {
+          "user": "nanakwame.acheampong",
+          "count": 6
+        },
+        {
+          "user": "sammyjoe.osborne",
+          "count": 5
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 5
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 4
+        },
+        {
+          "user": "aj.lowndes",
+          "count": 4
+        },
+        {
+          "user": "carol.valeriopena",
+          "count": 4
+        },
+        {
+          "user": "amalia.gomez",
+          "count": 4
+        },
+        {
+          "user": "brian.crescimanno",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 46,
+      "13": 15,
+      "22": 10,
+      "21": 35,
+      "20": 31,
+      "19": 31,
+      "16": 33,
+      "15": 42,
+      "12": 4,
+      "11": 3,
+      "10": 3,
+      "3": 5,
+      "0": 1,
+      "23": 8,
+      "14": 36,
+      "17": 18
+    },
+    "by_day": {
+      "Wednesday": 61,
+      "Tuesday": 77,
+      "Friday": 80,
+      "Thursday": 58,
+      "Monday": 45
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.03,
+    "dept_average_30d": 5.77,
+    "dept_rank": 288,
+    "dept_size": 885
+  }
+}

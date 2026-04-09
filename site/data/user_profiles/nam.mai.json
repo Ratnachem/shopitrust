@@ -1,0 +1,174 @@
+{
+  "username": "nam.mai",
+  "name": "Nam Mai",
+  "generated_at": "2026-04-08T20:22:16.193068",
+  "summary": {
+    "message_count": 102,
+    "channels_active": 4,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 6,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!\nbtw i saw in app store that we only have CLS, INP, LCP so should we only have these (not TTFB and FID)?",
+          "channel": "proj-admin-perf-dev-dash",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W01B2365LSC> thanks! it's on the same branch: <https://app.graphite.com/github/pr/shop/world/499930>",
+          "channel": "proj-admin-perf-dev-dash",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0AEPQCKB3M> check for latest ci errors for this pr: <https://app.graphite.com/github/pr/shop/world/499930>\nare these errors coming from this",
+          "channel": "nam-mai-river",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.59,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "murtaza.haider",
+          "count": 5
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 5
+        },
+        {
+          "user": "mark.j.tan",
+          "count": 4
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 3
+        },
+        {
+          "user": "marek.kudlacz",
+          "count": 2
+        },
+        {
+          "user": "phil.mcclelland",
+          "count": 1
+        },
+        {
+          "user": "simon.levasseur",
+          "count": 1
+        },
+        {
+          "user": "ben.lerchin",
+          "count": 1
+        },
+        {
+          "user": "safiullah.kaleem",
+          "count": 1
+        },
+        {
+          "user": "mladen.rangelov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.71,
+      "count": 18,
+      "top_channels": [
+        {
+          "channel": "nam-mai-river",
+          "messages": 51
+        },
+        {
+          "channel": "proj-admin-perf-dev-dash",
+          "messages": 45
+        },
+        {
+          "channel": "river-abdullah",
+          "messages": 5
+        },
+        {
+          "channel": "nam-perf-dev-dash-tracify",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.05,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "murtaza.haider",
+          "count": 7
+        },
+        {
+          "user": "safiullah.kaleem",
+          "count": 2
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 2
+        },
+        {
+          "user": "alex.yang",
+          "count": 1
+        },
+        {
+          "user": "phil.mcclelland",
+          "count": 1
+        },
+        {
+          "user": "james.varga",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 7,
+      "16": 3,
+      "15": 12,
+      "14": 17,
+      "13": 5,
+      "21": 16,
+      "19": 23,
+      "18": 7,
+      "20": 6,
+      "23": 2,
+      "22": 2,
+      "0": 1,
+      "6": 1
+    },
+    "by_day": {
+      "Wednesday": 28,
+      "Monday": 29,
+      "Thursday": 21,
+      "Friday": 5,
+      "Tuesday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.72,
+    "dept_average_30d": 4.74,
+    "dept_rank": 698,
+    "dept_size": 1663
+  }
+}

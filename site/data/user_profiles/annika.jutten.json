@@ -1,0 +1,121 @@
+{
+  "username": "annika.jutten",
+  "name": "Annika Jutten",
+  "generated_at": "2026-04-08T20:22:22.857391",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0197HC8EBA>! I have let the merchant know :raised_hands::skin-tone-2:",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thank you <@W0197HC8EBA> please let me know if you need any help from my side. :raised_hands::skin-tone-2:",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0197HC8EBA> please let me know if you need any help from my side. :raised_hands::skin-tone-2:",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U09PB0N22GK>. Can you point to any publicly available sources / case studies for these brands? Or can you confirm that I can share them",
+          "channel": "customer-references",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Hi <@W0197HC8EBA> I have just received the following feedback from Annabel (main contact for this merchant):\n\nShe has not received any notice/ticket",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "orson.sterrit",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.72,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "merchant-escalations",
+          "messages": 5
+        },
+        {
+          "channel": "customer-references",
+          "messages": 3
+        },
+        {
+          "channel": "lets-make-ai-easier",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.87,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "orson.sterrit",
+          "count": 3
+        },
+        {
+          "user": "dan.vijayakumar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 2,
+      "10": 2,
+      "9": 2,
+      "8": 3
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Thursday": 3,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.15,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1068,
+    "dept_size": 1663
+  }
+}

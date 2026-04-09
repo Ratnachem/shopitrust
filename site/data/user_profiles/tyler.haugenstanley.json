@@ -1,0 +1,263 @@
+{
+  "username": "tyler.haugenstanley",
+  "name": "Tyler Haugenstanley",
+  "generated_at": "2026-04-08T20:22:19.373443",
+  "summary": {
+    "message_count": 604,
+    "channels_active": 16,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 23,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh sorry i mis-read my bad",
+          "channel": "proj-cti-upf-workstream-eng",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Thanks for the review <@U021R8REMV1>. Definitely a bunch of inconsistencies thats my bad, I split out the PR into two to make it easier to parse and",
+          "channel": "proj-trust-battery-unified-policy",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks <@U07S5A12SCW>, appreciate it :pray:",
+          "channel": "proj-agentic-commerce-inform-policy",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ahhh this might be my bad! I was talking with claude and then looked at the code and saw the return and assumed. Should have delved one step deeper",
+          "channel": "proj-trust-battery-unified-policy",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to both items <@W018WA2A93K> :pray:",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing deep dive <@U03ATRN5EEA> and love that there is an issue to look into this more, ~63k a day seems like a lot of silently failing alerts",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Hmm looks like I was wrong sorry <@U02358KU611> There isn't <https://screenshot.click/11-10-hy6r4-gfl91.png|the date but it does> say \"You've",
+          "channel": "inform-bug-hunt",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "&gt; In your pr, the scheduler change from .each(&amp;:perform!) to .each(&amp;:perform_later),  right now they run inline sequentially so one",
+          "channel": "proj-cti-upf-workstream-eng",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "The button seems pretty useless in it's current form",
+          "channel": "inform-bug-hunt",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.63,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "matin.hallaji",
+          "count": 37
+        },
+        {
+          "user": "victor.fontenele",
+          "count": 29
+        },
+        {
+          "user": "ken.prochnow",
+          "count": 29
+        },
+        {
+          "user": "john.zhou",
+          "count": 27
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 26
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 25
+        },
+        {
+          "user": "mehrad.haghshenas",
+          "count": 22
+        },
+        {
+          "user": "julia.kranjac",
+          "count": 19
+        },
+        {
+          "user": "shariat.shanu",
+          "count": 15
+        },
+        {
+          "user": "annie.jacobson",
+          "count": 8
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.08,
+      "count": 103,
+      "top_channels": [
+        {
+          "channel": "inform-bug-hunt",
+          "messages": 184
+        },
+        {
+          "channel": "proj-cti-upf-workstream-eng",
+          "messages": 114
+        },
+        {
+          "channel": "proj-trust-battery-unified-policy",
+          "messages": 97
+        },
+        {
+          "channel": "proj-agentic-commerce-inform-policy",
+          "messages": 89
+        },
+        {
+          "channel": "risk-proj-unified-policy-management",
+          "messages": 27
+        },
+        {
+          "channel": "proj-high-value-goods-policy",
+          "messages": 24
+        },
+        {
+          "channel": "cti-policies-workstream",
+          "messages": 20
+        },
+        {
+          "channel": "tyler-hs-river",
+          "messages": 13
+        },
+        {
+          "channel": "mozart-approval-notifications",
+          "messages": 12
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 177,
+      "top_mentioners": [
+        {
+          "user": "jonathan.boston",
+          "count": 33
+        },
+        {
+          "user": "anne.bevis",
+          "count": 20
+        },
+        {
+          "user": "julia.kranjac",
+          "count": 20
+        },
+        {
+          "user": "matin.hallaji",
+          "count": 17
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 16
+        },
+        {
+          "user": "mehrad.haghshenas",
+          "count": 13
+        },
+        {
+          "user": "ken.prochnow",
+          "count": 10
+        },
+        {
+          "user": "john.zhou",
+          "count": 7
+        },
+        {
+          "user": "james.ormston",
+          "count": 7
+        },
+        {
+          "user": "tony.kim",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 84,
+      "15": 116,
+      "22": 27,
+      "21": 58,
+      "20": 35,
+      "18": 43,
+      "19": 43,
+      "17": 81,
+      "0": 13,
+      "23": 13,
+      "14": 40,
+      "12": 7,
+      "11": 3,
+      "13": 31,
+      "2": 3,
+      "1": 2,
+      "3": 1,
+      "5": 2,
+      "6": 1,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 82,
+      "Tuesday": 138,
+      "Monday": 109,
+      "Friday": 130,
+      "Thursday": 145
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 4.74,
+    "dept_rank": 173,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "username": "tobi",
+  "name": "Tobi",
+  "generated_at": "2026-04-08T20:22:29.209694",
+  "summary": {
+    "message_count": 269,
+    "channels_active": 16,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 4,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "My convo with my pi ~2h ago:\n```pi> No Scout MCP access yet \u2014 I have exa (the search binary) but not as a configured skill. Want me to set that up?",
+          "channel": "scout-skills",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "that is amazing",
+          "channel": "autoresearch-wins",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "or a proxy that automatically adds them based based on a header such as employee_email. that would be amazing, because that proxy then can also learn",
+          "channel": "tobi-river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "being able to reach .<http://quick.shopify.io|quick.shopify.io> with our auth would be amazing too. any way to do that?",
+          "channel": "tobi-river",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "Is... this normal?\n``` Found it. git reflog expire --all is running against your 37GB bare World monorepo and has been grinding for nearly 5 hours at",
+          "channel": "dev-up",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "you also tell it that it's allowed to try different libraries and whatever. Most of all you tell it to use the go profiler",
+          "channel": "imagery-efficiency",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so that no one needs to write scripts like this one and we can just dump your models.json -&gt; right format for pi / claude / whatever config",
+          "channel": "dev-proxy-shopify-ai",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "(i know you can do this via normal ssh as well but you need to whitelist the keys in the global server ssh server config which is never going to be",
+          "channel": "tobi-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "surma",
+          "count": 2
+        },
+        {
+          "user": "aaron.patterson",
+          "count": 2
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 1
+        },
+        {
+          "user": "paul.gagliardi",
+          "count": 1
+        },
+        {
+          "user": "javier.moreno",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.54,
+      "count": 319,
+      "top_channels": [
+        {
+          "channel": "liquid-perf",
+          "messages": 75
+        },
+        {
+          "channel": "autoresearch-wins",
+          "messages": 38
+        },
+        {
+          "channel": "tobi-river",
+          "messages": 32
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 26
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 23
+        },
+        {
+          "channel": "dev-proxy-shopify-ai",
+          "messages": 19
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 18
+        },
+        {
+          "channel": "dev-up",
+          "messages": 16
+        },
+        {
+          "channel": "imagery-efficiency",
+          "messages": 6
+        },
+        {
+          "channel": "shared-ruby-jit",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "galen.king",
+          "count": 3
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 2
+        },
+        {
+          "user": "raphael.lomotey",
+          "count": 1
+        },
+        {
+          "user": "ben.sehl",
+          "count": 1
+        },
+        {
+          "user": "ankur.mukerji",
+          "count": 1
+        },
+        {
+          "user": "jason.z.liu",
+          "count": 1
+        },
+        {
+          "user": "sam.bostock",
+          "count": 1
+        },
+        {
+          "user": "shane.moran",
+          "count": 1
+        },
+        {
+          "user": "jonathan.travaglio",
+          "count": 1
+        },
+        {
+          "user": "austin.kirk",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 13,
+      "1": 3,
+      "20": 18,
+      "17": 29,
+      "15": 53,
+      "21": 14,
+      "0": 2,
+      "16": 30,
+      "23": 6,
+      "22": 12,
+      "14": 12,
+      "6": 1,
+      "13": 18,
+      "18": 20,
+      "3": 19,
+      "12": 15,
+      "2": 2,
+      "11": 2
+    },
+    "by_day": {
+      "Monday": 57,
+      "Tuesday": 54,
+      "Friday": 23,
+      "Thursday": 58,
+      "Wednesday": 77
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 8.33,
+    "dept_average_30d": 4.74,
+    "dept_rank": 16,
+    "dept_size": 1663
+  }
+}

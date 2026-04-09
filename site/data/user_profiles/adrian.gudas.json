@@ -1,0 +1,287 @@
+{
+  "username": "adrian.gudas",
+  "name": "Adrian Gudas",
+  "generated_at": "2026-04-08T20:22:11.853227",
+  "summary": {
+    "message_count": 782,
+    "channels_active": 64,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 25,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I just stumbled on this and still have no idea if it's actually why we got that weird 115h threshold being tripped or not",
+          "channel": "resiliency-alerts",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if that makes sense.",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave-gummy-blob: Hey, Platform SRE here. Let me know if the retro is still workable tomorrow? Don't mean to rush anyone, just want to clarify if we",
+          "channel": "inc-20936-shop-is-down",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U07SR048Z7F> hey, this is already resolved (no immediate urgency), however, I think we might need a second pair of eyes from someone in",
+          "channel": "inv-20841-semian-errors-for-shardm-on-core-cluster-",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Apologies if these are for the wrong team. Please let me know if I need to re-assign",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok, creating the ticket to capture that, thanks!",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<!here> Retro for INC-20367: combined product listings showing as out of stock - scheduled for Tuesday, March 24 at 1:00 PM EDT / 17:00 UTC. Please",
+          "channel": "inc-20367-combined-product-listings-showing-as-sold",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!here> Retro for INC-20367: combined product listings showing as out of stock - scheduled for Tuesday, March 24 at 1:00 PM EDT / 17:00 UTC. Please",
+          "channel": "inc-20367-combined-product-listings-showing-as-sold",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<!here> Retro for INC-20367: combined product listings showing as out of stock - scheduled for Tuesday, March 24 at 1:00 PM EDT / 17:00 UTC. Please",
+          "channel": "inc-20367-combined-product-listings-showing-as-sold",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n> may only be able to make 30 mins.\n:+1:",
+          "channel": "inc-20367-combined-product-listings-showing-as-sold",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I tried to fix this with a <https://shopify.slack.com/archives/C0AAR03U5EC/p1775093452565469|count expression>, to only alert when one cluster is",
+          "channel": "resiliency-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "if the alert doesn't have the cluster name in it (because it's a count expression now), it's kinda useless for us :disappointed:",
+          "channel": "sre-alerts-maintenance-crew",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "also happy to hold off and not do this, whatever is preferred :wink: (not sure if this is the real fix)",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "jie.sun",
+          "count": 5
+        },
+        {
+          "user": "nigel.swinson",
+          "count": 3
+        },
+        {
+          "user": "abdulrahman.alhamali",
+          "count": 3
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 2
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 2
+        },
+        {
+          "user": "abdullah.sheikh",
+          "count": 2
+        },
+        {
+          "user": "jake.levine",
+          "count": 2
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 1
+        },
+        {
+          "user": "fernando.aguasvivas",
+          "count": 1
+        },
+        {
+          "user": "anagayan.ariaran",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 520,
+      "top_channels": [
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 83
+        },
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 62
+        },
+        {
+          "channel": "inc-20367-combined-product-listings-showing-as-sold",
+          "messages": 47
+        },
+        {
+          "channel": "inc-20168-core-500s-due-to-webhooks-overload-shard-",
+          "messages": 39
+        },
+        {
+          "channel": "inv-20841-semian-errors-for-shardm-on-core-cluster-",
+          "messages": 35
+        },
+        {
+          "channel": "inv-20358-deploy-coordination-channel-for-700-behin",
+          "messages": 30
+        },
+        {
+          "channel": "resiliency-alerts",
+          "messages": 29
+        },
+        {
+          "channel": "inv-20997-shopify-core-errors-by-cluster",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20439-increase-in-errors-from-pullattributedses",
+          "messages": 24
+        },
+        {
+          "channel": "inv-20181-deploy-related-synthetic-checks-failing-f",
+          "messages": 24
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 81,
+      "top_mentioners": [
+        {
+          "user": "jie.sun",
+          "count": 14
+        },
+        {
+          "user": "aditya.singh",
+          "count": 7
+        },
+        {
+          "user": "abdulrahman.alhamali",
+          "count": 6
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 5
+        },
+        {
+          "user": "jake.levine",
+          "count": 4
+        },
+        {
+          "user": "michael.lewis",
+          "count": 4
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 4
+        },
+        {
+          "user": "arbab.ahmed",
+          "count": 3
+        },
+        {
+          "user": "bing.li",
+          "count": 3
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 192,
+      "13": 11,
+      "21": 46,
+      "19": 73,
+      "17": 108,
+      "14": 58,
+      "23": 1,
+      "20": 69,
+      "16": 95,
+      "15": 109,
+      "2": 1,
+      "1": 5,
+      "22": 5,
+      "12": 4,
+      "3": 1,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 124,
+      "Tuesday": 163,
+      "Monday": 188,
+      "Thursday": 191,
+      "Friday": 116
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.65,
+    "dept_average_30d": 5.75,
+    "dept_rank": 180,
+    "dept_size": 357
+  }
+}

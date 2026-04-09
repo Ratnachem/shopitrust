@@ -1,0 +1,76 @@
+{
+  "username": "adam.kaplan",
+  "name": "Adam Kaplan",
+  "generated_at": "2026-04-08T20:22:32.352349",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi, after migrating to fleet my device is listed as untrusted in minerva and won't refresh.  Is someone able to assist?  Thanks!",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team - I just migrated my laptop to fleet and now my claude code is hitting a minerva error message when I try to authenticate vault mcp.  Can",
+          "channel": "help-it",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3
+    },
+    "by_day": {
+      "Tuesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Legal",
+    "user_score_30d": 3.55,
+    "dept_average_30d": 4.2,
+    "dept_rank": 68,
+    "dept_size": 82
+  }
+}

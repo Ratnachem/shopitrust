@@ -1,0 +1,271 @@
+{
+  "username": "jeff.doker",
+  "name": "Jeff Doker",
+  "generated_at": "2026-04-08T20:22:12.206141",
+  "summary": {
+    "message_count": 343,
+    "channels_active": 16,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.8,
+      "pos_count": 28,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "very helpful, thanks!",
+          "channel": "tangle",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "What is the preferred nomenclature for the unique identifier for a UPI cluster (based on farm fingerprint of its universal_product_id combined with",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Nice. thank you! So for building a dbt operator for each upstream model, is that something you'd do just temporarily while tophatting staging, since",
+          "channel": "search-relevance-metrics-v-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-catalogue-pdp-error-rate",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I used a prev version of dspy that lets you set temperature = 0 and updated the pipeline. yours should just work as it is configured. please let me",
+          "channel": "options-judge",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U08HLJQDKND> there are several tables that contain the scraping results:\n\u2022 search engine results page scrapes (query string, product_url, position,",
+          "channel": "proj-search-competitor-scraping",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good! I already passed along my feedback to the manager directly last night. Thanks!",
+          "channel": "help-interns",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0A6S3PE56C> both of your open PRs are approved--feel free to rebase/merge those puppies if you're ready! Once those are in, maybe we could kick",
+          "channel": "proj-search-competitor-scraping",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The funds are in! :money-fly: <@U0A6S3PE56C> you can now feel free to kick off a dashboard run with _no_ downsampling of Daily Pulse.",
+          "channel": "proj-search-competitor-scraping",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah many thanks! :hattip:",
+          "channel": "proj-catalogue-pdp-error-rate",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I'm using the Claude Code plugin in VScode and tangle-deploy mcp is suddenly not working. It works fine from the command line Claude Code but not the",
+          "channel": "tangle",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "kaelyn.pereira",
+          "count": 13
+        },
+        {
+          "user": "esther.vasiete",
+          "count": 12
+        },
+        {
+          "user": "mustafa.ak",
+          "count": 11
+        },
+        {
+          "user": "andrei.danilchenko",
+          "count": 8
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 5
+        },
+        {
+          "user": "mariya.mansurova",
+          "count": 4
+        },
+        {
+          "user": "ben.chen",
+          "count": 3
+        },
+        {
+          "user": "cheng.yuan",
+          "count": 3
+        },
+        {
+          "user": "aibo.li",
+          "count": 2
+        },
+        {
+          "user": "kevin.chou",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.1,
+      "count": 243,
+      "top_channels": [
+        {
+          "channel": "options-judge",
+          "messages": 115
+        },
+        {
+          "channel": "proj-search-competitor-scraping",
+          "messages": 71
+        },
+        {
+          "channel": "tangle",
+          "messages": 48
+        },
+        {
+          "channel": "proj-catalogue-pdp-error-rate",
+          "messages": 45
+        },
+        {
+          "channel": "proj-universal-products",
+          "messages": 19
+        },
+        {
+          "channel": "search-relevance-metrics-v-team",
+          "messages": 12
+        },
+        {
+          "channel": "hd39-dead-code-discovery",
+          "messages": 10
+        },
+        {
+          "channel": "search-data-ops",
+          "messages": 6
+        },
+        {
+          "channel": "help-coupa",
+          "messages": 4
+        },
+        {
+          "channel": "catalog-metrics-vteam",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "mariya.mansurova",
+          "count": 6
+        },
+        {
+          "user": "kaelyn.pereira",
+          "count": 5
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 5
+        },
+        {
+          "user": "zhenqing.li",
+          "count": 4
+        },
+        {
+          "user": "andrei.danilchenko",
+          "count": 3
+        },
+        {
+          "user": "cheng.yuan",
+          "count": 2
+        },
+        {
+          "user": "caroline.lee",
+          "count": 2
+        },
+        {
+          "user": "mustafa.ak",
+          "count": 2
+        },
+        {
+          "user": "esther.vasiete",
+          "count": 2
+        },
+        {
+          "user": "myca.mariano",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 30,
+      "14": 31,
+      "21": 19,
+      "20": 58,
+      "13": 44,
+      "15": 50,
+      "17": 26,
+      "16": 19,
+      "19": 28,
+      "0": 29,
+      "4": 1,
+      "22": 6,
+      "3": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 88,
+      "Tuesday": 58,
+      "Monday": 45,
+      "Friday": 80,
+      "Thursday": 72
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.79,
+    "dept_average_30d": 5.79,
+    "dept_rank": 577,
+    "dept_size": 1233
+  }
+}

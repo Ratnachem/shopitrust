@@ -1,0 +1,265 @@
+{
+  "username": "shivin.misra",
+  "name": "Shivin Misra",
+  "generated_at": "2026-04-08T20:22:08.150494",
+  "summary": {
+    "message_count": 194,
+    "channels_active": 22,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-retail-yugabyte-migration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I've addressed the review comments on the `cash_tracking` ",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "morpheus-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018WA4P917> <@U03B2MN3M5Y> I have a stack of migration PRs for `cash_tracking` migration too. Can you please review them?\n\u2022",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Paired with <@U03GS2NBYTV> (thanks!). The root cause of this issue is that the `paymentMethodIdentifier` from the iDeal payment method setting",
+          "channel": "help-retail-checkout",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "sounds good, thank you both",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> I'm having trouble understanding from the issues and descriptions; what's the high level goal of these PR\nThese PRs are part of <#C0AL12BM0RG>",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> does this sound correct?\n&gt; These PRs are part of <#C0AL12BM0RG> (bigger mission: <#C09GZB704AW>). Essentially we are moving away",
+          "channel": "shivin-work-channel",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> here is the message\n&gt; I'm having trouble understanding from the issues and descriptions; what's the high level goal of these",
+          "channel": "shivin-work-channel",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> is this factually correct?\n&gt; I'm having trouble understanding from the issues and descriptions; what's the high level goal of these",
+          "channel": "shivin-work-channel",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "tom.anderson",
+          "count": 7
+        },
+        {
+          "user": "si.le",
+          "count": 6
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 6
+        },
+        {
+          "user": "meishang.chen",
+          "count": 5
+        },
+        {
+          "user": "robin.senior",
+          "count": 4
+        },
+        {
+          "user": "stephanie.chancerelle",
+          "count": 3
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 3
+        },
+        {
+          "user": "sheldon.nunes",
+          "count": 2
+        },
+        {
+          "user": "laura.duggan",
+          "count": 2
+        },
+        {
+          "user": "john.pavlick",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.27,
+      "count": 252,
+      "top_channels": [
+        {
+          "channel": "shivin-work-channel",
+          "messages": 55
+        },
+        {
+          "channel": "help-retail-checkout",
+          "messages": 27
+        },
+        {
+          "channel": "proj-extensible-cash-management",
+          "messages": 26
+        },
+        {
+          "channel": "proj-cash-rounding-on-pos",
+          "messages": 20
+        },
+        {
+          "channel": "proj-retail-yugabyte-migration",
+          "messages": 19
+        },
+        {
+          "channel": "morpheus-dev",
+          "messages": 11
+        },
+        {
+          "channel": "evergreen-retail-checkout-maintenance",
+          "messages": 7
+        },
+        {
+          "channel": "proj-ledger",
+          "messages": 4
+        },
+        {
+          "channel": "proj-retail-cashout-gift-cards",
+          "messages": 3
+        },
+        {
+          "channel": "tmp-checkout-oncall-improvements",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.08,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "tom.anderson",
+          "count": 8
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 6
+        },
+        {
+          "user": "si.le",
+          "count": 5
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 4
+        },
+        {
+          "user": "zach.mathew",
+          "count": 3
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 2
+        },
+        {
+          "user": "robin.senior",
+          "count": 2
+        },
+        {
+          "user": "martin.provencher",
+          "count": 2
+        },
+        {
+          "user": "john.pavlick",
+          "count": 2
+        },
+        {
+          "user": "sheldon.nunes",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "16": 26,
+      "15": 15,
+      "20": 8,
+      "19": 20,
+      "22": 23,
+      "14": 13,
+      "1": 2,
+      "21": 17,
+      "17": 34,
+      "13": 2,
+      "23": 3,
+      "2": 3,
+      "0": 9,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 46,
+      "Tuesday": 52,
+      "Monday": 13,
+      "Thursday": 56,
+      "Friday": 27
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.06,
+    "dept_average_30d": 5.77,
+    "dept_rank": 278,
+    "dept_size": 885
+  }
+}

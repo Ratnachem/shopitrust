@@ -1,0 +1,265 @@
+{
+  "username": "sander.verdonschot",
+  "name": "Sander Verdonschot",
+  "generated_at": "2026-04-08T20:22:10.934492",
+  "summary": {
+    "message_count": 488,
+    "channels_active": 34,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 9,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! That's much worse than I expected. Are you sure it's worth the added gcp cost?",
+          "channel": "job-platform-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "job-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you!",
+          "channel": "job-platform-alerts",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :blobheart:",
+          "channel": "infrastructure-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Very happy to hear that! Thank you for all the help validating this change :high5:",
+          "channel": "proj-bulk-jobs",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Something to look into afterwards then.",
+          "channel": "job-platform-team",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the quick work! :blobheart:",
+          "channel": "inc-20003-redis-errors-in-core",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "inc-19834-gcp-zonal-issues-central-c",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "\u2022 The tophatting section is useless, those are checks that are already run by CI\n\u2022 The \"next steps\" includes a bunch of irrelevant fluff.\n\u2022 The TLDR",
+          "channel": "job-platform-team",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "celina.assal",
+          "count": 4
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 2
+        },
+        {
+          "user": "liam.stewart",
+          "count": 2
+        },
+        {
+          "user": "phil.boyd",
+          "count": 2
+        },
+        {
+          "user": "denis.ivanov",
+          "count": 1
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        },
+        {
+          "user": "rob.cardy",
+          "count": 1
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 1
+        },
+        {
+          "user": "robert.adler",
+          "count": 1
+        },
+        {
+          "user": "akin.shonibare",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.26,
+      "count": 357,
+      "top_channels": [
+        {
+          "channel": "job-platform-team",
+          "messages": 138
+        },
+        {
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "messages": 73
+        },
+        {
+          "channel": "job-platform",
+          "messages": 52
+        },
+        {
+          "channel": "job-platform-alerts",
+          "messages": 49
+        },
+        {
+          "channel": "proj-bulk-jobs",
+          "messages": 20
+        },
+        {
+          "channel": "inc-20003-redis-errors-in-core",
+          "messages": 20
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 16
+        },
+        {
+          "channel": "inv-21034-incomplete-pod-failovers",
+          "messages": 15
+        },
+        {
+          "channel": "proj-ci-cd-job-signature",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20420-investigating-delayed-queue-size-growing-",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.6,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "matthew.bruce",
+          "count": 8
+        },
+        {
+          "user": "tim.borkhodoev",
+          "count": 7
+        },
+        {
+          "user": "peter.rong",
+          "count": 5
+        },
+        {
+          "user": "ernie.makris",
+          "count": 4
+        },
+        {
+          "user": "celina.assal",
+          "count": 3
+        },
+        {
+          "user": "sanchit.manchanda",
+          "count": 3
+        },
+        {
+          "user": "bing.li",
+          "count": 2
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 2
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 2
+        },
+        {
+          "user": "vitali.tsevan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 81,
+      "17": 44,
+      "15": 46,
+      "14": 69,
+      "13": 46,
+      "11": 1,
+      "21": 30,
+      "20": 63,
+      "23": 23,
+      "19": 32,
+      "16": 30,
+      "12": 8,
+      "22": 12,
+      "9": 1,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 170,
+      "Tuesday": 131,
+      "Thursday": 87,
+      "Monday": 45,
+      "Friday": 55
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.63,
+    "dept_average_30d": 5.75,
+    "dept_rank": 183,
+    "dept_size": 357
+  }
+}

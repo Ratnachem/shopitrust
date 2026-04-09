@@ -1,0 +1,265 @@
+{
+  "username": "nicholas.koh",
+  "name": "Nicholas Koh",
+  "generated_at": "2026-04-08T20:22:25.672122",
+  "summary": {
+    "message_count": 77,
+    "channels_active": 11,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hi <@U02CDG002TW>, FYI as oncall - I'm from Managed Markets, planning to do some large-ish rate backfills (~238k) through",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Another question - do we need to backfill merchants that do not have a `ShopifyPayments::Account` in core? I was under the impression that",
+          "channel": "disputes-pricing-insights-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197HXTT2L> we plan to have early access on 17 Apr (merchant group not confirmed), let me know if you need more information :blobthumbsup:. To",
+          "channel": "disputes-pricing-insights-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I should have kept an eye on the <https://billing.shopify.io/internal/resque/queues/data_migration|job queue>, my bad (aside, seems like the second",
+          "channel": "inv-21081-billing-worker-queue-backed-up",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "&gt; That being said, I think <@U07A2321UGK>\u2019s <https://experiments.shopify.io/flags/f_update_sp_gateway_on_capability_sync|flag> that is now rolled",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "For the migration most of the logic is in a maintenance task, these two bits are probably the most relevant:\n\u2022 we create the missing capabilities (if",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> could we also add tests, at least on `rate_limit_key_for`, but let me know if you think we should add more",
+          "channel": "nic-k-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thank you, let me know if there's anything I can do to help move this along, otherwise I'll look at something else in the meantime.\n\n&gt; Agreed, we",
+          "channel": "proj-xb-country-expansion",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, let me know if there's anything I can do to help move this along, otherwise I'll look at something else in the meantime.\n\n&gt; Agreed, we",
+          "channel": "proj-xb-country-expansion",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm good for you to perform the rate changes as you go and leave a comment in the PR, similar to what we did",
+          "channel": "proj-xb-country-expansion",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "tasya.adityarukmana",
+          "count": 7
+        },
+        {
+          "user": "divin.kang",
+          "count": 6
+        },
+        {
+          "user": "justin.carvalho",
+          "count": 4
+        },
+        {
+          "user": "chris.alexander",
+          "count": 3
+        },
+        {
+          "user": "dj.patterson",
+          "count": 2
+        },
+        {
+          "user": "emily.lin",
+          "count": 2
+        },
+        {
+          "user": "caleb.powell",
+          "count": 1
+        },
+        {
+          "user": "gavin.he",
+          "count": 1
+        },
+        {
+          "user": "kaleb.iswara",
+          "count": 1
+        },
+        {
+          "user": "sungjin.kim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.8,
+      "count": 174,
+      "top_channels": [
+        {
+          "channel": "proj-xb-country-expansion",
+          "messages": 27
+        },
+        {
+          "channel": "disputes-pricing-insights-team",
+          "messages": 17
+        },
+        {
+          "channel": "nic-k-river",
+          "messages": 13
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 5
+        },
+        {
+          "channel": "payments-funds-flow-team",
+          "messages": 4
+        },
+        {
+          "channel": "inv-21081-billing-worker-queue-backed-up",
+          "messages": 3
+        },
+        {
+          "channel": "cross-border-payments-ops",
+          "messages": 3
+        },
+        {
+          "channel": "cross-border-shipping-dev",
+          "messages": 2
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 1
+        },
+        {
+          "channel": "help-billing-platform",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "karissa.genovese",
+          "count": 11
+        },
+        {
+          "user": "tasya.adityarukmana",
+          "count": 6
+        },
+        {
+          "user": "divin.kang",
+          "count": 6
+        },
+        {
+          "user": "stephanie.chen",
+          "count": 5
+        },
+        {
+          "user": "emily.lin",
+          "count": 3
+        },
+        {
+          "user": "kaleb.iswara",
+          "count": 2
+        },
+        {
+          "user": "kenta.suzuki",
+          "count": 2
+        },
+        {
+          "user": "hugo.vacher",
+          "count": 2
+        },
+        {
+          "user": "will.damon",
+          "count": 1
+        },
+        {
+          "user": "zaiyi.guo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "6": 1,
+      "14": 8,
+      "13": 5,
+      "7": 3,
+      "3": 11,
+      "9": 10,
+      "8": 7,
+      "5": 4,
+      "4": 2,
+      "1": 9,
+      "0": 3,
+      "15": 2,
+      "10": 5,
+      "2": 5,
+      "11": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 17,
+      "Tuesday": 24,
+      "Monday": 12,
+      "Friday": 12,
+      "Thursday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.29,
+    "dept_average_30d": 5.77,
+    "dept_rank": 630,
+    "dept_size": 885
+  }
+}

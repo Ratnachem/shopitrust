@@ -1,0 +1,241 @@
+{
+  "username": "paulo.arruda",
+  "name": "Paulo Arruda",
+  "generated_at": "2026-04-08T20:22:26.940466",
+  "summary": {
+    "message_count": 237,
+    "channels_active": 19,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "token-circuit-breaker",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Ah, I see. Tool calls are missing from the data that goes to big query.\nIt works for recent sessions when that page can download from the",
+          "channel": "river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "You're right, I was wrong on the method restriction. Just verified on the checked-out branch \u2014 the code has all three conditions:\n```allowed :=",
+          "channel": "parruda-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "You're right, I was wrong on the method restriction. Just verified on the checked-out branch \u2014 the code has all three conditions:\n```allowed :=",
+          "channel": "parruda-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Fix is out, let me know if the time to reply improved!",
+          "channel": "jenna-river",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> I've been using my local agent to try to figure out why sometimes you don't have your memory tools available. I can't figure it out or",
+          "channel": "parruda-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Blame",
+          "pattern": "why didn't you",
+          "text": "<@U0AEPQCKB3M> oh so you had that in memory before? Why didn't you tell me I like hoofprints? Did you perform a memory tool call in our first",
+          "channel": "parruda-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> look at your code. You should have a memory tool. Can you help me understand why you can't see it?",
+          "channel": "parruda-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "lei.wu",
+          "count": 1
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 1
+        },
+        {
+          "user": "eric.florenzano",
+          "count": 1
+        },
+        {
+          "user": "jevon.macdonald",
+          "count": 1
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        },
+        {
+          "user": "jonathan.baker",
+          "count": 1
+        },
+        {
+          "user": "derek.pyne",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.49,
+      "count": 158,
+      "top_channels": [
+        {
+          "channel": "parruda-river",
+          "messages": 115
+        },
+        {
+          "channel": "river-dev",
+          "messages": 32
+        },
+        {
+          "channel": "river",
+          "messages": 17
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 13
+        },
+        {
+          "channel": "metrics-maker",
+          "messages": 9
+        },
+        {
+          "channel": "derek-pyne-river",
+          "messages": 9
+        },
+        {
+          "channel": "swarm",
+          "messages": 7
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 7
+        },
+        {
+          "channel": "river-infra",
+          "messages": 6
+        },
+        {
+          "channel": "proj-trust-battery-automated-decision-coverage",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "eric.florenzano",
+          "count": 4
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 3
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 3
+        },
+        {
+          "user": "jolie.demuth",
+          "count": 3
+        },
+        {
+          "user": "justin.harris",
+          "count": 2
+        },
+        {
+          "user": "galen.king",
+          "count": 2
+        },
+        {
+          "user": "jenna.mccormick",
+          "count": 2
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 1
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 1
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 5,
+      "13": 25,
+      "12": 33,
+      "11": 4,
+      "0": 5,
+      "19": 28,
+      "18": 33,
+      "17": 24,
+      "16": 17,
+      "15": 23,
+      "14": 11,
+      "1": 11,
+      "23": 5,
+      "22": 4,
+      "21": 6,
+      "3": 2,
+      "2": 1
+    },
+    "by_day": {
+      "Tuesday": 86,
+      "Thursday": 40,
+      "Wednesday": 71,
+      "Monday": 12,
+      "Friday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 8.46,
+    "dept_average_30d": 5.39,
+    "dept_rank": 9,
+    "dept_size": 272
+  }
+}

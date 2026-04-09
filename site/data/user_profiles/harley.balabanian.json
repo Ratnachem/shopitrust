@@ -1,0 +1,282 @@
+{
+  "username": "harley.balabanian",
+  "name": "Harley Balabanian",
+  "generated_at": "2026-04-08T20:22:20.199569",
+  "summary": {
+    "message_count": 370,
+    "channels_active": 48,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 55,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "perfect thank you",
+          "channel": "help-commerce-trust-integrity",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It's a build burst, what better to do than ship! Thank you very much Samy Tam and Pannah for coordinating ",
+          "channel": "inv-20646-auto-reserve-workflow-incorrectly-lifts-p",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "perfect, thank you!",
+          "channel": "arg-users-group",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yah I think I can make that, thank you!!",
+          "channel": "cti-time-to-action-workstream",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "THANK YOU for finishing this! I really left a half-completed mess here and greatly appreciate your cleanup work.",
+          "channel": "cti-team",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>\n1. let\u2019s go with a new ruleset called `CHARGES_HOLDS` with a copy of the current `PAYOUT_HOLDS` definition. flag that it needs to be",
+          "channel": "emerging-fraud-trends",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "likely yes but I\u2019m trying to collect the tobi feedback first. we can talk in the cases fecta meeting and before that I\u2019ll share whatever I can find",
+          "channel": "cti-cases-workstream",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we should be using/storing whatever identifier we get from minerva",
+          "channel": "proj-cti-horseworks",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "you\u2019ll have to take it up with TB eng! not my wheelhouse anymore. but like I said, I don\u2019t think this roadmap is approved yet, I think boris and",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019m not able to open that link. some notes:\n\u2022 you shouldn\u2019t need to manually manage any minerva/mcp bridge tokens. if you\u2019re messing with this",
+          "channel": "cti-anyone-can-ai",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "nit: we\u2019re still anchoring on tickets plus increasingly complicated filters as the fundamental signal here when IMO it should be detections.",
+          "channel": "inc-17141-accelerating-credit-spend-from-account-ta",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "TB emits all signal changes to a single monorail topic, and it\u2019s easy to use a TB processor to emit to whatever kafka topic you\u2019d like",
+          "channel": "inv-15806-elevated-billing-chargebacks-from-fraudul",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we can really name it whatever we want as long as it starts with `proj-cti`, I\u2019ll leave it up to the champion",
+          "channel": "proj-cti-horseworks",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "arthi.vijayakumar",
+          "count": 9
+        },
+        {
+          "user": "mark.dorison",
+          "count": 5
+        },
+        {
+          "user": "bojan.antic",
+          "count": 4
+        },
+        {
+          "user": "tamanon.virulhakieat",
+          "count": 4
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 3
+        },
+        {
+          "user": "alexandre.sauve",
+          "count": 3
+        },
+        {
+          "user": "niall.ryan",
+          "count": 2
+        },
+        {
+          "user": "noah.simpson",
+          "count": 2
+        },
+        {
+          "user": "peter.brandel",
+          "count": 2
+        },
+        {
+          "user": "dikshant.sharma",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 449,
+      "top_channels": [
+        {
+          "channel": "proj-cti-horseworks",
+          "messages": 51
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 39
+        },
+        {
+          "channel": "emerging-fraud-trends",
+          "messages": 22
+        },
+        {
+          "channel": "cti-team",
+          "messages": 22
+        },
+        {
+          "channel": "cti-cases-workstream",
+          "messages": 19
+        },
+        {
+          "channel": "burst-reshaping-trust-platform-automation-workstream-around-default-to-claude",
+          "messages": 19
+        },
+        {
+          "channel": "proj-cti-idv-improvements",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20646-auto-reserve-workflow-incorrectly-lifts-p",
+          "messages": 18
+        },
+        {
+          "channel": "proj-cti-account-recovery",
+          "messages": 15
+        },
+        {
+          "channel": "cti-anyone-can-ai",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 152,
+      "top_mentioners": [
+        {
+          "user": "ashwin.dandekar",
+          "count": 17
+        },
+        {
+          "user": "tamanon.virulhakieat",
+          "count": 15
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 12
+        },
+        {
+          "user": "jarvis.kay",
+          "count": 10
+        },
+        {
+          "user": "bojan.antic",
+          "count": 6
+        },
+        {
+          "user": "alexandre.sauve",
+          "count": 6
+        },
+        {
+          "user": "emily.hammond",
+          "count": 6
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 5
+        },
+        {
+          "user": "jason.seger",
+          "count": 4
+        },
+        {
+          "user": "sage.johnston",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 44,
+      "15": 51,
+      "14": 31,
+      "13": 42,
+      "20": 59,
+      "21": 27,
+      "19": 38,
+      "18": 39,
+      "17": 29,
+      "12": 9,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 62,
+      "Monday": 59,
+      "Thursday": 107,
+      "Friday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 6.28,
+    "dept_average_30d": 4.89,
+    "dept_rank": 24,
+    "dept_size": 237
+  }
+}

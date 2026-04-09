@@ -1,0 +1,309 @@
+{
+  "username": "jacob.michels",
+  "name": "Jacob Michels",
+  "generated_at": "2026-04-08T20:22:07.604291",
+  "summary": {
+    "message_count": 1076,
+    "channels_active": 32,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 18,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! i am hopeful we can solve this by just horizontally scaling our WCB's kafka consumers",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh shit, old ass client. Good catch! I'll get that updated and come back if I don't see improvement. Thanks! ",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "PR has just merged, everyone can rebase and the check will be no longer required. Sorry about this!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":bless: thank you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "lmk if I can help with that",
+          "channel": "proj-cross-zone-trans-dep",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!!!",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "that's fair enough! i'll answer your questions and ship. thanks!",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-vault",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Sorry for dropping the ball here, this was my bad",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great thanks!",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "the problem is not necessarily the fact that we're publishing github statuses, it's the fact that we did it in the hot loop like idiots (it was just",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> lets address 1 and 3/4.\n\n\u2022 Indeed, lets include the body in the error\n\u2022 This is internal software. we can provide the credentials in",
+          "channel": "environments-reviews",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "just that whatever runs passes",
+          "channel": "proj-cross-zone-trans-dep",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "one thing that I was thinking about was turning off the github workflows. they're still on (but afaict, basically useless because WCB is faster ~all",
+          "channel": "proj-cross-zone-trans-dep",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Dove deeper into Pete's solutions and did some of my own brainstorming. I think my findings/realizations might be useful to the group. <@U0283BKGTDM>",
+          "channel": "proj-nix-supply-chain",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Dove deeper into Pete's solutions and did some of my own brainstorming. I think my findings/realizations might be useful to the group. <@U0283BKGTDM>",
+          "channel": "proj-nix-supply-chain",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "alex.decious",
+          "count": 17
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 17
+        },
+        {
+          "user": "ashley.williams",
+          "count": 11
+        },
+        {
+          "user": "ben.maynard",
+          "count": 7
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 7
+        },
+        {
+          "user": "ester.kais",
+          "count": 6
+        },
+        {
+          "user": "matthew.boston",
+          "count": 4
+        },
+        {
+          "user": "taras.donchenko",
+          "count": 4
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 3
+        },
+        {
+          "user": "lily.foster",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.08,
+      "count": 242,
+      "top_channels": [
+        {
+          "channel": "proj-instant-dev-envs",
+          "messages": 292
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 178
+        },
+        {
+          "channel": "tectonix",
+          "messages": 129
+        },
+        {
+          "channel": "proj-cross-zone-trans-dep",
+          "messages": 114
+        },
+        {
+          "channel": "dev-up",
+          "messages": 63
+        },
+        {
+          "channel": "inv-19932-high-number-github-action-runs-in-pending",
+          "messages": 38
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 37
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 35
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 29
+        },
+        {
+          "channel": "proj-nix-supply-chain",
+          "messages": 19
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 129,
+      "top_mentioners": [
+        {
+          "user": "ashley.williams",
+          "count": 44
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 8
+        },
+        {
+          "user": "chris.shino",
+          "count": 7
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 6
+        },
+        {
+          "user": "sam.bostock",
+          "count": 6
+        },
+        {
+          "user": "chao.duan",
+          "count": 5
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 5
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 4
+        },
+        {
+          "user": "ben.maynard",
+          "count": 4
+        },
+        {
+          "user": "murali.kulachandran",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 151,
+      "17": 130,
+      "16": 109,
+      "15": 167,
+      "14": 109,
+      "13": 27,
+      "1": 3,
+      "0": 24,
+      "23": 46,
+      "22": 47,
+      "21": 68,
+      "20": 82,
+      "19": 99,
+      "4": 1,
+      "3": 8,
+      "12": 1,
+      "2": 4
+    },
+    "by_day": {
+      "Wednesday": 232,
+      "Tuesday": 315,
+      "Monday": 154,
+      "Thursday": 251,
+      "Friday": 124
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.72,
+    "dept_average_30d": 5.75,
+    "dept_rank": 36,
+    "dept_size": 357
+  }
+}

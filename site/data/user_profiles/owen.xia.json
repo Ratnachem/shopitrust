@@ -1,0 +1,130 @@
+{
+  "username": "owen.xia",
+  "name": "Owen Xia",
+  "generated_at": "2026-04-08T20:22:29.731517",
+  "summary": {
+    "message_count": 18,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I will stand by",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, <@U01SACEH42X> thank you so much for the help!",
+          "channel": "help-labels",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@U02T6DXGGGH>, thank you for the update, I\u2019ve informed the merchant about this, and I\u2019ll follow up here if they report anything further. Thanks",
+          "channel": "help-labels",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you Minh! I will stand by :thank:",
+          "channel": "help-labels",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "minh.tran",
+          "count": 2
+        },
+        {
+          "user": "ryan.ludwig",
+          "count": 1
+        },
+        {
+          "user": "bryan.langille",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.44,
+      "count": 38,
+      "top_channels": [
+        {
+          "channel": "help-checkout",
+          "messages": 11
+        },
+        {
+          "channel": "help-labels",
+          "messages": 6
+        },
+        {
+          "channel": "cross-border-shipping-dev",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.46,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "ryan.ludwig",
+          "count": 3
+        },
+        {
+          "user": "minh.tran",
+          "count": 2
+        },
+        {
+          "user": "bryan.langille",
+          "count": 1
+        },
+        {
+          "user": "joy.liu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 11,
+      "18": 4,
+      "15": 2,
+      "16": 1
+    },
+    "by_day": {
+      "Friday": 12,
+      "Wednesday": 4,
+      "Tuesday": 1,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.05,
+    "dept_average_30d": 4.09,
+    "dept_rank": 602,
+    "dept_size": 642
+  }
+}

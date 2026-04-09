@@ -1,0 +1,269 @@
+{
+  "username": "fernando.calderon",
+  "name": "Fernando Calderon",
+  "generated_at": "2026-04-08T20:22:13.602265",
+  "summary": {
+    "message_count": 846,
+    "channels_active": 21,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.4,
+      "pos_count": 24,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I've enqueued it to merge. Here's the infra PR to add readiness probe and minReadySeconds to all transactional consumers",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! that makes things easier\n\nI'm seeing this",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave-frog: :back:\n\nI'm going to merge this PR today and monitor the next deployment. Let me know if something needs my attention in the meantime,",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Some notes before I log off :bufo-vacation:\n\n\u2022 <https://github.com/Shopify/infrastructure/pull/38214|[Mozart] Add regional",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "ok the job is done, i do see the new target on infra central - want me to click the redeploy button?",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "awesome will try again!\n\nthese new replicas should have been created for new canary zero deployments, we did not patch the runtime instance id (my",
+          "channel": "mozart-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "for hedwig redis - i thought regular redis would be different but i was wrong",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that! alright let's do 2 things today:\n\n\u2022 replace the alert to page due to high number of enqueued requests instead\n\u2022 bump the max of",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "nice!! thank you Mark :frog-pray:",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! yes the team is looking at tuning the HPA thresholds, we have an alert to page oncall where autoscaler is maxed out for web-rpc and looks",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; you mean the traffic routes right? We'll just have one routing layer that will be able to send traffic to both (or only one or whatever in a",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "abrar.habib",
+          "count": 13
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 11
+        },
+        {
+          "user": "brett.marx",
+          "count": 9
+        },
+        {
+          "user": "mark.blum",
+          "count": 7
+        },
+        {
+          "user": "adam.archibald",
+          "count": 5
+        },
+        {
+          "user": "carlin.scuderi",
+          "count": 5
+        },
+        {
+          "user": "casey.rockwell",
+          "count": 3
+        },
+        {
+          "user": "dave.benvenuti",
+          "count": 3
+        },
+        {
+          "user": "david.aminpriddle",
+          "count": 3
+        },
+        {
+          "user": "jeffrey.loppert",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.2,
+      "count": 248,
+      "top_channels": [
+        {
+          "channel": "proj-tier1-infra-mozart",
+          "messages": 310
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 266
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 69
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 66
+        },
+        {
+          "channel": "inv-20783-mozart-brief-tcp-accept-queues-filled-up",
+          "messages": 60
+        },
+        {
+          "channel": "inv-20932-mozart-journey-errors-causing-high-utiliz",
+          "messages": 23
+        },
+        {
+          "channel": "inc-19967-melody-hedwig-out-of-memory",
+          "messages": 10
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 9
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 6
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "dave.benvenuti",
+          "count": 29
+        },
+        {
+          "user": "juliana.andrada",
+          "count": 11
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 10
+        },
+        {
+          "user": "mark.blum",
+          "count": 8
+        },
+        {
+          "user": "brett.marx",
+          "count": 4
+        },
+        {
+          "user": "carlin.scuderi",
+          "count": 3
+        },
+        {
+          "user": "adam.archibald",
+          "count": 3
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 3
+        },
+        {
+          "user": "robert.wang",
+          "count": 3
+        },
+        {
+          "user": "derek.wu",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 113,
+      "17": 76,
+      "16": 102,
+      "15": 83,
+      "14": 83,
+      "22": 25,
+      "21": 67,
+      "20": 129,
+      "19": 132,
+      "0": 1,
+      "23": 24,
+      "13": 11
+    },
+    "by_day": {
+      "Wednesday": 85,
+      "Tuesday": 282,
+      "Monday": 130,
+      "Friday": 208,
+      "Thursday": 141
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.58,
+    "dept_average_30d": 5.58,
+    "dept_rank": 41,
+    "dept_size": 398
+  }
+}

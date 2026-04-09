@@ -1,0 +1,261 @@
+{
+  "username": "annie.caron",
+  "name": "Annie Caron",
+  "generated_at": "2026-04-08T20:22:13.057741",
+  "summary": {
+    "message_count": 433,
+    "channels_active": 20,
+    "unique_people_mentioned": 59,
+    "unique_mentioners": 41,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W0197J1EE8Y> you have a tracking issue <https://github.com/shop/issues-measurement/issues/2023>, but the",
+          "channel": "proj-data-storage-merchant-marketing-yugabyte",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: <!here> <https://shopify.slack.com/archives/C09GZB704AW/p1774883207947889> Following the announcement, we have a new ask for the",
+          "channel": "proj-data-storage-merchant-marketing-yugabyte",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Tests are still stable today :+1:  The dashboard is looking good - the read committed and collation remaining are really blocked for now. Thanks",
+          "channel": "proj-data-storage-merchant-marketing-yugabyte",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "let me book for noon, sorry about that",
+          "channel": "proj-favorite-primitives",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave:  I would like to ship 2 migrations whenever it is possible. Currently, it keeps failing unless I get a window without something migrating. Can",
+          "channel": "inc-20137-failures-on-world-storefront-renderer",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you everyone",
+          "channel": "help-customers",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "thanks to you on fixing this :raised_hands:",
+          "channel": "help-customers",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "From Claude\n\n\nHere's what I found \u2014 ownership is murky:\n\n*Not assigned to any team in `slices.yml`.* The adword coupon files are not listed in any",
+          "channel": "help-customers",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 61,
+      "top_mentioned": [
+        {
+          "user": "julianojulio.costa",
+          "count": 10
+        },
+        {
+          "user": "matt.cameron",
+          "count": 8
+        },
+        {
+          "user": "philibert.dugas",
+          "count": 7
+        },
+        {
+          "user": "ash.charles",
+          "count": 7
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 6
+        },
+        {
+          "user": "said.madi",
+          "count": 6
+        },
+        {
+          "user": "eric.liang",
+          "count": 6
+        },
+        {
+          "user": "nolan.jardine",
+          "count": 6
+        },
+        {
+          "user": "derek.stride",
+          "count": 5
+        },
+        {
+          "user": "kyra.stephen",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.95,
+      "count": 288,
+      "top_channels": [
+        {
+          "channel": "help-customers",
+          "messages": 99
+        },
+        {
+          "channel": "proj-data-storage-merchant-marketing-yugabyte",
+          "messages": 74
+        },
+        {
+          "channel": "proj-erasure-hold-removal",
+          "messages": 59
+        },
+        {
+          "channel": "orders-rest-gql-parity-migration",
+          "messages": 34
+        },
+        {
+          "channel": "dw-buyer-activity-monitoring",
+          "messages": 34
+        },
+        {
+          "channel": "proj-favorite-primitives",
+          "messages": 30
+        },
+        {
+          "channel": "customers-operations",
+          "messages": 21
+        },
+        {
+          "channel": "proj-multichannel-consent",
+          "messages": 20
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 11
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 80,
+      "top_mentioners": [
+        {
+          "user": "matt.cameron",
+          "count": 10
+        },
+        {
+          "user": "ash.charles",
+          "count": 5
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 4
+        },
+        {
+          "user": "debora.setton",
+          "count": 4
+        },
+        {
+          "user": "kazuki.higashiguchi",
+          "count": 4
+        },
+        {
+          "user": "kenneth.ng",
+          "count": 3
+        },
+        {
+          "user": "chris.wang",
+          "count": 3
+        },
+        {
+          "user": "daniel.parpal",
+          "count": 3
+        },
+        {
+          "user": "nolan.jardine",
+          "count": 3
+        },
+        {
+          "user": "michael.go",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 53,
+      "17": 14,
+      "15": 50,
+      "14": 79,
+      "13": 85,
+      "12": 48,
+      "19": 29,
+      "20": 17,
+      "16": 29,
+      "11": 9,
+      "21": 15,
+      "22": 5
+    },
+    "by_day": {
+      "Wednesday": 114,
+      "Tuesday": 95,
+      "Thursday": 92,
+      "Monday": 54,
+      "Friday": 78
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.96,
+    "dept_average_30d": 5.77,
+    "dept_rank": 61,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "username": "colin.iuliano",
+  "name": "Colin Iuliano",
+  "generated_at": "2026-04-08T20:22:20.941104",
+  "summary": {
+    "message_count": 300,
+    "channels_active": 16,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "dope lmk if i can help but i am away from my laptop atm",
+          "channel": "identity-operations",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "wonderful thank you!",
+          "channel": "infra-central",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ahh thank you",
+          "channel": "tmp-identity-jwks-resiliency",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you need any help! cheers",
+          "channel": "proj-identity-jwks-resiliency",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "nvm old branch apparently, my bad",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we've been rolling out passkeys stuff in Identity which would be different than whatever they've been using in the past - likely that passkey is for",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "santosh.bhadri",
+          "count": 4
+        },
+        {
+          "user": "peter.lazzarino",
+          "count": 3
+        },
+        {
+          "user": "pablo.valdes",
+          "count": 2
+        },
+        {
+          "user": "marco.araujo",
+          "count": 1
+        },
+        {
+          "user": "derek.yu",
+          "count": 1
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 1
+        },
+        {
+          "user": "rachel.carvalho",
+          "count": 1
+        },
+        {
+          "user": "aman.adhav",
+          "count": 1
+        },
+        {
+          "user": "kartiki.sharma",
+          "count": 1
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.36,
+      "count": 204,
+      "top_channels": [
+        {
+          "channel": "tmp-identity-jwks-resiliency",
+          "messages": 123
+        },
+        {
+          "channel": "proj-merchant-edge-sessions",
+          "messages": 71
+        },
+        {
+          "channel": "authentication-river",
+          "messages": 16
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 16
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 14
+        },
+        {
+          "channel": "identity-operations",
+          "messages": 11
+        },
+        {
+          "channel": "colin-river-public",
+          "messages": 9
+        },
+        {
+          "channel": "infra-central",
+          "messages": 8
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20874-jwks-resiliency-gameday",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "peter.lazzarino",
+          "count": 7
+        },
+        {
+          "user": "kartiki.sharma",
+          "count": 5
+        },
+        {
+          "user": "heather.knowlton",
+          "count": 4
+        },
+        {
+          "user": "aman.adhav",
+          "count": 3
+        },
+        {
+          "user": "pablo.valdes",
+          "count": 2
+        },
+        {
+          "user": "trevor.feeney",
+          "count": 2
+        },
+        {
+          "user": "santosh.bhadri",
+          "count": 1
+        },
+        {
+          "user": "ben.lerchin",
+          "count": 1
+        },
+        {
+          "user": "rolando.penate",
+          "count": 1
+        },
+        {
+          "user": "josh.bregar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 38,
+      "14": 48,
+      "13": 36,
+      "12": 5,
+      "21": 6,
+      "19": 41,
+      "18": 29,
+      "15": 45,
+      "1": 6,
+      "17": 11,
+      "0": 2,
+      "23": 2,
+      "11": 3,
+      "20": 28
+    },
+    "by_day": {
+      "Wednesday": 93,
+      "Tuesday": 65,
+      "Monday": 23,
+      "Friday": 51,
+      "Thursday": 68
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 541,
+    "dept_size": 1233
+  }
+}

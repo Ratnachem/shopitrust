@@ -1,0 +1,66 @@
+{
+  "username": "stewart.jones",
+  "name": "Stewart Jones",
+  "generated_at": "2026-04-08T20:22:32.064464",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 1,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 0,
+    "days_in_window": 18,
+    "days_scale": 0.78
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team, I need a manual reset of my OKTA password. Can someone please help? Thank you! ",
+          "channel": "help-it",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-it",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 2,
+      "19": 1
+    },
+    "by_day": {
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.37,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1661,
+    "dept_size": 1663
+  }
+}

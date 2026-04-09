@@ -1,0 +1,291 @@
+{
+  "username": "sam.schmidt",
+  "name": "Sam Schmidt",
+  "generated_at": "2026-04-08T20:22:06.684767",
+  "summary": {
+    "message_count": 1392,
+    "channels_active": 50,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 46,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 8,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Monitor CI and let me know if there are any failures <@U0AEPQCKB3M>",
+          "channel": "deliver-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "if you can figure out a reliable way to identify these flakes and reopens, that would be amazing",
+          "channel": "tmp-merch-x-core-ci-stability",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "paged, thanks!",
+          "channel": "team-ci",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<https://river-wheel.quick.shopify.io/main-pollution/today.html?zone=areas%2Fcore%2Fshopify&amp;view=combined|Build linking seems to be good now on",
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Metrics to help drill into this by impact (Let me know if any of these look off, I only put this together today, releasing early to help with the",
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "this Pi extension is amazing: <https://github.com/shopify-playground/shop-pi-fy/tree/main/extensions/shopify-data>\n\nGives it the ability to query",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to reuse anything useful from it: <https://github.com/shopify-playground/wheel>",
+          "channel": "river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I can't look into it further until I\u2019m back, feel free to pick it up",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Focus on a fix. I don't care if it's broken or just flaky, both are bad. <@U0AEPQCKB3M>",
+          "channel": "river-core-main-pollution",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "<@U0AEPQCKB3M> look up metrics on redis retries in tests RetryHelper.retry_attempt with tag component: redis_helper. If those counters are firing\n",
+          "channel": "the-raft-on-the-river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; so that tag is basically useless now\nwhat's stopping us from nuking it?",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://app.graphite.com/github/pr/shop/world/477402|Going to try and ship this GraphQLTestHelper improvement today>. It doesn't fix any slowness -",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It\u2019s never been in Shopify, you\u2019re pulling a nonexistent repo. Kelly\u2019s link is correct.\n\nI don't use vault mcp, so no idea - alex inherits whatever",
+          "channel": "alex-assistant",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 21
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 10
+        },
+        {
+          "user": "philip.tolton",
+          "count": 10
+        },
+        {
+          "user": "tobias.bales",
+          "count": 10
+        },
+        {
+          "user": "chao.duan",
+          "count": 7
+        },
+        {
+          "user": "jeffrey.bagdis",
+          "count": 5
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 5
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 3
+        },
+        {
+          "user": "martin.samson",
+          "count": 3
+        },
+        {
+          "user": "aiden.storey",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 429,
+      "top_channels": [
+        {
+          "channel": "deliver-river",
+          "messages": 427
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 304
+        },
+        {
+          "channel": "river-turns-the-wheel",
+          "messages": 210
+        },
+        {
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "messages": 62
+        },
+        {
+          "channel": "the-raft-on-the-river",
+          "messages": 56
+        },
+        {
+          "channel": "proj-eng-fast-core-tests",
+          "messages": 36
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 35
+        },
+        {
+          "channel": "river-core-main-pollution",
+          "messages": 33
+        },
+        {
+          "channel": "river",
+          "messages": 27
+        },
+        {
+          "channel": "proj-efficiency-anomaly-detection",
+          "messages": 24
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 103,
+      "top_mentioners": [
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 10
+        },
+        {
+          "user": "tobias.bales",
+          "count": 8
+        },
+        {
+          "user": "jeffrey.bagdis",
+          "count": 6
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 6
+        },
+        {
+          "user": "martin.samson",
+          "count": 4
+        },
+        {
+          "user": "carson.huang",
+          "count": 4
+        },
+        {
+          "user": "alan.hill",
+          "count": 4
+        },
+        {
+          "user": "chao.duan",
+          "count": 4
+        },
+        {
+          "user": "dan.robinson",
+          "count": 3
+        },
+        {
+          "user": "vasile.gorcinschi",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 208,
+      "16": 59,
+      "15": 197,
+      "14": 169,
+      "13": 115,
+      "12": 36,
+      "19": 172,
+      "17": 164,
+      "11": 19,
+      "10": 10,
+      "23": 7,
+      "22": 11,
+      "2": 6,
+      "20": 177,
+      "8": 2,
+      "7": 5,
+      "6": 1,
+      "0": 13,
+      "21": 19,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 270,
+      "Tuesday": 225,
+      "Monday": 264,
+      "Friday": 292,
+      "Thursday": 341
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.94,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1,
+    "dept_size": 1233
+  }
+}

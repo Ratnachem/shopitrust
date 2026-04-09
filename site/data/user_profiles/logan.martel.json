@@ -1,0 +1,260 @@
+{
+  "username": "logan.martel",
+  "name": "Logan Martel",
+  "generated_at": "2026-04-08T20:22:25.749061",
+  "summary": {
+    "message_count": 107,
+    "channels_active": 14,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Yeah, feel free to wire that up through Magellan if you like. I had held off on that and went with env variable just for simplicity in getting this",
+          "channel": "liquid-vm-perf-data",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Okay, thanks for the heads up. Feel free to ping me this evening if it does look like we'll have a quiet window to ship.\n\nOtherwise, I'll message in",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": ":wave: , <@U02CX0RV94G> <@W01A5L5U0QY> , hi, I believe you are both today's deploy ATC's and was wondering if I could get your help with",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Thanks Justin :bow: . I booked us tentatively for ~15:00 EST today \u2014 but apologies for the short notice so feel free to decline or reschedule if that",
+          "channel": "liquid-vm-perf-data",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "It can wait till next week primarily to line up our ducks for this but tagging-in <@W018HTHA2RZ> preemptively to help coordinate some of the Infra",
+          "channel": "liquid-vm-perf-data",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "The MVP so far is super exciting but re:\n&gt; ready for a Release review\nI would actually nudge maybe to go for a `prototype\u2014&gt;build` review given",
+          "channel": "liquid-vm-perf-data",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hmm, hopefully the upper-bound for a normal deploy is ~30minutes-ish as I'd feel bad delaying the pipeline too much, but I understand the value in",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": ":wave: , <@U02CX0RV94G> <@W01A5L5U0QY> , hi, I believe you are both today's deploy ATC's and was wondering if I could get your help with",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>, can you please prepare to port the `observe` CLI at `areas/core/storefront/bin/observe-cli` over to `areas/tools/observe-cli` ? In",
+          "channel": "river-lm",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "sean.guntvedt",
+          "count": 10
+        },
+        {
+          "user": "paul.stubley",
+          "count": 3
+        },
+        {
+          "user": "sam.obrien",
+          "count": 3
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 2
+        },
+        {
+          "user": "guillaume.malette",
+          "count": 2
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 2
+        },
+        {
+          "user": "philip.tolton",
+          "count": 2
+        },
+        {
+          "user": "marco.rudilosso",
+          "count": 1
+        },
+        {
+          "user": "dominic.petrick",
+          "count": 1
+        },
+        {
+          "user": "ian.kerseymer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.81,
+      "count": 175,
+      "top_channels": [
+        {
+          "channel": "liquid-vm-perf-data",
+          "messages": 56
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 18
+        },
+        {
+          "channel": "river-lm",
+          "messages": 12
+        },
+        {
+          "channel": "team-core-applications",
+          "messages": 6
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 2
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "river",
+          "messages": 2
+        },
+        {
+          "channel": "proj-storefronts-storefront-replay",
+          "messages": 2
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 2
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "paul.stubley",
+          "count": 7
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 5
+        },
+        {
+          "user": "sean.guntvedt",
+          "count": 4
+        },
+        {
+          "user": "youxin.li",
+          "count": 4
+        },
+        {
+          "user": "ram.vemula",
+          "count": 2
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 2
+        },
+        {
+          "user": "alex.corey",
+          "count": 1
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 1
+        },
+        {
+          "user": "jacob.lott",
+          "count": 1
+        },
+        {
+          "user": "debora.setton",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "5": 9,
+      "20": 7,
+      "4": 8,
+      "3": 2,
+      "2": 8,
+      "1": 5,
+      "22": 11,
+      "21": 23,
+      "19": 7,
+      "18": 7,
+      "15": 6,
+      "11": 1,
+      "0": 4,
+      "16": 5,
+      "17": 2,
+      "7": 1,
+      "6": 1
+    },
+    "by_day": {
+      "Wednesday": 19,
+      "Tuesday": 22,
+      "Monday": 12,
+      "Friday": 21,
+      "Thursday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.27,
+    "dept_average_30d": 5.79,
+    "dept_rank": 286,
+    "dept_size": 1233
+  }
+}

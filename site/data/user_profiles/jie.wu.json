@@ -1,0 +1,271 @@
+{
+  "username": "jie.wu",
+  "name": "Jie Wu",
+  "generated_at": "2026-04-08T20:22:26.390998",
+  "summary": {
+    "message_count": 248,
+    "channels_active": 13,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 17,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":til-today-i-learned: you can prompt the agent to add a skill to itself\nthank you both for fixing it",
+          "channel": "proj-infra-agentic-terraform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-shiba: Morning! I hope things has been going well these past 2 weeks. Thank you <@U07P8GQTF98> for these updates, it has been helpful getting",
+          "channel": "proj-iam-permissions-analysis",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Eric! Sorry haven't had chance to sync up, currently away at conference this week",
+          "channel": "tmp-sync-infra-security-action-item-to-vault",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@W01830290QP> <@U0866TUAQSU>\n\nI updated with the PR description with more context on the work",
+          "channel": "tmp-sync-infra-security-action-item-to-vault",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "this is awesome to see, thank you for adding this <@U085WKZHZDF>",
+          "channel": "proj-iam-permissions-analysis",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah ok, I see, thank you for the detailed update Charlie",
+          "channel": "google-external-security",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for updating it, all lgtm 4/4 :gh-check:",
+          "channel": "proj-iam-permissions-analysis",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "understood, thank you for looking into this Charlie",
+          "channel": "google-external-security",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Morning folks! I added evidences for the <https://github.com/orgs/Shopify/projects/13709/views/13?filterQuery=label%3AInfrasec|issues assigned to",
+          "channel": "proj-2026-pci-assessment",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for the update\n\ndo note that we have already move the perimeter back to dry run mode to unblock teams. We haven't gotten errors since then.",
+          "channel": "google-external-security",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have access to <https://console.cloud.google.com/welcome?inv=1&invt=AbnrBw&project=shopify-o11y-clickhouse-byoc>",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "pulkit.garg",
+          "count": 9
+        },
+        {
+          "user": "martin.zhao",
+          "count": 4
+        },
+        {
+          "user": "guillaume.jacques",
+          "count": 3
+        },
+        {
+          "user": "soundarya.ramani",
+          "count": 2
+        },
+        {
+          "user": "pedro.deoliveirapereira",
+          "count": 2
+        },
+        {
+          "user": "pablo.rocco",
+          "count": 1
+        },
+        {
+          "user": "riley.shott",
+          "count": 1
+        },
+        {
+          "user": "eric.yang",
+          "count": 1
+        },
+        {
+          "user": "nam.pham",
+          "count": 1
+        },
+        {
+          "user": "amit.dandekar",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.23,
+      "count": 144,
+      "top_channels": [
+        {
+          "channel": "proj-iam-permissions-analysis",
+          "messages": 68
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 43
+        },
+        {
+          "channel": "proj-infra-agentic-terraform",
+          "messages": 40
+        },
+        {
+          "channel": "tmp-sync-infra-security-action-item-to-vault",
+          "messages": 36
+        },
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 12
+        },
+        {
+          "channel": "help-ris",
+          "messages": 12
+        },
+        {
+          "channel": "temp-sdp-vpcsc-alerts",
+          "messages": 11
+        },
+        {
+          "channel": "inc-19928-google-sales-channel-app-experiencing-oau",
+          "messages": 8
+        },
+        {
+          "channel": "proj-trust-issue-management",
+          "messages": 6
+        },
+        {
+          "channel": "dev-degree",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "pulkit.garg",
+          "count": 15
+        },
+        {
+          "user": "soundarya.ramani",
+          "count": 7
+        },
+        {
+          "user": "guillaume.jacques",
+          "count": 5
+        },
+        {
+          "user": "brian.warsing",
+          "count": 3
+        },
+        {
+          "user": "quinn.fahey",
+          "count": 3
+        },
+        {
+          "user": "eric.yang",
+          "count": 2
+        },
+        {
+          "user": "margaret.syms",
+          "count": 2
+        },
+        {
+          "user": "charlieallan",
+          "count": 2
+        },
+        {
+          "user": "pedro.deoliveira-5241",
+          "count": 2
+        },
+        {
+          "user": "riley.shott",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 17,
+      "21": 14,
+      "20": 23,
+      "19": 55,
+      "18": 17,
+      "17": 34,
+      "13": 24,
+      "12": 7,
+      "16": 12,
+      "15": 11,
+      "11": 2,
+      "23": 7,
+      "14": 24,
+      "0": 1
+    },
+    "by_day": {
+      "Tuesday": 97,
+      "Monday": 35,
+      "Thursday": 38,
+      "Wednesday": 42,
+      "Friday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 8.14,
+    "dept_average_30d": 4.89,
+    "dept_rank": 9,
+    "dept_size": 237
+  }
+}

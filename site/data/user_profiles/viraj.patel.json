@@ -1,0 +1,116 @@
+{
+  "username": "viraj.patel",
+  "name": "Viraj Patel",
+  "generated_at": "2026-04-08T20:22:29.828791",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U09TM2FBFDF> - I know this sounds stupid but try to fully quit, restart your computer and relaunch.  I had a similar issue where closing it out and",
+          "channel": "claude-code",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "shane.kleinstein",
+          "count": 1
+        },
+        {
+          "user": "sam.zun",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.98,
+      "count": 184,
+      "top_channels": [
+        {
+          "channel": "supreme-court",
+          "messages": 7
+        },
+        {
+          "channel": "help-finance-tech",
+          "messages": 2
+        },
+        {
+          "channel": "claude-code",
+          "messages": 1
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 1
+        },
+        {
+          "channel": "gworkspace-mcp",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "christine.mimnagh-820",
+          "count": 1
+        },
+        {
+          "user": "sam.zun",
+          "count": 1
+        },
+        {
+          "user": "ciquinya.morton",
+          "count": 1
+        },
+        {
+          "user": "madeline.komen",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 2,
+      "16": 2,
+      "14": 2,
+      "12": 1,
+      "21": 2,
+      "19": 1,
+      "20": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Friday": 3,
+      "Tuesday": 4,
+      "Thursday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 4.15,
+    "dept_average_30d": 4.35,
+    "dept_rank": 83,
+    "dept_size": 151
+  }
+}

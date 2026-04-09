@@ -1,0 +1,217 @@
+{
+  "username": "michael.cooney",
+  "name": "Michael Cooney",
+  "generated_at": "2026-04-08T20:22:21.271553",
+  "summary": {
+    "message_count": 280,
+    "channels_active": 13,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 3,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We could add a throttle for the DB so that in the event of GCS failures we still don't torture it beyond whatever threshold we want to set",
+          "channel": "proj-shopifyvm-onbox",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "What do we need to do to get the beta turned back on? Should we dig in to what happened to MySQL? Should we wait for the",
+          "channel": "proj-shopifyvm-onbox",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "(we should figure it out at some point, but probably don't drop what you're doing)",
+          "channel": "shopifyvm-platform-ops",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "adam.petro",
+          "count": 3
+        },
+        {
+          "user": "saga.dasgupta",
+          "count": 3
+        },
+        {
+          "user": "joshua.crocker",
+          "count": 1
+        },
+        {
+          "user": "ernie.makris",
+          "count": 1
+        },
+        {
+          "user": "jacob.steves",
+          "count": 1
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 1
+        },
+        {
+          "user": "maxime.bedard",
+          "count": 1
+        },
+        {
+          "user": "darren.foo",
+          "count": 1
+        },
+        {
+          "user": "devon.boyer",
+          "count": 1
+        },
+        {
+          "user": "jeff.charles",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.69,
+      "count": 71,
+      "top_channels": [
+        {
+          "channel": "proj-shopifyvm-onbox",
+          "messages": 122
+        },
+        {
+          "channel": "inv-19996-runtimeenginecputhrottlinginuscentral1",
+          "messages": 61
+        },
+        {
+          "channel": "shopifyvm-platform-ops",
+          "messages": 44
+        },
+        {
+          "channel": "inv-21223-wasmtime-critical-security-vulnerability-",
+          "messages": 30
+        },
+        {
+          "channel": "proj-functions-tracify-logs",
+          "messages": 5
+        },
+        {
+          "channel": "shopifyvm",
+          "messages": 4
+        },
+        {
+          "channel": "proj-functions-decommission-off-box-architecture",
+          "messages": 3
+        },
+        {
+          "channel": "tmp-extension-centralization-migration",
+          "messages": 3
+        },
+        {
+          "channel": "shopifyvm-infrastructure-ops",
+          "messages": 3
+        },
+        {
+          "channel": "shopifyvm-infra-prs",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "ernie.makris",
+          "count": 2
+        },
+        {
+          "user": "phong.pham",
+          "count": 2
+        },
+        {
+          "user": "achit.ojha",
+          "count": 2
+        },
+        {
+          "user": "david.cameron",
+          "count": 1
+        },
+        {
+          "user": "sheldon.nunes",
+          "count": 1
+        },
+        {
+          "user": "jacob.steves",
+          "count": 1
+        },
+        {
+          "user": "simon.levasseur",
+          "count": 1
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 1
+        },
+        {
+          "user": "alexandre.bradley",
+          "count": 1
+        },
+        {
+          "user": "saga.dasgupta",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3,
+      "15": 26,
+      "13": 23,
+      "18": 41,
+      "17": 34,
+      "14": 48,
+      "22": 9,
+      "4": 1,
+      "0": 7,
+      "21": 5,
+      "20": 20,
+      "19": 25,
+      "23": 9,
+      "12": 1,
+      "3": 4,
+      "2": 5,
+      "1": 19
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 75,
+      "Monday": 38,
+      "Friday": 19,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.17,
+    "dept_average_30d": 5.79,
+    "dept_rank": 939,
+    "dept_size": 1233
+  }
+}

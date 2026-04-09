@@ -1,0 +1,279 @@
+{
+  "username": "isaac.roldan",
+  "name": "Isaac Roldan",
+  "generated_at": "2026-04-08T20:22:17.814022",
+  "summary": {
+    "message_count": 575,
+    "channels_active": 24,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U03AW6A6TL6> feel free to join!",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Did a quick tophat and everything seems to be working as expected! no bars left visible and no lines being cut :slightly_smiling_face:\nGreat work",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "I wrote all that logic :v:\nThe script takes the command configs at runtime to generate the docs, happy to help with anything ",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@W0197GNLP88> :pray:",
+          "channel": "online-store-developer-platforms",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@W0197GNLP88> Do you want to split the QA work? I can help with half of it. We really need to have the CLI release out soon but i know QA is long!",
+          "channel": "online-store-developer-platforms",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey! yes, QA is completed, all found bugs fixed. Just waiting on the themes part to continue the release process.\nLet me know if you want to take",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, a bad conflict resolution in a PR merged yesterday removed a line and caused this.\nHere is the PR, looking for reviews",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Fonso will be out until next week, I can help with this",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "awesome :slightly_smiling_face:\nSorry about the bug though :bow:",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "agree with Craig, great work on this <@U02J954V1K5> :noice-kp:",
+          "channel": "devtools-proj-cli-tokens-dev-dash",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think this is the most likely scenario, `SHOPIFY_FLAG_STORE`  will always overwrite whatever is in the project.json",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Now, I think there is some confusion on what this \u201cclientSteps\u201d is doing, and the namings are probably not helping. We are not moving any \u201cbuild\u201d",
+          "channel": "tmp-generic-build-steps-for-extensions",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "gonzalo.riestra",
+          "count": 18
+        },
+        {
+          "user": "craig.martin",
+          "count": 15
+        },
+        {
+          "user": "nick.wesselman",
+          "count": 11
+        },
+        {
+          "user": "donald.merand",
+          "count": 6
+        },
+        {
+          "user": "alfonso.noriega",
+          "count": 6
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 5
+        },
+        {
+          "user": "phil.mcclelland",
+          "count": 5
+        },
+        {
+          "user": "elizabeth.kenyon",
+          "count": 4
+        },
+        {
+          "user": "martin.morissette",
+          "count": 4
+        },
+        {
+          "user": "natalie.oldroyd",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.46,
+      "count": 262,
+      "top_channels": [
+        {
+          "channel": "devtools-proj-cli-tokens-dev-dash",
+          "messages": 182
+        },
+        {
+          "channel": "devtools-dev-experience",
+          "messages": 143
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 79
+        },
+        {
+          "channel": "online-store-developer-platforms",
+          "messages": 33
+        },
+        {
+          "channel": "proj-multi-channel",
+          "messages": 24
+        },
+        {
+          "channel": "isaac-river",
+          "messages": 23
+        },
+        {
+          "channel": "tmp-generic-build-steps-for-extensions",
+          "messages": 16
+        },
+        {
+          "channel": "dev-platform-ops",
+          "messages": 14
+        },
+        {
+          "channel": "proj-app-hosted-frontend",
+          "messages": 9
+        },
+        {
+          "channel": "devtools-proj-agent-plugins",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 104,
+      "top_mentioners": [
+        {
+          "user": "julie.antunovic",
+          "count": 13
+        },
+        {
+          "user": "nick.wesselman",
+          "count": 10
+        },
+        {
+          "user": "donald.merand",
+          "count": 8
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 8
+        },
+        {
+          "user": "laurel.king",
+          "count": 6
+        },
+        {
+          "user": "craig.martin",
+          "count": 6
+        },
+        {
+          "user": "trish.ta",
+          "count": 5
+        },
+        {
+          "user": "natalie.oldroyd",
+          "count": 3
+        },
+        {
+          "user": "gonzalo.riestra",
+          "count": 3
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 56,
+      "16": 85,
+      "15": 71,
+      "14": 77,
+      "9": 66,
+      "8": 37,
+      "19": 15,
+      "13": 51,
+      "12": 31,
+      "11": 34,
+      "10": 23,
+      "21": 1,
+      "20": 6,
+      "18": 14,
+      "7": 8
+    },
+    "by_day": {
+      "Wednesday": 168,
+      "Tuesday": 109,
+      "Thursday": 153,
+      "Monday": 49,
+      "Friday": 96
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.56,
+    "dept_average_30d": 5.79,
+    "dept_rank": 164,
+    "dept_size": 1233
+  }
+}

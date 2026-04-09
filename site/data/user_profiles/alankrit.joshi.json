@@ -1,0 +1,234 @@
+{
+  "username": "alankrit.joshi",
+  "name": "Alankrit Joshi",
+  "generated_at": "2026-04-08T20:22:25.547372",
+  "summary": {
+    "message_count": 176,
+    "channels_active": 17,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "updated! let me know if you think there's something missing",
+          "channel": "pi",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! Follow up: <https://github.com/Shopify/terraform-the-cloud/pull/56135>",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U03GRQBHVU3>, for this incident action item to create an alert for",
+          "channel": "inv-19349-bigquery-slot-contention-in-data-platform",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I've my own graphite skill and it still doesn't bother lol. Sometimes it forgets to track the branch, claims graphite is stupid and starts doing git",
+          "channel": "pi",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Tried to figure it out but attempts failed so far: what sets the `PI_PROXY_API_KEY`?",
+          "channel": "\u03c0",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "joe.gee",
+          "count": 5
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 3
+        },
+        {
+          "user": "dan.peach",
+          "count": 2
+        },
+        {
+          "user": "alex.djordjevic",
+          "count": 2
+        },
+        {
+          "user": "austin.kim",
+          "count": 1
+        },
+        {
+          "user": "mikhail.berezovskiy",
+          "count": 1
+        },
+        {
+          "user": "ian.robertson",
+          "count": 1
+        },
+        {
+          "user": "nick.wareing",
+          "count": 1
+        },
+        {
+          "user": "jeannaly.cruz",
+          "count": 1
+        },
+        {
+          "user": "anthony.tasca",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.92,
+      "count": 130,
+      "top_channels": [
+        {
+          "channel": "inv-21185-lineage-snapshots-failing",
+          "messages": 50
+        },
+        {
+          "channel": "proj-data-platform-data-discovery",
+          "messages": 42
+        },
+        {
+          "channel": "infra-central",
+          "messages": 16
+        },
+        {
+          "channel": "data-platform-tools-notify",
+          "messages": 16
+        },
+        {
+          "channel": "pi",
+          "messages": 16
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 6
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 5
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 4
+        },
+        {
+          "channel": "transformation-health-monitoring",
+          "messages": 4
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.75,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "jacob.bush",
+          "count": 4
+        },
+        {
+          "user": "alex.djordjevic",
+          "count": 2
+        },
+        {
+          "user": "joe.gee",
+          "count": 2
+        },
+        {
+          "user": "anthony.tasca",
+          "count": 2
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 2
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 1
+        },
+        {
+          "user": "mikhail.berezovskiy",
+          "count": 1
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "joel.gerber",
+          "count": 1
+        },
+        {
+          "user": "nick.wareing",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "8": 2,
+      "16": 23,
+      "15": 13,
+      "14": 10,
+      "13": 1,
+      "7": 1,
+      "6": 3,
+      "0": 2,
+      "23": 4,
+      "22": 16,
+      "21": 25,
+      "20": 16,
+      "19": 7,
+      "18": 16,
+      "17": 32,
+      "12": 1,
+      "4": 2,
+      "2": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Tuesday": 50,
+      "Monday": 53,
+      "Friday": 23,
+      "Thursday": 32
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.71,
+    "dept_average_30d": 5.75,
+    "dept_rank": 165,
+    "dept_size": 357
+  }
+}

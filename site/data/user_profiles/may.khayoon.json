@@ -1,0 +1,107 @@
+{
+  "username": "may.khayoon",
+  "name": "May Khayoon",
+  "generated_at": "2026-04-08T20:22:30.945512",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 2,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey! I\u2019m working with our US immigration vendor and need written confirmation on a few standard employer questions.\n1. *Financials*: Should I",
+          "channel": "help-subsidiaries",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Team! We have a 2025 *Purchase Order #21077770* (Holland &amp; Knight) that should still be active and has remaining funds available. We have",
+          "channel": "help-finance",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "vera.gracheva",
+          "count": 3
+        },
+        {
+          "user": "miho.akizuki",
+          "count": 2
+        },
+        {
+          "user": "allie.speers",
+          "count": 1
+        },
+        {
+          "user": "ugonma.onuigbo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.23,
+      "count": 59,
+      "top_channels": [
+        {
+          "channel": "help-subsidiaries",
+          "messages": 6
+        },
+        {
+          "channel": "help-finance",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "vera.gracheva",
+          "count": 2
+        },
+        {
+          "user": "zubair.salimi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 3,
+      "18": 2,
+      "12": 2,
+      "19": 1
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Friday": 3,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Legal",
+    "user_score_30d": 3.54,
+    "dept_average_30d": 4.2,
+    "dept_rank": 69,
+    "dept_size": 82
+  }
+}

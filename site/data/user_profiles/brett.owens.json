@@ -1,0 +1,231 @@
+{
+  "username": "brett.owens",
+  "name": "Brett Owens",
+  "generated_at": "2026-04-08T20:22:27.932655",
+  "summary": {
+    "message_count": 57,
+    "channels_active": 12,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Now that the Failing Tests pipeline is more stable, I'll be firing these notifications back up weekly. Please let me know if you see any errors.",
+          "channel": "yugabyte-dashboard-notifications",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "*Update:* Following your feedback on the correctness phase <https://shopify.slack.com/archives/C09GZB704AW/p1774883207947889|we kicked off",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it! Ideally we would have staggered these more but we can't hold off on having teams push forward if we want to be ready in July",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "I've only seen a handful of folks generate a video for their proposal but kudos to this",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "This isn't a hardware issue, just looking for a contact so we can keep your teams in the loop. thanks!",
+          "channel": "help-it",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Sounds great, let me know when/where I can help!",
+          "channel": "core-read-committed-migration",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "michael.go",
+          "count": 8
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "philip.tolton",
+          "count": 2
+        },
+        {
+          "user": "derek.stride",
+          "count": 1
+        },
+        {
+          "user": "cameron.marentette",
+          "count": 1
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 1
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 1
+        },
+        {
+          "user": "trevor.feeney",
+          "count": 1
+        },
+        {
+          "user": "david.ward",
+          "count": 1
+        },
+        {
+          "user": "david.levasseur",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.28,
+      "count": 147,
+      "top_channels": [
+        {
+          "channel": "yugabyte-mission",
+          "messages": 17
+        },
+        {
+          "channel": "yugabyte-dashboard-notifications",
+          "messages": 14
+        },
+        {
+          "channel": "ds-yugabyte-collab",
+          "messages": 7
+        },
+        {
+          "channel": "proj-yugabyte-thestore",
+          "messages": 6
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 4
+        },
+        {
+          "channel": "help-it",
+          "messages": 3
+        },
+        {
+          "channel": "db-mobility",
+          "messages": 1
+        },
+        {
+          "channel": "proj-infra-yugabyte-it-store",
+          "messages": 1
+        },
+        {
+          "channel": "tmp-more-gcp-east",
+          "messages": 1
+        },
+        {
+          "channel": "bretts-river-channel",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "mitch.dickinson",
+          "count": 8
+        },
+        {
+          "user": "adam.rubinstein",
+          "count": 8
+        },
+        {
+          "user": "emilie.noel",
+          "count": 3
+        },
+        {
+          "user": "annie.caron",
+          "count": 2
+        },
+        {
+          "user": "phong.pham",
+          "count": 1
+        },
+        {
+          "user": "ian.robertson",
+          "count": 1
+        },
+        {
+          "user": "philip.tolton",
+          "count": 1
+        },
+        {
+          "user": "harley.balabanian",
+          "count": 1
+        },
+        {
+          "user": "philibert.dugas",
+          "count": 1
+        },
+        {
+          "user": "brad.wright",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 9,
+      "16": 4,
+      "14": 7,
+      "13": 16,
+      "20": 4,
+      "18": 3,
+      "15": 7,
+      "21": 2,
+      "12": 2,
+      "19": 3
+    },
+    "by_day": {
+      "Tuesday": 22,
+      "Thursday": 8,
+      "Monday": 15,
+      "Friday": 3,
+      "Wednesday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 5.36,
+    "dept_average_30d": 4.56,
+    "dept_rank": 18,
+    "dept_size": 74
+  }
+}

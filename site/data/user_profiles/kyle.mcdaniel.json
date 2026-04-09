@@ -1,0 +1,267 @@
+{
+  "username": "kyle.mcdaniel",
+  "name": "Kyle McDaniel",
+  "generated_at": "2026-04-08T20:22:13.432591",
+  "summary": {
+    "message_count": 405,
+    "channels_active": 12,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 12,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "LMK if that doesn't unstick. Happy to help",
+          "channel": "dev-ai-algo",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "cool beans, thanks!",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I found a few repos that slipped through yesterday's incident / revert. A couple bugs caused the status to be marked as \"already done\" instead of",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Required check sync for Shopify org is done. Here's where we landed:\n\n:white_check_mark: *512 repos enrolled* (310 created, 202 updated)\n:x: *14",
+          "channel": "proj-eng-monorepo-llm-reviews",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh crap, thank you",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it that should be straightforward! Thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey hey - feel free to click the rerun button!! That should hopefully clear things up. I've seen this a few times today but it wasn't a consistent",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I'm merged, want me to look at those before we releaes?",
+          "channel": "dev-ai-algo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "See a build failure, want me to own from here? Happy if you got it, just want to facilitate",
+          "channel": "dev-ai-algo",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Those all LOOKED to be flowing or else I didn't actually see them use Graphite MQ. That's the core gap in the selection today, I missed that a few of",
+          "channel": "inv-20987-binks-429s-is-blocking-merges",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "jin.li",
+          "count": 4
+        },
+        {
+          "user": "will.goldstein",
+          "count": 4
+        },
+        {
+          "user": "baoze.lin",
+          "count": 3
+        },
+        {
+          "user": "sebastien.bruel",
+          "count": 1
+        },
+        {
+          "user": "mike.fang",
+          "count": 1
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "peter.petrov",
+          "count": 1
+        },
+        {
+          "user": "francois.leblanc",
+          "count": 1
+        },
+        {
+          "user": "eric.proulx",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.17,
+      "count": 194,
+      "top_channels": [
+        {
+          "channel": "projects-dev-ai",
+          "messages": 273
+        },
+        {
+          "channel": "help-observability",
+          "messages": 23
+        },
+        {
+          "channel": "dev-ai-algo",
+          "messages": 23
+        },
+        {
+          "channel": "proj-eng-monorepo-llm-reviews",
+          "messages": 22
+        },
+        {
+          "channel": "inv-20876-merge-queues-seems-to-be-blocked-by-binks",
+          "messages": 16
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20987-binks-429s-is-blocking-merges",
+          "messages": 12
+        },
+        {
+          "channel": "team-ci",
+          "messages": 9
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "will.goldstein",
+          "count": 10
+        },
+        {
+          "user": "jin.li",
+          "count": 9
+        },
+        {
+          "user": "peter.petrov",
+          "count": 9
+        },
+        {
+          "user": "travis.a.smith",
+          "count": 4
+        },
+        {
+          "user": "mike.fang",
+          "count": 3
+        },
+        {
+          "user": "nathan.fabergood",
+          "count": 2
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 2
+        },
+        {
+          "user": "ramses.lopez",
+          "count": 1
+        },
+        {
+          "user": "mike.welsh",
+          "count": 1
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 64,
+      "14": 46,
+      "20": 43,
+      "17": 69,
+      "16": 29,
+      "21": 27,
+      "19": 44,
+      "15": 55,
+      "13": 3,
+      "2": 3,
+      "1": 6,
+      "22": 12,
+      "12": 1,
+      "23": 3
+    },
+    "by_day": {
+      "Wednesday": 145,
+      "Friday": 34,
+      "Thursday": 35,
+      "Tuesday": 99,
+      "Monday": 92
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.74,
+    "dept_average_30d": 5.75,
+    "dept_rank": 161,
+    "dept_size": 357
+  }
+}

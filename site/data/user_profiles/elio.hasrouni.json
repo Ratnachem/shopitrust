@@ -1,0 +1,295 @@
+{
+  "username": "elio.hasrouni",
+  "name": "Elio Hasrouni",
+  "generated_at": "2026-04-08T20:22:12.912733",
+  "summary": {
+    "message_count": 418,
+    "channels_active": 15,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.5,
+      "pos_count": 24,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you again for taking a stab at it",
+          "channel": "stripe-data-pipeline-leverage",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team! the release of the cutover for the project is scheduled for tonight at 7PM EST (12:00 UTC), please let me know if you have any blocking",
+          "channel": "estimated-rev-unified-pipeline",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "sox-data-warehouse-monitoring",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I'll do it later today",
+          "channel": "sox-data-warehouse-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yeah exactly, I think the same, thank you Bony! I think we should clean that up :sweat_smile:",
+          "channel": "shopify-payments-russbot",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "honestly, regardless it should be fairly quick, feel free to do it",
+          "channel": "help-russbot",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Steven! I can tag Cris for anything remaining in DBT then :raised_hands:, for those 2 specific PRs, I will need Russbot rails experienced",
+          "channel": "estimated-rev-unified-pipeline",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sounds good thanks! regardless, I'll post an update later in the week with some stats in this channel, as I'll be running validations",
+          "channel": "estimated-rev-unified-pipeline",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if that makes sense",
+          "channel": "estimated-rev-unified-pipeline",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey <@W0197HZL0FJ> <@W018HNP4HGA>, just repinging for a review please :bless: let me know if you have any questions, I can walk you through the",
+          "channel": "estimated-rev-unified-pipeline",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we can check observe for that specific one for the job time you ran it for, to see if it ran or is still enqueued or whatever",
+          "channel": "russbot-operations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "btw, it was peaking at 132, so whatever remains now will be ~12x slower",
+          "channel": "russbot-operations",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I started an <https://docs.google.com/document/d/171v7ynoZmVpmpRl6Lh1xkA6eslvV5y9BktB2PWTuIUo/edit?tab=t.0|agenda> (very WIP) for today's retro that",
+          "channel": "inc-19910-investigate-increasing-mysql-cpu-usage",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "if not I can figure it out, no stress :stuck_out_tongue:",
+          "channel": "inc-19910-investigate-increasing-mysql-cpu-usage",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "amalia.gomez",
+          "count": 11
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 10
+        },
+        {
+          "user": "yazad.khambata",
+          "count": 8
+        },
+        {
+          "user": "jeremie.david",
+          "count": 6
+        },
+        {
+          "user": "devin.wood",
+          "count": 4
+        },
+        {
+          "user": "bony.roopchandani",
+          "count": 3
+        },
+        {
+          "user": "francesco.ferazzoli",
+          "count": 2
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 2
+        },
+        {
+          "user": "steven.wu",
+          "count": 2
+        },
+        {
+          "user": "jennifer.beckert",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.12,
+      "count": 244,
+      "top_channels": [
+        {
+          "channel": "russbot-operations",
+          "messages": 131
+        },
+        {
+          "channel": "estimated-rev-unified-pipeline",
+          "messages": 61
+        },
+        {
+          "channel": "inv-19910-investigate-increasing-mysql-cpu-usage",
+          "messages": 48
+        },
+        {
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "messages": 46
+        },
+        {
+          "channel": "help-ris",
+          "messages": 31
+        },
+        {
+          "channel": "help-russbot",
+          "messages": 27
+        },
+        {
+          "channel": "proj-sox-data-platform",
+          "messages": 16
+        },
+        {
+          "channel": "inc-19910-investigate-increasing-mysql-cpu-usage",
+          "messages": 16
+        },
+        {
+          "channel": "sox-data-warehouse-monitoring",
+          "messages": 14
+        },
+        {
+          "channel": "shopify-payments-russbot",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.33,
+      "count": 56,
+      "top_mentioners": [
+        {
+          "user": "amalia.gomez",
+          "count": 14
+        },
+        {
+          "user": "steven.wu",
+          "count": 8
+        },
+        {
+          "user": "jeremie.david",
+          "count": 5
+        },
+        {
+          "user": "yazad.khambata",
+          "count": 5
+        },
+        {
+          "user": "brian.warsing",
+          "count": 4
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 4
+        },
+        {
+          "user": "pedro.baracho",
+          "count": 3
+        },
+        {
+          "user": "bony.roopchandani",
+          "count": 2
+        },
+        {
+          "user": "emanuele.vicentini",
+          "count": 2
+        },
+        {
+          "user": "devin.wood",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 31,
+      "20": 59,
+      "19": 51,
+      "17": 28,
+      "15": 41,
+      "13": 41,
+      "11": 2,
+      "2": 9,
+      "0": 16,
+      "21": 20,
+      "16": 21,
+      "14": 58,
+      "12": 8,
+      "10": 1,
+      "1": 17,
+      "23": 8,
+      "22": 7
+    },
+    "by_day": {
+      "Wednesday": 70,
+      "Tuesday": 128,
+      "Monday": 84,
+      "Thursday": 59,
+      "Friday": 77
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 6.17,
+    "dept_average_30d": 4.35,
+    "dept_rank": 3,
+    "dept_size": 151
+  }
+}

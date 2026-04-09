@@ -1,0 +1,270 @@
+{
+  "username": "kennedy.murphy",
+  "name": "Kennedy Murphy",
+  "generated_at": "2026-04-08T20:22:23.200672",
+  "summary": {
+    "message_count": 258,
+    "channels_active": 25,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 25,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey! I think this has been resolved and was a timeliness issue. I am seeing `ref_date_pst` values for 2026-04-06 but please let me know if there is",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey team! I am going to archive this channel. If there are any attribution questions in the future, please feel free to reach out to the team at",
+          "channel": "proj-ai-attribution",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I\u2019ll hold off on shipping the v3 -&gt; v4 PR and work on introducing `environment` to the grain of v4.",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team!\n\nI am working on moving gcp_billing_daily_summary in the data warehouse from <https://github.com/Shopify/data-warehouse/pull/42192|v3 ->",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks for shipping this!\n\n:fyi: I am going to be shipping a version bump in gcp_billing_daily_summary v3 -&gt; v4 with",
+          "channel": "sf-xo-b2b-merch-data-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "But I've got the review from here. Thanks!",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I had asked Tyler to add this to the warehouse. I won\u2019t be able to take a look at this today but will try to review it ASAP",
+          "channel": "dw-infra",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to tag me in the PR for a review",
+          "channel": "sf-xo-b2b-merch-data-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing! That\u2019s great news. Thank you!",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing! That\u2019s great news. Thank you!",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "This has shipped. You should have access to the prod table now: `shopify-dw.mart_infrastructure_data.infra_central_cost_container_daily_costs`",
+          "channel": "proj-ai-attribution",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "alan.strahinic",
+          "count": 5
+        },
+        {
+          "user": "youmi.koh",
+          "count": 5
+        },
+        {
+          "user": "t.tesfaye",
+          "count": 5
+        },
+        {
+          "user": "john.comar",
+          "count": 3
+        },
+        {
+          "user": "ben.schmidt",
+          "count": 3
+        },
+        {
+          "user": "marvin.davila",
+          "count": 3
+        },
+        {
+          "user": "margaret.andersonkilfoil",
+          "count": 3
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 2
+        },
+        {
+          "user": "vinay.shah",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.43,
+      "count": 313,
+      "top_channels": [
+        {
+          "channel": "dw-infra-data-goalie",
+          "messages": 65
+        },
+        {
+          "channel": "proj-ai-attribution",
+          "messages": 34
+        },
+        {
+          "channel": "green-team-data",
+          "messages": 25
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 14
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 14
+        },
+        {
+          "channel": "ai-data",
+          "messages": 12
+        },
+        {
+          "channel": "ml-infrastructure-users",
+          "messages": 10
+        },
+        {
+          "channel": "help-observability",
+          "messages": 9
+        },
+        {
+          "channel": "help-data-notebooks",
+          "messages": 8
+        },
+        {
+          "channel": "dw-infra-river",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 103,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 15
+        },
+        {
+          "user": "t.tesfaye",
+          "count": 12
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 9
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 8
+        },
+        {
+          "user": "john.comar",
+          "count": 5
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 5
+        },
+        {
+          "user": "vasile.gorcinschi",
+          "count": 5
+        },
+        {
+          "user": "greg.dodd",
+          "count": 5
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 5
+        },
+        {
+          "user": "chao.duan",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 33,
+      "12": 30,
+      "19": 35,
+      "15": 25,
+      "13": 45,
+      "23": 1,
+      "18": 33,
+      "20": 12,
+      "17": 17,
+      "16": 19,
+      "22": 5,
+      "21": 1,
+      "11": 2
+    },
+    "by_day": {
+      "Wednesday": 54,
+      "Tuesday": 67,
+      "Thursday": 43,
+      "Monday": 42,
+      "Friday": 52
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.86,
+    "dept_average_30d": 5.39,
+    "dept_rank": 15,
+    "dept_size": 272
+  }
+}

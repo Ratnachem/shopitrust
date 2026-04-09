@@ -1,0 +1,125 @@
+{
+  "username": "evan.zhao",
+  "name": "Evan Zhao",
+  "generated_at": "2026-04-08T20:22:14.358901",
+  "summary": {
+    "message_count": 63,
+    "channels_active": 6,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 19,
+    "days_scale": 0.83
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you so much!",
+          "channel": "help-kepler",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team, I'm currently developing a new Slack bot to add to our Build workspace to replace our dependence on ServicesDB's bot on sending messages.",
+          "channel": "help-kepler",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that, I thought the `slack_opt_out` flag covered paging too :pensive:",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.1,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "lucas.bajolet",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.06,
+      "count": 45,
+      "top_channels": [
+        {
+          "channel": "proj-infra-katesql-migration",
+          "messages": 33
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 15
+        },
+        {
+          "channel": "katesql-ops",
+          "messages": 7
+        },
+        {
+          "channel": "katesql-deploys-staging",
+          "messages": 3
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 3
+        },
+        {
+          "channel": "katesql-deploys",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.76,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "james.zhu",
+          "count": 2
+        },
+        {
+          "user": "lucas.bajolet",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 16,
+      "17": 12,
+      "15": 3,
+      "14": 8,
+      "20": 7,
+      "19": 13,
+      "16": 1,
+      "21": 1,
+      "13": 2
+    },
+    "by_day": {
+      "Wednesday": 12,
+      "Tuesday": 9,
+      "Monday": 15,
+      "Thursday": 13,
+      "Friday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.32,
+    "dept_average_30d": 4.74,
+    "dept_rank": 969,
+    "dept_size": 1663
+  }
+}

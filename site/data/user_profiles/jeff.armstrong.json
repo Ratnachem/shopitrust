@@ -1,0 +1,245 @@
+{
+  "username": "jeff.armstrong",
+  "name": "Jeff Armstrong",
+  "generated_at": "2026-04-08T20:22:14.835178",
+  "summary": {
+    "message_count": 376,
+    "channels_active": 26,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.7,
+      "pos_count": 2,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing!\nIs there a separate vault project to track the work being done on infrastructure rollback?",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm going to verify the recovery/materializer soak is good. Feel free to join me if you have ideas on checks to perform.",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U07C312AJBZ>, the condition is checking if any one single line item is Variant 1 AND Variant 2 AND Variant 3, which is impossible.\n\nIf you want to",
+          "channel": "help-flow",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "hard to know what name is best until we know what we're implementing\n\nif we don't care about the name as much, this channel has the most relevant",
+          "channel": "flow-project-iterator",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W018PU3LVNY> I think this warrants a deep dive. If this were to happen again on any of our other consumers it could have very serious consequences",
+          "channel": "inc-20231-multiple-kafka-consumers-with-lag-in-flow",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; What is the fallback behaviour configured when the consumer is not able to access kafka and get the last committed offset?\nI don't think we have",
+          "channel": "inc-20231-multiple-kafka-consumers-with-lag-in-flow",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hi <@U05RY082MD0>,\n\nIt looks like there are a few options missing in the selector for `Payment Terms Template`. According to the API, we're missing",
+          "channel": "help-flow",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I organize my channels into groups in the sidebar. Starred channels go to the top (current projects, main flow channels like <#C015H7QQNKD>",
+          "channel": "flow-team",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "timothy.willard",
+          "count": 7
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 5
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 4
+        },
+        {
+          "user": "paul.nuschke",
+          "count": 3
+        },
+        {
+          "user": "carol.yun",
+          "count": 3
+        },
+        {
+          "user": "joynicole.rivero",
+          "count": 2
+        },
+        {
+          "user": "christal.lin",
+          "count": 2
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 2
+        },
+        {
+          "user": "dave.mcvittie",
+          "count": 2
+        },
+        {
+          "user": "robert.mic",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.43,
+      "count": 117,
+      "top_channels": [
+        {
+          "channel": "proj-flow-regional-flow",
+          "messages": 102
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 49
+        },
+        {
+          "channel": "flow-execution-team",
+          "messages": 40
+        },
+        {
+          "channel": "help-flow",
+          "messages": 32
+        },
+        {
+          "channel": "jeff-armstrong-river",
+          "messages": 25
+        },
+        {
+          "channel": "flow-project-iterator",
+          "messages": 25
+        },
+        {
+          "channel": "flow-development",
+          "messages": 22
+        },
+        {
+          "channel": "inc-20231-multiple-kafka-consumers-with-lag-in-flow",
+          "messages": 18
+        },
+        {
+          "channel": "flow-tasks-team",
+          "messages": 14
+        },
+        {
+          "channel": "flow-team",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.35,
+      "count": 37,
+      "top_mentioners": [
+        {
+          "user": "jeff.kehres",
+          "count": 8
+        },
+        {
+          "user": "lily.li",
+          "count": 4
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 4
+        },
+        {
+          "user": "robert.mic",
+          "count": 3
+        },
+        {
+          "user": "timothy.willard",
+          "count": 3
+        },
+        {
+          "user": "rupert.lee",
+          "count": 2
+        },
+        {
+          "user": "aline.manera",
+          "count": 2
+        },
+        {
+          "user": "michael.rokas",
+          "count": 2
+        },
+        {
+          "user": "joynicole.rivero",
+          "count": 1
+        },
+        {
+          "user": "mo.rafiquecontractor",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 57,
+      "20": 29,
+      "15": 66,
+      "14": 59,
+      "17": 62,
+      "13": 44,
+      "21": 9,
+      "16": 23,
+      "19": 27
+    },
+    "by_day": {
+      "Wednesday": 85,
+      "Tuesday": 87,
+      "Monday": 64,
+      "Friday": 69,
+      "Thursday": 71
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.0,
+    "dept_average_30d": 5.79,
+    "dept_rank": 999,
+    "dept_size": 1233
+  }
+}

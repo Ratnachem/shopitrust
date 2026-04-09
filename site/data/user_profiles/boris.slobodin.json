@@ -1,0 +1,340 @@
+{
+  "username": "boris.slobodin",
+  "name": "Boris Slobodin",
+  "generated_at": "2026-04-08T20:22:06.916433",
+  "summary": {
+    "message_count": 2057,
+    "channels_active": 72,
+    "unique_people_mentioned": 100,
+    "unique_mentioners": 75,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 35,
+      "neg_count": 30,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "fascinating. alright, i'm supportive of disabling it then to unblock shipping. happy to help monitor and adjust as needed.",
+          "channel": "trust-battery-resiliency",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "if it is feel free to close 7 i tested it there ",
+          "channel": "tool-gateway",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: :device-manager: device manager team question: have you included and considered the issues with session identifier in the scope of moving the",
+          "channel": "trust-battery-resiliency",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "keep me updated on next steps. i know there's still lots happening but can't always keep an eye on things where our involvement can be helpful. so",
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "as you all continue jamming on this i'd appreciate an end of day summary please whenever you wrap up and some aims for tomorrow. don't hesitate to",
+          "channel": "proj-device-manager-next-steps",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "obligatory reference to this amazing short story that seems quite fitting,\n&gt; They're Made out of",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018HNRNCN6> thank you!",
+          "channel": "proj-trust-battery-unified-policy",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "long story short, if it's just your team's decision and trust battery team isn't tagged in, you don't _need_ our reviews. but do feel free to ask if",
+          "channel": "trust-battery",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U099JMURD3K> i'll leave it to you. thank you, <@U0AEPQCKB3M>.",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "1. don't hesitate to just update the task to accept a batch instead of one, no issues there (will review in a few min)\n\nothers i'll let",
+          "channel": "proj-trust-battery-unified-policy",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "that feels like a lot to try to do in a maintenance task, can they be emitted to kafka from whatever their source is today?",
+          "channel": "trust-battery",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "sure whatever's easiest",
+          "channel": "inc-21213-trust-battery-decisions-erroring-due-to-b",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "nope, it resolved itself after a minute or two as i mentioned.",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we can reorder my handwavey steps above too",
+          "channel": "team-ci",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i _think_ what we want is something like,\n\u2022 *new* fresh fork of feast in `Shopify/feast` open source / public without any changes we've made or",
+          "channel": "team-ci",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "that way we can do whatever the heck we want privately, and only push curated contributions via forks upstream, at least that's how i'm reading the",
+          "channel": "team-ci",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "not sure how i feel about that. i'd almost prefer it be explicit,\n\u2022 `assert_monorail_produce_contains(\"my_cool_topic/4\", whatever)` matches all minor",
+          "channel": "trust-battery-ops",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "^ perfect, could use whatever `gt` equivalent of `gh` would be to achieve the same outcomes.",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "fwiw whatever llm agent you're working with locally, just ask it to update pr title and description for you and it'll have more context of your",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "before anyone asks, i don't want to make `value_as_string` optional as that would be a major schema change, so it'll need to be empty (or whatever)",
+          "channel": "trust-battery",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 105,
+      "top_mentioned": [
+        {
+          "user": "ruidan.ji",
+          "count": 26
+        },
+        {
+          "user": "artem.tartakynov",
+          "count": 17
+        },
+        {
+          "user": "colin.strong",
+          "count": 16
+        },
+        {
+          "user": "noah.simpson",
+          "count": 13
+        },
+        {
+          "user": "surya.dutta",
+          "count": 12
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 12
+        },
+        {
+          "user": "galen.palmer",
+          "count": 10
+        },
+        {
+          "user": "malick.sylla",
+          "count": 10
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 9
+        },
+        {
+          "user": "jeff.long",
+          "count": 9
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 703,
+      "top_channels": [
+        {
+          "channel": "inv-19646-devicemanager-database-at-risk",
+          "messages": 409
+        },
+        {
+          "channel": "proj-trust-battery-feature-platform",
+          "messages": 244
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 235
+        },
+        {
+          "channel": "proj-device-manager-next-steps",
+          "messages": 164
+        },
+        {
+          "channel": "trust-battery-ops",
+          "messages": 119
+        },
+        {
+          "channel": "proj-trust-battery-unified-policy",
+          "messages": 98
+        },
+        {
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "messages": 85
+        },
+        {
+          "channel": "trust-battery-resiliency",
+          "messages": 60
+        },
+        {
+          "channel": "inv-21060-redis-memory-low",
+          "messages": 57
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 53
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 194,
+      "top_mentioners": [
+        {
+          "user": "surya.dutta",
+          "count": 21
+        },
+        {
+          "user": "ildar.gumerov",
+          "count": 14
+        },
+        {
+          "user": "noah.simpson",
+          "count": 13
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 10
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 7
+        },
+        {
+          "user": "kate.studwell",
+          "count": 6
+        },
+        {
+          "user": "jenna.mccormick",
+          "count": 5
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 5
+        },
+        {
+          "user": "albert.chu",
+          "count": 5
+        },
+        {
+          "user": "xiao.li",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 164,
+      "17": 162,
+      "16": 198,
+      "15": 155,
+      "14": 178,
+      "13": 104,
+      "12": 57,
+      "11": 66,
+      "0": 58,
+      "23": 67,
+      "22": 182,
+      "21": 140,
+      "20": 201,
+      "19": 228,
+      "2": 23,
+      "1": 30,
+      "10": 26,
+      "5": 1,
+      "9": 1,
+      "7": 16
+    },
+    "by_day": {
+      "Wednesday": 436,
+      "Tuesday": 452,
+      "Monday": 328,
+      "Friday": 270,
+      "Thursday": 571
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 9.98,
+    "dept_average_30d": 5.75,
+    "dept_rank": 1,
+    "dept_size": 357
+  }
+}

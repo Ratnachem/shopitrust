@@ -1,0 +1,209 @@
+{
+  "username": "jake.hendrick",
+  "name": "Jake Hendrick",
+  "generated_at": "2026-04-08T20:22:18.091352",
+  "summary": {
+    "message_count": 166,
+    "channels_active": 5,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah yeah, needs to be linked the expected way. Thank you!",
+          "channel": "help-vault",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Noticed the /review extension was doing double output, addressed here:\n<https://github.com/Shopify/u2/pull/44513>\n\nFeel free to ship while I'm gone",
+          "channel": "vault-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "It's apologized:\n&gt;  Fair point \u2014 I was wrong on that. If the pod gets killed before the migration commits, schema_migrations stays empty and the",
+          "channel": "vault-bots",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "&gt;   He's right, I was wrong on that. Good catch from him.",
+          "channel": "vault-bots",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "I'm ATC today, so I guess LHF thanks to Josh's hard work yesterday! And Keith's PR this morning.\n\nAlso Savannah asked me to work on the River PR",
+          "channel": "vault-team",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "all the AI seems very stupid today :facepalm:",
+          "channel": "vault-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I have an extension that sets my thinking level based on the model I choose. Instead of defaulting to whatever I used last.\n\nHow does it determine",
+          "channel": "vault-team",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "zach.reynochiasson",
+          "count": 4
+        },
+        {
+          "user": "keith.thompson",
+          "count": 3
+        },
+        {
+          "user": "swati.swoboda",
+          "count": 3
+        },
+        {
+          "user": "katia.leroux",
+          "count": 2
+        },
+        {
+          "user": "shameel.abdullah",
+          "count": 2
+        },
+        {
+          "user": "beryl.wu",
+          "count": 1
+        },
+        {
+          "user": "dana.pizzolato",
+          "count": 1
+        },
+        {
+          "user": "sarah.lindsay",
+          "count": 1
+        },
+        {
+          "user": "emma.eagles",
+          "count": 1
+        },
+        {
+          "user": "savannah.mitchell",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.36,
+      "count": 36,
+      "top_channels": [
+        {
+          "channel": "vault-team",
+          "messages": 119
+        },
+        {
+          "channel": "vault-bots",
+          "messages": 29
+        },
+        {
+          "channel": "help-vault",
+          "messages": 12
+        },
+        {
+          "channel": "pi",
+          "messages": 5
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.17,
+      "count": 20,
+      "top_mentioners": [
+        {
+          "user": "swati.swoboda",
+          "count": 7
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 3
+        },
+        {
+          "user": "shameel.abdullah",
+          "count": 3
+        },
+        {
+          "user": "sarah.lindsay",
+          "count": 2
+        },
+        {
+          "user": "keith.thompson",
+          "count": 2
+        },
+        {
+          "user": "beryl.wu",
+          "count": 1
+        },
+        {
+          "user": "katia.leroux",
+          "count": 1
+        },
+        {
+          "user": "lindsay.mantzel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 12,
+      "16": 15,
+      "15": 39,
+      "14": 30,
+      "19": 19,
+      "18": 25,
+      "20": 14,
+      "13": 12
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 32,
+      "Thursday": 50,
+      "Monday": 26,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 5.48,
+    "dept_average_30d": 4.56,
+    "dept_rank": 15,
+    "dept_size": 74
+  }
+}

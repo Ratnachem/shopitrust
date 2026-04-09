@@ -1,0 +1,85 @@
+{
+  "username": "kyle.tate",
+  "name": "Kyle Tate",
+  "generated_at": "2026-04-08T20:22:26.590606",
+  "summary": {
+    "message_count": 35,
+    "channels_active": 1,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "lol yah, it's gunna be a mess; the good thing is that all the stuff in root fs are fake anyways so we can probably just overwrite with whatever the",
+          "channel": "conch-rv",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.49,
+      "count": 13,
+      "top_channels": [
+        {
+          "channel": "conch-rv",
+          "messages": 35
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 8,
+      "20": 5,
+      "18": 2,
+      "13": 3,
+      "17": 1,
+      "16": 7,
+      "14": 1,
+      "11": 1,
+      "22": 4,
+      "19": 1,
+      "15": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Tuesday": 10,
+      "Friday": 10,
+      "Thursday": 5,
+      "Wednesday": 6,
+      "Monday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 3.47,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1229,
+    "dept_size": 1233
+  }
+}

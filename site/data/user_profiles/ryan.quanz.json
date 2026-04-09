@@ -1,0 +1,229 @@
+{
+  "username": "ryan.quanz",
+  "name": "Ryan Quanz",
+  "generated_at": "2026-04-08T20:22:23.220045",
+  "summary": {
+    "message_count": 230,
+    "channels_active": 15,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@W018GA8LW93> these tables' (I suspect there are multiple offenders, even just in Core?) schemas are defined by the Shopify-owned Ledger gem and",
+          "channel": "banking-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> wrong thread, feel free to stop",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "There are quite a few typing changes on classes used in that task, I would assume it's that one of them resolved whatever was stopping that class",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "pre-work to try to consolidate disparate logic for submitting originated transfers to Stripe across various services in the `OriginatedTransfer`",
+          "channel": "proj-balance-multi-bank",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> verifying wiring. Is there anything we can do for the other checks, without starting up services/the db, you should have all gems you",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "robin.brandt",
+          "count": 5
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 3
+        },
+        {
+          "user": "nicholas.lewanowicz",
+          "count": 3
+        },
+        {
+          "user": "renee.ren",
+          "count": 2
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 2
+        },
+        {
+          "user": "paul.mason",
+          "count": 2
+        },
+        {
+          "user": "alex.selesse",
+          "count": 2
+        },
+        {
+          "user": "jeff.langdon",
+          "count": 2
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "mark.shan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.17,
+      "count": 194,
+      "top_channels": [
+        {
+          "channel": "banking-dev",
+          "messages": 79
+        },
+        {
+          "channel": "balance-exceptions",
+          "messages": 67
+        },
+        {
+          "channel": "inc-20445-incorrect-shopify-balance-bank-account-ba",
+          "messages": 17
+        },
+        {
+          "channel": "proj-ledgerize-banking",
+          "messages": 16
+        },
+        {
+          "channel": "proj-balance-multi-bank",
+          "messages": 15
+        },
+        {
+          "channel": "help-balance",
+          "messages": 11
+        },
+        {
+          "channel": "proj-balance-domestic-wire-transfers",
+          "messages": 6
+        },
+        {
+          "channel": "lending-credit-team",
+          "messages": 6
+        },
+        {
+          "channel": "proj-balance-atc",
+          "messages": 3
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 78,
+      "top_mentioners": [
+        {
+          "user": "robin.brandt",
+          "count": 23
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 20
+        },
+        {
+          "user": "chester.twomey",
+          "count": 9
+        },
+        {
+          "user": "anthony.moffa",
+          "count": 4
+        },
+        {
+          "user": "paul.mason",
+          "count": 4
+        },
+        {
+          "user": "devansh.malik",
+          "count": 3
+        },
+        {
+          "user": "maribel.romo",
+          "count": 3
+        },
+        {
+          "user": "mark.shan",
+          "count": 2
+        },
+        {
+          "user": "franck.delache",
+          "count": 2
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 52,
+      "20": 15,
+      "18": 42,
+      "17": 20,
+      "15": 25,
+      "13": 10,
+      "19": 23,
+      "12": 4,
+      "16": 9,
+      "21": 8,
+      "22": 11,
+      "0": 2,
+      "2": 2,
+      "1": 7
+    },
+    "by_day": {
+      "Wednesday": 48,
+      "Tuesday": 49,
+      "Monday": 66,
+      "Friday": 57,
+      "Thursday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.31,
+    "dept_average_30d": 5.77,
+    "dept_rank": 176,
+    "dept_size": 885
+  }
+}

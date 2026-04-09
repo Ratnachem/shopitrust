@@ -1,0 +1,257 @@
+{
+  "username": "vitor.correa",
+  "name": "Vitor Correa",
+  "generated_at": "2026-04-08T20:22:06.966290",
+  "summary": {
+    "message_count": 559,
+    "channels_active": 26,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 23,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 4,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":alert-intensifies: :alert-intensifies: *Shopkick bughunt*:alert-intensifies: :alert-intensifies:\n\n*What:* As shared on the daily standup, I booked",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":alert-intensifies: :alert-intensifies: *Shopkick bughunt*:alert-intensifies: :alert-intensifies:\n\n*What:* As shared on the daily standup, I booked",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sorry folks, ironing out evals :dead: I'll be on call tomorrow, feel free to revenge-eval",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": ":facepalm: my bad",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U0AEPQCKB3M> you are embarrassing me in front of the team you were supposed to oneshot this :facepalm:\n\nHere's the payload:\n\n```{\n  \"intrinsics\":",
+          "channel": "shop-agent-evals",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Blame",
+          "pattern": "why didn't you",
+          "text": "<@U0AEPQCKB3M> why didn't you activate on this workflow message?",
+          "channel": "shopkick-operations",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": ":dead: `git checkout -- .` maybe? I don't know, maybe let Claude run this for you and figure it out",
+          "channel": "shopkick-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":warning: :warning: :warning: *I'll declare this unified alerts experiment bankrupt <@W018WAZE717>* *<@W018WB1QH4Z>* *<@W018AV7LGUW>* :warning:",
+          "channel": "agent-server-unified-alerts",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Okay, I'm trying to learn about labels &amp; alerts a bit more so let me parrot back that to you to see if I understand:\n\nAlerts that are derived",
+          "channel": "help-observability",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.87,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "siddhant.bajaj",
+          "count": 23
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 20
+        },
+        {
+          "user": "tyler.rowsell",
+          "count": 8
+        },
+        {
+          "user": "philip.chan",
+          "count": 5
+        },
+        {
+          "user": "daniel.weng",
+          "count": 5
+        },
+        {
+          "user": "brandon.fonseca",
+          "count": 4
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 4
+        },
+        {
+          "user": "steel.ferguson",
+          "count": 4
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 4
+        },
+        {
+          "user": "chris.maltais",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.13,
+      "count": 234,
+      "top_channels": [
+        {
+          "channel": "proj-shopkick",
+          "messages": 194
+        },
+        {
+          "channel": "shop-agent-eng",
+          "messages": 56
+        },
+        {
+          "channel": "proj-consumer-with-sidekick",
+          "messages": 55
+        },
+        {
+          "channel": "shopkick-operations",
+          "messages": 50
+        },
+        {
+          "channel": "shopkick-team",
+          "messages": 33
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 23
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 23
+        },
+        {
+          "channel": "agent-server-unified-alerts",
+          "messages": 16
+        },
+        {
+          "channel": "tmp-unified-memory-on-agent-server",
+          "messages": 14
+        },
+        {
+          "channel": "help-observability",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 85,
+      "top_mentioners": [
+        {
+          "user": "brandon.fonseca",
+          "count": 15
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 14
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 11
+        },
+        {
+          "user": "alex.hauka",
+          "count": 7
+        },
+        {
+          "user": "daniel.weng",
+          "count": 6
+        },
+        {
+          "user": "mitchell.soares",
+          "count": 5
+        },
+        {
+          "user": "hilary.lyttle",
+          "count": 4
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 2
+        },
+        {
+          "user": "jared.rader",
+          "count": 2
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 59,
+      "16": 57,
+      "15": 73,
+      "14": 58,
+      "13": 55,
+      "20": 83,
+      "19": 44,
+      "12": 16,
+      "11": 4,
+      "17": 60,
+      "21": 35,
+      "22": 9,
+      "23": 5,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 153,
+      "Tuesday": 145,
+      "Thursday": 110,
+      "Monday": 88,
+      "Friday": 63
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.67,
+    "dept_average_30d": 4.74,
+    "dept_rank": 70,
+    "dept_size": 1663
+  }
+}

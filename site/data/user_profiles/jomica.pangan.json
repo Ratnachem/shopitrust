@@ -1,0 +1,92 @@
+{
+  "username": "jomica.pangan",
+  "name": "Jomica Pangan",
+  "generated_at": "2026-04-08T20:22:25.107485",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 0,
+    "days_in_window": 13,
+    "days_scale": 0.57
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-customers",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-flow",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it, i will let the merchant know, thank you for your help!",
+          "channel": "help-flow",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 5.42,
+      "count": 87,
+      "top_channels": [
+        {
+          "channel": "help-customers",
+          "messages": 5
+        },
+        {
+          "channel": "help-flow",
+          "messages": 5
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 7,
+      "14": 1,
+      "13": 3,
+      "9": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Tuesday": 5,
+      "Monday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.2,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1034,
+    "dept_size": 1663
+  }
+}

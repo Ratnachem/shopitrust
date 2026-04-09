@@ -1,0 +1,295 @@
+{
+  "username": "caroline",
+  "name": "Caroline",
+  "generated_at": "2026-04-08T20:22:16.734673",
+  "summary": {
+    "message_count": 454,
+    "channels_active": 23,
+    "unique_people_mentioned": 57,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 20,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "The asterisk `*` is syntax so we will send those to ElasticSearch, thank you.",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U096K1H4TC3>",
+          "channel": "search-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U05RHBU7PQF>!",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":point_right: :verdant-express: _if the issue can't be replicated on a fresh install of the Dawn or Horizon theme, it's unlikely to be an issue with",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Rucha!",
+          "channel": "proj-search-storefront-search-throttle",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I can confirm it had not been applied, <@U0229MVLG4Q>. I just checked, and I have now added it. My bad! Super sorry. It's on now!",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Justin.",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need me to do anything. Should I add it to the merge queue normally <@U08MY8RCABW>?",
+          "channel": "inv-20464-introduced-backward-incompatible-change-t",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay thank you, I did that, and we are all set now with the flag being operational <@U0278GGL6RY>",
+          "channel": "help-exp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "> Was there any specific reason we didn't give merchants a heads up to change URLs in advance of this change?\nWe had already completed about half of",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ah correct, whatever you feel is more optimal. It does feel like we are decoupling things: having a Set list of controllers on one hand (in decider)",
+          "channel": "proj-search-storefront-search-throttle",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "&gt; cache contamination would happen in these controllers now, no?\nbut do we care? what is even going on there? should aggregations be allowed? play",
+          "channel": "proj-search-storefront-search-throttle",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Rucha I think you will figure it out, and if you need any help we can pair tomorrow",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W0197J1CY72> BOTH staging apps are installed in my shop here: <https://admin.shopify.com/store/caro-ultimate-test-store> feel free to do whatever",
+          "channel": "search-serving-team",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioned": [
+        {
+          "user": "brenda.segal",
+          "count": 10
+        },
+        {
+          "user": "rucha.dalsania",
+          "count": 6
+        },
+        {
+          "user": "michael.herold",
+          "count": 6
+        },
+        {
+          "user": "fernando.galvezluis",
+          "count": 3
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 3
+        },
+        {
+          "user": "angel.manese",
+          "count": 3
+        },
+        {
+          "user": "daniel.qiu",
+          "count": 3
+        },
+        {
+          "user": "marcus.montalban",
+          "count": 3
+        },
+        {
+          "user": "shana.yogan",
+          "count": 3
+        },
+        {
+          "user": "lucas.hentges",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.39,
+      "count": 258,
+      "top_channels": [
+        {
+          "channel": "help-search-serving",
+          "messages": 149
+        },
+        {
+          "channel": "tmp-search-serving-resilience",
+          "messages": 62
+        },
+        {
+          "channel": "proj-search-storefront-search-throttle",
+          "messages": 57
+        },
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 41
+        },
+        {
+          "channel": "inc-19499-storefront-filters-not-appearing-in-some",
+          "messages": 29
+        },
+        {
+          "channel": "river-search-serving",
+          "messages": 21
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 16
+        },
+        {
+          "channel": "search-location-signals",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20464-introduced-backward-incompatible-change-t",
+          "messages": 13
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 88,
+      "top_mentioners": [
+        {
+          "user": "brenda.segal",
+          "count": 10
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 9
+        },
+        {
+          "user": "rucha.dalsania",
+          "count": 9
+        },
+        {
+          "user": "rahim.daya",
+          "count": 4
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 4
+        },
+        {
+          "user": "shana.yogan",
+          "count": 4
+        },
+        {
+          "user": "kyle.giesbrecht",
+          "count": 3
+        },
+        {
+          "user": "scarlett.thibodeau",
+          "count": 3
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 3
+        },
+        {
+          "user": "dorothy.aragona",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 39,
+      "13": 38,
+      "4": 14,
+      "3": 7,
+      "2": 8,
+      "23": 24,
+      "22": 42,
+      "21": 40,
+      "20": 28,
+      "16": 39,
+      "14": 23,
+      "0": 29,
+      "15": 33,
+      "18": 39,
+      "12": 12,
+      "19": 29,
+      "1": 10
+    },
+    "by_day": {
+      "Wednesday": 87,
+      "Tuesday": 141,
+      "Monday": 92,
+      "Friday": 96,
+      "Thursday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.56,
+    "dept_average_30d": 4.74,
+    "dept_rank": 85,
+    "dept_size": 1663
+  }
+}

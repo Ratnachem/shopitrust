@@ -1,0 +1,161 @@
+{
+  "username": "matthew.ferderber",
+  "name": "Matthew Ferderber",
+  "generated_at": "2026-04-08T20:22:19.689136",
+  "summary": {
+    "message_count": 158,
+    "channels_active": 7,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!! could I get this one as well for our staging env? <https://infra-central.shopify.io/proposals/13030?unfurl=false>",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "perfect! sorry about this, I guess nix decided to switch things up at some point and the issue only comes up when doing a fresh build",
+          "channel": "help-customers",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "reviewing now, thanks!",
+          "channel": "help-customers",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "otherwise it's whatever but PRs get stale after 12hrs in world or something",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "do you have any opinions on this <@U08H2SA9BFG>?\n&gt; Storing event refinery data does not mean your project is necessarily `default-to-closed`. In",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "gabriel.tanchen",
+          "count": 2
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 2
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.19,
+      "count": 142,
+      "top_channels": [
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 87
+        },
+        {
+          "channel": "customer-data-platform-ops",
+          "messages": 28
+        },
+        {
+          "channel": "help-customers",
+          "messages": 21
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 9
+        },
+        {
+          "channel": "infra-central",
+          "messages": 7
+        },
+        {
+          "channel": "burst-batch-audience-engine-march-2026",
+          "messages": 4
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.46,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "francois.campeau",
+          "count": 2
+        },
+        {
+          "user": "steven.scott",
+          "count": 2
+        },
+        {
+          "user": "ash.charles",
+          "count": 2
+        },
+        {
+          "user": "phil.coggins",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 19,
+      "22": 4,
+      "21": 13,
+      "14": 19,
+      "20": 33,
+      "19": 22,
+      "15": 11,
+      "18": 12,
+      "17": 18,
+      "13": 7
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Tuesday": 27,
+      "Monday": 8,
+      "Friday": 50,
+      "Thursday": 46
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.3,
+    "dept_average_30d": 5.77,
+    "dept_rank": 626,
+    "dept_size": 885
+  }
+}

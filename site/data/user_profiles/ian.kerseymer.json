@@ -1,0 +1,256 @@
+{
+  "username": "ian.kerseymer",
+  "name": "Ian Kerseymer",
+  "generated_at": "2026-04-08T20:22:12.278948",
+  "summary": {
+    "message_count": 339,
+    "channels_active": 31,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 25,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U098PMC1932> :green_heart:",
+          "channel": "inv-21207-graphite-prs-cycling-through-draft-batche",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> thank you. but those slack channels are not real.",
+          "channel": "river-core-applications",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "if we run into some compile issues w `+mtune` lmk, i can help fix",
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "this PR should fix a number of ci-queue issues (including fixing a bug which allows failing tests to make it into `main`), if anyone has :eyes: i",
+          "channel": "team-core-applications",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U07CJ9HFFN0> <@U021UPVMWSY> <@U07C185C6HM> went through and addressed PR comments on nts, should be good to go. if i missed stuff, please feel free",
+          "channel": "proj-storefronts-processing-time",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> checked \u2014 you're right to be concerned. the `/app/sccache/cache` MountedCache is only added in `RustAppLayer#initialize` (line 83),",
+          "channel": "team-core-applications",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> couple corrections + findings from digging through shopify-build source:\n\n1. liquid_vm_sfr is a *source gem*, not prebuilt from",
+          "channel": "team-core-applications",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ah sorry, I think those are the liquid-vm-sfr configs. The pipeline that's failing is `liquid-vm` (not `liquid-vm-sfr`). The config is",
+          "channel": "river",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.78,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "marco.rudilosso",
+          "count": 7
+        },
+        {
+          "user": "dominic.petrick",
+          "count": 7
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 7
+        },
+        {
+          "user": "guillaume.malette",
+          "count": 3
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 3
+        },
+        {
+          "user": "thad.craft",
+          "count": 1
+        },
+        {
+          "user": "edouard.chin",
+          "count": 1
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 1
+        },
+        {
+          "user": "kush.patel",
+          "count": 1
+        },
+        {
+          "user": "ziyad.abdelmaguid",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.46,
+      "count": 301,
+      "top_channels": [
+        {
+          "channel": "proj-storefronts-processing-time",
+          "messages": 97
+        },
+        {
+          "channel": "team-core-applications",
+          "messages": 37
+        },
+        {
+          "channel": "inc-20367-combined-product-listings-showing-as-sold",
+          "messages": 30
+        },
+        {
+          "channel": "liquid-perf",
+          "messages": 23
+        },
+        {
+          "channel": "inv-21207-graphite-prs-cycling-through-draft-batche",
+          "messages": 22
+        },
+        {
+          "channel": "inc-20426-investigation-on-rollout-not-showing-for",
+          "messages": 20
+        },
+        {
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "messages": 11
+        },
+        {
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "messages": 10
+        },
+        {
+          "channel": "river",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.38,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "andreas.heiberg",
+          "count": 11
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 7
+        },
+        {
+          "user": "dominic.petrick",
+          "count": 5
+        },
+        {
+          "user": "thad.craft",
+          "count": 3
+        },
+        {
+          "user": "michael.go",
+          "count": 2
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 2
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        },
+        {
+          "user": "justin.reid",
+          "count": 2
+        },
+        {
+          "user": "iain.wilson",
+          "count": 2
+        },
+        {
+          "user": "luke.hickin",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 31,
+      "16": 24,
+      "15": 33,
+      "13": 26,
+      "7": 5,
+      "19": 41,
+      "17": 21,
+      "14": 34,
+      "12": 17,
+      "11": 1,
+      "2": 4,
+      "1": 7,
+      "21": 14,
+      "4": 8,
+      "3": 16,
+      "20": 48,
+      "0": 1,
+      "6": 2,
+      "23": 5,
+      "5": 1
+    },
+    "by_day": {
+      "Wednesday": 76,
+      "Tuesday": 77,
+      "Monday": 15,
+      "Friday": 47,
+      "Thursday": 124
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.45,
+    "dept_average_30d": 4.74,
+    "dept_rank": 106,
+    "dept_size": 1663
+  }
+}

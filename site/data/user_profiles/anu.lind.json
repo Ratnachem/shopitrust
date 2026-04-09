@@ -1,0 +1,232 @@
+{
+  "username": "anu.lind",
+  "name": "Anu Lind",
+  "generated_at": "2026-04-08T20:22:28.661709",
+  "summary": {
+    "message_count": 145,
+    "channels_active": 10,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hello! Based on the logs of the example order, they buyer did see the Thank you page after the checkout was complete",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> This is odd, so based on the logs the Thank you page should have been shown. RedirectService is behaving as expected - null redirect",
+          "channel": "checkout-wallets-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> can you help out with this thread? <https://shopify.slack.com/archives/C7PDEEPRV/p1774587076350949>\nThey mention that customers are",
+          "channel": "checkout-wallets-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. This was indeed a B2B customer so the issue you linked to is likely related.",
+          "channel": "checkout-wallets-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hello! These were CartNext checkouts, so not Shop Pay external. Based on <https://observe.shopify.io/goto/EytyWRcDR?orgId=1|logs>, the buyer",
+          "channel": "help-checkout-wallets",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "props to",
+          "text": "Also these two PRs are in review:\n\u2022 <https://app.graphite.com/github/pr/shop/world/490793|Remove unnecessary code related to default address",
+          "channel": "checkout-unification-devs",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "joey.tedeschi",
+          "count": 3
+        },
+        {
+          "user": "paul.shortt",
+          "count": 2
+        },
+        {
+          "user": "evan.brodie",
+          "count": 2
+        },
+        {
+          "user": "taylor.mitchell",
+          "count": 1
+        },
+        {
+          "user": "yanne.bartolo",
+          "count": 1
+        },
+        {
+          "user": "molly.cooney",
+          "count": 1
+        },
+        {
+          "user": "shaas.naushad",
+          "count": 1
+        },
+        {
+          "user": "jozel.sobrepena",
+          "count": 1
+        },
+        {
+          "user": "shane.burke",
+          "count": 1
+        },
+        {
+          "user": "crystine.baysa",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.7,
+      "count": 45,
+      "top_channels": [
+        {
+          "channel": "help-checkout",
+          "messages": 51
+        },
+        {
+          "channel": "help-checkout-wallets",
+          "messages": 26
+        },
+        {
+          "channel": "checkout-wallets-river",
+          "messages": 22
+        },
+        {
+          "channel": "checkout-unification-devs",
+          "messages": 16
+        },
+        {
+          "channel": "checkout-unification",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20879-e2e-shop-pay-switch-accounts-test-failing",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20695-checkout-web-deploy---invalidselectedaddr",
+          "messages": 4
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 2
+        },
+        {
+          "channel": "temp-shop-pay-checkout-event-migration-data",
+          "messages": 1
+        },
+        {
+          "channel": "inv-20503-checkout-web-shoppayphonefallbackunavaila",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "martin.lechner",
+          "count": 4
+        },
+        {
+          "user": "jake.chambers",
+          "count": 2
+        },
+        {
+          "user": "ryan.sanantonio",
+          "count": 1
+        },
+        {
+          "user": "daniel.kift",
+          "count": 1
+        },
+        {
+          "user": "meliza.labbao",
+          "count": 1
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 1
+        },
+        {
+          "user": "bailey.carrothers",
+          "count": 1
+        },
+        {
+          "user": "max.veldink",
+          "count": 1
+        },
+        {
+          "user": "millie.kennedy",
+          "count": 1
+        },
+        {
+          "user": "jozel.sobrepena",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 11,
+      "12": 14,
+      "16": 1,
+      "14": 18,
+      "11": 13,
+      "10": 16,
+      "8": 26,
+      "7": 22,
+      "6": 5,
+      "9": 13,
+      "15": 6
+    },
+    "by_day": {
+      "Tuesday": 26,
+      "Wednesday": 33,
+      "Monday": 8,
+      "Friday": 65,
+      "Thursday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.36,
+    "dept_average_30d": 5.79,
+    "dept_rank": 824,
+    "dept_size": 1233
+  }
+}

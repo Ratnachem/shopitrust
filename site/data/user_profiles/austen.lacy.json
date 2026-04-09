@@ -1,0 +1,337 @@
+{
+  "username": "austen.lacy",
+  "name": "Austen Lacy",
+  "generated_at": "2026-04-08T20:22:17.352986",
+  "summary": {
+    "message_count": 945,
+    "channels_active": 48,
+    "unique_people_mentioned": 49,
+    "unique_mentioners": 59,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 16,
+      "neg_count": 15,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "&gt; is this meant for me? as I would be open to connecting sometime towards end of week after I finish Mastery stuff\nYes! Let's do it. Feel free to",
+          "channel": "proj-core-applications-yugabyte",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "FYI - I'd really like to merge *<https://app.graphite.com/github/pr/Shopify/backfilter/1562|this stack>* soon which adds support for binary",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to do whatever you want with it",
+          "channel": "proj-core-applications-yugabyte",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "super cool. great work!",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'll just leave it as-is, but let me know if you disagree",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to rip it apart without me though haha :slightly_smiling_face:",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I noticed your nudges. Thank you for doing that!\n&gt; Ship the migration and let it fail if nulls are encountered?\nNo, please don't. The eventual",
+          "channel": "proj-core-applications-yugabyte",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "great work Yev!",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Shouldn't be any need to backfill 361. Its backfilter is still running to Yugabyte.\n\n&gt; Do we have any concerns with backfilling to Yugabyte in",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "feel free to do whatever you want with it",
+          "channel": "proj-core-applications-yugabyte",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "My smooth brain opinion is that SFR really should never see things over 2s that will finish in some reasonable time frame (i.e. &lt;10-30s) as Derek",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Milan and I are planning to fail whatever shops over to YB this afternoon around 3ET",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "The naming is pretty confusing. Manual and automatic is more related to migrations that we don't care if robots start them versus a human saying",
+          "channel": "db-mobility",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok. My opinion is in the short term all existing Core shop sharded tables are partitioned by the shop's home island. Things like shardm,",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Bogdan - I think you're too hung up on the merits of using an LLM as an optimization strategy for creating migration files. That's a simple process",
+          "channel": "db-mobility",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "\u2022 Agree with \"do whatever works\" for now\n\u2022 You can ask Google in <#C73QZF6D8> which regions + zones will be the most likely to have the desired",
+          "channel": "proj-data-storage-yugabyte-stability",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W0197GL1HPS> tell me if this is a crazy or not possible...\n1. update the migration files with a timestamp that puts it where it should be in the",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; are we concerned that this appears to be a majorly leaky abstraction?\nI find that we often over index on this being a bad thing. The application",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 50,
+      "top_mentioned": [
+        {
+          "user": "kirill.shatrov",
+          "count": 11
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 10
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 10
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 10
+        },
+        {
+          "user": "kate.boyd",
+          "count": 8
+        },
+        {
+          "user": "mohammad.ahmadi",
+          "count": 7
+        },
+        {
+          "user": "graham.cooper",
+          "count": 5
+        },
+        {
+          "user": "phil.nadon",
+          "count": 4
+        },
+        {
+          "user": "kate.galieva",
+          "count": 4
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 546,
+      "top_channels": [
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 170
+        },
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 86
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 81
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 61
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 59
+        },
+        {
+          "channel": "proj-entity-identifiers",
+          "messages": 34
+        },
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 33
+        },
+        {
+          "channel": "proj-core-applications-yugabyte",
+          "messages": 32
+        },
+        {
+          "channel": "tmp-core-sfr-yugabyte-infra",
+          "messages": 30
+        },
+        {
+          "channel": "db-mobility",
+          "messages": 26
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 139,
+      "top_mentioners": [
+        {
+          "user": "kirill.shatrov",
+          "count": 12
+        },
+        {
+          "user": "mohammad.ahmadi",
+          "count": 10
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 10
+        },
+        {
+          "user": "brandon.mcnama",
+          "count": 8
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 7
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 5
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 5
+        },
+        {
+          "user": "gus.degeus",
+          "count": 5
+        },
+        {
+          "user": "michael.roudnitski",
+          "count": 4
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 98,
+      "16": 76,
+      "15": 104,
+      "14": 102,
+      "13": 87,
+      "22": 12,
+      "21": 31,
+      "20": 100,
+      "18": 121,
+      "19": 148,
+      "3": 2,
+      "1": 9,
+      "0": 21,
+      "23": 20,
+      "11": 1,
+      "2": 4,
+      "12": 9
+    },
+    "by_day": {
+      "Wednesday": 197,
+      "Tuesday": 188,
+      "Monday": 178,
+      "Friday": 139,
+      "Thursday": 243
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.74,
+    "dept_average_30d": 5.75,
+    "dept_rank": 34,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "username": "chad.ellis",
+  "name": "Chad Ellis",
+  "generated_at": "2026-04-08T20:22:29.421891",
+  "summary": {
+    "message_count": 37,
+    "channels_active": 8,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "One more verification from you please <@U07RB7K8QJC>. The `maxAmount` doc says \"Max payment amount approved by the buyer.\"\n\nCould `maxAmount` for",
+          "channel": "shared-coinbase-shopify-eng",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Corin! Those were good thoughts and I've applied them. Could you please take another look when you have the chance. Thanks again",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello Coinbase! I found that we are still reading a deprecated field in the payload of the authorization webhook payload we are receiving. It was",
+          "channel": "shared-coinbase-shopify-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good morning. Requesting review of this change which adds the ability to configure `opt_in_required` transitions for capabilities from true-&gt;false",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Requesting review for this <https://github.com/shop/world/pull/477026|PR> which removes `opt_in_required_for_accounts_created_after` from capability",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "corin.mchargue",
+          "count": 1
+        },
+        {
+          "user": "nadia.kostiv",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.65,
+      "count": 70,
+      "top_channels": [
+        {
+          "channel": "shared-coinbase-shopify-eng",
+          "messages": 14
+        },
+        {
+          "channel": "pp-local-payment-methods-monitoring",
+          "messages": 9
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 5
+        },
+        {
+          "channel": "pp-proj-stablecoins",
+          "messages": 3
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 2
+        },
+        {
+          "channel": "pp-proj-sp-lpms",
+          "messages": 2
+        },
+        {
+          "channel": "pp-proj-lpm-launch-efficiency",
+          "messages": 1
+        },
+        {
+          "channel": "lpm-temp-river-threads",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "max.piorischin",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "20": 6,
+      "19": 15,
+      "21": 4,
+      "18": 1,
+      "14": 4,
+      "17": 3,
+      "13": 1,
+      "15": 1
+    },
+    "by_day": {
+      "Monday": 4,
+      "Friday": 20,
+      "Thursday": 4,
+      "Wednesday": 8,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.17,
+    "dept_average_30d": 5.77,
+    "dept_rank": 852,
+    "dept_size": 885
+  }
+}

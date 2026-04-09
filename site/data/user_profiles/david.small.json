@@ -1,0 +1,251 @@
+{
+  "username": "david.small",
+  "name": "David Small",
+  "generated_at": "2026-04-08T20:22:29.082411",
+  "summary": {
+    "message_count": 151,
+    "channels_active": 15,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 11,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hey team, I could use a few PR reviews to setup core for making requests to translation platform:\n\u2022",
+          "channel": "help-localization",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hey team. I'd love to get a review for <https://github.com/Shopify/infrastructure/pull/39695|this PR> adding a new kafka topic. Thanks!\n\nit'll be",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad <@U03EX7W1TU4> I think I misread your message in standup re: pinging me about T&A stuff since it was likely",
+          "channel": "proj-migrate-translate-and-adapt-to-core",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U09BUST8MV1> I'm checking with claude but if you happen to know this off the top of your head feel free to chime in / tuple me",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "markets-localization-atc-coordination",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "there we go. didn't know that. thank you",
+          "channel": "help-vault",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I did some side research and the downside of hashing is if there isn't a match I would need to dig in more to see what's missing, right?\n\nare",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! looking for a review on <https://app.graphite.com/github/pr/shop/world/512033|this> small one based on feedback from <@U03EX7W1TU4>",
+          "channel": "proj-migrate-translate-and-adapt-to-core",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ohhh. it seems I didn't run the example update command in the right place then hmm. thank you!",
+          "channel": "help-shopify-dev-eng",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hey team :wave:\n\nI added some",
+          "channel": "help-shopify-dev-eng",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "hey team, I could use a few PR reviews to setup core for making requests to translation platform:\n\u2022",
+          "channel": "help-localization",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "ok. no pressure/rush as I mentioned. thanks for the help! I\u2019ll likely check in with you tomorrow",
+          "channel": "help-shopify-dev-eng",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "chase.dougherty",
+          "count": 24
+        },
+        {
+          "user": "leo.zhao",
+          "count": 11
+        },
+        {
+          "user": "prathul.prabhakar",
+          "count": 7
+        },
+        {
+          "user": "alan.ly",
+          "count": 7
+        },
+        {
+          "user": "salim.chabou",
+          "count": 5
+        },
+        {
+          "user": "aser.eldamaty",
+          "count": 1
+        },
+        {
+          "user": "cleo.reyes",
+          "count": 1
+        },
+        {
+          "user": "phil.termikaelian",
+          "count": 1
+        },
+        {
+          "user": "stephen.humphries",
+          "count": 1
+        },
+        {
+          "user": "iryna.loza",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.79,
+      "count": 100,
+      "top_channels": [
+        {
+          "channel": "proj-migrate-translate-and-adapt-to-core",
+          "messages": 100
+        },
+        {
+          "channel": "markets-localization-atc-coordination",
+          "messages": 9
+        },
+        {
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "messages": 7
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 5
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 4
+        },
+        {
+          "channel": "help-vault",
+          "messages": 4
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 4
+        },
+        {
+          "channel": "help-shopify-dev-eng",
+          "messages": 4
+        },
+        {
+          "channel": "markets-localization-ops",
+          "messages": 3
+        },
+        {
+          "channel": "inv-20529-several-core-jobs-failing-in-eu-location",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "chase.dougherty",
+          "count": 2
+        },
+        {
+          "user": "lin.taylor",
+          "count": 1
+        },
+        {
+          "user": "salim.chabou",
+          "count": 1
+        },
+        {
+          "user": "daiane.silva",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 17,
+      "19": 11,
+      "18": 24,
+      "17": 20,
+      "15": 29,
+      "13": 6,
+      "21": 9,
+      "16": 17,
+      "14": 12,
+      "22": 4,
+      "12": 2
+    },
+    "by_day": {
+      "Monday": 39,
+      "Friday": 25,
+      "Thursday": 26,
+      "Wednesday": 41,
+      "Tuesday": 20
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1054,
+    "dept_size": 1233
+  }
+}

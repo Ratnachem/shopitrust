@@ -1,0 +1,235 @@
+{
+  "username": "mitch.lillie",
+  "name": "Mitch Lillie",
+  "generated_at": "2026-04-08T20:22:16.920598",
+  "summary": {
+    "message_count": 235,
+    "channels_active": 21,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hosted apps aren't working with Save Bar or Nav Menu. That's because as of <https://github.com/shop/world/pull/544251|Fio's PR> we are using the mini",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team, <https://app.graphite.com/github/pr/shop/world/483251|I'm looking for a review on this PR>. We have deleted this app module from prod, so it",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I removed the old phone from Okta and set up the new. Let me know if there's anything else I need :pray:",
+          "channel": "help-it",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "OK amazing, working! Thanks Richard. I will look into AB issues :pray:",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Still trying to investigate but for whatever reason, one of those didn't get serialized properly, so threw a \"JSON.stringify cannot serialize cyclic",
+          "channel": "inc-21188-pos-apps-returning-404-errors",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> Leave `function_1p_internal` alone. We can remove the place where it is used entirely. \"this is not meant to be used anymore at all.",
+          "channel": "admin-extensibility-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "richard.powell",
+          "count": 7
+        },
+        {
+          "user": "henry.tao",
+          "count": 4
+        },
+        {
+          "user": "victor.chu",
+          "count": 4
+        },
+        {
+          "user": "david.cameron",
+          "count": 4
+        },
+        {
+          "user": "phiroze.noble",
+          "count": 4
+        },
+        {
+          "user": "sergey.melnikov",
+          "count": 3
+        },
+        {
+          "user": "fred.ulrich",
+          "count": 3
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 2
+        },
+        {
+          "user": "alfonso.noriega",
+          "count": 2
+        },
+        {
+          "user": "nandini.parimi",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.84,
+      "count": 282,
+      "top_channels": [
+        {
+          "channel": "proj-app-hosted-frontend",
+          "messages": 78
+        },
+        {
+          "channel": "inc-21188-pos-apps-returning-404-errors",
+          "messages": 36
+        },
+        {
+          "channel": "claudex",
+          "messages": 30
+        },
+        {
+          "channel": "help-admin-extensibility",
+          "messages": 30
+        },
+        {
+          "channel": "inc-20664-admin-extensions-failing-to-load",
+          "messages": 8
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 8
+        },
+        {
+          "channel": "admin-extensibility-river",
+          "messages": 7
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 5
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 4
+        },
+        {
+          "channel": "help-polaris",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "henry.tao",
+          "count": 8
+        },
+        {
+          "user": "victor.chu",
+          "count": 4
+        },
+        {
+          "user": "phiroze.noble",
+          "count": 4
+        },
+        {
+          "user": "trish.ta",
+          "count": 3
+        },
+        {
+          "user": "melissa.luu",
+          "count": 3
+        },
+        {
+          "user": "richard.powell",
+          "count": 3
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 2
+        },
+        {
+          "user": "david.cameron",
+          "count": 2
+        },
+        {
+          "user": "elana.kopelevich",
+          "count": 2
+        },
+        {
+          "user": "sophie.schneider",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 31,
+      "16": 34,
+      "15": 36,
+      "14": 7,
+      "23": 10,
+      "21": 22,
+      "20": 23,
+      "19": 22,
+      "18": 40,
+      "22": 6,
+      "4": 1,
+      "0": 1,
+      "13": 2
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 48,
+      "Monday": 82,
+      "Friday": 22,
+      "Thursday": 32
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.19,
+    "dept_average_30d": 5.79,
+    "dept_rank": 326,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "username": "maryville.murilla",
+  "name": "Maryville Murilla",
+  "generated_at": "2026-04-08T20:22:31.398593",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 9,
+    "days_scale": 0.39
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sure thanks!",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "help-partner-plus-compensation",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.16,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "ewa.johnson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.24,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "help-partner-plus-compensation",
+          "messages": 5
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.53,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "kate.mcdonagh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 2,
+      "8": 1,
+      "12": 2,
+      "9": 2
+    },
+    "by_day": {
+      "Tuesday": 2,
+      "Monday": 2,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.5,
+    "dept_average_30d": 4.74,
+    "dept_rank": 824,
+    "dept_size": 1663
+  }
+}

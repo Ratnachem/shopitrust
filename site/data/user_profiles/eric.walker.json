@@ -1,0 +1,220 @@
+{
+  "username": "eric.walker",
+  "name": "Eric Walker",
+  "generated_at": "2026-04-08T20:22:14.505748",
+  "summary": {
+    "message_count": 265,
+    "channels_active": 37,
+    "unique_people_mentioned": 50,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Fix problem with ruby requires, thanks to rubber ducking with <@W018WBTB1BK>. Should be green and then I'll merge.",
+          "channel": "sfr-internal-grpc-prototype",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats team. ",
+          "channel": "proj-discounts-same-line-product-stacking",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U06785SDU0J> and I caught up today. We aligned our top ask is to get product_publications mode 2.x in production use ASAP. To get freshness under 1",
+          "channel": "proj-merch-contextual-product-library",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 51,
+      "top_mentioned": [
+        {
+          "user": "samuel.williams",
+          "count": 11
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 7
+        },
+        {
+          "user": "allison.malloy",
+          "count": 6
+        },
+        {
+          "user": "vera.olsson",
+          "count": 5
+        },
+        {
+          "user": "joe.navetta",
+          "count": 4
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 4
+        },
+        {
+          "user": "jason.selby",
+          "count": 3
+        },
+        {
+          "user": "chris.pak",
+          "count": 3
+        },
+        {
+          "user": "tim.lombardo",
+          "count": 3
+        },
+        {
+          "user": "kate.ragotte",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 533,
+      "top_channels": [
+        {
+          "channel": "proj-discounts-same-line-product-stacking",
+          "messages": 58
+        },
+        {
+          "channel": "sfr-internal-grpc-prototype",
+          "messages": 53
+        },
+        {
+          "channel": "proj-merch-contextual-product-library",
+          "messages": 28
+        },
+        {
+          "channel": "tmp-agentic-publishing",
+          "messages": 11
+        },
+        {
+          "channel": "merch-x-catalog",
+          "messages": 10
+        },
+        {
+          "channel": "proj-product-loader",
+          "messages": 9
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 8
+        },
+        {
+          "channel": "river-turns-the-wheel",
+          "messages": 8
+        },
+        {
+          "channel": "tmp-merch-x-core-ci-stability",
+          "messages": 7
+        },
+        {
+          "channel": "team-ruby-infra",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.33,
+      "count": 56,
+      "top_mentioners": [
+        {
+          "user": "chris.pak",
+          "count": 6
+        },
+        {
+          "user": "tim.lombardo",
+          "count": 5
+        },
+        {
+          "user": "kenny.law",
+          "count": 3
+        },
+        {
+          "user": "maurizio.cucchiara",
+          "count": 3
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 2
+        },
+        {
+          "user": "chao.duan",
+          "count": 2
+        },
+        {
+          "user": "mani.fazeli",
+          "count": 2
+        },
+        {
+          "user": "jonathan.lalande",
+          "count": 2
+        },
+        {
+          "user": "jon.hamburg",
+          "count": 2
+        },
+        {
+          "user": "patrick.joyce",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 37,
+      "17": 26,
+      "16": 10,
+      "15": 24,
+      "12": 23,
+      "10": 4,
+      "22": 10,
+      "1": 8,
+      "0": 5,
+      "19": 20,
+      "13": 23,
+      "21": 20,
+      "20": 11,
+      "14": 27,
+      "11": 6,
+      "3": 1,
+      "2": 3,
+      "23": 5,
+      "9": 2
+    },
+    "by_day": {
+      "Wednesday": 61,
+      "Tuesday": 70,
+      "Monday": 58,
+      "Friday": 47,
+      "Thursday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.45,
+    "dept_average_30d": 5.79,
+    "dept_rank": 204,
+    "dept_size": 1233
+  }
+}

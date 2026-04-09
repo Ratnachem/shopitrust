@@ -1,0 +1,212 @@
+{
+  "username": "mido.kabbara",
+  "name": "Mido Kabbara",
+  "generated_at": "2026-04-08T20:22:26.799549",
+  "summary": {
+    "message_count": 81,
+    "channels_active": 9,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! We'll bring it up in the SLT sync today.",
+          "channel": "deliver-sidekick-capabilities",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Are we able to add the current dimensions (in addition to the at time of sale)?",
+          "channel": "tmp-analytics-returns-metric",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> go upstream to the source to identify whether it's possible to grab those dimensions (I know they should be possible). Also, I want to",
+          "channel": "river-mido",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "nick.presta",
+          "count": 4
+        },
+        {
+          "user": "diego.gilon",
+          "count": 2
+        },
+        {
+          "user": "andrea.rice",
+          "count": 2
+        },
+        {
+          "user": "philippe.demontigny",
+          "count": 2
+        },
+        {
+          "user": "rachel.ng",
+          "count": 2
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 2
+        },
+        {
+          "user": "gemma.curl",
+          "count": 1
+        },
+        {
+          "user": "jenna.stephenswells",
+          "count": 1
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 1
+        },
+        {
+          "user": "tammie.childs",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.33,
+      "count": 88,
+      "top_channels": [
+        {
+          "channel": "river-mido",
+          "messages": 48
+        },
+        {
+          "channel": "tmp-analytics-returns-metric",
+          "messages": 14
+        },
+        {
+          "channel": "orders-rest-gql-parity-migration",
+          "messages": 5
+        },
+        {
+          "channel": "proj-analytics-annotations",
+          "messages": 5
+        },
+        {
+          "channel": "proj-order-edit-tax-calculations-using-c1",
+          "messages": 3
+        },
+        {
+          "channel": "deliver-sidekick-capabilities",
+          "messages": 2
+        },
+        {
+          "channel": "analytics-team-experience",
+          "messages": 2
+        },
+        {
+          "channel": "channel-listings-order-handling",
+          "messages": 1
+        },
+        {
+          "channel": "core-deliver-orders",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "teddy.hwang",
+          "count": 5
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 5
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 4
+        },
+        {
+          "user": "diego.gilon",
+          "count": 3
+        },
+        {
+          "user": "roel.decoene",
+          "count": 2
+        },
+        {
+          "user": "akshay.patil",
+          "count": 2
+        },
+        {
+          "user": "jenna.stephenswells",
+          "count": 1
+        },
+        {
+          "user": "valentinas.mital-2577",
+          "count": 1
+        },
+        {
+          "user": "darius.gai",
+          "count": 1
+        },
+        {
+          "user": "susie.kim",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 11,
+      "23": 13,
+      "18": 3,
+      "16": 11,
+      "15": 12,
+      "14": 1,
+      "22": 8,
+      "17": 6,
+      "6": 2,
+      "5": 2,
+      "4": 3,
+      "3": 2,
+      "0": 5,
+      "20": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Tuesday": 19,
+      "Thursday": 18,
+      "Wednesday": 32,
+      "Monday": 5,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.25,
+    "dept_average_30d": 5.79,
+    "dept_rank": 898,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "username": "kyle.myers",
+  "name": "Kyle Myers",
+  "generated_at": "2026-04-08T20:22:17.109722",
+  "summary": {
+    "message_count": 359,
+    "channels_active": 19,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work Prema!! ~Have you enabled the ExpiredReceiptDeletionJob for all pods?~  I read the full message :+1:",
+          "channel": "temp-classic-checkout-and-receipt-migrations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":yo-blob: I did some digging today since I remembered that we used some BigQuery data to help us categorize flaky tests during code red.",
+          "channel": "tmp-checkout-flaky-tests",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey team, I wanted to get access to `sdp-prd-interim-data-loaders` to access some test oversight service data. I was going to make a Clouddo claim,",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "> when do you expect to be done with receipts deletion?\nFor what I understand, it will likely be finished this week! :celebrate-all: Latest next",
+          "channel": "proj-checkout-infra-quota",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey <@U03NF5H6NFN>, I'm off ATC shift today. I can't seem to reproduce this, but if its ongoing I suggest making a issues using merchant bug tracker.",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Still not able to find a source for this. Given that the SLO has remained at 0 for over an hour and seems subsided, I'll take more of a look tomorrow",
+          "channel": "inc-20341-increased-checkout-failures-on-293",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "If not, feel free to come back here, although since I'm assuming this is related to carts and predictions before entering checkout, you'll want to",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018HU3G2H1> This is more of a orders / inventory issue. I think you should report the question in <#C01HHKW1K3K>. I'll mark this thread as done,",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Marking as done for now, feel free to come back to this thread if core-delivery-support can't help :+1:",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "No worries :+1: Feel free to come back here if it doesn't yield anything, but not sure there's much more I can look at. Keep me posted on what the",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We have this logging for receipt deletion inside the job:",
+          "channel": "proj-checkout-infra-quota",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "spencer.plant",
+          "count": 22
+        },
+        {
+          "user": "prema.upot",
+          "count": 17
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 9
+        },
+        {
+          "user": "damien.ardouin",
+          "count": 5
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 3
+        },
+        {
+          "user": "clemens.park",
+          "count": 3
+        },
+        {
+          "user": "donavan.williams",
+          "count": 2
+        },
+        {
+          "user": "joar.villeza",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "josh.varner",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.86,
+      "count": 102,
+      "top_channels": [
+        {
+          "channel": "proj-checkout-infra-quota",
+          "messages": 116
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 66
+        },
+        {
+          "channel": "temp-checkout-classic-code-removal",
+          "messages": 30
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 25
+        },
+        {
+          "channel": "inc-20435-checkout-metrics-and-alerts-firing-off",
+          "messages": 24
+        },
+        {
+          "channel": "temp-classic-checkout-and-receipt-migrations",
+          "messages": 23
+        },
+        {
+          "channel": "tmp-checkout-flaky-tests",
+          "messages": 15
+        },
+        {
+          "channel": "inc-20341-increased-checkout-failures-on-293",
+          "messages": 14
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20786-shard299-replicas-not-replicating",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "prema.upot",
+          "count": 10
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 7
+        },
+        {
+          "user": "spencer.plant",
+          "count": 7
+        },
+        {
+          "user": "max.veldink",
+          "count": 3
+        },
+        {
+          "user": "nabeel.ahsen",
+          "count": 2
+        },
+        {
+          "user": "jass.arora",
+          "count": 2
+        },
+        {
+          "user": "sam.obrien",
+          "count": 2
+        },
+        {
+          "user": "clemens.park",
+          "count": 2
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 2
+        },
+        {
+          "user": "connie.ho",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 48,
+      "16": 57,
+      "15": 48,
+      "0": 8,
+      "23": 23,
+      "21": 27,
+      "20": 36,
+      "19": 49,
+      "18": 9,
+      "1": 5,
+      "22": 49
+    },
+    "by_day": {
+      "Wednesday": 74,
+      "Tuesday": 35,
+      "Monday": 46,
+      "Friday": 93,
+      "Thursday": 111
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.79,
+    "dept_rank": 494,
+    "dept_size": 1233
+  }
+}

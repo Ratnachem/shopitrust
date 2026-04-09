@@ -1,0 +1,276 @@
+{
+  "username": "michelle.lei",
+  "name": "Michelle Lei",
+  "generated_at": "2026-04-08T20:22:08.352046",
+  "summary": {
+    "message_count": 313,
+    "channels_active": 20,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.2,
+      "pos_count": 32,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I've let the team know :slightly_smiling_face:",
+          "channel": "inv-21203-adminapi-availability-for-crunchlabs-shop",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "okay! getting that change pushed up, thank you :slightly_smiling_face:",
+          "channel": "core-deliver-orders-notifications",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ohh interesting! thank you, appreciate the context! I\u2019ll add this info to the spike and close it out then :salute-cat:",
+          "channel": "proj-write-offs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ooh got it! Thank you both for the context :thank__you:",
+          "channel": "proj-write-offs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!!",
+          "channel": "inc-20007-receiving-an-increasing-amount-of-reports",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!! :salute-cat:",
+          "channel": "inv-21051-investigating-increase-in-refund-calculat",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi::flags: starting flag rollout that gates FE &amp; BE changes to fix <https://github.com/shop/issues-orders-and-returns/issues/9370|this bug>!",
+          "channel": "orders-penguins",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":p1: we have some new & reopened e2e/admin tests :sad-cowboy:\n\u2022",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!! i'll definitely do a few dry runs first to confirm next week! time to fight ci &amp; the merge queue :warrior-kara:",
+          "channel": "inc-20007-receiving-an-increasing-amount-of-reports",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!! just pushed some changes to address your feedback :slightly_smiling_face:",
+          "channel": "inc-20007-receiving-an-increasing-amount-of-reports",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "some more diagnosis from :claude_:\n```On Postgres, line_items.first returns rows in an undefined order, so it may return the line item that already",
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "jordan.foreman",
+          "count": 12
+        },
+        {
+          "user": "scott.plybon",
+          "count": 11
+        },
+        {
+          "user": "carson.huang",
+          "count": 9
+        },
+        {
+          "user": "sanchit.manchanda",
+          "count": 8
+        },
+        {
+          "user": "kim.hawthorne",
+          "count": 6
+        },
+        {
+          "user": "andrew.musgrave",
+          "count": 6
+        },
+        {
+          "user": "aliya.mohamed",
+          "count": 6
+        },
+        {
+          "user": "elizabeth.letourneau",
+          "count": 5
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 5
+        },
+        {
+          "user": "bk.kang",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.58,
+      "count": 121,
+      "top_channels": [
+        {
+          "channel": "orders-penguins",
+          "messages": 112
+        },
+        {
+          "channel": "inc-20007-receiving-an-increasing-amount-of-reports",
+          "messages": 55
+        },
+        {
+          "channel": "proj-write-offs",
+          "messages": 39
+        },
+        {
+          "channel": "michelle-enters-flow-state",
+          "messages": 36
+        },
+        {
+          "channel": "core-deliver-orders-notifications",
+          "messages": 21
+        },
+        {
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "messages": 14
+        },
+        {
+          "channel": "proj-idempotency-and-cas",
+          "messages": 7
+        },
+        {
+          "channel": "orders-flags-notifications",
+          "messages": 5
+        },
+        {
+          "channel": "inv-21190-core-has-ci-pipeline-post-merge-testing-f",
+          "messages": 4
+        },
+        {
+          "channel": "inv-21203-adminapi-availability-for-crunchlabs-shop",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "jordan.foreman",
+          "count": 9
+        },
+        {
+          "user": "peter.kostylev",
+          "count": 7
+        },
+        {
+          "user": "carson.huang",
+          "count": 5
+        },
+        {
+          "user": "ken.smith",
+          "count": 4
+        },
+        {
+          "user": "kelly.ma",
+          "count": 3
+        },
+        {
+          "user": "kim.hawthorne",
+          "count": 3
+        },
+        {
+          "user": "elizabeth.letourneau",
+          "count": 3
+        },
+        {
+          "user": "sebastian.osorio",
+          "count": 3
+        },
+        {
+          "user": "scott.plybon",
+          "count": 3
+        },
+        {
+          "user": "riya.walia",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "14": 32,
+      "1": 8,
+      "21": 21,
+      "20": 31,
+      "19": 39,
+      "16": 35,
+      "0": 10,
+      "22": 11,
+      "17": 32,
+      "2": 2,
+      "23": 4,
+      "15": 31,
+      "4": 2,
+      "3": 1,
+      "13": 4,
+      "12": 1,
+      "11": 11,
+      "10": 3
+    },
+    "by_day": {
+      "Wednesday": 64,
+      "Tuesday": 84,
+      "Monday": 60,
+      "Friday": 48,
+      "Thursday": 57
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.29,
+    "dept_average_30d": 5.79,
+    "dept_rank": 22,
+    "dept_size": 1233
+  }
+}

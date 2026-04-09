@@ -1,0 +1,316 @@
+{
+  "username": "alex.graffeocohen",
+  "name": "Alex Graffeocohen",
+  "generated_at": "2026-04-08T20:22:24.793114",
+  "summary": {
+    "message_count": 498,
+    "channels_active": 22,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 22,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 24,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you I was just going to look for metrics too",
+          "channel": "inc-21188-pos-apps-returning-404-errors",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inc-21188-pos-apps-returning-404-errors",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks! I'll close it as not planned then so it doesn't ping in Goalie, and can always be re-opened",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi everyone! Noticed <https://github.com/shop/issues-retail/issues/25827|this P1 issue> out of SLA and just wanted to check whether there needs to",
+          "channel": "help-retail-checkout",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sure, AI can do things, but it can only assume so much from a custom liquid template. We don't know how a merchant will inject a thank you, that\u2019s",
+          "channel": "proj-retail-unify-receipts",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Based on what Ant told me, I don't know that we\u2019ve decided precisely how that will work technically. It seems the merchant will be able to configure",
+          "channel": "proj-retail-unify-receipts",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "But thank you!!",
+          "channel": "proj-retail-unify-receipts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Stay tuned I think I have the right approach here but just need to do a bit of research",
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I have created <https://docs.google.com/document/d/1eaWIYq-O0ZQ5RiD4L4lBHkHQVvZEmEaJRRaUX4RuJXg/edit?tab=t.0|a rollout plan for Spain and France>",
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Maybe I'm missing something but to me, this is an important detail, but one that doesn't change the plan. We still make merchants manually migrate.",
+          "channel": "proj-retail-unify-receipts",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; And for the barcode/QR code, can we change the system to generate it from the checkout session identifier?\nNot sure. I think for the vast",
+          "channel": "retail-first",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "100% yeah. Which is why I don't care to try to migrate some liquids later just cause we might save like 2 merchants from a minor render issue or",
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "100% yeah. Which is why I don't care to try to migrate some liquids later just cause we might save like 2 merchants from a minor render issue or",
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I just wanted to chime back in here that, in the current code state today, we fall back to default receipt templates if there is no internet *even",
+          "channel": "proj-retail-unify-receipts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "```The timing problem kills pure server-side rendering. The receipt prints immediately after checkout. The order doesn't exist on Shopify yet \u2014 it's",
+          "channel": "proj-retail-unify-receipts",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "A couple more of our scheduling jobs snuck past me but everything else is cleared out. I will keep an eye and kill whatever further jobs are",
+          "channel": "inc-18403-incorrect-reporting-of-cash-closing-trans",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "lauren.soto",
+          "count": 7
+        },
+        {
+          "user": "antonino.urbano",
+          "count": 4
+        },
+        {
+          "user": "victor.chu",
+          "count": 3
+        },
+        {
+          "user": "ruth.fuentes",
+          "count": 3
+        },
+        {
+          "user": "carolina.darski",
+          "count": 3
+        },
+        {
+          "user": "jolene.hayes",
+          "count": 3
+        },
+        {
+          "user": "alex.kung",
+          "count": 2
+        },
+        {
+          "user": "han.tan",
+          "count": 2
+        },
+        {
+          "user": "mauricio.sierra",
+          "count": 2
+        },
+        {
+          "user": "lily.salem",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.56,
+      "count": 306,
+      "top_channels": [
+        {
+          "channel": "proj-retail-unify-receipts",
+          "messages": 158
+        },
+        {
+          "channel": "proj-pos-app-pos-vat-receipts",
+          "messages": 101
+        },
+        {
+          "channel": "retail-first",
+          "messages": 55
+        },
+        {
+          "channel": "inc-18403-incorrect-reporting-of-cash-closing-trans",
+          "messages": 53
+        },
+        {
+          "channel": "inc-21188-pos-apps-returning-404-errors",
+          "messages": 46
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 17
+        },
+        {
+          "channel": "proj-pos-app-receipt-reprint",
+          "messages": 13
+        },
+        {
+          "channel": "retail-first-ops",
+          "messages": 9
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 7
+        },
+        {
+          "channel": "dev-up",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "carolina.darski",
+          "count": 15
+        },
+        {
+          "user": "ruth.fuentes",
+          "count": 12
+        },
+        {
+          "user": "jolene.hayes",
+          "count": 11
+        },
+        {
+          "user": "lauren.soto",
+          "count": 8
+        },
+        {
+          "user": "antonino.urbano",
+          "count": 8
+        },
+        {
+          "user": "phil.egelston",
+          "count": 3
+        },
+        {
+          "user": "celso.marciano",
+          "count": 2
+        },
+        {
+          "user": "han.tan",
+          "count": 2
+        },
+        {
+          "user": "sam.bostock",
+          "count": 2
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 49,
+      "19": 80,
+      "17": 23,
+      "18": 75,
+      "15": 50,
+      "14": 56,
+      "12": 11,
+      "0": 16,
+      "23": 17,
+      "16": 39,
+      "2": 15,
+      "22": 26,
+      "21": 16,
+      "20": 20,
+      "3": 1,
+      "1": 1,
+      "4": 3
+    },
+    "by_day": {
+      "Wednesday": 123,
+      "Tuesday": 80,
+      "Monday": 116,
+      "Thursday": 83,
+      "Friday": 96
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.44,
+    "dept_average_30d": 4.74,
+    "dept_rank": 108,
+    "dept_size": 1663
+  }
+}

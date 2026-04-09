@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopiTrust Profile</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 100%);
+            color: #e1e1e6;
+            min-height: 100vh;
+        }
+        .header {
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #a855f7 100%);
+            padding: 1.5rem 2rem;
+            position: relative;
+        }
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header h1 {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        .nav-links {
+            display: flex;
+            gap: 1rem;
+        }
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.15);
+            font-size: 0.875rem;
+            transition: background 0.2s;
+        }
+        .nav-links a:hover {
+            background: rgba(255,255,255,0.25);
+        }
+        .main-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+        .profile-header {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #6366f1, #a855f7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: white;
+        }
+        .profile-info h2 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        .profile-meta {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            color: #9ca3af;
+            font-size: 0.9rem;
+        }
+        .profile-meta span {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .score-hero {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 2rem;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .score-hero-value {
+            font-size: 5rem;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 0.5rem;
+        }
+        .score-high { background: linear-gradient(135deg, #34d399, #10b981); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .score-good { background: linear-gradient(135deg, #60a5fa, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .score-mid { background: linear-gradient(135deg, #fbbf24, #f59e0b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .score-low { background: linear-gradient(135deg, #f87171, #ef4444); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .score-label {
+            font-size: 1.25rem;
+            color: #9ca3af;
+            margin-bottom: 1rem;
+        }
+        .score-rank {
+            display: inline-block;
+            padding: 0.5rem 1.5rem;
+            background: rgba(255,255,255,0.1);
+            border-radius: 20px;
+            font-size: 1rem;
+        }
+        .score-rank strong {
+            color: #a855f7;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .card {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 1.5rem;
+        }
+        .card h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #9ca3af;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .category-score {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .category-score:last-child {
+            border-bottom: none;
+        }
+        .category-name {
+            font-weight: 500;
+        }
+        .category-weight {
+            font-size: 0.75rem;
+            color: #6b7280;
+        }
+        .category-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.75rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .stat-row:last-child {
+            border-bottom: none;
+        }
+        .stat-label {
+            color: #9ca3af;
+        }
+        .stat-value {
+            font-weight: 600;
+        }
+        .trend-up { color: #34d399; }
+        .trend-down { color: #f87171; }
+        .trend-flat { color: #9ca3af; }
+        .chart-container {
+            height: 150px;
+            margin-top: 1rem;
+        }
+        .chart {
+            display: flex;
+            align-items: flex-end;
+            height: 100%;
+            gap: 3px;
+        }
+        .chart-bar {
+            flex: 1;
+            border-radius: 2px 2px 0 0;
+            min-height: 4px;
+            position: relative;
+            cursor: pointer;
+        }
+        .chart-bar:hover::after {
+            content: attr(data-value);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #1a1a3e;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            white-space: nowrap;
+        }
+        .interpretation {
+            margin-top: 1rem;
+            padding: 1rem;
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+        }
+        .interpretation-label {
+            font-size: 0.875rem;
+            color: #9ca3af;
+            margin-bottom: 0.5rem;
+        }
+        .interpretation-text {
+            font-size: 1.1rem;
+            font-weight: 500;
+        }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+        }
+        .metric-box {
+            background: rgba(255,255,255,0.05);
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .metric-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #a855f7;
+        }
+        .metric-label {
+            font-size: 0.75rem;
+            color: #6b7280;
+            margin-top: 0.25rem;
+        }
+        .metric-vs {
+            font-size: 0.7rem;
+            color: #9ca3af;
+            margin-top: 0.25rem;
+        }
+        .loading {
+            text-align: center;
+            padding: 4rem;
+            color: #6b7280;
+        }
+        .error {
+            text-align: center;
+            padding: 4rem;
+            color: #f87171;
+        }
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #9ca3af;
+            text-decoration: none;
+            margin-bottom: 1rem;
+            font-size: 0.9rem;
+        }
+        .back-link:hover {
+            color: #e1e1e6;
+        }
+        .disclaimer {
+            text-align: center;
+            padding: 2rem;
+            color: #6b7280;
+            font-size: 0.75rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            margin-top: 2rem;
+        }
+        @media (max-width: 768px) {
+            .profile-header {
+                flex-direction: column;
+                text-align: center;
+            }
+            .profile-meta {
+                justify-content: center;
+            }
+            .score-hero-value {
+                font-size: 3.5rem;
+            }
+            .metrics-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>🏆 ShopiTrust</h1>
+            <div class="nav-links">
+                <a href="index.html">🏆 Leaderboard</a>
+                <a href="peer.html">🔋 Battery Check</a>
+                <a href="about.html">ℹ️ About</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <a href="index.html" class="back-link">← Back to Leaderboard</a>
+        
+        <div id="content">
+            <div class="loading">Loading user profile...</div>
+        </div>
+    </div>
+
+    <div class="disclaimer">
+        ⚠️ ShopiTrust scores are experimental metrics based on Slack communication patterns. 
+        They should not be used for HR, performance, or personnel decisions.
+    </div>
+
+    <script>
+        let trustData = null;
+        let employeeData = null;
+        let detailedProfile = null;
+
+        // Load adjustments from localStorage
+        function getAdjustments() {
+            return JSON.parse(localStorage.getItem('trustScoreAdjustments') || '[]');
+        }
+
+        // Apply adjustments to a user's score
+        function applyAdjustments(userName, baseScore) {
+            const adjustments = getAdjustments();
+            let adjustedScore = baseScore;
+            adjustments.filter(a => a.userName === userName).forEach(adj => {
+                if (adj.type === 'add') adjustedScore += adj.value;
+                else if (adj.type === 'subtract') adjustedScore -= adj.value;
+                else if (adj.type === 'set') adjustedScore = adj.value;
+            });
+            return Math.max(0, Math.min(10, adjustedScore));
+        }
+
+        async function loadData() {
+            try {
+                const [trustRes, empRes] = await Promise.all([
+                    fetch('data/trust_scores.json'),
+                    fetch('data/employees.json')
+                ]);
+                trustData = await trustRes.json();
+                employeeData = await empRes.json();
+                
+                // Get user from URL params
+                const params = new URLSearchParams(window.location.search);
+                const userName = params.get('name');
+                
+                if (!userName) {
+                    showError('No user specified. Add ?name=User+Name to the URL.');
+                    return;
+                }
+                
+                // Try to load detailed profile if it exists
+                const userData = trustData.scores[userName];
+                if (userData && userData.username) {
+                    try {
+                        const profileRes = await fetch(`data/user_profiles/${userData.username}.json`);
+                        if (profileRes.ok) {
+                            detailedProfile = await profileRes.json();
+                        }
+                    } catch (e) {
+                        // No cached profile, that's fine
+                    }
+                }
+                
+                renderProfile(userName);
+            } catch (e) {
+                console.error('Failed to load data:', e);
+                showError('Error loading data.');
+            }
+        }
+
+        function showError(message) {
+            document.getElementById('content').innerHTML = `<div class="error">${message}</div>`;
+        }
+
+        function getScoreClass(score) {
+            if (score >= 8.0) return 'score-high';
+            if (score >= 6.0) return 'score-good';
+            if (score >= 4.0) return 'score-mid';
+            return 'score-low';
+        }
+
+        function getScoreInterpretation(score) {
+            if (score >= 8.0) return { label: 'High Trust', text: 'Consistently constructive and collaborative communication patterns.' };
+            if (score >= 6.0) return { label: 'Good', text: 'Mostly positive interactions with minor areas for improvement.' };
+            if (score >= 4.0) return { label: 'Neutral', text: 'Mixed or limited communication signal in the analysis window.' };
+            if (score >= 2.0) return { label: 'Concerning', text: 'Notable negative patterns detected in communication.' };
+            return { label: 'Low Trust', text: 'Significant negative behavior detected. Review recommended.' };
+        }
+
+        function getTrendHtml(trend) {
+            if (trend > 0.1) return `<span class="trend-up">↑ +${trend.toFixed(2)}</span>`;
+            if (trend < -0.1) return `<span class="trend-down">↓ ${trend.toFixed(2)}</span>`;
+            return `<span class="trend-flat">→ ${trend.toFixed(2)}</span>`;
+        }
+
+        function getInitials(name) {
+            return name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            return text
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+
+        function renderProfile(userName) {
+            const userData = trustData.scores[userName];
+            
+            if (!userData) {
+                // Try case-insensitive match
+                const match = Object.keys(trustData.scores).find(
+                    n => n.toLowerCase() === userName.toLowerCase()
+                );
+                if (match) {
+                    renderProfile(match);
+                    return;
+                }
+                showError(`User "${userName}" not found in trust scores.`);
+                return;
+            }
+
+            // Find employee data
+            const employee = employeeData.employees.find(
+                e => e.name.toLowerCase() === userName.toLowerCase()
+            ) || {};
+
+            // Apply any manual adjustments
+            const adjustedScore = applyAdjustments(userName, userData.current);
+            const hasAdjustment = adjustedScore !== userData.current;
+            
+            const interp = getScoreInterpretation(adjustedScore);
+            const scoreClass = getScoreClass(adjustedScore);
+            
+            // Calculate percentile based on adjusted scores
+            const allScores = Object.entries(trustData.scores).map(([name, s]) => applyAdjustments(name, s.current)).sort((a, b) => a - b);
+            const percentile = Math.round((allScores.filter(s => s < adjustedScore).length / allScores.length) * 100);
+            
+            // Calculate adjusted rank
+            const sortedByScore = Object.entries(trustData.scores)
+                .map(([name, s]) => ({ name, score: applyAdjustments(name, s.current) }))
+                .sort((a, b) => b.score - a.score);
+            const adjustedRank = sortedByScore.findIndex(s => s.name === userName) + 1;
+
+            // Chart data
+            const daily = userData.daily || [];
+            // Filter out null values for min/max calculation
+            const validScores = daily.filter(v => v !== null);
+            const minScore = validScores.length ? Math.min(...validScores) : 0;
+            const maxScore = validScores.length ? Math.max(...validScores) : 10;
+            const range = maxScore - minScore || 1;
+
+            document.title = `${userName} - ShopiTrust Profile`;
+
+            document.getElementById('content').innerHTML = `
+                <div class="profile-header">
+                    <div class="avatar">${getInitials(userName)}</div>
+                    <div class="profile-info">
+                        <h2>${userName}</h2>
+                        <div class="profile-meta">
+                            <span>🏢 ${userData.department || 'Unknown'}</span>
+                            <span>💼 ${employee.title || 'Employee'}</span>
+                            <span>📅 ${userData.tenure_years ? userData.tenure_years.toFixed(1) + ' years' : 'N/A'}</span>
+                            ${userData.username ? `<span>💬 @${userData.username}</span>` : ''}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="score-hero">
+                    <div class="score-hero-value ${scoreClass}">${adjustedScore.toFixed(2)}</div>
+                    <div class="score-label">Composite Trust Score</div>
+                    ${hasAdjustment ? `<div style="font-size: 0.75rem; color: #f87171; margin-top: 0.25rem;">⚠️ Manually adjusted (base: ${userData.current.toFixed(2)})</div>` : ''}
+                    <div class="score-rank">
+                        Rank <strong>#${adjustedRank}</strong> of ${trustData.employee_count.toLocaleString()} 
+                        · Top ${percentile > 50 ? (100 - percentile) : percentile}%
+                    </div>
+                    ${userData.days_scale < 1.0 ? `
+                    <div style="margin-top: 1rem; padding: 0.75rem 1.5rem; background: rgba(251, 191, 36, 0.15); border: 1px solid rgba(251, 191, 36, 0.3); border-radius: 8px; display: inline-block;">
+                        <span style="color: #fbbf24;">⏱️ New Hire Adjustment:</span>
+                        <span style="color: #e1e1e6;">Active ${userData.days_in_window} of 23 weekdays (${Math.round(userData.days_scale * 100)}%)</span>
+                        <div style="font-size: 0.75rem; color: #9ca3af; margin-top: 0.25rem;">p50 baselines scaled proportionally for fair comparison</div>
+                    </div>
+                    ` : ''}
+                    <div class="interpretation">
+                        <div class="interpretation-label">${interp.label}</div>
+                        <div class="interpretation-text">${interp.text}</div>
+                    </div>
+                </div>
+
+                <div class="grid">
+                    <div class="card">
+                        <h3>📊 Category Breakdown</h3>
+                        <div class="category-score">
+                            <div>
+                                <div class="category-name">Sentiment</div>
+                                <div class="category-weight">Weight: 1.0</div>
+                            </div>
+                            <div class="category-value ${getScoreClass(userData.categories.sentiment)}">
+                                ${userData.categories.sentiment.toFixed(2)}
+                            </div>
+                        </div>
+                        <div class="category-score">
+                            <div>
+                                <div class="category-name">Outbound Mentions</div>
+                                <div class="category-weight">Weight: 0.25</div>
+                            </div>
+                            <div class="category-value ${getScoreClass(userData.categories.outbound_mentions)}">
+                                ${userData.categories.outbound_mentions.toFixed(2)}
+                            </div>
+                        </div>
+                        <div class="category-score">
+                            <div>
+                                <div class="category-name">Channel Connections</div>
+                                <div class="category-weight">Weight: 0.25</div>
+                            </div>
+                            <div class="category-value ${getScoreClass(userData.categories.channel_connections)}">
+                                ${userData.categories.channel_connections.toFixed(2)}
+                            </div>
+                        </div>
+                        <div class="category-score">
+                            <div>
+                                <div class="category-name">Inbound Mentions</div>
+                                <div class="category-weight">Weight: 0.25</div>
+                            </div>
+                            <div class="category-value ${getScoreClass(userData.categories.inbound_mentions)}">
+                                ${userData.categories.inbound_mentions.toFixed(2)}
+                            </div>
+                        </div>
+                        ${userData.categories.skills !== null ? `
+                        <div class="category-score">
+                            <div>
+                                <div class="category-name">Skills</div>
+                                <div class="category-weight">Weight: 1.0</div>
+                            </div>
+                            <div class="category-value ${getScoreClass(userData.categories.skills)}">
+                                ${userData.categories.skills.toFixed(2)}
+                            </div>
+                        </div>
+                        ` : ''}
+                        ${userData.categories.awards_bonus > 0 ? `
+                        <div class="category-score">
+                            <div>
+                                <div class="category-name">Awards Bonus</div>
+                                <div class="category-weight">+0.1 per award</div>
+                            </div>
+                            <div class="category-value" style="color: #34d399;">
+                                +${userData.categories.awards_bonus.toFixed(2)}
+                            </div>
+                        </div>
+                        ` : ''}
+                        ${userData.categories.ai_spend !== null ? `
+                        <div class="category-score">
+                            <div>
+                                <div class="category-name">AI Spend</div>
+                                <div class="category-weight">Weight: 0.25</div>
+                            </div>
+                            <div class="category-value ${getScoreClass(userData.categories.ai_spend)}">
+                                ${userData.categories.ai_spend.toFixed(2)}
+                            </div>
+                        </div>
+                        ` : ''}
+                    </div>
+
+                    <div class="card">
+                        <h3>📈 Score Trends</h3>
+                        <div class="stat-row">
+                            <span class="stat-label">Current Score${hasAdjustment ? ' (Adjusted)' : ''}</span>
+                            <span class="stat-value">${adjustedScore.toFixed(2)}</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-label">7-Day Average</span>
+                            <span class="stat-value">${userData.avg_7d.toFixed(2)}</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-label">30-Day Average</span>
+                            <span class="stat-value">${userData.avg_30d.toFixed(2)}</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-label">7-Day Trend</span>
+                            <span class="stat-value">${getTrendHtml(userData.trend)}</span>
+                        </div>
+                        <div class="chart-container">
+                            <div class="chart">
+                                ${daily.map((val, i) => {
+                                    const date = trustData.dates[i] || '';
+                                    if (val === null) {
+                                        // No messages that day - show empty/gray bar
+                                        return `<div class="chart-bar" style="height: 2%; background: #374151; opacity: 0.3;" data-value="${date}: no messages"></div>`;
+                                    }
+                                    const height = ((val - minScore) / range) * 100;
+                                    const color = val >= 8 ? '#34d399' : val >= 6 ? '#60a5fa' : val >= 4 ? '#fbbf24' : '#f87171';
+                                    return `<div class="chart-bar" style="height: ${Math.max(height, 5)}%; background: ${color};" data-value="${date}: ${val.toFixed(2)}"></div>`;
+                                }).join('')}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                ${detailedProfile ? `
+                <!-- Detailed Analysis Section -->
+                <div class="card" style="grid-column: 1 / -1;">
+                    <h3>🔍 Detailed Analysis</h3>
+                    <p style="color: #6b7280; font-size: 0.875rem; margin-bottom: 1rem;">Based on ${detailedProfile.summary?.message_count || 0} messages across ${detailedProfile.summary?.channels_active || 0} channels</p>
+                </div>
+
+                <div class="card">
+                    <h3>💬 Sentiment Markers</h3>
+                    ${detailedProfile.categories.sentiment.negative_markers?.length ? `
+                    <div style="margin-bottom: 1.5rem;">
+                        <div style="color: #f87171; font-weight: 600; margin-bottom: 0.75rem;">⚠️ Negative Markers (${detailedProfile.categories.sentiment.neg_count})</div>
+                        ${detailedProfile.categories.sentiment.negative_markers.slice(0, 5).map(m => `
+                            <div style="background: rgba(248,113,113,0.1); padding: 0.75rem; border-radius: 8px; margin-bottom: 0.5rem; font-size: 0.85rem;">
+                                <div style="color: #f87171; font-size: 0.7rem; text-transform: uppercase; margin-bottom: 0.25rem;">${m.category}</div>
+                                <div style="color: #9ca3af;">${escapeHtml(m.text)}</div>
+                                <div style="color: #6b7280; font-size: 0.75rem; margin-top: 0.25rem;">#${m.channel} · ${m.timestamp}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    ` : '<div style="color: #34d399; margin-bottom: 1rem;">✓ No negative markers found</div>'}
+                    ${detailedProfile.categories.sentiment.positive_markers?.length ? `
+                    <div>
+                        <div style="color: #34d399; font-weight: 600; margin-bottom: 0.75rem;">✓ Positive Markers (${detailedProfile.categories.sentiment.pos_count})</div>
+                        ${detailedProfile.categories.sentiment.positive_markers.slice(0, 5).map(m => `
+                            <div style="background: rgba(52,211,153,0.1); padding: 0.75rem; border-radius: 8px; margin-bottom: 0.5rem; font-size: 0.85rem;">
+                                <div style="color: #34d399; font-size: 0.7rem; text-transform: uppercase; margin-bottom: 0.25rem;">${m.category}</div>
+                                <div style="color: #9ca3af;">${escapeHtml(m.text)}</div>
+                                <div style="color: #6b7280; font-size: 0.75rem; margin-top: 0.25rem;">#${m.channel} · ${m.timestamp}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    ` : '<div style="color: #6b7280;">No positive markers found</div>'}
+                </div>
+
+                <div class="card">
+                    <h3>🏢 Department Comparison</h3>
+                    <div style="text-align: center; padding: 1rem;">
+                        <div style="font-size: 2rem; font-weight: 700; color: #a855f7;">#${detailedProfile.department_comparison?.dept_rank || '?'}</div>
+                        <div style="color: #9ca3af; font-size: 0.875rem;">of ${detailedProfile.department_comparison?.dept_size || '?'} in ${detailedProfile.department_comparison?.department || 'Unknown'}</div>
+                    </div>
+                    <div class="stat-row">
+                        <span class="stat-label">Your 30d Avg</span>
+                        <span class="stat-value">${(detailedProfile.department_comparison?.user_score_30d ?? detailedProfile.department_comparison?.user_score)?.toFixed(2) || 'N/A'}</span>
+                    </div>
+                    <div class="stat-row">
+                        <span class="stat-label">Dept 30d Avg</span>
+                        <span class="stat-value">${(detailedProfile.department_comparison?.dept_average_30d ?? detailedProfile.department_comparison?.dept_average)?.toFixed(2) || 'N/A'}</span>
+                    </div>
+                    <div class="stat-row">
+                        <span class="stat-label">vs Dept Avg</span>
+                        <span class="stat-value ${((detailedProfile.department_comparison?.user_score_30d ?? detailedProfile.department_comparison?.user_score) - (detailedProfile.department_comparison?.dept_average_30d ?? detailedProfile.department_comparison?.dept_average)) >= 0 ? 'trend-up' : 'trend-down'}">
+                            ${(((detailedProfile.department_comparison?.user_score_30d ?? detailedProfile.department_comparison?.user_score) - (detailedProfile.department_comparison?.dept_average_30d ?? detailedProfile.department_comparison?.dept_average)) >= 0 ? '+' : '')}${((detailedProfile.department_comparison?.user_score_30d ?? detailedProfile.department_comparison?.user_score) - (detailedProfile.department_comparison?.dept_average_30d ?? detailedProfile.department_comparison?.dept_average))?.toFixed(2) || 'N/A'}
+                        </span>
+                    </div>
+                    <div style="font-size: 0.7rem; color: #6b7280; text-align: center; margin-top: 0.75rem;">Based on 30-day rolling averages</div>
+                </div>
+
+                <div class="card">
+                    <h3>📢 Top Channels</h3>
+                    ${detailedProfile.categories.channel_connections?.top_channels?.slice(0, 8).map((ch, i) => `
+                        <div class="stat-row">
+                            <span class="stat-label">#${ch.channel}</span>
+                            <span class="stat-value">${ch.messages} msgs</span>
+                        </div>
+                    `).join('') || '<div style="color: #6b7280;">No channel data</div>'}
+                </div>
+
+                <div class="card">
+                    <h3>👥 Network: Who They Mention</h3>
+                    ${detailedProfile.categories.outbound_mentions?.top_mentioned?.slice(0, 8).map(m => `
+                        <div class="stat-row">
+                            <span class="stat-label">@${m.user}</span>
+                            <span class="stat-value">${m.count}x</span>
+                        </div>
+                    `).join('') || '<div style="color: #6b7280;">No mentions data</div>'}
+                </div>
+
+                <div class="card">
+                    <h3>📣 Network: Who Mentions Them</h3>
+                    ${detailedProfile.categories.inbound_mentions?.top_mentioners?.slice(0, 8).map(m => `
+                        <div class="stat-row">
+                            <span class="stat-label">@${m.user}</span>
+                            <span class="stat-value">${m.count}x</span>
+                        </div>
+                    `).join('') || '<div style="color: #6b7280;">No mentions data</div>'}
+                </div>
+
+                <div class="card">
+                    <h3>📅 Activity by Day</h3>
+                    <div style="display: flex; justify-content: space-between; gap: 0.5rem;">
+                        ${['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'].map(day => {
+                            const count = detailedProfile.activity_patterns?.by_day?.[day] || 0;
+                            const maxCount = Math.max(...Object.values(detailedProfile.activity_patterns?.by_day || {1: 1}));
+                            const height = maxCount > 0 ? (count / maxCount * 80) : 0;
+                            return `
+                                <div style="flex: 1; text-align: center;">
+                                    <div style="height: 80px; display: flex; align-items: flex-end; justify-content: center;">
+                                        <div style="width: 100%; max-width: 40px; height: ${Math.max(height, 4)}px; background: linear-gradient(to top, #6366f1, #a855f7); border-radius: 4px 4px 0 0;"></div>
+                                    </div>
+                                    <div style="font-size: 0.7rem; color: #9ca3af; margin-top: 0.5rem;">${day.slice(0, 3)}</div>
+                                    <div style="font-size: 0.75rem; color: #e1e1e6;">${count}</div>
+                                </div>
+                            `;
+                        }).join('')}
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3>🕐 Activity by Hour</h3>
+                    <div style="display: flex; gap: 2px; align-items: flex-end; height: 100px;">
+                        ${Array.from({length: 24}, (_, hour) => {
+                            const count = detailedProfile.activity_patterns?.by_hour?.[hour] || 0;
+                            const maxCount = Math.max(...Object.values(detailedProfile.activity_patterns?.by_hour || {0: 1}));
+                            const height = maxCount > 0 ? (count / maxCount * 100) : 0;
+                            const color = hour >= 9 && hour < 17 ? '#6366f1' : '#4b5563';
+                            return `<div style="flex: 1; height: ${Math.max(height, 2)}%; background: ${color}; border-radius: 2px 2px 0 0;" title="${hour}:00 - ${count} messages"></div>`;
+                        }).join('')}
+                    </div>
+                    <div style="display: flex; justify-content: space-between; margin-top: 0.5rem; font-size: 0.7rem; color: #6b7280;">
+                        <span>12am</span>
+                        <span>6am</span>
+                        <span>12pm</span>
+                        <span>6pm</span>
+                        <span>12am</span>
+                    </div>
+                </div>
+                ` : ''}
+
+                <div class="card">
+                    <h3>📋 Raw Metrics (vs p50 baseline)</h3>
+                    <div class="metrics-grid">
+                        <div class="metric-box">
+                            <div class="metric-value">${userData.raw_metrics?.message_count || 'N/A'}</div>
+                            <div class="metric-label">Messages Analyzed</div>
+                        </div>
+                        <div class="metric-box">
+                            <div class="metric-value">${userData.raw_metrics?.pos_markers || 0} / ${userData.raw_metrics?.neg_markers || 0}</div>
+                            <div class="metric-label">Positive / Negative Markers</div>
+                        </div>
+                        <div class="metric-box">
+                            <div class="metric-value">${userData.raw_metrics?.outbound_mentions || 0}</div>
+                            <div class="metric-label">Unique People Mentioned</div>
+                            <div class="metric-vs">p50: ${trustData.p50_baselines?.outbound_mentions || 'N/A'}</div>
+                        </div>
+                        <div class="metric-box">
+                            <div class="metric-value">${userData.raw_metrics?.channel_connections || 0}</div>
+                            <div class="metric-label">Channel Connections</div>
+                            <div class="metric-vs">p50: ${trustData.p50_baselines?.channel_connections || 'N/A'}</div>
+                        </div>
+                        <div class="metric-box">
+                            <div class="metric-value">${userData.raw_metrics?.inbound_mentions || 0}</div>
+                            <div class="metric-label">Times Mentioned by Others</div>
+                            <div class="metric-vs">p50: ${trustData.p50_baselines?.inbound_mentions || 'N/A'}</div>
+                        </div>
+                        <div class="metric-box">
+                            <div class="metric-value">${trustData.department_averages?.[userData.department]?.toFixed(2) || 'N/A'}</div>
+                            <div class="metric-label">Dept Average (${userData.department})</div>
+                        </div>
+                        ${userData.raw_metrics?.skills_count ? `
+                        <div class="metric-box">
+                            <div class="metric-value">${userData.raw_metrics.skills_count}</div>
+                            <div class="metric-label">Skills Listed</div>
+                            <div class="metric-vs">p50: ${trustData.p50_baselines?.skills || 'N/A'}</div>
+                        </div>
+                        ` : ''}
+                        ${userData.raw_metrics?.awards_received ? `
+                        <div class="metric-box">
+                            <div class="metric-value">${userData.raw_metrics.awards_received}</div>
+                            <div class="metric-label">Awards Received</div>
+                            <div class="metric-vs">p50: ${trustData.p50_baselines?.awards || 'N/A'}</div>
+                        </div>
+                        ` : ''}
+                        ${userData.raw_metrics?.ai_spend_usd ? `
+                        <div class="metric-box">
+                            <div class="metric-value">$${userData.raw_metrics.ai_spend_usd.toLocaleString()}</div>
+                            <div class="metric-label">AI Spend (180d)</div>
+                            <div class="metric-vs">p50: $${trustData.p50_baselines?.ai_spend?.toLocaleString() || 'N/A'}</div>
+                        </div>
+                        ` : ''}
+                    </div>
+                </div>
+            `;
+        }
+
+        loadData();
+    </script>
+</body>
+</html>

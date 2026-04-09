@@ -1,0 +1,281 @@
+{
+  "username": "trish.gillett",
+  "name": "Trish Gillett",
+  "generated_at": "2026-04-08T20:22:21.981359",
+  "summary": {
+    "message_count": 332,
+    "channels_active": 29,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 17,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Yes, we're confident it will be addressed. We've already shipped a change that will purge this teal bump within the next day or so, and",
+          "channel": "ae-costs-theme",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good, thank you!",
+          "channel": "ae-costs-theme",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "yup, <https://github.com/Shopify/data-warehouse/blob/main/meltano/data_warehouse/subconfigs/infrastructure/github.yml#L656|they're in extraction",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "If Pi doesn't have any good leads, don't hesitate to ask in <#C05FN47DZGX>",
+          "channel": "infrastructure-data",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!  About a PB total for these 5. An off-cycle deprecation for the first 3 in particular would be worth the effort! Think it's viable for",
+          "channel": "proj-data-platform-enforce-partition-filters",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hard one to name!  <@W018GB0K9S9> feel free to rename it when you're back if you have a preference!",
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing!  Thank you so much!",
+          "channel": "proj-dw-log-data-optimization",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing!  Thank you so much!",
+          "channel": "proj-dw-log-data-optimization",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think you'll need to build something into whatever process is creating/updating your table, so that any time it writes it follows that up by",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Darn, I was hoping there would be a sneaky way around it. Does anyone have any workflows to make it a little less painful? For example,  instead of",
+          "channel": "data-engineering-ai",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "ariane.schang",
+          "count": 5
+        },
+        {
+          "user": "john.comar",
+          "count": 5
+        },
+        {
+          "user": "keegan.hoyt",
+          "count": 5
+        },
+        {
+          "user": "auggie.fisher",
+          "count": 5
+        },
+        {
+          "user": "dimitri.yacoub",
+          "count": 4
+        },
+        {
+          "user": "sana.asghar",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 3
+        },
+        {
+          "user": "dan.wolinsky",
+          "count": 3
+        },
+        {
+          "user": "kennedy.murphy",
+          "count": 2
+        },
+        {
+          "user": "marvin.davila",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.95,
+      "count": 235,
+      "top_channels": [
+        {
+          "channel": "dw-infra-data-goalie",
+          "messages": 46
+        },
+        {
+          "channel": "ae-costs-theme",
+          "messages": 43
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 41
+        },
+        {
+          "channel": "infrastructure-data",
+          "messages": 37
+        },
+        {
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "messages": 33
+        },
+        {
+          "channel": "catalog-data",
+          "messages": 32
+        },
+        {
+          "channel": "proj-dw-log-data-optimization",
+          "messages": 30
+        },
+        {
+          "channel": "data-engineering-ai",
+          "messages": 14
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 11
+        },
+        {
+          "channel": "ae-self-service-theme",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 95,
+      "top_mentioners": [
+        {
+          "user": "dimitri.yacoub",
+          "count": 22
+        },
+        {
+          "user": "cliff.leighton",
+          "count": 9
+        },
+        {
+          "user": "ian.robertson",
+          "count": 6
+        },
+        {
+          "user": "joirdan.gumbs",
+          "count": 6
+        },
+        {
+          "user": "john.comar",
+          "count": 5
+        },
+        {
+          "user": "chase.platon",
+          "count": 4
+        },
+        {
+          "user": "adam.rubinstein",
+          "count": 3
+        },
+        {
+          "user": "sana.asghar",
+          "count": 3
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 3
+        },
+        {
+          "user": "auggie.fisher",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 52,
+      "4": 4,
+      "23": 6,
+      "20": 28,
+      "19": 50,
+      "3": 6,
+      "22": 15,
+      "21": 25,
+      "16": 35,
+      "14": 17,
+      "18": 34,
+      "13": 2,
+      "2": 6,
+      "1": 6,
+      "17": 37,
+      "0": 8,
+      "5": 1
+    },
+    "by_day": {
+      "Wednesday": 72,
+      "Tuesday": 79,
+      "Monday": 66,
+      "Friday": 42,
+      "Thursday": 73
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.63,
+    "dept_average_30d": 5.39,
+    "dept_rank": 28,
+    "dept_size": 272
+  }
+}

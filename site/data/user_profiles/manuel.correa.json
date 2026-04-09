@@ -1,0 +1,194 @@
+{
+  "username": "manuel.correa",
+  "name": "Manuel Correa",
+  "generated_at": "2026-04-08T20:22:22.118740",
+  "summary": {
+    "message_count": 737,
+    "channels_active": 5,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "in any case, feel free to deploy now.",
+          "channel": "observability-profiling-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "well, thats a first one, now is even trying to graph the thing in the cli\n\n\n```All 18 pods are now running the new image (f6758f795), no more",
+          "channel": "proj-observability-profiles-insights",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!. let me know how can i help",
+          "channel": "proj-observability-profiles-insights",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! let me know once you have some of the skills up. see if i can use that for inspiration",
+          "channel": "observability-profiling",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing",
+          "channel": "proj-observability-profiles-insights",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "ok, that endpoint should do then. I can help with a new set of basic auth credentials when ready",
+          "channel": "observability-profiling",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!. so far looks good to me",
+          "channel": "observability-profiling",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-observability-profiles-insights",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "and i'm actually of monday/tuesday as i mentioned before :sweat-blob:",
+          "channel": "observability-profiling-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "well, prod deployment didn't work with whatever the claude skill used. <https://github.com/Shopify/grafana-pyroscope-deploy/pull/407>",
+          "channel": "proj-observability-profiles-insights",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ok so. who is doing what? happy to take whatever from that issue list",
+          "channel": "proj-observability-profiles-insights",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever works in light/dark theme",
+          "channel": "proj-observability-profiles-insights",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "dale.hamel",
+          "count": 3
+        },
+        {
+          "user": "bassam.mansoob",
+          "count": 1
+        },
+        {
+          "user": "guillaume.malette",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.95,
+      "count": 25,
+      "top_channels": [
+        {
+          "channel": "proj-observability-profiles-insights",
+          "messages": 530
+        },
+        {
+          "channel": "observability-profiling-alerts",
+          "messages": 176
+        },
+        {
+          "channel": "observability-profiling",
+          "messages": 27
+        },
+        {
+          "channel": "proj-observe-ai",
+          "messages": 2
+        },
+        {
+          "channel": "o11y-code-extension",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "dale.hamel",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 94,
+      "17": 55,
+      "16": 98,
+      "13": 100,
+      "10": 6,
+      "23": 4,
+      "20": 39,
+      "19": 111,
+      "14": 89,
+      "21": 5,
+      "18": 79,
+      "12": 54,
+      "11": 1,
+      "9": 2
+    },
+    "by_day": {
+      "Wednesday": 197,
+      "Friday": 73,
+      "Thursday": 187,
+      "Tuesday": 180,
+      "Monday": 100
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.93,
+    "dept_average_30d": 5.75,
+    "dept_rank": 296,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "username": "christine.borgia",
+  "name": "Christine Borgia",
+  "generated_at": "2026-04-08T20:22:28.329577",
+  "summary": {
+    "message_count": 356,
+    "channels_active": 21,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 8,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "notification-platform-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing thank you!",
+          "channel": "notification-platform-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing thank you!",
+          "channel": "notification-platform-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! No, it's where we test new alerts",
+          "channel": "notification-platform-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U07ALLYANEL> amazing. and per our discussion yesterday, please inform <#C01DHE2PZ9V> and <#C7M0QPLLB> and get their opinion/approval on this",
+          "channel": "email-deliverability",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "lol auto message from Claude (CC= Claude Code) -- sorry about that",
+          "channel": "suspicious-activity-investigation",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah! My bad, I thought it was a comment in Rob\u2019s thread!",
+          "channel": "email-deliverability",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "okay thanks!",
+          "channel": "email-deliverability",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": ":claude-panic: :rotating_light: *OTP Email Delivery Alert \u2014 Gmail / Mailgun \u2014 Platform-Level Latency*  *P90: 42,905s (~12 hours) \u2014 threshold is 10s*",
+          "channel": "email-reputation",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Claude seriously does whatever the F it wants",
+          "channel": "email-deliverability",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U07ALLYANEL> My recommendation is that a welcome email should be considered marketing. Please talk to the Shopify Messaging team about whether",
+          "channel": "email-deliverability",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "99% of the time I have Claude look up whatever it's looking up, and I don't even save the output. If I wanted to save the output, I'd likely use BQ.",
+          "channel": "notification-data",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.3,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "mary.sohn",
+          "count": 10
+        },
+        {
+          "user": "wayne.mehl",
+          "count": 7
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 5
+        },
+        {
+          "user": "mike.redan",
+          "count": 4
+        },
+        {
+          "user": "justin.fleming",
+          "count": 3
+        },
+        {
+          "user": "erika.leblanc",
+          "count": 2
+        },
+        {
+          "user": "charlotte.seedhouse",
+          "count": 2
+        },
+        {
+          "user": "rebecca.dy",
+          "count": 2
+        },
+        {
+          "user": "patrick.crane",
+          "count": 2
+        },
+        {
+          "user": "lourdes.crivelli",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.89,
+      "count": 171,
+      "top_channels": [
+        {
+          "channel": "email-reputation",
+          "messages": 135
+        },
+        {
+          "channel": "email-deliverability",
+          "messages": 47
+        },
+        {
+          "channel": "notification-platform-team",
+          "messages": 39
+        },
+        {
+          "channel": "notification-platform-dev",
+          "messages": 36
+        },
+        {
+          "channel": "tmp-email-deliverability-test-alerts",
+          "messages": 30
+        },
+        {
+          "channel": "help-notification-platform",
+          "messages": 18
+        },
+        {
+          "channel": "email-squad-reports",
+          "messages": 14
+        },
+        {
+          "channel": "suspicious-activity-investigation",
+          "messages": 9
+        },
+        {
+          "channel": "enable-marketing-acceleration-rnd",
+          "messages": 7
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.36,
+      "count": 20,
+      "top_mentioners": [
+        {
+          "user": "mary.sohn",
+          "count": 7
+        },
+        {
+          "user": "wayne.mehl",
+          "count": 4
+        },
+        {
+          "user": "erika.leblanc",
+          "count": 4
+        },
+        {
+          "user": "sylvain.hamann",
+          "count": 1
+        },
+        {
+          "user": "robert.wang",
+          "count": 1
+        },
+        {
+          "user": "alessio.lora",
+          "count": 1
+        },
+        {
+          "user": "lourdes.crivelli",
+          "count": 1
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 37,
+      "17": 39,
+      "23": 1,
+      "16": 41,
+      "4": 2,
+      "18": 36,
+      "20": 48,
+      "21": 3,
+      "3": 2,
+      "22": 1,
+      "14": 49,
+      "13": 45,
+      "19": 22,
+      "12": 11,
+      "9": 1,
+      "7": 1,
+      "2": 3,
+      "11": 13,
+      "0": 1
+    },
+    "by_day": {
+      "Tuesday": 50,
+      "Monday": 59,
+      "Friday": 80,
+      "Thursday": 88,
+      "Wednesday": 79
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.28,
+    "dept_average_30d": 4.74,
+    "dept_rank": 416,
+    "dept_size": 1663
+  }
+}

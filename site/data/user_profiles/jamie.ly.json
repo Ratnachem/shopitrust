@@ -1,0 +1,280 @@
+{
+  "username": "jamie.ly",
+  "name": "Jamie Ly",
+  "generated_at": "2026-04-08T20:22:05.827336",
+  "summary": {
+    "message_count": 1210,
+    "channels_active": 36,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 45,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.4,
+      "pos_count": 29,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "<@W01AQRPKP1P> talked with <@W018WA7KHGR> a bit about this. Checkout kit team is going to burst in a month, and it sounds like there will be a bunch",
+          "channel": "checkout-kit-devs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Yes, thanks I appreciate it",
+          "channel": "shop-wallet-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> <@U02MDL119C2> I don't know, so feel free to try it. But why don't you create a separate PR to try?",
+          "channel": "checkout-e2e-flakiness-devs",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> look at the build above and let me know if there are infra issues with other similar builds",
+          "channel": "checkout-e2e-flakiness-devs",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Ok and feel free to have an llm jam on an alternative to the current PR",
+          "channel": "proj-pay-checkout-login-to-state-machine",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, that makes sense",
+          "channel": "proj-pay-checkout-login-to-state-machine",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh, that's perfect for my need, thank you",
+          "channel": "pair-review",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh ok, that is good to know, thank you, will add it to the list",
+          "channel": "proj-shop-pay-ecp",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "no worries, thank you",
+          "channel": "checkout-kit-devs",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "there's been work over the past few months ^ related to thank you pages, but that might not be the issue",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "It is something that came to mind. I _think_ typically we have tried to put it into the bridge with the first message, but that may be because we",
+          "channel": "shop-off-shopify-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "and then you should have a cookie in your jar on <http://shop.app|shop.app>",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "chris.bacon",
+          "count": 12
+        },
+        {
+          "user": "wilson.chiang",
+          "count": 7
+        },
+        {
+          "user": "alex.henkemeier",
+          "count": 6
+        },
+        {
+          "user": "chris.cosentino",
+          "count": 6
+        },
+        {
+          "user": "westin.wrzesinski",
+          "count": 5
+        },
+        {
+          "user": "michael.xu",
+          "count": 5
+        },
+        {
+          "user": "callum.kipin",
+          "count": 4
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 4
+        },
+        {
+          "user": "june.ha",
+          "count": 4
+        },
+        {
+          "user": "evan.brodie",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 413,
+      "top_channels": [
+        {
+          "channel": "shop-wallet-river",
+          "messages": 250
+        },
+        {
+          "channel": "shop-wallet-dev",
+          "messages": 176
+        },
+        {
+          "channel": "proj-shop-pay-ecp",
+          "messages": 153
+        },
+        {
+          "channel": "shop-off-shopify-dev",
+          "messages": 71
+        },
+        {
+          "channel": "checkout-kit-devs",
+          "messages": 67
+        },
+        {
+          "channel": "proj-retail-shop-pay",
+          "messages": 64
+        },
+        {
+          "channel": "inc-19486-looking-into-slow-burn-slos-firing-on-err",
+          "messages": 51
+        },
+        {
+          "channel": "help-shop-off-shopify",
+          "messages": 47
+        },
+        {
+          "channel": "shop-pay-installments-dev",
+          "messages": 42
+        },
+        {
+          "channel": "proj-pay-checkout-login-to-state-machine",
+          "messages": 41
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 120,
+      "top_mentioners": [
+        {
+          "user": "chris.bacon",
+          "count": 11
+        },
+        {
+          "user": "callum.kipin",
+          "count": 9
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 9
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 7
+        },
+        {
+          "user": "chris.cosentino",
+          "count": 7
+        },
+        {
+          "user": "michael.wilson",
+          "count": 6
+        },
+        {
+          "user": "alex.henkemeier",
+          "count": 6
+        },
+        {
+          "user": "derek.chau",
+          "count": 6
+        },
+        {
+          "user": "eros.dipede",
+          "count": 5
+        },
+        {
+          "user": "joe.rinaldijohnson",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 140,
+      "16": 165,
+      "15": 86,
+      "14": 76,
+      "12": 94,
+      "23": 12,
+      "22": 18,
+      "21": 71,
+      "20": 150,
+      "19": 69,
+      "13": 135,
+      "1": 33,
+      "0": 20,
+      "17": 117,
+      "11": 6,
+      "2": 18
+    },
+    "by_day": {
+      "Wednesday": 255,
+      "Tuesday": 339,
+      "Monday": 160,
+      "Friday": 215,
+      "Thursday": 241
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 7.0,
+    "dept_average_30d": 5.77,
+    "dept_rank": 58,
+    "dept_size": 885
+  }
+}

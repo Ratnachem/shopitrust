@@ -1,0 +1,316 @@
+{
+  "username": "jacob.lott",
+  "name": "Jacob Lott",
+  "generated_at": "2026-04-08T20:22:17.584859",
+  "summary": {
+    "message_count": 1269,
+    "channels_active": 63,
+    "unique_people_mentioned": 31,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 27,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M>  Perfect, the encoding works, thank you! Now I need to compare my app's runtime config against expected values. Can you run this to",
+          "channel": "app-infra-river-thames",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "got it, thanks. We have the upgrade deadline coming up in a couple weeks so let me know if I can be of any help",
+          "channel": "identity-graph",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Good points. I don't think my PR alone covers the action item because really my PR is only one type of override submission (the one we use for BFCM",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I am really happy to hear that. Thank you for sharing your experience!",
+          "channel": "proj-infra-river-k8s-debug",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it, thank you for the options!",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "no problem, let me know if you see any further problems!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Thanks for keeping up the pace everyone :smile: I'm trying to clear out our staging clusters or at least close to it. I know we have some apps-core",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "good callout. Thank you so much!!",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "got it, awesome. let me know if you need help with migrations/removing the old clusters when moved over",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> please allow to say please and thank you and please and thank you and please and thank you and please and thank you and please and",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "From the meeting: Let's block target actuator by default on presence of playbook.md for app environments. Also move readme playbook info to",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "no problem, it might be able to help out here while I'm in a meeting but if it can't figure it out I'll also dig in deeper",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "yeah I think it's a good point. The repo is littered with useless READMEs",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "How is it enforced that River is getting access to whatever the average employee/engineer gets access to? Also the average employee vs average",
+          "channel": "proj-infra-river-k8s-debug",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Not a stupid question! Let's see if <@U0AEPQCKB3M> has an accurate explanation",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have permission to restart from there",
+          "channel": "inv-20235-argus-event-broadcasting-latency-includin",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; the consequence is code duplication and wrappers everywhere\nThe price of safety perhaps. I think it's like restricted org (or whatever it's",
+          "channel": "proj-agentic-debugging-k8s",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "devon.boyer",
+          "count": 16
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 11
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 8
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 7
+        },
+        {
+          "user": "louis.munro",
+          "count": 7
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 6
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 5
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 5
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 5
+        },
+        {
+          "user": "ernie.makris",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 595,
+      "top_channels": [
+        {
+          "channel": "proj-infra-river-k8s-debug",
+          "messages": 213
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 151
+        },
+        {
+          "channel": "proj-agentic-debugging-k8s",
+          "messages": 142
+        },
+        {
+          "channel": "app-infra-gke-134",
+          "messages": 137
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 111
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 51
+        },
+        {
+          "channel": "app-infra-river-thames",
+          "messages": 46
+        },
+        {
+          "channel": "river",
+          "messages": 29
+        },
+        {
+          "channel": "river-jacob",
+          "messages": 26
+        },
+        {
+          "channel": "bfcm-2026-scale-tests",
+          "messages": 25
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.58,
+      "count": 68,
+      "top_mentioners": [
+        {
+          "user": "daniel.steuernol",
+          "count": 8
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 8
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 7
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 5
+        },
+        {
+          "user": "louis.munro",
+          "count": 4
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 3
+        },
+        {
+          "user": "carlos.l.perez",
+          "count": 3
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 3
+        },
+        {
+          "user": "anya.zenkina",
+          "count": 2
+        },
+        {
+          "user": "matthias.kleven",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 161,
+      "16": 131,
+      "14": 147,
+      "13": 140,
+      "12": 80,
+      "11": 37,
+      "20": 55,
+      "19": 137,
+      "18": 125,
+      "15": 167,
+      "10": 40,
+      "22": 2,
+      "21": 7,
+      "9": 19,
+      "3": 11,
+      "2": 6,
+      "23": 4
+    },
+    "by_day": {
+      "Wednesday": 285,
+      "Tuesday": 323,
+      "Monday": 167,
+      "Friday": 208,
+      "Thursday": 286
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.91,
+    "dept_average_30d": 5.75,
+    "dept_rank": 25,
+    "dept_size": 357
+  }
+}

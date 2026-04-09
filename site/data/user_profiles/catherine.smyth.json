@@ -1,0 +1,176 @@
+{
+  "username": "catherine.smyth",
+  "name": "Catherine Smyth",
+  "generated_at": "2026-04-08T20:22:16.960114",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 3,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thanks you <@U03CT1ZPPJA>! That link doesn't work for me, but I think we can figure it out with the second method.\n\n<@U09GJEBC38E> - can you please",
+          "channel": "shop-pay-installments-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It worked, thank you very much!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W018PTAM8SY> - I'm still having difficulties with this Quote. Was there a resolution? Thank you! cc: <@U096N81C761>",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "We don't have a master list with shop id as we track everything in Salesforce currently (at the Opp or Account level). When an Opportunity is won, we",
+          "channel": "proj-sp-pricing-redesign",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh gottcha, thank you! I was misinterpreting your message as SPCC merchants were being categorized as not using Shopify Payments. <@U08PPN32VAR> I",
+          "channel": "proj-sp-pricing-redesign",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! I'm trying to edit the Product Rate on <https://banff.lightning.force.com/lightning/r/SBQQ__Quote__c/a3qOG000004M5sQYAS/view|this Quote> to",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Thanks you <@U03CT1ZPPJA>! That link doesn't work for me, but I think we can figure it out with the second method.\n\n<@U09GJEBC38E> - can you please",
+          "channel": "shop-pay-installments-dev",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "kelli.josefsson",
+          "count": 2
+        },
+        {
+          "user": "monika.parikh",
+          "count": 2
+        },
+        {
+          "user": "derek.chau",
+          "count": 1
+        },
+        {
+          "user": "ron.danino",
+          "count": 1
+        },
+        {
+          "user": "marly.suarez",
+          "count": 1
+        },
+        {
+          "user": "cassie.steinberg",
+          "count": 1
+        },
+        {
+          "user": "blake.hanestad",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.54,
+      "count": 67,
+      "top_channels": [
+        {
+          "channel": "proj-sp-pricing-redesign",
+          "messages": 7
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 5
+        },
+        {
+          "channel": "shop-pay-installments-dev",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "kelli.josefsson",
+          "count": 3
+        },
+        {
+          "user": "marly.suarez",
+          "count": 2
+        },
+        {
+          "user": "ria.bhavnani",
+          "count": 1
+        },
+        {
+          "user": "monika.parikh",
+          "count": 1
+        },
+        {
+          "user": "blake.hanestad",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 5,
+      "18": 1,
+      "21": 1,
+      "20": 1,
+      "16": 2,
+      "23": 3,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Tuesday": 3,
+      "Monday": 2,
+      "Friday": 1,
+      "Thursday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 4.1,
+    "dept_average_30d": 5.58,
+    "dept_rank": 374,
+    "dept_size": 398
+  }
+}

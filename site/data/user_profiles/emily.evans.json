@@ -1,0 +1,267 @@
+{
+  "username": "emily.evans",
+  "name": "Emily Evans",
+  "generated_at": "2026-04-08T20:22:15.169455",
+  "summary": {
+    "message_count": 184,
+    "channels_active": 17,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "So the dag failures are what generates the events to send to the event_distribution platform, which used to be from the segment.  I would assume the",
+          "channel": "marketing-conversion-event-alerts",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "o okay cool thanks!",
+          "channel": "marketing-conversion-event-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "yeah im curious if its a perms issue (we've had some weird issues with the data mesh recently) or if something changed with the table. let me know if",
+          "channel": "marketing-conversion-event-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "everything has run through the wbrs by now let me know if any issues!",
+          "channel": "inc-20443-marketing-data-infrastructure-failures",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome thanks!\n\nyeah, I wonder why its sometimes null, what do you end up deduping by? I would question if you would want to have some default value",
+          "channel": "help-growth-data",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ooo thank you! let me check that against the model list I have and see if I can get some answers! thanks <@W018HT6CCAF>!",
+          "channel": "help-melody",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome thank you!",
+          "channel": "inc-20443-marketing-data-infrastructure-failures",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "yes I'l love to I can send a cal invite, feel free to move as needed!",
+          "channel": "proj-marketing-creative-metrics",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yep at least the table we started investigating has data from yesterday so its good my bad for the false alarm",
+          "channel": "commercial-optimization-ops",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "o lol i had the date selector set to yesterday  :facepalm: my bad",
+          "channel": "commercial-optimization-ops",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm going to log off for today but ideally I would love to have signoff to merge on Monday morning or have time to make whatever fixes are necessary.",
+          "channel": "inc-20443-marketing-data-infrastructure-failures",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "emily.skublics",
+          "count": 4
+        },
+        {
+          "user": "adi.matheswaran",
+          "count": 4
+        },
+        {
+          "user": "gary.kamen",
+          "count": 4
+        },
+        {
+          "user": "delaney.brow",
+          "count": 2
+        },
+        {
+          "user": "shelby.catania",
+          "count": 2
+        },
+        {
+          "user": "tom.houston",
+          "count": 2
+        },
+        {
+          "user": "jill.cates",
+          "count": 2
+        },
+        {
+          "user": "abraham.woo",
+          "count": 1
+        },
+        {
+          "user": "amanda.fowler",
+          "count": 1
+        },
+        {
+          "user": "justin.arak",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.4,
+      "count": 206,
+      "top_channels": [
+        {
+          "channel": "growth-data-sdp-critical",
+          "messages": 35
+        },
+        {
+          "channel": "proj-marketing-creative-metrics",
+          "messages": 31
+        },
+        {
+          "channel": "growth-data-sdp-notifications",
+          "messages": 18
+        },
+        {
+          "channel": "marketing-conversion-event-alerts",
+          "messages": 17
+        },
+        {
+          "channel": "inc-20443-marketing-data-infrastructure-failures",
+          "messages": 16
+        },
+        {
+          "channel": "help-growth-data",
+          "messages": 16
+        },
+        {
+          "channel": "proj-melody-batch-events-in-sdp",
+          "messages": 13
+        },
+        {
+          "channel": "emily-or-river",
+          "messages": 7
+        },
+        {
+          "channel": "help-melody",
+          "messages": 6
+        },
+        {
+          "channel": "growth-marketing-enablement",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.85,
+      "count": 61,
+      "top_mentioners": [
+        {
+          "user": "erika.hellauer",
+          "count": 9
+        },
+        {
+          "user": "akanksha",
+          "count": 7
+        },
+        {
+          "user": "adi.matheswaran",
+          "count": 7
+        },
+        {
+          "user": "delaney.brow",
+          "count": 5
+        },
+        {
+          "user": "breanna.pilon",
+          "count": 4
+        },
+        {
+          "user": "emily.skublics",
+          "count": 3
+        },
+        {
+          "user": "justin.arak",
+          "count": 2
+        },
+        {
+          "user": "mariusz.wejman",
+          "count": 2
+        },
+        {
+          "user": "joseph.t.dimarco",
+          "count": 2
+        },
+        {
+          "user": "paul.drabinski",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "14": 30,
+      "21": 17,
+      "20": 23,
+      "17": 10,
+      "16": 19,
+      "15": 32,
+      "13": 7,
+      "19": 26,
+      "22": 5
+    },
+    "by_day": {
+      "Wednesday": 47,
+      "Tuesday": 41,
+      "Monday": 47,
+      "Friday": 28,
+      "Thursday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.98,
+    "dept_average_30d": 5.58,
+    "dept_rank": 134,
+    "dept_size": 398
+  }
+}

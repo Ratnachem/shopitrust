@@ -1,0 +1,228 @@
+{
+  "username": "adrian.prayogo",
+  "name": "Adrian Prayogo",
+  "generated_at": "2026-04-08T20:22:07.960430",
+  "summary": {
+    "message_count": 374,
+    "channels_active": 17,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@U025M98JLJZ> this is fixed now, thank you for flagging this",
+          "channel": "help-observability",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh!, thank you!",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you!",
+          "channel": "inv-21017-storefront-and-shop-user-recognition-top-",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> yes, however we should still do a `yarn install` after the cache download in case of a cache miss for whatever reason. This was a code",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "ryan.woodworth",
+          "count": 9
+        },
+        {
+          "user": "andy.fleming",
+          "count": 3
+        },
+        {
+          "user": "dustin.hooten",
+          "count": 3
+        },
+        {
+          "user": "erin.noepayne",
+          "count": 3
+        },
+        {
+          "user": "jenna.black",
+          "count": 2
+        },
+        {
+          "user": "sonal.sharma",
+          "count": 2
+        },
+        {
+          "user": "james.go",
+          "count": 1
+        },
+        {
+          "user": "joey.yu",
+          "count": 1
+        },
+        {
+          "user": "samuel.dufel",
+          "count": 1
+        },
+        {
+          "user": "himanshu.chhabra",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.62,
+      "count": 122,
+      "top_channels": [
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 187
+        },
+        {
+          "channel": "proj-observe-ai",
+          "messages": 59
+        },
+        {
+          "channel": "proj-o11y-monorepo",
+          "messages": 36
+        },
+        {
+          "channel": "opencode-ai",
+          "messages": 17
+        },
+        {
+          "channel": "help-observability",
+          "messages": 16
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 14
+        },
+        {
+          "channel": "inv-21017-storefront-and-shop-user-recognition-top-",
+          "messages": 13
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20879-e2e-shop-pay-switch-accounts-test-failing",
+          "messages": 4
+        },
+        {
+          "channel": "rss-ai",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "andy.fleming",
+          "count": 5
+        },
+        {
+          "user": "erin.noepayne",
+          "count": 4
+        },
+        {
+          "user": "joey.yu",
+          "count": 4
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 4
+        },
+        {
+          "user": "ryan.woodworth",
+          "count": 2
+        },
+        {
+          "user": "ziyad.abdelmaguid",
+          "count": 2
+        },
+        {
+          "user": "sam.handler",
+          "count": 2
+        },
+        {
+          "user": "ollie.treend",
+          "count": 2
+        },
+        {
+          "user": "robert.habib",
+          "count": 1
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 49,
+      "17": 30,
+      "16": 52,
+      "15": 24,
+      "14": 21,
+      "13": 16,
+      "12": 11,
+      "4": 9,
+      "0": 3,
+      "20": 27,
+      "19": 44,
+      "9": 1,
+      "23": 4,
+      "22": 15,
+      "21": 44,
+      "3": 17,
+      "7": 2,
+      "1": 2,
+      "2": 2,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 108,
+      "Tuesday": 67,
+      "Monday": 91,
+      "Friday": 49,
+      "Thursday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.83,
+    "dept_average_30d": 5.75,
+    "dept_rank": 146,
+    "dept_size": 357
+  }
+}

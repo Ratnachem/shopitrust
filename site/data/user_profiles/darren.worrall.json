@@ -1,0 +1,206 @@
+{
+  "username": "darren.worrall",
+  "name": "Darren Worrall",
+  "generated_at": "2026-04-08T20:22:31.995001",
+  "summary": {
+    "message_count": 282,
+    "channels_active": 16,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I dont think I can help much but sure :smile:",
+          "channel": "inv-20211-one-of-the-core-deploy-targets-failed",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "hopefully you\u2019re all good in river land, sorry about the interruption",
+          "channel": "proj-infra-repo-vms-with-nix",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "also any thoughts on\n&gt; We could shorten this to one `POST` by having the `/evaluation` endpoint optionally take `output_path`, one fewer call",
+          "channel": "tectonix",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "jacob.rydh",
+          "count": 3
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 2
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 2
+        },
+        {
+          "user": "merve.taner",
+          "count": 1
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 1
+        },
+        {
+          "user": "mark.rattle",
+          "count": 1
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 1
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.16,
+      "count": 193,
+      "top_channels": [
+        {
+          "channel": "proj-infra-repo-vms-with-nix",
+          "messages": 137
+        },
+        {
+          "channel": "inv-20211-one-of-the-core-deploy-targets-failed",
+          "messages": 41
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 26
+        },
+        {
+          "channel": "proj-instant-dev-envs",
+          "messages": 22
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 16
+        },
+        {
+          "channel": "tectonix",
+          "messages": 16
+        },
+        {
+          "channel": "google-cloud-finances",
+          "messages": 6
+        },
+        {
+          "channel": "proj-entity-identifiers",
+          "messages": 4
+        },
+        {
+          "channel": "proj-infra-mcs-xds-routing",
+          "messages": 3
+        },
+        {
+          "channel": "production-infrastructure",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.33,
+      "count": 56,
+      "top_mentioners": [
+        {
+          "user": "matthew.frail",
+          "count": 8
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 7
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 4
+        },
+        {
+          "user": "anas.shahid",
+          "count": 4
+        },
+        {
+          "user": "alex.almeida",
+          "count": 3
+        },
+        {
+          "user": "chase.platon",
+          "count": 3
+        },
+        {
+          "user": "ashley.williams",
+          "count": 2
+        },
+        {
+          "user": "sean.ittel",
+          "count": 2
+        },
+        {
+          "user": "jia.wang",
+          "count": 2
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 29,
+      "9": 7,
+      "18": 20,
+      "17": 30,
+      "16": 28,
+      "14": 36,
+      "13": 46,
+      "12": 23,
+      "11": 40,
+      "19": 3,
+      "8": 2,
+      "21": 11,
+      "20": 5,
+      "22": 2
+    },
+    "by_day": {
+      "Tuesday": 121,
+      "Monday": 45,
+      "Friday": 20,
+      "Thursday": 35,
+      "Wednesday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.53,
+    "dept_average_30d": 5.75,
+    "dept_rank": 197,
+    "dept_size": 357
+  }
+}

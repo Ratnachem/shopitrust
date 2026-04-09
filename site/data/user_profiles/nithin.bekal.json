@@ -1,0 +1,115 @@
+{
+  "username": "nithin.bekal",
+  "name": "Nithin Bekal",
+  "generated_at": "2026-04-08T20:22:24.421429",
+  "summary": {
+    "message_count": 31,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "lsf-merchant-workflows-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Going to be picking up a bunch today and tomorrow, so I'll ping you. Thanks! :raised_hands:",
+          "channel": "lsf-merchant-workflows-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much! :raised_hands:",
+          "channel": "lsf-merchant-workflows-team",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "iain.wilson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.82,
+      "count": 48,
+      "top_channels": [
+        {
+          "channel": "merchant-workflows-river",
+          "messages": 21
+        },
+        {
+          "channel": "lsf-merchant-workflows-team",
+          "messages": 7
+        },
+        {
+          "channel": "online-store-ai",
+          "messages": 1
+        },
+        {
+          "channel": "lsf-new-exceptions",
+          "messages": 1
+        },
+        {
+          "channel": "pi",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "iain.wilson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 3,
+      "17": 6,
+      "14": 8,
+      "20": 5,
+      "15": 1,
+      "19": 1,
+      "18": 5,
+      "16": 2
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Tuesday": 8,
+      "Monday": 11,
+      "Thursday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.16,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1186,
+    "dept_size": 1233
+  }
+}

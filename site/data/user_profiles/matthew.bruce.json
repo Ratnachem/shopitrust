@@ -1,0 +1,287 @@
+{
+  "username": "matthew.bruce",
+  "name": "Matthew Bruce",
+  "generated_at": "2026-04-08T20:22:09.150537",
+  "summary": {
+    "message_count": 1008,
+    "channels_active": 32,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.2,
+      "pos_count": 6,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018PT7GX0U> want me to pull the generator stuff out of that PR?",
+          "channel": "job-platform-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<@U09D7GN707Q> That'll be due to the failovers - sorry about the page",
+          "channel": "job-platform-alerts",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome, thanks!",
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That'd be awesome - thanks!",
+          "channel": "infra-central",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey folks, just a heads up - we are scaling down the number of Redis queue partitions for each pod in core after gaining a large performance boost",
+          "channel": "live-site-monitoring",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Cool - let me know if you need an example - there should be a bunch scattered throughout the infrastructure repo though",
+          "channel": "help-caching-platform",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "When we move to Tarantool as the job store backing core, we shouldn't have to do this - vshard can shuffle the \"buckets\" of data around the",
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "awesome - I'll try and replicate tomorrow like I said and see if I can break a remote redis in the same way",
+          "channel": "job-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I'm not opposed to adding the Gem resolution logic to dev, but it would be useless for non Shopify apps if we ever open sourced",
+          "channel": "job-platform-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I dont see it there either:\n```$ kubectl --context commerce-loop-us-ce1-co4 -n flow-production-benchmark-unrestricted-szo3 get redisconnection",
+          "channel": "job-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I don't care about it \u00af\\_(\u30c4)_/\u00af",
+          "channel": "job-platform-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Have you pulled the logs for one of the jobs that had a large enqueue discrepancy, and then the logs for whatever enqueued it?",
+          "channel": "job-platform-alerts",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm looking at the client proxy usage CPU graphs for this time range, and while I see a dip followed by a recovery spike, I don't see any evidence of",
+          "channel": "job-platform",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "sander.verdonschot",
+          "count": 8
+        },
+        {
+          "user": "carol.yun",
+          "count": 5
+        },
+        {
+          "user": "denis.ivanov",
+          "count": 4
+        },
+        {
+          "user": "josh.broughton",
+          "count": 4
+        },
+        {
+          "user": "liam.stewart",
+          "count": 4
+        },
+        {
+          "user": "phil.boyd",
+          "count": 3
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "celina.assal",
+          "count": 2
+        },
+        {
+          "user": "james.hall",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 403,
+      "top_channels": [
+        {
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "messages": 328
+        },
+        {
+          "channel": "job-platform-team",
+          "messages": 167
+        },
+        {
+          "channel": "job-platform-alerts",
+          "messages": 135
+        },
+        {
+          "channel": "job-platform",
+          "messages": 102
+        },
+        {
+          "channel": "proj-tarantool-job-platform",
+          "messages": 43
+        },
+        {
+          "channel": "inv-20129-investigating-degraded-pre-auth-and-check",
+          "messages": 24
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20420-investigating-delayed-queue-size-growing-",
+          "messages": 23
+        },
+        {
+          "channel": "inv-21034-incomplete-pod-failovers",
+          "messages": 22
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 19
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 7
+        },
+        {
+          "user": "tim.borkhodoev",
+          "count": 6
+        },
+        {
+          "user": "mattie.toia",
+          "count": 4
+        },
+        {
+          "user": "josh.broughton",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 3
+        },
+        {
+          "user": "giorgos.logiotatidis",
+          "count": 3
+        },
+        {
+          "user": "sander.verdonschot",
+          "count": 2
+        },
+        {
+          "user": "celso.marciano",
+          "count": 2
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 1
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 147,
+      "17": 68,
+      "16": 94,
+      "15": 117,
+      "14": 158,
+      "13": 87,
+      "12": 35,
+      "11": 2,
+      "22": 22,
+      "21": 72,
+      "20": 78,
+      "19": 78,
+      "23": 24,
+      "0": 24,
+      "1": 1,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 403,
+      "Tuesday": 244,
+      "Friday": 140,
+      "Thursday": 146,
+      "Monday": 75
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.66,
+    "dept_average_30d": 5.75,
+    "dept_rank": 41,
+    "dept_size": 357
+  }
+}

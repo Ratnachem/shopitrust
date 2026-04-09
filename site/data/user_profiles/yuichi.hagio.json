@@ -1,0 +1,264 @@
+{
+  "username": "yuichi.hagio",
+  "name": "Yuichi Hagio",
+  "generated_at": "2026-04-08T20:22:16.205615",
+  "summary": {
+    "message_count": 268,
+    "channels_active": 14,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.1,
+      "pos_count": 21,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah ok thanks! I can wait :smile: I only need to run a base pipeline `reportify.base.core.base__core__gift_card_adjustments` with batch mode that",
+          "channel": "reportify-etl",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No worry :pray::skin-tone-3: thank you :bow::skin-tone-3:",
+          "channel": "reportify-etl",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018PT8KC84> Let me know if you still need it since it\u2019s claimed since Sunday but I see only needed for clickhouse migration sync?",
+          "channel": "reportify-etl",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :bow::skin-tone-3:",
+          "channel": "clickhouse-for-reportify",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both :pray::skin-tone-3: I will look and update the config",
+          "channel": "reportify-etl",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "&gt; not quite I\u2019m afraid as we still need Prescillia\u2019s <https://github.com/shop/world/pull/456796?ref=gt-system-tray-app|Set price list fixed prices",
+          "channel": "proj-local-currency-gift-cards",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "OK, thank you for investigating, will deploy again and retry from Airflow UI as well :pray::skin-tone-3:",
+          "channel": "reportify-etl",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh thank you for checking :bow::skin-tone-3: I ran the Airflow job after I deployed",
+          "channel": "reportify-etl",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for quick review. Just to clarify, I can simply remove `reportify.` prefix from all the migration files, and should still work? Do I need",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "OK, thank you :pray::skin-tone-3:",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "andy.polhill",
+          "count": 8
+        },
+        {
+          "user": "max.leopold",
+          "count": 5
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 4
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 3
+        },
+        {
+          "user": "jesse.tao",
+          "count": 3
+        },
+        {
+          "user": "joshua.kim",
+          "count": 3
+        },
+        {
+          "user": "alastair.lockie",
+          "count": 2
+        },
+        {
+          "user": "ben.rajabi",
+          "count": 2
+        },
+        {
+          "user": "yifan.ye",
+          "count": 2
+        },
+        {
+          "user": "michael.terranova",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.12,
+      "count": 244,
+      "top_channels": [
+        {
+          "channel": "proj-local-currency-gift-cards",
+          "messages": 67
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 62
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 32
+        },
+        {
+          "channel": "redeemables-exceptions",
+          "messages": 31
+        },
+        {
+          "channel": "reportify-etl-ops",
+          "messages": 21
+        },
+        {
+          "channel": "yuichi-river",
+          "messages": 20
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 12
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 9
+        },
+        {
+          "channel": "help-shopify-messaging-app",
+          "messages": 5
+        },
+        {
+          "channel": "help-localization",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "jesse.tao",
+          "count": 5
+        },
+        {
+          "user": "ben.rajabi",
+          "count": 4
+        },
+        {
+          "user": "alastair.lockie",
+          "count": 4
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 3
+        },
+        {
+          "user": "ani.panwar",
+          "count": 2
+        },
+        {
+          "user": "andy.polhill",
+          "count": 2
+        },
+        {
+          "user": "yifan.ye",
+          "count": 2
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 2
+        },
+        {
+          "user": "max.leopold",
+          "count": 2
+        },
+        {
+          "user": "ray.l.liu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 28,
+      "14": 23,
+      "16": 31,
+      "13": 33,
+      "22": 13,
+      "21": 11,
+      "20": 18,
+      "19": 28,
+      "12": 21,
+      "2": 2,
+      "0": 7,
+      "23": 7,
+      "15": 23,
+      "18": 21,
+      "11": 2
+    },
+    "by_day": {
+      "Wednesday": 69,
+      "Tuesday": 62,
+      "Monday": 53,
+      "Friday": 48,
+      "Thursday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.25,
+    "dept_average_30d": 5.77,
+    "dept_rank": 202,
+    "dept_size": 885
+  }
+}

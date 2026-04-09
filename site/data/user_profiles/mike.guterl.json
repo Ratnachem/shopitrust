@@ -1,0 +1,286 @@
+{
+  "username": "mike.guterl",
+  "name": "Mike Guterl",
+  "generated_at": "2026-04-08T20:22:08.507328",
+  "summary": {
+    "message_count": 591,
+    "channels_active": 39,
+    "unique_people_mentioned": 47,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 12,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No worries, thank you for fixing it! It has been fast tracked",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want to :tuple: I'm working on locks/transactions with <@U0AEPQCKB3M> and claude",
+          "channel": "draft-orders-unification",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sorry for the noise, we've been rolling out some pretty big changes. Feel free to ping <#C08155WC2HM> if you see anything else that is suspect",
+          "channel": "checkout-one-exceptions",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U033GFBQF8B> thank you for digging in and providing context :thank:",
+          "channel": "help-draft-orders",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for digging that up. Makes perfect sense to me that a custom product fails to fit the criteria listed on that page.",
+          "channel": "help-draft-orders",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey John, I'm not able to view the contents of those URLs. To move forward, could you ask the merchant to:\n1. Create a test draft order that",
+          "channel": "help-draft-orders",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'm ATC today, if the load is low, then I plan to keep debugging",
+          "channel": "inv-20522-draft-order-discounts-invalid-signature-s",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Sent an invite. Here's the PR: <https://github.com/shop/world/pull/521970>",
+          "channel": "draft-orders-unification",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Nice job <@U023AGGTARJ>!",
+          "channel": "draft-orders-production-support",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "If you all get on before me, feel free to pull the branch and explore.",
+          "channel": "draft-orders-unification",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This comes up a lot, can I ask you to update whatever documentation you've been referencing to be more clear?",
+          "channel": "claude-code",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Oh yeah, we have another fun problem where the `updated_at` index is useless because some maintenance task set a bunch of orders to have the same",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You're the 3rd person to report this. Can I convince you to update whatever documentation you're using to get started with the correct instructions?",
+          "channel": "claude-code",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 49,
+      "top_mentioned": [
+        {
+          "user": "basel.saad",
+          "count": 19
+        },
+        {
+          "user": "callum.keogan",
+          "count": 10
+        },
+        {
+          "user": "shairagavi.selvachandran",
+          "count": 10
+        },
+        {
+          "user": "vince.duquette",
+          "count": 9
+        },
+        {
+          "user": "scott.plybon",
+          "count": 9
+        },
+        {
+          "user": "andrea.rice",
+          "count": 6
+        },
+        {
+          "user": "andrew.knowles",
+          "count": 4
+        },
+        {
+          "user": "olivier.theriault",
+          "count": 4
+        },
+        {
+          "user": "adam.phillips-silver",
+          "count": 3
+        },
+        {
+          "user": "sean.moranrichards",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 473,
+      "top_channels": [
+        {
+          "channel": "draft-orders-unification",
+          "messages": 124
+        },
+        {
+          "channel": "river-mguterl",
+          "messages": 88
+        },
+        {
+          "channel": "orders-slow-queries",
+          "messages": 70
+        },
+        {
+          "channel": "help-draft-orders",
+          "messages": 51
+        },
+        {
+          "channel": "draft-orders-exceptions",
+          "messages": 24
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 20
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 20
+        },
+        {
+          "channel": "draft-orders-dev",
+          "messages": 20
+        },
+        {
+          "channel": "claude-code",
+          "messages": 17
+        },
+        {
+          "channel": "inc-20379-addresses-defaulting-to-afghanistan-on-dr",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 46,
+      "top_mentioners": [
+        {
+          "user": "shairagavi.selva-9056",
+          "count": 6
+        },
+        {
+          "user": "callum.keogan",
+          "count": 4
+        },
+        {
+          "user": "wes.shaw",
+          "count": 4
+        },
+        {
+          "user": "adam.phillips-silver",
+          "count": 3
+        },
+        {
+          "user": "martin.samson",
+          "count": 3
+        },
+        {
+          "user": "basel.saad",
+          "count": 2
+        },
+        {
+          "user": "alistar.dsouza",
+          "count": 1
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 1
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 1
+        },
+        {
+          "user": "vicki.bodwell",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 65,
+      "17": 53,
+      "14": 85,
+      "19": 106,
+      "16": 43,
+      "23": 13,
+      "22": 49,
+      "15": 41,
+      "13": 25,
+      "2": 7,
+      "21": 48,
+      "20": 49,
+      "3": 5,
+      "4": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 196,
+      "Tuesday": 123,
+      "Monday": 60,
+      "Friday": 94,
+      "Thursday": 118
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.36,
+    "dept_average_30d": 5.79,
+    "dept_rank": 19,
+    "dept_size": 1233
+  }
+}

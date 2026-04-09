@@ -1,0 +1,194 @@
+{
+  "username": "khalil.hajji",
+  "name": "Khalil Hajji",
+  "generated_at": "2026-04-08T20:22:25.922810",
+  "summary": {
+    "message_count": 73,
+    "channels_active": 7,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Over the past 10 days, we explored using SID-LLM as a ranking feature.\n\nWe use SID-LLM to score each candidate that needs to be ranked by the ranker.",
+          "channel": "proj-ur-ranking",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "(Also I am monitoring this job very closely, so feel free to ignore alerts from it. Sorry that you had to look into it)",
+          "channel": "shop-p13n-ml-alerts-production",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "rich.chen",
+          "count": 4
+        },
+        {
+          "user": "aakriti.gupta",
+          "count": 4
+        },
+        {
+          "user": "kyumin.park",
+          "count": 3
+        },
+        {
+          "user": "ahmed.dawod",
+          "count": 3
+        },
+        {
+          "user": "mona.sharma",
+          "count": 2
+        },
+        {
+          "user": "tom.rochette",
+          "count": 2
+        },
+        {
+          "user": "juhana.kangaspunta",
+          "count": 1
+        },
+        {
+          "user": "bhisham.gudwani",
+          "count": 1
+        },
+        {
+          "user": "david.gabrieli",
+          "count": 1
+        },
+        {
+          "user": "omer.barsade",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.73,
+      "count": 72,
+      "top_channels": [
+        {
+          "channel": "recommendations-generative-recs",
+          "messages": 19
+        },
+        {
+          "channel": "shop-p13n-ml-alerts-production",
+          "messages": 15
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 14
+        },
+        {
+          "channel": "sidllm",
+          "messages": 12
+        },
+        {
+          "channel": "commerce-foundation-model",
+          "messages": 7
+        },
+        {
+          "channel": "recommendations-team-experiments",
+          "messages": 4
+        },
+        {
+          "channel": "proj-ur-ranking",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "juhana.kangaspunta",
+          "count": 10
+        },
+        {
+          "user": "shuying.sun",
+          "count": 5
+        },
+        {
+          "user": "guy.cole",
+          "count": 4
+        },
+        {
+          "user": "sireesha.pulipati",
+          "count": 4
+        },
+        {
+          "user": "akshay.soni",
+          "count": 3
+        },
+        {
+          "user": "ali.khanafer",
+          "count": 2
+        },
+        {
+          "user": "rich.chen",
+          "count": 2
+        },
+        {
+          "user": "kyumin.park",
+          "count": 1
+        },
+        {
+          "user": "himanshu.arora",
+          "count": 1
+        },
+        {
+          "user": "ahmed.dawod",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "3": 3,
+      "20": 2,
+      "1": 10,
+      "0": 3,
+      "21": 8,
+      "18": 12,
+      "17": 9,
+      "16": 7,
+      "15": 8,
+      "2": 1,
+      "23": 1,
+      "22": 5,
+      "14": 4
+    },
+    "by_day": {
+      "Wednesday": 15,
+      "Tuesday": 15,
+      "Monday": 28,
+      "Thursday": 14,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.3,
+    "dept_average_30d": 5.79,
+    "dept_rank": 859,
+    "dept_size": 1233
+  }
+}

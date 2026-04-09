@@ -1,0 +1,86 @@
+{
+  "username": "hello029",
+  "name": "Hello029",
+  "generated_at": "2026-04-08T20:22:30.325300",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U022Q1MSWJK> Both Mobile and Desktop versions have been updated in the",
+          "channel": "payments-brochure-refresh",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.43,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "dorian.grey",
+          "count": 3
+        },
+        {
+          "user": "fabien.laborie",
+          "count": 1
+        },
+        {
+          "user": "stephanie.joo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.83,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "payments-brochure-refresh",
+          "messages": 5
+        },
+        {
+          "channel": "temp-b2b-design-updates",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 1,
+      "15": 2,
+      "14": 2,
+      "17": 1
+    },
+    "by_day": {
+      "Thursday": 1,
+      "Tuesday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.86,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1300,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "username": "dakota.mcinnis",
+  "name": "Dakota Mcinnis",
+  "generated_at": "2026-04-08T20:22:29.474350",
+  "summary": {
+    "message_count": 737,
+    "channels_active": 31,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 20,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "inv-21119-topps-getting-error-pages",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "(forgot that pings all of you, sorry about that)",
+          "channel": "infra-central-staging",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!",
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "No worries, thanks!",
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it, thank you!!",
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Perfect thanks! Ya stopped after i gather those last notes",
+          "channel": "inv-20981-jb-hifi-e2e-cart-permalink-canary-flaky",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh okay perfect, thank you",
+          "channel": "inv-20984-google-reported-persistent-disk-that-coul",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "But we are in healthy state again - thank you!",
+          "channel": "inv-20911-prolonged-db-writer-cpu-saturation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; straddling katesql is where the desired topology has some regions higher and some lower than the live topology\nohhhh okay i get it, thank you!!",
+          "channel": "proj-infra-storefront-katesql-autoscale",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks, could I get a review on <https://github.com/Shopify/infra-central/pull/20100|this migration> from code owners? Thanks!",
+          "channel": "infra-central",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "(lowkey i think that's just a chunky query that should be broken down more &amp; i'm kinda asking leading questions there, but whatever)",
+          "channel": "inc-20104-pod-376-errors-from-shop-92016378233-app",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "tomasz.dubiel",
+          "count": 12
+        },
+        {
+          "user": "jie.sun",
+          "count": 12
+        },
+        {
+          "user": "michael.lewis",
+          "count": 9
+        },
+        {
+          "user": "yusei.nishiyama",
+          "count": 9
+        },
+        {
+          "user": "jp.caissy",
+          "count": 8
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 5
+        },
+        {
+          "user": "debora.setton",
+          "count": 4
+        },
+        {
+          "user": "katherine.tang",
+          "count": 4
+        },
+        {
+          "user": "josh.broughton",
+          "count": 3
+        },
+        {
+          "user": "devon.meunier",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.28,
+      "count": 292,
+      "top_channels": [
+        {
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "messages": 177
+        },
+        {
+          "channel": "inv-20981-jb-hifi-e2e-cart-permalink-canary-flaky",
+          "messages": 81
+        },
+        {
+          "channel": "inv-21119-topps-getting-error-pages",
+          "messages": 73
+        },
+        {
+          "channel": "inc-20104-pod-376-errors-from-shop-92016378233-app",
+          "messages": 73
+        },
+        {
+          "channel": "inv-20911-prolonged-db-writer-cpu-saturation",
+          "messages": 56
+        },
+        {
+          "channel": "inc-21092-flashsales-elevated-checkouts-errors-on-f",
+          "messages": 45
+        },
+        {
+          "channel": "inc-21077-high-and-sustained-core-p95-response-time",
+          "messages": 34
+        },
+        {
+          "channel": "proj-infra-graphql-killswitch-infra",
+          "messages": 34
+        },
+        {
+          "channel": "enterprise-sre-scale",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20082-packet-loss-blip-us-we1",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "tomasz.dubiel",
+          "count": 8
+        },
+        {
+          "user": "jie.sun",
+          "count": 5
+        },
+        {
+          "user": "leslie.ludwig",
+          "count": 4
+        },
+        {
+          "user": "mattie.toia",
+          "count": 3
+        },
+        {
+          "user": "debora.setton",
+          "count": 3
+        },
+        {
+          "user": "ayo.akinkugbe",
+          "count": 3
+        },
+        {
+          "user": "rashmi.bachani",
+          "count": 3
+        },
+        {
+          "user": "yusei.nishiyama",
+          "count": 2
+        },
+        {
+          "user": "charlotte.seedhouse",
+          "count": 2
+        },
+        {
+          "user": "michael.lewis",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 49,
+      "20": 23,
+      "14": 119,
+      "13": 64,
+      "12": 20,
+      "22": 45,
+      "21": 9,
+      "19": 95,
+      "18": 72,
+      "17": 153,
+      "16": 88
+    },
+    "by_day": {
+      "Monday": 47,
+      "Friday": 225,
+      "Thursday": 241,
+      "Wednesday": 147,
+      "Tuesday": 77
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.89,
+    "dept_average_30d": 4.74,
+    "dept_rank": 214,
+    "dept_size": 1663
+  }
+}

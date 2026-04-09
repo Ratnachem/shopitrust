@@ -1,0 +1,101 @@
+{
+  "username": "steven.murphy",
+  "name": "Steven Murphy",
+  "generated_at": "2026-04-08T20:22:32.047791",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I was directed here by Partner Governance, but will note that for next time.\n\nCan this",
+          "channel": "app-store-devs",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thanks so much!",
+          "channel": "app-store-devs",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks,\n\nWe have a Merchant who claimed their milestone award on Feb 6th who has reached out because it does not appear to have been shipped yet.",
+          "channel": "help-milestones",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.83,
+      "count": 22,
+      "top_channels": [
+        {
+          "channel": "app-store-devs",
+          "messages": 3
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 3
+        },
+        {
+          "channel": "help-milestones",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "jia.wang",
+          "count": 1
+        },
+        {
+          "user": "jennifer.miller",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 2,
+      "14": 1,
+      "12": 2,
+      "16": 3
+    },
+    "by_day": {
+      "Monday": 3,
+      "Thursday": 2,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.67,
+    "dept_average_30d": 4.09,
+    "dept_rank": 403,
+    "dept_size": 642
+  }
+}

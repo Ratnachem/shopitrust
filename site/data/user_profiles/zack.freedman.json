@@ -1,0 +1,278 @@
+{
+  "username": "zack.freedman",
+  "name": "Zack Freedman",
+  "generated_at": "2026-04-08T20:22:14.868285",
+  "summary": {
+    "message_count": 289,
+    "channels_active": 19,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 9,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That's cool - thanks!",
+          "channel": "managed-international-pricing",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! :rocket_animated:",
+          "channel": "cross-border-shipping-dev",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The storefront CI has been broken for over a day so I haven't been able to merge + deploy - feel free to continue ignoring",
+          "channel": "inv-20822-managedmarketsadaptivepricing-errors-in-c",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help after my call if you give me a shop id",
+          "channel": "markets-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you - <https://app.graphite.com/github/pr/shop/world/427258/Create-a-landed-cost-tools-zone?utm_source=chrome-extension|PR is ready for review>",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks!",
+          "channel": "cross-border-shipping-ops",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I shouldn't say log - my bad -- both are errors",
+          "channel": "help-observability",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Can you explain what I'm doing wrong in the search on the right? I'm seeing a spike in RestrictProductsJob failures and whatever",
+          "channel": "river-cross-border",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Ya, River was pretty useless",
+          "channel": "cross-border-shipping-dev",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "You can see Keith's photo has the same `shopUserId` so this user_id is useless for determining it sadly",
+          "channel": "managed-international-pricing",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "christian.lessard",
+          "count": 6
+        },
+        {
+          "user": "cameron.bothner",
+          "count": 6
+        },
+        {
+          "user": "ross.sullivankelly",
+          "count": 3
+        },
+        {
+          "user": "mitch.vollebregt",
+          "count": 2
+        },
+        {
+          "user": "joy.liu",
+          "count": 2
+        },
+        {
+          "user": "ben.kovacs",
+          "count": 2
+        },
+        {
+          "user": "kaleb.iswara",
+          "count": 1
+        },
+        {
+          "user": "stephanie.chen",
+          "count": 1
+        },
+        {
+          "user": "vihar.kothamasu",
+          "count": 1
+        },
+        {
+          "user": "pedro.mottacardoso",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.7,
+      "count": 222,
+      "top_channels": [
+        {
+          "channel": "cross-border-shipping-dev",
+          "messages": 115
+        },
+        {
+          "channel": "managed-international-pricing",
+          "messages": 51
+        },
+        {
+          "channel": "cross-border-shipping-ops",
+          "messages": 31
+        },
+        {
+          "channel": "river-cross-border",
+          "messages": 20
+        },
+        {
+          "channel": "help-observability",
+          "messages": 20
+        },
+        {
+          "channel": "markets-platform",
+          "messages": 12
+        },
+        {
+          "channel": "inv-20822-managedmarketsadaptivepricing-errors-in-c",
+          "messages": 8
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 7
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 6
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "hanna.tonthat",
+          "count": 3
+        },
+        {
+          "user": "zaiyi.guo",
+          "count": 3
+        },
+        {
+          "user": "joy.liu",
+          "count": 3
+        },
+        {
+          "user": "christian.lessard",
+          "count": 3
+        },
+        {
+          "user": "rebecca.samossanchez",
+          "count": 1
+        },
+        {
+          "user": "ross.sullivankelly",
+          "count": 1
+        },
+        {
+          "user": "mitch.vollebregt",
+          "count": 1
+        },
+        {
+          "user": "chris.alexander",
+          "count": 1
+        },
+        {
+          "user": "tasya.adityarukmana",
+          "count": 1
+        },
+        {
+          "user": "rebecca.kelly",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 34,
+      "14": 54,
+      "13": 50,
+      "17": 41,
+      "16": 10,
+      "20": 26,
+      "19": 22,
+      "3": 5,
+      "0": 2,
+      "15": 14,
+      "12": 10,
+      "21": 17,
+      "1": 1,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 65,
+      "Tuesday": 88,
+      "Monday": 58,
+      "Friday": 24,
+      "Thursday": 54
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.17,
+    "dept_average_30d": 5.77,
+    "dept_rank": 673,
+    "dept_size": 885
+  }
+}

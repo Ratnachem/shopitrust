@@ -1,0 +1,252 @@
+{
+  "username": "richard.newman",
+  "name": "Richard Newman",
+  "generated_at": "2026-04-08T20:22:15.323891",
+  "summary": {
+    "message_count": 463,
+    "channels_active": 40,
+    "unique_people_mentioned": 45,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n\nI read this as good: the pipeline *finds more problems* than bloodhound does. ",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "It's amazing how Claude Code has turned every workplace into Parks and Rec",
+          "channel": "shipping-ai",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "left a few comments; let me know if you want to tuple",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> my bad, wrong diagnosis:\n\n&gt; Here's what I found:\n&gt; \n&gt; *`FrozenRecord::RecordNotFound` \u2014 Carrier ID 12 is Sendle*\n&gt; \n&gt;",
+          "channel": "rnewman-river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> yes, thank you.",
+          "channel": "rnewman-river",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> better to phrase the test as something like \"doing whatever to all of the carriers I get from this list fetch doesn't crash\" \u2014 our fix",
+          "channel": "rnewman-river",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "and that heuristic looks like \"oh, it's SF Whatever, they're doing double-translation, let's fix it\"",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It's probably clearest if we conceptually stop saying \"CDF\" \u2014 it's a bundle of metadata, model ID, version, feature timestamp, CDF, whatever other",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "mike.welsh",
+          "count": 8
+        },
+        {
+          "user": "max.giraldo",
+          "count": 6
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 4
+        },
+        {
+          "user": "atul.sharma",
+          "count": 4
+        },
+        {
+          "user": "chris.sweeney",
+          "count": 4
+        },
+        {
+          "user": "jon.elliott",
+          "count": 3
+        },
+        {
+          "user": "mazen.alhagri",
+          "count": 3
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 3
+        },
+        {
+          "user": "brendan.rygus",
+          "count": 3
+        },
+        {
+          "user": "yulia.kluev",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 462,
+      "top_channels": [
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 149
+        },
+        {
+          "channel": "rnewman-river",
+          "messages": 78
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 35
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 18
+        },
+        {
+          "channel": "si-2526-inc-20930-axios-vulnerability-impact-on-shipify",
+          "messages": 14
+        },
+        {
+          "channel": "proj-updated-edds-post-checkout",
+          "messages": 12
+        },
+        {
+          "channel": "batching",
+          "messages": 11
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 11
+        },
+        {
+          "channel": "inv-19951-investigating-errors-introduced-in-this-c",
+          "messages": 11
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "shwetha.shyam",
+          "count": 16
+        },
+        {
+          "user": "joe.pym",
+          "count": 6
+        },
+        {
+          "user": "diego.plentz",
+          "count": 5
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 4
+        },
+        {
+          "user": "jon.elliott",
+          "count": 4
+        },
+        {
+          "user": "dave.rose",
+          "count": 3
+        },
+        {
+          "user": "julian.dong",
+          "count": 3
+        },
+        {
+          "user": "yulia.kluev",
+          "count": 3
+        },
+        {
+          "user": "chao.duan",
+          "count": 2
+        },
+        {
+          "user": "max.giraldo",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 50,
+      "17": 55,
+      "0": 15,
+      "23": 14,
+      "22": 41,
+      "21": 27,
+      "19": 62,
+      "15": 31,
+      "16": 51,
+      "5": 4,
+      "4": 13,
+      "2": 15,
+      "1": 18,
+      "20": 46,
+      "3": 11,
+      "14": 10
+    },
+    "by_day": {
+      "Wednesday": 123,
+      "Tuesday": 77,
+      "Monday": 105,
+      "Friday": 80,
+      "Thursday": 78
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.57,
+    "dept_average_30d": 5.77,
+    "dept_rank": 99,
+    "dept_size": 885
+  }
+}

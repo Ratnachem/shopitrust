@@ -1,0 +1,325 @@
+{
+  "username": "tomasz.dubiel",
+  "name": "Tomasz Dubiel",
+  "generated_at": "2026-04-08T20:22:13.878922",
+  "summary": {
+    "message_count": 1774,
+    "channels_active": 60,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.4,
+      "pos_count": 8,
+      "neg_count": 15,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-events",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "inv-21215-pod-209-high-request-latency",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that, clearly not enough coffee to read the wall of text from the spy oncall output",
+          "channel": "inv-21215-pod-209-high-request-latency",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":chef-kiss:  thanks!",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "katesql-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to tag me in to your thread in <#CD2JJ5D9P> for context too",
+          "channel": "resiliency-enterprise-sre-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok cool, a path exists, I\u2019ll try it out on my own time. Thanks!",
+          "channel": "inv-20574-esn-synthetic-collection-page-404",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, JP!",
+          "channel": "inv-20357-supreme-flashsale-error-tracking",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey sorry I\u2019m working some weird hours right now to get around sick kid + childcare needs\n\nFlashsale KPI reports usually have some good stuff for",
+          "channel": "resiliency-enterprise-sre-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "sounds like whatever logic we\u2019re using to poll for finding that flashsale is busted?",
+          "channel": "resiliency-enterprise-alerts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "the new system did a stupid thing in which I parsed if things were going up or down and ended up making multiple events for the directionality. But",
+          "channel": "proj-infra-storefront-katesql-autoscale",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the new system did a stupid thing in which I parsed if things were going up or down and ended up making multiple events for the directionality. But",
+          "channel": "proj-infra-storefront-katesql-autoscale",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "CC <@U02102652LQ> &amp; <@U0AAD1X4X1N>\n1. Actual bug that would break scaling if a region is ever deleted:",
+          "channel": "proj-infra-storefront-katesql-autoscale",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U02102652LQ> idk if you want to figure out how we\u2019ll split up which threads we\u2019ll follow for this workstream, on our sync call or dedicate some",
+          "channel": "enterprise-sre-scale",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever you say spy",
+          "channel": "inc-20435-checkout-metrics-and-alerts-firing-off",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "but you know, grain of salt or whatever",
+          "channel": "inc-20435-checkout-metrics-and-alerts-firing-off",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I just grabbed whatever stood out to me",
+          "channel": "enterprise-sre-scale",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019ll action item the log exploration but I\u2019m more interested in whatever comes out the other side of that dig as incident followup",
+          "channel": "inv-20234-shard-265-proxysql-connection-issues-in-c",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "dakota.mcinnis",
+          "count": 8
+        },
+        {
+          "user": "michael.lewis",
+          "count": 7
+        },
+        {
+          "user": "katherine.tang",
+          "count": 6
+        },
+        {
+          "user": "mingding.han",
+          "count": 5
+        },
+        {
+          "user": "joe.chop",
+          "count": 3
+        },
+        {
+          "user": "jp.caissy",
+          "count": 3
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 2
+        },
+        {
+          "user": "robbie.khaddaj",
+          "count": 2
+        },
+        {
+          "user": "madeline.komen",
+          "count": 2
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 435,
+      "top_channels": [
+        {
+          "channel": "proj-infra-storefront-katesql-autoscale",
+          "messages": 341
+        },
+        {
+          "channel": "resiliency-enterprise-alerts",
+          "messages": 133
+        },
+        {
+          "channel": "resiliency-enterprise-sre-team",
+          "messages": 101
+        },
+        {
+          "channel": "inc-20314-packet-loss-gcp-us-east1",
+          "messages": 98
+        },
+        {
+          "channel": "enterprise-sre-scale",
+          "messages": 83
+        },
+        {
+          "channel": "inv-20366-checkout-error-rate-observed-on-pod-204",
+          "messages": 74
+        },
+        {
+          "channel": "inc-20435-checkout-metrics-and-alerts-firing-off",
+          "messages": 66
+        },
+        {
+          "channel": "inv-21179-crunchlabs-admin-api-slo-burn-rate-warnin",
+          "messages": 63
+        },
+        {
+          "channel": "inv-20357-supreme-flashsale-error-tracking",
+          "messages": 63
+        },
+        {
+          "channel": "inv-21119-topps-getting-error-pages",
+          "messages": 51
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.9,
+      "count": 71,
+      "top_mentioners": [
+        {
+          "user": "dakota.mcinnis",
+          "count": 12
+        },
+        {
+          "user": "anthony.kentris",
+          "count": 6
+        },
+        {
+          "user": "ayo.akinkugbe",
+          "count": 5
+        },
+        {
+          "user": "komail.kanjee",
+          "count": 5
+        },
+        {
+          "user": "adam.rubinstein",
+          "count": 4
+        },
+        {
+          "user": "mattie.toia",
+          "count": 4
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 4
+        },
+        {
+          "user": "yusei.nishiyama",
+          "count": 3
+        },
+        {
+          "user": "jp.caissy",
+          "count": 3
+        },
+        {
+          "user": "michael.lewis",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 196,
+      "17": 293,
+      "16": 177,
+      "15": 252,
+      "14": 258,
+      "12": 92,
+      "11": 18,
+      "19": 114,
+      "13": 153,
+      "10": 30,
+      "9": 36,
+      "8": 1,
+      "23": 3,
+      "22": 3,
+      "20": 29,
+      "0": 17,
+      "21": 3,
+      "1": 44,
+      "2": 55
+    },
+    "by_day": {
+      "Wednesday": 261,
+      "Tuesday": 523,
+      "Monday": 228,
+      "Friday": 387,
+      "Thursday": 375
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.66,
+    "dept_average_30d": 5.75,
+    "dept_rank": 41,
+    "dept_size": 357
+  }
+}

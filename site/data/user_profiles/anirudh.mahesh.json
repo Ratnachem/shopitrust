@@ -1,0 +1,171 @@
+{
+  "username": "anirudh.mahesh",
+  "name": "Anirudh Mahesh",
+  "generated_at": "2026-04-08T20:22:30.504751",
+  "summary": {
+    "message_count": 35,
+    "channels_active": 6,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 6,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! We have a Flink batch pipeline that reads from `shopify-dw.money_products.banking_issuing_tokens_v1` and it's failing with a permission",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Yanis, I seem to still be experiencing the \"Job Not Found\" error. It succeeded on a second try of a run last friday, but now doesnt seem to be",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey Yanis, sorry to bug you again, I didnt get the chance to onboard onto kubectl yet. The old FlinkDeployment from Friday is still stuck in",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team! I'm running into an issue deploying a Flink SQL batch job to staging and could use some help. The FlinkDeployment keeps failing with these",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello!\n\nI'm currently trying to deploy this <https://github.com/shop/world/pull/487268|pr> for a flink pipeline and the",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.49,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "devansh.malik",
+          "count": 5
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 4
+        },
+        {
+          "user": "trey.wilbur",
+          "count": 1
+        },
+        {
+          "user": "eric.lybrand",
+          "count": 1
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.36,
+      "count": 105,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 23
+        },
+        {
+          "channel": "data-community",
+          "messages": 5
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 4
+        },
+        {
+          "channel": "bna-ds-exceptions",
+          "messages": 1
+        },
+        {
+          "channel": "intern-everyone",
+          "messages": 1
+        },
+        {
+          "channel": "ml-community",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.83,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "devansh.malik",
+          "count": 3
+        },
+        {
+          "user": "trey.wilbur",
+          "count": 1
+        },
+        {
+          "user": "seb.barre",
+          "count": 1
+        },
+        {
+          "user": "eric.belsheim",
+          "count": 1
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 1
+        },
+        {
+          "user": "eric.lybrand",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3,
+      "21": 1,
+      "19": 1,
+      "17": 3,
+      "13": 6,
+      "18": 2,
+      "15": 4,
+      "20": 6,
+      "14": 9
+    },
+    "by_day": {
+      "Thursday": 10,
+      "Wednesday": 11,
+      "Tuesday": 4,
+      "Monday": 6,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.61,
+    "dept_average_30d": 4.74,
+    "dept_rank": 766,
+    "dept_size": 1663
+  }
+}

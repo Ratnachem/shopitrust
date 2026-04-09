@@ -1,0 +1,195 @@
+{
+  "username": "michael.wilkerson",
+  "name": "Michael Wilkerson",
+  "generated_at": "2026-04-08T20:22:19.757799",
+  "summary": {
+    "message_count": 155,
+    "channels_active": 6,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "<@W018PTKEH6Y> we have a multi-zonal test tenant rolled out to prod via our operator :celebrate-wooo:",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "<@U04B0C10C91> we have a working \"production-like\" version of a ClickHouse tenant with our operator working in staging :celebrate-wooo:.\n\nThe plan is",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "<@U04B0C10C91> we have a working \"production-like\" version of a ClickHouse tenant with our operator working in staging :celebrate-wooo:.\n\nThe plan is",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want me to click into the root cause so we can recover? or are you looking into that too?",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if we shouldn't be doing this, but python is a dependency for creating the dashboard along with the grafanalab",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Was talking to Sebastian, and they did something similar in the observe collector repo. I think it would be very helpful to commit this skill. Let's",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://github.com/Altinity/clickhouse-operator/releases>\n\nwe'd get whatever was in `25.5` and `25.6`\n\n`25.6` gets us the ignore the configmap error",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Have to look at why the config is so large, but this shouldn't block reconciles... It just makes them a lot slower.\n\nIs there something unique about",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "rob.cardy",
+          "count": 11
+        },
+        {
+          "user": "tanner.bruce",
+          "count": 8
+        },
+        {
+          "user": "matt.franklin",
+          "count": 3
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.59,
+      "count": 42,
+      "top_channels": [
+        {
+          "channel": "proj-ch-operator",
+          "messages": 105
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 30
+        },
+        {
+          "channel": "inv-20992-clickhouse-insert-delays",
+          "messages": 13
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20920-clickhouse-pods-restarting-repeatedly",
+          "messages": 2
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 8
+        },
+        {
+          "user": "michael.rye",
+          "count": 2
+        },
+        {
+          "user": "rob.cardy",
+          "count": 1
+        },
+        {
+          "user": "romain.dauby",
+          "count": 1
+        },
+        {
+          "user": "sam.handler",
+          "count": 1
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 16,
+      "15": 27,
+      "23": 2,
+      "22": 15,
+      "19": 18,
+      "21": 12,
+      "20": 10,
+      "18": 29,
+      "17": 15,
+      "14": 4,
+      "6": 1,
+      "3": 2,
+      "0": 2,
+      "12": 1,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 56,
+      "Thursday": 26,
+      "Tuesday": 42,
+      "Monday": 27,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.14,
+    "dept_average_30d": 5.75,
+    "dept_rank": 262,
+    "dept_size": 357
+  }
+}

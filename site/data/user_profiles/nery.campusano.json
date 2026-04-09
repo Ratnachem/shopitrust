@@ -1,0 +1,99 @@
+{
+  "username": "nery.campusano",
+  "name": "Nery Campusano",
+  "generated_at": "2026-04-08T20:22:26.923294",
+  "summary": {
+    "message_count": 71,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "no worries, thank you for your review :blobheart:\n\nI have addressed your feedback",
+          "channel": "proj-rails-shopify-ruby-grpc",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Which is what you mentioned you had challenges with on CI, maybe I misunderstood\n\n&gt; CI is green on <https://github.com/shop/world/pull/549133>. I",
+          "channel": "proj-rails-shopify-ruby-grpc",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "gannon.mcgibbon",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.08,
+      "count": 2,
+      "top_channels": [
+        {
+          "channel": "proj-rails-shopify-ruby-grpc",
+          "messages": 67
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 13,
+      "18": 14,
+      "17": 11,
+      "14": 3,
+      "19": 9,
+      "22": 4,
+      "21": 14,
+      "15": 1,
+      "13": 2
+    },
+    "by_day": {
+      "Tuesday": 20,
+      "Monday": 3,
+      "Thursday": 35,
+      "Wednesday": 5,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.42,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1151,
+    "dept_size": 1233
+  }
+}

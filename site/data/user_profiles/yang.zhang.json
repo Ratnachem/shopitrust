@@ -1,0 +1,117 @@
+{
+  "username": "yang.zhang",
+  "name": "Yang Zhang",
+  "generated_at": "2026-04-08T20:22:12.965080",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 13,
+    "days_scale": 0.57
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Please keep me in the loop as well ~ thanks!",
+          "channel": "proj-precomputed-delivery-predictions",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, I thought there would be some defaults for now, but obviously not. Thanks!",
+          "channel": "startup-alum",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "And regarding \"a repeatable file\", I think the best practice is to have a light weight controller layer on top of the raw lookup tables we generate,",
+          "channel": "proj-precomputed-delivery-predictions",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.61,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "andrewcampbell.johnson",
+          "count": 2
+        },
+        {
+          "user": "reza.soltani",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.55,
+      "count": 38,
+      "top_channels": [
+        {
+          "channel": "proj-precomputed-delivery-predictions",
+          "messages": 9
+        },
+        {
+          "channel": "startup-alum",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.95,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "reza.soltani",
+          "count": 4
+        },
+        {
+          "user": "shwetha.shyam",
+          "count": 3
+        },
+        {
+          "user": "andrewcampbell.j-1963",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 3,
+      "17": 5,
+      "20": 1,
+      "19": 1,
+      "16": 2
+    },
+    "by_day": {
+      "Wednesday": 6,
+      "Tuesday": 3,
+      "Friday": 2,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.47,
+    "dept_average_30d": 5.77,
+    "dept_rank": 821,
+    "dept_size": 885
+  }
+}

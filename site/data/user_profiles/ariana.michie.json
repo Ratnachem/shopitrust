@@ -1,0 +1,94 @@
+{
+  "username": "ariana.michie",
+  "name": "Ariana Michie",
+  "generated_at": "2026-04-08T20:22:31.857271",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ahh yes fixed it thank you!!",
+          "channel": "tmp-mv-mission-control-testing",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "joy.ekuta",
+          "count": 1
+        },
+        {
+          "user": "caitriona.barrett",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.3,
+      "count": 8,
+      "top_channels": [
+        {
+          "channel": "tmp-mv-mission-control-testing",
+          "messages": 10
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "caitriona.barrett",
+          "count": 4
+        },
+        {
+          "user": "andrew.corkey",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 2,
+      "12": 3,
+      "15": 1,
+      "13": 4,
+      "17": 1
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Tuesday": 2,
+      "Monday": 1,
+      "Wednesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.53,
+    "dept_average_30d": 4.09,
+    "dept_rank": 466,
+    "dept_size": 642
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "username": "allie.speers",
+  "name": "Allie Speers",
+  "generated_at": "2026-04-08T20:22:31.812572",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok thank you",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Which managers are under Felipe?",
+          "channel": "temp-river-ta-playground",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "hey Rachel! you should have it sent to you automatically shortly :slightly_smiling_face: can you let me know in ~30mins if you haven't received it?",
+          "channel": "help-eng-interviews",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "keith.dell",
+          "count": 1
+        },
+        {
+          "user": "andrew.mcnamara",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.83,
+      "count": 101,
+      "top_channels": [
+        {
+          "channel": "temp-river-ta-playground",
+          "messages": 5
+        },
+        {
+          "channel": "help-credit-risk",
+          "messages": 4
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "help-eng-interviews",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "timothy.barnes",
+          "count": 2
+        },
+        {
+          "user": "may.khayoon",
+          "count": 1
+        },
+        {
+          "user": "nicolas.ottonello",
+          "count": 1
+        },
+        {
+          "user": "rachel.bobbins",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "19": 4,
+      "16": 1,
+      "22": 2,
+      "21": 3
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Wednesday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 3.64,
+    "dept_average_30d": 4.13,
+    "dept_rank": 50,
+    "dept_size": 64
+  }
+}

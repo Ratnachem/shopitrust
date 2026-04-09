@@ -1,0 +1,128 @@
+{
+  "username": "luis.romero",
+  "name": "Luis Romero",
+  "generated_at": "2026-04-08T20:22:31.192376",
+  "summary": {
+    "message_count": 19,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Thanks for everything <@U04K8K0NZA6>, I'm glad we had the chance to spend some time together at Burst, the team you've built is amazing and happy for",
+          "channel": "global-b2b-sales-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Katie! Sure I will work with my lead on that. Thanks!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "louise.garrigos",
+          "count": 2
+        },
+        {
+          "user": "danielle.waknine",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.74,
+      "count": 171,
+      "top_channels": [
+        {
+          "channel": "dev-environment-setup",
+          "messages": 7
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 5
+        },
+        {
+          "channel": "global-b2b-sales-team",
+          "messages": 3
+        },
+        {
+          "channel": "help-partner-plus-compensation",
+          "messages": 2
+        },
+        {
+          "channel": "customer-references",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "martina.karlsson",
+          "count": 1
+        },
+        {
+          "user": "louise.garrigos",
+          "count": 1
+        },
+        {
+          "user": "katie.george",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 2,
+      "8": 2,
+      "15": 1,
+      "14": 3,
+      "16": 8,
+      "10": 1,
+      "13": 1,
+      "9": 1
+    },
+    "by_day": {
+      "Wednesday": 9,
+      "Tuesday": 2,
+      "Monday": 1,
+      "Thursday": 6,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.1,
+    "dept_average_30d": 4.32,
+    "dept_rank": 475,
+    "dept_size": 848
+  }
+}

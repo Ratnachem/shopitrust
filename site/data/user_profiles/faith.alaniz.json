@@ -1,0 +1,124 @@
+{
+  "username": "faith.alaniz",
+  "name": "Faith Alaniz",
+  "generated_at": "2026-04-08T20:22:32.194171",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U074ES5GGDV> I've notified the client.",
+          "channel": "help-adyen",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W0197HUTCTA> kindly follow up here. The merchant is requesting for us to enable to Adyen gift card extension. Is that something that we do on",
+          "channel": "help-adyen",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It worked! Thank you so much for your help <@W018HUN8JJX> :sparkles:",
+          "channel": "help-fleet-rollout",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes please and thank you ",
+          "channel": "help-fleet-rollout",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018HUN8JJX> it shows I've completed my fleet migration. However I'm not allowed to sign into necessary tools with my yubikey. Would we",
+          "channel": "help-fleet-rollout",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "alexei.porturas",
+          "count": 3
+        },
+        {
+          "user": "andy.ury",
+          "count": 2
+        },
+        {
+          "user": "daniel.levine",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.95,
+      "count": 25,
+      "top_channels": [
+        {
+          "channel": "help-adyen",
+          "messages": 6
+        },
+        {
+          "channel": "help-fleet-rollout",
+          "messages": 5
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "alexei.porturas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 1,
+      "15": 2,
+      "17": 5,
+      "18": 4
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Tuesday": 9,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.63,
+    "dept_average_30d": 4.09,
+    "dept_rank": 417,
+    "dept_size": 642
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "username": "marco.rudilosso",
+  "name": "Marco Rudilosso",
+  "generated_at": "2026-04-08T20:22:19.724565",
+  "summary": {
+    "message_count": 211,
+    "channels_active": 16,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Understood, thank you for the context! And yes, even the binary VM prototype would have probably taken me a week or so before, even with liquid-il",
+          "channel": "liquid-perf",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "left a minor comment on it about adding liquid-il as a test dependency. I can also just take care of it, so lmk if you want me to just fix",
+          "channel": "liquid-perf",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! :thank:",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you and sorry again!",
+          "channel": "observability-profiling",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Probably tomorrow or later today I'll do a profiling run to see if I'm just doing something stupid, which is possible as well",
+          "channel": "liquid-perf",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "maybe stupid question, but just to not go down the wrong direction, what you're suggesting is using this",
+          "channel": "liquid-perf",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "justin.reid",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.06,
+      "count": 188,
+      "top_channels": [
+        {
+          "channel": "proj-storefronts-processing-time",
+          "messages": 48
+        },
+        {
+          "channel": "liquid-perf",
+          "messages": 30
+        },
+        {
+          "channel": "inv-20692-sfr-deploy---systemstackerror--productdet",
+          "messages": 28
+        },
+        {
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "messages": 19
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 17
+        },
+        {
+          "channel": "proj-agentic-online-store-editor",
+          "messages": 16
+        },
+        {
+          "channel": "marco-river",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20720-increase-in-gc-related-faults",
+          "messages": 8
+        },
+        {
+          "channel": "observability-profiling",
+          "messages": 8
+        },
+        {
+          "channel": "team-core-applications",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "andreas.heiberg",
+          "count": 12
+        },
+        {
+          "user": "ian.kerseymer",
+          "count": 7
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 2
+        },
+        {
+          "user": "logan.martel",
+          "count": 1
+        },
+        {
+          "user": "guilherme.carreiro",
+          "count": 1
+        },
+        {
+          "user": "guillaume.malette",
+          "count": 1
+        },
+        {
+          "user": "vincent.zwanenburg",
+          "count": 1
+        },
+        {
+          "user": "dale.hamel",
+          "count": 1
+        },
+        {
+          "user": "stephan.schneider",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 49,
+      "11": 14,
+      "7": 1,
+      "22": 2,
+      "21": 5,
+      "20": 6,
+      "17": 5,
+      "14": 32,
+      "18": 12,
+      "13": 13,
+      "12": 38,
+      "15": 15,
+      "10": 4,
+      "19": 7,
+      "8": 3,
+      "23": 1,
+      "9": 4
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 28,
+      "Monday": 40,
+      "Friday": 17,
+      "Thursday": 96
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.76,
+    "dept_average_30d": 5.79,
+    "dept_rank": 597,
+    "dept_size": 1233
+  }
+}

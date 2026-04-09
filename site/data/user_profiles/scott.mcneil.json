@@ -1,0 +1,281 @@
+{
+  "username": "scott.mcneil",
+  "name": "Scott McNeil",
+  "generated_at": "2026-04-08T20:22:16.801322",
+  "summary": {
+    "message_count": 504,
+    "channels_active": 12,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.6,
+      "pos_count": 30,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Tried to see if I could show it in prometheus, but the metrics don't have pod",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Perfect, thanks!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing, thank you!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thank you!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; We're definitely logging it sometimes,",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said <https://shopify.slack.com/archives/C083HTG6R3Q/p1774279129552199?thread_ts=1774276226.580249&amp;cid=C083HTG6R3Q|above>, it has client",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think we can definitely route to low priority with .65 (that's the threshold we'd used before). I'm just not sure there's a threshold that:\na)",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "shen.ni",
+          "count": 25
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 15
+        },
+        {
+          "user": "sean.kelly",
+          "count": 10
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 9
+        },
+        {
+          "user": "adam.ziolkowski",
+          "count": 9
+        },
+        {
+          "user": "josh.teeter",
+          "count": 7
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 7
+        },
+        {
+          "user": "sneha.shah",
+          "count": 6
+        },
+        {
+          "user": "michael.harris",
+          "count": 4
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.04,
+      "count": 187,
+      "top_channels": [
+        {
+          "channel": "proj-ddos-protection",
+          "messages": 360
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 107
+        },
+        {
+          "channel": "tmp-unified-human-and-bot-signal-operations",
+          "messages": 9
+        },
+        {
+          "channel": "tmp-checkout-slo",
+          "messages": 6
+        },
+        {
+          "channel": "liquid-vm-perf-data",
+          "messages": 4
+        },
+        {
+          "channel": "storefronts-data-goalie",
+          "messages": 4
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 4
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 4
+        },
+        {
+          "channel": "proj-bot-classification-in-envoy",
+          "messages": 2
+        },
+        {
+          "channel": "sfr-incident-announce",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 127,
+      "top_mentioners": [
+        {
+          "user": "marcandre.cournoyer",
+          "count": 19
+        },
+        {
+          "user": "shen.ni",
+          "count": 19
+        },
+        {
+          "user": "adam.ziolkowski",
+          "count": 15
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 9
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 8
+        },
+        {
+          "user": "sneha.shah",
+          "count": 6
+        },
+        {
+          "user": "sean.kelly",
+          "count": 5
+        },
+        {
+          "user": "peter.thesling",
+          "count": 5
+        },
+        {
+          "user": "sarah.eade",
+          "count": 5
+        },
+        {
+          "user": "mattie.toia",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 46,
+      "18": 33,
+      "19": 58,
+      "16": 33,
+      "15": 80,
+      "14": 58,
+      "13": 47,
+      "23": 11,
+      "21": 26,
+      "20": 53,
+      "22": 19,
+      "3": 7,
+      "2": 1,
+      "12": 26,
+      "11": 1,
+      "0": 3,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 117,
+      "Friday": 80,
+      "Thursday": 121,
+      "Tuesday": 91,
+      "Monday": 95
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.29,
+    "dept_average_30d": 5.39,
+    "dept_rank": 139,
+    "dept_size": 272
+  }
+}

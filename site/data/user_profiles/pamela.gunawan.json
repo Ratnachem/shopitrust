@@ -1,0 +1,88 @@
+{
+  "username": "pamela.gunawan",
+  "name": "Pamela Gunawan",
+  "generated_at": "2026-04-08T20:22:31.956575",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "great! can confirm this works. I'm in now. Thank you!",
+          "channel": "help-it",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I wanted to double check because our BFS requirement doc only mentions CSB as a saving mechanism.\n\nYes, there is a toast notifying merchants",
+          "channel": "bfs-checks",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "matt.wong",
+          "count": 1
+        },
+        {
+          "user": "mark.j.tan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.19,
+      "count": 5,
+      "top_channels": [
+        {
+          "channel": "help-it",
+          "messages": 4
+        },
+        {
+          "channel": "bfs-checks",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 3,
+      "18": 1,
+      "21": 2
+    },
+    "by_day": {
+      "Tuesday": 4,
+      "Thursday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.42,
+    "dept_average_30d": 4.56,
+    "dept_rank": 68,
+    "dept_size": 74
+  }
+}

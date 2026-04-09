@@ -1,0 +1,269 @@
+{
+  "username": "kate.park",
+  "name": "Kate Park",
+  "generated_at": "2026-04-08T20:22:16.982732",
+  "summary": {
+    "message_count": 210,
+    "channels_active": 11,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: hi team! i saw that there\u2019s a",
+          "channel": "proj-mobile-ose",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W019UCJTHMZ> sorry, was having some issues w/ ci. this is merged now so feel free to ship whenever you are ready :smile:",
+          "channel": "online-store-ui-library",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> i\u2019ll open the pr on my own. i think it will be faster that way :blobsmilesweat2: thank you for your help",
+          "channel": "river-natacha",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> are you still working on this? here\u2019s a link with a view of events that have happened since this morning. could you please review the",
+          "channel": "river-natacha",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U08BKSY5B3K> <@U03Q02T34BX> i\u2019m going to increase the beta to 100% at around 2pm and take a look at the e2e that luke flagged. let me know if there",
+          "channel": "proj-theme-editor-nav-simplification",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for handling the bug fix + deployment :pray:",
+          "channel": "proj-theme-editor-nav-simplification",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh tmrw! oops- i\u2019m still on the old schedule then :upside_down_face: my bad",
+          "channel": "proj-theme-editor-nav-simplification",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: hi team, this morning i noticed that a <https://github.com/shop/world/actions/workflows/online-store-ui-release.yml|github action that we use",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "during the bug hunt, we received feedback from both misha + the checkout team, saying that it was weird that fullscreen + preview sizes were still",
+          "channel": "proj-theme-editor-nav-simplification",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yeah i think it\u2019s whatever the previously active primary panel was will remain pressed when alternating between the regular + shop pay previews",
+          "channel": "proj-theme-editor-nav-simplification",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "apparently, the max allowed is 30%. i unfortunately won\u2019t be able to stay and monitor for very long tho. i can do it first thing tmrw morning and if",
+          "channel": "proj-theme-editor-nav-simplification",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "misha.damjanic",
+          "count": 11
+        },
+        {
+          "user": "natacha.levesque",
+          "count": 10
+        },
+        {
+          "user": "robert.mooney",
+          "count": 5
+        },
+        {
+          "user": "peter.garrow",
+          "count": 4
+        },
+        {
+          "user": "antoine.gagnon",
+          "count": 4
+        },
+        {
+          "user": "greg.craft",
+          "count": 3
+        },
+        {
+          "user": "kristofer.thorlaksson",
+          "count": 3
+        },
+        {
+          "user": "rana.jurjus",
+          "count": 3
+        },
+        {
+          "user": "edmund.teh",
+          "count": 3
+        },
+        {
+          "user": "akhil.dhiman",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.38,
+      "count": 152,
+      "top_channels": [
+        {
+          "channel": "proj-theme-editor-nav-simplification",
+          "messages": 118
+        },
+        {
+          "channel": "help-theme-platform",
+          "messages": 19
+        },
+        {
+          "channel": "river-natacha",
+          "messages": 18
+        },
+        {
+          "channel": "online-store-ui-library",
+          "messages": 17
+        },
+        {
+          "channel": "lsf-online-store-web-ops",
+          "messages": 16
+        },
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 12
+        },
+        {
+          "channel": "inc-21012-unable-to-add-theme-overrides",
+          "messages": 5
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 2
+        },
+        {
+          "channel": "merchant-workflows-river",
+          "messages": 1
+        },
+        {
+          "channel": "proj-mobile-ose",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "tyler.alsbury",
+          "count": 4
+        },
+        {
+          "user": "natacha.levesque",
+          "count": 3
+        },
+        {
+          "user": "aaron.mertzenich",
+          "count": 3
+        },
+        {
+          "user": "felipe.nolleto",
+          "count": 3
+        },
+        {
+          "user": "robert.mooney",
+          "count": 3
+        },
+        {
+          "user": "misha.damjanic",
+          "count": 2
+        },
+        {
+          "user": "kristofer.thorlaksson",
+          "count": 1
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 1
+        },
+        {
+          "user": "rana.jurjus",
+          "count": 1
+        },
+        {
+          "user": "greg.craft",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 20,
+      "13": 36,
+      "19": 22,
+      "15": 18,
+      "23": 5,
+      "21": 9,
+      "20": 17,
+      "18": 38,
+      "14": 22,
+      "16": 16,
+      "22": 6,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 45,
+      "Tuesday": 79,
+      "Friday": 20,
+      "Thursday": 38,
+      "Monday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.72,
+    "dept_average_30d": 5.79,
+    "dept_rank": 618,
+    "dept_size": 1233
+  }
+}

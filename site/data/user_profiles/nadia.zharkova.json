@@ -1,0 +1,99 @@
+{
+  "username": "nadia.zharkova",
+  "name": "Nadia Zharkova",
+  "generated_at": "2026-04-08T20:22:29.624073",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "appreciate a super quick fix <@U02J954V1K5>, thank you :pray:",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "gonzalo.riestra",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.97,
+      "count": 52,
+      "top_channels": [
+        {
+          "channel": "river-dev-support",
+          "messages": 6
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 4
+        },
+        {
+          "channel": "help-search-serving",
+          "messages": 2
+        },
+        {
+          "channel": "inc-19499-storefront-filters-not-appearing-in-some",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "gonzalo.riestra",
+          "count": 1
+        },
+        {
+          "user": "pawani.diyaguarachchi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 2,
+      "0": 3,
+      "22": 2,
+      "21": 3,
+      "20": 2,
+      "3": 1
+    },
+    "by_day": {
+      "Monday": 5,
+      "Friday": 2,
+      "Thursday": 5,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.43,
+    "dept_average_30d": 4.09,
+    "dept_rank": 502,
+    "dept_size": 642
+  }
+}

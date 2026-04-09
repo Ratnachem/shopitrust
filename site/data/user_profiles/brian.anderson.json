@@ -1,0 +1,159 @@
+{
+  "username": "brian.anderson",
+  "name": "Brian Anderson",
+  "generated_at": "2026-04-08T20:22:27.338568",
+  "summary": {
+    "message_count": 45,
+    "channels_active": 7,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "help-ris",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah the agent was swearing it couldnt' write to Shared drives specifically for whatever reason and trying to go through some work workarounds.\n\nI'll",
+          "channel": "proserve-helium",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "jack.nickeas",
+          "count": 2
+        },
+        {
+          "user": "damyan.petkov",
+          "count": 1
+        },
+        {
+          "user": "gavin.frei",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.81,
+      "count": 127,
+      "top_channels": [
+        {
+          "channel": "proserve-helium",
+          "messages": 13
+        },
+        {
+          "channel": "int-proj-young-living",
+          "messages": 12
+        },
+        {
+          "channel": "ps-ent-mpa-approvals",
+          "messages": 6
+        },
+        {
+          "channel": "pp-vaulting-internal",
+          "messages": 6
+        },
+        {
+          "channel": "help-ris",
+          "messages": 4
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 2
+        },
+        {
+          "channel": "wharf-operations",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "gavin.frei",
+          "count": 4
+        },
+        {
+          "user": "jack.nickeas",
+          "count": 3
+        },
+        {
+          "user": "chris.hannaby",
+          "count": 1
+        },
+        {
+          "user": "levent.ince",
+          "count": 1
+        },
+        {
+          "user": "chelsea.tabert",
+          "count": 1
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 1
+        },
+        {
+          "user": "stewart.knapman",
+          "count": 1
+        },
+        {
+          "user": "john.taylor",
+          "count": 1
+        },
+        {
+          "user": "hillary.hunt",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 10,
+      "16": 7,
+      "20": 3,
+      "17": 5,
+      "18": 5,
+      "13": 10,
+      "14": 3,
+      "21": 1,
+      "15": 1
+    },
+    "by_day": {
+      "Tuesday": 5,
+      "Monday": 13,
+      "Friday": 7,
+      "Thursday": 10,
+      "Wednesday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Professional Services",
+    "user_score_30d": 4.12,
+    "dept_average_30d": 4.61,
+    "dept_rank": 40,
+    "dept_size": 52
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "username": "vince.hollywood",
+  "name": "Vince Hollywood",
+  "generated_at": "2026-04-08T20:22:30.703016",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Just re-added the permissions to forge-production so let me know later <@U05R1G4MMGW> if the 403 has gone. May have been my bad as I definitely",
+          "channel": "proj-forge-mcp",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "linda.ho",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.21,
+      "count": 32,
+      "top_channels": [
+        {
+          "channel": "de-support",
+          "messages": 4
+        },
+        {
+          "channel": "de-ops",
+          "messages": 3
+        },
+        {
+          "channel": "proj-forge-mcp",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "truman.lahr",
+          "count": 2
+        },
+        {
+          "user": "david.hollenbeck",
+          "count": 1
+        },
+        {
+          "user": "riley.guzman",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 5,
+      "20": 1,
+      "11": 1,
+      "10": 1,
+      "9": 2
+    },
+    "by_day": {
+      "Thursday": 4,
+      "Tuesday": 1,
+      "Monday": 3,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 6.51,
+    "dept_average_30d": 4.32,
+    "dept_rank": 3,
+    "dept_size": 848
+  }
+}

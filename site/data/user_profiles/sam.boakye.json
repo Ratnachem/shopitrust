@@ -1,0 +1,116 @@
+{
+  "username": "sam.boakye",
+  "name": "Sam Boakye",
+  "generated_at": "2026-04-08T20:22:32.073840",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Special thanks for <@U034S0DGBUP> and <@W018PT9GGUC> for their support and guidance on this one! ",
+          "channel": "ms-deal-announcer",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Marly, noted and much appreciated!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Marly, thank you for flagging - the primary shop ID is 84568441109",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "iliana.galindo",
+          "count": 1
+        },
+        {
+          "user": "jamie.clapham",
+          "count": 1
+        },
+        {
+          "user": "marly.suarez",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.44,
+      "count": 38,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 4
+        },
+        {
+          "channel": "ms-deal-announcer",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "marly.suarez",
+          "count": 2
+        },
+        {
+          "user": "samuel.rosales",
+          "count": 1
+        },
+        {
+          "user": "ryan.w.self",
+          "count": 1
+        },
+        {
+          "user": "kyle.dugandzic",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 2,
+      "19": 1,
+      "16": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.91,
+    "dept_average_30d": 4.32,
+    "dept_rank": 578,
+    "dept_size": 848
+  }
+}

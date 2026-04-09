@@ -1,0 +1,271 @@
+{
+  "username": "greg.dodd",
+  "name": "Greg Dodd",
+  "generated_at": "2026-04-08T20:22:07.002309",
+  "summary": {
+    "message_count": 312,
+    "channels_active": 14,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! Reading through yours as well",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "awesome, thank you! Let me know if I can help at all",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "awesome, thank you! Let me know if I can help at all",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome, thank you! Let me know if I can help at all",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "added to description and resolved the binks comment, let me know if there's anything else",
+          "channel": "team-ci",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> can you review this issue and investigate: <https://github.com/shop/issues/issues/23003> (the goal is in the issue title). Let me know",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "no worries, thank you!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "ok sounds good, let me know if you still need me to direct merge",
+          "channel": "inv-20518-multiple-failing-tests-in-core",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok thanks! Will take a closer look",
+          "channel": "alerts-test-infra",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing, thank you for sorting that out! And thanks everyone for your help on this",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> you should have your own $LLM_GATEWAY_TOKEN env var stored on the VM",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "chao.duan",
+          "count": 5
+        },
+        {
+          "user": "daiane.silva",
+          "count": 5
+        },
+        {
+          "user": "kennedy.murphy",
+          "count": 5
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 4
+        },
+        {
+          "user": "kangze.jia",
+          "count": 2
+        },
+        {
+          "user": "marvin.davila",
+          "count": 2
+        },
+        {
+          "user": "vishnu.arun",
+          "count": 2
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 2
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 2
+        },
+        {
+          "user": "xiao.li",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.5,
+      "count": 66,
+      "top_channels": [
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 154
+        },
+        {
+          "channel": "dw-infra-data-goalie",
+          "messages": 41
+        },
+        {
+          "channel": "team-ci",
+          "messages": 33
+        },
+        {
+          "channel": "proj-mq-p90-stabilization",
+          "messages": 32
+        },
+        {
+          "channel": "gregd",
+          "messages": 16
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 7
+        },
+        {
+          "channel": "help-vault",
+          "messages": 7
+        },
+        {
+          "channel": "alerts-test-infra",
+          "messages": 6
+        },
+        {
+          "channel": "river-fixes-tests",
+          "messages": 4
+        },
+        {
+          "channel": "team-ci-paged-alerts",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 80,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 31
+        },
+        {
+          "user": "kangze.jia",
+          "count": 13
+        },
+        {
+          "user": "marvin.davila",
+          "count": 3
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 3
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 3
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 3
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 2
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 2
+        },
+        {
+          "user": "daiane.silva",
+          "count": 2
+        },
+        {
+          "user": "abdelaziz.ragab",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 50,
+      "17": 39,
+      "16": 27,
+      "15": 53,
+      "14": 23,
+      "21": 17,
+      "20": 31,
+      "19": 28,
+      "13": 28,
+      "22": 3,
+      "12": 7,
+      "1": 1,
+      "0": 2,
+      "23": 3
+    },
+    "by_day": {
+      "Wednesday": 85,
+      "Tuesday": 75,
+      "Monday": 27,
+      "Friday": 53,
+      "Thursday": 72
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.75,
+    "dept_rank": 127,
+    "dept_size": 357
+  }
+}

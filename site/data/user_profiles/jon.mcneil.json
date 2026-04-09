@@ -1,0 +1,151 @@
+{
+  "username": "jon.mcneil",
+  "name": "Jon McNeil",
+  "generated_at": "2026-04-08T20:22:29.544846",
+  "summary": {
+    "message_count": 31,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U09A184GVHC> - just wanted to follow up on this to see how close we are to a fix.  The merchant has expressed some frustration with the ongoing",
+          "channel": "retail-mx-inventory-fulfillment",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey <@U03QT06K66L>!  Feel free to escalate that new ticket to RTMS, there's an <https://github.com/shop/issues-retail/issues/24673|open GH> related",
+          "channel": "retail-foundations-kernel-and-platform-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Can do, thanks!",
+          "channel": "retail-mx-inventory-fulfillment",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey Jose, thank you!",
+          "channel": "retail-foundations-kernel-and-platform-team",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "that's great news, thank you for letting me know!",
+          "channel": "retail-mx-inventory-fulfillment",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "peter.limawal",
+          "count": 2
+        },
+        {
+          "user": "chris.elise",
+          "count": 1
+        },
+        {
+          "user": "jose.narvaez",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.7,
+      "count": 124,
+      "top_channels": [
+        {
+          "channel": "retail-mx-inventory-fulfillment",
+          "messages": 14
+        },
+        {
+          "channel": "retail-foundations-kernel-and-platform-team",
+          "messages": 12
+        },
+        {
+          "channel": "retail-payments",
+          "messages": 3
+        },
+        {
+          "channel": "stocky-dev",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.5,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "jose.narvaez",
+          "count": 5
+        },
+        {
+          "user": "peter.limawal",
+          "count": 4
+        },
+        {
+          "user": "chris.elise",
+          "count": 1
+        },
+        {
+          "user": "charles.bougard",
+          "count": 1
+        },
+        {
+          "user": "alexander.rigney",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 4,
+      "12": 1,
+      "10": 1,
+      "20": 1,
+      "16": 6,
+      "13": 5,
+      "15": 3,
+      "18": 5,
+      "19": 1,
+      "17": 4
+    },
+    "by_day": {
+      "Monday": 10,
+      "Thursday": 5,
+      "Tuesday": 13,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.6,
+    "dept_average_30d": 4.09,
+    "dept_rank": 432,
+    "dept_size": 642
+  }
+}

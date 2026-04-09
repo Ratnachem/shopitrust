@@ -1,0 +1,91 @@
+{
+  "username": "jon.rowed",
+  "name": "Jon Rowed",
+  "generated_at": "2026-04-08T20:22:31.870309",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.0,
+      "pos_count": 0,
+      "neg_count": 2,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Done. You should have ownership now",
+          "channel": "help-av",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Got it. You should have ownership now",
+          "channel": "help-av",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 2.02,
+      "count": 51,
+      "top_channels": [
+        {
+          "channel": "help-av",
+          "messages": 12
+        },
+        {
+          "channel": "help-ports",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.22,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "napoleon.soberanis",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "11": 1,
+      "20": 2,
+      "18": 2,
+      "19": 3,
+      "17": 1,
+      "14": 2,
+      "12": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Thursday": 1,
+      "Wednesday": 4,
+      "Monday": 6,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.39,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1659,
+    "dept_size": 1663
+  }
+}

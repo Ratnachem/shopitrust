@@ -1,0 +1,151 @@
+{
+  "username": "craig.kelly",
+  "name": "Craig Kelly",
+  "generated_at": "2026-04-08T20:22:16.316056",
+  "summary": {
+    "message_count": 26,
+    "channels_active": 1,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ah ok yeah this table is built off a query of other sources, I gave you permission to the stripe dataset and a few other tables that are referenced.",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that I think you needed the Job User role too, want to try again?",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Hey <@W0197HZL0FJ> you should have access now, lmk if you hit any issues!",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "benjamin.lewis",
+          "count": 4
+        },
+        {
+          "user": "gajanan.chougule",
+          "count": 3
+        },
+        {
+          "user": "amanda.chan",
+          "count": 3
+        },
+        {
+          "user": "saranya.manoharan",
+          "count": 2
+        },
+        {
+          "user": "octavian.radulescu",
+          "count": 1
+        },
+        {
+          "user": "aj.lowndes",
+          "count": 1
+        },
+        {
+          "user": "ludivine.eveillard",
+          "count": 1
+        },
+        {
+          "user": "ramaar.hall",
+          "count": 1
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 1
+        },
+        {
+          "user": "autumn.kaunitz",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.56,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "help-finance-tech",
+          "messages": 26
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "gajanan.chougule",
+          "count": 2
+        },
+        {
+          "user": "saranya.manoharan",
+          "count": 1
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 8,
+      "15": 2,
+      "14": 5,
+      "13": 2,
+      "18": 3,
+      "16": 2,
+      "19": 3,
+      "20": 1
+    },
+    "by_day": {
+      "Wednesday": 14,
+      "Tuesday": 10,
+      "Friday": 1,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 4.6,
+    "dept_average_30d": 4.35,
+    "dept_rank": 44,
+    "dept_size": 151
+  }
+}

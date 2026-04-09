@@ -1,0 +1,268 @@
+{
+  "username": "manuel.isava",
+  "name": "Manuel Isava",
+  "generated_at": "2026-04-08T20:22:12.971720",
+  "summary": {
+    "message_count": 287,
+    "channels_active": 24,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 18,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U06LQM8KQBD> Let me know if you need help with the release. Glad to help.",
+          "channel": "proj-analytics-insights-v2",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Actually disregard. Just noticed you already added it. Sorry about that!",
+          "channel": "proj-shipping-strategy-advanced",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08109D3FMK> thanks for reviewing the top PR. Can you also take a look at the bottom one: <https://app.graphite.com/github/pr/shop/world/574074>",
+          "channel": "tmp-agent-tools",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "<@U08109D3FMK> thanks for reviewing the top PR. Can you also take a look at the bottom one: <https://app.graphite.com/github/pr/shop/world/574074>",
+          "channel": "tmp-agent-tools",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the reviews! :bow::skin-tone-5:",
+          "channel": "analytics-team-smart-analytics",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197GV9MPA> Looks like these errors are coming from the annotations dag. We should find a way to separate them from the insights one to avoid",
+          "channel": "analytics-squad-insights-optimizations-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. Yes, I just assigned myself to them",
+          "channel": "analytics-team-smart-analytics",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello team, can I get reviews on <https://app.graphite.com/github/pr/Shopify/infra-central/20636|this PR> please? It introduces 2 changes in behavior",
+          "channel": "team-cd",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello team, can I get reviews on <https://app.graphite.com/github/pr/Shopify/infra-central/20636|this PR> please? It introduces 2 changes in behavior",
+          "channel": "infra-central",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Good to know, thank you. I will let River loose to see if she can find out why the auto deploy feature is not working consistently.",
+          "channel": "reportify-api",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes, we take into account all locations in this case. Basically, whatever data is available when you run a ShopifyQL query for that shop and",
+          "channel": "proj-shipping-strategy-advanced",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "nicolas.ottonello",
+          "count": 18
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 6
+        },
+        {
+          "user": "aly.gemae",
+          "count": 5
+        },
+        {
+          "user": "afaq.virk",
+          "count": 5
+        },
+        {
+          "user": "pablo.assanelli",
+          "count": 3
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 2
+        },
+        {
+          "user": "amanda.billingsley",
+          "count": 2
+        },
+        {
+          "user": "meredith.castile",
+          "count": 2
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 1
+        },
+        {
+          "user": "jorge.moller",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.95,
+      "count": 288,
+      "top_channels": [
+        {
+          "channel": "proj-analytics-insights-v2",
+          "messages": 71
+        },
+        {
+          "channel": "analytics-team-smart-analytics",
+          "messages": 42
+        },
+        {
+          "channel": "proj-shipping-strategy-advanced",
+          "messages": 28
+        },
+        {
+          "channel": "proj-analytics-insights-on-the-dashboard",
+          "messages": 23
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 22
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 21
+        },
+        {
+          "channel": "analytics-squad-insights-optimizations-ops",
+          "messages": 14
+        },
+        {
+          "channel": "tectonix",
+          "messages": 13
+        },
+        {
+          "channel": "proj-analytics-metric-targets",
+          "messages": 12
+        },
+        {
+          "channel": "hd39-push-insights-rag",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.23,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "nicole.bailey",
+          "count": 14
+        },
+        {
+          "user": "nicolas.ottonello",
+          "count": 12
+        },
+        {
+          "user": "afaq.virk",
+          "count": 5
+        },
+        {
+          "user": "pablo.assanelli",
+          "count": 5
+        },
+        {
+          "user": "xinran.wang",
+          "count": 4
+        },
+        {
+          "user": "meredith.castile",
+          "count": 4
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 3
+        },
+        {
+          "user": "anqi.gao",
+          "count": 3
+        },
+        {
+          "user": "amanda.billingsley",
+          "count": 2
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 40,
+      "17": 32,
+      "14": 38,
+      "13": 57,
+      "16": 19,
+      "15": 24,
+      "12": 1,
+      "21": 18,
+      "19": 34,
+      "20": 23,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 83,
+      "Monday": 58,
+      "Friday": 56,
+      "Thursday": 39
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.98,
+    "dept_average_30d": 5.79,
+    "dept_rank": 445,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "username": "chris.johnson",
+  "name": "Chris Johnson",
+  "generated_at": "2026-04-08T20:22:27.389829",
+  "summary": {
+    "message_count": 91,
+    "channels_active": 4,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I need a few other things that I can get from Abacus, but this is a good start. Thanks!",
+          "channel": "inv-18754-admins-unable-to-refund-failed-stripe-ref",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Just a heads up, I'll be scheduling a retro for this incident. Will invited everyone in the channel, but not as a required participant (unless",
+          "channel": "inv-18754-admins-unable-to-refund-failed-stripe-ref",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Correct. Feel free to pick it up <@U07HMG0P47K>!",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that. The duplicate rows from before meant that these fees were being counted twice. I've fixed the offending rows",
+          "channel": "inv-18754-admins-unable-to-refund-failed-stripe-ref",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "There were 15 other duplicate entries with this same problem that I went ahead and removed. Let me know if anything else is wrong!",
+          "channel": "inv-18754-admins-unable-to-refund-failed-stripe-ref",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "jenny.shih",
+          "count": 4
+        },
+        {
+          "user": "megan.derbyshire",
+          "count": 2
+        },
+        {
+          "user": "jack.mcnamara",
+          "count": 1
+        },
+        {
+          "user": "laura.oneill",
+          "count": 1
+        },
+        {
+          "user": "matt.korostoff",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.95,
+      "count": 78,
+      "top_channels": [
+        {
+          "channel": "inv-18754-admins-unable-to-refund-failed-stripe-ref",
+          "messages": 50
+        },
+        {
+          "channel": "proj-auth-rate-data-greenpath",
+          "messages": 29
+        },
+        {
+          "channel": "proj-adyen-card-payment-processing",
+          "messages": 10
+        },
+        {
+          "channel": "pp-card-payment-methods-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.88,
+      "count": 42,
+      "top_mentioners": [
+        {
+          "user": "jasmine.kaur",
+          "count": 14
+        },
+        {
+          "user": "megan.derbyshire",
+          "count": 11
+        },
+        {
+          "user": "rose.robertson",
+          "count": 4
+        },
+        {
+          "user": "michal.malecki",
+          "count": 3
+        },
+        {
+          "user": "jenny.shih",
+          "count": 2
+        },
+        {
+          "user": "matt.korostoff",
+          "count": 2
+        },
+        {
+          "user": "laura.oneill",
+          "count": 2
+        },
+        {
+          "user": "justin.lang",
+          "count": 2
+        },
+        {
+          "user": "rob.stong",
+          "count": 1
+        },
+        {
+          "user": "vatsal.patel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 7,
+      "18": 22,
+      "20": 27,
+      "17": 5,
+      "16": 2,
+      "14": 14,
+      "21": 6,
+      "13": 1,
+      "15": 6,
+      "22": 1
+    },
+    "by_day": {
+      "Tuesday": 26,
+      "Monday": 19,
+      "Thursday": 20,
+      "Wednesday": 23,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.49,
+    "dept_average_30d": 5.77,
+    "dept_rank": 820,
+    "dept_size": 885
+  }
+}

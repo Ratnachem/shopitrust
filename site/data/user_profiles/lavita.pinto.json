@@ -1,0 +1,92 @@
+{
+  "username": "lavita.pinto",
+  "name": "Lavita Pinto",
+  "generated_at": "2026-04-08T20:22:31.489090",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U02CDG002TW>, I need some help with one merchant <https://app.shopify.com/services/internal/shops/91911225667|Bruno>, we received a payment from",
+          "channel": "billing-finance-team-sync",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "tadhg.boyle",
+          "count": 2
+        },
+        {
+          "user": "caleb.powell",
+          "count": 1
+        },
+        {
+          "user": "leah.farber",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.38,
+      "count": 10,
+      "top_channels": [
+        {
+          "channel": "help-billing-platform",
+          "messages": 3
+        },
+        {
+          "channel": "billing-finance-team-sync",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "tadhg.boyle",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "14": 2,
+      "11": 1,
+      "10": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Tuesday": 3,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 3.62,
+    "dept_average_30d": 4.35,
+    "dept_rank": 134,
+    "dept_size": 151
+  }
+}

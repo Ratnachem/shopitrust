@@ -1,0 +1,198 @@
+{
+  "username": "henry.peng",
+  "name": "Henry Peng",
+  "generated_at": "2026-04-08T20:22:20.950002",
+  "summary": {
+    "message_count": 60,
+    "channels_active": 7,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I really appreciate it",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks! I really appreciate it",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad didn't see the message",
+          "channel": "proj-order-edit-on-checkout-one",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Speaking of that though, I was wondering if you are aware of any permission issues for running maintenance tasks:\n\n```You do not have permission to",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "riya.walia",
+          "count": 6
+        },
+        {
+          "user": "prajjwal.singh",
+          "count": 3
+        },
+        {
+          "user": "david.hahn",
+          "count": 2
+        },
+        {
+          "user": "liam.meade",
+          "count": 2
+        },
+        {
+          "user": "giselle.cardinal",
+          "count": 1
+        },
+        {
+          "user": "ryan.asper",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.52,
+      "count": 93,
+      "top_channels": [
+        {
+          "channel": "proj-order-edit-on-checkout-one",
+          "messages": 24
+        },
+        {
+          "channel": "orders-penguins",
+          "messages": 10
+        },
+        {
+          "channel": "proj-order-edit-send-entire-order-state",
+          "messages": 9
+        },
+        {
+          "channel": "proj-order-edit-on-checkout-one-notifications",
+          "messages": 8
+        },
+        {
+          "channel": "test-river-henry",
+          "messages": 4
+        },
+        {
+          "channel": "tmp-burst-orders-spring-26",
+          "messages": 4
+        },
+        {
+          "channel": "intern-everyone",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "riya.walia",
+          "count": 5
+        },
+        {
+          "user": "michelle.lei",
+          "count": 4
+        },
+        {
+          "user": "david.hahn",
+          "count": 3
+        },
+        {
+          "user": "diego.gilon",
+          "count": 3
+        },
+        {
+          "user": "ken.smith",
+          "count": 2
+        },
+        {
+          "user": "prajjwal.singh",
+          "count": 1
+        },
+        {
+          "user": "giselle.cardinal",
+          "count": 1
+        },
+        {
+          "user": "liam.meade",
+          "count": 1
+        },
+        {
+          "user": "jeff.rothwell",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 10,
+      "18": 8,
+      "21": 4,
+      "20": 3,
+      "19": 6,
+      "17": 5,
+      "15": 2,
+      "12": 1,
+      "14": 10,
+      "13": 3,
+      "6": 1,
+      "23": 1,
+      "22": 4,
+      "3": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 16,
+      "Tuesday": 26,
+      "Monday": 12,
+      "Thursday": 4,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.81,
+    "dept_average_30d": 4.74,
+    "dept_rank": 649,
+    "dept_size": 1663
+  }
+}

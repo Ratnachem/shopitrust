@@ -1,0 +1,251 @@
+{
+  "username": "kerstin.puschke",
+  "name": "Kerstin Puschke",
+  "generated_at": "2026-04-08T20:22:18.990364",
+  "summary": {
+    "message_count": 383,
+    "channels_active": 14,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 8,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Not sure if this is the right channel, feel free to point me elsewhere - where can I follow the progress for _view_ notifications? I can't seem to",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, it looks like it worked fine - activated and added to wallet",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "great, thank you",
+          "channel": "help-selling-strategies",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "s-foundations-events-team",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I've replied on the pr",
+          "channel": "help-customers",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "<@U0AEPQCKB3M> I was wrong. We need to keep `headers[\"shopify-hmac-sha256\"]`  and we can remove `headers[\"Shopify-Hmac-SHA256\"]` . Add a comment to",
+          "channel": "event-foundations-river",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "sounds good, thank you",
+          "channel": "inv-18533-argumenterror-for-appextensionsubscriptio",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "you put  overrides in pagerduty\n\nthere's no actual \"swap\" feature, so you have to override your shift with my name, and my shift with your name.\n\non",
+          "channel": "s-foundations-events-team",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "What is the  model name for gids for the subscription objects?\n\nI'm proposing to use `EventSubscription` as it is straightforward.\n\nFor current gen,",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Here's how I think about it. In the world of event streaming, event based architecture, there's a difference between the event and the event message",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Thanks, it merged and it was deployed to staging. Could you please take care of deploy/sync, whatever is necessary to get it into production? Or is",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "We don't have any use for the rows, so that seems like a lot of useless queries.\n\nWhat about the information which column has changed? That is",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "*View notifications update*\n\u2022 View notifications are *available _today_*\n\u2022 They are not, and will not be, what we thought: we anticipated Kafka",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "harshdeep.hura",
+          "count": 3
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 3
+        },
+        {
+          "user": "karen.xie",
+          "count": 1
+        },
+        {
+          "user": "rezaan.syed",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.01,
+      "count": 291,
+      "top_channels": [
+        {
+          "channel": "proj-next-gen-events",
+          "messages": 129
+        },
+        {
+          "channel": "event-foundations-river",
+          "messages": 114
+        },
+        {
+          "channel": "s-foundations-events-team",
+          "messages": 75
+        },
+        {
+          "channel": "help-events",
+          "messages": 21
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 10
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 9
+        },
+        {
+          "channel": "inv-18533-argumenterror-for-appextensionsubscriptio",
+          "messages": 6
+        },
+        {
+          "channel": "team-files",
+          "messages": 5
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 3
+        },
+        {
+          "channel": "help-selling-strategies",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "balint.bene",
+          "count": 4
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 3
+        },
+        {
+          "user": "chad.carlson",
+          "count": 2
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 2
+        },
+        {
+          "user": "harshdeep.hura",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        },
+        {
+          "user": "jc.dansereau",
+          "count": 1
+        },
+        {
+          "user": "marcus.radica",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 48,
+      "14": 25,
+      "20": 39,
+      "19": 42,
+      "16": 59,
+      "15": 27,
+      "13": 45,
+      "23": 4,
+      "22": 16,
+      "21": 6,
+      "18": 66,
+      "12": 6
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 96,
+      "Monday": 79,
+      "Thursday": 87,
+      "Friday": 70
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 7.75,
+    "dept_average_30d": 5.79,
+    "dept_rank": 69,
+    "dept_size": 1233
+  }
+}

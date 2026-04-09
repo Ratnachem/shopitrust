@@ -1,0 +1,328 @@
+{
+  "username": "balint.bene",
+  "name": "Balint Bene",
+  "generated_at": "2026-04-08T20:22:09.397689",
+  "summary": {
+    "message_count": 1239,
+    "channels_active": 31,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 17,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": ":wave-frog: How certain are we about the dependency on those 3 features for `TheStore`? I can help look into it later this week. Luckily Reportify",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "We're just getting rid of the flink pipeline altogether but thank you for the offer. \n\nIt's very bespoke to this particular use case and we already",
+          "channel": "catalog-data",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Makes it easy, thanks!",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats John! Well deserved! :partypug: :lets_go:",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the delay, it's onboarded to all 3 environments (prod, eu, staging)",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Reran your query and there's data, sorry about that",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":goodmorningsun: The morning onboarding of new tables PR\n<https://github.com/Shopify/infrastructure/pull/37910>\n\nThank you again Michael for making",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No rush! Monday sounds good! Thank you!",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Need to practice my Flink dev, sorry about the delay I know you have tight deadlines",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Red herring ^, the issue is I gave you the jar but I need to give you an image :facepalm: sorry about that\n\nThis",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":wave-frog: Hey team, in an effort to make on-call easier as we get more and more Kafka Connect running. Things to make it easier to reason about",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": ":wave-frog: Chatted about this briefly a couple weeks ago. What would it take to get the topic-autoscaler working for a set of topics with a very",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We would need to check Kafka if this is an issue CDC-ing the data, or if the issue is whatever is reading it and getting it to Catalog.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Living doc:",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Just some resources you can take a look at before we chat tomorrow\n\nThese are <https://github.com/shop/world/tree/main/areas/stream-processing|all",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Use whatever you want, but I strongly recommend solving this problem. On-call trying to figure out what you want to type is not something you need",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm guessing deleting the CR doesn't do anything either because it's blocked on whatever it's doing",
+          "channel": "streaming-compute-team",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I clicked the retry CI button whatever that does",
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "So with the whole `no more ordering guarantees within Kafka` (at least for notifications for now)\n\nWould it be possible to enable for notifications",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "michael.terranova",
+          "count": 15
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 14
+        },
+        {
+          "user": "david.peacock",
+          "count": 11
+        },
+        {
+          "user": "mauricio.castaneda",
+          "count": 7
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 7
+        },
+        {
+          "user": "john.tanza",
+          "count": 5
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 4
+        },
+        {
+          "user": "kerstin.puschke",
+          "count": 4
+        },
+        {
+          "user": "rezaan.syed",
+          "count": 4
+        },
+        {
+          "user": "james.kan",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 401,
+      "top_channels": [
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 285
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 277
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 228
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 87
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 67
+        },
+        {
+          "channel": "catalog-data",
+          "messages": 50
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 44
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 41
+        },
+        {
+          "channel": "cdc-yugabyte",
+          "messages": 40
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 19
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 77,
+      "top_mentioners": [
+        {
+          "user": "wiliam.oliveira",
+          "count": 7
+        },
+        {
+          "user": "dimitri.yacoub",
+          "count": 7
+        },
+        {
+          "user": "joirdan.gumbs",
+          "count": 6
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 4
+        },
+        {
+          "user": "christian.lessard",
+          "count": 4
+        },
+        {
+          "user": "john.tanza",
+          "count": 4
+        },
+        {
+          "user": "michael.terranova",
+          "count": 4
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 3
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 3
+        },
+        {
+          "user": "camila.garciasan-1262",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 159,
+      "17": 103,
+      "16": 44,
+      "15": 146,
+      "14": 143,
+      "13": 76,
+      "1": 8,
+      "21": 69,
+      "20": 227,
+      "19": 138,
+      "11": 10,
+      "0": 34,
+      "12": 4,
+      "23": 38,
+      "22": 40
+    },
+    "by_day": {
+      "Wednesday": 278,
+      "Tuesday": 422,
+      "Monday": 153,
+      "Thursday": 187,
+      "Friday": 199
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.67,
+    "dept_average_30d": 5.75,
+    "dept_rank": 39,
+    "dept_size": 357
+  }
+}

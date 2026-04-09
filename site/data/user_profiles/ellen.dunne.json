@@ -1,0 +1,263 @@
+{
+  "username": "ellen.dunne",
+  "name": "Ellen Dunne",
+  "generated_at": "2026-04-08T20:22:19.881139",
+  "summary": {
+    "message_count": 223,
+    "channels_active": 11,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi all \u2014 After a decade at Shopify, I\u2019ve made the very big decision to close this chapter and explore what\u2019s next. My last day here will be this",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "Hi all \u2014 After a decade at Shopify, I\u2019ve made the very big decision to close this chapter and explore what\u2019s next. My last day here will be this",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I will let Toloka know and have them verify that it's working for a few of those accounts.",
+          "channel": "shop-agent-evals",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "shop-agent-evals",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I see them in there now.\none note -- if there is no buyer sentiment score, it loads into the system with score: 0 which indicates negative.",
+          "channel": "storefront-agent-evals",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing!\nI need to post in evals channel now some updated numbers. I can grab GTX data and Cohen's Kappa scores, but I still don't see how to pull",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I will add these examples/conditions to the",
+          "channel": "storefront-agent-evals",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U01SP2LRV8R> let me know if ^ this ^ clarifies things. Happy to jump on a sync to clarify",
+          "channel": "storefront-agent-evals",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "ok, thanks so much. appreciate it.\nif it's not too much trouble to tag me in this thread after deployment that would be great.",
+          "channel": "help-exp",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing. Note: Let's just require a convo ID (versus showing most recent to pick from).",
+          "channel": "storefront-agent-evals",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "jared.garvinjoseph",
+          "count": 25
+        },
+        {
+          "user": "amey.nevrenkar",
+          "count": 11
+        },
+        {
+          "user": "mujtaba.khambatti",
+          "count": 10
+        },
+        {
+          "user": "nick.lepine",
+          "count": 9
+        },
+        {
+          "user": "renee.simonsen",
+          "count": 7
+        },
+        {
+          "user": "tyler.rowsell",
+          "count": 7
+        },
+        {
+          "user": "daniel.weng",
+          "count": 7
+        },
+        {
+          "user": "mike.sassak",
+          "count": 7
+        },
+        {
+          "user": "al.mcquiston",
+          "count": 6
+        },
+        {
+          "user": "matthew.sherar",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.83,
+      "count": 101,
+      "top_channels": [
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 90
+        },
+        {
+          "channel": "storefront-agent-evals",
+          "messages": 70
+        },
+        {
+          "channel": "storefront-agent-ux",
+          "messages": 18
+        },
+        {
+          "channel": "tmp-storekick-agent-eval-burst",
+          "messages": 18
+        },
+        {
+          "channel": "shop-agent-evals",
+          "messages": 8
+        },
+        {
+          "channel": "help-exp",
+          "messages": 6
+        },
+        {
+          "channel": "storefront-consumer-agent-ux",
+          "messages": 5
+        },
+        {
+          "channel": "storefront-agent-buyer-experience",
+          "messages": 4
+        },
+        {
+          "channel": "help-shopify-knowledge-base-app",
+          "messages": 2
+        },
+        {
+          "channel": "storefront-agent",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 137,
+      "top_mentioners": [
+        {
+          "user": "mujtaba.khambatti",
+          "count": 34
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 24
+        },
+        {
+          "user": "ivan.velasquez",
+          "count": 9
+        },
+        {
+          "user": "nick.lepine",
+          "count": 8
+        },
+        {
+          "user": "al.mcquiston",
+          "count": 7
+        },
+        {
+          "user": "alex.hauka",
+          "count": 6
+        },
+        {
+          "user": "wheaton.welbourn",
+          "count": 5
+        },
+        {
+          "user": "olessia.dsouza",
+          "count": 5
+        },
+        {
+          "user": "mike.sassak",
+          "count": 5
+        },
+        {
+          "user": "amey.nevrenkar",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 33,
+      "21": 26,
+      "19": 31,
+      "18": 16,
+      "17": 18,
+      "15": 25,
+      "20": 33,
+      "22": 18,
+      "23": 12,
+      "14": 2,
+      "0": 5,
+      "10": 1,
+      "2": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 66,
+      "Tuesday": 54,
+      "Thursday": 77,
+      "Monday": 21,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.37,
+    "dept_average_30d": 5.79,
+    "dept_rank": 818,
+    "dept_size": 1233
+  }
+}

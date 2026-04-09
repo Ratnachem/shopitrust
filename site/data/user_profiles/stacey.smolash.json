@@ -1,0 +1,237 @@
+{
+  "username": "stacey.smolash",
+  "name": "Stacey Smolash",
+  "generated_at": "2026-04-08T20:22:24.527430",
+  "summary": {
+    "message_count": 77,
+    "channels_active": 4,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.1,
+      "pos_count": 31,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "(also thank you for raising)",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U099F93C708> It was brought to my attention today that the CI rule is being removed and apparently we\u2019re holding off on adding the partition filter",
+          "channel": "dw-merchandising-domain",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the update :pray: I\u2019ll follow up with Patrick now, I think their team is at capacity but let\u2019s see if they can help.",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Cliff :wave: It looks like those 2 PRs cover all 3 bullet points, thank you! I can continue reviewing today/tomorrow.",
+          "channel": "dw-merchandising-domain",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Lin :heart:",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I\u2019m so sorry this is taking up so much of your time, thank you again for untangling all of this and communicating back so clearly",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "&gt; so they are leaning on us to do these adhoc tasks for them\nWhich tasks are they expecting us to take on? It sounds like there\u2019s literally",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah, thank you for clarifying, I missed that detail! I\u2019m glad to hear we\u2019re already set up to bypass Longboat. But that bypass depends on the upstream",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018B0ENVSS> Thank you for the thorough update :pray: My thoughts:\n\n&gt; we can\u2019t get a recent extract from core due to the old",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yeah, it\u2019s unfortunate that a full import needs to happen at all. I don\u2019t have context as to why `updated_at` couldn\u2019t be bumped so that taxonomy",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "&gt; so they are leaning on us to do these adhoc tasks for them\nWhich tasks are they expecting us to take on? It sounds like there\u2019s literally",
+          "channel": "dw-commerce-cda-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "&gt; How is this affecting the downstream `product_category_inferences_model`?\nThe `product_category_inferences_history_v1_0`",
+          "channel": "dw-merchandising-domain",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "lin.taylor",
+          "count": 13
+        },
+        {
+          "user": "cliff.leighton",
+          "count": 5
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 4
+        },
+        {
+          "user": "keerthan.vantakala",
+          "count": 4
+        },
+        {
+          "user": "jill.cates",
+          "count": 3
+        },
+        {
+          "user": "jessie.jiang",
+          "count": 2
+        },
+        {
+          "user": "daniel.gross",
+          "count": 1
+        },
+        {
+          "user": "patrick.lazarus",
+          "count": 1
+        },
+        {
+          "user": "ines.pancorbo",
+          "count": 1
+        },
+        {
+          "user": "merna.ghaffar",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.06,
+      "count": 28,
+      "top_channels": [
+        {
+          "channel": "dw-commerce-cda-monitoring",
+          "messages": 37
+        },
+        {
+          "channel": "dw-merchandising-domain",
+          "messages": 37
+        },
+        {
+          "channel": "dw-merchandising-monitoring",
+          "messages": 2
+        },
+        {
+          "channel": "proj-data-platform-products-history-flag",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "lin.taylor",
+          "count": 6
+        },
+        {
+          "user": "cliff.leighton",
+          "count": 4
+        },
+        {
+          "user": "blake.ordway",
+          "count": 1
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 1
+        },
+        {
+          "user": "keerthan.vantakala",
+          "count": 1
+        },
+        {
+          "user": "jessie.jiang",
+          "count": 1
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 11,
+      "19": 15,
+      "16": 4,
+      "15": 18,
+      "14": 14,
+      "20": 2,
+      "12": 3,
+      "18": 4,
+      "17": 6
+    },
+    "by_day": {
+      "Wednesday": 15,
+      "Tuesday": 21,
+      "Monday": 11,
+      "Thursday": 20,
+      "Friday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.52,
+    "dept_average_30d": 5.39,
+    "dept_rank": 215,
+    "dept_size": 272
+  }
+}

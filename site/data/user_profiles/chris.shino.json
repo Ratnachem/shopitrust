@@ -1,0 +1,334 @@
+{
+  "username": "chris.shino",
+  "name": "Chris Shino",
+  "generated_at": "2026-04-08T20:22:11.139101",
+  "summary": {
+    "message_count": 905,
+    "channels_active": 20,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 26,
+      "neg_count": 10,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Yup I can help! ",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "From what you have now it looks like:\n\nBB -&gt; uses River client -&gt; call bump and open-pr cli commands.\n\nIn the future it could be:\n\nBB -&gt;",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<https://github.com/Shopify/infrasec-bumper/issues/553> ah another blast from the past, I dont think we ever did this side of denylisting.\n\nBasically",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "here comes another issue :sigh: lol good find though thanks to this",
+          "channel": "melanie-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<https://app.graphite.com/github/pr/shop/world/568517> PR to enable github action denylisting in monorepo, cc: <@W018WBF9W9X> I noticed that you",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "okay got it thank you",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Trust assurance / <@W018HUXB21Z> <https://github.com/ShopifyRestricted/terraform-environments/pull/1630> workflows for audits need access to group",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the feedback it helps a lot",
+          "channel": "help-bumperbot",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ill give it a whirl as well thank you, this does help a lot though, now i know to rebase after MQ breakdowns as well",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "im blind, its right here in the PR, thank you ill get the rest of my team on this chrome ext too!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think the only benefit is that we save some tokens, and it becomes deterministic.\n\nTec bumps I could easily see becoming the majority once more",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "we\u2019d need a one time backfill of the 17k active deps still in the graph that are all unknown:\n\nbenefits would be since they\u2019re still unknown, that",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I think we are still pretty hand wavy on this part of the solution tho, it would probably make sense to have an ADR and figure it out ",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "but in reality I think the fix is still the same, when a bump is declared as failed, lets let river deal with it",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Im gonna loop in <@U01UKQUL3QX> here as well, but from my understanding I think the ILB is still the way to go, and the vault docs have plenty of",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I mean not to get too crazy, but even these profile dependencies here that don\u2019t enter zones and are just on laptops could in theory get the same DA",
+          "channel": "proj-nix-supply-chain",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; But also, since we are moving to BumperBot, this should now search for BB as the author, I think? \nYea this is where we should be headed, I",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "are the gems you develop for internal use aka going to cloudsmith?\nthe path forward for this stuff is also to get them in monorepo so other zones can",
+          "channel": "proj-servicesdb-autofix",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yea this is fire, i think a further optimization would be:\n\nMainstream bumps: Cache can last up to 90 days if latest version is say brand new that",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Another idea <@W0182V1H4JK> and I were chatting about re agent gateway is the fact that we could technically put the llms that are being ai proxy",
+          "channel": "ai-security",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "alex.hope",
+          "count": 52
+        },
+        {
+          "user": "aline.shulzhenko",
+          "count": 11
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 10
+        },
+        {
+          "user": "peter.wagner",
+          "count": 10
+        },
+        {
+          "user": "andrija.bogojevic",
+          "count": 9
+        },
+        {
+          "user": "evan.lee",
+          "count": 8
+        },
+        {
+          "user": "jacob.michels",
+          "count": 7
+        },
+        {
+          "user": "chad.denyar",
+          "count": 5
+        },
+        {
+          "user": "justin.hill",
+          "count": 4
+        },
+        {
+          "user": "erin.son",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.48,
+      "count": 316,
+      "top_channels": [
+        {
+          "channel": "proj-bumper",
+          "messages": 695
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 47
+        },
+        {
+          "channel": "help-bumperbot",
+          "messages": 26
+        },
+        {
+          "channel": "team-ci",
+          "messages": 22
+        },
+        {
+          "channel": "team-cd",
+          "messages": 19
+        },
+        {
+          "channel": "tectonix",
+          "messages": 17
+        },
+        {
+          "channel": "help-ris",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20587-shopify-github-actions-runner-project-des",
+          "messages": 15
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 9
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.08,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "andrija.bogojevic",
+          "count": 18
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 3
+        },
+        {
+          "user": "james.go",
+          "count": 2
+        },
+        {
+          "user": "aline.shulzhenko",
+          "count": 2
+        },
+        {
+          "user": "ashley.williams",
+          "count": 2
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        },
+        {
+          "user": "jacob.michels",
+          "count": 2
+        },
+        {
+          "user": "rob.healy",
+          "count": 1
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 97,
+      "17": 74,
+      "16": 65,
+      "15": 103,
+      "14": 162,
+      "13": 123,
+      "12": 44,
+      "23": 14,
+      "22": 17,
+      "20": 81,
+      "19": 74,
+      "21": 42,
+      "0": 6,
+      "11": 3
+    },
+    "by_day": {
+      "Wednesday": 178,
+      "Tuesday": 195,
+      "Friday": 174,
+      "Thursday": 206,
+      "Monday": 152
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 6.36,
+    "dept_average_30d": 4.89,
+    "dept_rank": 22,
+    "dept_size": 237
+  }
+}

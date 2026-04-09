@@ -1,0 +1,223 @@
+{
+  "username": "eli.bailey",
+  "name": "Eli Bailey",
+  "generated_at": "2026-04-08T20:22:08.496062",
+  "summary": {
+    "message_count": 272,
+    "channels_active": 19,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help later this afternoon but <@U02CWVBV0KS> has taken over helpdesk duty and may be able to assist sooner. What can we do for ya?",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey frontend folks, fyi Paco has added me to the on-call schedule in David's spot. Glad I can help ease the burden :slightly_smiling_face:",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to Rosa's jvm metrics work, we were able to identify long stop-the-world garbage collection pauses caused by JVM ergonomics selecting the",
+          "channel": "proj-core-kafka-consumer-efficiency",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good to know, thanks! Hope the CI lets ^ in soon",
+          "channel": "help-taxonomy",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team! I'm working on improving ActiveKafka error observability and could use some guidance.\n\nWhen Kafka consumers encounter errors, we report them",
+          "channel": "help-observability",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, home for whatever infra River creates in infra repo land",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't think you need our code review to proceed! We don't own all consumers, just help people set them up and ensure they have something to consume",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "noel.padavan",
+          "count": 3
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 2
+        },
+        {
+          "user": "chethana.siddappa",
+          "count": 1
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.39,
+      "count": 116,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 135
+        },
+        {
+          "channel": "proj-core-kafka-consumer-efficiency",
+          "messages": 46
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 19
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 16
+        },
+        {
+          "channel": "streaming-frontend-alerts",
+          "messages": 16
+        },
+        {
+          "channel": "river-eli",
+          "messages": 8
+        },
+        {
+          "channel": "proj-kafka-cluster-splits-and-topology",
+          "messages": 6
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 6
+        },
+        {
+          "channel": "promise-engineering",
+          "messages": 4
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "noel.padavan",
+          "count": 6
+        },
+        {
+          "user": "david.mariassy",
+          "count": 6
+        },
+        {
+          "user": "filipe.deo",
+          "count": 3
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 3
+        },
+        {
+          "user": "eric.kogut",
+          "count": 2
+        },
+        {
+          "user": "brooklyn.dippo",
+          "count": 1
+        },
+        {
+          "user": "renee.ren",
+          "count": 1
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 1
+        },
+        {
+          "user": "marc.posth",
+          "count": 1
+        },
+        {
+          "user": "nick.ryan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 62,
+      "14": 27,
+      "21": 11,
+      "16": 51,
+      "13": 10,
+      "17": 27,
+      "15": 41,
+      "19": 27,
+      "20": 13,
+      "23": 1,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 101,
+      "Tuesday": 47,
+      "Monday": 24,
+      "Friday": 39,
+      "Thursday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.3,
+    "dept_average_30d": 5.75,
+    "dept_rank": 238,
+    "dept_size": 357
+  }
+}

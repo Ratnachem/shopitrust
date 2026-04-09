@@ -1,0 +1,240 @@
+{
+  "username": "romain.dauby",
+  "name": "Romain Dauby",
+  "generated_at": "2026-04-08T20:22:22.234319",
+  "summary": {
+    "message_count": 163,
+    "channels_active": 20,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Idk who triggered but thank you",
+          "channel": "infrasec-deploys",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Observations from today during traffic mirroring:\n\u2022 100% of global traffic for frontend-metrics at the GLB level is mirrored in the NEGs that are",
+          "channel": "proj-observability-remove-statsd-chain",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Looks good to me, thank you <@U02UJ8R1PB8> :slightly_smiling_face: ps: I have a big :graphite:  stack coming :grin-wx:",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for updating the 2 templates :wink:",
+          "channel": "observability-metrics",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok, thank you Sam for checking",
+          "channel": "observability-ops",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018GABSD29>",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03ULV7E38A> Is it planned to be deployed ? <https://buildkite.com/shopify/rbac-policies-multi-deploy/builds/3892/steps/canvas>",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Thanks Sam :amazing-cool:",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "matt.franklin",
+          "count": 3
+        },
+        {
+          "user": "sam.handler",
+          "count": 2
+        },
+        {
+          "user": "filip.petkovski",
+          "count": 2
+        },
+        {
+          "user": "pedro.tanaka",
+          "count": 1
+        },
+        {
+          "user": "michael.wilkerson",
+          "count": 1
+        },
+        {
+          "user": "andre.branchizio",
+          "count": 1
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 1
+        },
+        {
+          "user": "samuel.dufel",
+          "count": 1
+        },
+        {
+          "user": "alex.hope",
+          "count": 1
+        },
+        {
+          "user": "jie.wu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.83,
+      "count": 101,
+      "top_channels": [
+        {
+          "channel": "observability-ops",
+          "messages": 44
+        },
+        {
+          "channel": "proj-observability-remove-statsd-chain",
+          "messages": 23
+        },
+        {
+          "channel": "observability-metrics",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20651-prometheusremotewritebehind",
+          "messages": 11
+        },
+        {
+          "channel": "observability-metrics-alerts",
+          "messages": 10
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 9
+        },
+        {
+          "channel": "proj-observability-observe-metrics-reliability",
+          "messages": 8
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 7
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 6
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.33,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "aaron.casanova",
+          "count": 6
+        },
+        {
+          "user": "sam.handler",
+          "count": 3
+        },
+        {
+          "user": "nataly.sheinin",
+          "count": 2
+        },
+        {
+          "user": "matt.franklin",
+          "count": 1
+        },
+        {
+          "user": "roman.baiocco",
+          "count": 1
+        },
+        {
+          "user": "samuel.dufel",
+          "count": 1
+        },
+        {
+          "user": "sydney.rhude",
+          "count": 1
+        },
+        {
+          "user": "filip.petkovski",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 21,
+      "13": 19,
+      "14": 21,
+      "17": 13,
+      "16": 10,
+      "12": 9,
+      "20": 22,
+      "19": 11,
+      "1": 2,
+      "22": 4,
+      "18": 23,
+      "21": 7,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 52,
+      "Monday": 25,
+      "Thursday": 29,
+      "Tuesday": 38,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.37,
+    "dept_average_30d": 5.75,
+    "dept_rank": 230,
+    "dept_size": 357
+  }
+}

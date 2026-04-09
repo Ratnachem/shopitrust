@@ -1,0 +1,174 @@
+{
+  "username": "karl.baumgartner",
+  "name": "Karl Baumgartner",
+  "generated_at": "2026-04-08T20:22:26.521637",
+  "summary": {
+    "message_count": 149,
+    "channels_active": 12,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "But I have a fuzzy understanding of our relationship to Reportify, so that may not be conclusive. Feel free to ignore me.",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "AH, good catch. Thank you!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "sharad.gaur",
+          "count": 5
+        },
+        {
+          "user": "rob.cardy",
+          "count": 4
+        },
+        {
+          "user": "sam.handler",
+          "count": 3
+        },
+        {
+          "user": "michael.rye",
+          "count": 2
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.35,
+      "count": 62,
+      "top_channels": [
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 60
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 31
+        },
+        {
+          "channel": "observability-ingestion-alerts",
+          "messages": 25
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 11
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 9
+        },
+        {
+          "channel": "rss-ai",
+          "messages": 3
+        },
+        {
+          "channel": "proj-move-abacus-http-requests-to-observe",
+          "messages": 3
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 2
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 2
+        },
+        {
+          "channel": "streaming-foundations-ops",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.06,
+      "count": 63,
+      "top_mentioners": [
+        {
+          "user": "sam.handler",
+          "count": 32
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 21
+        },
+        {
+          "user": "michael.rye",
+          "count": 5
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 2
+        },
+        {
+          "user": "matt.franklin",
+          "count": 1
+        },
+        {
+          "user": "filipe.deo",
+          "count": 1
+        },
+        {
+          "user": "rob.cardy",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 4,
+      "21": 7,
+      "20": 7,
+      "19": 13,
+      "18": 17,
+      "17": 13,
+      "15": 22,
+      "14": 33,
+      "13": 13,
+      "12": 3,
+      "5": 1,
+      "16": 14,
+      "1": 2
+    },
+    "by_day": {
+      "Tuesday": 28,
+      "Thursday": 40,
+      "Wednesday": 48,
+      "Monday": 19,
+      "Friday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.03,
+    "dept_average_30d": 5.75,
+    "dept_rank": 284,
+    "dept_size": 357
+  }
+}

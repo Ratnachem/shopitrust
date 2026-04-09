@@ -1,0 +1,96 @@
+{
+  "username": "james.squires",
+  "name": "James Squires",
+  "generated_at": "2026-04-08T20:22:32.267526",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks! Redirected here from help-legal. Store owner requesting full store deletion, but we are blocked by error:\n\n```This shop is subject to a",
+          "channel": "help-regulatory",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Appreciated - will do",
+          "channel": "help-legal",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey there! I've taken over this ticket from Ryo.\n\u2022 Internal: <https://app.shopify.com/services/internal/shops/80343924971>\n\u2022",
+          "channel": "help-legal",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.61,
+      "count": 16,
+      "top_channels": [
+        {
+          "channel": "help-regulatory",
+          "messages": 2
+        },
+        {
+          "channel": "help-legal",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "anna.lee",
+          "count": 1
+        },
+        {
+          "user": "sarah.harrisjohn",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 1,
+      "5": 1,
+      "4": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Monday": 3,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.56,
+    "dept_average_30d": 4.09,
+    "dept_rank": 456,
+    "dept_size": 642
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "username": "dan.dobrick",
+  "name": "Dan Dobrick",
+  "generated_at": "2026-04-08T20:22:15.965549",
+  "summary": {
+    "message_count": 232,
+    "channels_active": 18,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02EHN9CLQY> I added a few more to the sheet; let me know if you have any questions!",
+          "channel": "proj-billing-billing-trust-signals",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Find the history for the `organization_billing_opt_out` flag. There are likely discussions in slack about keeping it around",
+          "channel": "billing-testing-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> Want me to write it somewhere else that's easier to grab?",
+          "channel": "billing-testing-river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M>\n&gt; Want me to write it somewhere else that's easier to grab?\nyes",
+          "channel": "billing-testing-river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\n\n```Dan Dobrick  [12:09 PM]\nHi team! My merchant is unable to pay their pending invoice. They keep getting an error when trying to use",
+          "channel": "billing-testing-river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "```Dan Dobrick  [12:07 PM]\nHi team! Merchant is unable to add SEPA as a payment method despite being in Germany with EUR billing currency. They only",
+          "channel": "billing-testing-river",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; We posted here as that was recommended in our internal search.\n<@W01830MR5HD> would you mind updating whatever documentation points folks here",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Those are all great points. I'm gonna give it a shot for whatever I pick up after this email thing I'm doing",
+          "channel": "billing-testing-river",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "david.greenslade",
+          "count": 3
+        },
+        {
+          "user": "al.ismail",
+          "count": 3
+        },
+        {
+          "user": "mithun.baskaran",
+          "count": 3
+        },
+        {
+          "user": "lily.liao",
+          "count": 2
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 2
+        },
+        {
+          "user": "leena.trivedi",
+          "count": 2
+        },
+        {
+          "user": "caleb.powell",
+          "count": 2
+        },
+        {
+          "user": "graham.johnson",
+          "count": 2
+        },
+        {
+          "user": "tiana.james",
+          "count": 1
+        },
+        {
+          "user": "ma.agco",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.75,
+      "count": 99,
+      "top_channels": [
+        {
+          "channel": "billing-testing-river",
+          "messages": 108
+        },
+        {
+          "channel": "help-billing-platform",
+          "messages": 27
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 20
+        },
+        {
+          "channel": "proj-billing-egypt-vat-collection",
+          "messages": 15
+        },
+        {
+          "channel": "trust-battery-ops",
+          "messages": 13
+        },
+        {
+          "channel": "dd-test-help-app-billing-workflow",
+          "messages": 13
+        },
+        {
+          "channel": "proj-billing-billing-trust-signals",
+          "messages": 7
+        },
+        {
+          "channel": "fs-billing-team",
+          "messages": 5
+        },
+        {
+          "channel": "billing-operations",
+          "messages": 4
+        },
+        {
+          "channel": "fs-coffee-chat",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.67,
+      "count": 40,
+      "top_mentioners": [
+        {
+          "user": "tadhg.boyle",
+          "count": 4
+        },
+        {
+          "user": "caleb.powell",
+          "count": 4
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 4
+        },
+        {
+          "user": "david.greenslade",
+          "count": 3
+        },
+        {
+          "user": "al.ismail",
+          "count": 3
+        },
+        {
+          "user": "mithun.baskaran",
+          "count": 3
+        },
+        {
+          "user": "elton.chan",
+          "count": 2
+        },
+        {
+          "user": "andrew.tubman",
+          "count": 2
+        },
+        {
+          "user": "juliana.cavalcanti",
+          "count": 1
+        },
+        {
+          "user": "lily.liao",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 18,
+      "14": 36,
+      "21": 20,
+      "19": 26,
+      "18": 36,
+      "16": 23,
+      "15": 30,
+      "22": 9,
+      "20": 24,
+      "13": 4,
+      "23": 1,
+      "2": 1,
+      "1": 3,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Tuesday": 47,
+      "Monday": 39,
+      "Friday": 83,
+      "Thursday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.87,
+    "dept_average_30d": 5.77,
+    "dept_rank": 370,
+    "dept_size": 885
+  }
+}

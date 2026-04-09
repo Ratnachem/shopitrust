@@ -1,0 +1,270 @@
+{
+  "username": "fernando.aguasvivas",
+  "name": "Fernando Aguasvivas",
+  "generated_at": "2026-04-08T20:22:22.397439",
+  "summary": {
+    "message_count": 522,
+    "channels_active": 44,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to page again if needed",
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I think we have the right folks now, so I'm going to shift away to help with another incident. But please feel free to page imoc again if needed.",
+          "channel": "inc-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ahh ok, good to know, thanks!",
+          "channel": "inv-20675-high-priority-storefront-renderer-slo-ele",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "np , thanks!",
+          "channel": "inv-20611-shopify-core-errors-by-cluster",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great, thanks! I feel like i learn this and then 6 months later I forget again lol",
+          "channel": "inv-20607-sfr-writer-reader-staleness-elevated",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I see the <https://github.com/shop/world/pull/532484|fix> has been merged",
+          "channel": "inc-20501-duplicate-supplier-orders-caused-by-origi",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great, thanks!",
+          "channel": "infra-central",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "think we have things in order here so will disengage. Feel free to page me back if needed.",
+          "channel": "inv-20457-amazon-pay-button-missing-text",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Wrote up a <https://incidents.shopify.io/playbooks/327|playbook> for traffic shifting. Please feel free to add/modify.",
+          "channel": "proj-application-edge-resiliency",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome, thanks!",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yea, they stopped whatever it is they were doing right before, but let's keep the rate limit of .1 in",
+          "channel": "inv-20533-shopify-web-slo-elevated-error-rate5xx-at",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "sam.obrien",
+          "count": 4
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 2
+        },
+        {
+          "user": "gill.haslett",
+          "count": 2
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 2
+        },
+        {
+          "user": "gregory.gan",
+          "count": 2
+        },
+        {
+          "user": "val.geyvandov",
+          "count": 2
+        },
+        {
+          "user": "jake.levine",
+          "count": 2
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 1
+        },
+        {
+          "user": "john.meehan",
+          "count": 1
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.13,
+      "count": 350,
+      "top_channels": [
+        {
+          "channel": "inv-20533-shopify-web-slo-elevated-error-rate5xx-at",
+          "messages": 42
+        },
+        {
+          "channel": "inv-20733-shopify-core-errors-by-cluster",
+          "messages": 38
+        },
+        {
+          "channel": "infra-central",
+          "messages": 36
+        },
+        {
+          "channel": "inv-20611-shopify-core-errors-by-cluster",
+          "messages": 31
+        },
+        {
+          "channel": "inv-20607-sfr-writer-reader-staleness-elevated",
+          "messages": 28
+        },
+        {
+          "channel": "inv-20540-high-and-sustained-core-p95-response-time",
+          "messages": 28
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 25
+        },
+        {
+          "channel": "inv-20675-high-priority-storefront-renderer-slo-ele",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20786-shard299-replicas-not-replicating",
+          "messages": 22
+        },
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.27,
+      "count": 65,
+      "top_mentioners": [
+        {
+          "user": "jie.sun",
+          "count": 15
+        },
+        {
+          "user": "jake.levine",
+          "count": 7
+        },
+        {
+          "user": "abdulrahman.alhamali",
+          "count": 5
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 4
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 4
+        },
+        {
+          "user": "kelly.simpson",
+          "count": 3
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 3
+        },
+        {
+          "user": "mark.rattle",
+          "count": 3
+        },
+        {
+          "user": "joe.chop",
+          "count": 3
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 29,
+      "19": 46,
+      "18": 14,
+      "14": 5,
+      "13": 11,
+      "21": 116,
+      "17": 6,
+      "0": 33,
+      "23": 39,
+      "22": 97,
+      "20": 120,
+      "1": 3,
+      "16": 3
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Monday": 143,
+      "Friday": 70,
+      "Thursday": 108,
+      "Tuesday": 124
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.73,
+    "dept_average_30d": 5.75,
+    "dept_rank": 162,
+    "dept_size": 357
+  }
+}

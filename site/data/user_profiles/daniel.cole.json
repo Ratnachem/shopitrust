@@ -1,0 +1,223 @@
+{
+  "username": "daniel.cole",
+  "name": "Daniel Cole",
+  "generated_at": "2026-04-08T20:22:27.114273",
+  "summary": {
+    "message_count": 97,
+    "channels_active": 12,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "&gt; This isn't true in Kafka; but in a streaming pipeline you need to have some max allowed lateness\n:+1: the point is applying the same watermark",
+          "channel": "proj-data-platform-unified-feature-access",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; This isn't true in Kafka; but in a streaming pipeline you need to have some max allowed lateness\n:+1: the point is applying the same watermark",
+          "channel": "proj-data-platform-unified-feature-access",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U027H3ACM4Z> thank you X :100: for your help.  Is my understanding of the current solution correct?\n\nWe are scaling up the job to ingest all of the",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":goodmorn: Quick recap on hybrid source blockers. Let me know if I'm missing anything here.\n\nPriority of blockers were trying to resolve,\n\u2022 BQ",
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It is however long it needs to keep the read session open. With a streaming execution mode I believe this will be the entire duration of the pipeline",
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "farooq.qaiser",
+          "count": 7
+        },
+        {
+          "user": "michael.hynes",
+          "count": 6
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 4
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 4
+        },
+        {
+          "user": "erik.wright",
+          "count": 3
+        },
+        {
+          "user": "ming.zhu",
+          "count": 2
+        },
+        {
+          "user": "merlin.davies",
+          "count": 2
+        },
+        {
+          "user": "frank.jania",
+          "count": 1
+        },
+        {
+          "user": "daniel.rossos",
+          "count": 1
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.99,
+      "count": 79,
+      "top_channels": [
+        {
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "messages": 35
+        },
+        {
+          "channel": "flink-iceberg-connector-spike",
+          "messages": 22
+        },
+        {
+          "channel": "inv-20023-apparent-bug-in-timeliness-reporting-on-d",
+          "messages": 7
+        },
+        {
+          "channel": "proj-data-platform-unified-feature-access",
+          "messages": 6
+        },
+        {
+          "channel": "feature-platform-shaping",
+          "messages": 5
+        },
+        {
+          "channel": "proj-sdp-feature-platform",
+          "messages": 5
+        },
+        {
+          "channel": "gsd-48923-flink-bq-connector",
+          "messages": 4
+        },
+        {
+          "channel": "inc-19532-model-failures-dbt-standalone-update",
+          "messages": 4
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 3
+        },
+        {
+          "channel": "proj-data-platform-fast-freshness-rca",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "frank.jania",
+          "count": 9
+        },
+        {
+          "user": "michael.hynes",
+          "count": 9
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 4
+        },
+        {
+          "user": "erik.wright",
+          "count": 4
+        },
+        {
+          "user": "merlin.davies",
+          "count": 3
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 2
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 2
+        },
+        {
+          "user": "justin.pauley",
+          "count": 2
+        },
+        {
+          "user": "daniel.rossos",
+          "count": 1
+        },
+        {
+          "user": "anthony.tasca",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 23,
+      "16": 7,
+      "13": 16,
+      "17": 8,
+      "15": 9,
+      "14": 16,
+      "19": 11,
+      "21": 3,
+      "18": 4
+    },
+    "by_day": {
+      "Tuesday": 21,
+      "Monday": 17,
+      "Thursday": 27,
+      "Wednesday": 17,
+      "Friday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.25,
+    "dept_average_30d": 5.39,
+    "dept_rank": 142,
+    "dept_size": 272
+  }
+}

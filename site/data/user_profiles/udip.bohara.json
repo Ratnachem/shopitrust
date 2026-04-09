@@ -1,0 +1,104 @@
+{
+  "username": "udip.bohara",
+  "name": "Udip Bohara",
+  "generated_at": "2026-04-08T20:22:29.925336",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 5,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U035FC479RS>, how do we create a prompt (like the investigations in the channel) to ask River?",
+          "channel": "merchant-funnel-reporting",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "andrew.plassard",
+          "count": 1
+        },
+        {
+          "user": "shanelle.mullin",
+          "count": 1
+        },
+        {
+          "user": "sara.mcneilly",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.48,
+      "count": 39,
+      "top_channels": [
+        {
+          "channel": "merchant-funnel-reporting",
+          "messages": 2
+        },
+        {
+          "channel": "growth-data-atc-river",
+          "messages": 1
+        },
+        {
+          "channel": "growth-opp-sizing",
+          "messages": 1
+        },
+        {
+          "channel": "partners-data",
+          "messages": 1
+        },
+        {
+          "channel": "growth-data-atc-handoff",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "shanelle.mullin",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 3,
+      "18": 2,
+      "0": 1
+    },
+    "by_day": {
+      "Friday": 2,
+      "Wednesday": 2,
+      "Thursday": 1,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 3.56,
+    "dept_average_30d": 5.58,
+    "dept_rank": 396,
+    "dept_size": 398
+  }
+}

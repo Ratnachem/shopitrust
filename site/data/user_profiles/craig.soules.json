@@ -1,0 +1,233 @@
+{
+  "username": "craig.soules",
+  "name": "Craig Soules",
+  "generated_at": "2026-04-08T20:22:21.302164",
+  "summary": {
+    "message_count": 104,
+    "channels_active": 8,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-observability",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!  Is there an explanation somewhere of how these questions were chosen, how people are expected to evaluate, and how the feedback is",
+          "channel": "help-people-data",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "nope, I was wrong... we actually take the machine ID, append additional random bytes to avoid possible collisions, and then hash it using some",
+          "channel": "proj-entity-identifiers",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Yeah, if you can dump me a full list of keys with frequency counts as well as just the raw data that I can play around with that would be amazing",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello!  I'm looking to pull together a list of all of the marginalia used in SQL queries here at Shopify and someone told me the folks here could",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "tmp-sltreviews-yb-march-2026",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "&gt; Not sure what you mean by \"every table\" as I certainly do not want \"every table\" to be an \"island\" table\nMy bad here... had a terminology",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "okay, think I did it... thanks!",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, just edit whatever you like.  I honestly pay zero attention to this thing :stuck_out_tongue:",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "kirill.shatrov",
+          "count": 2
+        },
+        {
+          "user": "josh.varner",
+          "count": 2
+        },
+        {
+          "user": "garth.goodson",
+          "count": 2
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.27,
+      "count": 60,
+      "top_channels": [
+        {
+          "channel": "proj-infra-yugabyte-oid",
+          "messages": 38
+        },
+        {
+          "channel": "proj-entity-identifiers",
+          "messages": 37
+        },
+        {
+          "channel": "yugabyte-core-islands",
+          "messages": 15
+        },
+        {
+          "channel": "help-observability",
+          "messages": 6
+        },
+        {
+          "channel": "help-people-data",
+          "messages": 2
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 2
+        },
+        {
+          "channel": "tmp-sltreviews-yb-march-2026",
+          "messages": 2
+        },
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "garth.goodson",
+          "count": 4
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 4
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 4
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 3
+        },
+        {
+          "user": "josh.varner",
+          "count": 2
+        },
+        {
+          "user": "austen.lacy",
+          "count": 2
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "adam.steel",
+          "count": 1
+        },
+        {
+          "user": "levi.malott",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 8,
+      "15": 4,
+      "14": 5,
+      "2": 4,
+      "22": 9,
+      "21": 5,
+      "20": 3,
+      "19": 16,
+      "18": 3,
+      "17": 6,
+      "3": 9,
+      "1": 7,
+      "0": 16,
+      "23": 5,
+      "5": 1,
+      "4": 1,
+      "13": 1,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 17,
+      "Tuesday": 32,
+      "Monday": 3,
+      "Friday": 40,
+      "Thursday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.48,
+    "dept_average_30d": 5.75,
+    "dept_rank": 336,
+    "dept_size": 357
+  }
+}

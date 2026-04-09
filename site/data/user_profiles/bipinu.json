@@ -1,0 +1,125 @@
+{
+  "username": "bipinu",
+  "name": "Bipinu",
+  "generated_at": "2026-04-08T20:22:20.918838",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 2,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 5,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Based on the discussion we had for `buyer_event` table, I have created a <https://issuetracker.google.com/498972565|PIT task> and put",
+          "channel": "gcp-bq-external",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.33,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "frank.jania",
+          "count": 2
+        },
+        {
+          "user": "nikola.todic",
+          "count": 2
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 2
+        },
+        {
+          "user": "michael.hynes",
+          "count": 1
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 1
+        },
+        {
+          "user": "epavan",
+          "count": 1
+        },
+        {
+          "user": "wiliam.oliveira",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.54,
+      "count": 39,
+      "top_channels": [
+        {
+          "channel": "gcp-bq-external",
+          "messages": 6
+        },
+        {
+          "channel": "help-gcp-ext-dataplatform",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.4,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "tdelazzari",
+          "count": 7
+        },
+        {
+          "user": "nikola.todic",
+          "count": 1
+        },
+        {
+          "user": "connor.clark",
+          "count": 1
+        },
+        {
+          "user": "charlieallan",
+          "count": 1
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 1,
+      "13": 3,
+      "18": 3,
+      "17": 2,
+      "14": 1
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Tuesday": 4,
+      "Thursday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.31,
+    "dept_average_30d": 4.74,
+    "dept_rank": 981,
+    "dept_size": 1663
+  }
+}

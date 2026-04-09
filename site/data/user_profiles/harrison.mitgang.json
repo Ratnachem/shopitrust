@@ -1,0 +1,209 @@
+{
+  "username": "harrison.mitgang",
+  "name": "Harrison Mitgang",
+  "generated_at": "2026-04-08T20:22:27.484731",
+  "summary": {
+    "message_count": 76,
+    "channels_active": 9,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! Can I get a quick review on <https://app.graphite.com/github/pr/shop/world/570067>? It adds that GraphQL::Cardinal count support for sql.",
+          "channel": "markets-foundations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm happy to pair to see how we can unblock you! Feel free to grab some time on my calendar. I'm working PST this week.",
+          "channel": "markets-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "The changes are ready for review <https://app.graphite.com/github/pr/shop/world/519757|here>. <@W018WBKR6SD> and <@W018HUSU7LK> I'd love your",
+          "channel": "proj-markets-x-rollouts-ui",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Can I get another review on <https://github.com/Shopify/markets-platform-docs/pull/111> -- it's details on what markets atc should investigate vs",
+          "channel": "markets-atc-coord",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M>, thanks! That got me started. I ended up using the following big query to see that rollouts weren't being used\n```select date,",
+          "channel": "markets-river",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "stewart.parry",
+          "count": 5
+        },
+        {
+          "user": "juan.hoyos",
+          "count": 4
+        },
+        {
+          "user": "chris.lee",
+          "count": 3
+        },
+        {
+          "user": "justin.h.kim",
+          "count": 1
+        },
+        {
+          "user": "leo.zhao",
+          "count": 1
+        },
+        {
+          "user": "daniel.schoenberg",
+          "count": 1
+        },
+        {
+          "user": "iryna.loza",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.59,
+      "count": 163,
+      "top_channels": [
+        {
+          "channel": "markets-river",
+          "messages": 23
+        },
+        {
+          "channel": "proj-markets-x-rollouts-ui",
+          "messages": 18
+        },
+        {
+          "channel": "markets-atc-coord",
+          "messages": 16
+        },
+        {
+          "channel": "markets-foundations",
+          "messages": 9
+        },
+        {
+          "channel": "markets-platform",
+          "messages": 3
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 3
+        },
+        {
+          "channel": "help-eng-interviews",
+          "messages": 2
+        },
+        {
+          "channel": "multi-entity-dev",
+          "messages": 1
+        },
+        {
+          "channel": "proj-markets-and-rollouts",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "juan.hoyos",
+          "count": 6
+        },
+        {
+          "user": "stewart.parry",
+          "count": 4
+        },
+        {
+          "user": "iryna.loza",
+          "count": 4
+        },
+        {
+          "user": "martin.lopezmiller",
+          "count": 2
+        },
+        {
+          "user": "raymond.zeng",
+          "count": 2
+        },
+        {
+          "user": "chris.lee",
+          "count": 2
+        },
+        {
+          "user": "cole.atkinson",
+          "count": 2
+        },
+        {
+          "user": "mikhaila.wuerch",
+          "count": 1
+        },
+        {
+          "user": "daniel.schoenberg",
+          "count": 1
+        },
+        {
+          "user": "david.xu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 6,
+      "18": 2,
+      "17": 8,
+      "15": 12,
+      "22": 9,
+      "21": 5,
+      "16": 18,
+      "20": 9,
+      "14": 4,
+      "0": 1,
+      "23": 2
+    },
+    "by_day": {
+      "Tuesday": 11,
+      "Monday": 10,
+      "Thursday": 24,
+      "Wednesday": 23,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.95,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1017,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "username": "dan.mayer",
+  "name": "Dan Mayer",
+  "generated_at": "2026-04-08T20:22:10.400305",
+  "summary": {
+    "message_count": 202,
+    "channels_active": 15,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I didn't hear anything from <@U07C185C6HM> do you want me to go ahead with this PR <@W019MBR7WPQ> to fix the issue or make a new one that rips all",
+          "channel": "ephemeral-cache",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if that is good now or if you are already hitting the generation.",
+          "channel": "proj-infra-shopkv-store",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I think for now you can use that bucket, so feel free to try to export a production generation",
+          "channel": "proj-infra-shopkv-store",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if that makes sense and you can do that <@W01830YQR4P>",
+          "channel": "proj-infra-shopkv-store",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "vincent.lizotte",
+          "count": 18
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 3
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 2
+        },
+        {
+          "user": "mark.rattle",
+          "count": 2
+        },
+        {
+          "user": "nicholas.herson",
+          "count": 2
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 1
+        },
+        {
+          "user": "jacob.dubinsky",
+          "count": 1
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 1
+        },
+        {
+          "user": "erin.son",
+          "count": 1
+        },
+        {
+          "user": "justin.reid",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.62,
+      "count": 165,
+      "top_channels": [
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 106
+        },
+        {
+          "channel": "caching-platform-team",
+          "messages": 32
+        },
+        {
+          "channel": "proj-verdict-performance",
+          "messages": 15
+        },
+        {
+          "channel": "caching-platform-alerts",
+          "messages": 10
+        },
+        {
+          "channel": "shopkv-alerts",
+          "messages": 7
+        },
+        {
+          "channel": "ephemeral-cache",
+          "messages": 6
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 5
+        },
+        {
+          "channel": "tmp-sfr-prod-memcached-on-vms",
+          "messages": 5
+        },
+        {
+          "channel": "proj-rts-identitycache-shutdown",
+          "messages": 3
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "sam.obeid",
+          "count": 10
+        },
+        {
+          "user": "jason.chen",
+          "count": 3
+        },
+        {
+          "user": "nicholas.herson",
+          "count": 2
+        },
+        {
+          "user": "yinghai.zhao",
+          "count": 2
+        },
+        {
+          "user": "charlie.king",
+          "count": 2
+        },
+        {
+          "user": "karim.elhusseiny",
+          "count": 1
+        },
+        {
+          "user": "dan.robinson",
+          "count": 1
+        },
+        {
+          "user": "syedhabib.urrehman",
+          "count": 1
+        },
+        {
+          "user": "richard.monette",
+          "count": 1
+        },
+        {
+          "user": "jacob.dubinsky",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 26,
+      "16": 27,
+      "15": 19,
+      "23": 3,
+      "20": 11,
+      "17": 30,
+      "0": 4,
+      "21": 29,
+      "19": 10,
+      "1": 15,
+      "22": 9,
+      "5": 5,
+      "4": 5,
+      "3": 6,
+      "2": 1,
+      "14": 2
+    },
+    "by_day": {
+      "Wednesday": 44,
+      "Tuesday": 49,
+      "Monday": 41,
+      "Friday": 21,
+      "Thursday": 47
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.75,
+    "dept_rank": 127,
+    "dept_size": 357
+  }
+}

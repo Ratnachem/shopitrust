@@ -1,0 +1,280 @@
+{
+  "username": "levi.malott",
+  "name": "Levi Malott",
+  "generated_at": "2026-04-08T20:22:18.461153",
+  "summary": {
+    "message_count": 494,
+    "channels_active": 19,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "appreciate it. thanks man",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad man. I was trying to go a layer beneath.. I think I missed that mark. ",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it. db writes are going to get much more expensive and this part of the code is db-write heavy.",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "appreciate it man",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "fyi, small PR to defer identity account synchronization <https://app.graphite.com/github/pr/shop/world/533827#>. There's almost 1s of redis lock",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah you already beat me to it! Will take a look. thank you!",
+          "channel": "fulfillment",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "yeah i can help hunt someone down but sounds like maybe <@U01F1EJT3EY> may have more info/context or know who to hunt?",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Replicating those e2e tests is going to require us to get the shop from default state to whatever state is necessary for those tests. We still need",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U06J6F1FLEB> what is our merge strategy for `shop/world`? I see graphite",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "to extend my thought futher though, if we're able to do dev up the necessary things to run a majority of the e2e tests in a realistic way, then those",
+          "channel": "admin-web-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "if helpful,\n\n``` Best fix: make the GraphQL read path tolerate a missing row\n\n There is already a repository that does exactly this fallback:\n\n -",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U06KZMC62LA> On moving the signup metadata task to the mutation, I actually think we shouldn't do that. I think the approach we should be taking is",
+          "channel": "proj-speedup-store-creation",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "phil.egelston",
+          "count": 31
+        },
+        {
+          "user": "olaolu.olawuyi",
+          "count": 8
+        },
+        {
+          "user": "artin.rezaee",
+          "count": 7
+        },
+        {
+          "user": "leonardo.pereira",
+          "count": 5
+        },
+        {
+          "user": "brad.wright",
+          "count": 5
+        },
+        {
+          "user": "hamish.robertson",
+          "count": 3
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "gaetan.bzodek",
+          "count": 2
+        },
+        {
+          "user": "gale.shafer",
+          "count": 2
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.86,
+      "count": 283,
+      "top_channels": [
+        {
+          "channel": "proj-speedup-store-creation",
+          "messages": 381
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 35
+        },
+        {
+          "channel": "tmp-no-more-crosszone",
+          "messages": 11
+        },
+        {
+          "channel": "fulfillment",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20301-preinstallconnectedpaypalapp-failing-with",
+          "messages": 8
+        },
+        {
+          "channel": "dev-up",
+          "messages": 7
+        },
+        {
+          "channel": "startup-connections-\u00f6tzi-group",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20961-spikes-of-500s-from-billing-resulting-in-",
+          "messages": 6
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 6
+        },
+        {
+          "channel": "proj-identity-hardening",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.35,
+      "count": 37,
+      "top_mentioners": [
+        {
+          "user": "phil.egelston",
+          "count": 12
+        },
+        {
+          "user": "leonardo.pereira",
+          "count": 8
+        },
+        {
+          "user": "artin.rezaee",
+          "count": 5
+        },
+        {
+          "user": "olaolu.olawuyi",
+          "count": 3
+        },
+        {
+          "user": "arbab.ahmed",
+          "count": 2
+        },
+        {
+          "user": "sam.ugbechie",
+          "count": 2
+        },
+        {
+          "user": "brad.wright",
+          "count": 2
+        },
+        {
+          "user": "ashley.williams",
+          "count": 1
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 1
+        },
+        {
+          "user": "hamish.robertson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 34,
+      "14": 76,
+      "13": 59,
+      "12": 23,
+      "22": 7,
+      "21": 20,
+      "20": 49,
+      "19": 46,
+      "18": 50,
+      "16": 50,
+      "15": 66,
+      "23": 4,
+      "2": 1,
+      "11": 3,
+      "0": 5,
+      "7": 1
+    },
+    "by_day": {
+      "Wednesday": 110,
+      "Tuesday": 58,
+      "Thursday": 108,
+      "Monday": 137,
+      "Friday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.67,
+    "dept_average_30d": 5.77,
+    "dept_rank": 459,
+    "dept_size": 885
+  }
+}

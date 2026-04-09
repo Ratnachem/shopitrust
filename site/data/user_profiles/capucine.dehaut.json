@@ -1,0 +1,114 @@
+{
+  "username": "capucine.dehaut",
+  "name": "Capucine Dehaut",
+  "generated_at": "2026-04-08T20:22:28.953234",
+  "summary": {
+    "message_count": 44,
+    "channels_active": 1,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02SVRAQGUU> :pray:\nNow that the PRs are merged, I'd like to backfill the mart in production (starting with 2 weeks to validate, then",
+          "channel": "proj-data-platform-event-refinery-pulse",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0390ENBQDU> \nI can schedule sth for us to pair on Monday ?",
+          "channel": "proj-data-platform-event-refinery-pulse",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok so the join on batch_rebuilds_identifiers to add `is_new_shopify_y` gets too expensive. Without it, building 1 day only costs ~1.4 slot days",
+          "channel": "proj-data-platform-event-refinery-pulse",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Ok Claude helped me figure it out ! The `batch_rebuilds_identifiers` table has row access polices, but the service account used by the task isn't",
+          "channel": "proj-data-platform-event-refinery-pulse",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "timothy.weeks",
+          "count": 4
+        },
+        {
+          "user": "zhen.han",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.15,
+      "count": 4,
+      "top_channels": [
+        {
+          "channel": "proj-data-platform-event-refinery-pulse",
+          "messages": 44
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "zhen.han",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 4,
+      "21": 3,
+      "17": 5,
+      "16": 4,
+      "15": 10,
+      "20": 6,
+      "19": 2,
+      "18": 3,
+      "14": 5,
+      "23": 2
+    },
+    "by_day": {
+      "Monday": 5,
+      "Wednesday": 7,
+      "Tuesday": 14,
+      "Friday": 9,
+      "Thursday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 3.99,
+    "dept_average_30d": 5.39,
+    "dept_rank": 249,
+    "dept_size": 272
+  }
+}

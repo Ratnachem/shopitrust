@@ -1,0 +1,95 @@
+{
+  "username": "john.tanuyan",
+  "name": "John Tanuyan",
+  "generated_at": "2026-04-08T20:22:29.619033",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 2,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! <@U03Q04SE01K> <@U03H515KA81>",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.49,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "nanakwame.acheampong",
+          "count": 1
+        },
+        {
+          "user": "ma.regir",
+          "count": 1
+        },
+        {
+          "user": "sam.ugbechie",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.07,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "help-billing-platform",
+          "messages": 3
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.46,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "mithun.baskaran",
+          "count": 1
+        },
+        {
+          "user": "sam.ugbechie",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "6": 2,
+      "22": 3,
+      "4": 1
+    },
+    "by_day": {
+      "Monday": 2,
+      "Friday": 2,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.21,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1028,
+    "dept_size": 1663
+  }
+}

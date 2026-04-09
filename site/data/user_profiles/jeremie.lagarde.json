@@ -1,0 +1,270 @@
+{
+  "username": "jeremie.lagarde",
+  "name": "Jeremie Lagarde",
+  "generated_at": "2026-04-08T20:22:10.423844",
+  "summary": {
+    "message_count": 1417,
+    "channels_active": 38,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 45,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.6,
+      "pos_count": 26,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":blob-wave: Hey! I'm planning to add new skills to River for investigating infrastructure issues. This could be beneficial for both infrastructure",
+          "channel": "river",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":blob-wave: Hey, can someone give me a hand on Monday to try out CentML with the new cluster? :minion-please: Thanks!",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that",
+          "channel": "observability-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Cool, let me know if that works!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "We haven't validated the 1.35 yet, so we will not use it soon, but thank you for confirming what we suspected :blobheart:",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I guess we don't have the prod account yet (my bad sorry)",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Also let me know if you have issues with the current config",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":+1: Thank you",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help to clean up that on Monday",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "The <https://console.cloud.google.com/kubernetes/clusters/details/us-east1/gke-byoc/nodes?project=shopify-ml-gpu-byoc|shopify-ml-gpu-byoc/gke-byoc>",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "dakota.szabo",
+          "count": 9
+        },
+        {
+          "user": "devon.boyer",
+          "count": 7
+        },
+        {
+          "user": "darren.foo",
+          "count": 5
+        },
+        {
+          "user": "bhavika.tekwani",
+          "count": 4
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 3
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 3
+        },
+        {
+          "user": "deepak.ramiasridharan",
+          "count": 3
+        },
+        {
+          "user": "tom.rochette",
+          "count": 2
+        },
+        {
+          "user": "bill.bean",
+          "count": 2
+        },
+        {
+          "user": "jerry.deng",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 408,
+      "top_channels": [
+        {
+          "channel": "team-cloud-systems",
+          "messages": 368
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 303
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 101
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 98
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 76
+        },
+        {
+          "channel": "infra-central",
+          "messages": 67
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 54
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 32
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 31
+        },
+        {
+          "channel": "inv-20611-shopify-core-errors-by-cluster",
+          "messages": 31
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 143,
+      "top_mentioners": [
+        {
+          "user": "charlieallan",
+          "count": 16
+        },
+        {
+          "user": "deepak.ramiasridharan",
+          "count": 13
+        },
+        {
+          "user": "bhavika.tekwani",
+          "count": 13
+        },
+        {
+          "user": "nataly.sheinin",
+          "count": 12
+        },
+        {
+          "user": "jacob.lott",
+          "count": 8
+        },
+        {
+          "user": "devon.boyer",
+          "count": 6
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 6
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 5
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 5
+        },
+        {
+          "user": "justin.reid",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 152,
+      "16": 91,
+      "15": 159,
+      "14": 105,
+      "22": 75,
+      "21": 75,
+      "20": 146,
+      "19": 139,
+      "17": 108,
+      "13": 76,
+      "11": 28,
+      "2": 27,
+      "1": 54,
+      "0": 31,
+      "12": 49,
+      "23": 59,
+      "10": 7,
+      "9": 1,
+      "5": 1,
+      "4": 5,
+      "3": 29
+    },
+    "by_day": {
+      "Wednesday": 403,
+      "Tuesday": 377,
+      "Monday": 172,
+      "Friday": 147,
+      "Thursday": 318
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.92,
+    "dept_average_30d": 5.75,
+    "dept_rank": 24,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "username": "sienna.wishart",
+  "name": "Sienna Wishart",
+  "generated_at": "2026-04-08T20:22:29.427090",
+  "summary": {
+    "message_count": 45,
+    "channels_active": 7,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<https://github.com/Shopify/data-warehouse/pull/42340|PR> bumping the SLI's for `base__metadata_processor__freshness` and its",
+          "channel": "infrastructure-data",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I just replied",
+          "channel": "dw-infra",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll update that second PR now",
+          "channel": "dw-infra",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "elize.papineau",
+          "count": 5
+        },
+        {
+          "user": "ariane.schang",
+          "count": 4
+        },
+        {
+          "user": "dan.peach",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.38,
+      "count": 152,
+      "top_channels": [
+        {
+          "channel": "dw-infra",
+          "messages": 30
+        },
+        {
+          "channel": "data-platform-tools-notify",
+          "messages": 3
+        },
+        {
+          "channel": "infrastructure-data",
+          "messages": 3
+        },
+        {
+          "channel": "proj-data-platform-fast-freshness-rca",
+          "messages": 3
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "ml-community",
+          "messages": 2
+        },
+        {
+          "channel": "data-community",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.46,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "dan.peach",
+          "count": 2
+        },
+        {
+          "user": "sonali.mayer",
+          "count": 1
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 1
+        },
+        {
+          "user": "marvin.davila",
+          "count": 1
+        },
+        {
+          "user": "jeannaly.cruz",
+          "count": 1
+        },
+        {
+          "user": "elize.papineau",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 11,
+      "14": 6,
+      "18": 2,
+      "17": 7,
+      "16": 2,
+      "21": 6,
+      "19": 8,
+      "20": 1,
+      "22": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Monday": 6,
+      "Wednesday": 9,
+      "Tuesday": 16,
+      "Friday": 4,
+      "Thursday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.68,
+    "dept_average_30d": 5.39,
+    "dept_rank": 198,
+    "dept_size": 272
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "username": "debora.setton",
+  "name": "Debora Setton",
+  "generated_at": "2026-04-08T20:22:26.024343",
+  "summary": {
+    "message_count": 497,
+    "channels_active": 40,
+    "unique_people_mentioned": 55,
+    "unique_mentioners": 38,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.6,
+      "pos_count": 26,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, that would be great! Thank you!",
+          "channel": "inc-21191-custom-delivery-strategy-handle-can-be-in",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah nice, thank you!",
+          "channel": "inc-21191-custom-delivery-strategy-handle-can-be-in",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks!",
+          "channel": "inc-21191-custom-delivery-strategy-handle-can-be-in",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Got it. I think the next thing would be to check Core logs to see if there's an error that stands out during the `PurchaseOrderProcessingJob` . Feel",
+          "channel": "product-network-checkout",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Robertas! At which step does checkout stop processing correctly? Are you able to go all the way to clicking Pay Now? Do you see the Thank You Page",
+          "channel": "product-network-checkout",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Astin!",
+          "channel": "live-site-monitoring",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I wasn't aware of that skill.\n\nI ran it and Claude reached a different conclusion :smiley: It recommended `((id) HASH, shop_id)`, full",
+          "channel": "proj-checkout-yugabyte",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok sounds good, thank you! :bow-girl:",
+          "channel": "checkout-one-exceptions",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Ok, so if this checkout-web PR is merged it will break Product Network.\nThere are some things to unpack, but I have question: why did you",
+          "channel": "checkout-one-exceptions",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you run into weird issues.",
+          "channel": "proj-checkout-yugabyte",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I can add items to my cart on my staff shop with the Ajax API, so will continue investigating as whatever is going on with the admin/brochure/POS",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 60,
+      "top_mentioned": [
+        {
+          "user": "felix.descoteaux",
+          "count": 22
+        },
+        {
+          "user": "gus.degeus",
+          "count": 17
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 7
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 7
+        },
+        {
+          "user": "max.veldink",
+          "count": 6
+        },
+        {
+          "user": "scott.plybon",
+          "count": 5
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 4
+        },
+        {
+          "user": "annie.caron",
+          "count": 4
+        },
+        {
+          "user": "dave.nagoda",
+          "count": 4
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.92,
+      "count": 324,
+      "top_channels": [
+        {
+          "channel": "proj-checkout-yugabyte",
+          "messages": 79
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 66
+        },
+        {
+          "channel": "inc-21191-custom-delivery-strategy-handle-can-be-in",
+          "messages": 53
+        },
+        {
+          "channel": "proj-yugabyte-thestore",
+          "messages": 49
+        },
+        {
+          "channel": "checkout-platform-support",
+          "messages": 39
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 38
+        },
+        {
+          "channel": "checkout-one-exceptions",
+          "messages": 28
+        },
+        {
+          "channel": "inv-20036-cant-add-remote-product-to-cart-on-e2e-pu",
+          "messages": 18
+        },
+        {
+          "channel": "product-network-checkout",
+          "messages": 14
+        },
+        {
+          "channel": "inc-21092-flashsales-elevated-checkouts-errors-on-f",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 89,
+      "top_mentioners": [
+        {
+          "user": "mitch.dickinson",
+          "count": 19
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 9
+        },
+        {
+          "user": "max.veldink",
+          "count": 6
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 6
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 5
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 4
+        },
+        {
+          "user": "dakota.mcinnis",
+          "count": 4
+        },
+        {
+          "user": "christopher.rintjema",
+          "count": 3
+        },
+        {
+          "user": "ram.vemula",
+          "count": 2
+        },
+        {
+          "user": "philip.tolton",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 5,
+      "20": 74,
+      "19": 49,
+      "18": 46,
+      "16": 42,
+      "14": 19,
+      "12": 18,
+      "0": 11,
+      "23": 17,
+      "22": 14,
+      "21": 31,
+      "17": 84,
+      "15": 53,
+      "13": 29,
+      "10": 5
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 96,
+      "Monday": 111,
+      "Friday": 100,
+      "Thursday": 109
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.62,
+    "dept_average_30d": 4.74,
+    "dept_rank": 78,
+    "dept_size": 1663
+  }
+}

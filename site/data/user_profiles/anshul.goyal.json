@@ -1,0 +1,286 @@
+{
+  "username": "anshul.goyal",
+  "name": "Anshul Goyal",
+  "generated_at": "2026-04-08T20:22:07.095008",
+  "summary": {
+    "message_count": 448,
+    "channels_active": 24,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 13,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok. Daniel let me know if you want to pair.\n\nI am also trying to deploy sale-facts again but hitting infra issues.",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "The design looks good!\n\nDo you want me to implement it next week?",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Patrick: If you want me to look into any of the other pipelines involving union, let me know. I covered `discount_facts` so far.",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "&gt; did Valentinas approve the update?\nValentinas said this \"is there anything specific you need from me? I'm not specializing on draft orders, so",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n\nis it recommended to use `jobmanager.scheduler` `adaptive` or `default` ?",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "for `sale-facts` , I used `sale_happened_at` as the time filter column because the `_row_version` is not comparable. If you dont have any other",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "hmm. do you want me to run that command?",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave:\nComing from: <https://shopify.slack.com/archives/CCSUL1Z5L/p1774293201061979>\n\nWe have multiple (7) staging branches defined in our",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":fyi3:\nCurrently, if you deploy using `dev deploy staging-*` it wont likely work because `release_channel` for some pipelines have been updated",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok, yeah. adding `coalesce` to the select sql query when calling insert seems to not throw any error. this is probably better. thanks!",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "for `sale-facts` , I used `sale_happened_at` as the time filter column because the `_row_version` is not comparable. If you dont have any other",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": ":wave:\nCurious if anyone can direct me to a guide or a doc that describes how to create and test views locally? I am trying to follow `readme.md` but",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever we decide, as long as it produces the same result and its future compatible. we should be fine.",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "pritesh.gudge",
+          "count": 5
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 3
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 3
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 3
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 3
+        },
+        {
+          "user": "trideep.roy",
+          "count": 2
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 2
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 1
+        },
+        {
+          "user": "matthew.vickers",
+          "count": 1
+        },
+        {
+          "user": "leo.godin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.54,
+      "count": 319,
+      "top_channels": [
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 117
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 54
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 36
+        },
+        {
+          "channel": "inc-21029-invalid-metafield-integer-value",
+          "messages": 30
+        },
+        {
+          "channel": "inc-20469-keycommittoolarge-on-metafields-dimension",
+          "messages": 29
+        },
+        {
+          "channel": "anshul-and-river",
+          "messages": 25
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 25
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 22
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 21
+        },
+        {
+          "channel": "reportify-etl-ops",
+          "messages": 19
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.9,
+      "count": 71,
+      "top_mentioners": [
+        {
+          "user": "trideep.roy",
+          "count": 11
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 5
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 5
+        },
+        {
+          "user": "aly.gemae",
+          "count": 5
+        },
+        {
+          "user": "yifan.ye",
+          "count": 4
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 4
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 4
+        },
+        {
+          "user": "christian.lessard",
+          "count": 3
+        },
+        {
+          "user": "calvin.zhou",
+          "count": 3
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 61,
+      "17": 33,
+      "16": 52,
+      "15": 66,
+      "14": 46,
+      "13": 48,
+      "12": 36,
+      "2": 1,
+      "22": 6,
+      "21": 5,
+      "20": 28,
+      "19": 46,
+      "23": 8,
+      "11": 10,
+      "10": 2
+    },
+    "by_day": {
+      "Wednesday": 124,
+      "Tuesday": 112,
+      "Friday": 33,
+      "Thursday": 121,
+      "Monday": 58
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.33,
+    "dept_average_30d": 5.79,
+    "dept_rank": 256,
+    "dept_size": 1233
+  }
+}

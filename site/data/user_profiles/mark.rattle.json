@@ -1,0 +1,294 @@
+{
+  "username": "mark.rattle",
+  "name": "Mark Rattle",
+  "generated_at": "2026-04-08T20:22:17.729272",
+  "summary": {
+    "message_count": 542,
+    "channels_active": 26,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: having a cluster decommissioning issue, please feel free to point me elsewhere if this is not the correct channel.\n\nWorkflow:",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help!  Feel free to poke me with any other questions that you have about our caching infra :smile:",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Happy to help!  Feel free to poke me with any other questions that you have about our caching infra :smile:",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm going to do a traffic cutover for `shop-server-memcached` in one of our `us-east1` clusters shortly.  There will be a brief increase in cache",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hi from the caching platform\n\nI'm going to be doing a some traffic shifting for Rails Cache in `us-east1`.  There will a small increase in",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hi from the caching platform\n\nI'm going to be doing a some traffic shifting for Rails Cache in `us-east1`.  There will a small increase in",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hi from the caching platform\n\nI'm going to be doing a some traffic shifting for Rails Cache in `us-east1`.  There will a small increase in",
+          "channel": "live-site-monitoring",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> my bad, I meant early Monday morning.",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Perfect, thanks!  We've got a couple of :gh-check: from our team so that should be good to go.",
+          "channel": "pods",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I like the Infra Central form better for that reason, but we should have the CLI option easily available as a break-glass if IC is down for whatever",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Deployed `cache-unpodded` to `memcached-us-ea4-ic1` here:",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Thanks Milan!  I took a quick run through the docs - Is there a preference for testing on pod 21 or is pod 140 also fine (better?)\n\nFor the local",
+          "channel": "pods",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; If we can get the dynamic IPs through the dns refresher in Gateway, *it will make the cluster-upgrades/scale-up/scale-down much easier*. I think",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "&gt; How exactly are inflight requests and connection draining handled in the gateway during a `maxSurge` rollout to prevent dropping active cache",
+          "channel": "caching-platform-team",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "nicholas.herson",
+          "count": 6
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 5
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 3
+        },
+        {
+          "user": "fernando.aguasvivas",
+          "count": 3
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 3
+        },
+        {
+          "user": "jason.chen",
+          "count": 2
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 1
+        },
+        {
+          "user": "jie.sun",
+          "count": 1
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 1
+        },
+        {
+          "user": "sam.obeid",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.14,
+      "count": 298,
+      "top_channels": [
+        {
+          "channel": "caching-platform-team",
+          "messages": 315
+        },
+        {
+          "channel": "tmp-sfr-prod-memcached-on-vms",
+          "messages": 71
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 22
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 17
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 16
+        },
+        {
+          "channel": "pods",
+          "messages": 15
+        },
+        {
+          "channel": "caching-platform-alerts",
+          "messages": 11
+        },
+        {
+          "channel": "ftd-store-onboarding",
+          "messages": 10
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20759-topps-add-to-cart-variant-not-found-error",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.67,
+      "count": 40,
+      "top_mentioners": [
+        {
+          "user": "nicholas.herson",
+          "count": 8
+        },
+        {
+          "user": "sam.obeid",
+          "count": 5
+        },
+        {
+          "user": "ayo.akinkugbe",
+          "count": 3
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 3
+        },
+        {
+          "user": "jason.chen",
+          "count": 3
+        },
+        {
+          "user": "arya.patel",
+          "count": 2
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 2
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 2
+        },
+        {
+          "user": "dan.mayer",
+          "count": 2
+        },
+        {
+          "user": "robert.ingrum",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 48,
+      "16": 44,
+      "18": 40,
+      "15": 47,
+      "14": 27,
+      "20": 55,
+      "19": 36,
+      "2": 3,
+      "1": 9,
+      "0": 20,
+      "23": 73,
+      "22": 81,
+      "21": 45,
+      "13": 8,
+      "12": 5,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 182,
+      "Tuesday": 95,
+      "Monday": 88,
+      "Friday": 76,
+      "Thursday": 101
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.82,
+    "dept_average_30d": 5.75,
+    "dept_rank": 149,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "username": "eric.florenzano",
+  "name": "Eric Florenzano",
+  "generated_at": "2026-04-08T20:22:20.262290",
+  "summary": {
+    "message_count": 893,
+    "channels_active": 12,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.8,
+      "pos_count": 23,
+      "neg_count": 16,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "<@U0AEPQCKB3M>leave a nice comment on the PR (on my behalf) saying if that one bug is fixed I'll approve - and this is great work, nice to track down",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "<@U0AEPQCKB3M>\nHere's my thorough review of <https://app.graphite.dev/github/pr/shop/world/563719|#563719>. Overall: *solid work* \u2014 this is a",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Thanks! Yes we're still dialing in when River calls these tools and also how best to set limits on them so they don't run away with resources. We've",
+          "channel": "river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Yes we're still dialing in when River calls these tools and also how best to set limits on them so they don't run away with resources. We've",
+          "channel": "river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U0AEPQCKB3M> that is amazing, now take this data and use it to create a video a la that skill in the PR",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thanks for this! A fix went out a few hours ago that should help a lot with this issue. We will continue to improve it too - it's still just day two",
+          "channel": "river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U0AEPQCKB3M> that is amazing, I want you to add this as a second skill alongside the first one in the PR, so that this type of video data story is",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got someone to look at it - thanks!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ooh thank you this is super helpful, I'm guessing this has something to do with it - will be curious what River finds:\n```Failed to prune old pending",
+          "channel": "dave-river-chat",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "dave-river-chat",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "<@U0AEPQCKB3M> wait I'm an idiot it looks like they were already stacked, I thought it was one, so what did you do?",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> ok another day or whatever has passed, please update your queries and run and check the results - the data story may have either",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> also the live-session-data one has a code review comment on it right? please fix whatever it found",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> There is something going wrong with many river sessions. it presents as when following a stream",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U0AEPQCKB3M> hmm, ok I originally had reason &amp; timeout_seconds, you want neither, but I'm going to insist on at least timeout_seconds. The",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> i don't care about sub-agent nested fork attempts. also, there should probably be a new batch of usage",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> what if we drop the requirement that the sub-agent stuff makes it to pi's local session file? I really don't care about that, only the",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> here's the thing - I'm not convinced this fix works. Particularly in how the 'custom' case works. In addition, I am noticing a lot of",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> yes please check the airflow logs to confirm, also you should have access to observe if that helps",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> why `deploy.sh prod --dag river_models`  instead of river_events or river_sessions or whatever?",
+          "channel": "eric-florenzano-river",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "paulo.arruda",
+          "count": 4
+        },
+        {
+          "user": "derek.pyne",
+          "count": 4
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 3
+        },
+        {
+          "user": "lei.wu",
+          "count": 2
+        },
+        {
+          "user": "jolie.demuth",
+          "count": 2
+        },
+        {
+          "user": "brennan.letkeman",
+          "count": 1
+        },
+        {
+          "user": "tyler.cosgrove",
+          "count": 1
+        },
+        {
+          "user": "javier.herrera",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.23,
+      "count": 144,
+      "top_channels": [
+        {
+          "channel": "eric-florenzano-river",
+          "messages": 714
+        },
+        {
+          "channel": "river-dev",
+          "messages": 78
+        },
+        {
+          "channel": "dave-river-chat",
+          "messages": 36
+        },
+        {
+          "channel": "river",
+          "messages": 24
+        },
+        {
+          "channel": "river-infra",
+          "messages": 19
+        },
+        {
+          "channel": "river-gsd",
+          "messages": 9
+        },
+        {
+          "channel": "opencode-ai",
+          "messages": 4
+        },
+        {
+          "channel": "angle-river",
+          "messages": 4
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "quick",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "javier.moreno",
+          "count": 7
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 6
+        },
+        {
+          "user": "jolie.demuth",
+          "count": 4
+        },
+        {
+          "user": "derek.pyne",
+          "count": 3
+        },
+        {
+          "user": "emma.eagles",
+          "count": 3
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 3
+        },
+        {
+          "user": "raphael.papillon",
+          "count": 2
+        },
+        {
+          "user": "angela.ychen",
+          "count": 1
+        },
+        {
+          "user": "surma",
+          "count": 1
+        },
+        {
+          "user": "patrick.douglas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 81,
+      "10": 3,
+      "21": 70,
+      "20": 73,
+      "18": 63,
+      "17": 105,
+      "15": 37,
+      "0": 41,
+      "23": 66,
+      "19": 93,
+      "22": 112,
+      "14": 16,
+      "3": 22,
+      "1": 36,
+      "2": 19,
+      "6": 5,
+      "5": 14,
+      "4": 16,
+      "13": 13,
+      "12": 8
+    },
+    "by_day": {
+      "Wednesday": 254,
+      "Tuesday": 185,
+      "Friday": 102,
+      "Thursday": 207,
+      "Monday": 145
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.89,
+    "dept_average_30d": 5.79,
+    "dept_rank": 512,
+    "dept_size": 1233
+  }
+}

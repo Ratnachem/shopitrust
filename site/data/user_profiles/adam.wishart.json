@@ -1,0 +1,103 @@
+{
+  "username": "adam.wishart",
+  "name": "Adam Wishart",
+  "generated_at": "2026-04-08T20:22:31.463074",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 3,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "All good! I was able to complete the quality check and didn't find any issues so that was okay. Thank you again :pray:",
+          "channel": "help-adyen",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sure! Sounds good - thank you <@W01BJN0AG2F>",
+          "channel": "help-adyen",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "said.montufarmaldonado",
+          "count": 1
+        },
+        {
+          "user": "jiabo.hou",
+          "count": 1
+        },
+        {
+          "user": "daniel.levine",
+          "count": 1
+        },
+        {
+          "user": "mladen.rangelov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.14,
+      "count": 30,
+      "top_channels": [
+        {
+          "channel": "a-river",
+          "messages": 6
+        },
+        {
+          "channel": "help-adyen",
+          "messages": 3
+        },
+        {
+          "channel": "proj-managed-pricing-governance",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 1,
+      "14": 1,
+      "19": 7,
+      "18": 1
+    },
+    "by_day": {
+      "Monday": 2,
+      "Friday": 1,
+      "Thursday": 5,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.65,
+    "dept_average_30d": 4.56,
+    "dept_rank": 60,
+    "dept_size": 74
+  }
+}

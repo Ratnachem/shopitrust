@@ -1,0 +1,276 @@
+{
+  "username": "bashu.naimiroy",
+  "name": "Bashu Naimiroy",
+  "generated_at": "2026-04-08T20:22:22.568394",
+  "summary": {
+    "message_count": 828,
+    "channels_active": 32,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 12,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hi <@U02EZUQKAV8>. I'm wrapped up with Horizon work, the last PR is just waiting on the event payload filters. I just have one rate limiting PR for",
+          "channel": "proj-standardized-events",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "ok. that's my mistake, I thought our only blocker was the Horizon release, and we wanted to get it in before",
+          "channel": "proj-standardized-events",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "I appreciate it",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Ah, wow, this is amazing. great",
+          "channel": "proj-standardized-events",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you !",
+          "channel": "proj-standardized-events",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "i'll respond to misha, you want me to update tech design with those little fixes, or better you do it ?",
+          "channel": "proj-standardized-events",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Also, what process do you want me to follow for merging? I've rebased on Fran's \"restore events\" PR.\n\nI was thinking when all PRs are approved, merge",
+          "channel": "proj-standardized-events",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "np, let me know if it works ! I haven't done this personally",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I'll do that in the future",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing. thank you",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "you should have given it a cute name too. Robotyler",
+          "channel": "proj-horizon-theme",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> can you investigate options for adding an admin graphql api bypass, such that the graphql api queries/mutations we need for CI",
+          "channel": "lsf-eng-frontend",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "fran.dios",
+          "count": 11
+        },
+        {
+          "user": "lucy.xiang",
+          "count": 11
+        },
+        {
+          "user": "nathan.ferguson",
+          "count": 6
+        },
+        {
+          "user": "misha.damjanic",
+          "count": 4
+        },
+        {
+          "user": "mateusz.krzeszowiak",
+          "count": 3
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 2
+        },
+        {
+          "user": "alex.ilea",
+          "count": 1
+        },
+        {
+          "user": "greg.macwilliam",
+          "count": 1
+        },
+        {
+          "user": "logan.martel",
+          "count": 1
+        },
+        {
+          "user": "rob.howley",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.91,
+      "count": 391,
+      "top_channels": [
+        {
+          "channel": "proj-standardized-events",
+          "messages": 476
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 73
+        },
+        {
+          "channel": "lsf-eng-frontend",
+          "messages": 41
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 38
+        },
+        {
+          "channel": "online-store-ai",
+          "messages": 32
+        },
+        {
+          "channel": "help-exp",
+          "messages": 28
+        },
+        {
+          "channel": "online-store-developer-platforms-ai",
+          "messages": 18
+        },
+        {
+          "channel": "proj-horizon-theme",
+          "messages": 14
+        },
+        {
+          "channel": "proj-app-transparency-boiler-room",
+          "messages": 12
+        },
+        {
+          "channel": "help-network",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.5,
+      "count": 48,
+      "top_mentioners": [
+        {
+          "user": "ryan.schingeck",
+          "count": 6
+        },
+        {
+          "user": "fran.dios",
+          "count": 5
+        },
+        {
+          "user": "nathan.ferguson",
+          "count": 5
+        },
+        {
+          "user": "misha.damjanic",
+          "count": 5
+        },
+        {
+          "user": "lucy.xiang",
+          "count": 4
+        },
+        {
+          "user": "michael.go",
+          "count": 4
+        },
+        {
+          "user": "stephanie.chou",
+          "count": 3
+        },
+        {
+          "user": "michelle.shi",
+          "count": 3
+        },
+        {
+          "user": "sophie.orta",
+          "count": 2
+        },
+        {
+          "user": "gerry.huynh",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 137,
+      "18": 129,
+      "13": 17,
+      "14": 59,
+      "21": 48,
+      "20": 71,
+      "19": 96,
+      "17": 89,
+      "16": 157,
+      "23": 2,
+      "22": 20,
+      "0": 3
+    },
+    "by_day": {
+      "Wednesday": 224,
+      "Tuesday": 210,
+      "Monday": 147,
+      "Thursday": 177,
+      "Friday": 70
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.24,
+    "dept_average_30d": 4.74,
+    "dept_rank": 138,
+    "dept_size": 1663
+  }
+}

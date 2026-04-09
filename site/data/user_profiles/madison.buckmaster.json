@@ -1,0 +1,94 @@
+{
+  "username": "madison.buckmaster",
+  "name": "Madison Buckmaster",
+  "generated_at": "2026-04-08T20:22:31.829906",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "OMG YAY thank you SO MUCH",
+          "channel": "help-cx-rnd",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing, thank you! appreciate the support!",
+          "channel": "help-it",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, thank you! appreciate the support!",
+          "channel": "help-it",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-cx-rnd",
+          "messages": 16
+        },
+        {
+          "channel": "help-it",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "danielle.bleackley",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 6,
+      "16": 2,
+      "15": 5,
+      "14": 4,
+      "18": 3
+    },
+    "by_day": {
+      "Thursday": 15,
+      "Wednesday": 1,
+      "Tuesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.33,
+    "dept_average_30d": 4.09,
+    "dept_rank": 535,
+    "dept_size": 642
+  }
+}

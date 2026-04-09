@@ -1,0 +1,87 @@
+{
+  "username": "ella.baron",
+  "name": "Ella Baron",
+  "generated_at": "2026-04-08T20:22:31.653795",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Sneha, that helps",
+          "channel": "inc-18878-sidekiq-high-latency-and-high-web-errors",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "kate.galieva",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.3,
+      "count": 8,
+      "top_channels": [
+        {
+          "channel": "proj-yugabyte-custom-builds",
+          "messages": 5
+        },
+        {
+          "channel": "inc-18878-sidekiq-high-latency-and-high-web-errors",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 1,
+      "22": 2,
+      "21": 5
+    },
+    "by_day": {
+      "Friday": 1,
+      "Thursday": 4,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 3.98,
+    "dept_average_30d": 5.75,
+    "dept_rank": 350,
+    "dept_size": 357
+  }
+}

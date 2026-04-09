@@ -1,0 +1,236 @@
+{
+  "username": "brett.marx",
+  "name": "Brett Marx",
+  "generated_at": "2026-04-08T20:22:08.197333",
+  "summary": {
+    "message_count": 766,
+    "channels_active": 27,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "the stack is gnarly but if there's any way I can help lmk",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "it looks like it's complaining about the thank you page",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "being real, i wont have time to look into this today. i can take a look tomorrow morning if you don't figure it out",
+          "channel": "mozart-ops",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "P9X would be better but whatever",
+          "channel": "mozart-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yep, that makes sense. i think we just evaluate whatever the string says",
+          "channel": "inv-20932-mozart-journey-errors-causing-high-utiliz",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "that hack might have been needed when we used waterdrop to produce with the avro validation. with whatever AK producer we use now i wonder if it's",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "mark.blum",
+          "count": 6
+        },
+        {
+          "user": "robert.wang",
+          "count": 5
+        },
+        {
+          "user": "erin.walder",
+          "count": 5
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 4
+        },
+        {
+          "user": "adam.archibald",
+          "count": 3
+        },
+        {
+          "user": "dave.benvenuti",
+          "count": 3
+        },
+        {
+          "user": "abrar.habib",
+          "count": 3
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        },
+        {
+          "user": "tomas.echeverri",
+          "count": 1
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.32,
+      "count": 149,
+      "top_channels": [
+        {
+          "channel": "proj-tier1-infra-mozart",
+          "messages": 156
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 133
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 92
+        },
+        {
+          "channel": "mozart-backoffice",
+          "messages": 78
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 72
+        },
+        {
+          "channel": "river-bread",
+          "messages": 72
+        },
+        {
+          "channel": "inv-20932-mozart-journey-errors-causing-high-utiliz",
+          "messages": 54
+        },
+        {
+          "channel": "proj-mozart-sales-sequence-for-crm",
+          "messages": 25
+        },
+        {
+          "channel": "proj-ma-quality-guardrails",
+          "messages": 21
+        },
+        {
+          "channel": "enable-marketing-acceleration-rnd",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 125,
+      "top_mentioners": [
+        {
+          "user": "dave.benvenuti",
+          "count": 27
+        },
+        {
+          "user": "robert.wang",
+          "count": 16
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 15
+        },
+        {
+          "user": "mark.blum",
+          "count": 9
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 9
+        },
+        {
+          "user": "carola.mayolustrell",
+          "count": 6
+        },
+        {
+          "user": "adam.archibald",
+          "count": 5
+        },
+        {
+          "user": "tomas.echeverri",
+          "count": 4
+        },
+        {
+          "user": "george.jennings",
+          "count": 3
+        },
+        {
+          "user": "carlin.scuderi",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 92,
+      "17": 96,
+      "16": 88,
+      "15": 51,
+      "12": 21,
+      "20": 78,
+      "14": 95,
+      "23": 45,
+      "19": 95,
+      "13": 61,
+      "1": 5,
+      "0": 20,
+      "21": 13,
+      "22": 6
+    },
+    "by_day": {
+      "Wednesday": 129,
+      "Monday": 81,
+      "Thursday": 247,
+      "Tuesday": 188,
+      "Friday": 121
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.4,
+    "dept_average_30d": 5.58,
+    "dept_rank": 63,
+    "dept_size": 398
+  }
+}

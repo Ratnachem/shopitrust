@@ -1,0 +1,200 @@
+{
+  "username": "gabriel.dube",
+  "name": "Gabriel Dube",
+  "generated_at": "2026-04-08T20:22:28.724429",
+  "summary": {
+    "message_count": 41,
+    "channels_active": 6,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 12,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Doing this on the FED side makes sense to me. Feel free to take it on if you're interested :smile:",
+          "channel": "proj-purchase-orders-create-transfers",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey good morning, I have some good news! You can now test Sidekick with POs on production. You just need to have the following flags enabled:\n\u2022",
+          "channel": "proj-inventory-sidekick",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Good news, I removed the legacy code from sidekick-server and confirmed that everything still works using the intent flow.\n\n<@U02SQN11AHK> Let me",
+          "channel": "proj-inventory-sidekick",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey all, here are most of the PRs to get sidekick working on the PO page. I'm free all day to pair if you need help tophatting so we can get these",
+          "channel": "proj-purchase-orders-create-transfers",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.83,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "jian.mahmoudi",
+          "count": 4
+        },
+        {
+          "user": "hisham.kalban",
+          "count": 3
+        },
+        {
+          "user": "brandon.ashley",
+          "count": 3
+        },
+        {
+          "user": "natalie.jeong",
+          "count": 3
+        },
+        {
+          "user": "george.ferreira",
+          "count": 2
+        },
+        {
+          "user": "dylan.tittel",
+          "count": 2
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 2
+        },
+        {
+          "user": "richard.todd",
+          "count": 2
+        },
+        {
+          "user": "natalie.orcutt",
+          "count": 1
+        },
+        {
+          "user": "cassia.brooks",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.98,
+      "count": 50,
+      "top_channels": [
+        {
+          "channel": "proj-purchase-orders-create-transfers",
+          "messages": 25
+        },
+        {
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "messages": 6
+        },
+        {
+          "channel": "proj-inventory-sidekick",
+          "messages": 6
+        },
+        {
+          "channel": "proj-inventory-transfers-redesign-v1",
+          "messages": 2
+        },
+        {
+          "channel": "proj-idempotency-and-cas",
+          "messages": 1
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.55,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "brandon.ashley",
+          "count": 11
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 4
+        },
+        {
+          "user": "george.ferreira",
+          "count": 2
+        },
+        {
+          "user": "natalie.jeong",
+          "count": 2
+        },
+        {
+          "user": "jian.mahmoudi",
+          "count": 2
+        },
+        {
+          "user": "alastair.lewis",
+          "count": 1
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 1
+        },
+        {
+          "user": "shashi.gonugunta",
+          "count": 1
+        },
+        {
+          "user": "peter.kostylev",
+          "count": 1
+        },
+        {
+          "user": "shaun.sim",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 3,
+      "20": 2,
+      "18": 5,
+      "16": 12,
+      "13": 4,
+      "19": 5,
+      "17": 4,
+      "14": 3,
+      "15": 3
+    },
+    "by_day": {
+      "Tuesday": 15,
+      "Thursday": 14,
+      "Monday": 3,
+      "Friday": 6,
+      "Wednesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.81,
+    "dept_average_30d": 4.74,
+    "dept_rank": 649,
+    "dept_size": 1663
+  }
+}

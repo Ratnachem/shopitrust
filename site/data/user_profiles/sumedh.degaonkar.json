@@ -1,0 +1,241 @@
+{
+  "username": "sumedh.degaonkar",
+  "name": "Sumedh Degaonkar",
+  "generated_at": "2026-04-08T20:22:17.321697",
+  "summary": {
+    "message_count": 235,
+    "channels_active": 33,
+    "unique_people_mentioned": 42,
+    "unique_mentioners": 42,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@W018PTAPCLC>, would you have time to help us validate this in staging on a :tuple: ? if all looks good we can then merge / deploy to prod",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "inv-20578-deploy-blocking-e2e-synthetics-failing",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "inc-20276-google-cloud-packet-lost-in-us-central1a",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We created a new private node pool so egress from this proxy uses cloudnat (as GitHub has ip filtering). We also needed to hack the transport filters",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "alright, we have have shifted traffic away from storefront-us-ce1a-dv2. we can leave this as is overnight (cc <@W018GAAN7N1>)\nIf someone needs to",
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 46,
+      "top_mentioned": [
+        {
+          "user": "aditya.sharma",
+          "count": 10
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 5
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 5
+        },
+        {
+          "user": "charlieallan",
+          "count": 5
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 4
+        },
+        {
+          "user": "louis.munro",
+          "count": 3
+        },
+        {
+          "user": "justin.reid",
+          "count": 3
+        },
+        {
+          "user": "ben.thul",
+          "count": 3
+        },
+        {
+          "user": "sam.obeid",
+          "count": 3
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 442,
+      "top_channels": [
+        {
+          "channel": "team-cloud-systems",
+          "messages": 53
+        },
+        {
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "messages": 36
+        },
+        {
+          "channel": "inc-20276-google-cloud-packet-lost-in-us-central1a",
+          "messages": 27
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20274-spi-drop-in-agreement-creation",
+          "messages": 10
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 9
+        },
+        {
+          "channel": "proj-secure-egress-gateway",
+          "messages": 8
+        },
+        {
+          "channel": "inc-20003-redis-errors-in-core",
+          "messages": 8
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 82,
+      "top_mentioners": [
+        {
+          "user": "charlieallan",
+          "count": 13
+        },
+        {
+          "user": "deepak.ramiasridharan",
+          "count": 5
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 5
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 4
+        },
+        {
+          "user": "chris.yang",
+          "count": 4
+        },
+        {
+          "user": "anton.molleda",
+          "count": 4
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 3
+        },
+        {
+          "user": "justin.reid",
+          "count": 3
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 3
+        },
+        {
+          "user": "darren.foo",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 23,
+      "13": 5,
+      "16": 14,
+      "21": 15,
+      "1": 16,
+      "23": 26,
+      "20": 12,
+      "15": 18,
+      "0": 14,
+      "22": 23,
+      "14": 11,
+      "19": 14,
+      "4": 4,
+      "18": 16,
+      "12": 3,
+      "5": 1,
+      "3": 9,
+      "11": 1,
+      "2": 10
+    },
+    "by_day": {
+      "Wednesday": 103,
+      "Tuesday": 54,
+      "Friday": 15,
+      "Thursday": 46,
+      "Monday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.56,
+    "dept_average_30d": 5.75,
+    "dept_rank": 54,
+    "dept_size": 357
+  }
+}

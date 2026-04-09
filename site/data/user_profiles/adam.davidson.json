@@ -1,0 +1,221 @@
+{
+  "username": "adam.davidson",
+  "name": "Adam Davidson",
+  "generated_at": "2026-04-08T20:22:07.308662",
+  "summary": {
+    "message_count": 161,
+    "channels_active": 16,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it, thank you",
+          "channel": "proj-consolidate-pos-settings",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "(also i missed the note on skewing negative, my bad)",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018B08CEMU> will try and review before EOD",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I've only looked at it through the graphQL interface whatever that's called",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "nathan.woodger",
+          "count": 5
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 4
+        },
+        {
+          "user": "john.pavlick",
+          "count": 4
+        },
+        {
+          "user": "marco.yip",
+          "count": 3
+        },
+        {
+          "user": "ryan.stone",
+          "count": 2
+        },
+        {
+          "user": "jessica.harllee",
+          "count": 2
+        },
+        {
+          "user": "christina.lomazzo",
+          "count": 2
+        },
+        {
+          "user": "saara.hafeez",
+          "count": 1
+        },
+        {
+          "user": "michael.rembach",
+          "count": 1
+        },
+        {
+          "user": "ayman.salloom",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.53,
+      "count": 160,
+      "top_channels": [
+        {
+          "channel": "proj-extensible-cash-management",
+          "messages": 99
+        },
+        {
+          "channel": "retail-shop-bopis-roris",
+          "messages": 20
+        },
+        {
+          "channel": "pos-core-selling-flow-checkout",
+          "messages": 12
+        },
+        {
+          "channel": "proj-consolidate-pos-settings",
+          "messages": 6
+        },
+        {
+          "channel": "retail-pos-online-cart-share",
+          "messages": 5
+        },
+        {
+          "channel": "retail-talk",
+          "messages": 4
+        },
+        {
+          "channel": "pos-core-selling-flow-detail-pages",
+          "messages": 4
+        },
+        {
+          "channel": "inv-21180-core-deploy-sees-spike-in-retailcashmanag",
+          "messages": 2
+        },
+        {
+          "channel": "proj-retail-shop-pay",
+          "messages": 2
+        },
+        {
+          "channel": "temp-v11-metrics-april",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 91,
+      "top_mentioners": [
+        {
+          "user": "noah.woodward",
+          "count": 8
+        },
+        {
+          "user": "ryan.stone",
+          "count": 7
+        },
+        {
+          "user": "jessica.harllee",
+          "count": 6
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 6
+        },
+        {
+          "user": "saara.hafeez",
+          "count": 5
+        },
+        {
+          "user": "christina.lomazzo",
+          "count": 5
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 5
+        },
+        {
+          "user": "pere.manresa",
+          "count": 4
+        },
+        {
+          "user": "raphael.adams",
+          "count": 4
+        },
+        {
+          "user": "john.pavlick",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 26,
+      "17": 16,
+      "15": 10,
+      "14": 16,
+      "13": 19,
+      "20": 8,
+      "19": 8,
+      "16": 27,
+      "12": 1,
+      "0": 3,
+      "23": 9,
+      "22": 16,
+      "21": 2
+    },
+    "by_day": {
+      "Wednesday": 34,
+      "Tuesday": 51,
+      "Monday": 23,
+      "Friday": 41,
+      "Thursday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.0,
+    "dept_average_30d": 5.77,
+    "dept_rank": 305,
+    "dept_size": 885
+  }
+}

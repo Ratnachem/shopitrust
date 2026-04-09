@@ -1,0 +1,109 @@
+{
+  "username": "federico.ruggi",
+  "name": "Federico Ruggi",
+  "generated_at": "2026-04-08T20:22:28.734238",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U08MYQES67M> please feel free to ping me when you have time for the GCP side of things if there's anything needed infra-wise",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U096FHA0L21> you should have a DM from <@W018HNWDN4A>",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "travis.a.smith",
+          "count": 1
+        },
+        {
+          "user": "theo.truong",
+          "count": 1
+        },
+        {
+          "user": "baoze.lin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "projects-dev-ai",
+          "messages": 6
+        },
+        {
+          "channel": "proj-eng-parallel-llm",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "theo.truong",
+          "count": 2
+        },
+        {
+          "user": "peter.petrov",
+          "count": 2
+        },
+        {
+          "user": "travis.a.smith",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 3,
+      "13": 1,
+      "15": 3,
+      "17": 1
+    },
+    "by_day": {
+      "Tuesday": 2,
+      "Thursday": 1,
+      "Wednesday": 3,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.75,
+    "dept_average_30d": 5.75,
+    "dept_rank": 319,
+    "dept_size": 357
+  }
+}

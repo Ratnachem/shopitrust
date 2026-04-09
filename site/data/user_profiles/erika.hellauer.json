@@ -1,0 +1,271 @@
+{
+  "username": "erika.hellauer",
+  "name": "Erika Hellauer",
+  "generated_at": "2026-04-08T20:22:21.707544",
+  "summary": {
+    "message_count": 293,
+    "channels_active": 26,
+    "unique_people_mentioned": 45,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.4,
+      "pos_count": 24,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ah okay, thanks!",
+          "channel": "help-melody",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-migrate-marketing-event-distribution",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! could that be the starting point to update the legacy Melody Explorer tool to work with the new tables?",
+          "channel": "melody-team",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah okay, thank you!!",
+          "channel": "proj-refine-view-through-ltv-through-cleanrooms",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yep, okay perfect - thank you for confirming",
+          "channel": "proj-migrate-marketing-event-distribution",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "oh awesome, thanks! looks like the column names are mostly the same with some exceptions",
+          "channel": "melody-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!! Will take a deeper look later too!",
+          "channel": "proj-migrate-marketing-event-distribution",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U032LHFA9TR> thank you for adding iSpot + Innovid impact to the incident :pray:",
+          "channel": "help-martech-signals",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@W019NNKDR8U> yep, it deduplicates using `transaction_id` (which we send)!\n\n&gt; I could run a backfill of all gadm events from last night so we",
+          "channel": "proj-migrate-marketing-event-distribution",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah okay thank you, <@W019NNKDR8U>! sorry I missed that post from last week",
+          "channel": "inc-19875-marketing-event-consumers-didnt-consume-e",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Good news: all Q1 incidents involving MarTech are in <http://incidents.shopify.io|incidents.shopify.io> tagged with \u2018performance-marketing\u2019. However,",
+          "channel": "help-martech-signals",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "ayana.siddiqui",
+          "count": 19
+        },
+        {
+          "user": "dirk.beese",
+          "count": 18
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 17
+        },
+        {
+          "user": "emily.evans",
+          "count": 9
+        },
+        {
+          "user": "jason.feder",
+          "count": 7
+        },
+        {
+          "user": "tor.thilert",
+          "count": 7
+        },
+        {
+          "user": "jake.anderson",
+          "count": 6
+        },
+        {
+          "user": "justin.arak",
+          "count": 5
+        },
+        {
+          "user": "lloyd.alexander",
+          "count": 5
+        },
+        {
+          "user": "shelby.catania",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.84,
+      "count": 335,
+      "top_channels": [
+        {
+          "channel": "help-martech-signals",
+          "messages": 61
+        },
+        {
+          "channel": "help-melody",
+          "messages": 37
+        },
+        {
+          "channel": "proj-refine-view-through-ltv-through-cleanrooms",
+          "messages": 36
+        },
+        {
+          "channel": "proj-migrate-marketing-event-distribution",
+          "messages": 23
+        },
+        {
+          "channel": "melody-team",
+          "messages": 18
+        },
+        {
+          "channel": "inc-19875-marketing-event-consumers-didnt-consume-e",
+          "messages": 15
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 12
+        },
+        {
+          "channel": "help-commercial-data-platform",
+          "messages": 11
+        },
+        {
+          "channel": "enable-pillar-lt",
+          "messages": 10
+        },
+        {
+          "channel": "proj-nail-the-basics",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 81,
+      "top_mentioners": [
+        {
+          "user": "ayana.siddiqui",
+          "count": 7
+        },
+        {
+          "user": "sarah.nick",
+          "count": 7
+        },
+        {
+          "user": "jennifer.patten",
+          "count": 4
+        },
+        {
+          "user": "dirk.beese",
+          "count": 3
+        },
+        {
+          "user": "shelby.catania",
+          "count": 3
+        },
+        {
+          "user": "erina.wu",
+          "count": 3
+        },
+        {
+          "user": "pat.mcgrath",
+          "count": 3
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 3
+        },
+        {
+          "user": "justin.arak",
+          "count": 3
+        },
+        {
+          "user": "geraud.bastille",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 37,
+      "14": 39,
+      "22": 5,
+      "12": 3,
+      "16": 33,
+      "20": 14,
+      "19": 57,
+      "18": 10,
+      "17": 44,
+      "21": 26,
+      "13": 12,
+      "23": 1,
+      "1": 4,
+      "0": 8
+    },
+    "by_day": {
+      "Wednesday": 86,
+      "Tuesday": 70,
+      "Friday": 70,
+      "Thursday": 56,
+      "Monday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.22,
+    "dept_average_30d": 5.58,
+    "dept_rank": 96,
+    "dept_size": 398
+  }
+}

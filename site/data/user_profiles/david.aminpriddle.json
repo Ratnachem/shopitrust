@@ -1,0 +1,271 @@
+{
+  "username": "david.aminpriddle",
+  "name": "David Aminpriddle",
+  "generated_at": "2026-04-08T20:22:29.535882",
+  "summary": {
+    "message_count": 449,
+    "channels_active": 16,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.7,
+      "pos_count": 32,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Adam! I've responded",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": ":wave-frog: I'm seeing this error message happening on push a lot today - it is intermittent:\n\n```\ud83d\ude80 Pushing branches to remote...\nRemote \"origin\"",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U097CUD4G9F> do you want me to take on the reward logic for push notifications or did you want to continue with that?",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah River gave up - if you could take these on that would be great, thank you. I'm trying to unblock deployments",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'll try and get River to do it first, thank you",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "On it - thank you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I've gotten River to start looking into this - thank you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! <@U023506JZCJ> did you see there were large wait times on git operations?",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Do you need anything from me to help diagnose this?",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! To both points",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> two things.\n\n1. Just to check, debounce_key for the twirp request = idempotency key when sending to Courier?\n2. There's a failing",
+          "channel": "7ef09e1b-6a4c-421b-ada2-211f795475cf",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "mark.blum",
+          "count": 17
+        },
+        {
+          "user": "robert.wang",
+          "count": 12
+        },
+        {
+          "user": "adam.archibald",
+          "count": 10
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 6
+        },
+        {
+          "user": "maiha.nguyen",
+          "count": 4
+        },
+        {
+          "user": "carlin.scuderi",
+          "count": 4
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 2
+        },
+        {
+          "user": "charlie.king",
+          "count": 2
+        },
+        {
+          "user": "brett.marx",
+          "count": 2
+        },
+        {
+          "user": "michael.wu",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.37,
+      "count": 89,
+      "top_channels": [
+        {
+          "channel": "proj-mozart-bandits",
+          "messages": 133
+        },
+        {
+          "channel": "7ef09e1b-6a4c-421b-ada2-211f795475cf",
+          "messages": 93
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 62
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 45
+        },
+        {
+          "channel": "proj-mozart-store-summary-email",
+          "messages": 37
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 15
+        },
+        {
+          "channel": "mozart-backoffice",
+          "messages": 15
+        },
+        {
+          "channel": "mozart-ops-staging",
+          "messages": 11
+        },
+        {
+          "channel": "proj-tier1-infra-mozart",
+          "messages": 9
+        },
+        {
+          "channel": "inc-20105-melody-segment-flag-producing-wrong-membe",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.9,
+      "count": 71,
+      "top_mentioners": [
+        {
+          "user": "robert.wang",
+          "count": 11
+        },
+        {
+          "user": "adam.archibald",
+          "count": 10
+        },
+        {
+          "user": "carlin.scuderi",
+          "count": 10
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 6
+        },
+        {
+          "user": "mark.blum",
+          "count": 5
+        },
+        {
+          "user": "maiha.nguyen",
+          "count": 3
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 3
+        },
+        {
+          "user": "scott.wadden",
+          "count": 3
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 2
+        },
+        {
+          "user": "charlie.king",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 109,
+      "18": 1,
+      "17": 21,
+      "16": 50,
+      "15": 85,
+      "13": 64,
+      "12": 45,
+      "11": 31,
+      "10": 31,
+      "9": 4,
+      "8": 4,
+      "7": 1,
+      "21": 2,
+      "19": 1
+    },
+    "by_day": {
+      "Monday": 31,
+      "Thursday": 122,
+      "Wednesday": 90,
+      "Tuesday": 71,
+      "Friday": 135
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.05,
+    "dept_average_30d": 4.74,
+    "dept_rank": 182,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "username": "david.hahn",
+  "name": "David Hahn",
+  "generated_at": "2026-04-08T20:22:22.991881",
+  "summary": {
+    "message_count": 209,
+    "channels_active": 13,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> can you restack this PR on main",
+          "channel": "river-bazooka",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah my bad! I should have waited until I finished the video to post. Watching now. You have a future in streaming!",
+          "channel": "proj-order-edit-send-entire-order-state",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "well just keep in mind whatever you tell claude river is still going to do it later",
+          "channel": "river-bazooka",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "liam.meade",
+          "count": 5
+        },
+        {
+          "user": "prajjwal.singh",
+          "count": 5
+        },
+        {
+          "user": "diego.gilon",
+          "count": 5
+        },
+        {
+          "user": "andrea.rice",
+          "count": 3
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 3
+        },
+        {
+          "user": "riya.walia",
+          "count": 3
+        },
+        {
+          "user": "jeff.rothwell",
+          "count": 3
+        },
+        {
+          "user": "henry.peng",
+          "count": 3
+        },
+        {
+          "user": "philippe.demontigny",
+          "count": 2
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.86,
+      "count": 102,
+      "top_channels": [
+        {
+          "channel": "proj-order-edit-on-checkout-one",
+          "messages": 86
+        },
+        {
+          "channel": "river-bazooka",
+          "messages": 43
+        },
+        {
+          "channel": "proj-order-edit-send-entire-order-state",
+          "messages": 30
+        },
+        {
+          "channel": "orders-rest-gql-parity-migration",
+          "messages": 18
+        },
+        {
+          "channel": "proj-order-edit-tax-calculations-using-c1",
+          "messages": 7
+        },
+        {
+          "channel": "orders-penguins",
+          "messages": 6
+        },
+        {
+          "channel": "help-exp",
+          "messages": 5
+        },
+        {
+          "channel": "orders-exceptions",
+          "messages": 4
+        },
+        {
+          "channel": "the-raft-on-the-river",
+          "messages": 3
+        },
+        {
+          "channel": "river-api-foundations",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "teddy.hwang",
+          "count": 7
+        },
+        {
+          "user": "riya.walia",
+          "count": 6
+        },
+        {
+          "user": "diego.gilon",
+          "count": 5
+        },
+        {
+          "user": "henry.peng",
+          "count": 2
+        },
+        {
+          "user": "joel.rubio",
+          "count": 1
+        },
+        {
+          "user": "martin.samson",
+          "count": 1
+        },
+        {
+          "user": "andrea.rice",
+          "count": 1
+        },
+        {
+          "user": "mido.kabbara",
+          "count": 1
+        },
+        {
+          "user": "kangze.jia",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 18,
+      "14": 53,
+      "13": 46,
+      "19": 27,
+      "17": 20,
+      "21": 3,
+      "20": 21,
+      "16": 6,
+      "18": 9,
+      "0": 5,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 54,
+      "Tuesday": 47,
+      "Monday": 35,
+      "Friday": 57,
+      "Thursday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.63,
+    "dept_average_30d": 5.79,
+    "dept_rank": 664,
+    "dept_size": 1233
+  }
+}

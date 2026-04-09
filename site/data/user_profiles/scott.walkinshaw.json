@@ -1,0 +1,296 @@
+{
+  "username": "scott.walkinshaw",
+  "name": "Scott Walkinshaw",
+  "generated_at": "2026-04-08T20:22:07.527298",
+  "summary": {
+    "message_count": 813,
+    "channels_active": 26,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "river-api-foundations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "we dont need to eliminate all mismatches so completely fine for it to stay for a good reason (like race conditions)\n\nif that PR is an improvement",
+          "channel": "river-api-foundations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "I have many theories:\n\n\u2022 we're trying to make more changes and write more code than before thanks to LLMs\n\u2022 LLMs also make big refactors more",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "looks amazing. I was going to work on the testing part so I can play around with the prompt once I figure out the skill part for that",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! our cache does include `field_path` so it shouldn't be the issue here",
+          "channel": "help-exp",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":bow:  thank you all once again for jumping on these quickly. let's hope we're finally getting close to zero",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "literally never seen \"Iteration reached an end\" error in Ruby so congrats :joy:",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yay thanks!",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "no, thank you!",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "well we could remove that + skip test, but whatever is easiest",
+          "channel": "inv-21231-schema-tests-in-core-failing",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "until River can use the Exp MCP to create flags, here's a command line version you can use locally to avoid manually filling out the form :tada: ",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "running that on every PR would probably be cheaper than triggering ALL of these on 1/100 PRs or whatever the rate is",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "it can if we don't care about nested structures",
+          "channel": "proj-cardinal-operation-stream-analytics",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or just run whatever files you want locally with it set",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "greg.macwilliam",
+          "count": 11
+        },
+        {
+          "user": "guilherme.vieira",
+          "count": 11
+        },
+        {
+          "user": "robert.vangennip",
+          "count": 10
+        },
+        {
+          "user": "jonathan.baker",
+          "count": 10
+        },
+        {
+          "user": "jonathan.j.chang",
+          "count": 9
+        },
+        {
+          "user": "jack.seok",
+          "count": 5
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 4
+        },
+        {
+          "user": "max.veldink",
+          "count": 2
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 2
+        },
+        {
+          "user": "rick.sperko",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.89,
+      "count": 390,
+      "top_channels": [
+        {
+          "channel": "proj-breadth-first-exec",
+          "messages": 391
+        },
+        {
+          "channel": "river-api-foundations",
+          "messages": 168
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 56
+        },
+        {
+          "channel": "proj-cardinal-operation-stream-analytics",
+          "messages": 51
+        },
+        {
+          "channel": "inc-20186-multipass-errors-elevated",
+          "messages": 21
+        },
+        {
+          "channel": "river-cardinal-migration-phase-1",
+          "messages": 17
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20837--graphapiadminmutationstaxfilingenrollmen",
+          "messages": 14
+        },
+        {
+          "channel": "inv-21231-schema-tests-in-core-failing",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20594-investigating-failing-vip-synthetics",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "ravintushar.lathigra",
+          "count": 11
+        },
+        {
+          "user": "jonathan.baker",
+          "count": 9
+        },
+        {
+          "user": "shay.arnett",
+          "count": 4
+        },
+        {
+          "user": "robert.vangennip",
+          "count": 3
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 3
+        },
+        {
+          "user": "chao.duan",
+          "count": 2
+        },
+        {
+          "user": "diego.plentz",
+          "count": 2
+        },
+        {
+          "user": "jonathan.j.chang",
+          "count": 2
+        },
+        {
+          "user": "greg.macwilliam",
+          "count": 2
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 119,
+      "17": 53,
+      "16": 130,
+      "14": 96,
+      "13": 14,
+      "20": 108,
+      "19": 129,
+      "15": 115,
+      "21": 22,
+      "23": 2,
+      "22": 25
+    },
+    "by_day": {
+      "Wednesday": 228,
+      "Tuesday": 183,
+      "Monday": 167,
+      "Thursday": 143,
+      "Friday": 92
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.24,
+    "dept_average_30d": 5.79,
+    "dept_rank": 298,
+    "dept_size": 1233
+  }
+}

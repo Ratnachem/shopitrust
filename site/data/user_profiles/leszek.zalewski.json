@@ -1,0 +1,245 @@
+{
+  "username": "leszek.zalewski",
+  "name": "Leszek Zalewski",
+  "generated_at": "2026-04-08T20:22:07.645113",
+  "summary": {
+    "message_count": 312,
+    "channels_active": 17,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 3,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ok I guess we can wait, Verdan response was also helpful, thanks!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "shop-mover",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to take a look here at what we ignore",
+          "channel": "db-mobility",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever works",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever works, we can also do\n```    @lyingcat = Podding::Selector.select_pod(1) do\n      shops(:lyingcat) #: Shop\n    end```\n and deprecate the",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so do we want to extend the binlog verifier to include yugabyte, or will the screaming be spread across backfilter and whatever will stream back to",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the only thing that might be somehow messed up is whatever we get under connection from CoreGeneral1Record",
+          "channel": "inv-20211-one-of-the-core-deploy-targets-failed",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "milan.sreckovic",
+          "count": 6
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 4
+        },
+        {
+          "user": "mohammad.ahmadi",
+          "count": 3
+        },
+        {
+          "user": "kate.boyd",
+          "count": 3
+        },
+        {
+          "user": "austen.lacy",
+          "count": 2
+        },
+        {
+          "user": "sean.moranrichards",
+          "count": 2
+        },
+        {
+          "user": "andrew.knowles",
+          "count": 1
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 1
+        },
+        {
+          "user": "graham.johnson",
+          "count": 1
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.82,
+      "count": 228,
+      "top_channels": [
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 95
+        },
+        {
+          "channel": "inv-20211-one-of-the-core-deploy-targets-failed",
+          "messages": 41
+        },
+        {
+          "channel": "shop-mover",
+          "messages": 35
+        },
+        {
+          "channel": "shop-mover-ops",
+          "messages": 25
+        },
+        {
+          "channel": "help-observability",
+          "messages": 17
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 17
+        },
+        {
+          "channel": "pods",
+          "messages": 17
+        },
+        {
+          "channel": "db-mobility",
+          "messages": 11
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 11
+        },
+        {
+          "channel": "team-ruby-dx",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.6,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "mohammad.ahmadi",
+          "count": 8
+        },
+        {
+          "user": "graham.cooper",
+          "count": 4
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 4
+        },
+        {
+          "user": "austen.lacy",
+          "count": 3
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 3
+        },
+        {
+          "user": "kate.boyd",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "aman.adhav",
+          "count": 2
+        },
+        {
+          "user": "aiden.storey",
+          "count": 2
+        },
+        {
+          "user": "nick.jones",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 23,
+      "9": 8,
+      "16": 21,
+      "15": 35,
+      "14": 42,
+      "13": 37,
+      "10": 4,
+      "8": 7,
+      "19": 23,
+      "12": 46,
+      "1": 1,
+      "21": 14,
+      "20": 2,
+      "17": 17,
+      "11": 31,
+      "6": 1
+    },
+    "by_day": {
+      "Wednesday": 64,
+      "Tuesday": 119,
+      "Monday": 17,
+      "Friday": 62,
+      "Thursday": 50
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.47,
+    "dept_average_30d": 5.75,
+    "dept_rank": 210,
+    "dept_size": 357
+  }
+}

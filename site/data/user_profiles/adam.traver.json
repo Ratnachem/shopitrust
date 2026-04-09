@@ -1,0 +1,291 @@
+{
+  "username": "adam.traver",
+  "name": "Adam Traver",
+  "generated_at": "2026-04-08T20:22:25.150161",
+  "summary": {
+    "message_count": 594,
+    "channels_active": 50,
+    "unique_people_mentioned": 37,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.7,
+      "pos_count": 22,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! We've already incorporated a couple of pieces of Ryan\u2019s feedback and have the rest stored on our backlog. Definitely useful information!",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great feedback, Ryan, thank you!\n\n&gt; It makes sense to me why the AI analysis didn't suggest adding extra fields to the query, but I suspect the",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh wait my bad so I guess Naked CPH started <https://infra-central.shopify.io/flash_sales/flash_sales/20571|their flash sale> at 6:30 UTC, but the",
+          "channel": "inc-21092-flashsales-elevated-checkouts-errors-on-f",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh yeah that'd be good, thank you!",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Heads up that we just had a recurrence of Core DB writer pressure due to the `Merchandising::TouchProductJob`. I've blackholed the job for the",
+          "channel": "team-files",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The job in question looks largely",
+          "channel": "inv-21087-prolonged-db-writer-cpu-saturation",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sorry just coming back to this after catching up on all my unreads. Thank you!",
+          "channel": "inc-20936-shop-is-down",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you!",
+          "channel": "inc-20936-shop-is-down",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help if/when you do something similar for Japan!",
+          "channel": "apac-rnd",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for all your work on this, Aadi!",
+          "channel": "inc-20811-orderlyemails-app-removing-merchant-colle",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah that'll probably get us some of the way there, but also the historical query metrics need grounding in real-world access patterns (e.g., \"our",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Yeah I don't love that approach (#1) then, unfortunately. I mean we could be in a spot where the merchant is like, \"I don't care, just bring my",
+          "channel": "inc-20811-orderlyemails-app-removing-merchant-colle",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah I think whatever is most discoverable. Like I just had Pi install and use the `mcporter` tool to make Incident Dashboard-related CLIs, since we",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Is it possible to re-purpose an existing `#proj-[whatever]` channel from a previous GSD? For example,",
+          "channel": "help-vault",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "brendan.abbott",
+          "count": 5
+        },
+        {
+          "user": "keisuke.umegaki",
+          "count": 3
+        },
+        {
+          "user": "islam.abdelnaby",
+          "count": 3
+        },
+        {
+          "user": "keith.kim",
+          "count": 2
+        },
+        {
+          "user": "alex.ackerman",
+          "count": 2
+        },
+        {
+          "user": "felipe.cuozzo",
+          "count": 2
+        },
+        {
+          "user": "jesse.vogt",
+          "count": 2
+        },
+        {
+          "user": "joe.chop",
+          "count": 2
+        },
+        {
+          "user": "bartomiej.piotrowski",
+          "count": 2
+        },
+        {
+          "user": "jorge.quan",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.66,
+      "count": 378,
+      "top_channels": [
+        {
+          "channel": "proj-slow-query-prevention",
+          "messages": 154
+        },
+        {
+          "channel": "inc-20934-core-blocked-by-world-shopify-post-merge",
+          "messages": 66
+        },
+        {
+          "channel": "inv-20881-sre-gym-test-waf-break-glass-playbook",
+          "messages": 27
+        },
+        {
+          "channel": "inv-21087-prolonged-db-writer-cpu-saturation",
+          "messages": 22
+        },
+        {
+          "channel": "inc-20341-increased-checkout-failures-on-293",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20936-shop-is-down",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20815-shopshop-retention-shop-server-errors---f",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20950-db-writer-cpu-saturation--95-for-25-min",
+          "messages": 17
+        },
+        {
+          "channel": "inc-20811-orderlyemails-app-removing-merchant-colle",
+          "messages": 17
+        },
+        {
+          "channel": "inc-20951-graphite-allows-breaking-commit-into-main",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 79,
+      "top_mentioners": [
+        {
+          "user": "kush.patel",
+          "count": 14
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 8
+        },
+        {
+          "user": "ayo.akinkugbe",
+          "count": 7
+        },
+        {
+          "user": "keisuke.umegaki",
+          "count": 6
+        },
+        {
+          "user": "michael.lewis",
+          "count": 5
+        },
+        {
+          "user": "felipe.cuozzo",
+          "count": 4
+        },
+        {
+          "user": "himanshu.chhabra",
+          "count": 4
+        },
+        {
+          "user": "cassandre.ross",
+          "count": 3
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 2
+        },
+        {
+          "user": "john.garratt",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 2,
+      "8": 25,
+      "3": 31,
+      "0": 39,
+      "23": 1,
+      "2": 73,
+      "7": 89,
+      "6": 102,
+      "4": 46,
+      "1": 87,
+      "5": 95,
+      "11": 1,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 222,
+      "Tuesday": 104,
+      "Monday": 89,
+      "Friday": 116,
+      "Thursday": 63
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 7.05,
+    "dept_average_30d": 5.75,
+    "dept_rank": 20,
+    "dept_size": 357
+  }
+}

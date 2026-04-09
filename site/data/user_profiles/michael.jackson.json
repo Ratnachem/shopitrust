@@ -1,0 +1,91 @@
+{
+  "username": "michael.jackson",
+  "name": "Michael Jackson",
+  "generated_at": "2026-04-08T20:22:30.427480",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "pascal.deladurantaye",
+          "count": 2
+        },
+        {
+          "user": "peiran.liu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.55,
+      "count": 41,
+      "top_channels": [
+        {
+          "channel": "edge-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "remix",
+          "messages": 1
+        },
+        {
+          "channel": "openai-codex",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "brooks.lybrand",
+          "count": 1
+        },
+        {
+          "user": "freddie.batista",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "16": 3,
+      "17": 1,
+      "0": 1,
+      "21": 1,
+      "15": 2
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Friday": 4,
+      "Wednesday": 1,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 3.43,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1232,
+    "dept_size": 1233
+  }
+}

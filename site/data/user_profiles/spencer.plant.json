@@ -1,0 +1,283 @@
+{
+  "username": "spencer.plant",
+  "name": "Spencer Plant",
+  "generated_at": "2026-04-08T20:22:19.597054",
+  "summary": {
+    "message_count": 284,
+    "channels_active": 18,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 15,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Left a comment mostly for anyone who stumbles across the PR and is wondering why we're deleting all tests",
+          "channel": "tmp-checkout-flaky-tests",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hoping for some reviews on <https://github.com/shop/world/pull/533812|this PR>, please and thanks! <@U01EE4EVC9F> <@U085B8FMQJJ>",
+          "channel": "proj-checkout-infra-quota",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Anyone else who wants to join in just feel free to dial in :pray:",
+          "channel": "temp-checkout-classic-code-removal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "There was an increase in reports of duplicate orders across a handful of merchants",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "*Investigation Summary: Duplicate Orders \u2014 Shop Pay + Facebook In-App Browser*\n\n*The Problem*\nShop Pay buyers in the Facebook in-app browser",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes the merchant can cancel + refund the duplicate orders. For a bit more colour, we believe this is a result of the buyer not seeing their Thank You",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Anyone here have access to Shop User internal? I'm trying to set up a shop app test account that I can use on my staff store, and chat is telling me",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'd love to see if they have any logs for some of these requests from their side.\n\nWe're trying to track the redirects and page load/refresh when the",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; We're investigating a rise in reports where buyers are not seeing the thank you page after checking out in the Facebook iOS app, and",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Alright I've been back and forth with claude on this for a while now and I think we're narrowing in on the root cause. Here's a verbatim",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said this is a first draft, haven't iterated on it yet. But I haven't seen it struggle with failing tests yet",
+          "channel": "temp-checkout-classic-code-removal",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'd love to see if they have any logs for some of these requests from their side.\n\nWe're trying to track the redirects and page load/refresh when the",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Alright I've been back and forth with claude on this for a while now and I think we're narrowing in on the root cause. Here's a verbatim",
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "connie.ho",
+          "count": 9
+        },
+        {
+          "user": "prema.upot",
+          "count": 7
+        },
+        {
+          "user": "kyle.myers",
+          "count": 7
+        },
+        {
+          "user": "max.veldink",
+          "count": 3
+        },
+        {
+          "user": "damien.ardouin",
+          "count": 2
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 2
+        },
+        {
+          "user": "jake.joseph",
+          "count": 2
+        },
+        {
+          "user": "adeniyi.adeyemi",
+          "count": 2
+        },
+        {
+          "user": "thomas.lacher",
+          "count": 1
+        },
+        {
+          "user": "nadim.khalife",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.42,
+      "count": 154,
+      "top_channels": [
+        {
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "messages": 62
+        },
+        {
+          "channel": "proj-checkout-infra-quota",
+          "messages": 58
+        },
+        {
+          "channel": "temp-checkout-classic-code-removal",
+          "messages": 44
+        },
+        {
+          "channel": "tmp-checkout-flaky-tests",
+          "messages": 24
+        },
+        {
+          "channel": "inv-20786-shard299-replicas-not-replicating",
+          "messages": 17
+        },
+        {
+          "channel": "plant-river",
+          "messages": 15
+        },
+        {
+          "channel": "tmp-fix-thank-you-page-redirect",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20313-investigating-increase-in-reports-of-dupl",
+          "messages": 11
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 9
+        },
+        {
+          "channel": "checkout-foundations",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.79,
+      "count": 70,
+      "top_mentioners": [
+        {
+          "user": "kyle.myers",
+          "count": 22
+        },
+        {
+          "user": "max.veldink",
+          "count": 7
+        },
+        {
+          "user": "adeniyi.adeyemi",
+          "count": 7
+        },
+        {
+          "user": "connie.ho",
+          "count": 5
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 5
+        },
+        {
+          "user": "debora.setton",
+          "count": 3
+        },
+        {
+          "user": "aodhagan.clifford",
+          "count": 3
+        },
+        {
+          "user": "jasmine.kaur",
+          "count": 3
+        },
+        {
+          "user": "prema.upot",
+          "count": 3
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 42,
+      "17": 37,
+      "15": 31,
+      "14": 12,
+      "22": 50,
+      "21": 23,
+      "18": 22,
+      "20": 29,
+      "23": 23,
+      "19": 8,
+      "3": 3,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 46,
+      "Tuesday": 72,
+      "Monday": 33,
+      "Thursday": 74,
+      "Friday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 541,
+    "dept_size": 1233
+  }
+}

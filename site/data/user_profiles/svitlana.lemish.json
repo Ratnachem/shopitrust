@@ -1,0 +1,99 @@
+{
+  "username": "svitlana.lemish",
+  "name": "Svitlana Lemish",
+  "generated_at": "2026-04-08T20:22:32.115873",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03PWC4SJGN>!",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hi <@W0182UR45GX>, I can help you. You can DM me if you\u2019d like.",
+          "channel": "help-finance",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "mila.kimcutajar",
+          "count": 2
+        },
+        {
+          "user": "stephane.to",
+          "count": 1
+        },
+        {
+          "user": "garth.pyper",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.0,
+      "count": 132,
+      "top_channels": [
+        {
+          "channel": "help-finance-tech",
+          "messages": 4
+        },
+        {
+          "channel": "help-finance",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "stephane.to",
+          "count": 2
+        },
+        {
+          "user": "maria.lashkova",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 4,
+      "15": 2
+    },
+    "by_day": {
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 4.06,
+    "dept_average_30d": 4.35,
+    "dept_rank": 91,
+    "dept_size": 151
+  }
+}

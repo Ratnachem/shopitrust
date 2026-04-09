@@ -1,0 +1,290 @@
+{
+  "username": "jonathan.harlap",
+  "name": "Jonathan Harlap",
+  "generated_at": "2026-04-08T20:22:07.474780",
+  "summary": {
+    "message_count": 470,
+    "channels_active": 48,
+    "unique_people_mentioned": 39,
+    "unique_mentioners": 49,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 13,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Neat trick...\n```% devx claude mcp add --transport http explainify <https://proxy-shopify-ai.local.shop.dev/mcp/explainify-mcp>\n% devx claude -p",
+          "channel": "discounts-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Great reason to use proud mary. If I have approvals on mine feel free to click merge",
+          "channel": "discounts-backlog",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "A new skill <https://skills.quick.shopify.io/#/talent-shopify> includes (for everyone?) the ability to add/read quick notes (in the Talent system)",
+          "channel": "second-brain",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "So I was wrong to say ajax api - they're using graphql (thankfully) and they're not specifying `@defer`",
+          "channel": "help-discounts",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Right, and we have per-function-api (-ish) adaptors so it's very easy to redefine available/active/inactive based on the intended semantic definition",
+          "channel": "app-transparency-extensions-working-group",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Fixed",
+          "channel": "merch-products-pricing-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ha, timing is perfect. Thank you",
+          "channel": "proj-price-simplification",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! I clicked cancel and it told me it would take a few minutes. when I went back to it to start, I saw you beat me to it :purple_heart:",
+          "channel": "proj-discounts-pricing-yugabyte",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "<https://gsd-launchpad.quick.shopify.io/|This tool> to see all your PRs or all the PRs labeled with a GSD project, including merge and deploy status,",
+          "channel": "merch-eng",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Added a PR on top of yours. Would love to get this fix shipped asap given it's causing incorrect amounts. Let me know if you want to pair or any",
+          "channel": "help-discounts",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I have a stupid question. When we were building with the mindset that we were not using tags, we already stored stackswith tag values in our",
+          "channel": "proj-discounts-same-line-product-stacking",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Name the id column meaningfully, like sales_discounts_id or whatever so there's zero ambiguity. Also, the task shouldn't make any",
+          "channel": "inv-20563-core-deploy---unknown-currency-error",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> what pattern do we have in admin-web for when the graphql query operation to fetch data for a modal fails with a 500/timeout/whatever?",
+          "channel": "discounts-river",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "diana.cheptene",
+          "count": 7
+        },
+        {
+          "user": "samih.ibrahim",
+          "count": 5
+        },
+        {
+          "user": "loic.delaubier",
+          "count": 3
+        },
+        {
+          "user": "linda.damus",
+          "count": 3
+        },
+        {
+          "user": "shahriar.rahman",
+          "count": 2
+        },
+        {
+          "user": "scott.mcneill",
+          "count": 2
+        },
+        {
+          "user": "fabrice.dugas",
+          "count": 2
+        },
+        {
+          "user": "mathius.johnson",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "kenny.law",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 444,
+      "top_channels": [
+        {
+          "channel": "proj-discounts-same-line-product-stacking",
+          "messages": 72
+        },
+        {
+          "channel": "discounts-river",
+          "messages": 58
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 46
+        },
+        {
+          "channel": "help-discounts",
+          "messages": 39
+        },
+        {
+          "channel": "discounts-team",
+          "messages": 38
+        },
+        {
+          "channel": "inv-20563-core-deploy---unknown-currency-error",
+          "messages": 25
+        },
+        {
+          "channel": "help-pricing",
+          "messages": 19
+        },
+        {
+          "channel": "second-brain",
+          "messages": 15
+        },
+        {
+          "channel": "discounts-backlog",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20814-core-deploy-30th-march-745-prs-behind",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 96,
+      "top_mentioners": [
+        {
+          "user": "ryan.schingeck",
+          "count": 7
+        },
+        {
+          "user": "james.kieley",
+          "count": 6
+        },
+        {
+          "user": "scott.mcneill",
+          "count": 5
+        },
+        {
+          "user": "loic.delaubier",
+          "count": 5
+        },
+        {
+          "user": "rebecca.hill",
+          "count": 4
+        },
+        {
+          "user": "linda.damus",
+          "count": 4
+        },
+        {
+          "user": "diana.cheptene",
+          "count": 4
+        },
+        {
+          "user": "michelle.shi",
+          "count": 3
+        },
+        {
+          "user": "tobias.bales",
+          "count": 3
+        },
+        {
+          "user": "mathius.johnson",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 40,
+      "17": 38,
+      "16": 47,
+      "15": 39,
+      "14": 49,
+      "13": 91,
+      "0": 13,
+      "20": 30,
+      "12": 26,
+      "22": 12,
+      "19": 28,
+      "21": 21,
+      "23": 10,
+      "7": 12,
+      "6": 1,
+      "1": 7,
+      "3": 2,
+      "2": 3,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 132,
+      "Tuesday": 101,
+      "Monday": 65,
+      "Friday": 73,
+      "Thursday": 99
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.96,
+    "dept_average_30d": 5.79,
+    "dept_rank": 88,
+    "dept_size": 1233
+  }
+}

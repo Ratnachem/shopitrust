@@ -1,0 +1,205 @@
+{
+  "username": "jin.kim",
+  "name": "Jin Kim",
+  "generated_at": "2026-04-08T20:22:29.363490",
+  "summary": {
+    "message_count": 65,
+    "channels_active": 8,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help with that. Feel free to slack me whenever you want to set up a time for that",
+          "channel": "proj-variant-publishing-downstream-consumers",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I can help with that. Feel free to slack me whenever you want to set up a time for that",
+          "channel": "proj-variant-publishing-downstream-consumers",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W01A0AMD484> :wave: I was told you might be the best to look into this\nI'm creating a new monorail topic for variant publishing, and wanted to",
+          "channel": "proj-variant-publishing",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Just wanted to provide an update: still playing whack-a-mole trying to get CI green. If it's not a flakey test, then its a postgres issue. If it's",
+          "channel": "proj-markets-api-and-admin-migration",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "majuth.kira",
+          "count": 1
+        },
+        {
+          "user": "prabhjot.singh",
+          "count": 1
+        },
+        {
+          "user": "kyle.dornblaser",
+          "count": 1
+        },
+        {
+          "user": "chris.lee",
+          "count": 1
+        },
+        {
+          "user": "ryan.hertz",
+          "count": 1
+        },
+        {
+          "user": "ali.lakhani",
+          "count": 1
+        },
+        {
+          "user": "tim.lombardo",
+          "count": 1
+        },
+        {
+          "user": "mykhailo.rybak",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.62,
+      "count": 165,
+      "top_channels": [
+        {
+          "channel": "catalogs-notifications",
+          "messages": 21
+        },
+        {
+          "channel": "proj-markets-api-and-admin-migration",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20759-topps-add-to-cart-variant-not-found-error",
+          "messages": 9
+        },
+        {
+          "channel": "catalogs-river-chatter",
+          "messages": 7
+        },
+        {
+          "channel": "help-core-catalogs",
+          "messages": 6
+        },
+        {
+          "channel": "proj-variant-publishing-downstream-consumers",
+          "messages": 4
+        },
+        {
+          "channel": "proj-variant-publishing",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20155-graphapi-error-in-phase2-and-3-of-core-re",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.52,
+      "count": 29,
+      "top_mentioners": [
+        {
+          "user": "janet.balneaves",
+          "count": 6
+        },
+        {
+          "user": "tim.lombardo",
+          "count": 3
+        },
+        {
+          "user": "chris.lee",
+          "count": 3
+        },
+        {
+          "user": "james.kieley",
+          "count": 2
+        },
+        {
+          "user": "ali.lakhani",
+          "count": 2
+        },
+        {
+          "user": "rebecca.kelly",
+          "count": 2
+        },
+        {
+          "user": "patrick.elder",
+          "count": 1
+        },
+        {
+          "user": "ayo.akinkugbe",
+          "count": 1
+        },
+        {
+          "user": "majuth.kira",
+          "count": 1
+        },
+        {
+          "user": "kyle.dornblaser",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 9,
+      "20": 9,
+      "19": 3,
+      "18": 8,
+      "17": 4,
+      "21": 7,
+      "12": 1,
+      "0": 1,
+      "23": 1,
+      "14": 14,
+      "22": 1,
+      "15": 6,
+      "13": 1
+    },
+    "by_day": {
+      "Monday": 17,
+      "Friday": 23,
+      "Thursday": 9,
+      "Wednesday": 10,
+      "Tuesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.32,
+    "dept_average_30d": 5.79,
+    "dept_rank": 843,
+    "dept_size": 1233
+  }
+}

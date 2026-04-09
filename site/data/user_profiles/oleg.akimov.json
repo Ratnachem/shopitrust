@@ -1,0 +1,195 @@
+{
+  "username": "oleg.akimov",
+  "name": "Oleg Akimov",
+  "generated_at": "2026-04-08T20:22:25.627312",
+  "summary": {
+    "message_count": 32,
+    "channels_active": 5,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08TLDYSW6S> Thank you very much!\n\nFailed run (using Nebius): <https://oasis.shopify.io/runs/019d450652bd320978f6>\nSuccessful run (using CPU):",
+          "channel": "tangle",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U08TLDYSW6S>,\nCould you help me with this please?\nThere is a problem with reading data from our team bucket sdp-stg-ml-taxonomy when I use",
+          "channel": "tangle",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team!\n\nI'm creating a Tangle component to train BERT model using Nebius.\n\nI use GCS to store datasets (train/evaluation/test):",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08BVS8QZPS>\nThank you for the help Alexey.\n\n> pass the URI directly to your trainer\nI use GCS to store datasets (train/evaluation/test):",
+          "channel": "tangle",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team,\n\nI try to launch Skypilot from a Tangle component in Oasis and receive an access error.\nRun:",
+          "channel": "tangle",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08PVF2AEGL>\nHi Shuying,\nThank you for the response! I'm starting Reranker migration today.",
+          "channel": "tmp-unified-distillation-platform-for-search",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "ben.chen",
+          "count": 2
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 2
+        },
+        {
+          "user": "matt.mitsui",
+          "count": 2
+        },
+        {
+          "user": "ilia.kuchumov",
+          "count": 2
+        },
+        {
+          "user": "shuying.sun",
+          "count": 2
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 1
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 1
+        },
+        {
+          "user": "boris.nazarov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.58,
+      "count": 121,
+      "top_channels": [
+        {
+          "channel": "proj-catalogue-clustering",
+          "messages": 15
+        },
+        {
+          "channel": "tmp-unified-distillation-platform-for-search",
+          "messages": 6
+        },
+        {
+          "channel": "tangle",
+          "messages": 4
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "the-shopify-catalog",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "ben.chen",
+          "count": 10
+        },
+        {
+          "user": "shane.moran",
+          "count": 7
+        },
+        {
+          "user": "ilia.kuchumov",
+          "count": 7
+        },
+        {
+          "user": "boris.nazarov",
+          "count": 3
+        },
+        {
+          "user": "shuying.sun",
+          "count": 3
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 2
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 1
+        },
+        {
+          "user": "younggue.bae",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "7": 3,
+      "16": 10,
+      "15": 1,
+      "18": 2,
+      "14": 3,
+      "13": 2,
+      "12": 3,
+      "8": 3,
+      "19": 1,
+      "17": 4
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Friday": 8,
+      "Tuesday": 13,
+      "Monday": 6,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Corpo",
+    "user_score_30d": 4.06,
+    "dept_average_30d": 4.84,
+    "dept_rank": 14,
+    "dept_size": 18
+  }
+}

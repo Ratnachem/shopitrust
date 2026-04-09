@@ -1,0 +1,276 @@
+{
+  "username": "scott.jackson",
+  "name": "Scott Jackson",
+  "generated_at": "2026-04-08T20:22:10.674100",
+  "summary": {
+    "message_count": 462,
+    "channels_active": 43,
+    "unique_people_mentioned": 39,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey folks, I'd like us to get to a spot where we can move forward with rolling out product catalogs to our initial cohort of ~300 merchants quickly.",
+          "channel": "proj-migrate-pos-products-to-cloudsync",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U01KZR1QBK6> Thanks! I'll repost there.\n\n<@U093FQUHEJG> for full context, here's AI's analysis:\n``` ### 3 distinct failure categories:\n\n 1.",
+          "channel": "team-ci",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "No concern from Dev tooling perspective. Just make sure you run the workflow then review and merge the PR :slightly_smiling_face:\n\nLet me know if you",
+          "channel": "retail-foundations-developer-tooling-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Working for me now! Thank you!",
+          "channel": "help-vault",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work on this!",
+          "channel": "proj-migrate-pos-products-to-cloudsync",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work getting this update done in record time!",
+          "channel": "retail-dev",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to you too <@U087YH5K4SZ> for helping us work through the issues impacting the rollout!",
+          "channel": "proj-migrate-pos-products-to-cloudsync",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work staying on top of this <@U08Q3USLK2M>!",
+          "channel": "retail-foundations-infrastructure-and-services-team",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help some in the morning. Just need the flag set on my store and to be on either the latest RC or latest main?",
+          "channel": "proj-migrate-pos-settings-to-cloudsync",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": ":wave: I've seen some resiliency issues get assigned to the top level Retail team in Vault when they should be assigned to specific teams within",
+          "channel": "help-vault",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Thanks for taking the time to dig in and find the issue <@U02P37CJ6JY> :tada:\nBetter we figure it out now :slightly_smiling_face:",
+          "channel": "proj-migrate-pos-products-to-cloudsync",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Here are some comments on the PR so far:\n\u2022 organization has too many levels for native sync. Currently \"Native Sync (Deprecated)\"",
+          "channel": "retail-foundations-infrastructure-and-services-team",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "tomasz.szymczyszyn",
+          "count": 15
+        },
+        {
+          "user": "raphael.lopesfeitoza",
+          "count": 15
+        },
+        {
+          "user": "si.le",
+          "count": 11
+        },
+        {
+          "user": "rune.madsen",
+          "count": 8
+        },
+        {
+          "user": "jeremy.rowe",
+          "count": 8
+        },
+        {
+          "user": "mostafa.yassine",
+          "count": 7
+        },
+        {
+          "user": "rafal.piekarski",
+          "count": 7
+        },
+        {
+          "user": "paul.aigueperse",
+          "count": 6
+        },
+        {
+          "user": "larry.stinson",
+          "count": 5
+        },
+        {
+          "user": "paddy.obrien",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.58,
+      "count": 374,
+      "top_channels": [
+        {
+          "channel": "retail-foundations-developer-tooling-team",
+          "messages": 81
+        },
+        {
+          "channel": "retail-foundations-infrastructure-and-services-team",
+          "messages": 69
+        },
+        {
+          "channel": "proj-migrate-pos-products-to-cloudsync",
+          "messages": 67
+        },
+        {
+          "channel": "proj-migrate-pos-settings-to-cloudsync",
+          "messages": 61
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 32
+        },
+        {
+          "channel": "help-vault",
+          "messages": 15
+        },
+        {
+          "channel": "tmp-proj-pos-beta-flags",
+          "messages": 14
+        },
+        {
+          "channel": "proj-stable-device-ids-for-pos-device-management",
+          "messages": 13
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 10
+        },
+        {
+          "channel": "help-retail-cloud-sync",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 91,
+      "top_mentioners": [
+        {
+          "user": "jeremy.rowe",
+          "count": 10
+        },
+        {
+          "user": "si.le",
+          "count": 9
+        },
+        {
+          "user": "rune.madsen",
+          "count": 9
+        },
+        {
+          "user": "jeanbaptiste.morin",
+          "count": 7
+        },
+        {
+          "user": "ash.christopher",
+          "count": 5
+        },
+        {
+          "user": "mostafa.yassine",
+          "count": 5
+        },
+        {
+          "user": "rafal.piekarski",
+          "count": 4
+        },
+        {
+          "user": "raphael.lopesfeitoza",
+          "count": 4
+        },
+        {
+          "user": "emma.clay",
+          "count": 3
+        },
+        {
+          "user": "tomasz.szymczyszyn",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 48,
+      "16": 18,
+      "15": 64,
+      "12": 26,
+      "23": 2,
+      "19": 64,
+      "17": 57,
+      "13": 57,
+      "21": 30,
+      "20": 50,
+      "14": 38,
+      "22": 8
+    },
+    "by_day": {
+      "Wednesday": 156,
+      "Tuesday": 110,
+      "Monday": 64,
+      "Thursday": 93,
+      "Friday": 39
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.27,
+    "dept_average_30d": 5.77,
+    "dept_rank": 193,
+    "dept_size": 885
+  }
+}

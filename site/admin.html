@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopiTrust Admin</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 100%);
+            color: #e1e1e6;
+            min-height: 100vh;
+        }
+        .header {
+            background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+            padding: 2rem;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 2rem;
+            font-weight: 800;
+        }
+        .header p {
+            opacity: 0.9;
+            margin-top: 0.5rem;
+            color: #fecaca;
+        }
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.15);
+            transition: background 0.2s;
+        }
+        .nav-links a:hover {
+            background: rgba(255,255,255,0.25);
+        }
+        .main-content {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .card h2 {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: #f87171;
+        }
+        .search-container {
+            position: relative;
+            margin-bottom: 1rem;
+        }
+        .search-input {
+            width: 100%;
+            padding: 1rem 1rem 1rem 3rem;
+            border: 2px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            background: rgba(0,0,0,0.3);
+            color: #e1e1e6;
+            font-size: 1rem;
+            transition: border-color 0.2s;
+        }
+        .search-input:focus {
+            outline: none;
+            border-color: #f87171;
+        }
+        .search-icon {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #6b7280;
+        }
+        .search-results {
+            max-height: 300px;
+            overflow-y: auto;
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 8px;
+            display: none;
+        }
+        .search-results.show {
+            display: block;
+        }
+        .search-result-item {
+            padding: 0.75rem 1rem;
+            cursor: pointer;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .search-result-item:hover {
+            background: rgba(255,255,255,0.05);
+        }
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+        .user-name {
+            font-weight: 500;
+        }
+        .user-score {
+            color: #9ca3af;
+            font-size: 0.875rem;
+        }
+        .selected-user {
+            background: rgba(248, 113, 113, 0.1);
+            border: 2px solid #f87171;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            display: none;
+        }
+        .selected-user.show {
+            display: block;
+        }
+        .selected-user-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        .selected-user-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        .selected-user-score {
+            font-size: 2rem;
+            font-weight: 800;
+            color: #f87171;
+        }
+        .adjustment-form {
+            display: grid;
+            gap: 1rem;
+        }
+        .form-group {
+            display: grid;
+            gap: 0.5rem;
+        }
+        .form-group label {
+            font-size: 0.875rem;
+            color: #9ca3af;
+        }
+        .form-group input, .form-group select, .form-group textarea {
+            padding: 0.75rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 8px;
+            background: rgba(0,0,0,0.3);
+            color: #e1e1e6;
+            font-size: 1rem;
+        }
+        .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+            outline: none;
+            border-color: #f87171;
+        }
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #dc2626, #991b1b);
+            color: white;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(220, 38, 38, 0.3);
+        }
+        .btn-secondary {
+            background: rgba(255,255,255,0.1);
+            color: #e1e1e6;
+        }
+        .btn-secondary:hover {
+            background: rgba(255,255,255,0.15);
+        }
+        .adjustments-log {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .adjustment-entry {
+            padding: 1rem;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .adjustment-entry:last-child {
+            border-bottom: none;
+        }
+        .adjustment-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+        .adjustment-user {
+            font-weight: 600;
+        }
+        .adjustment-change {
+            font-weight: 700;
+        }
+        .adjustment-change.positive {
+            color: #34d399;
+        }
+        .adjustment-change.negative {
+            color: #f87171;
+        }
+        .adjustment-reason {
+            font-size: 0.875rem;
+            color: #9ca3af;
+        }
+        .adjustment-time {
+            font-size: 0.75rem;
+            color: #6b7280;
+        }
+        .warning-banner {
+            background: rgba(251, 191, 36, 0.1);
+            border: 1px solid #fbbf24;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            gap: 0.75rem;
+            align-items: flex-start;
+        }
+        .warning-banner .icon {
+            font-size: 1.25rem;
+        }
+        .warning-banner .text {
+            font-size: 0.875rem;
+            color: #fde68a;
+        }
+        .current-categories {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 0.75rem;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+        .category-item {
+            background: rgba(0,0,0,0.2);
+            padding: 0.5rem;
+            border-radius: 6px;
+            font-size: 0.75rem;
+        }
+        .category-name {
+            color: #9ca3af;
+        }
+        .category-value {
+            font-weight: 600;
+            color: #e1e1e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔒 ShopiTrust Admin</h1>
+        <p>Manual Score Adjustments</p>
+        <div class="nav-links">
+            <a href="index.html">🏆 Leaderboard</a>
+            <a href="peer.html">🔋 Battery Check</a>
+            <a href="about.html">ℹ️ About</a>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="warning-banner">
+            <span class="icon">⚠️</span>
+            <span class="text">
+                Manual adjustments are logged and should only be used for exceptional circumstances. 
+                All changes are tracked and reversible. Adjustments persist until the next full score regeneration.
+            </span>
+        </div>
+
+        <div class="card">
+            <h2>🔍 Find User</h2>
+            <div class="search-container">
+                <span class="search-icon">🔍</span>
+                <input type="text" class="search-input" id="userSearch" placeholder="Search by name or username...">
+            </div>
+            <div class="search-results" id="searchResults"></div>
+        </div>
+
+        <div class="selected-user" id="selectedUser">
+            <div class="selected-user-header">
+                <div>
+                    <div class="selected-user-name" id="selectedName">-</div>
+                    <div style="color: #9ca3af; font-size: 0.875rem;">
+                        <span id="selectedDepartment">-</span> · <span id="selectedUsername">-</span>
+                    </div>
+                </div>
+                <div class="selected-user-score" id="selectedScore">-</div>
+            </div>
+            <div class="current-categories" id="currentCategories"></div>
+        </div>
+
+        <div class="card" id="adjustmentCard" style="display: none;">
+            <h2>📝 Create Adjustment</h2>
+            <form class="adjustment-form" id="adjustmentForm">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Adjustment Type</label>
+                        <select id="adjustmentType">
+                            <option value="add">Add to score</option>
+                            <option value="subtract">Subtract from score</option>
+                            <option value="set">Set to specific value</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Value</label>
+                        <input type="number" id="adjustmentValue" step="0.1" min="0" max="10" placeholder="0.0" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Reason (required)</label>
+                    <textarea id="adjustmentReason" rows="3" placeholder="Explain why this adjustment is needed..." required></textarea>
+                </div>
+                <div class="form-row">
+                    <button type="button" class="btn btn-secondary" onclick="clearSelection()">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Apply Adjustment</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="card">
+            <h2>📋 Recent Adjustments</h2>
+            <div class="adjustments-log" id="adjustmentsLog">
+                <p style="color: #6b7280; text-align: center; padding: 2rem;">No adjustments yet</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let trustData = null;
+        let selectedUser = null;
+        let adjustments = JSON.parse(localStorage.getItem('trustScoreAdjustments') || '[]');
+
+        async function loadData() {
+            try {
+                const response = await fetch('data/trust_scores.json');
+                trustData = await response.json();
+                renderAdjustmentsLog();
+            } catch (error) {
+                console.error('Failed to load data:', error);
+            }
+        }
+
+        function searchUsers(query) {
+            if (!trustData || query.length < 2) {
+                document.getElementById('searchResults').classList.remove('show');
+                return;
+            }
+
+            const results = Object.entries(trustData.scores)
+                .filter(([name, data]) => {
+                    const searchLower = query.toLowerCase();
+                    return name.toLowerCase().includes(searchLower) || 
+                           (data.username && data.username.toLowerCase().includes(searchLower));
+                })
+                .slice(0, 10);
+
+            const resultsHtml = results.map(([name, data]) => `
+                <div class="search-result-item" onclick="selectUser('${name.replace(/'/g, "\\'")}')">
+                    <span class="user-name">${name}</span>
+                    <span class="user-score">${data.current.toFixed(2)}</span>
+                </div>
+            `).join('');
+
+            const container = document.getElementById('searchResults');
+            container.innerHTML = resultsHtml || '<div class="search-result-item">No users found</div>';
+            container.classList.add('show');
+        }
+
+        function selectUser(name) {
+            selectedUser = { name, ...trustData.scores[name] };
+            
+            // Apply any existing adjustments
+            const userAdjustments = adjustments.filter(a => a.userName === name);
+            let adjustedScore = selectedUser.current;
+            userAdjustments.forEach(adj => {
+                if (adj.type === 'add') adjustedScore += adj.value;
+                else if (adj.type === 'subtract') adjustedScore -= adj.value;
+                else if (adj.type === 'set') adjustedScore = adj.value;
+            });
+            adjustedScore = Math.max(0, Math.min(10, adjustedScore));
+
+            document.getElementById('selectedName').textContent = name;
+            document.getElementById('selectedDepartment').textContent = selectedUser.department || 'Unknown';
+            document.getElementById('selectedUsername').textContent = '@' + (selectedUser.username || 'unknown');
+            document.getElementById('selectedScore').textContent = adjustedScore.toFixed(2);
+            
+            // Show categories
+            const categories = selectedUser.categories || {};
+            const categoriesHtml = Object.entries(categories)
+                .filter(([k, v]) => v !== null)
+                .map(([key, value]) => `
+                    <div class="category-item">
+                        <div class="category-name">${formatCategoryName(key)}</div>
+                        <div class="category-value">${typeof value === 'number' ? value.toFixed(2) : value}</div>
+                    </div>
+                `).join('');
+            document.getElementById('currentCategories').innerHTML = categoriesHtml;
+
+            document.getElementById('selectedUser').classList.add('show');
+            document.getElementById('adjustmentCard').style.display = 'block';
+            document.getElementById('searchResults').classList.remove('show');
+            document.getElementById('userSearch').value = '';
+        }
+
+        function formatCategoryName(key) {
+            return key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        }
+
+        function clearSelection() {
+            selectedUser = null;
+            document.getElementById('selectedUser').classList.remove('show');
+            document.getElementById('adjustmentCard').style.display = 'none';
+            document.getElementById('adjustmentForm').reset();
+        }
+
+        function applyAdjustment(e) {
+            e.preventDefault();
+            
+            if (!selectedUser) return;
+
+            const type = document.getElementById('adjustmentType').value;
+            const value = parseFloat(document.getElementById('adjustmentValue').value);
+            const reason = document.getElementById('adjustmentReason').value.trim();
+
+            if (!reason) {
+                alert('Please provide a reason for this adjustment');
+                return;
+            }
+
+            const adjustment = {
+                id: Date.now(),
+                userName: selectedUser.name,
+                username: selectedUser.username,
+                type,
+                value,
+                reason,
+                originalScore: selectedUser.current,
+                timestamp: new Date().toISOString(),
+            };
+
+            adjustments.unshift(adjustment);
+            localStorage.setItem('trustScoreAdjustments', JSON.stringify(adjustments));
+
+            renderAdjustmentsLog();
+            selectUser(selectedUser.name); // Refresh selected user display
+            document.getElementById('adjustmentForm').reset();
+            
+            alert(`Adjustment applied to ${selectedUser.name}`);
+        }
+
+        function renderAdjustmentsLog() {
+            const container = document.getElementById('adjustmentsLog');
+            
+            if (adjustments.length === 0) {
+                container.innerHTML = '<p style="color: #6b7280; text-align: center; padding: 2rem;">No adjustments yet</p>';
+                return;
+            }
+
+            container.innerHTML = adjustments.slice(0, 50).map(adj => {
+                let changeText = '';
+                let changeClass = '';
+                if (adj.type === 'add') {
+                    changeText = `+${adj.value.toFixed(1)}`;
+                    changeClass = 'positive';
+                } else if (adj.type === 'subtract') {
+                    changeText = `-${adj.value.toFixed(1)}`;
+                    changeClass = 'negative';
+                } else {
+                    changeText = `→ ${adj.value.toFixed(1)}`;
+                }
+
+                return `
+                    <div class="adjustment-entry">
+                        <div class="adjustment-header">
+                            <span class="adjustment-user">${adj.userName}</span>
+                            <span class="adjustment-change ${changeClass}">${changeText}</span>
+                        </div>
+                        <div class="adjustment-reason">${adj.reason}</div>
+                        <div class="adjustment-time">${new Date(adj.timestamp).toLocaleString()}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function removeAdjustment(id) {
+            adjustments = adjustments.filter(a => a.id !== id);
+            localStorage.setItem('trustScoreAdjustments', JSON.stringify(adjustments));
+            renderAdjustmentsLog();
+            if (selectedUser) selectUser(selectedUser.name);
+        }
+
+        // Event listeners
+        document.getElementById('userSearch').addEventListener('input', (e) => searchUsers(e.target.value));
+        document.getElementById('adjustmentForm').addEventListener('submit', applyAdjustment);
+
+        // Close search results when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-container')) {
+                document.getElementById('searchResults').classList.remove('show');
+            }
+        });
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>

@@ -1,0 +1,141 @@
+{
+  "username": "gerrit.feenstra",
+  "name": "Gerrit Feenstra",
+  "generated_at": "2026-04-08T20:22:16.817030",
+  "summary": {
+    "message_count": 63,
+    "channels_active": 9,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> please remove that from the monorepo - I can use what you pasted above. thank you.",
+          "channel": "gerrit-talks-to-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U099F93C708> this is exactly what I was looking for.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "right. I'm needing to recreate these calcs for self-serve, so trying to not use opportunity data as much as I can. I'll use the brick and mortar",
+          "channel": "help-commercial-data-platform",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "cliff.leighton",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.9,
+      "count": 103,
+      "top_channels": [
+        {
+          "channel": "gerrit-talks-to-river",
+          "messages": 42
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 5
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 4
+        },
+        {
+          "channel": "claude-code",
+          "messages": 3
+        },
+        {
+          "channel": "help-commercial-data-platform",
+          "messages": 3
+        },
+        {
+          "channel": "revenue-data-models",
+          "messages": 2
+        },
+        {
+          "channel": "help-people-data",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "commercial-data-river",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "ross.diener",
+          "count": 1
+        },
+        {
+          "user": "cliff.leighton",
+          "count": 1
+        },
+        {
+          "user": "robert.wang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 3,
+      "21": 9,
+      "20": 8,
+      "19": 11,
+      "22": 10,
+      "16": 3,
+      "23": 15,
+      "15": 3,
+      "18": 1
+    },
+    "by_day": {
+      "Wednesday": 19,
+      "Tuesday": 14,
+      "Monday": 14,
+      "Friday": 14,
+      "Thursday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.56,
+    "dept_average_30d": 5.39,
+    "dept_rank": 213,
+    "dept_size": 272
+  }
+}

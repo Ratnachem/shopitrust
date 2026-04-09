@@ -1,0 +1,244 @@
+{
+  "username": "abhitesh.singh",
+  "name": "Abhitesh Singh",
+  "generated_at": "2026-04-08T20:22:25.371786",
+  "summary": {
+    "message_count": 347,
+    "channels_active": 19,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Done. Let me know if the issue is fixed.",
+          "channel": "help-files",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if it works.",
+          "channel": "inv-21010-sfr-post-deploy-failures",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "> and this is now in the merge queue :+1: feel free to reply to that Binks comment for posterity; it doesn\u2019t seem to be blocking\nI will have to put",
+          "channel": "team-files",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if this works.",
+          "channel": "help-files",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I tried look into how the articles are getting into this state. But I was unable to figure it out. When I try it, the mutation does the",
+          "channel": "help-online-store-admin-integrations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; Running a backfill without the double-write in place is kinda useless because we'll have stale data.\nI don't mean not to have a double-write",
+          "channel": "team-files",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "I think hopefully it is a QE thing. PG should be handling it fine. Or else this will become the main path of code execution when we migrate to PG.",
+          "channel": "team-files",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "richard.monette",
+          "count": 11
+        },
+        {
+          "user": "chahna.gupta",
+          "count": 4
+        },
+        {
+          "user": "christian.joudrey",
+          "count": 4
+        },
+        {
+          "user": "khyle.dandoy",
+          "count": 3
+        },
+        {
+          "user": "gurpreet.gill",
+          "count": 2
+        },
+        {
+          "user": "cian.croke",
+          "count": 2
+        },
+        {
+          "user": "derek.stride",
+          "count": 2
+        },
+        {
+          "user": "alex.ilea",
+          "count": 2
+        },
+        {
+          "user": "yvonne.mcdonnell",
+          "count": 1
+        },
+        {
+          "user": "arianne.mondoy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.53,
+      "count": 213,
+      "top_channels": [
+        {
+          "channel": "team-files",
+          "messages": 111
+        },
+        {
+          "channel": "help-files",
+          "messages": 77
+        },
+        {
+          "channel": "admin-integrations-with-river",
+          "messages": 67
+        },
+        {
+          "channel": "inv-21010-sfr-post-deploy-failures",
+          "messages": 15
+        },
+        {
+          "channel": "proj-file-system",
+          "messages": 14
+        },
+        {
+          "channel": "job-platform",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20842-existing-runtimeerror-spiked-up-in-core-d",
+          "messages": 11
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 9
+        },
+        {
+          "channel": "help-online-store-admin-integrations",
+          "messages": 7
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "richard.monette",
+          "count": 10
+        },
+        {
+          "user": "gurpreet.gill",
+          "count": 6
+        },
+        {
+          "user": "chahna.gupta",
+          "count": 6
+        },
+        {
+          "user": "vincent.lynch",
+          "count": 4
+        },
+        {
+          "user": "jeansamuel.aubryguzzi",
+          "count": 3
+        },
+        {
+          "user": "jass.arora",
+          "count": 3
+        },
+        {
+          "user": "cian.croke",
+          "count": 2
+        },
+        {
+          "user": "timea.gremsperger",
+          "count": 2
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 2
+        },
+        {
+          "user": "daniel.gross",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 2,
+      "21": 12,
+      "20": 26,
+      "19": 57,
+      "17": 20,
+      "16": 31,
+      "14": 44,
+      "13": 45,
+      "18": 34,
+      "15": 60,
+      "12": 1,
+      "11": 1,
+      "23": 2,
+      "22": 11,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 65,
+      "Tuesday": 106,
+      "Monday": 94,
+      "Thursday": 42,
+      "Friday": 40
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.43,
+    "dept_average_30d": 5.79,
+    "dept_rank": 776,
+    "dept_size": 1233
+  }
+}

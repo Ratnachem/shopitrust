@@ -1,0 +1,95 @@
+{
+  "username": "elaine.rystead",
+  "name": "Elaine Rystead",
+  "generated_at": "2026-04-08T20:22:32.032642",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey team,\nI know this is late in the game, but we need to update two small pieces of copy on the landing page based on leadership direction to align",
+          "channel": "payments-brochure-refresh",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "stephanie.joo",
+          "count": 1
+        },
+        {
+          "user": "krista.nelson",
+          "count": 1
+        },
+        {
+          "user": "anne.harris",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.44,
+      "count": 38,
+      "top_channels": [
+        {
+          "channel": "payments-brochure-refresh",
+          "messages": 1
+        },
+        {
+          "channel": "creative-ai",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "stephanie.joo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 1,
+      "16": 1,
+      "20": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Thursday": 1,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Brand Design Studio",
+    "user_score_30d": 3.77,
+    "dept_average_30d": 4.57,
+    "dept_rank": 68,
+    "dept_size": 81
+  }
+}

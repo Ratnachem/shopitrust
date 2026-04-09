@@ -1,0 +1,125 @@
+{
+  "username": "roxanne.voidonicolas",
+  "name": "Roxanne Voidonicolas",
+  "generated_at": "2026-04-08T20:22:32.285394",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "no prob thank you!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it thank you ",
+          "channel": "market-insights-team",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "market-insights-team",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "note: after nothing was working in claude code (in vs code) i deleted whatever mcp configs i had so i could start over because nothing was working",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "renee.lopezricher",
+          "count": 1
+        },
+        {
+          "user": "austin.henderson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.41,
+      "count": 90,
+      "top_channels": [
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 9
+        },
+        {
+          "channel": "market-insights-team",
+          "messages": 6
+        },
+        {
+          "channel": "help-cx-rnd",
+          "messages": 2
+        },
+        {
+          "channel": "cx-rnd-team",
+          "messages": 2
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "renee.lopezricher",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "19": 1,
+      "17": 1,
+      "16": 6,
+      "15": 5,
+      "12": 4,
+      "21": 2
+    },
+    "by_day": {
+      "Friday": 1,
+      "Thursday": 17,
+      "Wednesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 4.92,
+    "dept_average_30d": 5.58,
+    "dept_rank": 297,
+    "dept_size": 398
+  }
+}

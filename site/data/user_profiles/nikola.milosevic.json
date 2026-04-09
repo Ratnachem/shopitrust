@@ -1,0 +1,232 @@
+{
+  "username": "nikola.milosevic",
+  "name": "Nikola Milosevic",
+  "generated_at": "2026-04-08T20:22:22.784658",
+  "summary": {
+    "message_count": 418,
+    "channels_active": 21,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> investigate this issue\n&gt;  Hey team! Tier 2 here, I have a merchant who's noticed unexpected behaviour with the Order UI. They have",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Resolved! thanks!",
+          "channel": "help-localization",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Kush! I checked the PR last night and it said \"in the merge queue\" so I'm like \"oh cool I didn't have to rebase it\"",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I personally don't understand the advantage of top level vs. having this defined as min height in whatever cells might wrap. It seems like your cell",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> fix the display menu on mobile not capturing clicks and clicking whatever's in the background",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> can we do a max height of 292px on the pane or whatever's the closest polaris token",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "kush.patel",
+          "count": 5
+        },
+        {
+          "user": "joe.holston",
+          "count": 4
+        },
+        {
+          "user": "jess.clark",
+          "count": 3
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 2
+        },
+        {
+          "user": "madison.frye",
+          "count": 2
+        },
+        {
+          "user": "jita.yi",
+          "count": 1
+        },
+        {
+          "user": "jade.baya",
+          "count": 1
+        },
+        {
+          "user": "scott.birksted",
+          "count": 1
+        },
+        {
+          "user": "scott.wadden",
+          "count": 1
+        },
+        {
+          "user": "emily.ye",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 399,
+      "top_channels": [
+        {
+          "channel": "proj-index-tables",
+          "messages": 245
+        },
+        {
+          "channel": "admin-workflows-river",
+          "messages": 66
+        },
+        {
+          "channel": "temp-table-filter-feedback",
+          "messages": 42
+        },
+        {
+          "channel": "river-joe",
+          "messages": 18
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 14
+        },
+        {
+          "channel": "discounts-team",
+          "messages": 6
+        },
+        {
+          "channel": "help-products",
+          "messages": 5
+        },
+        {
+          "channel": "checkout-foundations",
+          "messages": 4
+        },
+        {
+          "channel": "proj-multi-channel",
+          "messages": 2
+        },
+        {
+          "channel": "help-admin-workflows",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "kush.patel",
+          "count": 11
+        },
+        {
+          "user": "joe.holston",
+          "count": 9
+        },
+        {
+          "user": "jess.clark",
+          "count": 4
+        },
+        {
+          "user": "madison.frye",
+          "count": 3
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 3
+        },
+        {
+          "user": "joe.thomas",
+          "count": 2
+        },
+        {
+          "user": "david.xu",
+          "count": 2
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 2
+        },
+        {
+          "user": "alastair.lewis",
+          "count": 1
+        },
+        {
+          "user": "scott.wadden",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 63,
+      "14": 86,
+      "21": 27,
+      "20": 34,
+      "19": 26,
+      "18": 51,
+      "17": 48,
+      "22": 2,
+      "16": 35,
+      "13": 46
+    },
+    "by_day": {
+      "Wednesday": 74,
+      "Thursday": 99,
+      "Tuesday": 101,
+      "Monday": 63,
+      "Friday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.37,
+    "dept_average_30d": 5.79,
+    "dept_rank": 231,
+    "dept_size": 1233
+  }
+}

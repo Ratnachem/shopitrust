@@ -1,0 +1,108 @@
+{
+  "username": "joe.davidson",
+  "name": "Joe Davidson",
+  "generated_at": "2026-04-08T20:22:30.856324",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 2,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh :facepalm:  my bad didn't open the ticket but he did log in for a bit this morning. Ignore me! :laughing:",
+          "channel": "support-case-159",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "eunice.low",
+          "count": 1
+        },
+        {
+          "user": "petra.mccann",
+          "count": 1
+        },
+        {
+          "user": "james.buchanan",
+          "count": 1
+        },
+        {
+          "user": "courtney.mcgrath",
+          "count": 1
+        },
+        {
+          "user": "olisya.grant",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.42,
+      "count": 64,
+      "top_channels": [
+        {
+          "channel": "support-case-159",
+          "messages": 4
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "dakota.yetman",
+          "count": 3
+        },
+        {
+          "user": "jodi.shambrook",
+          "count": 2
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 2,
+      "2": 2,
+      "3": 1,
+      "20": 1
+    },
+    "by_day": {
+      "Thursday": 3,
+      "Wednesday": 2,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.87,
+    "dept_average_30d": 4.09,
+    "dept_rank": 321,
+    "dept_size": 642
+  }
+}

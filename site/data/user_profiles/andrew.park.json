@@ -1,0 +1,105 @@
+{
+  "username": "andrew.park",
+  "name": "Andrew Park",
+  "generated_at": "2026-04-08T20:22:09.377426",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": ":claps: well done <@U023URWLJDN>",
+          "channel": "livestream-revenue",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "amanda.nye",
+          "count": 2
+        },
+        {
+          "user": "joe.strolz",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.65,
+      "count": 70,
+      "top_channels": [
+        {
+          "channel": "help-people-data",
+          "messages": 3
+        },
+        {
+          "channel": "temp-sdp-for-analyst-revops-review",
+          "messages": 2
+        },
+        {
+          "channel": "livestream-revenue",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "katie.slater",
+          "count": 1
+        },
+        {
+          "user": "amanda.nye",
+          "count": 1
+        },
+        {
+          "user": "david.eccles",
+          "count": 1
+        },
+        {
+          "user": "henry.springer",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "15": 2,
+      "22": 1,
+      "21": 1,
+      "14": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Thursday": 2,
+      "Monday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.37,
+    "dept_average_30d": 4.32,
+    "dept_rank": 358,
+    "dept_size": 848
+  }
+}

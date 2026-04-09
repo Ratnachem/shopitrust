@@ -1,0 +1,236 @@
+{
+  "username": "thomas.wang",
+  "name": "Thomas Wang",
+  "generated_at": "2026-04-08T20:22:09.250942",
+  "summary": {
+    "message_count": 592,
+    "channels_active": 15,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<@U028Q33HWSG> So sorry about the noise. AI went a weee big trigger happy on your PR.",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm getting close to the end of the review for the service. Feel free to get started but I expect this can be hammered out quite fast. I can probably",
+          "channel": "proj-market-change-sets-backend-only",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018PT6MFCL> market changeset application on SFR is out. Feel free to get flushin'",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Much better to do this early than late lol",
+          "channel": "markets-foundations",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; The need to define the source is interesting in itself, but trying to better understand it in practice. Since we will have a changeset for both",
+          "channel": "proj-market-change-sets-backend-only",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Yes. I think the idea of a changeset having a market id is a bad pattern. A change for a given changeset on a resource type T must have a reference",
+          "channel": "proj-catalog-changesets-for-rollouts",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "john.king",
+          "count": 11
+        },
+        {
+          "user": "daniel.podgornikabramovici",
+          "count": 8
+        },
+        {
+          "user": "iain.wilson",
+          "count": 8
+        },
+        {
+          "user": "raymond.zeng",
+          "count": 8
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 6
+        },
+        {
+          "user": "mohsen.morshedi",
+          "count": 6
+        },
+        {
+          "user": "janees.elamkulam",
+          "count": 6
+        },
+        {
+          "user": "lucas.uyezu",
+          "count": 5
+        },
+        {
+          "user": "david.scantlebury",
+          "count": 5
+        },
+        {
+          "user": "neelay.shah",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.91,
+      "count": 180,
+      "top_channels": [
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 335
+        },
+        {
+          "channel": "proj-market-change-sets-backend-only",
+          "messages": 74
+        },
+        {
+          "channel": "proj-discounts-eligibility-by-market",
+          "messages": 42
+        },
+        {
+          "channel": "markets-foundations",
+          "messages": 41
+        },
+        {
+          "channel": "markets-platform",
+          "messages": 24
+        },
+        {
+          "channel": "proj-catalog-changesets-for-rollouts",
+          "messages": 17
+        },
+        {
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "messages": 17
+        },
+        {
+          "channel": "rollouts-platform",
+          "messages": 11
+        },
+        {
+          "channel": "proj-markets-and-rollouts",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20019-index-serving---long-lived-shard-online-r",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "daniel.podgornik-3133",
+          "count": 17
+        },
+        {
+          "user": "david.scantlebury",
+          "count": 10
+        },
+        {
+          "user": "john.king",
+          "count": 9
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 7
+        },
+        {
+          "user": "lucas.uyezu",
+          "count": 6
+        },
+        {
+          "user": "iain.wilson",
+          "count": 5
+        },
+        {
+          "user": "francis.pelland",
+          "count": 4
+        },
+        {
+          "user": "asaf.gitai",
+          "count": 4
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 4
+        },
+        {
+          "user": "stewart.parry",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 68,
+      "16": 63,
+      "13": 81,
+      "23": 13,
+      "22": 13,
+      "21": 41,
+      "20": 46,
+      "19": 50,
+      "17": 93,
+      "12": 20,
+      "15": 57,
+      "14": 43,
+      "0": 1,
+      "11": 3
+    },
+    "by_day": {
+      "Wednesday": 147,
+      "Tuesday": 137,
+      "Monday": 88,
+      "Thursday": 111,
+      "Friday": 109
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.89,
+    "dept_average_30d": 4.74,
+    "dept_rank": 214,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "username": "daniel.steuernol",
+  "name": "Daniel Steuernol",
+  "generated_at": "2026-04-08T20:22:21.080598",
+  "summary": {
+    "message_count": 541,
+    "channels_active": 33,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "also <@W018WAV8MCZ> we resolved our mcs issue, so feel free to deploy your changes to `cube-api-rs`",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":dancingtaco: thanks!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U02KL7HPEV7> you are going to need to change the allowed purpose you are calling IGS with, we are locking down essential, and you\u2019ll need to use",
+          "channel": "cep-deprecation-task-force",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so whatever the general cross region latency is between the 2 regions in question, does one of the regions go into read only mode, or is there any",
+          "channel": "shopkv-datainfra",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 36,
+      "top_mentioned": [
+        {
+          "user": "francois.saintjacques",
+          "count": 8
+        },
+        {
+          "user": "jacob.lott",
+          "count": 8
+        },
+        {
+          "user": "eddie.cheung",
+          "count": 4
+        },
+        {
+          "user": "day.levesque",
+          "count": 4
+        },
+        {
+          "user": "timothy.weeks",
+          "count": 3
+        },
+        {
+          "user": "mike.myung",
+          "count": 3
+        },
+        {
+          "user": "gabriel.lacroix",
+          "count": 3
+        },
+        {
+          "user": "connor.clark",
+          "count": 2
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 2
+        },
+        {
+          "user": "emmanuel.delgado",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 407,
+      "top_channels": [
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 88
+        },
+        {
+          "channel": "identity-graph",
+          "messages": 86
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 72
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 53
+        },
+        {
+          "channel": "cep-deprecation-task-force",
+          "messages": 41
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 32
+        },
+        {
+          "channel": "tmp-sbsid-in-identity-graph",
+          "messages": 18
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 17
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 16
+        },
+        {
+          "channel": "proj-real-time-inference-product-network",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.79,
+      "count": 70,
+      "top_mentioners": [
+        {
+          "user": "craigsharpe",
+          "count": 6
+        },
+        {
+          "user": "jacob.lott",
+          "count": 6
+        },
+        {
+          "user": "connor.clark",
+          "count": 6
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 6
+        },
+        {
+          "user": "danieldsj",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 3
+        },
+        {
+          "user": "jacob.dubinsky",
+          "count": 3
+        },
+        {
+          "user": "day.levesque",
+          "count": 3
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 3
+        },
+        {
+          "user": "simon.pearson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 37,
+      "21": 40,
+      "20": 60,
+      "19": 81,
+      "18": 66,
+      "17": 63,
+      "15": 62,
+      "14": 54,
+      "13": 28,
+      "0": 13,
+      "22": 20,
+      "23": 15,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 122,
+      "Tuesday": 126,
+      "Monday": 109,
+      "Friday": 42,
+      "Thursday": 142
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.69,
+    "dept_average_30d": 5.39,
+    "dept_rank": 20,
+    "dept_size": 272
+  }
+}

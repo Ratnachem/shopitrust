@@ -1,0 +1,156 @@
+{
+  "username": "cindy.s.li",
+  "name": "Cindy S Li",
+  "generated_at": "2026-04-08T20:22:07.414251",
+  "summary": {
+    "message_count": 43,
+    "channels_active": 7,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 5,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<https://github.com/Shopify/shop-ml/pull/17164> sorry about that, this should fix it",
+          "channel": "shop-p13n-ml-alerts-production",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! the user dislikes run is working",
+          "channel": "recommendations-infra-ops-staging",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "recommendations-infra-ops-staging",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you river ily",
+          "channel": "shinta-empress-walk-meetup",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.38,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "ahmed.dawod",
+          "count": 2
+        },
+        {
+          "user": "rich.chen",
+          "count": 1
+        },
+        {
+          "user": "alex.allaire",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.06,
+      "count": 52,
+      "top_channels": [
+        {
+          "channel": "recommendations-infra-ops",
+          "messages": 26
+        },
+        {
+          "channel": "recommendations-infra-ops-staging",
+          "messages": 5
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 4
+        },
+        {
+          "channel": "shop-p13n-ml-alerts-production",
+          "messages": 3
+        },
+        {
+          "channel": "jason-and-co-river",
+          "messages": 2
+        },
+        {
+          "channel": "shinta-empress-walk-meetup",
+          "messages": 2
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.4,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "alex.allaire",
+          "count": 6
+        },
+        {
+          "user": "rich.chen",
+          "count": 2
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 1
+        },
+        {
+          "user": "jerry.wang",
+          "count": 1
+        },
+        {
+          "user": "benjamin.allevius",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 3,
+      "17": 6,
+      "20": 10,
+      "19": 8,
+      "22": 7,
+      "21": 2,
+      "16": 1,
+      "15": 4,
+      "13": 2
+    },
+    "by_day": {
+      "Wednesday": 11,
+      "Monday": 6,
+      "Friday": 9,
+      "Thursday": 13,
+      "Tuesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.32,
+    "dept_average_30d": 4.74,
+    "dept_rank": 969,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "username": "phil.boyd",
+  "name": "Phil Boyd",
+  "generated_at": "2026-04-08T20:22:06.266671",
+  "summary": {
+    "message_count": 267,
+    "channels_active": 24,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02UJ8R1PB8>",
+          "channel": "help-observability",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I think they're all good now, for that cluster at least. I did a few spots checks",
+          "channel": "inv-19986-some-mcs-addresses-are-not-getting-create",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "aditya.sharma",
+          "count": 5
+        },
+        {
+          "user": "celina.assal",
+          "count": 4
+        },
+        {
+          "user": "charlieallan",
+          "count": 2
+        },
+        {
+          "user": "darren.foo",
+          "count": 2
+        },
+        {
+          "user": "jenny.shen",
+          "count": 1
+        },
+        {
+          "user": "sam.obeid",
+          "count": 1
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 1
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 1
+        },
+        {
+          "user": "sam.handler",
+          "count": 1
+        },
+        {
+          "user": "akin.shonibare",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.01,
+      "count": 238,
+      "top_channels": [
+        {
+          "channel": "job-platform-team",
+          "messages": 51
+        },
+        {
+          "channel": "job-platform-alerts",
+          "messages": 36
+        },
+        {
+          "channel": "inv-19986-some-mcs-addresses-are-not-getting-create",
+          "messages": 29
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 22
+        },
+        {
+          "channel": "inc-20003-redis-errors-in-core",
+          "messages": 21
+        },
+        {
+          "channel": "inc-19967-melody-hedwig-out-of-memory",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "messages": 14
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 13
+        },
+        {
+          "channel": "proj-tarantool-job-platform",
+          "messages": 12
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 9
+        },
+        {
+          "user": "jia.wang",
+          "count": 9
+        },
+        {
+          "user": "charlieallan",
+          "count": 3
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 3
+        },
+        {
+          "user": "james.hall",
+          "count": 2
+        },
+        {
+          "user": "chris.maltais",
+          "count": 2
+        },
+        {
+          "user": "sander.verdonschot",
+          "count": 2
+        },
+        {
+          "user": "denis.ivanov",
+          "count": 1
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 1
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 45,
+      "17": 33,
+      "15": 13,
+      "14": 24,
+      "13": 28,
+      "12": 16,
+      "19": 27,
+      "21": 17,
+      "20": 16,
+      "16": 12,
+      "22": 7,
+      "23": 22,
+      "11": 3,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 138,
+      "Tuesday": 56,
+      "Monday": 34,
+      "Friday": 15,
+      "Thursday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.83,
+    "dept_average_30d": 5.75,
+    "dept_rank": 146,
+    "dept_size": 357
+  }
+}

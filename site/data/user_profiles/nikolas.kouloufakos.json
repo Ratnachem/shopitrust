@@ -1,0 +1,218 @@
+{
+  "username": "nikolas.kouloufakos",
+  "name": "Nikolas Kouloufakos",
+  "generated_at": "2026-04-08T20:22:29.853077",
+  "summary": {
+    "message_count": 110,
+    "channels_active": 11,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "Hey!  Since I\u2019ll be gone for the next week and a half there are 2 project pieces I have open and unfortunately didn\u2019t ship yesterday that I would be",
+          "channel": "proj-data-platform-privacy-infra-central",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "I\u2019ve learned about how TF tracks state thanks to Claude.  I think really the reason I\u2019m so lost on how to resolve this drift is that I need to know",
+          "channel": "help-trust-assurance",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi!  The privacy eng team used to use some resource in sdp-dlp-admin, but we no longer need to, so I\u2019m looking to remove all our iam bindings and",
+          "channel": "help-trust-assurance",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Hey I removed and reader my badge but I'm still locked out of Ottawa port.  Can I have some help please?",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I addressed the feedback on the <https://github.com/Shopify/accio/pull/11311|GSO removal PR>, if anyone has a cycle today, please feel free to ship",
+          "channel": "proj-data-platform-privacy-infra-central",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Doesn't matter to me whatever's easier :)",
+          "channel": "proj-data-platform-privacy-infra-central",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "barbara.evangelista",
+          "count": 1
+        },
+        {
+          "user": "scott.jensen",
+          "count": 1
+        },
+        {
+          "user": "chris.c.snyder",
+          "count": 1
+        },
+        {
+          "user": "luka.grahek",
+          "count": 1
+        },
+        {
+          "user": "dennis",
+          "count": 1
+        },
+        {
+          "user": "jamesk.lee",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.27,
+      "count": 146,
+      "top_channels": [
+        {
+          "channel": "proj-data-platform-privacy-infra-central",
+          "messages": 49
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 30
+        },
+        {
+          "channel": "pi",
+          "messages": 10
+        },
+        {
+          "channel": "privacy-ops",
+          "messages": 6
+        },
+        {
+          "channel": "gitstream",
+          "messages": 5
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 4
+        },
+        {
+          "channel": "help-trust-assurance",
+          "messages": 2
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 1
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 1
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.17,
+      "count": 20,
+      "top_mentioners": [
+        {
+          "user": "travis.hartwell",
+          "count": 3
+        },
+        {
+          "user": "luka.grahek",
+          "count": 2
+        },
+        {
+          "user": "sachin.patel",
+          "count": 2
+        },
+        {
+          "user": "jamesk.lee",
+          "count": 2
+        },
+        {
+          "user": "joel.gerber",
+          "count": 1
+        },
+        {
+          "user": "tascha.douglas",
+          "count": 1
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        },
+        {
+          "user": "xiao.li",
+          "count": 1
+        },
+        {
+          "user": "marisa.sievers",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 20,
+      "20": 8,
+      "19": 21,
+      "18": 11,
+      "14": 11,
+      "15": 11,
+      "16": 16,
+      "13": 1,
+      "21": 5,
+      "1": 1,
+      "23": 2,
+      "22": 3
+    },
+    "by_day": {
+      "Friday": 19,
+      "Thursday": 35,
+      "Tuesday": 10,
+      "Monday": 24,
+      "Wednesday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.92,
+    "dept_average_30d": 5.39,
+    "dept_rank": 73,
+    "dept_size": 272
+  }
+}

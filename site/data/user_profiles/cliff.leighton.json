@@ -1,0 +1,229 @@
+{
+  "username": "cliff.leighton",
+  "name": "Cliff Leighton",
+  "generated_at": "2026-04-08T20:22:22.383517",
+  "summary": {
+    "message_count": 281,
+    "channels_active": 32,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll deploy this tomorrow morning",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "My original PR <https://github.com/Shopify/data-warehouse/pull/42713|42713> was going to do the whole version bump for v2 intermediate and domain",
+          "channel": "dw-merchandising-domain",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Those downstream models are in the PR description, but most are listed as not impacted by Pi. However, after spot checking a few models that are",
+          "channel": "taxes-data",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Some slot consumption statistics courtesy of Pi :pi-symbol: for the 2 full days of comparison after `shop_currency_history` was flipped to require",
+          "channel": "ae-costs-theme",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "Kudos!",
+          "channel": "help-operate-data",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "trish.gillett",
+          "count": 9
+        },
+        {
+          "user": "stacey.smolash",
+          "count": 4
+        },
+        {
+          "user": "akanksha",
+          "count": 3
+        },
+        {
+          "user": "lin.taylor",
+          "count": 2
+        },
+        {
+          "user": "hussein.patni",
+          "count": 2
+        },
+        {
+          "user": "john.behm",
+          "count": 2
+        },
+        {
+          "user": "kennedy.murphy",
+          "count": 1
+        },
+        {
+          "user": "dimitar.panayotov",
+          "count": 1
+        },
+        {
+          "user": "jill.cates",
+          "count": 1
+        },
+        {
+          "user": "alex.carvalho",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.56,
+      "count": 373,
+      "top_channels": [
+        {
+          "channel": "help-data-warehouse",
+          "messages": 52
+        },
+        {
+          "channel": "dw-accounts-admin-monitoring",
+          "messages": 52
+        },
+        {
+          "channel": "proj-data-platform-enforce-partition-filters",
+          "messages": 42
+        },
+        {
+          "channel": "ae-costs-theme",
+          "messages": 21
+        },
+        {
+          "channel": "dw-merchandising-domain",
+          "messages": 15
+        },
+        {
+          "channel": "taxes-data",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20196-dw-prod-job-failures-related-to-stale-man",
+          "messages": 11
+        },
+        {
+          "channel": "dw-finance-monitoring",
+          "messages": 7
+        },
+        {
+          "channel": "help-operate-data",
+          "messages": 7
+        },
+        {
+          "channel": "compacabana-data-monitoring",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "taher.elsheikh",
+          "count": 6
+        },
+        {
+          "user": "kristie.ching",
+          "count": 6
+        },
+        {
+          "user": "stacey.smolash",
+          "count": 5
+        },
+        {
+          "user": "lin.taylor",
+          "count": 5
+        },
+        {
+          "user": "blake.ordway",
+          "count": 4
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 3
+        },
+        {
+          "user": "akanksha",
+          "count": 3
+        },
+        {
+          "user": "wilson.becker",
+          "count": 3
+        },
+        {
+          "user": "asad.jaffery",
+          "count": 3
+        },
+        {
+          "user": "vitor.falleiros",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 44,
+      "18": 21,
+      "17": 9,
+      "16": 22,
+      "20": 22,
+      "19": 23,
+      "14": 35,
+      "21": 13,
+      "13": 30,
+      "12": 30,
+      "22": 7,
+      "11": 2,
+      "0": 4,
+      "23": 13,
+      "1": 6
+    },
+    "by_day": {
+      "Wednesday": 54,
+      "Tuesday": 83,
+      "Monday": 40,
+      "Friday": 37,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.34,
+    "dept_average_30d": 5.39,
+    "dept_rank": 44,
+    "dept_size": 272
+  }
+}

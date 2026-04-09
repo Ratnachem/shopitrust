@@ -1,0 +1,287 @@
+{
+  "username": "max.bernstein",
+  "name": "Max Bernstein",
+  "generated_at": "2026-04-08T20:22:08.315558",
+  "summary": {
+    "message_count": 352,
+    "channels_active": 18,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for putting this together",
+          "channel": "ruby-jit",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah bummer. thank you for checking",
+          "channel": "ruby-jit",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "I am excited for when it does",
+          "channel": "observability-profiling",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "ruby-jit",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Kevin for putting that together. I think it went really well.",
+          "channel": "ruby-jit",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. We want to avoid situations like this where we go straight open-&gt;closed and also it helps socialize design ideas with the team",
+          "channel": "ruby-jit",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Hell yeah this is so sick. Nice job!!",
+          "channel": "ruby-jit",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh that's what was going on!!! Thank you so much",
+          "channel": "team-ruby-infra",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the update. I really appreciate it",
+          "channel": "inv-20437-failing-testing-pipelines",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thank you for the update. I really appreciate it",
+          "channel": "inv-20437-failing-testing-pipelines",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever it is I strongly prefer we do not move the assertion about terminators at end of blocks. I was going to ratchet it up to more strict -",
+          "channel": "ruby-jit",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Let me see if I can figure it out",
+          "channel": "shared-shopify-anthropic",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever happened to the long bisect?",
+          "channel": "ruby-jit",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "aaron.patterson",
+          "count": 5
+        },
+        {
+          "user": "randy.stauner",
+          "count": 3
+        },
+        {
+          "user": "alansi.xingwu",
+          "count": 2
+        },
+        {
+          "user": "takashi.kokubun",
+          "count": 2
+        },
+        {
+          "user": "john.hawthorn",
+          "count": 1
+        },
+        {
+          "user": "nikita.vasilevsky",
+          "count": 1
+        },
+        {
+          "user": "nickolas.means",
+          "count": 1
+        },
+        {
+          "user": "kevin.menard",
+          "count": 1
+        },
+        {
+          "user": "jacob.denbeaux",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.24,
+      "count": 112,
+      "top_channels": [
+        {
+          "channel": "ruby-jit",
+          "messages": 209
+        },
+        {
+          "channel": "team-ruby-infra",
+          "messages": 40
+        },
+        {
+          "channel": "inv-20437-failing-testing-pipelines",
+          "messages": 16
+        },
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 12
+        },
+        {
+          "channel": "shared-shopify-anthropic",
+          "messages": 12
+        },
+        {
+          "channel": "ruby-bench-ci",
+          "messages": 11
+        },
+        {
+          "channel": "open-source",
+          "messages": 9
+        },
+        {
+          "channel": "shared-ruby-jit",
+          "messages": 8
+        },
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 6
+        },
+        {
+          "channel": "jumbos",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.29,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "aaron.patterson",
+          "count": 2
+        },
+        {
+          "user": "gannon.mcgibbon",
+          "count": 1
+        },
+        {
+          "user": "leonardo.pereira",
+          "count": 1
+        },
+        {
+          "user": "takashi.kokubun",
+          "count": 1
+        },
+        {
+          "user": "abdulrahman.alhamali",
+          "count": 1
+        },
+        {
+          "user": "john.hawthorn",
+          "count": 1
+        },
+        {
+          "user": "hartley.mcguire",
+          "count": 1
+        },
+        {
+          "user": "adrianna.chang",
+          "count": 1
+        },
+        {
+          "user": "matt.valentinehouse",
+          "count": 1
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 36,
+      "17": 49,
+      "16": 49,
+      "3": 6,
+      "22": 13,
+      "21": 15,
+      "20": 52,
+      "15": 20,
+      "19": 30,
+      "14": 17,
+      "13": 9,
+      "4": 5,
+      "2": 9,
+      "1": 4,
+      "0": 20,
+      "23": 13,
+      "12": 1,
+      "11": 2,
+      "5": 1,
+      "6": 1
+    },
+    "by_day": {
+      "Wednesday": 61,
+      "Tuesday": 54,
+      "Monday": 43,
+      "Friday": 105,
+      "Thursday": 89
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 7.99,
+    "dept_average_30d": 5.75,
+    "dept_rank": 13,
+    "dept_size": 357
+  }
+}

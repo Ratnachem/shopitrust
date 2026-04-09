@@ -1,0 +1,281 @@
+{
+  "username": "nathan.ferguson",
+  "name": "Nathan Ferguson",
+  "generated_at": "2026-04-08T20:22:05.868797",
+  "summary": {
+    "message_count": 689,
+    "channels_active": 20,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks: I have a question about <https://vault.shopify.io/teams/2238-DevTools/docs/dev-platform/cli/Releasing|CLI release schedule> (let me know",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018303HP9D> feel free to commit the changes to the branch :slightly_smiling_face:",
+          "channel": "proj-simplify-theme-colors",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02JHDCA52Q> I really appreciate you checking :slightly_smiling_face:",
+          "channel": "horizon-theme-releases",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":fyi: The theme update incident is now resolved. <https://incidents.shopify.io/incidents/20656> Thank you <@U020HKQLBMJ> and",
+          "channel": "proj-horizon-theme",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "cc <@U07H5QT9KAR> let me know if I'm misunderstanding something, and I'd appreciate a tophat review to show me where I may have missed things in",
+          "channel": "proj-simplify-theme-colors",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\n horizon git:(develop) gt init --trunk develop\nReinitializing Graphite...\n\nTrunk set to develop\n\n\ntip: If you have an existing branch",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\nThis is what I see\n\n```Are you sure you want to re-initialize Graphite with develop as the only trunk? \u2026 yes\nTrunk set to",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U020HKQLBMJ> there is an ongoing issue with theme updates where information from `config/settings_data.json` is being removed; so merchants lose",
+          "channel": "proj-simplify-theme-colors",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": ":ship-1: Version 3.5.0 is currently available in the Theme Store and <https://themes.shopify.com/services/internal/upgrades_queue|auto-updates are",
+          "channel": "horizon-theme-releases",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018304KQET> I've pinged the folks in the <#C08867ZAXQR> to see if we can get some Editor expertise. Feel free to follow-up there",
+          "channel": "help-theme-platform",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I took a look at <https://drive.google.com/file/d/12ppc9XlOHiEdvoJIJilHTpGAQSUfaZ0h/view?usp=sharing|the video link>.  So the quick-add button will",
+          "channel": "proj-horizon-theme",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok, I looked at their `settings_data.json` and it seems like whatever \"tiny SEO\" is just wiped out all their colors, fonts, stc. `current` is empty",
+          "channel": "horizon-theme-releases",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "arthur.demurger",
+          "count": 34
+        },
+        {
+          "user": "ivan.reyes",
+          "count": 24
+        },
+        {
+          "user": "paqui.calabria",
+          "count": 20
+        },
+        {
+          "user": "antoine.gagnon",
+          "count": 18
+        },
+        {
+          "user": "fran.dios",
+          "count": 18
+        },
+        {
+          "user": "tyler.alsbury",
+          "count": 15
+        },
+        {
+          "user": "lucy.xiang",
+          "count": 14
+        },
+        {
+          "user": "drew.rothrock",
+          "count": 11
+        },
+        {
+          "user": "nick.lepine",
+          "count": 10
+        },
+        {
+          "user": "dimitar.panov",
+          "count": 7
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.5,
+      "count": 264,
+      "top_channels": [
+        {
+          "channel": "horizon-theme-releases",
+          "messages": 126
+        },
+        {
+          "channel": "proj-simplify-theme-colors",
+          "messages": 95
+        },
+        {
+          "channel": "river-nf",
+          "messages": 86
+        },
+        {
+          "channel": "proj-horizon-theme",
+          "messages": 83
+        },
+        {
+          "channel": "proj-standardized-events",
+          "messages": 73
+        },
+        {
+          "channel": "online-store-developer-platforms",
+          "messages": 54
+        },
+        {
+          "channel": "proj-liquid-content-subsetting",
+          "messages": 38
+        },
+        {
+          "channel": "help-theme-platform",
+          "messages": 35
+        },
+        {
+          "channel": "shop-pay-installments-dev",
+          "messages": 22
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 81,
+      "top_mentioners": [
+        {
+          "user": "ivan.reyes",
+          "count": 7
+        },
+        {
+          "user": "arthur.demurger",
+          "count": 7
+        },
+        {
+          "user": "bashu.naimiroy",
+          "count": 6
+        },
+        {
+          "user": "fran.dios",
+          "count": 5
+        },
+        {
+          "user": "paqui.calabria",
+          "count": 5
+        },
+        {
+          "user": "tyler.alsbury",
+          "count": 5
+        },
+        {
+          "user": "andrey.soloviev",
+          "count": 5
+        },
+        {
+          "user": "lucy.xiang",
+          "count": 5
+        },
+        {
+          "user": "dan.rosenthal",
+          "count": 4
+        },
+        {
+          "user": "stephanie.chou",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 82,
+      "17": 56,
+      "15": 103,
+      "14": 81,
+      "13": 44,
+      "19": 88,
+      "16": 63,
+      "3": 13,
+      "2": 15,
+      "1": 19,
+      "20": 77,
+      "21": 23,
+      "23": 1,
+      "6": 2,
+      "0": 10,
+      "4": 10,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 122,
+      "Tuesday": 196,
+      "Monday": 109,
+      "Thursday": 124,
+      "Friday": 138
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.57,
+    "dept_average_30d": 5.79,
+    "dept_rank": 158,
+    "dept_size": 1233
+  }
+}

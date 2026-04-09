@@ -1,0 +1,237 @@
+{
+  "username": "claude.mendelson",
+  "name": "Claude Mendelson",
+  "generated_at": "2026-04-08T20:22:14.087428",
+  "summary": {
+    "message_count": 555,
+    "channels_active": 34,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.3,
+      "pos_count": 3,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "ai-security",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "you know what, I was wrong, we still need nginx ingress on the old clusters.",
+          "channel": "proj-infra-gke-ledger-cluster",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":green_heart: thank you for your help",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U0AEPQCKB3M> example(\u201cmyaccount\u201d, \u201cAuto-matches the \u2018myaccount\u2019 AWS account if it exists\u201d) this is stupid.",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I\u2019m so confused <@W018HUP0MFD>.  I think I pushed a tag that tags shop/tigerbeetle at 0.16.77 which is our version with whatever patches you",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I had the robot pull out interesting things/action items.\n\n``` All performance numbers and catch-up times are approximate. The test topology (2 nodes",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "riley.shott",
+          "count": 8
+        },
+        {
+          "user": "brandon.horn",
+          "count": 8
+        },
+        {
+          "user": "sofia.qureshi",
+          "count": 8
+        },
+        {
+          "user": "devon.boyer",
+          "count": 7
+        },
+        {
+          "user": "chris.salzberg",
+          "count": 6
+        },
+        {
+          "user": "mazen.alhagri",
+          "count": 4
+        },
+        {
+          "user": "brian.warsing",
+          "count": 4
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 4
+        },
+        {
+          "user": "tom.rochette",
+          "count": 3
+        },
+        {
+          "user": "arun.kumar",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 406,
+      "top_channels": [
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 170
+        },
+        {
+          "channel": "proj-infra-gke-ledger-cluster",
+          "messages": 72
+        },
+        {
+          "channel": "claude-river",
+          "messages": 53
+        },
+        {
+          "channel": "shopify-ledger-dev",
+          "messages": 50
+        },
+        {
+          "channel": "proj-payments-tigerbeetle-self-host",
+          "messages": 38
+        },
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 30
+        },
+        {
+          "channel": "help-ris",
+          "messages": 26
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 22
+        },
+        {
+          "channel": "threepointonefouronefivenine",
+          "messages": 16
+        },
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 86,
+      "top_mentioners": [
+        {
+          "user": "chris.salzberg",
+          "count": 18
+        },
+        {
+          "user": "brian.warsing",
+          "count": 7
+        },
+        {
+          "user": "devon.boyer",
+          "count": 6
+        },
+        {
+          "user": "tom.rochette",
+          "count": 6
+        },
+        {
+          "user": "mazen.alhagri",
+          "count": 5
+        },
+        {
+          "user": "sofia.qureshi",
+          "count": 5
+        },
+        {
+          "user": "brandon.horn",
+          "count": 4
+        },
+        {
+          "user": "riley.shott",
+          "count": 4
+        },
+        {
+          "user": "charlieallan",
+          "count": 3
+        },
+        {
+          "user": "anas.shahid",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 112,
+      "17": 67,
+      "20": 64,
+      "15": 37,
+      "11": 5,
+      "1": 7,
+      "0": 12,
+      "22": 6,
+      "14": 60,
+      "12": 28,
+      "21": 32,
+      "19": 49,
+      "13": 37,
+      "2": 2,
+      "16": 37
+    },
+    "by_day": {
+      "Wednesday": 158,
+      "Tuesday": 125,
+      "Monday": 86,
+      "Friday": 92,
+      "Thursday": 94
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.9,
+    "dept_average_30d": 5.75,
+    "dept_rank": 27,
+    "dept_size": 357
+  }
+}

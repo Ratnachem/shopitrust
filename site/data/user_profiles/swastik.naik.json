@@ -1,0 +1,263 @@
+{
+  "username": "swastik.naik",
+  "name": "Swastik Naik",
+  "generated_at": "2026-04-08T20:22:29.124144",
+  "summary": {
+    "message_count": 336,
+    "channels_active": 23,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-it",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations <@W01B22UD41E>!!!",
+          "channel": "cx-rnd-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations <@U030VM69NP5> !!! Well deserved!!!",
+          "channel": "cx-rnd-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to run it :high5:",
+          "channel": "cx-oncalls",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! (Nothing should break, but I wanted support core to go before beacon)",
+          "channel": "cx-oncalls",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Looking for a review on this PR for <https://github.com/shop/issues-cx-rnd/issues/4897|Exclude high-touch tiered merchants from auto-close/auto-wrap>",
+          "channel": "cx-tooling-code-review",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Looking for reviews on a small stacked PR series for <https://github.com/shop/issues-cx-rnd/issues/4900|Update inactivity warning to 7 min and",
+          "channel": "cx-tooling-code-review",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; Unless it is fetching by user_id, otherwise should be the same.\nNice, okay thanks! we only rely on Shop Account UUID",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave-frog: Quick Question, Do projects that fetch buyer information using Shop Server's GRPC endpoint need to make any change? (Specifically,",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "KMB needs to stand on its own. Any more logic that what we already have right now means IHC will need to kept alive. Right now the redirect is",
+          "channel": "tmp-cx-tooling-q1-2026-ny-burst-kill-ihc",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "justin.flick",
+          "count": 7
+        },
+        {
+          "user": "kyle.benk",
+          "count": 3
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 3
+        },
+        {
+          "user": "abdi.yusuf",
+          "count": 3
+        },
+        {
+          "user": "pierreluc.godin",
+          "count": 2
+        },
+        {
+          "user": "jordan.raitses",
+          "count": 2
+        },
+        {
+          "user": "justin.c.reid",
+          "count": 2
+        },
+        {
+          "user": "alyssa.dong",
+          "count": 2
+        },
+        {
+          "user": "shannon.barfoot",
+          "count": 2
+        },
+        {
+          "user": "jose.sandoya",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.42,
+      "count": 260,
+      "top_channels": [
+        {
+          "channel": "cx-oncalls",
+          "messages": 48
+        },
+        {
+          "channel": "tmp-cx-tooling-q1-2026-ny-burst-kill-ihc",
+          "messages": 46
+        },
+        {
+          "channel": "cx-tooling-team",
+          "messages": 43
+        },
+        {
+          "channel": "cx-river",
+          "messages": 34
+        },
+        {
+          "channel": "help-it",
+          "messages": 29
+        },
+        {
+          "channel": "cx-tooling-code-review",
+          "messages": 27
+        },
+        {
+          "channel": "help-cx-rnd",
+          "messages": 23
+        },
+        {
+          "channel": "cx-resiliency",
+          "messages": 14
+        },
+        {
+          "channel": "ai-smileyset-bots",
+          "messages": 11
+        },
+        {
+          "channel": "cx-rnd-team",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.44,
+      "count": 57,
+      "top_mentioners": [
+        {
+          "user": "ali.inay",
+          "count": 7
+        },
+        {
+          "user": "joy.ekuta",
+          "count": 6
+        },
+        {
+          "user": "justin.flick",
+          "count": 5
+        },
+        {
+          "user": "murdo.connochie",
+          "count": 4
+        },
+        {
+          "user": "jose.sandoya",
+          "count": 4
+        },
+        {
+          "user": "lokansh.rai",
+          "count": 3
+        },
+        {
+          "user": "bill.brower",
+          "count": 3
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 3
+        },
+        {
+          "user": "keegan.tennant",
+          "count": 3
+        },
+        {
+          "user": "kyle.benk",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 24,
+      "17": 37,
+      "16": 34,
+      "15": 47,
+      "14": 56,
+      "13": 32,
+      "12": 9,
+      "4": 3,
+      "23": 1,
+      "22": 5,
+      "21": 15,
+      "19": 34,
+      "18": 39
+    },
+    "by_day": {
+      "Monday": 75,
+      "Friday": 33,
+      "Thursday": 80,
+      "Wednesday": 92,
+      "Tuesday": 56
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.58,
+    "dept_average_30d": 5.58,
+    "dept_rank": 41,
+    "dept_size": 398
+  }
+}

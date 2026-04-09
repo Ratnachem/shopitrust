@@ -1,0 +1,104 @@
+{
+  "username": "kurl.lingat",
+  "name": "Kurl Lingat",
+  "generated_at": "2026-04-08T20:22:32.040815",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 18,
+    "days_scale": 0.78
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@W01CPTVAT0Q> sorry for the mention, just checking if you can still assist me on this thread. I updated it with the field you referenced, but",
+          "channel": "help-flow",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W01CPTVAT0Q> sorry for the mention, just checking if you can still assist me on this thread. I updated it with the field you referenced, but",
+          "channel": "help-flow",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you, Jeff. I'll have this relay to the merchant.",
+          "channel": "help-flow",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Jeff. Need your little assistance here, where can I correct that? I have authorization from merchant to modify this flow:",
+          "channel": "help-flow",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.58,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "jeff.armstrong",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-flow",
+          "messages": 8
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.27,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "jeff.armstrong",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 3,
+      "18": 2,
+      "10": 3,
+      "16": 2
+    },
+    "by_day": {
+      "Monday": 4,
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.81,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1345,
+    "dept_size": 1663
+  }
+}

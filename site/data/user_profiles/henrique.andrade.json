@@ -1,0 +1,291 @@
+{
+  "username": "henrique.andrade",
+  "name": "Henrique Andrade",
+  "generated_at": "2026-04-08T20:22:21.385333",
+  "summary": {
+    "message_count": 1011,
+    "channels_active": 41,
+    "unique_people_mentioned": 107,
+    "unique_mentioners": 106,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 9,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "btw, I have admin access, so happy to help",
+          "channel": "proj-monorepo-migration-automation",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Or feel free to create a PR for me and we will merge it directly",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "As far as I know (feel free to follow the thread) `core` developers have not yet fixed all of the issues - also, if you take a look at my post, you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "again, conflict detection is a point in time thingie - so it happens at multiple stages - at pr time, at batching time, at merge time\n\nso do you want",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "A merge conflict is a point in time detection - as the codebase shifts. Given that, I am not sure what kind of assistance you're asking here...\n\nOne",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Yeah, without a PR and more context, I don't know that I can help you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yeah, my bad",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!here> if you are seeing `LoggingUpdate` failures in your pipelines, feel free to retry them - so far it appears that a branch pushed a bunch of",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yes you could do what you found above - however, I can suggest something else.\n\nThe way I would do this - heavy ymmv disclaimer (I didn't try it",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<!here> :world: :github: :alarm-siren: :point_up_2::skin-tone-2: On GitHub's request I will be pausing the MQ for an hour (you can continue to submit",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Mine is 40 files but pretty much all with 1 line changes.\nso that's the \"fun\" part - \"this is a perennial issue with GitHub\", I mentioned above.",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "In your case, if you don't care about the history you can do this via a single PR?",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Yes, so when it's in world-next you should have seen the failure, did you not?",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "The change _might_ not solve everything for every workflow, but that change is still the right thing to do because it lowers the need for useless",
+          "channel": "inv-19932-high-number-github-action-runs-in-pending",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 108,
+      "top_mentioned": [
+        {
+          "user": "chao.duan",
+          "count": 30
+        },
+        {
+          "user": "xiaodong.fan",
+          "count": 11
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 9
+        },
+        {
+          "user": "evan.lee",
+          "count": 9
+        },
+        {
+          "user": "ahmed.ismail",
+          "count": 8
+        },
+        {
+          "user": "moumen.khadr",
+          "count": 8
+        },
+        {
+          "user": "thad.craft",
+          "count": 7
+        },
+        {
+          "user": "travis.a.smith",
+          "count": 7
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 6
+        },
+        {
+          "user": "adam.shepley",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.24,
+      "count": 303,
+      "top_channels": [
+        {
+          "channel": "world-monorepo",
+          "messages": 506
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 146
+        },
+        {
+          "channel": "team-ci",
+          "messages": 46
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 40
+        },
+        {
+          "channel": "gitstream",
+          "messages": 30
+        },
+        {
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "messages": 28
+        },
+        {
+          "channel": "tmp-merge-commits",
+          "messages": 24
+        },
+        {
+          "channel": "inv-19932-high-number-github-action-runs-in-pending",
+          "messages": 19
+        },
+        {
+          "channel": "proj-monorepo-migration-automation",
+          "messages": 15
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 363,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 60
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 23
+        },
+        {
+          "user": "xiao.li",
+          "count": 19
+        },
+        {
+          "user": "ashley.williams",
+          "count": 17
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 16
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 14
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 10
+        },
+        {
+          "user": "evan.lee",
+          "count": 10
+        },
+        {
+          "user": "thad.craft",
+          "count": 9
+        },
+        {
+          "user": "xiaodong.fan",
+          "count": 8
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 135,
+      "14": 121,
+      "13": 95,
+      "22": 84,
+      "21": 110,
+      "20": 97,
+      "19": 52,
+      "18": 69,
+      "17": 122,
+      "16": 114,
+      "0": 4,
+      "23": 5,
+      "1": 3
+    },
+    "by_day": {
+      "Wednesday": 352,
+      "Tuesday": 222,
+      "Friday": 146,
+      "Thursday": 168,
+      "Monday": 123
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 9.21,
+    "dept_average_30d": 5.75,
+    "dept_rank": 7,
+    "dept_size": 357
+  }
+}

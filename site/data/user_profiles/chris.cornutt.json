@@ -1,0 +1,185 @@
+{
+  "username": "chris.cornutt",
+  "name": "Chris Cornutt",
+  "generated_at": "2026-04-08T20:22:18.019744",
+  "summary": {
+    "message_count": 94,
+    "channels_active": 10,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":woohooo: excellent, thank you",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Would it be possible to get some eyes on this PR today? <https://github.com/Shopify/appsec-ai/pull/613>\nHappy to answer whatever questions...",
+          "channel": "proj-appsec-ai",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "mar.lopez",
+          "count": 11
+        },
+        {
+          "user": "felipe.saez",
+          "count": 8
+        },
+        {
+          "user": "jay.dancer",
+          "count": 1
+        },
+        {
+          "user": "francois.campeau",
+          "count": 1
+        },
+        {
+          "user": "joe.basirico",
+          "count": 1
+        },
+        {
+          "user": "zack.deveau",
+          "count": 1
+        },
+        {
+          "user": "danilo.barboza",
+          "count": 1
+        },
+        {
+          "user": "carina.oortmangerlings",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.94,
+      "count": 104,
+      "top_channels": [
+        {
+          "channel": "proj-appsec-ai",
+          "messages": 59
+        },
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 14
+        },
+        {
+          "channel": "proj-security-reviews-rework",
+          "messages": 6
+        },
+        {
+          "channel": "ccornutt-test",
+          "messages": 5
+        },
+        {
+          "channel": "help-vault",
+          "messages": 3
+        },
+        {
+          "channel": "help-it",
+          "messages": 3
+        },
+        {
+          "channel": "proj-appsec-vault-cleanup",
+          "messages": 1
+        },
+        {
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "messages": 1
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 1
+        },
+        {
+          "channel": "devs-ask-quick-questions",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "mar.lopez",
+          "count": 7
+        },
+        {
+          "user": "vithusha.ravirajan",
+          "count": 1
+        },
+        {
+          "user": "ben.maynard",
+          "count": 1
+        },
+        {
+          "user": "jay.dancer",
+          "count": 1
+        },
+        {
+          "user": "guillaume.jacques",
+          "count": 1
+        },
+        {
+          "user": "felipe.saez",
+          "count": 1
+        },
+        {
+          "user": "zack.deveau",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 8,
+      "14": 20,
+      "18": 4,
+      "16": 22,
+      "21": 4,
+      "20": 14,
+      "15": 10,
+      "19": 2,
+      "12": 2,
+      "23": 1,
+      "13": 7
+    },
+    "by_day": {
+      "Wednesday": 33,
+      "Tuesday": 14,
+      "Monday": 21,
+      "Thursday": 24,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.81,
+    "dept_average_30d": 4.89,
+    "dept_rank": 110,
+    "dept_size": 237
+  }
+}

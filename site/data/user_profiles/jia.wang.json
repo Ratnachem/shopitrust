@@ -1,0 +1,272 @@
+{
+  "username": "jia.wang",
+  "name": "Jia Wang",
+  "generated_at": "2026-04-08T20:22:22.875493",
+  "summary": {
+    "message_count": 423,
+    "channels_active": 17,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.3,
+      "pos_count": 23,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U030ZHMNDBM> Thanks! I think you're right, it's a metric hiccup",
+          "channel": "inv-20718-investigation",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Morning everyone,\nI'm excited to share some updates from the app store resiliency project that <@U03LLC4MG5S> and I had been working on.\n\n*First, I",
+          "channel": "app-store-devs",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ooh, thank you!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That makes sense, thanks!",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it. Thank you!",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018WBHMCCR> <@U0271QM45L6> thank you both!\nCanary is finally working, it was a configuration change to ensure no pods with stale code stays active",
+          "channel": "app-store-atc-deploy",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for being flexible!",
+          "channel": "app-store-atc-deploy",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "you're right, i was looking at the wrong time. :facepalm-w:\nThanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I merged the draft PR with the latest, please take a look and let me know if there's any issues.\n\nFor context, app store has 3 clusters (beside of",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018AV39JMC> here's the PR to move app store canary to its own namespace: <https://app.graphite.com/github/pr/Shopify/infrastructure/36769> Please",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "On another hand, I sent Pi to a loop yesterday while troubleshooting some bug.\nPi: It's the concurrency limit.. wait no it can't be since you said",
+          "channel": "app-store-devs",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 49,
+      "top_mentioned": [
+        {
+          "user": "jennifer.miller",
+          "count": 15
+        },
+        {
+          "user": "kurt.peters",
+          "count": 12
+        },
+        {
+          "user": "miller.hall",
+          "count": 11
+        },
+        {
+          "user": "haozhi.liao",
+          "count": 11
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 9
+        },
+        {
+          "user": "james.hall",
+          "count": 9
+        },
+        {
+          "user": "phil.boyd",
+          "count": 9
+        },
+        {
+          "user": "danny.garcia",
+          "count": 7
+        },
+        {
+          "user": "khoi.hoang",
+          "count": 6
+        },
+        {
+          "user": "james.varga",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.95,
+      "count": 182,
+      "top_channels": [
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 98
+        },
+        {
+          "channel": "app-store-atc-deploy",
+          "messages": 80
+        },
+        {
+          "channel": "app-store-ops",
+          "messages": 50
+        },
+        {
+          "channel": "proj-app-sub-tool",
+          "messages": 49
+        },
+        {
+          "channel": "s-foundations-partner-marketplaces-river",
+          "messages": 47
+        },
+        {
+          "channel": "app-store-devs",
+          "messages": 36
+        },
+        {
+          "channel": "help-app-store",
+          "messages": 28
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20058-app-store-logincontroller-error-increases",
+          "messages": 5
+        },
+        {
+          "channel": "partner-marketplaces-resiliency-planning",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.69,
+      "count": 69,
+      "top_mentioners": [
+        {
+          "user": "khullar.parul",
+          "count": 13
+        },
+        {
+          "user": "jennifer.miller",
+          "count": 11
+        },
+        {
+          "user": "kurt.peters",
+          "count": 5
+        },
+        {
+          "user": "antone.evans",
+          "count": 5
+        },
+        {
+          "user": "james.varga",
+          "count": 4
+        },
+        {
+          "user": "matthew.frail",
+          "count": 3
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 3
+        },
+        {
+          "user": "carlos.l.perez",
+          "count": 3
+        },
+        {
+          "user": "james.hall",
+          "count": 3
+        },
+        {
+          "user": "liam.stewart",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 36,
+      "14": 51,
+      "13": 37,
+      "19": 58,
+      "17": 52,
+      "16": 22,
+      "1": 2,
+      "23": 22,
+      "22": 29,
+      "20": 37,
+      "0": 1,
+      "21": 29,
+      "18": 45,
+      "11": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 54,
+      "Tuesday": 78,
+      "Friday": 78,
+      "Thursday": 103,
+      "Monday": 110
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.31,
+    "dept_average_30d": 5.79,
+    "dept_rank": 264,
+    "dept_size": 1233
+  }
+}

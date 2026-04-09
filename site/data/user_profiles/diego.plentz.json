@@ -1,0 +1,243 @@
+{
+  "username": "diego.plentz",
+  "name": "Diego Plentz",
+  "generated_at": "2026-04-08T20:22:24.424625",
+  "summary": {
+    "message_count": 139,
+    "channels_active": 15,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! :check:",
+          "channel": "inv-21231-schema-tests-in-core-failing",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave::skin-tone-2: hey folks, yesterday we finally got the :+1::skin-tone-2: on the new order index from SLT (including Tobi). Here's the",
+          "channel": "batching-order-index",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> awesome, thanks! I'll trigger CI for it.",
+          "channel": "river-shipping",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> nice, thanks! I'll trigger CI for it.",
+          "channel": "river-shipping",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ahhh, yeah, `\"defaultMode\": \"bypassPermissions\"` is not a config in `/config`. thanks!",
+          "channel": "shipping-ai",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W0197H2R9HN> thanks! That was the page I was keeping an eye on. I saw that",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0333FT45NG> adding to what the other folks already mentioned.\n&gt;  1) Naming - batching is a heavily overloaded term in the codebase already (I",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "eileen.uchitelle",
+          "count": 5
+        },
+        {
+          "user": "matt.hryhorsky",
+          "count": 4
+        },
+        {
+          "user": "ryan.sult",
+          "count": 4
+        },
+        {
+          "user": "bjorn.dawson",
+          "count": 4
+        },
+        {
+          "user": "richard.newman",
+          "count": 4
+        },
+        {
+          "user": "jeremy.smereka",
+          "count": 3
+        },
+        {
+          "user": "chris.daviduik",
+          "count": 3
+        },
+        {
+          "user": "brendan.rygus",
+          "count": 3
+        },
+        {
+          "user": "asaf.karpel",
+          "count": 3
+        },
+        {
+          "user": "scott.walkinshaw",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.68,
+      "count": 168,
+      "top_channels": [
+        {
+          "channel": "river-shipping",
+          "messages": 66
+        },
+        {
+          "channel": "shipping-ai",
+          "messages": 17
+        },
+        {
+          "channel": "batching",
+          "messages": 15
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 11
+        },
+        {
+          "channel": "shipping-admin-runteam",
+          "messages": 5
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 5
+        },
+        {
+          "channel": "inv-21231-schema-tests-in-core-failing",
+          "messages": 4
+        },
+        {
+          "channel": "batching-order-index",
+          "messages": 4
+        },
+        {
+          "channel": "proj-flow-shipping",
+          "messages": 3
+        },
+        {
+          "channel": "proj-fulfillment-batch-fulfillment",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "ryan.sult",
+          "count": 6
+        },
+        {
+          "user": "mathieu.lavoie",
+          "count": 6
+        },
+        {
+          "user": "devan.andersen",
+          "count": 4
+        },
+        {
+          "user": "chris.daviduik",
+          "count": 2
+        },
+        {
+          "user": "joe.pym",
+          "count": 2
+        },
+        {
+          "user": "richard.newman",
+          "count": 2
+        },
+        {
+          "user": "brendan.rygus",
+          "count": 1
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 1
+        },
+        {
+          "user": "nam.nguyen",
+          "count": 1
+        },
+        {
+          "user": "jasmin.decampos",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 10,
+      "20": 18,
+      "19": 10,
+      "2": 2,
+      "17": 12,
+      "16": 18,
+      "15": 26,
+      "14": 3,
+      "11": 4,
+      "12": 6,
+      "23": 3,
+      "18": 16,
+      "21": 4,
+      "1": 2,
+      "3": 5
+    },
+    "by_day": {
+      "Wednesday": 11,
+      "Tuesday": 48,
+      "Friday": 52,
+      "Thursday": 13,
+      "Monday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.5,
+    "dept_average_30d": 5.77,
+    "dept_rank": 542,
+    "dept_size": 885
+  }
+}

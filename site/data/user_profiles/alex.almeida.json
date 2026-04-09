@@ -1,0 +1,260 @@
+{
+  "username": "alex.almeida",
+  "name": "Alex Almeida",
+  "generated_at": "2026-04-08T20:22:12.583124",
+  "summary": {
+    "message_count": 176,
+    "channels_active": 12,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave:\n\nNeed reviews on this one: <https://github.com/Shopify/infrastructure/pull/38093>\n\nThanks! <@U021D2KQ9UP> <@U0311QPBMN0>",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, let me take a look. Thanks!",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Will do, thank you!",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Okay, good news is: the deploy succeeded and nothing broke\n\nBad news is: it didn't deploy central.\n\nI'll look into this now, but in the meantime,",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks! :blobpray:",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Do you mean the issues flagged by Binks? I\u2019ll hold off on deploying it for now, then. Thank you for looking into this! :blobpray:",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sure, that works. Thank you!",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "The link works, thanks!",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "It was the latter, thanks! Yeah, having `redis` in the project's name is helpful for sure. I'll dig around for ES",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "pierre.jambet",
+          "count": 19
+        },
+        {
+          "user": "anas.shahid",
+          "count": 7
+        },
+        {
+          "user": "darren.worrall",
+          "count": 3
+        },
+        {
+          "user": "kevin.norman",
+          "count": 3
+        },
+        {
+          "user": "rashmi.kumari",
+          "count": 2
+        },
+        {
+          "user": "yash.kapadia",
+          "count": 2
+        },
+        {
+          "user": "owen.linton",
+          "count": 1
+        },
+        {
+          "user": "chris.giba",
+          "count": 1
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 1
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 161,
+      "top_channels": [
+        {
+          "channel": "payment-service-tier1-resiliency-proj",
+          "messages": 119
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 11
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 9
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 9
+        },
+        {
+          "channel": "payments-foundations-monitoring",
+          "messages": 8
+        },
+        {
+          "channel": "temp-pf-runteam",
+          "messages": 4
+        },
+        {
+          "channel": "help-security",
+          "messages": 4
+        },
+        {
+          "channel": "proj-pre-auth-checkout",
+          "messages": 4
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "katesql-ops",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "pierre.jambet",
+          "count": 24
+        },
+        {
+          "user": "anas.shahid",
+          "count": 10
+        },
+        {
+          "user": "rashmi.kumari",
+          "count": 3
+        },
+        {
+          "user": "alex.gomez",
+          "count": 3
+        },
+        {
+          "user": "joe.novak",
+          "count": 2
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 2
+        },
+        {
+          "user": "sam.ugbechie",
+          "count": 2
+        },
+        {
+          "user": "matthew.frail",
+          "count": 1
+        },
+        {
+          "user": "chris.giba",
+          "count": 1
+        },
+        {
+          "user": "fatai.salami",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 29,
+      "14": 13,
+      "13": 6,
+      "20": 23,
+      "17": 20,
+      "21": 24,
+      "19": 18,
+      "16": 22,
+      "15": 17,
+      "12": 1,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 15,
+      "Tuesday": 20,
+      "Monday": 41,
+      "Thursday": 33,
+      "Friday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.78,
+    "dept_average_30d": 5.77,
+    "dept_rank": 415,
+    "dept_size": 885
+  }
+}

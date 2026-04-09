@@ -1,0 +1,278 @@
+{
+  "username": "nicolas.ottonello",
+  "name": "Nicolas Ottonello",
+  "generated_at": "2026-04-08T20:22:10.024612",
+  "summary": {
+    "message_count": 285,
+    "channels_active": 22,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 10,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you. I've been trying to merge the PR but the CI keeps failing :yells_at_graphite:",
+          "channel": "s-foundations-analytics-unified-analytics",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah, kk, good to know. Thank you!",
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08TLEKNNVC> thank you Dexter. I tried to check the oncall for today, but the bot told me there was no one, can you check that",
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey! I'm removing these two flags, does someone have context on it that can take a look?\n\u2022 `insights_analytics_token` -",
+          "channel": "s-foundations-analytics-unified-analytics",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "good to know, thank you!",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "analytics-team-smart-analytics",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U06LT8G11V2> <@U09JKTYJQBX> we should be good to run the test. I'll put the fix for the chart.\nI need to step away for a bit. I'll keep looking",
+          "channel": "proj-analytics-insights-v2",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "that was the pipeline catching up with whatever was on kafka the last 5 days after we updated it to read from central and east (we were reading only",
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "As I see it \"sinks\" are whatever where we want to send insights. This RAG only happens to be a different kind of DB. If the computation is",
+          "channel": "hd39-push-insights-rag",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "manuel.isava",
+          "count": 12
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 6
+        },
+        {
+          "user": "jorge.moller",
+          "count": 5
+        },
+        {
+          "user": "khaled.hammouda",
+          "count": 3
+        },
+        {
+          "user": "afaq.virk",
+          "count": 2
+        },
+        {
+          "user": "syedhabib.urrehman",
+          "count": 1
+        },
+        {
+          "user": "ben.milton",
+          "count": 1
+        },
+        {
+          "user": "aly.gemae",
+          "count": 1
+        },
+        {
+          "user": "dexter.cogswell",
+          "count": 1
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.91,
+      "count": 233,
+      "top_channels": [
+        {
+          "channel": "proj-analytics-insights-v2",
+          "messages": 50
+        },
+        {
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "messages": 45
+        },
+        {
+          "channel": "proj-analytics-metric-targets",
+          "messages": 41
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 36
+        },
+        {
+          "channel": "analytics-team-smart-analytics",
+          "messages": 34
+        },
+        {
+          "channel": "analytics-squad-insights-optimizations-ops",
+          "messages": 17
+        },
+        {
+          "channel": "help-exp",
+          "messages": 10
+        },
+        {
+          "channel": "proj-analytics-annotations",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-sidekick-push-insights",
+          "messages": 9
+        },
+        {
+          "channel": "s-foundations-analytics-unified-analytics",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 75,
+      "top_mentioners": [
+        {
+          "user": "nicole.bailey",
+          "count": 20
+        },
+        {
+          "user": "manuel.isava",
+          "count": 18
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 9
+        },
+        {
+          "user": "jorge.moller",
+          "count": 7
+        },
+        {
+          "user": "meredith.castile",
+          "count": 4
+        },
+        {
+          "user": "aly.gemae",
+          "count": 2
+        },
+        {
+          "user": "steven.lee",
+          "count": 2
+        },
+        {
+          "user": "pablo.assanelli",
+          "count": 2
+        },
+        {
+          "user": "daniela.velasquez",
+          "count": 2
+        },
+        {
+          "user": "afaq.virk",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 43,
+      "17": 14,
+      "14": 29,
+      "15": 48,
+      "13": 32,
+      "11": 10,
+      "12": 18,
+      "23": 10,
+      "22": 8,
+      "20": 13,
+      "16": 5,
+      "19": 32,
+      "21": 22,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 62,
+      "Tuesday": 45,
+      "Monday": 68,
+      "Friday": 43,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.31,
+    "dept_average_30d": 5.79,
+    "dept_rank": 264,
+    "dept_size": 1233
+  }
+}

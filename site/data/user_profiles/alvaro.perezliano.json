@@ -1,0 +1,252 @@
+{
+  "username": "alvaro.perezliano",
+  "name": "Alvaro Perezliano",
+  "generated_at": "2026-04-08T20:22:23.907168",
+  "summary": {
+    "message_count": 178,
+    "channels_active": 11,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 12,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "All looks good, thanks!",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "++ <@U02DNFVJPFZ> dude, great work",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Looking for some :eyes: for the cleanup of the flag",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "CONGRATS MAAAAN!!! So well deserved!!! :star-struck::star-struck::star-struck:",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "++ <@U02GJL6NUPM> dude, great work!",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U067LPZ891P> <@U03NK37V0MA> for tomorrow's Standup\n\nI've been talking to <@U02DNFVJPFZ> today and he has raised a great point where we are (my bad)",
+          "channel": "proj-payments-global-vault-payments",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Last ACH update:\n\u2022 47 total submissions, zero violations across the full week\n\u2022 Zero bank_payment breadcrumbs in frontend-otlp\n\u2022 Safety net never",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok folks!\nFor the ACH issue here's Marky's PR with an extra layer of safety in the interceptor:",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.3,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "marcin.drozd",
+          "count": 8
+        },
+        {
+          "user": "harry.venables",
+          "count": 7
+        },
+        {
+          "user": "mark.levidayyan",
+          "count": 4
+        },
+        {
+          "user": "samuel.martin",
+          "count": 3
+        },
+        {
+          "user": "nathan.anisi",
+          "count": 3
+        },
+        {
+          "user": "nick.jones",
+          "count": 3
+        },
+        {
+          "user": "qi.chen",
+          "count": 3
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 3
+        },
+        {
+          "user": "francesco.ferazzoli",
+          "count": 2
+        },
+        {
+          "user": "lukas.klizas",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.72,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "pp-vaulting-internal",
+          "messages": 105
+        },
+        {
+          "channel": "b2b-team",
+          "messages": 17
+        },
+        {
+          "channel": "pp-vaulting-daily",
+          "messages": 12
+        },
+        {
+          "channel": "proj-payments-global-vault-payments",
+          "messages": 11
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 8
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 7
+        },
+        {
+          "channel": "checkout-backend-persistence-only",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20966-issues-with-revoking-duplicates-in-cardse",
+          "messages": 5
+        },
+        {
+          "channel": "customer-account-web-contributors",
+          "messages": 3
+        },
+        {
+          "channel": "payments-platform-monitoring",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.33,
+      "count": 26,
+      "top_mentioners": [
+        {
+          "user": "samuel.martin",
+          "count": 5
+        },
+        {
+          "user": "marcin.drozd",
+          "count": 4
+        },
+        {
+          "user": "harry.venables",
+          "count": 4
+        },
+        {
+          "user": "mark.levidayyan",
+          "count": 3
+        },
+        {
+          "user": "qi.chen",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 1
+        },
+        {
+          "user": "rafael.porras",
+          "count": 1
+        },
+        {
+          "user": "aaron.soules",
+          "count": 1
+        },
+        {
+          "user": "lukas.klizas",
+          "count": 1
+        },
+        {
+          "user": "nathan.anisi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 18,
+      "13": 7,
+      "12": 4,
+      "21": 4,
+      "20": 6,
+      "15": 31,
+      "11": 3,
+      "9": 16,
+      "10": 13,
+      "8": 10,
+      "6": 1,
+      "17": 16,
+      "16": 32,
+      "18": 5,
+      "7": 7,
+      "19": 5
+    },
+    "by_day": {
+      "Wednesday": 47,
+      "Tuesday": 76,
+      "Thursday": 33,
+      "Monday": 19,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.68,
+    "dept_average_30d": 4.74,
+    "dept_rank": 282,
+    "dept_size": 1663
+  }
+}

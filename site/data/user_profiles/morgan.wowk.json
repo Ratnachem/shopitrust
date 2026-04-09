@@ -1,0 +1,234 @@
+{
+  "username": "morgan.wowk",
+  "name": "Morgan Wowk",
+  "generated_at": "2026-04-08T20:22:19.005341",
+  "summary": {
+    "message_count": 237,
+    "channels_active": 4,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 14,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "*The Input Aggregator stack can be top-hatted",
+          "channel": "tangle-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "You'll find this \"How to connect\" button. The only problem is that we are not allowed to run the `nebius` CLI on our machines.\n\nI haven't found a",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "CC: <@U08BVS8QZPS> Feel free to review any time",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "*1 hour after migrating to Claude:*\n&gt;  Yes \u2014 that was me. When verifying the migration fix, I ran rm -f data/db.sqlite to get a clean test run.",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Love it, thanks! Been wanting this lately myself.",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah! Thanks!",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your input. My perspective has changed after hearing the things you're interested in. We can carry these thoughts forward to future",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ML team informed me that Run #2 did encounter an auto-scaling threshold, and eventually executed. Thank you for manually fetching those links,",
+          "channel": "tangle",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh sorry! It may have actually executed in the end. I was handed this link and assumed it was experiencing the same issue described to us as",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "*Observability update*\nWe now have some application-level metrics in *production*\n\n\u2022",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Those can be tracked but for this metric in particular, they add noise. For example, most of the time we are concerned about the time from PENDING to",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "maxim.ezhov",
+          "count": 6
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 5
+        },
+        {
+          "user": "matt.beaulne",
+          "count": 4
+        },
+        {
+          "user": "yuechao.qin",
+          "count": 3
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 2
+        },
+        {
+          "user": "camiel.vanschoonhoven",
+          "count": 1
+        },
+        {
+          "user": "joe.lin",
+          "count": 1
+        },
+        {
+          "user": "eric.lybrand",
+          "count": 1
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.42,
+      "count": 64,
+      "top_channels": [
+        {
+          "channel": "tangle-dev",
+          "messages": 200
+        },
+        {
+          "channel": "tangle",
+          "messages": 22
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 14
+        },
+        {
+          "channel": "tangle-backend-working-group",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.6,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "yuechao.qin",
+          "count": 14
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 10
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 8
+        },
+        {
+          "user": "maxim.ezhov",
+          "count": 6
+        },
+        {
+          "user": "matt.beaulne",
+          "count": 5
+        },
+        {
+          "user": "camiel.vanschoonhoven",
+          "count": 4
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 1
+        },
+        {
+          "user": "joe.lin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 17,
+      "16": 10,
+      "1": 3,
+      "21": 32,
+      "19": 43,
+      "18": 20,
+      "23": 33,
+      "22": 33,
+      "20": 31,
+      "2": 5,
+      "14": 2,
+      "0": 7,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 52,
+      "Tuesday": 44,
+      "Thursday": 79,
+      "Monday": 39,
+      "Friday": 23
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.75,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1081,
+    "dept_size": 1233
+  }
+}

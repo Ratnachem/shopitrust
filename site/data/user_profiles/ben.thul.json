@@ -1,0 +1,275 @@
+{
+  "username": "ben.thul",
+  "name": "Ben Thul",
+  "generated_at": "2026-04-08T20:22:17.425738",
+  "summary": {
+    "message_count": 550,
+    "channels_active": 28,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yep. burn it. thanks!",
+          "channel": "db-core-mysql-alerts",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U03UJ2C8605> - do you want me to do that while you fly the plane? or anything else you want to hand off?",
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "fyi - I just made what should be a benign change in offsite uploads (context",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to decomm shard134-db137-us-east1? or is there something goofballs there?",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to ping me directly when you're ready to scale back down.",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "annoying that rubocop was apparently asleep on the job when whatever PR put that in there was merged. I think we can all agree that robots are the",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "lol. someone's going wild. let me see if I can figure it out.",
+          "channel": "db-core-mysql-deploys",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "hey friends. if you're seeing a bunch of host builds (either contemporaneously or in arrears) here's the scoop: orchestrator is intermittently having",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I am surprised that the DNS autohealer hasn't resolved this yet. I can either do this manually or help out with whatever else needs helping with.",
+          "channel": "db-core-mysql-alerts",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or five weeks or whatever.",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "what's the story with shard 140 being on c4d? I ask because it looks like someone's trying to run some explainify there, which tries to create a",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "tom.krouper",
+          "count": 3
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 3
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 2
+        },
+        {
+          "user": "josh.broughton",
+          "count": 2
+        },
+        {
+          "user": "josh.varner",
+          "count": 2
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 1
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        },
+        {
+          "user": "bastian.bartmann",
+          "count": 1
+        },
+        {
+          "user": "marcus.turner",
+          "count": 1
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.93,
+      "count": 234,
+      "top_channels": [
+        {
+          "channel": "db-core-mysql",
+          "messages": 131
+        },
+        {
+          "channel": "db-core-mysql-alerts",
+          "messages": 87
+        },
+        {
+          "channel": "db-storefronts-mysql-ops",
+          "messages": 41
+        },
+        {
+          "channel": "proj-infra-mysql-backup-costs",
+          "messages": 36
+        },
+        {
+          "channel": "db-core-mysql-deploys",
+          "messages": 34
+        },
+        {
+          "channel": "inv-20189-long-history-list-length-on-shard372",
+          "messages": 30
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 29
+        },
+        {
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "messages": 29
+        },
+        {
+          "channel": "inc-20276-google-cloud-packet-lost-in-us-central1a",
+          "messages": 25
+        },
+        {
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "messages": 22
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 12
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 8
+        },
+        {
+          "user": "josh.broughton",
+          "count": 6
+        },
+        {
+          "user": "tom.krouper",
+          "count": 5
+        },
+        {
+          "user": "louis.munro",
+          "count": 5
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 5
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 3
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 2
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 2
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 62,
+      "23": 27,
+      "18": 54,
+      "15": 79,
+      "1": 16,
+      "22": 51,
+      "21": 55,
+      "20": 38,
+      "19": 55,
+      "16": 44,
+      "14": 9,
+      "0": 22,
+      "2": 5,
+      "4": 2,
+      "3": 5,
+      "13": 18,
+      "12": 1,
+      "5": 7
+    },
+    "by_day": {
+      "Wednesday": 149,
+      "Tuesday": 137,
+      "Monday": 63,
+      "Friday": 84,
+      "Thursday": 117
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.81,
+    "dept_average_30d": 5.75,
+    "dept_rank": 152,
+    "dept_size": 357
+  }
+}

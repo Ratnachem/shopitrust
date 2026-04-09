@@ -1,0 +1,288 @@
+{
+  "username": "phil.termikaelian",
+  "name": "Phil Termikaelian",
+  "generated_at": "2026-04-08T20:22:21.751681",
+  "summary": {
+    "message_count": 549,
+    "channels_active": 12,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 30,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: After this zone import we (Translation Platform) got notified of a zone with a translation.yml without the corresponding ci-check set up. ",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, thanks!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Submitted, let me know if there's any other info that would be helpful or if there are steps our team should take ahead of the migration",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "congrats on getting the admin-web/merchant PR merged though lol",
+          "channel": "translation-platform-dev",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "it's likely some of the alert rules aren't well tuned also, so feel free to adjust those",
+          "channel": "intl-dev-ops",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":fyi: <@W018PU83GQL> <@U067LPC8USD> FYI, I'll be offline for the next ~4 hours, and also approx. ~11am - 4pm tomorrow.  Mostly just giving the heads",
+          "channel": "translation-platform-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018PU83GQL> for testing I'm going to reassign you as ATC for the last 10 minutes of today's shift, so I can test whether it does what I expect",
+          "channel": "translation-platform-dev",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Also TranslateGemma specifically comes with a bunch of caveats/limitations:\n\n\u2022 Only supports 55 languages\n\u2022 Max input tokens is 2K\n\u2022 Can't customize",
+          "channel": "translation-platform-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'll try to fix whatever issue I was running into in my local dev environment later in the week if I have a chance, but for now I'll still merge that",
+          "channel": "translation-platform-dev",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "(Obviously, annually starting from now, not including whatever has already been incurred in google translate costs January-March)",
+          "channel": "translate-adapt-ops",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "PR above shipped so you should have access via graphiql now too",
+          "channel": "help-localization",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Actually I think I'll bump the rollout % now.  It's quick to revert to a flat 24 replicas if for whatever reason we see the queue rising without an",
+          "channel": "translation-platform-dev",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Nothing directly on cost since that'll be downstream of traffic and we can figure it out in the data warehouse.  For traffic I mainly look at",
+          "channel": "translate-adapt-ops",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "stephen.humphries",
+          "count": 9
+        },
+        {
+          "user": "rodrigo.trujillo",
+          "count": 9
+        },
+        {
+          "user": "vineet.kumar",
+          "count": 5
+        },
+        {
+          "user": "manoli.penalopez",
+          "count": 3
+        },
+        {
+          "user": "diana.stephens",
+          "count": 2
+        },
+        {
+          "user": "amanda.groulx",
+          "count": 2
+        },
+        {
+          "user": "chase.dougherty",
+          "count": 2
+        },
+        {
+          "user": "leo.zhao",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "robert.habib",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.51,
+      "count": 114,
+      "top_channels": [
+        {
+          "channel": "translation-platform-dev",
+          "messages": 196
+        },
+        {
+          "channel": "help-localization",
+          "messages": 177
+        },
+        {
+          "channel": "intl-dev-ops",
+          "messages": 122
+        },
+        {
+          "channel": "translate-adapt-ops",
+          "messages": 16
+        },
+        {
+          "channel": "localization-community",
+          "messages": 13
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 7
+        },
+        {
+          "channel": "markets-international-comms",
+          "messages": 5
+        },
+        {
+          "channel": "proj-admin-translate-adapt-rebase",
+          "messages": 4
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 3
+        },
+        {
+          "channel": "proj-intl-i18n-scanner",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 82,
+      "top_mentioners": [
+        {
+          "user": "manoli.penalopez",
+          "count": 15
+        },
+        {
+          "user": "rodrigo.trujillo",
+          "count": 9
+        },
+        {
+          "user": "misato.watson",
+          "count": 7
+        },
+        {
+          "user": "stephen.humphries",
+          "count": 7
+        },
+        {
+          "user": "andreia.alexa",
+          "count": 6
+        },
+        {
+          "user": "amanda.groulx",
+          "count": 4
+        },
+        {
+          "user": "maria.rodriguez",
+          "count": 3
+        },
+        {
+          "user": "sean.ittel",
+          "count": 3
+        },
+        {
+          "user": "kyle.luck",
+          "count": 3
+        },
+        {
+          "user": "carolyn.mcneillie",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 53,
+      "14": 66,
+      "13": 61,
+      "23": 16,
+      "19": 55,
+      "17": 49,
+      "0": 17,
+      "22": 32,
+      "21": 51,
+      "20": 45,
+      "18": 44,
+      "16": 49,
+      "4": 2,
+      "3": 2,
+      "12": 1,
+      "2": 2,
+      "1": 4
+    },
+    "by_day": {
+      "Wednesday": 160,
+      "Tuesday": 116,
+      "Monday": 105,
+      "Thursday": 107,
+      "Friday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.34,
+    "dept_average_30d": 4.74,
+    "dept_rank": 117,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "username": "gino.valente",
+  "name": "Gino Valente",
+  "generated_at": "2026-04-08T20:22:19.804857",
+  "summary": {
+    "message_count": 742,
+    "channels_active": 14,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.6,
+      "pos_count": 26,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks! I'll have River start on it!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Btw, <https://app.graphite.com/github/pr/shop/world/585904|here's> the PR. I'm going to tophat it in just a bit, which is why it's still in draft.",
+          "channel": "retail-first",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay I'll keep this thread posted. Thank you both!",
+          "channel": "retail-first",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No thank you for catching it!",
+          "channel": "retail-first",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! Could I get some review on this stack (namely, the base branch) for German compliance? I'm waiting on some help from Retail First to",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "There's been a handful of changes to the first PR since I last tested it, so feel free to just give the code itself a once over before spending too",
+          "channel": "retail-first",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes he did! Thank you both for your help with this!",
+          "channel": "retail-first",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Okay good to know, thanks! Yeah this is slightly more complex than the RT stuff since we need to supply actual exchange data. My PR aims to adapt the",
+          "channel": "retail-first",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That should be enough I think. Thanks!",
+          "channel": "retail-first",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! :pray:",
+          "channel": "retail-first",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If River struggles here for whatever reason, I can help by pulling and fixing the errors manually :slightly_smiling_face:",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> For syncing, keep in mind that it's not just when the item quantity goes to zero. Whenever the real item quantity changes to any value",
+          "channel": "river-gino",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "matt.garden",
+          "count": 11
+        },
+        {
+          "user": "ayman.salloom",
+          "count": 9
+        },
+        {
+          "user": "flora.mcneill",
+          "count": 5
+        },
+        {
+          "user": "animesh.thakre",
+          "count": 4
+        },
+        {
+          "user": "sebastian.skopp",
+          "count": 3
+        },
+        {
+          "user": "gurk.mandur",
+          "count": 3
+        },
+        {
+          "user": "alejandra.temprana",
+          "count": 3
+        },
+        {
+          "user": "carolina.darski",
+          "count": 2
+        },
+        {
+          "user": "jolene.hayes",
+          "count": 2
+        },
+        {
+          "user": "britta.evansfenton",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.12,
+      "count": 191,
+      "top_channels": [
+        {
+          "channel": "river-gino",
+          "messages": 298
+        },
+        {
+          "channel": "proj-pos-returns-in-cart",
+          "messages": 203
+        },
+        {
+          "channel": "retail-first",
+          "messages": 108
+        },
+        {
+          "channel": "proj-improve-pos-app-architecture",
+          "messages": 29
+        },
+        {
+          "channel": "inc-19944-pos-exchange-flow-blocked-when-manager-ap",
+          "messages": 21
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 17
+        },
+        {
+          "channel": "retail-mx-orders",
+          "messages": 16
+        },
+        {
+          "channel": "river",
+          "messages": 14
+        },
+        {
+          "channel": "help-pos-extensions",
+          "messages": 10
+        },
+        {
+          "channel": "temp-pos-release-v11_4-r2",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.71,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "carolina.darski",
+          "count": 9
+        },
+        {
+          "user": "matt.garden",
+          "count": 6
+        },
+        {
+          "user": "flora.mcneill",
+          "count": 5
+        },
+        {
+          "user": "chad.cromwell",
+          "count": 3
+        },
+        {
+          "user": "ayman.salloom",
+          "count": 3
+        },
+        {
+          "user": "rashad.sharaf",
+          "count": 3
+        },
+        {
+          "user": "britta.evansfenton",
+          "count": 3
+        },
+        {
+          "user": "bernadine.crisostomo",
+          "count": 3
+        },
+        {
+          "user": "victor.chu",
+          "count": 2
+        },
+        {
+          "user": "steve.colvin1",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 47,
+      "7": 9,
+      "6": 10,
+      "4": 5,
+      "2": 7,
+      "0": 21,
+      "23": 84,
+      "22": 104,
+      "21": 67,
+      "20": 69,
+      "19": 82,
+      "18": 98,
+      "17": 103,
+      "5": 13,
+      "3": 2,
+      "11": 1,
+      "8": 6,
+      "15": 4,
+      "14": 2,
+      "1": 8
+    },
+    "by_day": {
+      "Wednesday": 121,
+      "Tuesday": 216,
+      "Monday": 174,
+      "Friday": 115,
+      "Thursday": 116
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 7.95,
+    "dept_average_30d": 5.77,
+    "dept_rank": 41,
+    "dept_size": 885
+  }
+}

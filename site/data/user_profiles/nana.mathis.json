@@ -1,0 +1,252 @@
+{
+  "username": "nana.mathis",
+  "name": "NaNa Mathis",
+  "generated_at": "2026-04-08T20:22:14.423330",
+  "summary": {
+    "message_count": 124,
+    "channels_active": 14,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!subteam^S06DA5U6ZC2> hi all! I've talked to Erika about this but want to give you all a heads up. As a result of the new marketing event",
+          "channel": "marketing-conversion-event-alerts",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hi! I have a <https://github.com/Shopify/observe-data-sync/pull/647|PR> for adding alerts to the observe-data-sync repo and was trying to find out",
+          "channel": "help-observability",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W019NNKDR8U>",
+          "channel": "proj-migrate-marketing-event-distribution",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hi Gary! We switched our extractors to the Data Warehouse - can you check if there is data under `shopify-dw.raw_impact.conversions` (I believe",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "melody-team",
+          "timestamp": "2026-03-09"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "this was the full message if that helps?\n&gt; here's the ingress config I used for the only event <@U03AZ6D2RNF> and I initially created, but I later",
+          "channel": "melody-team",
+          "timestamp": "2026-03-09"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "that sounds amazing (it's hard to parse through all the emails)",
+          "channel": "melody-team",
+          "timestamp": "2026-03-09"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome thanks!",
+          "channel": "melody-team",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I'm turning off this alert until I can figure it out better",
+          "channel": "melody-cdp-ops",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "hussein.patni",
+          "count": 3
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 3
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 2
+        },
+        {
+          "user": "erika.hellauer",
+          "count": 2
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 2
+        },
+        {
+          "user": "padua.fregoso",
+          "count": 2
+        },
+        {
+          "user": "jake.anderson",
+          "count": 1
+        },
+        {
+          "user": "gary.kamen",
+          "count": 1
+        },
+        {
+          "user": "michelle.pushefski",
+          "count": 1
+        },
+        {
+          "user": "adi.matheswaran",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.27,
+      "count": 199,
+      "top_channels": [
+        {
+          "channel": "melody-team",
+          "messages": 51
+        },
+        {
+          "channel": "proj-migrate-marketing-event-distribution",
+          "messages": 21
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 17
+        },
+        {
+          "channel": "help-melody",
+          "messages": 13
+        },
+        {
+          "channel": "help-observability",
+          "messages": 6
+        },
+        {
+          "channel": "melody-cdp-ops",
+          "messages": 6
+        },
+        {
+          "channel": "marketing-conversion-event-alerts",
+          "messages": 2
+        },
+        {
+          "channel": "proj-med-metrics-observability",
+          "messages": 2
+        },
+        {
+          "channel": "proj-melody-service-monorepo",
+          "messages": 1
+        },
+        {
+          "channel": "los-angeles-afterhours",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.52,
+      "count": 29,
+      "top_mentioners": [
+        {
+          "user": "ayana.siddiqui",
+          "count": 6
+        },
+        {
+          "user": "erika.hellauer",
+          "count": 3
+        },
+        {
+          "user": "adi.matheswaran",
+          "count": 3
+        },
+        {
+          "user": "gary.kamen",
+          "count": 2
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 2
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 2
+        },
+        {
+          "user": "jake.anderson",
+          "count": 2
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 2
+        },
+        {
+          "user": "hussein.patni",
+          "count": 2
+        },
+        {
+          "user": "emily.evans",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 13,
+      "17": 13,
+      "16": 7,
+      "20": 23,
+      "22": 18,
+      "19": 29,
+      "21": 17,
+      "23": 3,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 25,
+      "Tuesday": 25,
+      "Monday": 24,
+      "Friday": 33,
+      "Thursday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.78,
+    "dept_average_30d": 5.58,
+    "dept_rank": 171,
+    "dept_size": 398
+  }
+}

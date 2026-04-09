@@ -1,0 +1,239 @@
+{
+  "username": "steven.lee",
+  "name": "Steven Lee",
+  "generated_at": "2026-04-08T20:22:15.273648",
+  "summary": {
+    "message_count": 360,
+    "channels_active": 10,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "anyways, i just booked it, feel free to move it",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you want to pair on this",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey just left a comment about integrating with existing skills. let me know if you want to chat on it",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> it says this: FYI we have an outage with the code review functionality so it might be spotty for a little bit...feel free to apply the",
+          "channel": "sl-river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey, if we have two pipelines that consume from the same Shopify Core table but they each require some different columns from that table, would it be",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "oh amazing thanks Leo! are we able to backfill and reconcile now?",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "got it thanks!",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "yifan.ye",
+          "count": 15
+        },
+        {
+          "user": "susie.lee",
+          "count": 13
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 11
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 6
+        },
+        {
+          "user": "saeid.alizadeh",
+          "count": 3
+        },
+        {
+          "user": "trideep.roy",
+          "count": 3
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 2
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 2
+        },
+        {
+          "user": "leo.godin",
+          "count": 2
+        },
+        {
+          "user": "nicolas.ottonello",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.89,
+      "count": 129,
+      "top_channels": [
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 119
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 86
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 75
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 33
+        },
+        {
+          "channel": "sl-river",
+          "messages": 22
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 12
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 6
+        },
+        {
+          "channel": "flink-reportify-etl-ops",
+          "messages": 3
+        },
+        {
+          "channel": "yugabyte_pk_flink_migration",
+          "messages": 3
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.88,
+      "count": 42,
+      "top_mentioners": [
+        {
+          "user": "yifan.ye",
+          "count": 14
+        },
+        {
+          "user": "susie.lee",
+          "count": 4
+        },
+        {
+          "user": "trideep.roy",
+          "count": 4
+        },
+        {
+          "user": "jesse.tao",
+          "count": 3
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 3
+        },
+        {
+          "user": "leo.godin",
+          "count": 3
+        },
+        {
+          "user": "saeid.alizadeh",
+          "count": 2
+        },
+        {
+          "user": "ani.panwar",
+          "count": 1
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 60,
+      "17": 47,
+      "20": 60,
+      "16": 22,
+      "15": 31,
+      "19": 35,
+      "14": 65,
+      "13": 26,
+      "21": 12,
+      "12": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 101,
+      "Tuesday": 96,
+      "Thursday": 61,
+      "Monday": 22,
+      "Friday": 80
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.8,
+    "dept_average_30d": 5.79,
+    "dept_rank": 573,
+    "dept_size": 1233
+  }
+}

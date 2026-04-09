@@ -1,0 +1,130 @@
+{
+  "username": "linda.li",
+  "name": "Linda Li",
+  "generated_at": "2026-04-08T20:22:31.468597",
+  "summary": {
+    "message_count": 18,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Awesome, appreciate it!",
+          "channel": "help-coupa",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, this has what I need for my analysis! And just to confirm that I can keep using this report for each month end",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "howell.manongsong",
+          "count": 1
+        },
+        {
+          "user": "nick.lewis",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.97,
+      "count": 183,
+      "top_channels": [
+        {
+          "channel": "help-finance-tech",
+          "messages": 9
+        },
+        {
+          "channel": "help-coupa",
+          "messages": 5
+        },
+        {
+          "channel": "help-zip",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.29,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "howell.manongsong",
+          "count": 4
+        },
+        {
+          "user": "ward.sorrick",
+          "count": 2
+        },
+        {
+          "user": "maanas.verma",
+          "count": 2
+        },
+        {
+          "user": "nick.lewis",
+          "count": 1
+        },
+        {
+          "user": "bridget.lenehan",
+          "count": 1
+        },
+        {
+          "user": "kara.bakhshi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 1,
+      "20": 1,
+      "13": 1,
+      "17": 2,
+      "15": 5,
+      "14": 4,
+      "12": 1,
+      "19": 1,
+      "18": 2
+    },
+    "by_day": {
+      "Monday": 5,
+      "Friday": 3,
+      "Tuesday": 7,
+      "Thursday": 2,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 3.64,
+    "dept_average_30d": 4.35,
+    "dept_rank": 130,
+    "dept_size": 151
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "username": "majd.almnayer",
+  "name": "Majd Almnayer",
+  "generated_at": "2026-04-08T20:22:09.742703",
+  "summary": {
+    "message_count": 943,
+    "channels_active": 26,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 25,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 10.0,
+      "pos_count": 72,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah I see... thank you for this explanation.\n\nSo I take it `skills` aren't currently read either? It's definitely a valid point about cross-zone PRs",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team :wave-frog:\n\nI'm from shopify-dev, I was wondering, is there a way to give Binks zone-specific context when reviewing PRs?\n\nIs an agent",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome, thank you!",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you'd like to pair too",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Maybe we need to explicitly reset the trunk back to main, since we were opening PRs to the staging branch",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you see any changes when you run `gt sync`",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I booked us a meeting next week Tuesday, thank you",
+          "channel": "team-ci",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ooooo thank you",
+          "channel": "help-shopify-dev-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "No problem! :smile: glad I can help!",
+          "channel": "help-shopify-dev-eng",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Gotcha, thank you once again for your help Henrique, I can always count on youu!!!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> shopify-dev has preview environments, however, they are only generated for PRs when both `preview` and `//areas/paltforms/shopify-dev`",
+          "channel": "devtools-river-rats",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Our assets are served through the CDN, but they exist in the repo as well, we rely on whatever pipeline exists until it gets routed through the CDN",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We need to <https://github.com/shop/world/blob/main/areas/platforms/shopify-dev/db/data/docs/graphql/raw/admin_2026-01.json|recreate our raw json",
+          "channel": "devtools-proj-preview-links",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever you guys decide, the central doc sync preview automation workflow is modular, if you want to do any changes to",
+          "channel": "devtools-proj-templated-refs",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.2,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "josh.larson",
+          "count": 11
+        },
+        {
+          "user": "john.collett",
+          "count": 5
+        },
+        {
+          "user": "phong.pham",
+          "count": 4
+        },
+        {
+          "user": "ren.chaturvedi",
+          "count": 4
+        },
+        {
+          "user": "laurel.king",
+          "count": 3
+        },
+        {
+          "user": "alex.montague",
+          "count": 2
+        },
+        {
+          "user": "shankar.chandran",
+          "count": 2
+        },
+        {
+          "user": "jamie.kinnavane",
+          "count": 2
+        },
+        {
+          "user": "jenniferm.gray",
+          "count": 2
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.53,
+      "count": 254,
+      "top_channels": [
+        {
+          "channel": "help-shopify-dev-eng",
+          "messages": 268
+        },
+        {
+          "channel": "devtools-river-rats",
+          "messages": 146
+        },
+        {
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "messages": 144
+        },
+        {
+          "channel": "devtools-proj-preview-links",
+          "messages": 98
+        },
+        {
+          "channel": "devtools-proj-templated-refs",
+          "messages": 52
+        },
+        {
+          "channel": "proj-devtools-ui-extensions-docs",
+          "messages": 38
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 37
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 28
+        },
+        {
+          "channel": "ui-extensions-api-releases",
+          "messages": 21
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 85,
+      "top_mentioners": [
+        {
+          "user": "laurel.king",
+          "count": 17
+        },
+        {
+          "user": "josh.larson",
+          "count": 14
+        },
+        {
+          "user": "ren.chaturvedi",
+          "count": 8
+        },
+        {
+          "user": "shankar.chandran",
+          "count": 6
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 5
+        },
+        {
+          "user": "michelle.vinci",
+          "count": 5
+        },
+        {
+          "user": "phong.pham",
+          "count": 5
+        },
+        {
+          "user": "nelson.wittwer",
+          "count": 3
+        },
+        {
+          "user": "evan.lee",
+          "count": 3
+        },
+        {
+          "user": "james.lunan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 104,
+      "14": 135,
+      "11": 1,
+      "20": 86,
+      "19": 83,
+      "16": 108,
+      "15": 157,
+      "13": 82,
+      "12": 7,
+      "17": 124,
+      "22": 6,
+      "2": 3,
+      "23": 6,
+      "21": 4,
+      "8": 1,
+      "1": 32,
+      "0": 3,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 238,
+      "Tuesday": 206,
+      "Monday": 84,
+      "Thursday": 235,
+      "Friday": 180
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.81,
+    "dept_average_30d": 4.74,
+    "dept_rank": 50,
+    "dept_size": 1663
+  }
+}

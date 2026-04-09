@@ -1,0 +1,131 @@
+{
+  "username": "matthew.ellig",
+  "name": "Matthew Ellig",
+  "generated_at": "2026-04-08T20:22:22.166751",
+  "summary": {
+    "message_count": 26,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 7,
+    "days_in_window": 17,
+    "days_scale": 0.74
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "good call on those tests because they caught a bug, so thanks!",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.84,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "lauren.ip",
+          "count": 2
+        },
+        {
+          "user": "joe.thomas",
+          "count": 1
+        },
+        {
+          "user": "raman.lally",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.0,
+      "count": 78,
+      "top_channels": [
+        {
+          "channel": "proj-index-tables",
+          "messages": 23
+        },
+        {
+          "channel": "admin-workflows-river",
+          "messages": 1
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 1
+        },
+        {
+          "channel": "temp-table-filter-feedback",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.54,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "jess.clark",
+          "count": 2
+        },
+        {
+          "user": "joe.holston",
+          "count": 2
+        },
+        {
+          "user": "jita.yi",
+          "count": 1
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "madison.frye",
+          "count": 1
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 1
+        },
+        {
+          "user": "nikola.milosevic",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 4,
+      "17": 2,
+      "20": 1,
+      "18": 6,
+      "14": 2,
+      "13": 5,
+      "12": 2,
+      "19": 3,
+      "16": 1
+    },
+    "by_day": {
+      "Wednesday": 9,
+      "Tuesday": 8,
+      "Thursday": 2,
+      "Monday": 2,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.26,
+    "dept_average_30d": 4.74,
+    "dept_rank": 428,
+    "dept_size": 1663
+  }
+}

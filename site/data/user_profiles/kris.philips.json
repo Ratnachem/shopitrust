@@ -1,0 +1,99 @@
+{
+  "username": "kris.philips",
+  "name": "Kris Philips",
+  "generated_at": "2026-04-08T20:22:31.980147",
+  "summary": {
+    "message_count": 23,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team! I submitted a test device request via Helpdesk which was approved and shipped out, but unfortunately I missed the delivery and was not",
+          "channel": "help-it",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! I've built a <https://lookerstudio.google.com/u/0/reporting/3ad656ec-11fa-4847-8489-67e39696f9ed/page/dZJqF|Looker Studio compliance",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "sana.asghar",
+          "count": 1
+        },
+        {
+          "user": "justin.pauley",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-data-warehouse",
+          "messages": 22
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "justin.pauley",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 1,
+      "18": 7,
+      "19": 4,
+      "20": 5,
+      "23": 4,
+      "22": 2
+    },
+    "by_day": {
+      "Tuesday": 6,
+      "Thursday": 11,
+      "Wednesday": 2,
+      "Monday": 3,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.18,
+    "dept_average_30d": 4.56,
+    "dept_rank": 73,
+    "dept_size": 74
+  }
+}

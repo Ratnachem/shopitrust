@@ -1,0 +1,242 @@
+{
+  "username": "matthew.petruzziello",
+  "name": "Matthew Petruzziello",
+  "generated_at": "2026-04-08T20:22:27.298720",
+  "summary": {
+    "message_count": 220,
+    "channels_active": 8,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 8,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yeah it is an expected error. Sorry about that, ill need to clean that up",
+          "channel": "business-platform-ops",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hello BP Ops: I will be rolling out <https://experiments.shopify.io/flags/f_gate_disabled_orgs_user_queries|this feature flag> to block disabled orgs",
+          "channel": "business-platform-ops",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hello Organizations ATC (<@W018GAY1AUV>): I will be rolling out <https://experiments.shopify.io/flags/f_gate_disabled_orgs_user_queries|this feature",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Sounds good! Do you want me to do anything on my end? (i.e close my PR / close the issue it is attached to / etc...?)",
+          "channel": "access-river",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03RM5SSU6T> <@W018HNSTXRQ> :wave-frog: Hello! I just wanted to let you know that the PRs related to",
+          "channel": "proj-partners-orgs-and-rbac",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W018PU0PWEQ>! Thank you for the swift response + review. I addressed your comments by moving TFAError to the shared components area. Let me",
+          "channel": "help-admin-web-platform",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey <@W018PU0PWEQ>! Thank you for the swift response + review. I addressed your comments by moving TFAError to the shared components area. Let me",
+          "channel": "help-admin-web-platform",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if that helps / makes sense",
+          "channel": "help-admin-web-platform",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave-frog: Hey web-platform team! I have <https://app.graphite.com/github/pr/shop/world/487455|this PR> from the Access team that needs reviewers to",
+          "channel": "help-admin-web-platform",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "im stupid",
+          "channel": "proj-partners-orgs-and-rbac",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.11,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "jimmy.song",
+          "count": 10
+        },
+        {
+          "user": "jay.cha",
+          "count": 4
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 2
+        },
+        {
+          "user": "justin.filip",
+          "count": 1
+        },
+        {
+          "user": "ziyan.liu",
+          "count": 1
+        },
+        {
+          "user": "elom.tsiagbey",
+          "count": 1
+        },
+        {
+          "user": "drew.matheson",
+          "count": 1
+        },
+        {
+          "user": "laura.dobson",
+          "count": 1
+        },
+        {
+          "user": "ian.yang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.21,
+      "count": 137,
+      "top_channels": [
+        {
+          "channel": "mpetruzziello-test",
+          "messages": 98
+        },
+        {
+          "channel": "access-river",
+          "messages": 47
+        },
+        {
+          "channel": "proj-partners-orgs-and-rbac",
+          "messages": 41
+        },
+        {
+          "channel": "business-platform-ops",
+          "messages": 20
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 4
+        },
+        {
+          "channel": "inv-19754-5xx-errors-when-visiting-admin-gt-setting",
+          "messages": 4
+        },
+        {
+          "channel": "help-admin-web-platform",
+          "messages": 4
+        },
+        {
+          "channel": "foundations-access-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.27,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "jimmy.song",
+          "count": 7
+        },
+        {
+          "user": "vatsal.patel",
+          "count": 2
+        },
+        {
+          "user": "drew.matheson",
+          "count": 1
+        },
+        {
+          "user": "eytan.seidman",
+          "count": 1
+        },
+        {
+          "user": "elom.tsiagbey",
+          "count": 1
+        },
+        {
+          "user": "jass.arora",
+          "count": 1
+        },
+        {
+          "user": "ian.yang",
+          "count": 1
+        },
+        {
+          "user": "michelle.good",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 48,
+      "14": 14,
+      "16": 6,
+      "13": 19,
+      "21": 2,
+      "20": 44,
+      "17": 27,
+      "15": 29,
+      "18": 14,
+      "22": 1,
+      "6": 9,
+      "5": 7
+    },
+    "by_day": {
+      "Tuesday": 61,
+      "Monday": 51,
+      "Thursday": 36,
+      "Wednesday": 55,
+      "Friday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.35,
+    "dept_average_30d": 4.74,
+    "dept_rank": 395,
+    "dept_size": 1663
+  }
+}

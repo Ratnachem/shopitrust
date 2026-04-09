@@ -1,0 +1,321 @@
+{
+  "username": "michael.lewis",
+  "name": "Michael Lewis",
+  "generated_at": "2026-04-08T20:22:18.982863",
+  "summary": {
+    "message_count": 505,
+    "channels_active": 42,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 13,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: I'm working on supporting the envoy global proxy migration from the resiliency side of things. Part of our plan, at least in the near to",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "So thank you <@U0941QH2B1V> for pushing on that",
+          "channel": "proj-moranis",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help; lmk what you want to do",
+          "channel": "inv-20865-metrics-issues-reported-from-c08493h0mu6-",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018AUZLYKY> do you want me to add you to the one I set up?",
+          "channel": "sre-focus-envoy-observability",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you both",
+          "channel": "sre-focus-envoy-observability",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yeah, I'm not in any rush. I just want to make sure it gets out eventually and that I don't miss any proactive steps I have to take. Thank you!",
+          "channel": "proj-self-hosted-envoy",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "anyway, good luck trying to diagnose stuff",
+          "channel": "proj-moranis",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "proj-moranis",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "those are super helpful clarifications; thank you. I mean, I have no idea if we can figure that out, but I'll look",
+          "channel": "inc-20390-alo-yoga-required-phone-number-on-shop-pa",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":heart: thank you! just wanted to be sure I was reading the vibe correctly",
+          "channel": "inv-20325-estee-lauder-customers-unable-to-add-paym",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "An example, I'd like to have local proxy emit a response header indicating which cluster served a response to a given request. Something like",
+          "channel": "proj-self-hosted-envoy",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "I'm an idiot. I didn't push the metrics changes to shadow",
+          "channel": "proj-moranis",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "basically, when a rebalance drops, we get a",
+          "channel": "proj-moranis",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "~I finally got my first bit of data that I find very, very interesting. I had some partitions for us-east cujo consumers that were reporting their",
+          "channel": "proj-moranis",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm still drafting some junk about outcomes/goals/whatever. But the tl;dr is:\n1. Use vector with VRL/log_to_metric functionality to build the metrics",
+          "channel": "sre-focus-envoy-observability",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "That tecovas synthetic is probably going to keep failing until whatever issue GoDaddy is having is resolved.",
+          "channel": "resiliency-enterprise-alerts",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Also, please come at me with anything that could even plausibly be something we need to be thinking about in the context of flash sales or whatever",
+          "channel": "enterprise-sre-scale",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Dak's correct, but it's worth talking through the actual mechanisms.\n\nTalking specifically about admin API apps: they have three different rate limit",
+          "channel": "enterprise-sre-scale",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "adam.traver",
+          "count": 5
+        },
+        {
+          "user": "keisuke.umegaki",
+          "count": 4
+        },
+        {
+          "user": "bill.bean",
+          "count": 4
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 4
+        },
+        {
+          "user": "jake.levine",
+          "count": 3
+        },
+        {
+          "user": "arbab.ahmed",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 3
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 3
+        },
+        {
+          "user": "dakota.mcinnis",
+          "count": 2
+        },
+        {
+          "user": "scott.sundblade",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.17,
+      "count": 352,
+      "top_channels": [
+        {
+          "channel": "proj-moranis",
+          "messages": 193
+        },
+        {
+          "channel": "sre-focus-envoy-observability",
+          "messages": 31
+        },
+        {
+          "channel": "enterprise-sre-scale",
+          "messages": 28
+        },
+        {
+          "channel": "inv-20181-deploy-related-synthetic-checks-failing-f",
+          "messages": 27
+        },
+        {
+          "channel": "resiliency-enterprise-sre-team",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20540-high-and-sustained-core-p95-response-time",
+          "messages": 19
+        },
+        {
+          "channel": "proj-self-hosted-envoy",
+          "messages": 18
+        },
+        {
+          "channel": "inc-20245-portland-leather-admin",
+          "messages": 18
+        },
+        {
+          "channel": "resiliency-enterprise-alerts",
+          "messages": 16
+        },
+        {
+          "channel": "inc-20390-alo-yoga-required-phone-number-on-shop-pa",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.5,
+      "count": 48,
+      "top_mentioners": [
+        {
+          "user": "dakota.mcinnis",
+          "count": 9
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 8
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 3
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 2
+        },
+        {
+          "user": "arbab.ahmed",
+          "count": 2
+        },
+        {
+          "user": "komail.kanjee",
+          "count": 2
+        },
+        {
+          "user": "chantal.hubrich",
+          "count": 2
+        },
+        {
+          "user": "timea.gremsperger",
+          "count": 2
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 2
+        },
+        {
+          "user": "yusei.nishiyama",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 50,
+      "0": 42,
+      "23": 49,
+      "19": 43,
+      "16": 43,
+      "22": 52,
+      "21": 48,
+      "20": 25,
+      "18": 60,
+      "1": 27,
+      "15": 35,
+      "2": 2,
+      "14": 8,
+      "12": 3,
+      "13": 18
+    },
+    "by_day": {
+      "Wednesday": 92,
+      "Tuesday": 99,
+      "Monday": 136,
+      "Friday": 97,
+      "Thursday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.97,
+    "dept_average_30d": 5.75,
+    "dept_rank": 122,
+    "dept_size": 357
+  }
+}

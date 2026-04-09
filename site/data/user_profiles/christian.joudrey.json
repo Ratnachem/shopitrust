@@ -1,0 +1,315 @@
+{
+  "username": "christian.joudrey",
+  "name": "Christian Joudrey",
+  "generated_at": "2026-04-08T20:22:13.957517",
+  "summary": {
+    "message_count": 580,
+    "channels_active": 16,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 17,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> thanks! you can shutdown.",
+          "channel": "admin-integrations-with-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> sorry, my bad, I meant to say `fileUpdate`",
+          "channel": "cj-river-work",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "&gt; Abhitesh will continue on Unification work\nOops, ok! My bad. :sweat_smile:",
+          "channel": "proj-file-system",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> thanks! you can shutdown now",
+          "channel": "admin-integrations-with-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "i'll fix the alerts, thanks!",
+          "channel": "team-files",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> actually, my bad, make that 950 just so we stay under the limit",
+          "channel": "admin-integrations-with-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U036VMLB0LS> <@W01830N7MM5> can i get another review on <https://github.com/Shopify/terraform-the-cloud/pull/56766>, thanks!",
+          "channel": "imagery-efficiency",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Cool! Let me know if you run into any other issues.",
+          "channel": "proj-2p-ads-imagery",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "It's probably fine, but I was cleaning up the rules so that we could copy/paste an existing rule and use our rollout script as a precaution.\n\nFeel",
+          "channel": "imagery-efficiency",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "imagery-efficiency",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "But, whatever, if we're going to delete it all anyway :shrug-man:",
+          "channel": "proj-reduce-cdn-purge-rate",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Blame",
+          "pattern": "why didn't you",
+          "text": "<@U0AEPQCKB3M> just curious why didn't you keep assert_equal?",
+          "channel": "admin-integrations-with-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> The `url` you are running your conditional on comes from `cloud#url_for`.\n\n`def cloud` returns either `ShopAssetCloud` or",
+          "channel": "proj-reduce-cdn-purge-rate",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> For the prototyping, should we make a directories table so we aren't blocked by the Yugabyte PK work that needs to be done first? Or do we do the",
+          "channel": "proj-file-system",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Running a backfill without the double-write in place is kinda useless because we'll have stale data.",
+          "channel": "team-files",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> in //areas/core/shopify, at what point to mutation inputs get set to their default value when unspecified? from within a",
+          "channel": "cj-river-work",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> in //areas/core/shopify, we have a media_references table that primarily tracks what medias are attached to what products. one can",
+          "channel": "cj-river-work",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "daniel.lobl",
+          "count": 7
+        },
+        {
+          "user": "richard.monette",
+          "count": 6
+        },
+        {
+          "user": "chahna.gupta",
+          "count": 3
+        },
+        {
+          "user": "gurpreet.gill",
+          "count": 2
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 1
+        },
+        {
+          "user": "abhitesh.singh",
+          "count": 1
+        },
+        {
+          "user": "jenny.stanchak",
+          "count": 1
+        },
+        {
+          "user": "joshua.sager",
+          "count": 1
+        },
+        {
+          "user": "teofilo.dinopol",
+          "count": 1
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.48,
+      "count": 210,
+      "top_channels": [
+        {
+          "channel": "cj-river-work",
+          "messages": 125
+        },
+        {
+          "channel": "team-files",
+          "messages": 97
+        },
+        {
+          "channel": "admin-integrations-with-river",
+          "messages": 84
+        },
+        {
+          "channel": "imagery-efficiency",
+          "messages": 79
+        },
+        {
+          "channel": "proj-file-system",
+          "messages": 49
+        },
+        {
+          "channel": "help-files",
+          "messages": 42
+        },
+        {
+          "channel": "proj-2p-ads-imagery",
+          "messages": 35
+        },
+        {
+          "channel": "inc-20355-videos-becoming-locked-when-trying-to-upd",
+          "messages": 24
+        },
+        {
+          "channel": "proj-reduce-cdn-purge-rate",
+          "messages": 21
+        },
+        {
+          "channel": "temp-admin-integrations-burst",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "richard.monette",
+          "count": 13
+        },
+        {
+          "user": "joshua.sager",
+          "count": 7
+        },
+        {
+          "user": "abhitesh.singh",
+          "count": 4
+        },
+        {
+          "user": "chahna.gupta",
+          "count": 3
+        },
+        {
+          "user": "gurpreet.gill",
+          "count": 3
+        },
+        {
+          "user": "vincent.lynch",
+          "count": 3
+        },
+        {
+          "user": "daniel.lobl",
+          "count": 3
+        },
+        {
+          "user": "natalie.dodd",
+          "count": 2
+        },
+        {
+          "user": "val.geyvandov",
+          "count": 2
+        },
+        {
+          "user": "tom.middleton",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 89,
+      "17": 39,
+      "14": 75,
+      "13": 75,
+      "12": 23,
+      "2": 1,
+      "23": 10,
+      "21": 23,
+      "20": 57,
+      "19": 49,
+      "15": 93,
+      "16": 19,
+      "22": 11,
+      "11": 2,
+      "1": 9,
+      "0": 5
+    },
+    "by_day": {
+      "Wednesday": 148,
+      "Tuesday": 101,
+      "Monday": 60,
+      "Thursday": 203,
+      "Friday": 68
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.42,
+    "dept_average_30d": 5.79,
+    "dept_rank": 781,
+    "dept_size": 1233
+  }
+}

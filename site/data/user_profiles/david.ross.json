@@ -1,0 +1,129 @@
+{
+  "username": "david.ross",
+  "name": "David Ross",
+  "generated_at": "2026-04-08T20:22:29.636143",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, I'm having trouble evidencing fraud on <https://trust-platform.shopify.io/tickets/19380694|this shop>, but noticed it's a dupe of",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, <https://trust-platform.shopify.io/shops/98779726136|this shop here> appears to be a duplicate of a",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "stacey.yang",
+          "count": 1
+        },
+        {
+          "user": "natalia.salei",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.05,
+      "count": 54,
+      "top_channels": [
+        {
+          "channel": "emerging-fraud-trends",
+          "messages": 6
+        },
+        {
+          "channel": "help-fraud-operations",
+          "messages": 5
+        },
+        {
+          "channel": "help-credit-risk",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "david.greenslade",
+          "count": 1
+        },
+        {
+          "user": "brian.pi",
+          "count": 1
+        },
+        {
+          "user": "stacey.yang",
+          "count": 1
+        },
+        {
+          "user": "marek.orsovy",
+          "count": 1
+        },
+        {
+          "user": "gabriel.rebulanan",
+          "count": 1
+        },
+        {
+          "user": "bozena.jagic",
+          "count": 1
+        },
+        {
+          "user": "mercedes.heras",
+          "count": 1
+        },
+        {
+          "user": "jantien.sneyd",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "23": 1,
+      "17": 5,
+      "20": 1,
+      "15": 1,
+      "13": 2,
+      "16": 1,
+      "14": 2
+    },
+    "by_day": {
+      "Friday": 6,
+      "Monday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.0,
+    "dept_average_30d": 4.89,
+    "dept_rank": 171,
+    "dept_size": 237
+  }
+}

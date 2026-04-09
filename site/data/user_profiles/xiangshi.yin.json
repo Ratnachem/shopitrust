@@ -1,0 +1,224 @@
+{
+  "username": "xiangshi.yin",
+  "name": "Xiangshi Yin",
+  "generated_at": "2026-04-08T20:22:07.086328",
+  "summary": {
+    "message_count": 183,
+    "channels_active": 27,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, the latest run started from 9:12AM. The 2 failed jobs started from 7PM yesterday and 1AM this morning :thinking_face:",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the late response, <@W018HNRR9MG>! Yes, from now on, as long as your team is a registered ownership slice that owns marts (meaning your",
+          "channel": "proj-dw-playground",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Apparently I was wrong :facepalm:",
+          "channel": "cto-metrics-monitoring",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "I'm assuming no, but let me check. You are in the <https://groups.google.com/a/shopify.com/g/data-warehouse-gcp-admins/members|DW admin group>, so",
+          "channel": "proj-dw-playground",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "adolfo.rodriguez",
+          "count": 6
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 5
+        },
+        {
+          "user": "kristo.krugger",
+          "count": 4
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 4
+        },
+        {
+          "user": "ian.robertson",
+          "count": 3
+        },
+        {
+          "user": "marcolivier.arsenault",
+          "count": 3
+        },
+        {
+          "user": "greg.clarke",
+          "count": 2
+        },
+        {
+          "user": "lin.taylor",
+          "count": 1
+        },
+        {
+          "user": "connor.mccambridge",
+          "count": 1
+        },
+        {
+          "user": "andrew.zhuang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.93,
+      "count": 181,
+      "top_channels": [
+        {
+          "channel": "tmp-slack-notification-demo",
+          "messages": 39
+        },
+        {
+          "channel": "cto-metrics-monitoring",
+          "messages": 32
+        },
+        {
+          "channel": "proj-dw-playground",
+          "messages": 30
+        },
+        {
+          "channel": "data-monorepo-migration",
+          "messages": 13
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 11
+        },
+        {
+          "channel": "oncall-data-warehouse",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20196-dw-prod-job-failures-related-to-stale-man",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "messages": 6
+        },
+        {
+          "channel": "proj-data-platform-decouple-ownership",
+          "messages": 5
+        },
+        {
+          "channel": "inv-19258-dw-tasks-sitting-in-scheduled-state",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "kristie.ching",
+          "count": 9
+        },
+        {
+          "user": "jill.hogan",
+          "count": 9
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 9
+        },
+        {
+          "user": "lin.taylor",
+          "count": 5
+        },
+        {
+          "user": "sana.asghar",
+          "count": 4
+        },
+        {
+          "user": "ian.robertson",
+          "count": 2
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 2
+        },
+        {
+          "user": "spencer.bonar",
+          "count": 2
+        },
+        {
+          "user": "andrew.zhuang",
+          "count": 2
+        },
+        {
+          "user": "marvin.davila",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "20": 16,
+      "15": 6,
+      "14": 16,
+      "13": 22,
+      "19": 25,
+      "22": 9,
+      "21": 5,
+      "17": 18,
+      "0": 14,
+      "12": 1,
+      "11": 1,
+      "3": 6,
+      "2": 10,
+      "23": 8,
+      "1": 8
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 49,
+      "Monday": 51,
+      "Friday": 29,
+      "Thursday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.19,
+    "dept_average_30d": 5.39,
+    "dept_rank": 55,
+    "dept_size": 272
+  }
+}

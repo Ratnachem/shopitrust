@@ -1,0 +1,107 @@
+{
+  "username": "sri.addula",
+  "name": "Sri Addula",
+  "generated_at": "2026-04-08T20:22:19.948010",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 16,
+    "days_scale": 0.7
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sure thank you.",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great thank you!",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.65,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "murtaza.haider",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.45,
+      "count": 45,
+      "top_channels": [
+        {
+          "channel": "help-fraud-operations",
+          "messages": 4
+        },
+        {
+          "channel": "help-apps-in-admin",
+          "messages": 3
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 2
+        },
+        {
+          "channel": "help-billing-platform",
+          "messages": 1
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.6,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "murtaza.haider",
+          "count": 1
+        },
+        {
+          "user": "mithun.baskaran",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 5,
+      "20": 3,
+      "14": 1,
+      "19": 2
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Friday": 1,
+      "Thursday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.0,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1199,
+    "dept_size": 1663
+  }
+}

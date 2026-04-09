@@ -1,0 +1,277 @@
+{
+  "username": "niko.rutherford",
+  "name": "Niko Rutherford",
+  "generated_at": "2026-04-08T20:22:22.225045",
+  "summary": {
+    "message_count": 354,
+    "channels_active": 26,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "(whoops missed your reply).\n\n&gt; Is there a specific agent you're interested in?\nI believe it is using pi. The main use case is that I use this tool",
+          "channel": "pair-review",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "I'm happy to help with any reviews needed for this!",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh thank you both! That's so kind of you :sweat_smile:",
+          "channel": "inv-21071-cart-flaky-tests",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sorry my PRs were just random ones from yesterday. If there is a PR for the issue, feel free to leave it be. Otherwise take it over if you wouldn't",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much for the quick response!",
+          "channel": "pair-review",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Seeing how the thank you button was removed...",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Gotcha. That makes sense. Thank you!",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "^ :github-issue-grey: <https://github.com/shop/issues-cart-api/issues/1679|Clean up flag: shopify_scripts_discount_symmetry_cart_checkout> (old",
+          "channel": "checkout-carts-operations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "^ :github-issue-grey: <https://github.com/shop/issues-cart-api/issues/1680|Clean up flag: scripts_shop_from_presentment_new_quantity_logic> (old",
+          "channel": "checkout-carts-operations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! That is my main way of starting pair-review. So then I don't have to wait for the worktree and then click a button to start it, I can just",
+          "channel": "pair-review",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "As for the security side, the cart cookie is _not_ `HttpOnly` so any JS/extensions/whatever can already read the cart cookie with the key on it. So",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I can make the change. Wasn't sure how necessary it was. But I guess whats the point of logging it if it will just be `[censored]` or whatever",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "vinicius.rocha",
+          "count": 10
+        },
+        {
+          "user": "laurent.dang",
+          "count": 7
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 7
+        },
+        {
+          "user": "chris.waters",
+          "count": 4
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 2
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 2
+        },
+        {
+          "user": "devesh.shetty",
+          "count": 2
+        },
+        {
+          "user": "steven.janczy",
+          "count": 2
+        },
+        {
+          "user": "kieran.bendell",
+          "count": 1
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 411,
+      "top_channels": [
+        {
+          "channel": "checkout-carts-production-support",
+          "messages": 143
+        },
+        {
+          "channel": "checkout-carts-river",
+          "messages": 39
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 33
+        },
+        {
+          "channel": "inv-21071-cart-flaky-tests",
+          "messages": 26
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 20
+        },
+        {
+          "channel": "checkout-carts-team",
+          "messages": 16
+        },
+        {
+          "channel": "inc-20782-b2b-customer-account-login-issue",
+          "messages": 12
+        },
+        {
+          "channel": "tmp-spanner-autoscale",
+          "messages": 10
+        },
+        {
+          "channel": "pair-review",
+          "messages": 9
+        },
+        {
+          "channel": "inc-19953-flaky-post-merge-tests",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.69,
+      "count": 69,
+      "top_mentioners": [
+        {
+          "user": "laurent.dang",
+          "count": 14
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 6
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 6
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 4
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 3
+        },
+        {
+          "user": "gabriel.queiroz",
+          "count": 3
+        },
+        {
+          "user": "alben.alvarez",
+          "count": 3
+        },
+        {
+          "user": "jason.godson",
+          "count": 2
+        },
+        {
+          "user": "sander.lijbrink",
+          "count": 2
+        },
+        {
+          "user": "cindy.li",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 42,
+      "14": 58,
+      "13": 17,
+      "12": 8,
+      "0": 3,
+      "20": 26,
+      "23": 7,
+      "22": 22,
+      "17": 59,
+      "16": 31,
+      "21": 35,
+      "19": 24,
+      "18": 22
+    },
+    "by_day": {
+      "Wednesday": 65,
+      "Tuesday": 83,
+      "Monday": 30,
+      "Friday": 36,
+      "Thursday": 140
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.85,
+    "dept_average_30d": 5.79,
+    "dept_rank": 3,
+    "dept_size": 1233
+  }
+}

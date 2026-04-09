@@ -1,0 +1,277 @@
+{
+  "username": "daniel.wyckoff",
+  "name": "Daniel Wyckoff",
+  "generated_at": "2026-04-08T20:22:06.740351",
+  "summary": {
+    "message_count": 219,
+    "channels_active": 23,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that I must have not clicked save or something",
+          "channel": "shop-token-payments",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to drop after 15 and I can adjust its time tomorrow!",
+          "channel": "shop-token-payments",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I think running at <https://github.com/shopify-playground/shop_subscription_payment_resiliency/issues/50> by pulling context from our prototype would",
+          "channel": "shop-token-payments",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I.E. it would be amazing if we don't have to do this, but maybe we have to :+1:",
+          "channel": "inv-21023-investigation-cvv-re-verification-gap-on-",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "(Also fwiw I actually totally think everyone in this thread has amazing and correct POVs, just competing audiences were trying to help haha)",
+          "channel": "proj-shop-agent-card",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "This is fuzzy for me so not a quick question, but I'm happy to help pair.\nI guess the fundamental issue here is that when credential replacement",
+          "channel": "proj-payments-global-vault-payments",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Looks fire, I think the only gap I want to call out we need to consider from the payments product side: are we ok with a transition from near-instant",
+          "channel": "shop-token",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I have those concerns documented here <@W018PTWAJTE> if you'd like to take a peek:",
+          "channel": "shop-token-payments",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Product question to land as well:\nAre platforms allowed ONLY ONE shop token, ever? Should the experience be:\n\u2022 Buyer auths, sets spend permissions",
+          "channel": "shop-token-payments",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah my concern is that by having a limit that does not reduce per use, the agent will just split up the transaction N times to do what they need to",
+          "channel": "shop-for-agentic",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":+1: This is another reason why I think we should avoid auth. Once an order is authorized, merchants can confidently go ahead with fulfillment /",
+          "channel": "shop-token",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "chris.bacon",
+          "count": 9
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 9
+        },
+        {
+          "user": "david.pettersson",
+          "count": 6
+        },
+        {
+          "user": "charles.mccauley",
+          "count": 4
+        },
+        {
+          "user": "qi.chen",
+          "count": 3
+        },
+        {
+          "user": "harry.venables",
+          "count": 3
+        },
+        {
+          "user": "jamie.ly",
+          "count": 2
+        },
+        {
+          "user": "francesco.ferazzoli",
+          "count": 2
+        },
+        {
+          "user": "lee.richmond",
+          "count": 2
+        },
+        {
+          "user": "nick.jones",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.63,
+      "count": 271,
+      "top_channels": [
+        {
+          "channel": "shop-for-agentic",
+          "messages": 43
+        },
+        {
+          "channel": "shop-token",
+          "messages": 36
+        },
+        {
+          "channel": "shop-token-payments",
+          "messages": 21
+        },
+        {
+          "channel": "pp-vaulting-team",
+          "messages": 21
+        },
+        {
+          "channel": "proj-payments-card-present-emv",
+          "messages": 17
+        },
+        {
+          "channel": "proj-shop-agent-card",
+          "messages": 12
+        },
+        {
+          "channel": "inv-21023-investigation-cvv-re-verification-gap-on-",
+          "messages": 10
+        },
+        {
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "messages": 9
+        },
+        {
+          "channel": "proj-shop-wallet-global-vault-migration",
+          "messages": 7
+        },
+        {
+          "channel": "global-vault-migration",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 89,
+      "top_mentioners": [
+        {
+          "user": "vita.valeikaite",
+          "count": 32
+        },
+        {
+          "user": "joe.rinaldijohnson",
+          "count": 10
+        },
+        {
+          "user": "chris.bacon",
+          "count": 7
+        },
+        {
+          "user": "mark.levidayyan",
+          "count": 5
+        },
+        {
+          "user": "nick.smith",
+          "count": 3
+        },
+        {
+          "user": "jess.alvesdesa",
+          "count": 2
+        },
+        {
+          "user": "max.rais",
+          "count": 2
+        },
+        {
+          "user": "charles.mccauley",
+          "count": 2
+        },
+        {
+          "user": "lee.richmond",
+          "count": 2
+        },
+        {
+          "user": "robertas.godelis",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 19,
+      "16": 6,
+      "15": 19,
+      "14": 22,
+      "13": 25,
+      "12": 23,
+      "6": 2,
+      "5": 2,
+      "2": 3,
+      "1": 5,
+      "17": 14,
+      "11": 4,
+      "0": 1,
+      "21": 4,
+      "19": 39,
+      "20": 19,
+      "3": 3,
+      "22": 5,
+      "4": 3,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 44,
+      "Tuesday": 66,
+      "Monday": 43,
+      "Friday": 29,
+      "Thursday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.52,
+    "dept_average_30d": 5.77,
+    "dept_rank": 532,
+    "dept_size": 885
+  }
+}

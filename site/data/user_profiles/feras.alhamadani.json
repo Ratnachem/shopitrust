@@ -1,0 +1,115 @@
+{
+  "username": "feras.alhamadani",
+  "name": "Feras Alhamadani",
+  "generated_at": "2026-04-08T20:22:32.240434",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.0,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "vincent.chio",
+          "count": 1
+        },
+        {
+          "user": "satoshi.miyauchi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.8,
+      "count": 159,
+      "top_channels": [
+        {
+          "channel": "help-query-engine",
+          "messages": 11
+        },
+        {
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "messages": 3
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 3
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 2
+        },
+        {
+          "channel": "inv-19785-duplicate-fix-blocked-by-ci-deadlock-in-s",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.14,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "boris.slobodin",
+          "count": 2
+        },
+        {
+          "user": "durmus.karatay",
+          "count": 1
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 1
+        },
+        {
+          "user": "alex.babinski",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 2,
+      "18": 5,
+      "17": 3,
+      "16": 2,
+      "15": 4,
+      "14": 1,
+      "13": 3
+    },
+    "by_day": {
+      "Tuesday": 8,
+      "Monday": 11,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.88,
+    "dept_average_30d": 4.74,
+    "dept_rank": 610,
+    "dept_size": 1663
+  }
+}

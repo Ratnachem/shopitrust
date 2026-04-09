@@ -1,0 +1,173 @@
+{
+  "username": "patrick.haluptzok",
+  "name": "Patrick Haluptzok",
+  "generated_at": "2026-04-08T20:22:28.871587",
+  "summary": {
+    "message_count": 18,
+    "channels_active": 6,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 1,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Can I get added to the comet workspace \"generative-recommenders\"? My training job below is trying to write to the project \"product-retrieval-staging\"",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U09M0KNEJG0> <@U09SAJ4RW77> - I agree with <@U09M0KNEJG0> is saying we have to ship an initial version of this to help out Ads by April 3 - but",
+          "channel": "commerce-foundation-model",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would argue for 2 GSD, because we could choose to do UE or multi-modal or both.  UE is one pipeline with shared loss for many downstream tasks that",
+          "channel": "commerce-foundation-model",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "christophe.vangysel",
+          "count": 5
+        },
+        {
+          "user": "linjun.yang",
+          "count": 4
+        },
+        {
+          "user": "shuying.sun",
+          "count": 3
+        },
+        {
+          "user": "yang.liu",
+          "count": 2
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 2
+        },
+        {
+          "user": "michael.ruffolo",
+          "count": 1
+        },
+        {
+          "user": "samantha.kicinski",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.99,
+      "count": 79,
+      "top_channels": [
+        {
+          "channel": "commerce-foundation-model",
+          "messages": 6
+        },
+        {
+          "channel": "proj-finetuned-product-embeddings",
+          "messages": 4
+        },
+        {
+          "channel": "claude-code",
+          "messages": 4
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 1
+        },
+        {
+          "channel": "search-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "shuying.sun",
+          "count": 12
+        },
+        {
+          "user": "christophe.vangysel",
+          "count": 6
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 3
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 2
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 2
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 1
+        },
+        {
+          "user": "michael.ruffolo",
+          "count": 1
+        },
+        {
+          "user": "mojtaba.kohram",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "3": 1,
+      "23": 2,
+      "18": 2,
+      "15": 2,
+      "21": 4,
+      "19": 4,
+      "16": 1,
+      "17": 1,
+      "20": 1
+    },
+    "by_day": {
+      "Tuesday": 2,
+      "Friday": 3,
+      "Thursday": 6,
+      "Monday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.51,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1130,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "username": "ian.paul",
+  "name": "Ian Paul",
+  "generated_at": "2026-04-08T20:22:22.754382",
+  "summary": {
+    "message_count": 344,
+    "channels_active": 28,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I duplicated it over to <https://github.com/Shopify/shop-identity/issues/7698> where we'll triage it in the backlog",
+          "channel": "help-shop-identity",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Quite simple thanks to JP's work creating the primitives <https://github.com/shop/world/pull/533135/changes>",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Nice, thanks! Will try and get a prototype working today",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "You're right there is already lots of data available",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ok, will connect with them tomorrow and see what they think, thanks! :slightly_smiling_face:",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "You should have enough context to put up a PR. Let me know if there's anything unclear",
+          "channel": "shop-identity-river-explorations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "will do, thanks! :slightly_smiling_face:",
+          "channel": "shop-bots",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sounds good, let me know if you want me to take over, otherwise I'll kick another one off in a bit :slightly_smiling_face:",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Sounds good, let me know if you want me to take over, otherwise I'll kick another one off in a bit :slightly_smiling_face:",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey! I think I can help :slightly_smiling_face:\n&gt; I thought this would show the UX mentioned above (referral products greyed out, native product",
+          "channel": "shop-identity",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Following up from the demos today, some #s on setting `sbdid`s during shop_pay_callback guest checkout redirects:\n1. screenshot 1: whatever approach",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have enough context to put up a PR. Let me know if there's anything unclear",
+          "channel": "shop-identity-river-explorations",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "stijn.heymans",
+          "count": 15
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 12
+        },
+        {
+          "user": "rabeea.ahmad",
+          "count": 8
+        },
+        {
+          "user": "erin.ren",
+          "count": 7
+        },
+        {
+          "user": "julie.haynes",
+          "count": 4
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 3
+        },
+        {
+          "user": "elsa.huang",
+          "count": 2
+        },
+        {
+          "user": "shane.lawrence",
+          "count": 2
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 1
+        },
+        {
+          "user": "matt.korostoff",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.81,
+      "count": 175,
+      "top_channels": [
+        {
+          "channel": "boost-user-recognition",
+          "messages": 140
+        },
+        {
+          "channel": "shop-recognition-continuity-team",
+          "messages": 30
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 27
+        },
+        {
+          "channel": "shop-identity-river-explorations",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20330-shop-js-e2e-tests-failing-for-latest-shop",
+          "messages": 20
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 15
+        },
+        {
+          "channel": "shop-identity-ops",
+          "messages": 13
+        },
+        {
+          "channel": "shop-identity",
+          "messages": 12
+        },
+        {
+          "channel": "inv-20321-increase-in-activerecordrecordinvalid-val",
+          "messages": 8
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 82,
+      "top_mentioners": [
+        {
+          "user": "stijn.heymans",
+          "count": 17
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 15
+        },
+        {
+          "user": "rabeea.ahmad",
+          "count": 14
+        },
+        {
+          "user": "erin.ren",
+          "count": 6
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 4
+        },
+        {
+          "user": "sang.le",
+          "count": 4
+        },
+        {
+          "user": "simon.menardlariviere",
+          "count": 3
+        },
+        {
+          "user": "carine.araujo",
+          "count": 2
+        },
+        {
+          "user": "andrew.croskery",
+          "count": 2
+        },
+        {
+          "user": "andre.ericson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 34,
+      "21": 49,
+      "20": 30,
+      "19": 38,
+      "18": 30,
+      "16": 41,
+      "23": 26,
+      "1": 8,
+      "0": 15,
+      "22": 30,
+      "17": 38,
+      "14": 3,
+      "12": 1,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 151,
+      "Tuesday": 57,
+      "Monday": 41,
+      "Friday": 37,
+      "Thursday": 58
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.53,
+    "dept_average_30d": 5.86,
+    "dept_rank": 35,
+    "dept_size": 166
+  }
+}

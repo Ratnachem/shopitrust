@@ -1,0 +1,152 @@
+{
+  "username": "nacho.abad",
+  "name": "Nacho Abad",
+  "generated_at": "2026-04-08T20:22:31.147190",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 5,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!!",
+          "channel": "salesforce-data-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "hey team! i have had this case opened for 2 weeks:",
+          "channel": "salesforce-data-ops",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "pedro.morales",
+          "count": 1
+        },
+        {
+          "user": "jonathan.chu",
+          "count": 1
+        },
+        {
+          "user": "cristina.hernandez",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.42,
+      "count": 11,
+      "top_channels": [
+        {
+          "channel": "customer-references",
+          "messages": 6
+        },
+        {
+          "channel": "salesforce-data-ops",
+          "messages": 2
+        },
+        {
+          "channel": "proj-es-zigzag-event-15-16-april",
+          "messages": 1
+        },
+        {
+          "channel": "emea-new-biz-announcer",
+          "messages": 1
+        },
+        {
+          "channel": "commercial-europe",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "valeria.tentorio",
+          "count": 4
+        },
+        {
+          "user": "maria.gallart",
+          "count": 3
+        },
+        {
+          "user": "alexandre.chaumien",
+          "count": 3
+        },
+        {
+          "user": "blas.segarravazquez",
+          "count": 2
+        },
+        {
+          "user": "elie.hosansky",
+          "count": 1
+        },
+        {
+          "user": "ane.fano",
+          "count": 1
+        },
+        {
+          "user": "cristina.hernandez",
+          "count": 1
+        },
+        {
+          "user": "beniamino.colombo",
+          "count": 1
+        },
+        {
+          "user": "ashleigh.finlayson",
+          "count": 1
+        },
+        {
+          "user": "mariam.zbadi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "16": 2,
+      "12": 1,
+      "10": 1,
+      "15": 2,
+      "9": 1,
+      "7": 3
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Tuesday": 3,
+      "Friday": 2,
+      "Thursday": 1,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.51,
+    "dept_average_30d": 4.32,
+    "dept_rank": 767,
+    "dept_size": 848
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "username": "dimitri.yacoub",
+  "name": "Dimitri Yacoub",
+  "generated_at": "2026-04-08T20:22:08.834761",
+  "summary": {
+    "message_count": 295,
+    "channels_active": 14,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I am noticing that only 32 subtasks are active, and correlating this with the kafka partition count. I suspect that increasing it will allow more",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "We can potentially use that pipeline as a shopify-wide benchmark for QE streaming throughput once it is complete. Can have it done by",
+          "channel": "canonical-data-engineering-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to redeploy with a vanilla connector just to get a clean set of results for you?",
+          "channel": "canonical-data-engineering-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@W018WBMJ6C9> ,\n\nFollowing up on our sync last week where we touched on SLOs/Timeliness for QE, specifically around \"guaranteed correctness via",
+          "channel": "catalog-data",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Then you 'yeet' hard-delete notification straight into whatever is powering the presentation layer (bigtable)_ and tell it to delete records with",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "... I think there may have been an update to the gen-catalog command within the last hour that broke it for me. Trying to figure it out now...",
+          "channel": "catalog-data",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "joirdan.gumbs",
+          "count": 33
+        },
+        {
+          "user": "trish.gillett",
+          "count": 21
+        },
+        {
+          "user": "balint.bene",
+          "count": 6
+        },
+        {
+          "user": "minh.tran",
+          "count": 3
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 2
+        },
+        {
+          "user": "kyle.jaebker",
+          "count": 2
+        },
+        {
+          "user": "kevin.chou",
+          "count": 2
+        },
+        {
+          "user": "maggie.zhou",
+          "count": 1
+        },
+        {
+          "user": "nicholas.w.chen",
+          "count": 1
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.47,
+      "count": 157,
+      "top_channels": [
+        {
+          "channel": "catalog-data",
+          "messages": 186
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 57
+        },
+        {
+          "channel": "dimi_river_test_and_debug",
+          "messages": 10
+        },
+        {
+          "channel": "canonical-data-engineering-team",
+          "messages": 9
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 8
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 7
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 5
+        },
+        {
+          "channel": "data-engineering-community",
+          "messages": 3
+        },
+        {
+          "channel": "dw-logistics-monitoring",
+          "messages": 3
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.67,
+      "count": 40,
+      "top_mentioners": [
+        {
+          "user": "joirdan.gumbs",
+          "count": 6
+        },
+        {
+          "user": "trish.gillett",
+          "count": 4
+        },
+        {
+          "user": "kyle.jaebker",
+          "count": 4
+        },
+        {
+          "user": "nicholas.w.chen",
+          "count": 3
+        },
+        {
+          "user": "lin.taylor",
+          "count": 3
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 3
+        },
+        {
+          "user": "spela.petelinek",
+          "count": 2
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 2
+        },
+        {
+          "user": "balint.bene",
+          "count": 2
+        },
+        {
+          "user": "wilson.becker",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 57,
+      "16": 6,
+      "15": 5,
+      "6": 2,
+      "4": 20,
+      "2": 13,
+      "1": 9,
+      "21": 19,
+      "20": 62,
+      "19": 34,
+      "9": 5,
+      "0": 6,
+      "23": 10,
+      "3": 3,
+      "8": 7,
+      "17": 19,
+      "14": 2,
+      "5": 12,
+      "22": 4
+    },
+    "by_day": {
+      "Wednesday": 84,
+      "Tuesday": 50,
+      "Monday": 30,
+      "Friday": 85,
+      "Thursday": 46
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.29,
+    "dept_average_30d": 5.39,
+    "dept_rank": 46,
+    "dept_size": 272
+  }
+}

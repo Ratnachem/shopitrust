@@ -1,0 +1,296 @@
+{
+  "username": "fredy.pla",
+  "name": "Fredy Pla",
+  "generated_at": "2026-04-08T20:22:11.534851",
+  "summary": {
+    "message_count": 504,
+    "channels_active": 21,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the trouble, and please let us know if you run into any other issues",
+          "channel": "help-flywheel",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I shipped both of my PRs for the API updates to the convohub &lt;-&gt; flywheel annotations.\n<@U08RRMX0T8S> I did some refactoring on the code so",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I am in Toronto until Friday so let me know if I can help with anything",
+          "channel": "tmp-storekick-agent-eval-burst",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I am in Toronto until Friday so let me know if I can help with anything",
+          "channel": "tmp-storekick-agent-eval-burst",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Our docs on extractors should help <https://flywheel-docs.quick.shopify.io/guides/extractors>\nAlso obviously if you have any question I can help with",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "These are super valuable thank you !!",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "did you folks chat ?\nLet me know if there is anything I can help explaining",
+          "channel": "help-flywheel",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "did you folks chat ?\nLet me know if there is anything I can help explaining",
+          "channel": "help-flywheel",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much, and if I run into any blockers I will circle back here",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I was working with whatever was main last Wednesday :smile:",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "stage uploads return a signed url which you then will use the FileCreate mutation to actually create the media records in core.\nthe key would be to",
+          "channel": "sidekick-input",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "A couple of things to consider for this.\n\u2022 If you create a new bucket make sure whatever app needs access, has the correct IAM permissions to do",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U03NRAC7E3B> would you be willing to contribute whatever doesn't currently exist in our help documentation <https://flywheel-docs.quick.shopify.io>",
+          "channel": "help-flywheel",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "matt.koenig",
+          "count": 24
+        },
+        {
+          "user": "precious.kolawole",
+          "count": 11
+        },
+        {
+          "user": "matthew.sherar",
+          "count": 8
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 8
+        },
+        {
+          "user": "joud.chataoui",
+          "count": 7
+        },
+        {
+          "user": "amitoj.brar",
+          "count": 7
+        },
+        {
+          "user": "mckayla.lankau",
+          "count": 5
+        },
+        {
+          "user": "husain.mandsaurwala",
+          "count": 5
+        },
+        {
+          "user": "ani.vangara",
+          "count": 5
+        },
+        {
+          "user": "tavian.barnes",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.62,
+      "count": 165,
+      "top_channels": [
+        {
+          "channel": "proj-agent-flywheel-platform",
+          "messages": 255
+        },
+        {
+          "channel": "help-flywheel",
+          "messages": 106
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 22
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 18
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 16
+        },
+        {
+          "channel": "devs-ask-quick-questions",
+          "messages": 16
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 9
+        },
+        {
+          "channel": "tmp-storekick-agent-eval-burst",
+          "messages": 8
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 8
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 127,
+      "top_mentioners": [
+        {
+          "user": "matt.koenig",
+          "count": 25
+        },
+        {
+          "user": "husain.mandsaurwala",
+          "count": 12
+        },
+        {
+          "user": "joud.chataoui",
+          "count": 10
+        },
+        {
+          "user": "anastasiia.konon-7877",
+          "count": 7
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 7
+        },
+        {
+          "user": "bhavya.sharma",
+          "count": 6
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 6
+        },
+        {
+          "user": "hugh.nguyen",
+          "count": 4
+        },
+        {
+          "user": "matthew.sherar",
+          "count": 4
+        },
+        {
+          "user": "justin.smestad",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 38,
+      "17": 64,
+      "16": 45,
+      "15": 58,
+      "14": 47,
+      "13": 16,
+      "21": 31,
+      "20": 73,
+      "22": 34,
+      "19": 48,
+      "23": 8,
+      "1": 19,
+      "2": 1,
+      "4": 2,
+      "0": 11,
+      "10": 2,
+      "12": 6,
+      "5": 1
+    },
+    "by_day": {
+      "Wednesday": 118,
+      "Tuesday": 124,
+      "Monday": 64,
+      "Thursday": 117,
+      "Friday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.57,
+    "dept_average_30d": 5.79,
+    "dept_rank": 158,
+    "dept_size": 1233
+  }
+}

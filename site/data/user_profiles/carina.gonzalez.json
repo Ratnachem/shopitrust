@@ -1,0 +1,104 @@
+{
+  "username": "carina.gonzalez",
+  "name": "Carina Gonzalez",
+  "generated_at": "2026-04-08T20:22:19.328283",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay, I will let them know. Thank you",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Team,\n\n I am on the Money and I just pulled a ticket that I think is more within the scope of Risk than Money. The merchant is asking about their",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey Team,\n\n I am on the Money and I just pulled a ticket that I think is more within the scope of Risk than Money. The merchant is asking about their",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello I am on the money team and I do need help with this one. Please and thank you!",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "jaspreet.longia",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-credit-risk",
+          "messages": 3
+        },
+        {
+          "channel": "help-it",
+          "messages": 3
+        },
+        {
+          "channel": "help-billing-platform",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3,
+      "17": 2,
+      "20": 1,
+      "19": 2
+    },
+    "by_day": {
+      "Wednesday": 3,
+      "Tuesday": 2,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 2.86,
+    "dept_average_30d": 4.09,
+    "dept_rank": 628,
+    "dept_size": 642
+  }
+}

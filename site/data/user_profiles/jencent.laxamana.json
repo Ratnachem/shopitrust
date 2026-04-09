@@ -1,0 +1,109 @@
+{
+  "username": "jencent.laxamana",
+  "name": "Jencent Laxamana",
+  "generated_at": "2026-04-08T20:22:28.279362",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 7,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 20,
+    "days_scale": 0.87
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Annie!",
+          "channel": "help-customers",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.52,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "zhenjie.zhuo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.88,
+      "count": 155,
+      "top_channels": [
+        {
+          "channel": "help-customers",
+          "messages": 4
+        },
+        {
+          "channel": "help-search-serving",
+          "messages": 3
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 2
+        },
+        {
+          "channel": "help-theme-platform",
+          "messages": 2
+        },
+        {
+          "channel": "help-discounts",
+          "messages": 2
+        },
+        {
+          "channel": "help-localization",
+          "messages": 2
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.24,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "zhenjie.zhuo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 4,
+      "14": 3,
+      "12": 1,
+      "16": 1,
+      "18": 2,
+      "17": 3,
+      "21": 1,
+      "20": 1
+    },
+    "by_day": {
+      "Tuesday": 4,
+      "Friday": 2,
+      "Wednesday": 6,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.25,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1011,
+    "dept_size": 1663
+  }
+}

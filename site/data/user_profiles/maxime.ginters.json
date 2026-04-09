@@ -1,0 +1,304 @@
+{
+  "username": "maxime.ginters",
+  "name": "Maxime Ginters",
+  "generated_at": "2026-04-08T20:22:09.052630",
+  "summary": {
+    "message_count": 749,
+    "channels_active": 26,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need help with the setup",
+          "channel": "tmp-core-sfr-yugabyte-infra",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help have a look if needed",
+          "channel": "si-2520-axios",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey :wave: I'll miss the sync today, let me know if I should be especially aware of anything",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> \"or just someone who genuinely loves Envoy proxy configs at 3 AM. Both are plausible.\" this is gold, thank you",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "(Feel free to raise that to directors etc if need be, so that priorities gets well taken into account up top)",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if I understand this correctly.\n\nBecause we made a commit after the PR branch off of A. the Action is diffing between C and D therefore",
+          "channel": "proj-infra-repo-vms-with-nix",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "push whatever you have we'll merge :slightly_smiling_face:",
+          "channel": "proj-infra-mcs-xds-routing",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The output was from the /var/log/nix-rebuild-whatever",
+          "channel": "proj-infra-repo-vms-with-nix",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You know your stuff, so whatever make sense to you.\n\nBut I don't understand how we can do ILBs in front of 2 Redis Pods. Like, don't you wanna end up",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Can do I stupid questions? the VMs don't auto-scale right? What if we push their IPs into a CloudDNS zone through their terraform module and that's",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Check whatever the cube-api-rs backend expects",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Absolutely, you fully control both end here, do whatever you're happy with",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You can send whatever header you want from your client :man-shrugging:",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Send it from the client :sweat_smile: I don't really know what would be the best option here. There is nothing between core and you with this. It's",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The main concern is that Shopify/infrastructure is exposed to app owner and they could be doing whatever level of random stuff in there, and",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "aditya.sharma",
+          "count": 13
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 12
+        },
+        {
+          "user": "salima.ammar",
+          "count": 9
+        },
+        {
+          "user": "justin.reid",
+          "count": 7
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 4
+        },
+        {
+          "user": "darren.worrall",
+          "count": 4
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 3
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 3
+        },
+        {
+          "user": "filipe.deo",
+          "count": 1
+        },
+        {
+          "user": "ryan.woodworth",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.58,
+      "count": 321,
+      "top_channels": [
+        {
+          "channel": "proj-infra-repo-vms-with-nix",
+          "messages": 243
+        },
+        {
+          "channel": "proj-infra-mcs-xds-routing",
+          "messages": 163
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 124
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 56
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 30
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 26
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 20
+        },
+        {
+          "channel": "proj-40171-infrastructure-repo",
+          "messages": 12
+        },
+        {
+          "channel": "tmp-core-sfr-yugabyte-infra",
+          "messages": 11
+        },
+        {
+          "channel": "inv-19894-kafka-mcs-domains-not-being-created",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.71,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "day.levesque",
+          "count": 5
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 5
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 4
+        },
+        {
+          "user": "aditya.sharma",
+          "count": 3
+        },
+        {
+          "user": "nick.presta",
+          "count": 2
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 2
+        },
+        {
+          "user": "james.hall",
+          "count": 2
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 2
+        },
+        {
+          "user": "mark.rattle",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 94,
+      "17": 73,
+      "16": 52,
+      "13": 99,
+      "21": 11,
+      "20": 45,
+      "15": 108,
+      "14": 139,
+      "12": 26,
+      "19": 97,
+      "10": 1,
+      "2": 4
+    },
+    "by_day": {
+      "Wednesday": 237,
+      "Tuesday": 209,
+      "Thursday": 103,
+      "Monday": 137,
+      "Friday": 63
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.44,
+    "dept_average_30d": 5.75,
+    "dept_rank": 70,
+    "dept_size": 357
+  }
+}

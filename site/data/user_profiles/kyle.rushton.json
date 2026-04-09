@@ -1,0 +1,80 @@
+{
+  "username": "kyle.rushton",
+  "name": "Kyle Rushton",
+  "generated_at": "2026-04-08T20:22:29.315594",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, unsure if this is applicable, but if they are able to leverage SPC, would that also allow them to leverage the agentic plan? Or are those",
+          "channel": "temp-spcc-marketplace",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.8,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "proj-ai-email-amer-sales-la-d2c-retail-ob",
+          "messages": 2
+        },
+        {
+          "channel": "temp-spcc-marketplace",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "jonathan.sinclair",
+          "count": 3
+        },
+        {
+          "user": "kathryn.giancola",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 1,
+      "16": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.19,
+    "dept_average_30d": 4.32,
+    "dept_rank": 821,
+    "dept_size": 848
+  }
+}

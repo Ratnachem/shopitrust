@@ -1,0 +1,299 @@
+{
+  "username": "mathieu.fecteaul-1515",
+  "name": "Mathieu Fecteaul-1515",
+  "generated_at": "2026-04-08T20:22:07.572248",
+  "summary": {
+    "message_count": 1904,
+    "channels_active": 54,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 15,
+      "neg_count": 11,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about all the back and forth, but I'd like to avoid this happening at all if possible",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ah right, my bad. But yeah point stands, why is this having issues but mysql replication for example is fine",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing ! Make sure you mention it as part of the 1.34 upgrade GSD",
+          "channel": "tmp-zookeeper-1-34",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh my bad, it showed up after I switch it out of draft ",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it ! We'll see what we can do on our end to go lighter on disks",
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing thank you! What floor is that on ? ",
+          "channel": "help-ports",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing thank you! What floor is that on ? ",
+          "channel": "help-ports",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to merge that when approved.",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh, I thought we had it on. my bad",
+          "channel": "inv-20786-shard299-replicas-not-replicating",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! ",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Otherwise, we're a large portion of it so we could ratio whatever percent makes sense",
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If we have a cluster that has N2 or whatever nodes we can use to recover to PD for this process it would be fine on our end",
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "Weren't an issue, correct, Milan wants us to explicitly think about how we'd deal with it if it becomes one though.",
+          "channel": "proj-proxysql-rearchitecturing",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We need to stop whatever is running those deletes. We're working on fixing the replicas",
+          "channel": "inv-20786-shard299-replicas-not-replicating",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Just dropping some data for myself tomorrow",
+          "channel": "inc-20682-infra-central-cannot-access-magellan",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "Today we can just scale down and deal with it, but tied to core we\u2019ll have less control and we'll need to make sure we can handle max node count",
+          "channel": "proj-proxysql-rearchitecturing",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "if that's accurate, then 20 is useless",
+          "channel": "proj-proxysql-rearchitecturing",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "We're over quota and having 45 days of binlogs seems useless",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Then we can test going down to 8 core or whatever if that proves to be no diff",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "that's your trilogy error",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "aadi.sanghani",
+          "count": 30
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 13
+        },
+        {
+          "user": "ben.thul",
+          "count": 12
+        },
+        {
+          "user": "josh.broughton",
+          "count": 10
+        },
+        {
+          "user": "tom.krouper",
+          "count": 9
+        },
+        {
+          "user": "james.zhu",
+          "count": 6
+        },
+        {
+          "user": "lucas.bajolet",
+          "count": 4
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 3
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 3
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 448,
+      "top_channels": [
+        {
+          "channel": "db-core-mysql",
+          "messages": 401
+        },
+        {
+          "channel": "proj-proxysql-rearchitecturing",
+          "messages": 269
+        },
+        {
+          "channel": "tmp-zookeeper-1-34",
+          "messages": 176
+        },
+        {
+          "channel": "db-core-mysql-alerts",
+          "messages": 133
+        },
+        {
+          "channel": "katesql-ops",
+          "messages": 92
+        },
+        {
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "messages": 81
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 78
+        },
+        {
+          "channel": "magellan-zookeeper",
+          "messages": 55
+        },
+        {
+          "channel": "inv-20786-shard299-replicas-not-replicating",
+          "messages": 52
+        },
+        {
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "messages": 40
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 215,
+      "16": 190,
+      "15": 240,
+      "14": 168,
+      "20": 252,
+      "19": 126,
+      "17": 151,
+      "13": 90,
+      "0": 10,
+      "21": 108,
+      "12": 4,
+      "11": 3,
+      "3": 82,
+      "2": 49,
+      "1": 21,
+      "23": 43,
+      "22": 88,
+      "6": 5,
+      "5": 10,
+      "4": 49
+    },
+    "by_day": {
+      "Wednesday": 487,
+      "Tuesday": 609,
+      "Monday": 202,
+      "Thursday": 362,
+      "Friday": 244
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.47,
+    "dept_average_30d": 4.74,
+    "dept_rank": 351,
+    "dept_size": 1663
+  }
+}

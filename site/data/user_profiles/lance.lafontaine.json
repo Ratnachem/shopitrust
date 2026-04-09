@@ -1,0 +1,334 @@
+{
+  "username": "lance.lafontaine",
+  "name": "Lance Lafontaine",
+  "generated_at": "2026-04-08T20:22:18.818262",
+  "summary": {
+    "message_count": 958,
+    "channels_active": 31,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.7,
+      "pos_count": 27,
+      "neg_count": 10,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": ":wave: Hey Karim, I'll send over a more formal writeup shortly, but the main priorities would be",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Can feel free to add <@W018PST599S> to the invite as well!",
+          "channel": "cloudflare-account-team-shared",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hey Damien!\n\nOn the key \u2014 Thinking about this more, I'm now leaning towards Cloudsurf generating its own Ed25519 keypair rather than sharing",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":gh-green: thanks!",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'll gather everyone from the agent classification event producers & consumers and send a meeting invite so that we can all align on:\n\u2022 What field",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I have some thoughts about that WIP PR, dropping a couple comments now :eyes: let me know if you wanted to pair up on it today",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "These are all in draft, CI failing, potentially incomplete, but I think they are good starts, and wanted to get these up ASAP.\n\n:one: Rounds",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "At this rate, it's going to take all night before it's merged :confused: I'll disengage for now, feel free to ping/page as needed :wave:",
+          "channel": "inv-20734-sfr-ci-very-flakey-on-db-safety-check",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "nope all good, thanks! was mostly just very confused about why history: shallow was there in the first place!",
+          "channel": "inv-20734-sfr-ci-very-flakey-on-db-safety-check",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "oh awesome, thanks! :joy:",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "thanks for starting this! +1 to expanding the existing model by adding whatever new features are necessarily to properly flag session-based traffic",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For today, we can potentially park the medium-term, we can have a sync for what is the best approach going forward for 1) being able to get rid of",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "May not be seeing the whole picture but I think that the architectural pattern of reading a spanner-backed session for request-level information",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever is was, it autoresolved",
+          "channel": "sfr-incident-announce",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever it was, it does seem scoped to the Cart proxy",
+          "channel": "sfr-incident-announce",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Awesome to hear, thanks folks :bless-up: happy to be an early contributor &amp; user of whatever stack we end up with!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I've been thinking more about us offering something like a \"Reverse O2O\" for merchants that insist on being headless. Has a lot of implications for",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The number of counts dropped altogether, so whatever was happening, was early in the lifecycle of the module",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever it was, it may have just been momentary",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Was planning to run `dev conveyor create-release //areas/infra/routing/nginx-routing-modules` from whatever's latest on main",
+          "channel": "team-edge-infrastructure",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "josh.teeter",
+          "count": 9
+        },
+        {
+          "user": "scott.mcneil",
+          "count": 8
+        },
+        {
+          "user": "vincent.zwanenburg",
+          "count": 7
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 7
+        },
+        {
+          "user": "jason.godson",
+          "count": 6
+        },
+        {
+          "user": "charlie.king",
+          "count": 5
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 4
+        },
+        {
+          "user": "meysam.feghhi",
+          "count": 3
+        },
+        {
+          "user": "sean.kelly",
+          "count": 3
+        },
+        {
+          "user": "sneha.shah",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.82,
+      "count": 281,
+      "top_channels": [
+        {
+          "channel": "proj-ddos-protection",
+          "messages": 466
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 157
+        },
+        {
+          "channel": "simgym-team",
+          "messages": 52
+        },
+        {
+          "channel": "inc-20107-undefined-method--for-nil-from-oxygen-hub",
+          "messages": 49
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 45
+        },
+        {
+          "channel": "sfr-incident-announce",
+          "messages": 31
+        },
+        {
+          "channel": "proj-edge-stapled-sessions",
+          "messages": 24
+        },
+        {
+          "channel": "inv-20734-sfr-ci-very-flakey-on-db-safety-check",
+          "messages": 20
+        },
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 18
+        },
+        {
+          "channel": "inv-19933-missing-statsd-metrics-in-central",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 103,
+      "top_mentioners": [
+        {
+          "user": "marcandre.cournoyer",
+          "count": 12
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 12
+        },
+        {
+          "user": "sneha.shah",
+          "count": 9
+        },
+        {
+          "user": "scott.mcneil",
+          "count": 9
+        },
+        {
+          "user": "michael.harris",
+          "count": 8
+        },
+        {
+          "user": "charlie.king",
+          "count": 7
+        },
+        {
+          "user": "vincent.zwanenburg",
+          "count": 4
+        },
+        {
+          "user": "jason.godson",
+          "count": 4
+        },
+        {
+          "user": "shen.ni",
+          "count": 4
+        },
+        {
+          "user": "nikolas.leblanc",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 105,
+      "16": 79,
+      "15": 170,
+      "14": 94,
+      "13": 99,
+      "12": 11,
+      "23": 12,
+      "21": 29,
+      "20": 108,
+      "19": 105,
+      "18": 101,
+      "0": 21,
+      "1": 15,
+      "22": 9
+    },
+    "by_day": {
+      "Wednesday": 234,
+      "Tuesday": 152,
+      "Monday": 86,
+      "Thursday": 289,
+      "Friday": 197
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.48,
+    "dept_average_30d": 5.79,
+    "dept_rank": 194,
+    "dept_size": 1233
+  }
+}

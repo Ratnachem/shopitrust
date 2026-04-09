@@ -1,0 +1,138 @@
+{
+  "username": "colin.arenburg",
+  "name": "Colin Arenburg",
+  "generated_at": "2026-04-08T20:22:17.080884",
+  "summary": {
+    "message_count": 91,
+    "channels_active": 3,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ohh that's good to know! I'll suggest the merchant make a order in AUD for this customer or buy a label directly from Australia post for this",
+          "channel": "help-labels",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have access to Two flows BTW:\n\nScheduled flow: Pulls tickets: <https://www.gumloop.com/pipeline?workbook_id=q1C8NpktkY9y3AJzFM1e3R>\nSheet",
+          "channel": "temp-claims-hub",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "elissa.unrau",
+          "count": 9
+        },
+        {
+          "user": "tameka.small",
+          "count": 3
+        },
+        {
+          "user": "raime.robertshaw",
+          "count": 1
+        },
+        {
+          "user": "tiffany.k.leung",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.27,
+      "count": 7,
+      "top_channels": [
+        {
+          "channel": "temp-claims-hub",
+          "messages": 60
+        },
+        {
+          "channel": "hd39-support-tools",
+          "messages": 19
+        },
+        {
+          "channel": "help-labels",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "elissa.unrau",
+          "count": 9
+        },
+        {
+          "user": "allan.jiang",
+          "count": 8
+        },
+        {
+          "user": "tameka.small",
+          "count": 2
+        },
+        {
+          "user": "joyce.habbouche",
+          "count": 1
+        },
+        {
+          "user": "jennifer.marshall",
+          "count": 1
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 14,
+      "18": 3,
+      "12": 15,
+      "10": 10,
+      "15": 23,
+      "1": 2,
+      "0": 2,
+      "23": 1,
+      "13": 7,
+      "14": 7,
+      "11": 6,
+      "9": 1
+    },
+    "by_day": {
+      "Wednesday": 15,
+      "Tuesday": 29,
+      "Monday": 29,
+      "Friday": 10,
+      "Thursday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 4.14,
+    "dept_average_30d": 4.09,
+    "dept_rank": 238,
+    "dept_size": 642
+  }
+}

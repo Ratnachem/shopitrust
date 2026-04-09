@@ -1,0 +1,274 @@
+{
+  "username": "luke.krikorian",
+  "name": "Luke Krikorian",
+  "generated_at": "2026-04-08T20:22:20.926468",
+  "summary": {
+    "message_count": 228,
+    "channels_active": 15,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 14,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great, thank you!",
+          "channel": "help-monetization",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! This is great",
+          "channel": "proj-partners-orgs-and-rbac",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "> :pr-open: <https://app.graphite.com/github/pr/shop/world/572908|End collaborator relationships asynchronously on shop/org destroy>\nConverted this",
+          "channel": "proj-partners-orgs-and-rbac",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I'll go ahead with merging based on Jimmy's approval unless <@U03DCBJBPCH> or <@W018B13B1C6> you want me to hold off to take another look?",
+          "channel": "proj-partners-orgs-and-rbac",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you run into any bugs",
+          "channel": "proj-move-all-partner-stores-to-dev-dash",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Merged, thanks! I don't have to do anything special for it to deploy, right?",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for checking in!",
+          "channel": "proj-partners-orgs-and-rbac",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; We've been following the principle of creating specific views for each use case. So instead of updating that view I'd create your own.\nCool that",
+          "channel": "proj-move-all-partner-stores-to-dev-dash",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02BKSEC1ME>!",
+          "channel": "mozart-approval-notifications",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Drew!",
+          "channel": "proj-partners-orgs-and-rbac",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "We might be doing something stupid here, but I (and Claude) cannot seem to find anything wrong. I think our `Podding::Selector.select_pod` call",
+          "channel": "proj-move-all-partner-stores-to-dev-dash",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "joe.letizia",
+          "count": 6
+        },
+        {
+          "user": "tim.kang",
+          "count": 5
+        },
+        {
+          "user": "patrick.mclennan",
+          "count": 4
+        },
+        {
+          "user": "laura.dobson",
+          "count": 4
+        },
+        {
+          "user": "hanna.bennett",
+          "count": 2
+        },
+        {
+          "user": "david.rinkoff",
+          "count": 2
+        },
+        {
+          "user": "drake.morin",
+          "count": 1
+        },
+        {
+          "user": "drew.matheson",
+          "count": 1
+        },
+        {
+          "user": "ziyan.liu",
+          "count": 1
+        },
+        {
+          "user": "juliana.andrada",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.1,
+      "count": 190,
+      "top_channels": [
+        {
+          "channel": "proj-move-all-partner-stores-to-dev-dash",
+          "messages": 119
+        },
+        {
+          "channel": "proj-partners-orgs-and-rbac",
+          "messages": 48
+        },
+        {
+          "channel": "foundations-organizations",
+          "messages": 21
+        },
+        {
+          "channel": "krikorian-river",
+          "messages": 9
+        },
+        {
+          "channel": "partner-platform-ops",
+          "messages": 8
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 6
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 3
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 3
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 2
+        },
+        {
+          "channel": "help-localization",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.71,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "joe.letizia",
+          "count": 16
+        },
+        {
+          "user": "laura.dobson",
+          "count": 11
+        },
+        {
+          "user": "david.rinkoff",
+          "count": 5
+        },
+        {
+          "user": "patrick.mclennan",
+          "count": 5
+        },
+        {
+          "user": "tim.kang",
+          "count": 4
+        },
+        {
+          "user": "ashwin.purushotaman",
+          "count": 2
+        },
+        {
+          "user": "kangze.jia",
+          "count": 1
+        },
+        {
+          "user": "jimmy.song",
+          "count": 1
+        },
+        {
+          "user": "misato.watson",
+          "count": 1
+        },
+        {
+          "user": "eytan.seidman",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 18,
+      "15": 23,
+      "14": 30,
+      "21": 29,
+      "20": 24,
+      "6": 2,
+      "2": 3,
+      "22": 5,
+      "19": 17,
+      "18": 16,
+      "17": 24,
+      "23": 12,
+      "13": 12,
+      "0": 7,
+      "1": 1,
+      "4": 2,
+      "5": 3
+    },
+    "by_day": {
+      "Wednesday": 56,
+      "Tuesday": 72,
+      "Thursday": 42,
+      "Monday": 25,
+      "Friday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.79,
+    "dept_rank": 478,
+    "dept_size": 1233
+  }
+}

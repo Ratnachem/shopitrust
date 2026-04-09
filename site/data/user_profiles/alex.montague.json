@@ -1,0 +1,332 @@
+{
+  "username": "alex.montague",
+  "name": "Alex Montague",
+  "generated_at": "2026-04-08T20:22:13.945633",
+  "summary": {
+    "message_count": 350,
+    "channels_active": 13,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 21,
+      "neg_count": 12,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Async is probably fine, since we're wrapping up. On my side, I have some <https://shopify.slack.com/archives/C0A9T202SPQ/p1775157528265619|PRs> to",
+          "channel": "devtools-proj-reducetokencount",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to run the staging deploy as well?",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Cheers, Brian! Thanks for that. Its also great to hear that this was able to help generate some internal docs so we're better positioned to handle",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "lol thats my bad",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'll take point if you need to still keep working on other things, but feel free to add anything if you already have context. Just dump stuff, can",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help out tomorrow. I unfortunately spent most of today making sure the most up to date mcp snapshot builds correctly talk to the staging",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sorry, meant to let you know when that stacked finally merged. thanks!",
+          "channel": "devtools-proj-reducetokencount",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Trying to merge stack, thanks for reviews. Currently getting:\n```Error: Github API request failed while getting latest release. Check the GitHub",
+          "channel": "devtools-proj-reducetokencount",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "For sure! No worries at all, feel free to pop back in if there are any other questions/concerns.",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you fearless leader for teaching me the ways of mcp! This is an exciting area and I'm glad we're investing in it. Been a lot of fun working",
+          "channel": "devtools-proj-reducetokencount",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Things were in a weird state on this branch. I synced but couldn't push because the remote had more changes it was complaining about, so whatever was",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We can book over our 1:1 if that works best for you, whatever works",
+          "channel": "devtools-proj-eval-improvement",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; What is the UI I'm seeing on this claude code interface? Specifically the git branch/worktree UI I'm seeing ex. remove-disabled-tools \u2713\n&gt;",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would merge into `v1.11.0` since its already there, but do whatever works!",
+          "channel": "devtools-proj-reducetokencount",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever is in main today, and all of the \u201cgolden\u201d or \u201csmoketest\u201d configs are what we\u2019ve been using. Running the entire suite is not feasible, too",
+          "channel": "devtools-proj-reducetokencount",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Thats correct. Before dev dash/migration, these have _always_ been two separate organizations, and are still today. The way to switch organizations",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Not sure we have a standard/that its _really_ mattered that much. Feel free to go with whatever you think works best. I'll spin up a doc after lunch",
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> I have a stack",
+          "channel": "river-am",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "disregard using `gh` CLI at all, don't associate anything. Is there not graphite specific config made? Do you have the graphite MCP or skills? Search",
+          "channel": "river-am",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U085WHLLKT3> one other more small thing if you wanted to look into it, I did spin up a",
+          "channel": "devtools-proj-reducetokencount",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "nelson.wittwer",
+          "count": 11
+        },
+        {
+          "user": "durga.sivakumar",
+          "count": 9
+        },
+        {
+          "user": "elizabeth.kenyon",
+          "count": 6
+        },
+        {
+          "user": "majd.almnayer",
+          "count": 2
+        },
+        {
+          "user": "donald.merand",
+          "count": 1
+        },
+        {
+          "user": "josh.larson",
+          "count": 1
+        },
+        {
+          "user": "damion.rashford",
+          "count": 1
+        },
+        {
+          "user": "yvonne.mcdonnell",
+          "count": 1
+        },
+        {
+          "user": "brian.otoole",
+          "count": 1
+        },
+        {
+          "user": "mike.brannan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.66,
+      "count": 167,
+      "top_channels": [
+        {
+          "channel": "devtools-proj-reducetokencount",
+          "messages": 189
+        },
+        {
+          "channel": "devtools-proj-dev-mcp-with-convergence",
+          "messages": 51
+        },
+        {
+          "channel": "river-am",
+          "messages": 38
+        },
+        {
+          "channel": "devtools-dev-experience",
+          "messages": 27
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 12
+        },
+        {
+          "channel": "devtools-proj-eval-improvement",
+          "messages": 11
+        },
+        {
+          "channel": "proj-agentic-store-building-access",
+          "messages": 9
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 6
+        },
+        {
+          "channel": "devtools-proj-multi-version-ai-kit",
+          "messages": 2
+        },
+        {
+          "channel": "help-eng-interviews",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "nelson.wittwer",
+          "count": 29
+        },
+        {
+          "user": "julie.antunovic",
+          "count": 9
+        },
+        {
+          "user": "elizabeth.kenyon",
+          "count": 4
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 3
+        },
+        {
+          "user": "shankar.chandran",
+          "count": 2
+        },
+        {
+          "user": "majd.almnayer",
+          "count": 2
+        },
+        {
+          "user": "josh.larson",
+          "count": 2
+        },
+        {
+          "user": "phyllis.wu",
+          "count": 2
+        },
+        {
+          "user": "mike.brannan",
+          "count": 2
+        },
+        {
+          "user": "jamie.guerrero",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 47,
+      "17": 44,
+      "16": 16,
+      "20": 36,
+      "19": 32,
+      "15": 54,
+      "14": 58,
+      "13": 43,
+      "21": 7,
+      "12": 7,
+      "22": 3,
+      "11": 3
+    },
+    "by_day": {
+      "Wednesday": 66,
+      "Tuesday": 95,
+      "Monday": 51,
+      "Thursday": 86,
+      "Friday": 52
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.16,
+    "dept_average_30d": 5.79,
+    "dept_rank": 341,
+    "dept_size": 1233
+  }
+}

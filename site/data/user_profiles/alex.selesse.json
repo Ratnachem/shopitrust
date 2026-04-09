@@ -1,0 +1,261 @@
+{
+  "username": "alex.selesse",
+  "name": "Alex Selesse",
+  "generated_at": "2026-04-08T20:22:15.414623",
+  "summary": {
+    "message_count": 549,
+    "channels_active": 31,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah thank you!",
+          "channel": "abacus-operations",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah my preliminary trace analysis is showing exactly what you said. Thank you both!",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":information_source: I'm going to test sending a small % of traffic to our us-east1 region, let me know if you have concerns before I start.",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I snoozed it for 12h, will figure out something better tomorrow - sorry about that :sweat_smile:",
+          "channel": "proj-balance-atc",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats all :blobhighfive: :tada-animated:",
+          "channel": "fs-coffee-chat",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "inv-20602-higher-rate-of-error-on-the-organization",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yep I can take care of that, thank you for the help",
+          "channel": "e2e-canary-testing",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!\n\nGoing to deploy to test synthetic header (I think we're finally there after this one)\n\nShould I hold off on testing the traffic switch",
+          "channel": "banking-service-resiliency",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!\n\nPart of me wishes I would have trimmed the slides a bit up but I think it was a good amount of bang/buck :smile:",
+          "channel": "banking-service-resiliency",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Argh thank you, I'm struggling with this stack - I removed it from the downstream jobs but not this one",
+          "channel": "banking-service-resiliency",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "jackie.mes",
+          "count": 3
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 2
+        },
+        {
+          "user": "robin.brandt",
+          "count": 2
+        },
+        {
+          "user": "hammad.khan",
+          "count": 1
+        },
+        {
+          "user": "drew.matheson",
+          "count": 1
+        },
+        {
+          "user": "angus.kwong",
+          "count": 1
+        },
+        {
+          "user": "savannah.foster",
+          "count": 1
+        },
+        {
+          "user": "mark.jessop",
+          "count": 1
+        },
+        {
+          "user": "caihua.du",
+          "count": 1
+        },
+        {
+          "user": "andrew.murray",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 401,
+      "top_channels": [
+        {
+          "channel": "banking-service-resiliency",
+          "messages": 181
+        },
+        {
+          "channel": "banking-dev",
+          "messages": 107
+        },
+        {
+          "channel": "balance-exceptions",
+          "messages": 86
+        },
+        {
+          "channel": "balance-operations",
+          "messages": 22
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 18
+        },
+        {
+          "channel": "fs-coffee-chat",
+          "messages": 14
+        },
+        {
+          "channel": "team-cd",
+          "messages": 12
+        },
+        {
+          "channel": "abacus-devs",
+          "messages": 11
+        },
+        {
+          "channel": "abacus-operations",
+          "messages": 10
+        },
+        {
+          "channel": "inc-20833-banking-error-reporting-new-errors-for-ba",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.17,
+      "count": 64,
+      "top_mentioners": [
+        {
+          "user": "robin.brandt",
+          "count": 20
+        },
+        {
+          "user": "mark.shan",
+          "count": 6
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 5
+        },
+        {
+          "user": "pierre.jambet",
+          "count": 3
+        },
+        {
+          "user": "mark.jessop",
+          "count": 3
+        },
+        {
+          "user": "jackie.mes",
+          "count": 3
+        },
+        {
+          "user": "matthew.frail",
+          "count": 2
+        },
+        {
+          "user": "thad.craft",
+          "count": 2
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 2
+        },
+        {
+          "user": "ryan.quanz",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 91,
+      "17": 80,
+      "15": 46,
+      "14": 85,
+      "13": 63,
+      "12": 7,
+      "20": 49,
+      "19": 62,
+      "21": 24,
+      "16": 39,
+      "1": 2,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 118,
+      "Tuesday": 176,
+      "Thursday": 103,
+      "Monday": 70,
+      "Friday": 82
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 9.29,
+    "dept_average_30d": 5.77,
+    "dept_rank": 14,
+    "dept_size": 885
+  }
+}

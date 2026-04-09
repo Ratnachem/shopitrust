@@ -1,0 +1,118 @@
+{
+  "username": "owen.huang",
+  "name": "Owen Huang",
+  "generated_at": "2026-04-08T20:22:30.627615",
+  "summary": {
+    "message_count": 37,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 20,
+    "days_scale": 0.87
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you all!",
+          "channel": "breaking-api-change-requests",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if that makes sense or if you have any question :)",
+          "channel": "breaking-api-change-requests",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> Review this github PR and let me know if the changes are fully safe and ready to deploy. Can i give this pr an approval or is there",
+          "channel": "river-owenhuang",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.57,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "jonathan.harlap",
+          "count": 1
+        },
+        {
+          "user": "loic.delaubier",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.57,
+      "count": 36,
+      "top_channels": [
+        {
+          "channel": "proj-app-discounts-subscription-fields",
+          "messages": 15
+        },
+        {
+          "channel": "river-owenhuang",
+          "messages": 13
+        },
+        {
+          "channel": "breaking-api-change-requests",
+          "messages": 8
+        },
+        {
+          "channel": "proj-discounts-eligibility-by-market",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.96,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "loic.delaubier",
+          "count": 2
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 5,
+      "20": 8,
+      "21": 2,
+      "18": 2,
+      "17": 5,
+      "16": 8,
+      "15": 1,
+      "19": 6
+    },
+    "by_day": {
+      "Thursday": 15,
+      "Wednesday": 14,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.21,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1028,
+    "dept_size": 1663
+  }
+}

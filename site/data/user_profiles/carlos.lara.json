@@ -1,0 +1,83 @@
+{
+  "username": "carlos.lara",
+  "name": "Carlos Lara",
+  "generated_at": "2026-04-08T20:22:31.562275",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Ewa thank you so much for your message!",
+          "channel": "help-partner-plus-compensation",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 5.23,
+      "count": 144,
+      "top_channels": [
+        {
+          "channel": "help-partner-plus-compensation",
+          "messages": 4
+        },
+        {
+          "channel": "help-web-pixels",
+          "messages": 4
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "benjamin.destrempes",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "12": 1,
+      "18": 4,
+      "16": 4
+    },
+    "by_day": {
+      "Monday": 2,
+      "Tuesday": 1,
+      "Thursday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 4.63,
+    "dept_average_30d": 4.09,
+    "dept_rank": 138,
+    "dept_size": 642
+  }
+}

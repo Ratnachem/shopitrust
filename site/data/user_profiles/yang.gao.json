@@ -1,0 +1,242 @@
+{
+  "username": "yang.gao",
+  "name": "Yang Gao",
+  "generated_at": "2026-04-08T20:22:08.360918",
+  "summary": {
+    "message_count": 402,
+    "channels_active": 30,
+    "unique_people_mentioned": 60,
+    "unique_mentioners": 45,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U02H3CAPLJD> new proposal, thanks!",
+          "channel": "recommendations-team-ops",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to move the schedule too!",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "lgtmed, <@U09DV7LS59C>, feel free to merge it. we can test tomorrow to see how much it helps.",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Do you know what downstream models use this?",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "For GCP project `shopify-recs` , which is used to compute Recs team's ER BigQuery workload, the current monthly cost forecast is 27k, assuming a",
+          "channel": "proj-ur-ranking",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "after backfill, I can see that close to 100% of rows from 0314 to 0324 are preserved from the raw table into the Event Sweeper table, we are ready",
+          "channel": "project-llm-cg",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! let's revisit next Monday.",
+          "channel": "project-llm-cg",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 62,
+      "top_mentioned": [
+        {
+          "user": "rich.chen",
+          "count": 31
+        },
+        {
+          "user": "benjamin.allevius",
+          "count": 22
+        },
+        {
+          "user": "ahmed.dawod",
+          "count": 22
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 21
+        },
+        {
+          "user": "himanshu.arora",
+          "count": 19
+        },
+        {
+          "user": "akshay.soni",
+          "count": 18
+        },
+        {
+          "user": "david.gabrieli",
+          "count": 17
+        },
+        {
+          "user": "sireesha.pulipati",
+          "count": 13
+        },
+        {
+          "user": "andrew.droll",
+          "count": 13
+        },
+        {
+          "user": "guy.cole",
+          "count": 12
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 419,
+      "top_channels": [
+        {
+          "channel": "recommendations-team",
+          "messages": 58
+        },
+        {
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "messages": 49
+        },
+        {
+          "channel": "project-llm-cg",
+          "messages": 44
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 32
+        },
+        {
+          "channel": "tmp-er-long-term-cg-storage",
+          "messages": 24
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 21
+        },
+        {
+          "channel": "google-cloud-finances",
+          "messages": 21
+        },
+        {
+          "channel": "shop-p13n-ml-alerts-production",
+          "messages": 20
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 17
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 146,
+      "top_mentioners": [
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 14
+        },
+        {
+          "user": "akshay.soni",
+          "count": 12
+        },
+        {
+          "user": "chase.platon",
+          "count": 9
+        },
+        {
+          "user": "ahmed.dawod",
+          "count": 9
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 6
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 6
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 5
+        },
+        {
+          "user": "kevin.durda",
+          "count": 4
+        },
+        {
+          "user": "rhys.young",
+          "count": 4
+        },
+        {
+          "user": "sireesha.pulipati",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 43,
+      "17": 35,
+      "16": 54,
+      "15": 31,
+      "14": 34,
+      "0": 9,
+      "23": 14,
+      "22": 35,
+      "21": 49,
+      "20": 39,
+      "19": 29,
+      "13": 25,
+      "9": 1,
+      "12": 4
+    },
+    "by_day": {
+      "Wednesday": 76,
+      "Tuesday": 128,
+      "Monday": 84,
+      "Friday": 74,
+      "Thursday": 40
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.65,
+    "dept_average_30d": 5.77,
+    "dept_rank": 82,
+    "dept_size": 885
+  }
+}

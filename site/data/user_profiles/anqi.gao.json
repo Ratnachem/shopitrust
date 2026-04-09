@@ -1,0 +1,254 @@
+{
+  "username": "anqi.gao",
+  "name": "Anqi Gao",
+  "generated_at": "2026-04-08T20:22:21.299892",
+  "summary": {
+    "message_count": 285,
+    "channels_active": 15,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> this was the full conversation above\n```FROM sales \nSHOW total_sales \nWHERE sales_channel = 'Online Store' \nGROUP BY month \nWITH",
+          "channel": "reportify-api-new-errors",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U09JKTYJQBX> thank you. do you have context why this starts failing? Did this get changed recently?",
+          "channel": "reportify-api-ops",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U02PM91QYF2> No worries! Thank you for getting this one out! :salutt:",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hi Simon, just took a look.  I believe ur change is included in parser `32.1.0` , Maapi is on `32.0.0` .  I don't think we have plans to bump a minor",
+          "channel": "reportify-api",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W0183114J3Z> perfect thank you! But how did you find me here!!",
+          "channel": "river-ag",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I was about to ask",
+          "channel": "analytics-team-api-shopifyql",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "hey <@U03946SH6E9> ! sorry about the delay, I approved the pr with some comments. Please let us know if there's further questions!",
+          "channel": "reportify-api",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> can you help me answer this question? \"Hey MAAPI team :wave:\n\nI\u2019m wondering if there\u2019s a reason multi-hop joins like this aren\u2019t",
+          "channel": "river-ag",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, the refresh works fine now :ty-red:",
+          "channel": "pair-review",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "nick.presta",
+          "count": 7
+        },
+        {
+          "user": "melissa.king",
+          "count": 4
+        },
+        {
+          "user": "manuel.isava",
+          "count": 3
+        },
+        {
+          "user": "juan.esparza",
+          "count": 3
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 2
+        },
+        {
+          "user": "ben.milton",
+          "count": 2
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 2
+        },
+        {
+          "user": "simon.gaudert",
+          "count": 2
+        },
+        {
+          "user": "aly.gemae",
+          "count": 1
+        },
+        {
+          "user": "jeremy.ludwig",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.24,
+      "count": 112,
+      "top_channels": [
+        {
+          "channel": "river-ag",
+          "messages": 105
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 40
+        },
+        {
+          "channel": "reportify-api-ops",
+          "messages": 40
+        },
+        {
+          "channel": "reportify-api-new-errors",
+          "messages": 36
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 30
+        },
+        {
+          "channel": "analytics-ui-components",
+          "messages": 9
+        },
+        {
+          "channel": "proj-analytics-customer-schema-field-adjustments",
+          "messages": 8
+        },
+        {
+          "channel": "pair-review",
+          "messages": 7
+        },
+        {
+          "channel": "proj-analytics-customer-schema-field-support",
+          "messages": 4
+        },
+        {
+          "channel": "analytics-team-for-atc-collaboration",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "juan.esparza",
+          "count": 6
+        },
+        {
+          "user": "nick.presta",
+          "count": 6
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 5
+        },
+        {
+          "user": "ben.milton",
+          "count": 4
+        },
+        {
+          "user": "aly.gemae",
+          "count": 2
+        },
+        {
+          "user": "nick.tierney",
+          "count": 2
+        },
+        {
+          "user": "ewa.manek",
+          "count": 2
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 2
+        },
+        {
+          "user": "melissa.king",
+          "count": 1
+        },
+        {
+          "user": "jenny.so",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 13,
+      "15": 36,
+      "19": 43,
+      "18": 37,
+      "14": 63,
+      "17": 20,
+      "3": 7,
+      "13": 22,
+      "20": 27,
+      "22": 3,
+      "21": 13,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 59,
+      "Monday": 54,
+      "Friday": 63,
+      "Thursday": 50
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.42,
+    "dept_average_30d": 5.79,
+    "dept_rank": 781,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "username": "caleb.lee",
+  "name": "Caleb Lee",
+  "generated_at": "2026-04-08T20:22:31.773791",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 15,
+    "days_scale": 0.65
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U01Q4FEU6HM> Thank you for confirming the behaviour here. I'll let the merchant know!",
+          "channel": "help-money-movement-and-expansion",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! I have to finish my shift for the day but merchant has already notified their CSM (Maya) about this and they can provide a structured",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! I have a tier 4 Enterprise merchant who is urgently requesting to temporarily revert back to legacy customer accounts as customers haven't",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! I have a Tier 4 Enterprise merchant where tax invoices documents specifically for their new business entity `Rejuveen LLC` aren't being",
+          "channel": "help-money-movement-and-expansion",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.09,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "bony.roopchandani",
+          "count": 1
+        },
+        {
+          "user": "maya.marks",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.17,
+      "count": 3,
+      "top_channels": [
+        {
+          "channel": "test-caleb-river",
+          "messages": 12
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 4
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 3
+        },
+        {
+          "channel": "test-river-kanae",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.28,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "kanae.wakutani",
+          "count": 1
+        },
+        {
+          "user": "claudia.kwok",
+          "count": 1
+        },
+        {
+          "user": "bony.roopchandani",
+          "count": 1
+        },
+        {
+          "user": "maya.marks",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 1,
+      "7": 1,
+      "9": 1,
+      "6": 9,
+      "5": 2,
+      "13": 6
+    },
+    "by_day": {
+      "Friday": 1,
+      "Thursday": 7,
+      "Wednesday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.12,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1098,
+    "dept_size": 1663
+  }
+}

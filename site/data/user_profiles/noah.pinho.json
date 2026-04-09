@@ -1,0 +1,138 @@
+{
+  "username": "noah.pinho",
+  "name": "Noah Pinho",
+  "generated_at": "2026-04-08T20:22:29.229546",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 5,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<https://banff.lightning.force.com/lightning/r/SBQQ__Quote__c/a3qOG000008CoVtYAK/view?ws=%2Flightning%2Fr%2FOpportunity%2F006OG00000MYVuLYAX%2Fview|He",
+          "channel": "help-salesforce",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey Team - I closed <https://banff.lightning.force.com/lightning/r/Opportunity/006OG00000GvulpYAB/view|this opp>  on 2/03.  ive been tracking the",
+          "channel": "incentivecompensation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": ":alert-urgent: QUOTA ALERT :alert-urgent:   huge shoutout to <@U09Q6LV3D7S> for hitting quota today - and he isn't even fully off ramp!!!  This",
+          "channel": "ms-smb-all-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey Team, I'm attempting to activate my shareworks account and it's asking for my SSN and my employee number?  How do we find our employee number? ",
+          "channel": "help-equity",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey Team, I'm working on a standard plus agreement with the city of NYC -",
+          "channel": "deal-desk",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "sarah.campbell",
+          "count": 1
+        },
+        {
+          "user": "sohit.kanaujia",
+          "count": 1
+        },
+        {
+          "user": "riddhi.vankar",
+          "count": 1
+        },
+        {
+          "user": "eric.liu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 161,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 5
+        },
+        {
+          "channel": "incentivecompensation",
+          "messages": 2
+        },
+        {
+          "channel": "ms-smb-all-team",
+          "messages": 2
+        },
+        {
+          "channel": "help-equity",
+          "messages": 1
+        },
+        {
+          "channel": "deal-desk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "sarah.campbell",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 2,
+      "17": 3,
+      "15": 2,
+      "14": 2,
+      "21": 1,
+      "20": 1
+    },
+    "by_day": {
+      "Monday": 7,
+      "Thursday": 2,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.04,
+    "dept_average_30d": 4.32,
+    "dept_rank": 504,
+    "dept_size": 848
+  }
+}

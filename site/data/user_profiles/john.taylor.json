@@ -1,0 +1,191 @@
+{
+  "username": "john.taylor",
+  "name": "John Taylor",
+  "generated_at": "2026-04-08T20:22:29.489272",
+  "summary": {
+    "message_count": 108,
+    "channels_active": 10,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-ris",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I think we're good for now thanks! We'll come back if we see something else :smile:",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Got a card import validation error message edit PR: <https://app.graphite.com/github/pr/ShopifyUS/wharf/3153> - Removes the second part as it's",
+          "channel": "wharf-dev",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "zach.lamothe",
+          "count": 3
+        },
+        {
+          "user": "stewart.knapman",
+          "count": 3
+        },
+        {
+          "user": "connor.grady",
+          "count": 2
+        },
+        {
+          "user": "alexander.momchilov",
+          "count": 1
+        },
+        {
+          "user": "brian.anderson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.85,
+      "count": 128,
+      "top_channels": [
+        {
+          "channel": "wharf-operations",
+          "messages": 63
+        },
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 13
+        },
+        {
+          "channel": "help-ris",
+          "messages": 7
+        },
+        {
+          "channel": "temp-ldb-b2b-new-shipping-service-integration-with-shopify",
+          "messages": 7
+        },
+        {
+          "channel": "proj-bcldb-app-rewrite",
+          "messages": 6
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 5
+        },
+        {
+          "channel": "wharf-dev",
+          "messages": 4
+        },
+        {
+          "channel": "pp-paypal-soap-to-rest",
+          "messages": 1
+        },
+        {
+          "channel": "help-observability",
+          "messages": 1
+        },
+        {
+          "channel": "dev-paypal-express-api-upgrade",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "stewart.knapman",
+          "count": 6
+        },
+        {
+          "user": "manmeet.kaur",
+          "count": 2
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 2
+        },
+        {
+          "user": "divij.dabbas",
+          "count": 2
+        },
+        {
+          "user": "jeff.schmidt",
+          "count": 2
+        },
+        {
+          "user": "connor.grady",
+          "count": 1
+        },
+        {
+          "user": "mojan.jamalzadeh",
+          "count": 1
+        },
+        {
+          "user": "pablo.rocco",
+          "count": 1
+        },
+        {
+          "user": "chelsea.tabert",
+          "count": 1
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 9,
+      "20": 7,
+      "19": 19,
+      "18": 18,
+      "22": 6,
+      "15": 10,
+      "21": 8,
+      "16": 9,
+      "13": 15,
+      "17": 7
+    },
+    "by_day": {
+      "Monday": 47,
+      "Thursday": 11,
+      "Wednesday": 17,
+      "Tuesday": 25,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Professional Services",
+    "user_score_30d": 5.48,
+    "dept_average_30d": 4.61,
+    "dept_rank": 8,
+    "dept_size": 52
+  }
+}

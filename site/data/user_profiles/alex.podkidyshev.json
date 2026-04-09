@@ -1,0 +1,229 @@
+{
+  "username": "alex.podkidyshev",
+  "name": "Alex Podkidyshev",
+  "generated_at": "2026-04-08T20:22:15.458859",
+  "summary": {
+    "message_count": 102,
+    "channels_active": 11,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey folks! I'm travelling to the burst (long flight) and will miss the MM-ML & Bidify meeting. Feel free to keep it, cancel, or move to an afternoon",
+          "channel": "proj-mm-3p-rtb-model",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, i didn't see this doc before",
+          "channel": "autopilot-recommender-ml",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "works, thank you!",
+          "channel": "autopilot-recommender-ml",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0952NBJT8R> Thank you for noticing! You are absolutely right.\nCan you take a look again please?",
+          "channel": "proj-mm-dynamic-offers",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey folks! I'm travelling to the burst (long flight) and will miss the MM-ML & Bidify meeting. Feel free to keep it, cancel, or move to an afternoon",
+          "channel": "proj-mm-3p-rtb-model",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "louisphilippe.thibault",
+          "count": 10
+        },
+        {
+          "user": "karab.sze",
+          "count": 9
+        },
+        {
+          "user": "reza.khani",
+          "count": 9
+        },
+        {
+          "user": "enrique.collazo",
+          "count": 9
+        },
+        {
+          "user": "nikita.kiselev",
+          "count": 8
+        },
+        {
+          "user": "sagar.meisheri",
+          "count": 8
+        },
+        {
+          "user": "navied.shoushtarian",
+          "count": 7
+        },
+        {
+          "user": "soroush.mirzaei",
+          "count": 7
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 6
+        },
+        {
+          "user": "asghar.khan",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.41,
+      "count": 90,
+      "top_channels": [
+        {
+          "channel": "proj-mm-dynamic-offers",
+          "messages": 25
+        },
+        {
+          "channel": "proj-mm-3p-rtb-model",
+          "messages": 15
+        },
+        {
+          "channel": "ads-bidify-api-ops",
+          "messages": 15
+        },
+        {
+          "channel": "proj-s4m-recommendation-service",
+          "messages": 13
+        },
+        {
+          "channel": "autopilot-recommender-ml",
+          "messages": 13
+        },
+        {
+          "channel": "mm-ml-resource-channel",
+          "messages": 10
+        },
+        {
+          "channel": "proj-3p-rtb",
+          "messages": 5
+        },
+        {
+          "channel": "merchant-marketing-talk",
+          "messages": 2
+        },
+        {
+          "channel": "mm-ml-ops",
+          "messages": 2
+        },
+        {
+          "channel": "tmp-mm-autopilot-burst",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.08,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "asghar.khan",
+          "count": 8
+        },
+        {
+          "user": "sagar.meisheri",
+          "count": 6
+        },
+        {
+          "user": "karab.sze",
+          "count": 5
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 5
+        },
+        {
+          "user": "nikita.kiselev",
+          "count": 3
+        },
+        {
+          "user": "enrique.collazo",
+          "count": 3
+        },
+        {
+          "user": "yunsheng.qi",
+          "count": 2
+        },
+        {
+          "user": "navied.shoushtarian",
+          "count": 2
+        },
+        {
+          "user": "reza.khani",
+          "count": 2
+        },
+        {
+          "user": "youssef.ahres",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 7,
+      "12": 5,
+      "17": 10,
+      "8": 3,
+      "21": 10,
+      "14": 7,
+      "13": 7,
+      "20": 9,
+      "19": 11,
+      "22": 10,
+      "16": 12,
+      "9": 1,
+      "15": 6,
+      "10": 4
+    },
+    "by_day": {
+      "Wednesday": 24,
+      "Tuesday": 34,
+      "Monday": 25,
+      "Thursday": 6,
+      "Friday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.66,
+    "dept_average_30d": 5.77,
+    "dept_rank": 463,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "username": "guy.cole",
+  "name": "Guy Cole",
+  "generated_at": "2026-04-08T20:22:20.004253",
+  "summary": {
+    "message_count": 175,
+    "channels_active": 17,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "recommendations-infra",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018HUWSQTV> - can you take this to Akshay/Zhong or do you want me to?",
+          "channel": "tmp-buyer-hstu-v9-launch",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Divine - I added you to the meeting, at 11am tomorrow.  Let me know if you see it/can make it.",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Based on that timeline above, and the fact I see `controller_lean_runner` still running, I'm assuming we're not clear to kick off CG rebuild yet. ",
+          "channel": "recommendations-team",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "ali.khanafer",
+          "count": 7
+        },
+        {
+          "user": "akshay.soni",
+          "count": 5
+        },
+        {
+          "user": "abhinav.vs",
+          "count": 5
+        },
+        {
+          "user": "omer.barsade",
+          "count": 4
+        },
+        {
+          "user": "daniel.redmond",
+          "count": 4
+        },
+        {
+          "user": "rob.howley",
+          "count": 3
+        },
+        {
+          "user": "yang.gao",
+          "count": 3
+        },
+        {
+          "user": "rich.chen",
+          "count": 3
+        },
+        {
+          "user": "khalil.hajji",
+          "count": 3
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.61,
+      "count": 217,
+      "top_channels": [
+        {
+          "channel": "recommendations-team-experiments",
+          "messages": 35
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 32
+        },
+        {
+          "channel": "shop-p13n-ml-alerts-production",
+          "messages": 27
+        },
+        {
+          "channel": "recommendations-generative-recs",
+          "messages": 20
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-buyer-hstu-v9-launch",
+          "messages": 10
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 6
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 5
+        },
+        {
+          "channel": "inv-20800-20260328-hstu-v7-not-serve-for-2-weeks",
+          "messages": 5
+        },
+        {
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.27,
+      "count": 65,
+      "top_mentioners": [
+        {
+          "user": "yang.gao",
+          "count": 12
+        },
+        {
+          "user": "ali.khanafer",
+          "count": 9
+        },
+        {
+          "user": "akshay.soni",
+          "count": 8
+        },
+        {
+          "user": "divine.jojolola",
+          "count": 5
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 3
+        },
+        {
+          "user": "kevin.durda",
+          "count": 3
+        },
+        {
+          "user": "mike.ciniello",
+          "count": 3
+        },
+        {
+          "user": "armin.moradi",
+          "count": 3
+        },
+        {
+          "user": "abhinav.vs",
+          "count": 2
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 25,
+      "15": 19,
+      "14": 5,
+      "4": 2,
+      "3": 3,
+      "21": 26,
+      "20": 15,
+      "17": 25,
+      "19": 17,
+      "18": 14,
+      "22": 11,
+      "13": 6,
+      "12": 4,
+      "23": 1,
+      "2": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 38,
+      "Monday": 25,
+      "Friday": 33,
+      "Thursday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.52,
+    "dept_average_30d": 5.79,
+    "dept_rank": 725,
+    "dept_size": 1233
+  }
+}

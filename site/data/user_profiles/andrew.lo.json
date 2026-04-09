@@ -1,0 +1,240 @@
+{
+  "username": "andrew.lo",
+  "name": "Andrew Lo",
+  "generated_at": "2026-04-08T20:22:30.913571",
+  "summary": {
+    "message_count": 103,
+    "channels_active": 13,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Just triggered one with user UUID, let me know if that worked",
+          "channel": "temp-shopyuga-client-cutover",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "\u2022 shop_app_onboarding_interaction\n    \u25e6 yes, it was triggered, let me know if I should do it again\n\u2022 product_search_serp_other_action\n    \u25e6 It looks",
+          "channel": "temp-shopyuga-client-cutover",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Thanks <@U09CDAGNCJV> Is there anything I can help with to unblock merging the PR stack which will update these Monorail schemas &amp; provide the",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! created an issue &amp; added to that project/board: <https://github.com/Shopify/shop-server/issues/147423>",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "yes :slightly_smiling_face: let me know if there's a github board and I can create the issue on it",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "so to summarize (let me know if innacurate)\n1. we have a stack of PRs to add User/Broker/Order UUIDs to the monorail events:",
+          "channel": "temp-shopyuga-client-cutover",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "it looks like V2 had both `listUuid` &amp; `listId`, whereas V3 has `listId` only. I assume V2 was a mistake (<@U02F3EFK6B0> can confirm)\n\non the",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "elaine.y.chan",
+          "count": 3
+        },
+        {
+          "user": "josh.rounsville",
+          "count": 3
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 2
+        },
+        {
+          "user": "constantino.schillebeeckx",
+          "count": 2
+        },
+        {
+          "user": "ryan.cordell",
+          "count": 2
+        },
+        {
+          "user": "elsa.huang",
+          "count": 1
+        },
+        {
+          "user": "bo.bi",
+          "count": 1
+        },
+        {
+          "user": "westin.wrzesinski",
+          "count": 1
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 1
+        },
+        {
+          "user": "luc.tribolet",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.48,
+      "count": 210,
+      "top_channels": [
+        {
+          "channel": "temp-shopyuga-client-cutover",
+          "messages": 51
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 19
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 10
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 4
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 4
+        },
+        {
+          "channel": "dev-up",
+          "messages": 4
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 3
+        },
+        {
+          "channel": "gravity-river",
+          "messages": 2
+        },
+        {
+          "channel": "shop-feed",
+          "messages": 2
+        },
+        {
+          "channel": "shop-minis-platform-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.56,
+      "count": 39,
+      "top_mentioners": [
+        {
+          "user": "santhia.muthusamy",
+          "count": 10
+        },
+        {
+          "user": "josh.rounsville",
+          "count": 7
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 5
+        },
+        {
+          "user": "constantino.schi-7983",
+          "count": 5
+        },
+        {
+          "user": "elsa.huang",
+          "count": 3
+        },
+        {
+          "user": "aj.robidas",
+          "count": 3
+        },
+        {
+          "user": "ryan.cordell",
+          "count": 1
+        },
+        {
+          "user": "josh.meyer",
+          "count": 1
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 1
+        },
+        {
+          "user": "westin.wrzesinskii",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 4,
+      "20": 15,
+      "19": 15,
+      "18": 14,
+      "17": 23,
+      "16": 9,
+      "15": 11,
+      "14": 8,
+      "13": 2,
+      "12": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 29,
+      "Monday": 15,
+      "Friday": 8,
+      "Thursday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.06,
+    "dept_average_30d": 5.86,
+    "dept_rank": 77,
+    "dept_size": 166
+  }
+}

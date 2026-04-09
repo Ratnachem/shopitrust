@@ -1,0 +1,266 @@
+{
+  "username": "john.finnson",
+  "name": "John Finnson",
+  "generated_at": "2026-04-08T20:22:12.440461",
+  "summary": {
+    "message_count": 210,
+    "channels_active": 20,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 22,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok, thank you for the explanation :pray:",
+          "channel": "proj-search-dropout-analysis",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey team :hello-croc:\nPSA :psa: *Watch out for your agent accidentally doing a hidden edit on other PRs without even telling you.*\n\nMy agent edited",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :pray:",
+          "channel": "proj-search-dropout-analysis",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team :hello-croc:\n<@U087SUVBGMQ> <@U02UT7B54RJ> Following up from the group chat from <@U08HLJQDKND>\nWe need to enable search debugging with the",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018HTHA2RZ>",
+          "channel": "devs-ask-quick-questions",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "That clarity is good. Thanks <@U08QAMLHVCP>. Let me know if that fixed it and if I can be of more help.",
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Only thing I would interject is that I'm not fully sure this is on-call worthy? But that might be a misunderstanding of impact. \n\nAlways happy to",
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing! Thanks <@U0A39JTB8D8>",
+          "channel": "proj-search-dropout-analysis",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to ignore this thread unless you see something important.",
+          "channel": "inc-20936-shop-is-down",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "search-serving-team",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "mingqin.li",
+          "count": 18
+        },
+        {
+          "user": "helen.y.zhang",
+          "count": 18
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 17
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 12
+        },
+        {
+          "user": "jivan.gubbi",
+          "count": 10
+        },
+        {
+          "user": "ed.gallant",
+          "count": 7
+        },
+        {
+          "user": "olga.kudinova",
+          "count": 6
+        },
+        {
+          "user": "alex.watt",
+          "count": 4
+        },
+        {
+          "user": "wei.li",
+          "count": 3
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.14,
+      "count": 245,
+      "top_channels": [
+        {
+          "channel": "proj-search-dropout-analysis",
+          "messages": 107
+        },
+        {
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "messages": 15
+        },
+        {
+          "channel": "inc-20936-shop-is-down",
+          "messages": 11
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 10
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 9
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20851-core-deploy-seeing-a-spike-in-sfr-excepti",
+          "messages": 8
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 8
+        },
+        {
+          "channel": "devs-ask-quick-questions",
+          "messages": 7
+        },
+        {
+          "channel": "search-serving-ops",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 46,
+      "top_mentioners": [
+        {
+          "user": "helen.y.zhang",
+          "count": 8
+        },
+        {
+          "user": "mingqin.li",
+          "count": 8
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 7
+        },
+        {
+          "user": "alex.watt",
+          "count": 5
+        },
+        {
+          "user": "olga.kudinova",
+          "count": 3
+        },
+        {
+          "user": "ed.gallant",
+          "count": 3
+        },
+        {
+          "user": "brenda.segal",
+          "count": 2
+        },
+        {
+          "user": "long.qiu",
+          "count": 2
+        },
+        {
+          "user": "abigail.stone",
+          "count": 1
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "17": 22,
+      "16": 20,
+      "15": 16,
+      "14": 21,
+      "13": 12,
+      "21": 18,
+      "19": 19,
+      "20": 11,
+      "1": 29,
+      "0": 14,
+      "5": 1,
+      "4": 3,
+      "23": 2,
+      "22": 5,
+      "3": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 20,
+      "Monday": 33,
+      "Thursday": 50,
+      "Friday": 26
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.25,
+    "dept_average_30d": 5.79,
+    "dept_rank": 293,
+    "dept_size": 1233
+  }
+}

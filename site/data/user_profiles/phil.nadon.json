@@ -1,0 +1,180 @@
+{
+  "username": "phil.nadon",
+  "name": "Phil Nadon",
+  "generated_at": "2026-04-08T20:22:29.510198",
+  "summary": {
+    "message_count": 124,
+    "channels_active": 7,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "heads up that I'll be scaling down agents for yugabyte staging 44, 88, 123, 303. They're the only 4 (along with 3 reverse replication pipelines) that",
+          "channel": "proj-core-to-yugabyte-streaming",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "austen.lacy",
+          "count": 3
+        },
+        {
+          "user": "mohammad.ahmadi",
+          "count": 3
+        },
+        {
+          "user": "kate.boyd",
+          "count": 2
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 1
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 1
+        },
+        {
+          "user": "tascha.douglas",
+          "count": 1
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 1
+        },
+        {
+          "user": "kate.galieva",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.55,
+      "count": 120,
+      "top_channels": [
+        {
+          "channel": "db-storefronts-mysql-ops",
+          "messages": 48
+        },
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 39
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 13
+        },
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 12
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 10
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 1
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "austen.lacy",
+          "count": 4
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 4
+        },
+        {
+          "user": "tascha.douglas",
+          "count": 3
+        },
+        {
+          "user": "chris.lafrance",
+          "count": 2
+        },
+        {
+          "user": "kate.galieva",
+          "count": 2
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 1
+        },
+        {
+          "user": "youssef.arras",
+          "count": 1
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 1
+        },
+        {
+          "user": "mohammad.ahmadi",
+          "count": 1
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 16,
+      "15": 34,
+      "17": 10,
+      "19": 24,
+      "13": 4,
+      "18": 12,
+      "12": 7,
+      "0": 1,
+      "16": 7,
+      "1": 1,
+      "23": 1,
+      "21": 2,
+      "20": 4,
+      "3": 1
+    },
+    "by_day": {
+      "Monday": 23,
+      "Thursday": 22,
+      "Wednesday": 8,
+      "Tuesday": 22,
+      "Friday": 49
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.06,
+    "dept_average_30d": 5.75,
+    "dept_rank": 276,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "username": "chris.poirier",
+  "name": "Chris Poirier",
+  "generated_at": "2026-04-08T20:22:30.050625",
+  "summary": {
+    "message_count": 101,
+    "channels_active": 12,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Claude root cause investigation:\n\n```Here's my analysis. I confirmed from the production bundle that the crash is in VersionBadge.tsx:50 \u2014 the",
+          "channel": "inv-20702-investigate-sidekick-error-in-admin-web-d",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh - I thought y'all were fully rolled out. Thanks!",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great to hear! Great work!",
+          "channel": "proj-tax-recalculation-address-change",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Okay - reverting the release. Please get whatever fix you need to unblock the pipeline in ASAP and coordinate with <#C024TS4NDSS> to cherry pick if",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Mostly BED I think - the contract we need is that action is passed as part of the commit/the admin mutation or whatever we're doing for that. FED",
+          "channel": "proj-tax-recalculation-address-change",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It gets a bit messy if adding one type of staged change removes your ability to write off or whatever",
+          "channel": "proj-tax-recalculation-address-change",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Most if not all of the performance issues/waterfalls have been alleviated by the latest UX now that we wait for address suggestion to be",
+          "channel": "proj-tax-recalculation-address-change",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "I think it might get more complicated if/when it starts impacting fulfillments/duties on a more fundamental level but maybe now's not the time to",
+          "channel": "proj-tax-recalculation-address-change",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Those could eventually migrate to their own intents with just the address validation portion and share a lot with our intent, but that's a",
+          "channel": "proj-tax-recalculation-address-change",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "shaun.sim",
+          "count": 3
+        },
+        {
+          "user": "sebastian.osorio",
+          "count": 2
+        },
+        {
+          "user": "dustin.malik",
+          "count": 1
+        },
+        {
+          "user": "elizabeth.letourneau",
+          "count": 1
+        },
+        {
+          "user": "adam.phillips-silver",
+          "count": 1
+        },
+        {
+          "user": "jeremy.topper",
+          "count": 1
+        },
+        {
+          "user": "philippe.jean",
+          "count": 1
+        },
+        {
+          "user": "andy.chan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.19,
+      "count": 195,
+      "top_channels": [
+        {
+          "channel": "proj-tax-recalculation-address-change",
+          "messages": 52
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 14
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20702-investigate-sidekick-error-in-admin-web-d",
+          "messages": 6
+        },
+        {
+          "channel": "help-admin-intents",
+          "messages": 4
+        },
+        {
+          "channel": "river-csb",
+          "messages": 4
+        },
+        {
+          "channel": "proj-shipping-address-update-unification",
+          "messages": 3
+        },
+        {
+          "channel": "proj-index-tables",
+          "messages": 3
+        },
+        {
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "messages": 2
+        },
+        {
+          "channel": "orders-flags-notifications",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "kelly.ma",
+          "count": 16
+        },
+        {
+          "user": "sebastian.osorio",
+          "count": 14
+        },
+        {
+          "user": "shaun.sim",
+          "count": 7
+        },
+        {
+          "user": "andy.chan",
+          "count": 5
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 3
+        },
+        {
+          "user": "brendan.rygus",
+          "count": 2
+        },
+        {
+          "user": "brianna.nguyen",
+          "count": 2
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        },
+        {
+          "user": "jeremy.topper",
+          "count": 2
+        },
+        {
+          "user": "elizabeth.letourneau",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "5": 1,
+      "17": 10,
+      "21": 18,
+      "18": 8,
+      "16": 3,
+      "19": 5,
+      "15": 20,
+      "14": 15,
+      "13": 2,
+      "23": 7,
+      "20": 10,
+      "22": 2
+    },
+    "by_day": {
+      "Friday": 6,
+      "Thursday": 42,
+      "Tuesday": 29,
+      "Monday": 12,
+      "Wednesday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 7.87,
+    "dept_average_30d": 5.79,
+    "dept_rank": 65,
+    "dept_size": 1233
+  }
+}

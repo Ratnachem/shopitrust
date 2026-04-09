@@ -1,0 +1,332 @@
+{
+  "username": "filipe.deo",
+  "name": "Filipe Deo",
+  "generated_at": "2026-04-08T20:22:24.148199",
+  "summary": {
+    "message_count": 1404,
+    "channels_active": 33,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 13,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "do let me know if you need eyes on any quirky setups",
+          "channel": "streaming-foundations-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "streaming-foundations-ops",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "for visibility, I'm discussing how we can approach flink(-lib) in <https://shopify.slack.com/archives/C07Q2P86Q49/p1774901315242309|this thread>,",
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; Do you want me to work on these recommended scale up ?\nthese recommendations are a tad biased I'd say, but as a start, could you look into CDC",
+          "channel": "streaming-foundations-ops",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "we got plenty capacity, so I'll kick off a few remove broker tasks in CC on all regionals+logs so we can scale down first thing in the morning (if",
+          "channel": "streaming-foundations-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "actually, my bad it's east and staging, not east and central",
+          "channel": "reportify-etl-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Brittany!",
+          "channel": "infrastructure-data",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "same steps we've done a few times in the last few days when trying to distribute the load before failovers or scale downs. let me know if you need a",
+          "channel": "inv-19995-gamesday--production-us-region-failover-s",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you need a :rubber-stamp:",
+          "channel": "inv-19995-gamesday--production-us-region-failover-s",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Are users meant to automatically restart their pipelines? How would users know how to pick up the new configurations?\nThis UX is up to us.",
+          "channel": "streaming-compute-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we don't touch `MinTopicLeadersPerBrokerGoal` in our configs, so whatever is the default is used",
+          "channel": "streaming-foundations-alerts",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "and Siqi, as for\n&gt; and what will be a hard stop usage?\nhonestly, whatever is the bare minimum needed. This is not a production system, but is",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":announcementsec: A quick note on Kafka cluster deploys:\nThe state of `main` in the infrastructure monorepo should always reflect the desired state",
+          "channel": "streaming-foundations-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Noel, mind spearheading this and sharing the steps w/ the rest of new foundations members? Would be awesome if you could sanity check that the steps",
+          "channel": "streaming-foundations-ops",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "you should have been paged for <https://shopify.pagerduty.com/incidents/Q06J58O206O1J7> <@U039ZQFF7RQ>",
+          "channel": "streaming-foundations-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if that matches whatever you're seeing",
+          "channel": "inv-20527-cdc-pods-restarting",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I can be the PoC and assist with whatever is needed\n\nyou might see me cc'ing <@U039ZQFF7RQ> here and there, but that's only because he'll be on call",
+          "channel": "streaming-foundations-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we can aggregate and check when # of brokers over threshold is more than X or whatever might make sense. just thinking out loud here",
+          "channel": "streaming-foundations-alerts",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 36,
+      "top_mentioned": [
+        {
+          "user": "darren.li",
+          "count": 24
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 18
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 13
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 8
+        },
+        {
+          "user": "justin.chen",
+          "count": 5
+        },
+        {
+          "user": "noel.padavan",
+          "count": 4
+        },
+        {
+          "user": "eli.bailey",
+          "count": 3
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 3
+        },
+        {
+          "user": "justin.reid",
+          "count": 2
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.98,
+      "count": 395,
+      "top_channels": [
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 297
+        },
+        {
+          "channel": "streaming-foundations-alerts",
+          "messages": 233
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 132
+        },
+        {
+          "channel": "inv-20368-kafka-us-region-migration-monitoring",
+          "messages": 126
+        },
+        {
+          "channel": "streaming-foundations-ops",
+          "messages": 107
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 85
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 54
+        },
+        {
+          "channel": "inc-20226-kafka-regional-eu-offline-partitions",
+          "messages": 42
+        },
+        {
+          "channel": "inv-19995-gamesday--production-us-region-failover-s",
+          "messages": 39
+        },
+        {
+          "channel": "prj-session-pipeline-er",
+          "messages": 36
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 93,
+      "top_mentioners": [
+        {
+          "user": "darren.li",
+          "count": 31
+        },
+        {
+          "user": "siqi.fang",
+          "count": 7
+        },
+        {
+          "user": "noel.padavan",
+          "count": 7
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 6
+        },
+        {
+          "user": "justin.reid",
+          "count": 4
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 4
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 4
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 3
+        },
+        {
+          "user": "sam.handler",
+          "count": 2
+        },
+        {
+          "user": "alex.gomez",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 35,
+      "1": 48,
+      "19": 158,
+      "18": 140,
+      "17": 154,
+      "16": 179,
+      "23": 105,
+      "22": 143,
+      "21": 98,
+      "20": 155,
+      "7": 2,
+      "6": 12,
+      "3": 1,
+      "0": 30,
+      "15": 93,
+      "5": 1,
+      "4": 29,
+      "2": 11,
+      "13": 10
+    },
+    "by_day": {
+      "Wednesday": 265,
+      "Tuesday": 394,
+      "Monday": 201,
+      "Thursday": 431,
+      "Friday": 113
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.71,
+    "dept_average_30d": 4.74,
+    "dept_rank": 60,
+    "dept_size": 1663
+  }
+}
