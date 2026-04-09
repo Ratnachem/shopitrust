@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About ShopiTrust</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f6f6f7;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 48px 16px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #1a1a1a;
+      letter-spacing: -0.5px;
+    }
+
+    header p {
+      margin-top: 8px;
+      font-size: 15px;
+      color: #6b7280;
+      max-width: 420px;
+    }
+
+    header nav {
+      margin-top: 16px;
+    }
+
+    header nav a {
+      color: #008060;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    header nav a:hover {
+      text-decoration: underline;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 16px rgba(0,0,0,0.04);
+      padding: 32px;
+      width: 100%;
+      max-width: 640px;
+      margin-bottom: 24px;
+    }
+
+    .card h2 {
+      font-size: 20px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 16px;
+    }
+
+    .card p {
+      font-size: 15px;
+      line-height: 1.7;
+      color: #374151;
+      margin-bottom: 16px;
+    }
+
+    .card p:last-child {
+      margin-bottom: 0;
+    }
+
+    .quote {
+      background: #f0fdf4;
+      border-left: 4px solid #008060;
+      padding: 16px 20px;
+      margin: 20px 0;
+      border-radius: 0 8px 8px 0;
+    }
+
+    .quote p {
+      font-style: italic;
+      color: #166534;
+      margin-bottom: 8px;
+    }
+
+    .quote .attribution {
+      font-style: normal;
+      font-size: 13px;
+      color: #15803d;
+      font-weight: 600;
+    }
+
+    .battery-visual {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin: 24px 0;
+      font-size: 32px;
+    }
+
+    .battery {
+      display: flex;
+      align-items: center;
+      background: #f3f4f6;
+      border: 3px solid #22c55e;
+      border-radius: 6px;
+      padding: 6px;
+      position: relative;
+    }
+
+    .battery::after {
+      content: '';
+      position: absolute;
+      right: -10px;
+      width: 6px;
+      height: 20px;
+      background: #22c55e;
+      border-radius: 0 3px 3px 0;
+    }
+
+    .battery-bars {
+      display: flex;
+      gap: 3px;
+    }
+
+    .battery-bar {
+      width: 14px;
+      height: 28px;
+      background: #22c55e;
+      border-radius: 2px;
+    }
+
+    .benefits-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    @media (max-width: 500px) {
+      .benefits-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .benefit {
+      background: #f9fafb;
+      border-radius: 8px;
+      padding: 16px;
+      border: 1px solid #e5e7eb;
+    }
+
+    .benefit-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+
+    .benefit-title {
+      font-weight: 600;
+      font-size: 14px;
+      color: #1a1a1a;
+      margin-bottom: 4px;
+    }
+
+    .benefit-desc {
+      font-size: 13px;
+      color: #6b7280;
+      line-height: 1.5;
+    }
+
+    .cta {
+      text-align: center;
+      padding: 32px;
+      background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+      border-radius: 12px;
+      border: 1px solid #a7f3d0;
+      width: 100%;
+      max-width: 640px;
+    }
+
+    .cta h2 {
+      font-size: 20px;
+      color: #166534;
+      margin-bottom: 12px;
+    }
+
+    .cta p {
+      color: #15803d;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .cta a {
+      display: inline-block;
+      background: #008060;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      transition: background 0.15s;
+    }
+
+    .cta a:hover {
+      background: #006b50;
+    }
+
+    .fun-facts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 16px;
+    }
+
+    .fun-fact {
+      background: #f0fdf4;
+      color: #166534;
+      padding: 8px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      border: 1px solid #bbf7d0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🔋 About ShopiTrust</h1>
+  <p>The story behind measuring trust at Shopify</p>
+  <nav>
+    <a href="index.html">← Back to Battery Check</a>
+  </nav>
+</header>
+
+<div class="card">
+  <h2>🤔 What's a Trust Battery?</h2>
+  
+  <div class="battery-visual">
+    <span>⚡</span>
+    <div class="battery">
+      <div class="battery-bars">
+        <div class="battery-bar"></div>
+        <div class="battery-bar"></div>
+        <div class="battery-bar"></div>
+        <div class="battery-bar"></div>
+        <div class="battery-bar"></div>
+      </div>
+    </div>
+    <span>💚</span>
+  </div>
+  
+  <p>
+    The <strong>trust battery</strong> is a Shopify concept that Tobi Lütke introduced to describe 
+    how working relationships function. Every relationship between two people has a metaphorical 
+    battery that can be charged or drained based on their interactions.
+  </p>
+  
+  <p>
+    When you start working with someone new, the battery begins at about 50% — neutral. 
+    Every time you deliver on a commitment, respond promptly, give credit, or close loops, 
+    the battery charges. When you miss deadlines, leave messages unanswered, or break promises, 
+    it drains.
+  </p>
+
+  <div class="quote">
+    <p>"Trust is like a battery that exists between buyers, suppliers, merchants, partners, apps, and ourselves."</p>
+    <div class="attribution">— Tobi Lütke, 2022 Themes</div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>✨ Why We Built ShopiTrust</h2>
+  
+  <p>
+    We built ShopiTrust because <strong>trust is often invisible</strong>. You might have a sense 
+    that a relationship is strained, but it's hard to pinpoint why. Or you might not realize 
+    you've been draining someone's trust battery until it's already low.
+  </p>
+
+  <p>
+    ShopiTrust makes the invisible visible by analyzing real signals from your interactions:
+  </p>
+
+  <div class="fun-facts">
+    <div class="fun-fact">💬 Response times on Slack</div>
+    <div class="fun-fact">✅ Commitments kept vs. broken</div>
+    <div class="fun-fact">📅 Meeting patterns</div>
+    <div class="fun-fact">🎉 Recognition given</div>
+    <div class="fun-fact">🔄 Loops closed vs. left hanging</div>
+  </div>
+
+  <p style="margin-top: 20px;">
+    Then we give you <strong>one specific, actionable tip</strong> to improve — not generic advice, 
+    but something grounded in what actually happened.
+  </p>
+</div>
+
+<div class="card">
+  <h2>💪 Benefits of Being Trustworthy</h2>
+  
+  <div class="benefits-grid">
+    <div class="benefit">
+      <div class="benefit-icon">🏃‍♂️</div>
+      <div class="benefit-title">Move Faster</div>
+      <div class="benefit-desc">High-trust teams skip the overhead of verification. Decisions happen faster.</div>
+    </div>
+    
+    <div class="benefit">
+      <div class="benefit-icon">🎯</div>
+      <div class="benefit-title">Get Better Feedback</div>
+      <div class="benefit-desc">When people trust you, they give honest feedback instead of holding back.</div>
+    </div>
+    
+    <div class="benefit">
+      <div class="benefit-icon">🤝</div>
+      <div class="benefit-title">Attract Opportunities</div>
+      <div class="benefit-desc">People want to work with trustworthy colleagues. High trust leads to better projects.</div>
+    </div>
+    
+    <div class="benefit">
+      <div class="benefit-icon">😌</div>
+      <div class="benefit-title">Less Stress</div>
+      <div class="benefit-desc">You don't need to over-explain or worry about how things will be perceived.</div>
+    </div>
+    
+    <div class="benefit">
+      <div class="benefit-icon">🌱</div>
+      <div class="benefit-title">Compounding Returns</div>
+      <div class="benefit-desc">Trust builds on itself. One kept promise makes the next one easier to believe.</div>
+    </div>
+    
+    <div class="benefit">
+      <div class="benefit-icon">🛡️</div>
+      <div class="benefit-title">Resilience</div>
+      <div class="benefit-desc">When things go wrong, high trust gives you the benefit of the doubt.</div>
+    </div>
+  </div>
+</div>
+
+<div class="cta">
+  <h2>Ready to check your trust batteries? 🔋</h2>
+  <p>See where you stand with a colleague and get a personalized tip to improve.</p>
+  <a href="index.html">Check a Trust Battery →</a>
+</div>
+
+</body>
+</html>
