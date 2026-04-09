@@ -119,9 +119,9 @@ A browser-based version lives in `site/index.html` — deploy it to Shopify's in
 quick auth
 quick init   # generates the Quick SKILL.md — prevents API hallucination
 
-# Deploy
+# Deploy (run from the site/ directory)
 cd site
-quick deploy shopitrust
+quick deploy . shopitrust
 ```
 
 The site will be live at **`shopitrust.quick.shopify.io`**.

@@ -256,6 +256,18 @@
 
     footer a { color: #6b7280; text-decoration: none; }
     footer a:hover { text-decoration: underline; }
+
+    .data-sources {
+      margin-top: 16px;
+      padding: 10px 12px;
+      background: #f9fafb;
+      border-radius: 6px;
+      font-size: 12px;
+      color: #9ca3af;
+      line-height: 1.6;
+    }
+
+    .data-sources strong { color: #6b7280; font-weight: 600; }
   </style>
 </head>
 <body>
@@ -308,6 +320,8 @@
       <button class="secondary" onclick="reset()">↩ Check someone else</button>
     </div>
     <div class="sent-msg" id="sentMsg">✓ Sent to your Slack DM</div>
+
+    <div class="data-sources" id="dataSources"></div>
   </div>
 </div>
 
@@ -316,6 +330,7 @@
   Inspired by the trust battery concept from Tobi Lütke
 </footer>
 
+<script src="/client/quick.js"></script>
 <script>
   const SKILL_PROMPT = `You are ShopiTrust, a tool that assesses someone's trust battery with a colleague at Shopify.
 
@@ -324,6 +339,13 @@ The trust battery starts at 0.5 (neutral) and moves based on real interaction si
 SCORING RULES:
 - Start at 0.5
 - Only move the score based on actual interactions — absence of interaction is neutral (stays 0.5)
+
+SIGNAL DECAY — multiply every adjustment by the age of the interaction:
+- Last 1–2 weeks: 1.0× (full weight)
+- 2–4 weeks ago: 0.5× (half weight)
+- Older than 4 weeks: 0.25× (quarter weight)
+
+Example: an unanswered message from 3 weeks ago = -0.10 × 0.5 = -0.05
 
 Charging signals (move score UP):
 - Responded quickly (<24h) to their last Slack/email: +0.05
@@ -335,9 +357,22 @@ Charging signals (move score UP):
 - Followed through on a commitment they can verify: +0.08
 
 Draining signals (move score DOWN) — only if there was actual interaction:
-- Unanswered message/email from them sitting >2 days: -0.10
-- Commitment made in Slack/email with no follow-up: -0.08
+- Unanswered message/email from them sitting >2 days with NO reaction: -0.10
+- Commitment made in Slack/email with no follow-up and no acknowledgment: -0.08
 - Cancelled or rescheduled a shared meeting without rescheduling: -0.05
+
+RECENCY GRACE PERIOD — do NOT apply draining signals for asks or commitments sent in the last 6 hours:
+- If a message asking for something or a commitment was sent less than 6 hours ago, ignore it for scoring purposes — there has been no reasonable time to complete it.
+- This applies to: requests, asks, action items, commitments, "can you..." messages.
+- Recent conversation tone, quick replies, and acknowledgments from the last 6 hours are still valid positive signals.
+
+IMPORTANT — emoji reactions count as acknowledgment:
+- If you reacted to their message with any emoji (👍 ✅ 👀 🙏 etc.), that message is NOT an open loop — it means you saw it and acknowledged it. Do NOT score it as unanswered.
+- Reactions like ✅ or 🙏 are strong positive signals — treat them the same as a quick reply (+0.05).
+- Reactions like 👀 or 🔜 signal "on it" — neutral, not a drain.
+- A message with a reaction from you followed by NO further action on a substantive ask is a partial close — reduce the drain by half (-0.05 instead of -0.10).
+
+Do NOT over-index on the most recent single interaction. Look at the overall pattern across all messages.
 
 Respond ONLY with valid JSON in this exact format:
 {
@@ -357,19 +392,206 @@ Be honest. Base the score on signals from the context provided. If no interactio
   let currentResult = null;
   let currentUser = null;
 
-  async function init() {
-    try {
-      currentUser = await quick.id.get();
-    } catch (e) {
-      // Not in Quick context, continue without user identity
-    }
-  }
-
-  init();
+  quick.id.waitForUser().then(user => {
+    currentUser = user;
+  }).catch(() => {});
 
   document.getElementById("nameInput").addEventListener("keydown", (e) => {
     if (e.key === "Enter") runCheck();
   });
+
+  async function slackSearch(token, query, count = 20) {
+    const res = await quick.http.post("https://slack.com/api/search.messages", {
+      headers: {
+        Authorization: `Bearer ${token.access_token}`,
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: `query=${encodeURIComponent(query)}&count=${count}&sort=timestamp&sort_dir=desc`,
+    });
+    const data = await res.json();
+    return data.ok ? (data.messages?.matches || []) : [];
+  }
+
+  async function fetchDMHistory(token, firstName, oldestTs) {
+    // Find the DM channel with this person
+    const res = await quick.http.post("https://slack.com/api/conversations.list", {
+      headers: {
+        Authorization: `Bearer ${token.access_token}`,
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: "types=im&limit=200&exclude_archived=true",
+    });
+    const data = await res.json();
+    if (!data.ok) return [];
+
+    // Find matching DM by user name in the channel list
+    // We look up each IM's user info to match by name
+    const channels = data.channels || [];
+    for (const ch of channels) {
+      const userRes = await quick.http.post("https://slack.com/api/users.info", {
+        headers: {
+          Authorization: `Bearer ${token.access_token}`,
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+        body: `user=${ch.user}`,
+      });
+      const userData = await userRes.json();
+      const profile = userData.user?.profile;
+      const name = (profile?.real_name || profile?.display_name || "").toLowerCase();
+      if (name.includes(firstName.toLowerCase())) {
+        // Found the DM — get history going back 30 days
+        const histRes = await quick.http.post("https://slack.com/api/conversations.history", {
+          headers: {
+            Authorization: `Bearer ${token.access_token}`,
+            "Content-Type": "application/x-www-form-urlencoded",
+          },
+          body: `channel=${ch.id}&limit=50&oldest=${oldestTs}`,
+        });
+        const histData = await histRes.json();
+        return histData.ok ? (histData.messages || []) : [];
+      }
+    }
+    return [];
+  }
+
+  function formatMessages(messages, label, mySlackId) {
+    if (!messages.length) return "";
+    const lines = messages.slice(0, 20).map(m => {
+      const date = new Date(parseFloat(m.ts) * 1000).toLocaleDateString();
+      const isMe = mySlackId && m.user === mySlackId;
+      const author = isMe ? "YOU" : (m.username || m.user || "them");
+      const channel = m.channel?.name ? `#${m.channel.name}` : label;
+      const text = (m.text || "").slice(0, 250).replace(/\n/g, " ");
+
+      // Split reactions into mine vs others
+      const myReactions = (m.reactions || [])
+        .filter(r => mySlackId && r.users?.includes(mySlackId))
+        .map(r => `:${r.name}:`);
+      const otherReactions = (m.reactions || [])
+        .filter(r => !mySlackId || !r.users?.includes(mySlackId))
+        .map(r => `:${r.name}: (${r.count})`);
+
+      const reactionParts = [];
+      if (myReactions.length) reactionParts.push(`YOU reacted: ${myReactions.join(" ")}`);
+      if (otherReactions.length) reactionParts.push(`others reacted: ${otherReactions.join(" ")}`);
+      const reactionStr = reactionParts.length ? ` [${reactionParts.join(" | ")}]` : "";
+
+      return `[${date}] ${channel} — ${author}: ${text}${reactionStr}`;
+    });
+    return lines.join("\n");
+  }
+
+  // search.messages strips reaction data — must fetch separately per message
+  async function enrichWithReactions(token, messages) {
+    return Promise.all(messages.slice(0, 15).map(async (m) => {
+      if (!m.channel?.id || !m.ts) return m;
+      try {
+        const res = await quick.http.post("https://slack.com/api/reactions.get", {
+          headers: {
+            Authorization: `Bearer ${token.access_token}`,
+            "Content-Type": "application/x-www-form-urlencoded",
+          },
+          body: `channel=${m.channel.id}&timestamp=${m.ts}&full=true`,
+        });
+        const data = await res.json();
+        if (data.ok && data.message?.reactions?.length) {
+          return { ...m, reactions: data.message.reactions };
+        }
+      } catch (e) {}
+      return m;
+    }));
+  }
+
+  async function fetchSlackSignals(name, mySlackId) {
+    try {
+      const token = await quick.auth.slack.getToken(["search:read", "reactions:read", "channels:history", "im:history", "users:read"]);
+      if (!token?.access_token) return null;
+
+      // Get the actual Slack User ID (U0XXXXXX format) — quick.id.slackId may return a handle, not the ID
+      let resolvedSlackId = mySlackId;
+      try {
+        const authRes = await quick.http.post("https://slack.com/api/auth.test", {
+          headers: { Authorization: `Bearer ${token.access_token}`, "Content-Type": "application/x-www-form-urlencoded" },
+          body: "",
+        });
+        const authData = await authRes.json();
+        if (authData.ok && authData.user_id) resolvedSlackId = authData.user_id;
+      } catch (e) {}
+
+      const firstName = name.split(" ")[0];
+
+      // Look back 30 days, split into two buckets to avoid active people filling up with only recent msgs
+      const thirtyDaysAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000);
+      const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
+      const afterRecent = sevenDaysAgo.toISOString().split("T")[0];    // last 7 days
+      const afterOlder  = thirtyDaysAgo.toISOString().split("T")[0];   // 7–30 days ago
+      const beforeOlder = afterRecent;                                   // cap older bucket at 7 days ago
+      const oldestTs = Math.floor(thirtyDaysAgo.getTime() / 1000);
+
+      setLoadingText("Searching Slack messages…");
+      const [mentionRecent, mentionOlder, fromRecent, fromOlder] = await Promise.all([
+        slackSearch(token, `${name} after:${afterRecent}`, 25),
+        slackSearch(token, `${name} after:${afterOlder} before:${beforeOlder}`, 25),
+        slackSearch(token, `from:${firstName} after:${afterRecent}`, 25),
+        slackSearch(token, `from:${firstName} after:${afterOlder} before:${beforeOlder}`, 25),
+      ]);
+
+      // Deduplicate by ts in case of overlap
+      const dedup = (a, b) => {
+        const seen = new Set(a.map(m => m.ts));
+        return [...a, ...b.filter(m => !seen.has(m.ts))];
+      };
+      const mentionResults = dedup(mentionRecent, mentionOlder);
+      const fromResults = dedup(fromRecent, fromOlder);
+
+      setLoadingText("Fetching reactions…");
+      const [mentionsEnriched, fromsEnriched] = await Promise.all([
+        enrichWithReactions(token, mentionResults),
+        enrichWithReactions(token, fromResults),
+      ]);
+
+      setLoadingText("Fetching DM history…");
+      const dmMessages = await fetchDMHistory(token, firstName, oldestTs);
+
+      const sections = [];
+      const mentions = formatMessages(mentionsEnriched, "channel", resolvedSlackId);
+      if (mentions) sections.push(`Channel mentions of "${name}":\n${mentions}`);
+
+      const froms = formatMessages(fromsEnriched, "channel", resolvedSlackId);
+      if (froms) sections.push(`Recent messages from "${firstName}" across channels:\n${froms}`);
+
+      if (dmMessages.length) {
+        const dms = formatMessages(dmMessages, "DM", resolvedSlackId);
+        sections.push(`Direct message history with "${firstName}" (YOU = ${currentUser?.fullName || "you"}):\n${dms}`);
+      }
+
+      // Date range from full raw results (not capped by enrichment)
+      const allRaw = [...mentionResults, ...fromResults, ...dmMessages];
+      const timestamps = allRaw.map(m => parseFloat(m.ts) * 1000).filter(Boolean).sort();
+      const oldest = timestamps.length ? new Date(timestamps[0]).toLocaleDateString() : null;
+      const newest = timestamps.length ? new Date(timestamps[timestamps.length - 1]).toLocaleDateString() : null;
+
+      const meta = {
+        mentions: mentionResults.length,
+        from: fromResults.length,
+        dms: dmMessages.length,
+        total: allRaw.length,
+        oldest,
+        newest,
+      };
+
+      if (!sections.length) return { context: `No recent Slack activity found involving "${name}".`, meta };
+      return { context: sections.join("\n\n"), meta };
+    } catch (e) {
+      console.warn("Slack fetch failed:", e);
+      return null;
+    }
+  }
+
+  function setLoadingText(text) {
+    const el = document.querySelector(".loading");
+    if (el) el.childNodes[2].textContent = text;
+  }
 
   async function runCheck() {
     const name = document.getElementById("nameInput").value.trim();
@@ -382,28 +604,39 @@ Be honest. Base the score on signals from the context provided. If no interactio
     document.getElementById("sentMsg").style.display = "none";
 
     try {
+      setLoadingText("Authorizing Slack access…");
+      const slackResult = await fetchSlackSignals(name, currentUser?.slackId);
+
+      setLoadingText("Scoring trust battery…");
+
       const userContext = currentUser
-        ? `The person running this check is ${currentUser.name} (${currentUser.email}).`
+        ? `The person running this check is ${currentUser.fullName} (${currentUser.email}).`
         : "";
 
-      const response = await quick.ai.chat.completions.create({
-        model: "claude-sonnet-4-6",
-        messages: [
+      const slackContext = slackResult
+        ? `\n\nSLACK DATA:\n${slackResult.context}`
+        : "\n\nSLACK DATA: Not available — score based on no interaction data, keep at 0.5.";
+
+      const response = await quick.ai.chat(
+        [
           { role: "system", content: SKILL_PROMPT },
           {
             role: "user",
-            content: `${userContext}\n\nAssess the trust battery for: ${name}\n\nSearch your available context for any recent interactions, open loops, meeting cadence, or relationship signals between the current user and ${name}. If no context is available, return a neutral 0.5 score with a tip for making a first meaningful connection grounded in what you know about ${name}'s role.`
+            content: `${userContext}${slackContext}\n\nNow assess the trust battery for: ${name}\n\nBase your score strictly on the Slack data above. Look for: unanswered messages, open loops, quick replies, shoutouts, commitments. If a message from them has no reply from ${currentUser?.firstName || "the user"}, flag it as a draining signal.`
           }
         ],
-        response_format: { type: "json_object" }
-      });
+        { model: "claude-sonnet-4-6" }
+      );
 
       const raw = response.choices[0].message.content;
-      currentResult = JSON.parse(raw);
-      renderResult(currentResult);
+      // Extract JSON object from anywhere in the response
+      const match = raw.match(/\{[\s\S]*\}/);
+      if (!match) throw new Error("No JSON found in response");
+      currentResult = JSON.parse(match[0]);
+      renderResult(currentResult, slackResult?.meta);
     } catch (err) {
       document.getElementById("errorMsg").textContent =
-        "Something went wrong. Check the console for details.";
+        "Something went wrong: " + (err.message || "check the console");
       document.getElementById("errorMsg").style.display = "block";
       console.error(err);
     } finally {
@@ -412,7 +645,7 @@ Be honest. Base the score on signals from the context provided. If no interactio
     }
   }
 
-  function renderResult(data) {
+  function renderResult(data, meta) {
     document.getElementById("scoreName").textContent = data.name;
     document.getElementById("scoreNumber").textContent = data.score.toFixed(2);
     document.getElementById("scoreLabel").textContent = data.label;
@@ -430,9 +663,27 @@ Be honest. Base the score on signals from the context provided. If no interactio
       bar.appendChild(block);
     }
 
-    // Color the score block
     const scoreBlock = document.getElementById("scoreBlock");
     scoreBlock.className = `score-block ${data.colorClass}`;
+
+    // Data sources summary
+    const sourcesEl = document.getElementById("dataSources");
+    if (meta && meta.total > 0) {
+      const parts = [];
+      if (meta.mentions) parts.push(`${meta.mentions} channel mention${meta.mentions !== 1 ? "s" : ""}`);
+      if (meta.from) parts.push(`${meta.from} msg${meta.from !== 1 ? "s" : ""} from them`);
+      if (meta.dms) parts.push(`${meta.dms} DM${meta.dms !== 1 ? "s" : ""}`);
+      const dateRange = meta.oldest && meta.newest && meta.oldest !== meta.newest
+        ? ` · ${meta.oldest} – ${meta.newest}`
+        : meta.newest ? ` · as of ${meta.newest}` : "";
+      sourcesEl.innerHTML = `<strong>Based on:</strong> ${parts.join(" · ")}${dateRange} · Slack`;
+      sourcesEl.style.display = "block";
+    } else if (meta) {
+      sourcesEl.innerHTML = `<strong>Based on:</strong> No Slack data found — score is baseline 0.5`;
+      sourcesEl.style.display = "block";
+    } else {
+      sourcesEl.style.display = "none";
+    }
 
     document.getElementById("result").style.display = "block";
   }
@@ -449,9 +700,9 @@ Be honest. Base the score on signals from the context provided. If no interactio
     const msg = `🔋 *Trust Battery: ${currentResult.name}*\nScore: ${currentResult.score.toFixed(2)} ${bar}\n${currentResult.label}\n\n*What moved it:* ${currentResult.keyDriver}\n\n*Today's tip:* ${currentResult.tipAction}\n_${currentResult.tipWhy}_`;
 
     try {
-      const target = currentUser?.slack_id || currentUser?.email;
+      const target = currentUser?.slackId || currentUser?.email;
       if (target) {
-        await quick.slack.send({ channel: target, text: msg });
+        await quick.slack.sendMessage(target, msg);
         document.getElementById("sentMsg").style.display = "block";
       } else {
         throw new Error("Could not determine your Slack identity");

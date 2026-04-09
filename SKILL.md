@@ -31,10 +31,14 @@ Run the user lookup and project lookup in parallel.
 
 Skip this step entirely if Slack MCP tools are not available.
 
-1. **DM history** — search for direct message threads with this person. Pull the last 20 messages.
-2. **Mentions** — search Slack for messages mentioning their name or handle in the last 30 days.
-3. Identify:
-   - Open loops: did they ask you something you haven't replied to?
+1. **DM history** — find the direct message thread with this person and pull the last 20 messages. For any message that has replies (a thread), fetch the thread replies too using `get_messages` with `action: "thread"`. This captures the full back-and-forth, not just top-level messages.
+
+2. **Channel mentions** — search Slack for messages mentioning their name or @handle across all channels in the last 30 days. Look at both sides: messages they sent that mention you, and messages you sent that mention them.
+
+3. **Messages from them** — separately search for `from:<their slack handle>` to find messages they've sent in shared channels, not just DMs. Look for asks, questions, or requests directed at you that may not have been in a DM.
+
+4. Identify from all of the above:
+   - Open loops: did they ask you something (in DM, in a thread, in a channel) you haven't replied to?
    - Commitments you made in Slack that haven't been followed up
    - Quick responses you gave to their asks
    - Shoutouts or acknowledgments you gave them
@@ -69,6 +73,15 @@ Skip if unavailable.
 
 Start at **0.5**. Apply the following adjustments based on what you found. Each adjustment is additive — total is capped at 1.0 and floored at 0.0.
 
+**Signal decay by age — apply this multiplier to every adjustment:**
+| Age of interaction | Multiplier |
+|--------------------|------------|
+| Last 1–2 weeks | 1.0× (full weight) |
+| 2–4 weeks ago | 0.5× (half weight) |
+| Older than 4 weeks | 0.25× (quarter weight) |
+
+Apply the multiplier before adding or subtracting. For example, an unanswered message from 3 weeks ago is -0.10 × 0.5 = -0.05 instead of -0.10. Use your best estimate of signal age from message timestamps or calendar dates.
+
 **Charging adjustments (move score up):**
 | Signal | Adjustment |
 |--------|-----------|
@@ -85,9 +98,22 @@ Only apply these when there has been actual interaction. Absence of interaction 
 
 | Signal | Adjustment |
 |--------|-----------|
-| Unanswered message/email from them sitting >2 days | -0.10 |
-| Commitment made in Slack/email with no follow-up | -0.08 |
+| Unanswered message/email from them with NO reaction or reply | -0.10 |
+| Commitment made in Slack/email with no follow-up and no acknowledgment | -0.08 |
 | Cancelled or rescheduled a shared meeting without rescheduling | -0.05 |
+
+**Recency grace period — do NOT apply draining signals for asks or commitments less than 6 hours old:**
+- If a request, ask, action item, or commitment was sent in the last 6 hours, skip it entirely for scoring. There has been no reasonable time to complete it.
+- This applies to: "can you...", "please review...", "could you share...", any task or deliverable request.
+- Recent conversation tone, quick replies, and emoji acknowledgments from the last 6 hours are still valid positive signals — only incomplete tasks/asks are excluded.
+
+**Emoji reactions are acknowledgments — apply these rules before scoring drains:**
+- If you reacted to their message with any emoji (👍 ✅ 👀 🙏 etc.), that message is NOT an open loop. Do not score it as unanswered.
+- Reactions like ✅ or 🙏 are strong positive signals — treat the same as a quick reply (+0.05).
+- Reactions like 👀 or 🔜 signal "on it" — neutral, not a drain.
+- A reaction followed by no further action on a substantive ask (e.g. "can you review this?") is a partial close — reduce the drain by half (-0.05 instead of -0.10).
+
+**Do not over-index on the most recent interaction.** A single good or bad interaction should not dominate the score — look at the overall pattern, apply decay weights, and produce a score that reflects the relationship as a whole.
 
 **Neutral / no interaction:**
 - If there is no interaction history found across all sources, the score stays at **0.5** — the relationship is at baseline, not penalized. Note this clearly and treat the first interaction as an opportunity to start building.
