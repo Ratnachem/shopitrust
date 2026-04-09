@@ -1,0 +1,106 @@
+{
+  "username": "john.kelley",
+  "name": "John Kelley",
+  "generated_at": "2026-04-08T20:22:31.122497",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 5,
+    "days_in_window": 18,
+    "days_scale": 0.78
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": ":four_leaf_clover: *St. Paddy\u2019s Day Lunch in the Port!* :four_leaf_clover:\nCelebrate a little luck of the Irish with our culinary team as they cook",
+          "channel": "bellevue-port-buzz",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.58,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "steve.colvin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.02,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "bellevue-port-buzz",
+          "messages": 6
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 2
+        },
+        {
+          "channel": "help-ports",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.6,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "ridwan.islam",
+          "count": 2
+        },
+        {
+          "user": "cristina.flores",
+          "count": 1
+        },
+        {
+          "user": "lauren.soto",
+          "count": 1
+        },
+        {
+          "user": "barrett.miller",
+          "count": 1
+        },
+        {
+          "user": "jennifer.macdonald",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "14": 1,
+      "20": 3,
+      "18": 2,
+      "17": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Friday": 3,
+      "Monday": 2,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.94,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1241,
+    "dept_size": 1663
+  }
+}

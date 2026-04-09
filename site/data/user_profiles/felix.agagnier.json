@@ -1,0 +1,174 @@
+{
+  "username": "felix.agagnier",
+  "name": "Felix Agagnier",
+  "generated_at": "2026-04-08T20:22:24.035678",
+  "summary": {
+    "message_count": 85,
+    "channels_active": 8,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 12,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> `alert_recording_rule:event:zscore{rule_config_id=\"e3a7b22e-d96f-4fa8-8805-92928fa946eb\"}`\n\n```The volume of C1 delivery violations",
+          "channel": "temp-fagagnier-river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> original slack: Hi team! BPO-TMS here, I am currently assisting a merchant who reported that they are having issues with the *shipping",
+          "channel": "fulfillment-atc-river",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.8,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "stefan.horne",
+          "count": 1
+        },
+        {
+          "user": "charlie.morris",
+          "count": 1
+        },
+        {
+          "user": "michael.pratt",
+          "count": 1
+        },
+        {
+          "user": "james.highfield",
+          "count": 1
+        },
+        {
+          "user": "hamish.morgan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.18,
+      "count": 55,
+      "top_channels": [
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 32
+        },
+        {
+          "channel": "proj-m1-new-shipping-option",
+          "messages": 25
+        },
+        {
+          "channel": "temp-fagagnier-river",
+          "messages": 12
+        },
+        {
+          "channel": "inv-20085-order-printer-error-spike-prisma-timeouts",
+          "messages": 6
+        },
+        {
+          "channel": "fulfillment-excp",
+          "messages": 4
+        },
+        {
+          "channel": "delivery-strategies-operations",
+          "messages": 3
+        },
+        {
+          "channel": "inv-19904-report-of-shipping-rates-not-being-availa",
+          "messages": 2
+        },
+        {
+          "channel": "proj-migration-and-integrity-market-shipping-profiles",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "stefan.horne",
+          "count": 6
+        },
+        {
+          "user": "joshua.bee",
+          "count": 3
+        },
+        {
+          "user": "marcus.turner",
+          "count": 3
+        },
+        {
+          "user": "alex.corr",
+          "count": 2
+        },
+        {
+          "user": "cherry.chau",
+          "count": 1
+        },
+        {
+          "user": "jason.suzuki",
+          "count": 1
+        },
+        {
+          "user": "rachelyn.collins",
+          "count": 1
+        },
+        {
+          "user": "westin.wrzesinskii",
+          "count": 1
+        },
+        {
+          "user": "chema.balsas",
+          "count": 1
+        },
+        {
+          "user": "soroosh.sarabadani",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 6,
+      "13": 19,
+      "15": 17,
+      "18": 4,
+      "17": 8,
+      "16": 10,
+      "21": 1,
+      "20": 12,
+      "19": 8
+    },
+    "by_day": {
+      "Wednesday": 16,
+      "Tuesday": 6,
+      "Monday": 8,
+      "Thursday": 14,
+      "Friday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.04,
+    "dept_average_30d": 4.74,
+    "dept_rank": 532,
+    "dept_size": 1663
+  }
+}

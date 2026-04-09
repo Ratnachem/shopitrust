@@ -1,0 +1,264 @@
+{
+  "username": "will.stanton",
+  "name": "Will Stanton",
+  "generated_at": "2026-04-08T20:22:11.268177",
+  "summary": {
+    "message_count": 487,
+    "channels_active": 30,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 10.0,
+      "pos_count": 81,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Thanks! Happy to help",
+          "channel": "claude-code",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Happy to help",
+          "channel": "claude-code",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good morning <@W0182UWB6K1>! Quick question: is UAL still the required source table for any new fields we want to add to 1P CRM? Or do you also",
+          "channel": "help-crm",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U087SSHQVAP> No rush, but if you have a few minutes to review this proposal about \"HSTU Propensity in 1P CRM,\" then I would like to submit a Vault",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Something worth reviewing as you work on v5: <@U08DFRV0VS8> The sales outcome numbers are still good (especially on opp -&gt; close) for POS Pro, but",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "cool, <@U08DFRV0VS8> added you! (sorry about that)",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yes I think something like this work, i'll give it a shot, thanks!",
+          "channel": "proj-revenue-tools-product-adoption",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "OK that makes sense, your solution makes sense too. Thanks! I guess it's so rare it never came up until today (I ran a bunch of enrichments today)",
+          "channel": "revenue-data-airflow-dags-status",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "*The organization_id-only accounts (with NULL Salesforce account IDs) are now showing up in unified_account_list.* This is not required for",
+          "channel": "proj-acceleration-fit-scoring",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I checked this morning and it looks great! Really appreciate the quick turnaround on this. :ship: :thanks-2: FYI <@W01B9UHNF36> you were",
+          "channel": "help-crm",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "andrew.pyne",
+          "count": 18
+        },
+        {
+          "user": "ali.soleymani",
+          "count": 13
+        },
+        {
+          "user": "allison.hayes",
+          "count": 13
+        },
+        {
+          "user": "utkarsh.gupta",
+          "count": 12
+        },
+        {
+          "user": "molly.parapini",
+          "count": 10
+        },
+        {
+          "user": "gary.wang",
+          "count": 10
+        },
+        {
+          "user": "austin.rothwell",
+          "count": 7
+        },
+        {
+          "user": "molly.mckeehan",
+          "count": 7
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 6
+        },
+        {
+          "user": "jonathan.klinger",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.0,
+      "count": 343,
+      "top_channels": [
+        {
+          "channel": "proj-acceleration-fit-scoring",
+          "messages": 148
+        },
+        {
+          "channel": "proj-revenue-tools-product-adoption",
+          "messages": 75
+        },
+        {
+          "channel": "claude-code",
+          "messages": 33
+        },
+        {
+          "channel": "revenue-acceleration-fit-scoring-prototype",
+          "messages": 26
+        },
+        {
+          "channel": "help-crm",
+          "messages": 24
+        },
+        {
+          "channel": "help-commercial-data-platform",
+          "messages": 24
+        },
+        {
+          "channel": "commercial-ai-pr-review",
+          "messages": 17
+        },
+        {
+          "channel": "revenue-data-airflow-dags-status",
+          "messages": 15
+        },
+        {
+          "channel": "quick",
+          "messages": 15
+        },
+        {
+          "channel": "commercial-data-river",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "allison.hayes",
+          "count": 6
+        },
+        {
+          "user": "gary.wang",
+          "count": 6
+        },
+        {
+          "user": "molly.parapini",
+          "count": 6
+        },
+        {
+          "user": "jonathan.klinger",
+          "count": 4
+        },
+        {
+          "user": "cheokmeng.law",
+          "count": 3
+        },
+        {
+          "user": "andrew.pyne",
+          "count": 3
+        },
+        {
+          "user": "molly.mckeehan",
+          "count": 2
+        },
+        {
+          "user": "cindy.zhu",
+          "count": 2
+        },
+        {
+          "user": "layne.shirley",
+          "count": 1
+        },
+        {
+          "user": "kyle.daniels",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "17": 43,
+      "16": 62,
+      "15": 53,
+      "23": 30,
+      "22": 86,
+      "21": 45,
+      "20": 63,
+      "19": 26,
+      "14": 29,
+      "13": 9,
+      "1": 11,
+      "0": 6,
+      "12": 5,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 145,
+      "Tuesday": 134,
+      "Monday": 54,
+      "Friday": 87,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.47,
+    "dept_average_30d": 5.39,
+    "dept_rank": 36,
+    "dept_size": 272
+  }
+}

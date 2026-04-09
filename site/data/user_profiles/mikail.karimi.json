@@ -1,0 +1,139 @@
+{
+  "username": "mikail.karimi",
+  "name": "Mikail Karimi",
+  "generated_at": "2026-04-08T20:22:31.149354",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 6,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Marc",
+          "channel": "data-community",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team. Following steps listed <https://github.com/Shopify/shopify-skypilot/tree/main/examples/nebius/airflow|here> for launching skypilot with",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "help-ports",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey, I accidentally spilled some coconut water on a desk mat on floor 13.044 in Toronto. I wiped the excess but is there anything else I should do?",
+          "channel": "help-ports",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "shainen.davidson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.27,
+      "count": 60,
+      "top_channels": [
+        {
+          "channel": "finance-data-science-prs",
+          "messages": 5
+        },
+        {
+          "channel": "finance-data-science-notify",
+          "messages": 4
+        },
+        {
+          "channel": "data-community",
+          "messages": 3
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "help-ports",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "mason.gionet",
+          "count": 3
+        },
+        {
+          "user": "shainen.davidson",
+          "count": 2
+        },
+        {
+          "user": "jonathan.ohayon",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 4,
+      "20": 4,
+      "15": 1,
+      "18": 6,
+      "17": 2,
+      "16": 3
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Thursday": 10,
+      "Tuesday": 3,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.82,
+    "dept_average_30d": 5.39,
+    "dept_rank": 178,
+    "dept_size": 272
+  }
+}

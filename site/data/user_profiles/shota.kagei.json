@@ -1,0 +1,89 @@
+{
+  "username": "shota.kagei",
+  "name": "Shota Kagei",
+  "generated_at": "2026-04-08T20:22:27.836560",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Will do. Thank you!",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "jesse.steig",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.07,
+      "count": 81,
+      "top_channels": [
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 3
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 1
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 1
+        },
+        {
+          "channel": "cursor",
+          "messages": 1
+        },
+        {
+          "channel": "help-ai-chat",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 2,
+      "19": 4,
+      "16": 1
+    },
+    "by_day": {
+      "Tuesday": 3,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 3.98,
+    "dept_average_30d": 4.89,
+    "dept_rank": 173,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "username": "tony.cummings",
+  "name": "Tony Cummings",
+  "generated_at": "2026-04-08T20:22:11.726883",
+  "summary": {
+    "message_count": 403,
+    "channels_active": 27,
+    "unique_people_mentioned": 43,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "it does yes, thank you!",
+          "channel": "help-it",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you very much",
+          "channel": "help-it",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey Daria - we've seen this before, and it isn't an issue of misconfiguration or a leak. Can 100% confirm that you are not authenticated as Anmol.",
+          "channel": "tool-gateway",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I am flexible to whatever y'all have here",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "andy.ury",
+          "count": 8
+        },
+        {
+          "user": "sara.adcock",
+          "count": 5
+        },
+        {
+          "user": "paul.gagliardi",
+          "count": 5
+        },
+        {
+          "user": "ashley.williams",
+          "count": 5
+        },
+        {
+          "user": "ronnie.leblanc",
+          "count": 3
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 3
+        },
+        {
+          "user": "sasa.ilic",
+          "count": 2
+        },
+        {
+          "user": "catherine.ponsford",
+          "count": 2
+        },
+        {
+          "user": "cameron.marentette",
+          "count": 2
+        },
+        {
+          "user": "omas.abdullah",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.91,
+      "count": 180,
+      "top_channels": [
+        {
+          "channel": "tool-gateway",
+          "messages": 121
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 56
+        },
+        {
+          "channel": "help-fleet-rollout",
+          "messages": 49
+        },
+        {
+          "channel": "proj-fleetdm",
+          "messages": 25
+        },
+        {
+          "channel": "inc-20829-macos-keychain-corruption",
+          "messages": 21
+        },
+        {
+          "channel": "help-it",
+          "messages": 17
+        },
+        {
+          "channel": "tycho-dev",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20114-fleetdm-is-slow-to-load",
+          "messages": 14
+        },
+        {
+          "channel": "tony-river-test-2",
+          "messages": 13
+        },
+        {
+          "channel": "proj-non-rd-bootstrap",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.79,
+      "count": 70,
+      "top_mentioners": [
+        {
+          "user": "paul.gagliardi",
+          "count": 12
+        },
+        {
+          "user": "don.kelly",
+          "count": 5
+        },
+        {
+          "user": "jamie.strachan",
+          "count": 5
+        },
+        {
+          "user": "vicki.crowe",
+          "count": 4
+        },
+        {
+          "user": "omas.abdullah",
+          "count": 4
+        },
+        {
+          "user": "beryl.wu",
+          "count": 4
+        },
+        {
+          "user": "misato.watson",
+          "count": 3
+        },
+        {
+          "user": "amber.piercy",
+          "count": 2
+        },
+        {
+          "user": "daniele.santos",
+          "count": 2
+        },
+        {
+          "user": "meara.thompson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 50,
+      "17": 83,
+      "14": 38,
+      "22": 33,
+      "21": 18,
+      "20": 21,
+      "19": 46,
+      "16": 35,
+      "15": 47,
+      "23": 9,
+      "13": 11,
+      "1": 4,
+      "12": 1,
+      "0": 7
+    },
+    "by_day": {
+      "Wednesday": 93,
+      "Thursday": 140,
+      "Tuesday": 54,
+      "Monday": 27,
+      "Friday": 89
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 9.57,
+    "dept_average_30d": 4.89,
+    "dept_rank": 2,
+    "dept_size": 237
+  }
+}

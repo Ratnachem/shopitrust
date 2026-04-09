@@ -1,0 +1,193 @@
+{
+  "username": "kristo.krugger",
+  "name": "Kristo Krugger",
+  "generated_at": "2026-04-08T20:22:32.186304",
+  "summary": {
+    "message_count": 90,
+    "channels_active": 7,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 15,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "my :2-cents: is that it should be migrated  during the next change to anything in `airflow/plugins/local_modules/domain/infrastructure` to the",
+          "channel": "proj-data-platform-decouple-ownership",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "here's my recommendation:\n\u2022 copy whatever is in domain/infra to team/infra\n\u2022 2 copies identical copies exist (no need to change imports yet)\n\u2022 merge",
+          "channel": "proj-data-platform-decouple-ownership",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.3,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "shirley.selvan",
+          "count": 3
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 2
+        },
+        {
+          "user": "yida.wang",
+          "count": 2
+        },
+        {
+          "user": "max.romaniv",
+          "count": 1
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 1
+        },
+        {
+          "user": "elize.papineau",
+          "count": 1
+        },
+        {
+          "user": "vitaly.galchenko",
+          "count": 1
+        },
+        {
+          "user": "diana.delpino",
+          "count": 1
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 1
+        },
+        {
+          "user": "sebastian.soldner",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.22,
+      "count": 56,
+      "top_channels": [
+        {
+          "channel": "help-data-warehouse",
+          "messages": 46
+        },
+        {
+          "channel": "proj-data-platform-decouple-ownership",
+          "messages": 30
+        },
+        {
+          "channel": "inv-20196-dw-prod-job-failures-related-to-stale-man",
+          "messages": 7
+        },
+        {
+          "channel": "analytics-engineering-river",
+          "messages": 3
+        },
+        {
+          "channel": "data-warehouse-monitoring",
+          "messages": 2
+        },
+        {
+          "channel": "data-community",
+          "messages": 1
+        },
+        {
+          "channel": "data-monorepo-migration",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.84,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "shannon.alfimova",
+          "count": 12
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 12
+        },
+        {
+          "user": "xiangshi.yin",
+          "count": 4
+        },
+        {
+          "user": "lin.taylor",
+          "count": 3
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 3
+        },
+        {
+          "user": "shirley.selvan",
+          "count": 3
+        },
+        {
+          "user": "ian.robertson",
+          "count": 2
+        },
+        {
+          "user": "steven.wu",
+          "count": 2
+        },
+        {
+          "user": "asad.jaffery",
+          "count": 2
+        },
+        {
+          "user": "nuno.silva",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 2,
+      "22": 9,
+      "21": 14,
+      "20": 14,
+      "14": 1,
+      "2": 3,
+      "0": 13,
+      "23": 5,
+      "19": 14,
+      "18": 10,
+      "17": 5
+    },
+    "by_day": {
+      "Thursday": 14,
+      "Wednesday": 31,
+      "Tuesday": 28,
+      "Monday": 16,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.39,
+    "dept_average_30d": 4.74,
+    "dept_rank": 380,
+    "dept_size": 1663
+  }
+}

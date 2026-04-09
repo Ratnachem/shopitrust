@@ -1,0 +1,240 @@
+{
+  "username": "mojan.jamalzadeh",
+  "name": "Mojan Jamalzadeh",
+  "generated_at": "2026-04-08T20:22:26.760197",
+  "summary": {
+    "message_count": 288,
+    "channels_active": 11,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that",
+          "channel": "help-ris",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "sorry my bad",
+          "channel": "proj-2026-pci-assessment",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: you can modify the ejson file yourself. feel free to add an entry and then run `ejson encrypt path/to/secrets` if you need it encrypted.",
+          "channel": "help-ris",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "of course, let me know if you still run into issues after the approval",
+          "channel": "help-ris",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I created a v simple figjam with the flows we\u2019ve been working on. feel free to update it!",
+          "channel": "proj-48862-ris-gke134-updates",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": ":wave: I can help",
+          "channel": "help-ris",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing thanks edith!",
+          "channel": "help-ris",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "rashmi.kumari",
+          "count": 3
+        },
+        {
+          "user": "brian.warsing",
+          "count": 2
+        },
+        {
+          "user": "edith.sakatia",
+          "count": 2
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 2
+        },
+        {
+          "user": "riley.shott",
+          "count": 2
+        },
+        {
+          "user": "akanksha.paudyal",
+          "count": 2
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        },
+        {
+          "user": "sofia.qureshi",
+          "count": 1
+        },
+        {
+          "user": "saki.futamura",
+          "count": 1
+        },
+        {
+          "user": "fatai.salami",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.3,
+      "count": 148,
+      "top_channels": [
+        {
+          "channel": "help-ris",
+          "messages": 129
+        },
+        {
+          "channel": "cardserver-operations",
+          "messages": 63
+        },
+        {
+          "channel": "proj-48862-ris-gke134-updates",
+          "messages": 33
+        },
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 30
+        },
+        {
+          "channel": "help-it",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20587-shopify-github-actions-runner-project-des",
+          "messages": 8
+        },
+        {
+          "channel": "payment-service-operations",
+          "messages": 5
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 3
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "infra-central",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "brian.warsing",
+          "count": 5
+        },
+        {
+          "user": "riley.shott",
+          "count": 4
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 4
+        },
+        {
+          "user": "shawn.boutilier",
+          "count": 3
+        },
+        {
+          "user": "anas.shahid",
+          "count": 2
+        },
+        {
+          "user": "jason.hoos",
+          "count": 2
+        },
+        {
+          "user": "saki.futamura",
+          "count": 2
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 2
+        },
+        {
+          "user": "fatai.salami",
+          "count": 2
+        },
+        {
+          "user": "craig.dykstra874",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 22,
+      "19": 21,
+      "16": 42,
+      "14": 9,
+      "13": 11,
+      "17": 54,
+      "15": 45,
+      "22": 16,
+      "20": 23,
+      "18": 37,
+      "0": 5,
+      "23": 3
+    },
+    "by_day": {
+      "Tuesday": 107,
+      "Thursday": 58,
+      "Wednesday": 53,
+      "Monday": 43,
+      "Friday": 27
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.55,
+    "dept_average_30d": 5.75,
+    "dept_rank": 193,
+    "dept_size": 357
+  }
+}

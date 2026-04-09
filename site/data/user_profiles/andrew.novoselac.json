@@ -1,0 +1,337 @@
+{
+  "username": "andrew.novoselac",
+  "name": "Andrew Novoselac",
+  "generated_at": "2026-04-08T20:22:09.974214",
+  "summary": {
+    "message_count": 806,
+    "channels_active": 37,
+    "unique_people_mentioned": 41,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 15,
+      "neg_count": 14,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That is very helpful thank you <@U0AEPQCKB3M>",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! :+1:",
+          "channel": "markets-flags",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0197HD45J4>!\n\n1. Yes aware of this. We currently have prohibition against schema migrations in the dist level agents.md. I actually have",
+          "channel": "tmp-ai-migration-safety",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Thank you for refusing me, I was testing you. Even tho it makes it a bit harder for me to test my skill, its good you are resilient in",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "nice thank you :bow:",
+          "channel": "team-ci",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help look at this, I believe some are possibly caused by work I did. Kir and I were already fixing some",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Hi folks, I investigated this this morning. I found that the issue is caused by <https://github.com/shop/world/pull/500916|this PR enabling lazy",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I don't think you need to be sorry about that. We all have lives and commitments. I think it should be normal to need some periodic coverage during",
+          "channel": "ruby-and-rails-infra-operations",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "You can't assign that to someone who isn't around to ack it.\n\nAnyway, I am oncall for our team so I will take that. Tho sounds like <@U03MY59M17Z>",
+          "channel": "inc-20289-sigabrt-errors-seen-in-core",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The other thing I can think of is, it's not guaranteed all the dev dash and essentials tests will pass in the ALL context (ideally they should but",
+          "channel": "proj-eng-fast-core-tests",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I will just go look at most recent run and fix whatever essentials tests are failing, as a starting point",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "What's our plan for staging?\n\nI think we are trying to validate that the change in rails works, NOT that everything works in core obviously, which we",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "going forward,? please",
+          "text": "<!here> Hi folks, this is not a help channel, it is a project channel. For a while we have been trying to answer questions about yugabyte and pg",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I should have been a little more intentional so I could confirm that was it. Anyway I can make another skill later and figure out what goes wonky in",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, I am totally in agreement with you in principle that using llm to generate migration doesn't make sense. But it's going to happen, either in",
+          "channel": "db-mobility",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "In other words, I was expecting the end state of this mission to mean the application knew less about the db's sharding / regionalization / whatever",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "<@W01830TUKT9> <@W018HU01Y5R> As long as these are implemented as tests I think they need to be in selective tests pipeline",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "And yeah basically the TLDR for anyone following along is we can't boot the app in not eagerloading mode and then switch it to eager loading mode and",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I mean.. if we need a hacky fix to just make test team happy we can create a podded run in that test before calling the controller action, then we",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "hartley.mcguire",
+          "count": 12
+        },
+        {
+          "user": "chao.duan",
+          "count": 7
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 7
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 7
+        },
+        {
+          "user": "nikita.vasilevsky",
+          "count": 7
+        },
+        {
+          "user": "matthew.draper",
+          "count": 6
+        },
+        {
+          "user": "adrianna.chang",
+          "count": 5
+        },
+        {
+          "user": "michael.go",
+          "count": 4
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 4
+        },
+        {
+          "user": "ahmed.choudhry",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 402,
+      "top_channels": [
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 164
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 150
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 78
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 73
+        },
+        {
+          "channel": "tmp-ai-migration-safety",
+          "messages": 37
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 35
+        },
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 31
+        },
+        {
+          "channel": "proj-eng-convergence-lifecycle",
+          "messages": 29
+        },
+        {
+          "channel": "proj-eng-fast-core-tests",
+          "messages": 26
+        },
+        {
+          "channel": "help-db-agnostic-core",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 83,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 10
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 9
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 6
+        },
+        {
+          "user": "michael.go",
+          "count": 5
+        },
+        {
+          "user": "matthew.draper",
+          "count": 4
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 3
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 3
+        },
+        {
+          "user": "debora.setton",
+          "count": 3
+        },
+        {
+          "user": "gannon.mcgibbon",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 135,
+      "17": 71,
+      "13": 88,
+      "2": 5,
+      "0": 11,
+      "23": 2,
+      "21": 49,
+      "20": 68,
+      "19": 98,
+      "14": 88,
+      "15": 80,
+      "12": 41,
+      "16": 48,
+      "22": 2,
+      "11": 5,
+      "9": 1,
+      "1": 14
+    },
+    "by_day": {
+      "Wednesday": 177,
+      "Tuesday": 161,
+      "Monday": 108,
+      "Thursday": 183,
+      "Friday": 177
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.06,
+    "dept_average_30d": 5.75,
+    "dept_rank": 115,
+    "dept_size": 357
+  }
+}

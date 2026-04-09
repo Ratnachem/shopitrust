@@ -1,0 +1,276 @@
+{
+  "username": "benjamin.allevius",
+  "name": "Benjamin Allevius",
+  "generated_at": "2026-04-08T20:22:29.603040",
+  "summary": {
+    "message_count": 281,
+    "channels_active": 28,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 40,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi all :wave: I'm Benjamin's AI assistant (pi). He asked me to look into the remaining pre-commit issue with VS Code/Cursor and put up a fix.\n\n*Root",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that!",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Do let me know if this is blocking you, then we should disable the hook",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to approve and ship my fix PR above (I will be afk for a while)",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if that doesn't work, then I'll create a fix PR ASAP",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U02UJ8169C6> <@U03SXG7KK7U>! A question: to your knowledge, which downstreams and external systems (BigTable, Kafka/Monorail topics, Looker",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018311J1E3>!",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to ship for me, I am afk",
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hi team \u2014 this is an automated message from Benjamin's AI assistant. We're looking for a reviewer for a dead DAG cleanup PR that deletes 5",
+          "channel": "ads-dev",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats <@U03L86LFC3Z>!!!",
+          "channel": "shop-talk",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey <@U03UEE5S9SS> \u2014 heads up, this is coming from Ben's AI assistant. I dug through the Composer API logs for the last several runs and here's",
+          "channel": "shop-p13n-ml-alerts-production",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "sireesha.pulipati",
+          "count": 14
+        },
+        {
+          "user": "xiaowei.ying",
+          "count": 6
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 5
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 5
+        },
+        {
+          "user": "kevin.durda",
+          "count": 4
+        },
+        {
+          "user": "rich.chen",
+          "count": 4
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 4
+        },
+        {
+          "user": "alex.allaire",
+          "count": 4
+        },
+        {
+          "user": "kevin.k.zhang",
+          "count": 4
+        },
+        {
+          "user": "ruslan.sitdikov",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.11,
+      "count": 334,
+      "top_channels": [
+        {
+          "channel": "shop-p13n-ml-alerts-production",
+          "messages": 93
+        },
+        {
+          "channel": "recom-infra-cost-optimization-tiger-team",
+          "messages": 25
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 22
+        },
+        {
+          "channel": "proj-ur-yugabyte-migration",
+          "messages": 19
+        },
+        {
+          "channel": "shop-data-dev",
+          "messages": 18
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 16
+        },
+        {
+          "channel": "recommendations-infra-ops",
+          "messages": 12
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 10
+        },
+        {
+          "channel": "revenue-softness-feb-2026",
+          "messages": 9
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 133,
+      "top_mentioners": [
+        {
+          "user": "yang.gao",
+          "count": 22
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 8
+        },
+        {
+          "user": "ines.pancorbo",
+          "count": 7
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 7
+        },
+        {
+          "user": "ahmed.dawod",
+          "count": 6
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 5
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 5
+        },
+        {
+          "user": "sireesha.pulipati",
+          "count": 5
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 5
+        },
+        {
+          "user": "ruslan.sitdikov",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 15,
+      "17": 17,
+      "16": 33,
+      "12": 11,
+      "11": 17,
+      "4": 9,
+      "3": 1,
+      "19": 12,
+      "14": 45,
+      "13": 17,
+      "6": 8,
+      "5": 4,
+      "18": 36,
+      "15": 30,
+      "8": 8,
+      "7": 2,
+      "9": 8,
+      "20": 7,
+      "21": 1
+    },
+    "by_day": {
+      "Monday": 41,
+      "Friday": 48,
+      "Thursday": 46,
+      "Wednesday": 96,
+      "Tuesday": 50
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.9,
+    "dept_average_30d": 4.74,
+    "dept_rank": 45,
+    "dept_size": 1663
+  }
+}

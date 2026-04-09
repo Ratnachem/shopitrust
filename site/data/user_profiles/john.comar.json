@@ -1,0 +1,265 @@
+{
+  "username": "john.comar",
+  "name": "John Comar",
+  "generated_at": "2026-04-08T20:22:17.217572",
+  "summary": {
+    "message_count": 132,
+    "channels_active": 19,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "This was made super easy thanks to the playbook detail and link to the playbook in the notification above! :bow: Thank you <@W018WA9DHBK>",
+          "channel": "dw-infra-monitoring",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "This was made super easy thanks to the playbook detail and link to the playbook in the notification above! :bow: Thank you <@W018WA9DHBK>",
+          "channel": "dw-infra-monitoring",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! And yes please!",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help kick off some runs after the kids are down. I'll find a spot for us to sync this aft",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Got it, thx. Let me know if this is a fair summary -- want to confirm before cross-posting:\n\n&gt; A bug in CI Controller prevented flaky test issues",
+          "channel": "help-vault",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Amazing - thank you!\n\nI sent an invite out - let me know if there's a better spot in your cal",
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing - thank you!\n\nI sent an invite out - let me know if there's a better spot in your cal",
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing - thank you!\n\nI sent an invite out - let me know if there's a better spot in your cal",
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Approved!\n\nAnother major milestone -- thank you SO MUCH for leading this :raised_hands: :rocket_animated:",
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Morning <@U06FNTKFL3D> <@W018HUGBKLK> :wave: - I'm going to catch up on the goalie log + nginx stuff + slack channels. If there's something that you",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "ariane.schang",
+          "count": 8
+        },
+        {
+          "user": "kunal.kohli",
+          "count": 6
+        },
+        {
+          "user": "trish.gillett",
+          "count": 5
+        },
+        {
+          "user": "kennedy.murphy",
+          "count": 5
+        },
+        {
+          "user": "elize.papineau",
+          "count": 4
+        },
+        {
+          "user": "sana.asghar",
+          "count": 4
+        },
+        {
+          "user": "marvin.davila",
+          "count": 4
+        },
+        {
+          "user": "brittany.howard",
+          "count": 3
+        },
+        {
+          "user": "dan.peach",
+          "count": 1
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.67,
+      "count": 220,
+      "top_channels": [
+        {
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "messages": 31
+        },
+        {
+          "channel": "dw-infra-data-goalie",
+          "messages": 26
+        },
+        {
+          "channel": "dw-infra-monitoring",
+          "messages": 20
+        },
+        {
+          "channel": "help-it",
+          "messages": 9
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 7
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 5
+        },
+        {
+          "channel": "inv-21139-high-number-of-flaky-tests",
+          "messages": 4
+        },
+        {
+          "channel": "help-vault",
+          "messages": 4
+        },
+        {
+          "channel": "infrastructure-data",
+          "messages": 4
+        },
+        {
+          "channel": "proj-eng-retire-services-db",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "trish.gillett",
+          "count": 5
+        },
+        {
+          "user": "ariane.schang",
+          "count": 4
+        },
+        {
+          "user": "sana.asghar",
+          "count": 3
+        },
+        {
+          "user": "kennedy.murphy",
+          "count": 3
+        },
+        {
+          "user": "ahmed.omran",
+          "count": 2
+        },
+        {
+          "user": "elize.papineau",
+          "count": 2
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 2
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 2
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 2
+        },
+        {
+          "user": "brittany.howard",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 18,
+      "16": 15,
+      "15": 17,
+      "14": 11,
+      "12": 17,
+      "23": 2,
+      "20": 4,
+      "19": 7,
+      "11": 6,
+      "2": 1,
+      "21": 1,
+      "18": 14,
+      "13": 16,
+      "0": 1,
+      "3": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 40,
+      "Tuesday": 35,
+      "Monday": 19,
+      "Thursday": 19,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.39,
+    "dept_rank": 52,
+    "dept_size": 272
+  }
+}

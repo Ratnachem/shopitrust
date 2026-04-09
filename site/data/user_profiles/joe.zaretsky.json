@@ -1,0 +1,270 @@
+{
+  "username": "joe.zaretsky",
+  "name": "Joe Zaretsky",
+  "generated_at": "2026-04-08T20:22:16.721068",
+  "summary": {
+    "message_count": 217,
+    "channels_active": 13,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.4,
+      "pos_count": 29,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok thanks! yea ill put up a PR for it today and get it reviewed and merged for the next release",
+          "channel": "pos-core-selling-flow-detail-pages",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok gotcha, thank you :pray:",
+          "channel": "pos-release-train",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "what good timing! lol, thanks!",
+          "channel": "pos-release-train",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I also went through a bunch of reviews on Friday. if i missed any, feel free to tag me as a reviewer!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W018DHDV0H4> i updated the PR to include the fix for adding a customer from smart grid as well. LEt me know if you have a chance to review",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! yep ill reping the team in the morning :ty-red:",
+          "channel": "pos-release-train",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey <@W018HTC5HT5> same situation as ^^above. I have a cherry pick <https://github.com/shop/issues-retail/issues/26756|request> for the R&amp;E",
+          "channel": "pos-release-train",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! should we just grab anything unassigned in the release blocker column? and then are these all cherry picks?",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":pray: thanks!",
+          "channel": "evergreen-retail-checkout-maintenance",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "Im an idiot. i was testing the wrong simulator that was running an earlier verion :facepalm: my bad all",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "helen.tsvirinkal",
+          "count": 6
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 4
+        },
+        {
+          "user": "gurk.mandur",
+          "count": 3
+        },
+        {
+          "user": "joanna.kang",
+          "count": 3
+        },
+        {
+          "user": "britta.evansfenton",
+          "count": 2
+        },
+        {
+          "user": "john.pavlick",
+          "count": 2
+        },
+        {
+          "user": "matt.garden",
+          "count": 1
+        },
+        {
+          "user": "animesh.thakre",
+          "count": 1
+        },
+        {
+          "user": "piotr.janus",
+          "count": 1
+        },
+        {
+          "user": "adam.davidson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 161,
+      "top_channels": [
+        {
+          "channel": "pos-core-selling-flow-detail-pages",
+          "messages": 86
+        },
+        {
+          "channel": "proj-pos-returns-in-cart",
+          "messages": 54
+        },
+        {
+          "channel": "proj-extensible-cash-management",
+          "messages": 18
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 17
+        },
+        {
+          "channel": "pos-core-selling-flow-checkout",
+          "messages": 11
+        },
+        {
+          "channel": "evergreen-retail-checkout-maintenance",
+          "messages": 9
+        },
+        {
+          "channel": "help-pos-design-system",
+          "messages": 9
+        },
+        {
+          "channel": "retail-bx-checkout",
+          "messages": 6
+        },
+        {
+          "channel": "help-retail-checkout",
+          "messages": 2
+        },
+        {
+          "channel": "retail-bx-journey",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "helen.tsvirinkal",
+          "count": 13
+        },
+        {
+          "user": "britta.evansfenton",
+          "count": 9
+        },
+        {
+          "user": "drake.gebhart",
+          "count": 6
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 4
+        },
+        {
+          "user": "joanna.kang",
+          "count": 3
+        },
+        {
+          "user": "peter.limawal",
+          "count": 1
+        },
+        {
+          "user": "kostia.arlouski",
+          "count": 1
+        },
+        {
+          "user": "gurk.mandur",
+          "count": 1
+        },
+        {
+          "user": "animesh.thakre",
+          "count": 1
+        },
+        {
+          "user": "marco.yip",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 19,
+      "16": 16,
+      "15": 24,
+      "21": 21,
+      "19": 34,
+      "18": 21,
+      "12": 7,
+      "14": 22,
+      "13": 25,
+      "20": 24,
+      "23": 1,
+      "22": 2,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 40,
+      "Monday": 43,
+      "Friday": 29,
+      "Thursday": 54
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.57,
+    "dept_average_30d": 5.77,
+    "dept_rank": 505,
+    "dept_size": 885
+  }
+}

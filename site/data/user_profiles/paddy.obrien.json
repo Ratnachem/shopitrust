@@ -1,0 +1,220 @@
+{
+  "username": "paddy.obrien",
+  "name": "Paddy Obrien",
+  "generated_at": "2026-04-08T20:22:21.561229",
+  "summary": {
+    "message_count": 346,
+    "channels_active": 18,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 16,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "As for old vs new worktrees. thats a bit unclear.\nnix will install the version specified by the derivation and the `installPhase` creates a command",
+          "channel": "retail-foundations-developer-tooling-team",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "16.4 worked and there was no 16.3 for whatever reason",
+          "channel": "retail-dev",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can you run `open $(xcrun simctl get_app_container booted com.jadedpixel.pos.internal data)` and send whatever you find in `Documents/logs`",
+          "channel": "retail-dev",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.25,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "paul.aigueperse",
+          "count": 2
+        },
+        {
+          "user": "rashad.sharaf",
+          "count": 1
+        },
+        {
+          "user": "aaron.schubert",
+          "count": 1
+        },
+        {
+          "user": "colin.gray",
+          "count": 1
+        },
+        {
+          "user": "peter.rong",
+          "count": 1
+        },
+        {
+          "user": "tyler.carr",
+          "count": 1
+        },
+        {
+          "user": "jon.ringer",
+          "count": 1
+        },
+        {
+          "user": "michael.go",
+          "count": 1
+        },
+        {
+          "user": "jeansebastien.goupil",
+          "count": 1
+        },
+        {
+          "user": "robin.senior",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.76,
+      "count": 316,
+      "top_channels": [
+        {
+          "channel": "retail-foundations-developer-tooling-team",
+          "messages": 160
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 65
+        },
+        {
+          "channel": "dev-up",
+          "messages": 33
+        },
+        {
+          "channel": "help-observability",
+          "messages": 22
+        },
+        {
+          "channel": "proj-retail-yugabyte-migration",
+          "messages": 15
+        },
+        {
+          "channel": "proj-pos-app-shared-observability-pos",
+          "messages": 8
+        },
+        {
+          "channel": "retail-river",
+          "messages": 6
+        },
+        {
+          "channel": "pos-app-e2e",
+          "messages": 6
+        },
+        {
+          "channel": "proj-stable-device-ids-for-pos-device-management",
+          "messages": 5
+        },
+        {
+          "channel": "help-eng-interviews",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.31,
+      "count": 35,
+      "top_mentioners": [
+        {
+          "user": "jeanbaptiste.morin",
+          "count": 5
+        },
+        {
+          "user": "si.le",
+          "count": 4
+        },
+        {
+          "user": "tyler.carr",
+          "count": 4
+        },
+        {
+          "user": "reda.elmekabaty",
+          "count": 3
+        },
+        {
+          "user": "tom.spencer",
+          "count": 3
+        },
+        {
+          "user": "scott.jackson",
+          "count": 3
+        },
+        {
+          "user": "peter.rong",
+          "count": 2
+        },
+        {
+          "user": "paul.aigueperse",
+          "count": 2
+        },
+        {
+          "user": "michael.go",
+          "count": 2
+        },
+        {
+          "user": "prakash.raman",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 40,
+      "3": 2,
+      "2": 4,
+      "18": 29,
+      "16": 31,
+      "14": 53,
+      "13": 62,
+      "21": 9,
+      "20": 40,
+      "19": 40,
+      "17": 35,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 74,
+      "Tuesday": 120,
+      "Monday": 75,
+      "Thursday": 27,
+      "Friday": 50
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.68,
+    "dept_average_30d": 4.74,
+    "dept_rank": 282,
+    "dept_size": 1663
+  }
+}

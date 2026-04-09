@@ -1,0 +1,131 @@
+{
+  "username": "hannah.lewis",
+  "name": "Hannah Lewis",
+  "generated_at": "2026-04-08T20:22:27.737422",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W018B003E6A> thank you! I just sent it in for approval",
+          "channel": "help-capital-engineering",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!!",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ahh ok thank you! i'm guessing they can see this in their admin?",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "nehal.azzab",
+          "count": 1
+        },
+        {
+          "user": "brittany.gibson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.4,
+      "count": 37,
+      "top_channels": [
+        {
+          "channel": "help-capital-engineering",
+          "messages": 7
+        },
+        {
+          "channel": "help-lending-engineering",
+          "messages": 7
+        },
+        {
+          "channel": "help-payroll",
+          "messages": 1
+        },
+        {
+          "channel": "help-copilot",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "nehal.azzab",
+          "count": 2
+        },
+        {
+          "user": "brittany.gibson",
+          "count": 1
+        },
+        {
+          "user": "cameron.teasdale",
+          "count": 1
+        },
+        {
+          "user": "adam.derewecki",
+          "count": 1
+        },
+        {
+          "user": "arian.taherzadeh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 5,
+      "0": 1,
+      "16": 2,
+      "15": 3,
+      "17": 2,
+      "1": 1,
+      "22": 2
+    },
+    "by_day": {
+      "Tuesday": 7,
+      "Wednesday": 5,
+      "Monday": 1,
+      "Friday": 2,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.7,
+    "dept_average_30d": 4.32,
+    "dept_rank": 694,
+    "dept_size": 848
+  }
+}

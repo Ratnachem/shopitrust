@@ -1,0 +1,111 @@
+{
+  "username": "ciara.mann",
+  "name": "Ciara Mann",
+  "generated_at": "2026-04-08T20:22:32.093083",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U08MY80M72Q> I was just looking through some of my work and I realized I have 9 tables (created between Jan and Feb 2026) that are in",
+          "channel": "tmp-fpa-migrate-tables",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "leigh.sindlinger",
+          "count": 1
+        },
+        {
+          "user": "shanelle.mullin",
+          "count": 1
+        },
+        {
+          "user": "andrew.robinson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.8,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "tmp-fpa-migrate-tables",
+          "messages": 2
+        },
+        {
+          "channel": "proj-data-sunset-sdp-analysts",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "andrew.robinson",
+          "count": 2
+        },
+        {
+          "user": "shanelle.mullin",
+          "count": 2
+        },
+        {
+          "user": "benjamin.lewis",
+          "count": 1
+        },
+        {
+          "user": "lucas.vuong",
+          "count": 1
+        },
+        {
+          "user": "leigh.sindlinger",
+          "count": 1
+        },
+        {
+          "user": "brittany.makort",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "19": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Friday": 1,
+      "Wednesday": 1,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 4.29,
+    "dept_average_30d": 4.35,
+    "dept_rank": 71,
+    "dept_size": 151
+  }
+}

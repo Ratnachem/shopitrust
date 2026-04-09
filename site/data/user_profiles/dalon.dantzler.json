@@ -1,0 +1,111 @@
+{
+  "username": "dalon.dantzler",
+  "name": "Dalon Dantzler",
+  "generated_at": "2026-04-08T20:22:29.040984",
+  "summary": {
+    "message_count": 30,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'll chip away at these when I can, otherwise anyone feel free to grab ones to tune. I think it'd be good to have more of the Falco detections in",
+          "channel": "infrasec-observability",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Idk I think it's a small enough gap, but open to other ways of filtering. Decode in the inciting command is definitely possible but I think if I'm",
+          "channel": "infrasec-observability",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "alejandro.yepez",
+          "count": 4
+        },
+        {
+          "user": "owen.cummings",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.19,
+      "count": 5,
+      "top_channels": [
+        {
+          "channel": "infrasec-observability",
+          "messages": 18
+        },
+        {
+          "channel": "proj-security-infrasec-alert-automation",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.88,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "owen.cummings",
+          "count": 6
+        },
+        {
+          "user": "alejandro.yepez",
+          "count": 2
+        },
+        {
+          "user": "vasu.kumar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 2,
+      "19": 4,
+      "20": 6,
+      "22": 1,
+      "16": 7,
+      "15": 2,
+      "14": 3,
+      "17": 4,
+      "18": 1
+    },
+    "by_day": {
+      "Monday": 10,
+      "Thursday": 8,
+      "Wednesday": 7,
+      "Tuesday": 1,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 3.82,
+    "dept_average_30d": 4.89,
+    "dept_rank": 193,
+    "dept_size": 237
+  }
+}

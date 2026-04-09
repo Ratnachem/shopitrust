@@ -1,0 +1,274 @@
+{
+  "username": "brenda.segal",
+  "name": "Brenda Segal",
+  "generated_at": "2026-04-08T20:22:06.091989",
+  "summary": {
+    "message_count": 456,
+    "channels_active": 33,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 42,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.9,
+      "pos_count": 51,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you.  I can double-check this thoroughly on Tuesday!",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":doggowave: <@U09SE1JJYFL> When you have a chance, we need Product input on the path forward for",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "this is good to know, thank you!",
+          "channel": "liquid-perf",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":doggowave: I created some issues out of the <https://docs.google.com/document/d/1MHyTVDZco61DFN0phkedOc3BhNpzD63EO3e-Vbhez84/edit?tab=t.0|Storefront",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U09G876SU7J> do you want me to get details comparing ES traffic between March 22-28 and March 15-21?",
+          "channel": "google-cloud-finances",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "cc <@U08HDANMNHJ> do we expect the load balancer latency to have increased over the last 30 days?\n\nJohn feel free to update the alert for now since",
+          "channel": "search-serving-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Approved, thanks!",
+          "channel": "inc-20685-semian-increased-number-of-storefront-sea",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "hey <@W018GARAKK7> sorry about that.  So I think it's related to <https://github.com/Shopify/discovery/issues/29345|this issue>.  We have code merged",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":doggowave: I wanted to share",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much! :heart: :high-five-mario:",
+          "channel": "inc-20556-semian-increased-number-of-storefront-sea",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "So this is for a collections page, as soon as you sort in a different direction, it's displaying filters.\n\nAlso, funny enough, I see requests",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "xiaofeng.xu",
+          "count": 12
+        },
+        {
+          "user": "rahim.daya",
+          "count": 11
+        },
+        {
+          "user": "caroline",
+          "count": 9
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 7
+        },
+        {
+          "user": "michael.pauls",
+          "count": 6
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 6
+        },
+        {
+          "user": "rucha.dalsania",
+          "count": 6
+        },
+        {
+          "user": "michael.herold",
+          "count": 5
+        },
+        {
+          "user": "taylor.peoples",
+          "count": 4
+        },
+        {
+          "user": "shotaro.kamio",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.69,
+      "count": 274,
+      "top_channels": [
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 124
+        },
+        {
+          "channel": "tmp-search-serving-resilience",
+          "messages": 50
+        },
+        {
+          "channel": "help-search-serving",
+          "messages": 45
+        },
+        {
+          "channel": "inc-20040-semian-circuits-overloaded-in-sfr",
+          "messages": 36
+        },
+        {
+          "channel": "inc-20556-semian-increased-number-of-storefront-sea",
+          "messages": 35
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20028-increase-in-storefront-search-errors-in-g",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20685-semian-increased-number-of-storefront-sea",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20285-elevated-elasticsearch-error-rate-in-us-c",
+          "messages": 15
+        },
+        {
+          "channel": "river-search-serving",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 122,
+      "top_mentioners": [
+        {
+          "user": "caroline",
+          "count": 12
+        },
+        {
+          "user": "rahim.daya",
+          "count": 12
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 9
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 8
+        },
+        {
+          "user": "alex.watt",
+          "count": 7
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 6
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 6
+        },
+        {
+          "user": "matt.breffitt",
+          "count": 4
+        },
+        {
+          "user": "rucha.dalsania",
+          "count": 4
+        },
+        {
+          "user": "kenny.kwan",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 43,
+      "17": 26,
+      "16": 37,
+      "15": 38,
+      "14": 40,
+      "20": 47,
+      "2": 1,
+      "1": 1,
+      "19": 65,
+      "13": 50,
+      "21": 18,
+      "6": 19,
+      "22": 11,
+      "7": 38,
+      "12": 5,
+      "9": 1,
+      "8": 16
+    },
+    "by_day": {
+      "Wednesday": 91,
+      "Tuesday": 122,
+      "Friday": 64,
+      "Thursday": 138,
+      "Monday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.37,
+    "dept_average_30d": 5.79,
+    "dept_rank": 231,
+    "dept_size": 1233
+  }
+}

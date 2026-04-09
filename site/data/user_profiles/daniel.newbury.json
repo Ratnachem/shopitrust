@@ -1,0 +1,272 @@
+{
+  "username": "daniel.newbury",
+  "name": "Daniel Newbury",
+  "generated_at": "2026-04-08T20:22:17.441610",
+  "summary": {
+    "message_count": 428,
+    "channels_active": 21,
+    "unique_people_mentioned": 47,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 11,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "We got these provisioned thank you :gh-green:",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Add some time with us three in the meeting at 1 eastern. Let me know if you'd like to reschedule.",
+          "channel": "help-melody",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Okay great, so we're working from the same set of instructions. Ignore the token field on that page and copy and run the command for the relevant",
+          "channel": "help-melody",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the context, published. Please be sure to cleanup or update the segment when the homecard expires.",
+          "channel": "help-melody",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, should have shared the <https://observe.shopify.io/goto/cfh39c9afqh34a?orgId=1|link>",
+          "channel": "help-melody",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "All good thanks!",
+          "channel": "proj-melody-shop-app-user-uuid-migration",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; Is anything consuming events from either of these two segments like a Mozart campaign with reentry allowed. I'd like to run a core maintenance",
+          "channel": "help-melody",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Onto the final 25% of the updates! When you see in",
+          "channel": "help-melody",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-eng-interviews",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to add any stakeholder. I figured it would be good to have a public space to talk this through or pull in anyone we need an assist from.",
+          "channel": "proj-melody-shop-app-user-uuid-migration",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "It's something that's been on my todo list for sure. I would avoid pushing the full drop of members even though idempotent just cause that would be",
+          "channel": "melody-team",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 51,
+      "top_mentioned": [
+        {
+          "user": "hussein.patni",
+          "count": 13
+        },
+        {
+          "user": "jake.anderson",
+          "count": 11
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 7
+        },
+        {
+          "user": "chand.bud",
+          "count": 5
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 5
+        },
+        {
+          "user": "eugene.katella",
+          "count": 5
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 4
+        },
+        {
+          "user": "maurizio.cucchiara",
+          "count": 4
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 3
+        },
+        {
+          "user": "caue.guerra",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.44,
+      "count": 261,
+      "top_channels": [
+        {
+          "channel": "help-melody",
+          "messages": 128
+        },
+        {
+          "channel": "melody-team",
+          "messages": 121
+        },
+        {
+          "channel": "proj-migrate-melody-flink",
+          "messages": 38
+        },
+        {
+          "channel": "melody-cdp-ops",
+          "messages": 35
+        },
+        {
+          "channel": "proj-melody-service-monorepo",
+          "messages": 24
+        },
+        {
+          "channel": "inc-20105-melody-segment-flag-producing-wrong-membe",
+          "messages": 20
+        },
+        {
+          "channel": "proj-melody-shop-app-user-uuid-migration",
+          "messages": 9
+        },
+        {
+          "channel": "inc-19967-melody-hedwig-out-of-memory",
+          "messages": 8
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20924-melody-dag-failing-due-to-missing-bigtabl",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "hussein.patni",
+          "count": 19
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 10
+        },
+        {
+          "user": "jake.anderson",
+          "count": 8
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 7
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 6
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 6
+        },
+        {
+          "user": "charlie.king",
+          "count": 5
+        },
+        {
+          "user": "eugene.katella",
+          "count": 3
+        },
+        {
+          "user": "catherine.emond",
+          "count": 3
+        },
+        {
+          "user": "maiha.nguyen",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 52,
+      "16": 50,
+      "15": 37,
+      "14": 51,
+      "21": 40,
+      "19": 41,
+      "18": 45,
+      "13": 13,
+      "1": 1,
+      "23": 20,
+      "22": 35,
+      "20": 33,
+      "2": 1,
+      "12": 2,
+      "0": 7
+    },
+    "by_day": {
+      "Wednesday": 66,
+      "Tuesday": 106,
+      "Monday": 75,
+      "Friday": 70,
+      "Thursday": 111
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.68,
+    "dept_average_30d": 5.58,
+    "dept_rank": 31,
+    "dept_size": 398
+  }
+}

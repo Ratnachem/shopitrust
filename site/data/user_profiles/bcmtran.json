@@ -1,0 +1,178 @@
+{
+  "username": "bcmtran",
+  "name": "Bcmtran",
+  "generated_at": "2026-04-08T20:22:25.988407",
+  "summary": {
+    "message_count": 31,
+    "channels_active": 1,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 5,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi Marc-Antoine,\n\nI dug into the docs on how Bedrock counts tokens against the TPM quota for Claude Opus 4.6 V1. Here's what I found:\n\n*Final TPM",
+          "channel": "aws-external",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@U03J2KN01QE>. Would it be possible for you to share the metric details of the 1P and Bedrock Opus 4.6 models from your routing gateway?",
+          "channel": "aws-external",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U042R0TT16W> and <@U03J2KN01QE>, we've noticed a surge in Bedrock Opus 4.6 usage over the last four days. Please let us know if you need",
+          "channel": "aws-external",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Team!",
+          "channel": "aws-external",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hello <@U03J2KN01QE> and <@U043UDV911D>\n\nI'm pleased to share some exciting news with you about the AWS Security Incident Response service.\n\nAWS",
+          "channel": "aws-external",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Hello <@U03J2KN01QE> and <@U043UDV911D>\n\nI'm pleased to share some exciting news with you about the AWS Security Incident Response service.\n\nAWS",
+          "channel": "aws-external",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.75,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "dielli.hoxha",
+          "count": 9
+        },
+        {
+          "user": "chase.platon",
+          "count": 5
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 5
+        },
+        {
+          "user": "tom.rochette",
+          "count": 4
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 4
+        },
+        {
+          "user": "zac.roberts",
+          "count": 3
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 2
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 2
+        },
+        {
+          "user": "ming.zhu",
+          "count": 1
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.59,
+      "count": 15,
+      "top_channels": [
+        {
+          "channel": "aws-external",
+          "messages": 31
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.92,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 7
+        },
+        {
+          "user": "reenkat",
+          "count": 4
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 4
+        },
+        {
+          "user": "tom.rochette",
+          "count": 2
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 1,
+      "17": 1,
+      "14": 3,
+      "13": 3,
+      "15": 3,
+      "23": 2,
+      "22": 6,
+      "21": 3,
+      "12": 1,
+      "0": 1,
+      "18": 1,
+      "16": 1,
+      "20": 4,
+      "19": 1
+    },
+    "by_day": {
+      "Wednesday": 13,
+      "Monday": 8,
+      "Thursday": 8,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.52,
+    "dept_average_30d": 4.74,
+    "dept_rank": 812,
+    "dept_size": 1663
+  }
+}

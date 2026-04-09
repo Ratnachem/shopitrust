@@ -1,0 +1,222 @@
+{
+  "username": "alice.lam",
+  "name": "Alice Lam",
+  "generated_at": "2026-04-08T20:22:17.243905",
+  "summary": {
+    "message_count": 133,
+    "channels_active": 12,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> can you help me find and list out where in checkout and thank you page uses the Link component? ",
+          "channel": "checkout-accounts-ux-river",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That\u2019s correct, thank you. ",
+          "channel": "checkout-data",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0182UT8M1V>, do you know what happens to apps that uses the `kind=\"plain\"` and update to 2025-10? Are you saying that currently when",
+          "channel": "checkout-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U03QFPA58C9>, thank you for your help. Here are the strings - let me know if it makes sense. I asked River for help on this",
+          "channel": "checkout-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@U03QFPA58C9>, thank you for your help. Here are the strings - let me know if it makes sense. I asked River for help on this",
+          "channel": "checkout-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Greg, but mentions date past 2025-07 which the `kind=plain`no longer is available. How come there are still numbers that supports it? ",
+          "channel": "help-checkout-accounts-customizations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It worked! thank you :slightly_smiling_face:",
+          "channel": "claude-code",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> does the secondary button take the colour from an accent colour or whatever primary button is set to?",
+          "channel": "alice-chats-with-river",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "jeanfrederic.fortier",
+          "count": 3
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 2
+        },
+        {
+          "user": "dust.tevis",
+          "count": 1
+        },
+        {
+          "user": "patrick.banta",
+          "count": 1
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        },
+        {
+          "user": "nick.lenko",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.98,
+      "count": 105,
+      "top_channels": [
+        {
+          "channel": "alice-chats-with-river",
+          "messages": 91
+        },
+        {
+          "channel": "checkout-accounts-ux-river",
+          "messages": 12
+        },
+        {
+          "channel": "checkout-data",
+          "messages": 7
+        },
+        {
+          "channel": "help-checkout-accounts-customizations",
+          "messages": 5
+        },
+        {
+          "channel": "claude-code",
+          "messages": 3
+        },
+        {
+          "channel": "lianne-sit-river",
+          "messages": 3
+        },
+        {
+          "channel": "checkout-accounts-design-system",
+          "messages": 2
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 2
+        },
+        {
+          "channel": "help-pos-design-system",
+          "messages": 2
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "gladys.ng",
+          "count": 2
+        },
+        {
+          "user": "stephanie.ordaz",
+          "count": 1
+        },
+        {
+          "user": "nick.lenko",
+          "count": 1
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        },
+        {
+          "user": "jeanfrederic.fortier",
+          "count": 1
+        },
+        {
+          "user": "deanna.horton",
+          "count": 1
+        },
+        {
+          "user": "lianne.sit",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 15,
+      "16": 4,
+      "14": 38,
+      "13": 17,
+      "12": 2,
+      "11": 1,
+      "1": 2,
+      "19": 11,
+      "18": 18,
+      "2": 4,
+      "21": 2,
+      "20": 8,
+      "15": 10,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 37,
+      "Tuesday": 20,
+      "Monday": 31,
+      "Thursday": 7,
+      "Friday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.58,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1117,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "username": "mariya.mansurova",
+  "name": "Mariya Mansurova",
+  "generated_at": "2026-04-08T20:22:20.436867",
+  "summary": {
+    "message_count": 162,
+    "channels_active": 16,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 22,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02K4RKPHJ4> for looking into it :slightly_smiling_face:",
+          "channel": "the-shopify-catalog-operations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Aaah, got it. Thank you. I like this approach. It's easy to calculate and understand.",
+          "channel": "proj-catalogue-clustering",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Emma! <@U099P8LLY49> <@U08QLJ2SK5H> maybe we can filter out by `index_eligibility.is_published_to_d2c_channel` (whether product is",
+          "channel": "proj-catalogue-clustering",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :thank--you:",
+          "channel": "proj-catalogue-clustering",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0AF82GV1QA> I missed that I need to do anything beyond getting permission, but I see the same error as you. Thank you for sharing",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U087SUVBGMQ> thank you, that's a good point :thank-you:\n\nI\u2019ve added two new levers:\n\u2022 Whether we compute embedding distances between all results or",
+          "channel": "tmp-catalog-api-similar-products",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018WBSGSPK> :thank:",
+          "channel": "the-shopify-catalog-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018WBSGSPK> thank you for researching it. We always find something new with releases. :see_no_evil:\n<@U08ASNFCJJK> Do you think we should add",
+          "channel": "the-shopify-catalog-operations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08ASNFCJJK> thank you for looking into it :approved_1:",
+          "channel": "the-shopify-catalog-operations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U053ENTDC64> As far as I know, we don't have a canonical Tangle implementation, but here what we have:\n\u2022 Airflow DAG -",
+          "channel": "proj-catalogue-pdp-error-rate",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey <@U0A6SNJ39CJ> Thanks for your questions, let me try to explain.\n\n&gt;  &gt; Duplicate rate for images is 33.3%.\n&gt; What do you mean by this?",
+          "channel": "tmp-catalog-api-similar-products",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "cheng.yuan",
+          "count": 9
+        },
+        {
+          "user": "maxence.haltel",
+          "count": 8
+        },
+        {
+          "user": "samantha.john",
+          "count": 7
+        },
+        {
+          "user": "jeff.doker",
+          "count": 6
+        },
+        {
+          "user": "irina.pchelintceva",
+          "count": 6
+        },
+        {
+          "user": "ben.chen",
+          "count": 5
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 5
+        },
+        {
+          "user": "emma.mannan",
+          "count": 5
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 5
+        },
+        {
+          "user": "zhenqing.li",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.29,
+      "count": 200,
+      "top_channels": [
+        {
+          "channel": "the-shopify-catalog-operations",
+          "messages": 40
+        },
+        {
+          "channel": "proj-universal-products",
+          "messages": 33
+        },
+        {
+          "channel": "tmp-catalog-api-similar-products",
+          "messages": 20
+        },
+        {
+          "channel": "proj-catalogue-pdp-error-rate",
+          "messages": 18
+        },
+        {
+          "channel": "proj-catalogue-clustering",
+          "messages": 14
+        },
+        {
+          "channel": "temp-catalog-index-expansion",
+          "messages": 12
+        },
+        {
+          "channel": "the-shopify-catalog",
+          "messages": 5
+        },
+        {
+          "channel": "catalog-api-team",
+          "messages": 4
+        },
+        {
+          "channel": "catalog-metrics-vteam",
+          "messages": 4
+        },
+        {
+          "channel": "proj-catalogs-contextual-discoverability",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 123,
+      "top_mentioners": [
+        {
+          "user": "cheng.yuan",
+          "count": 14
+        },
+        {
+          "user": "ben.chen",
+          "count": 12
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 9
+        },
+        {
+          "user": "rani.qumsiyeh",
+          "count": 9
+        },
+        {
+          "user": "andrei.danilchenko",
+          "count": 8
+        },
+        {
+          "user": "maxence.haltel",
+          "count": 7
+        },
+        {
+          "user": "aibo.li",
+          "count": 6
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 6
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 6
+        },
+        {
+          "user": "peng.yu",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 19,
+      "18": 17,
+      "19": 10,
+      "7": 2,
+      "21": 1,
+      "15": 33,
+      "14": 14,
+      "13": 12,
+      "20": 4,
+      "17": 13,
+      "1": 1,
+      "12": 12,
+      "9": 5,
+      "10": 11,
+      "11": 7,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 33,
+      "Monday": 26,
+      "Friday": 37,
+      "Thursday": 28,
+      "Tuesday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.73,
+    "dept_average_30d": 5.77,
+    "dept_rank": 439,
+    "dept_size": 885
+  }
+}

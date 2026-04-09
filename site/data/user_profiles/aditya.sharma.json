@@ -1,0 +1,226 @@
+{
+  "username": "aditya.sharma",
+  "name": "Aditya Sharma",
+  "generated_at": "2026-04-08T20:22:28.086999",
+  "summary": {
+    "message_count": 290,
+    "channels_active": 21,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi,\n\nWe have requested a quota increase in `europe-west1` for N4s to be able to failover from `europe-west4`:\n\n```Compute Engine API\nThank you for",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Compute Engine API\nThank you for submitting Case # (ID:ba92a7f4-8344-4a7b-92bb-61cd6b625822) to Google Cloud Platform support for the following",
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help in an hour, should be straightforward ",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so its whatever is going on within the pod",
+          "channel": "inc-20276-google-cloud-packet-lost-in-us-central1a",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "maxime.ginters",
+          "count": 3
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 2
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 1
+        },
+        {
+          "user": "justin.reid",
+          "count": 1
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 1
+        },
+        {
+          "user": "matt.wong",
+          "count": 1
+        },
+        {
+          "user": "mattie.toia",
+          "count": 1
+        },
+        {
+          "user": "drew.suitor",
+          "count": 1
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 1
+        },
+        {
+          "user": "darren.foo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.1,
+      "count": 243,
+      "top_channels": [
+        {
+          "channel": "team-cloud-systems",
+          "messages": 97
+        },
+        {
+          "channel": "proj-infra-mcs-xds-routing",
+          "messages": 45
+        },
+        {
+          "channel": "inc-20274-spi-drop-in-agreement-creation",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20704-the-deployment-failed-because-a-job-with-",
+          "messages": 17
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 13
+        },
+        {
+          "channel": "proj-application-edge-resiliency",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20276-google-cloud-packet-lost-in-us-central1a",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20276-orchestrator-cant-see-some-hosts-but-thos",
+          "messages": 10
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 9
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.5,
+      "count": 48,
+      "top_mentioners": [
+        {
+          "user": "maxime.ginters",
+          "count": 13
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 10
+        },
+        {
+          "user": "phil.boyd",
+          "count": 5
+        },
+        {
+          "user": "charlieallan",
+          "count": 3
+        },
+        {
+          "user": "logan.best",
+          "count": 2
+        },
+        {
+          "user": "edmond.cotterell",
+          "count": 2
+        },
+        {
+          "user": "tadas.scerbinskas",
+          "count": 1
+        },
+        {
+          "user": "justin.reid",
+          "count": 1
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 1
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 19,
+      "12": 16,
+      "19": 6,
+      "14": 40,
+      "13": 19,
+      "11": 4,
+      "10": 2,
+      "17": 20,
+      "15": 56,
+      "18": 32,
+      "21": 16,
+      "20": 5,
+      "22": 33,
+      "2": 2,
+      "1": 5,
+      "0": 4,
+      "23": 10,
+      "9": 1
+    },
+    "by_day": {
+      "Tuesday": 85,
+      "Friday": 10,
+      "Thursday": 56,
+      "Wednesday": 93,
+      "Monday": 46
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.17,
+    "dept_average_30d": 5.75,
+    "dept_rank": 100,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "username": "joe.chop",
+  "name": "Joe Chop",
+  "generated_at": "2026-04-08T20:22:18.682740",
+  "summary": {
+    "message_count": 406,
+    "channels_active": 46,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 39,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W018WBELF0R> Our infrastructure was running hot on the 3/25 sale, so thank you for sharing,  We will evaluate and see if we need to increase for",
+          "channel": "high-touch-flash-sales",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you want to pair",
+          "channel": "inv-20653-esn-flashsale-checkout-errors",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "It would be neat to reduce friction on the actions by providing one-clicks to run...Let me know if that doesnt make sense",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "That request is missing is_load_shed or whatever the field is when its actually shed",
+          "channel": "inv-21235-elevated-503s-on-sfr-low-priority",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So we scale up core at 17:00 <for whatever reason>.  So more client connections to proxysql - but errors dont start to 1715",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "fernando.aguasvivas",
+          "count": 3
+        },
+        {
+          "user": "komail.kanjee",
+          "count": 2
+        },
+        {
+          "user": "ghulam.lashari",
+          "count": 1
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 1
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 1
+        },
+        {
+          "user": "celso.marciano",
+          "count": 1
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 1
+        },
+        {
+          "user": "iyaz.shaikh",
+          "count": 1
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 1
+        },
+        {
+          "user": "jehna.duncan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.62,
+      "count": 323,
+      "top_channels": [
+        {
+          "channel": "morpheus-dev",
+          "messages": 44
+        },
+        {
+          "channel": "inc-21077-high-and-sustained-core-p95-response-time",
+          "messages": 38
+        },
+        {
+          "channel": "topps-operations",
+          "messages": 37
+        },
+        {
+          "channel": "river-of-joe",
+          "messages": 35
+        },
+        {
+          "channel": "resiliency-enterprise-sre-team",
+          "messages": 29
+        },
+        {
+          "channel": "inv-20594-investigating-failing-vip-synthetics",
+          "messages": 23
+        },
+        {
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "messages": 22
+        },
+        {
+          "channel": "resiliency-enterprise-alerts",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20733-shopify-core-errors-by-cluster",
+          "messages": 15
+        },
+        {
+          "channel": "gymshark-operations",
+          "messages": 14
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "ayo.akinkugbe",
+          "count": 6
+        },
+        {
+          "user": "mattie.toia",
+          "count": 6
+        },
+        {
+          "user": "magi.agrama",
+          "count": 5
+        },
+        {
+          "user": "komail.kanjee",
+          "count": 4
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 4
+        },
+        {
+          "user": "gill.haslett",
+          "count": 4
+        },
+        {
+          "user": "jp.caissy",
+          "count": 4
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 3
+        },
+        {
+          "user": "adrien.briel",
+          "count": 3
+        },
+        {
+          "user": "adam.traver",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 59,
+      "16": 34,
+      "23": 17,
+      "22": 57,
+      "21": 43,
+      "20": 20,
+      "18": 64,
+      "0": 14,
+      "15": 3,
+      "1": 7,
+      "19": 28,
+      "8": 1,
+      "7": 1,
+      "5": 15,
+      "2": 10,
+      "4": 4,
+      "3": 1,
+      "14": 7,
+      "13": 4,
+      "6": 11,
+      "12": 6
+    },
+    "by_day": {
+      "Wednesday": 83,
+      "Tuesday": 87,
+      "Monday": 21,
+      "Friday": 55,
+      "Thursday": 160
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.69,
+    "dept_average_30d": 5.75,
+    "dept_rank": 171,
+    "dept_size": 357
+  }
+}

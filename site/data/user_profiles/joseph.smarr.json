@@ -1,0 +1,267 @@
+{
+  "username": "joseph.smarr",
+  "name": "Joseph Smarr",
+  "generated_at": "2026-04-08T20:22:16.078988",
+  "summary": {
+    "message_count": 243,
+    "channels_active": 17,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.8,
+      "pos_count": 3,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Ok I've got what I think is a decent first cut at some foundational code for the listing schema prototype:",
+          "channel": "channel-platform-e2e-prototype",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<!here> please take a moment to scrub the bug list so we can focus on the remaining work to do in our standup, thanks!\n\nFor instance, now that",
+          "channel": "proj-channel-entitlement",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> the codebase for our \"Test sales channel\" app (that lets us \"eat our own dogfood\" building a sales channel app the way 3Ps will need",
+          "channel": "channels-sync-connector-prototype",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "We either need to find someone who still knows and cares how it's implemented or else just start changing / breaking it and see who complains. Not",
+          "channel": "proj-channel-entitlement",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I also expect our instance to be quite write-heavy since it's persisting incoming webhooks for product changes across potentially a large number of",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Ooh, innovative! But I don't care for the way most folks run JS server-side, can we do anything more clever/custom there? :thinking_face:",
+          "channel": "proj-walmart-connect",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U06J6F1FLEB> I understand the need to try and minimize repeated merge batch failures by \"kicking out\" sources of failure, but (a) isn't that why",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "To close the loop:\n\u2022 Remove all traces of channel spec from admin API (those were internal-only anyway)\n\u2022 We _do_ still want to have default values",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hmm this seems bad on two levels (our `channel_config` extensions started mysteriously disappearing during recent app deploys):\n1. The app platform",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "today you just pass the source name which is tied to your (google-form-submitted) channel definitions or else just gets attributed to your default",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "tejas.mehta",
+          "count": 10
+        },
+        {
+          "user": "hongming.wang",
+          "count": 7
+        },
+        {
+          "user": "martin.wallace",
+          "count": 4
+        },
+        {
+          "user": "catherine.fu",
+          "count": 4
+        },
+        {
+          "user": "kristian.ott",
+          "count": 4
+        },
+        {
+          "user": "luke.amery",
+          "count": 4
+        },
+        {
+          "user": "maurizio.cucchiara",
+          "count": 3
+        },
+        {
+          "user": "johnnie.chen",
+          "count": 2
+        },
+        {
+          "user": "chris.muratis",
+          "count": 1
+        },
+        {
+          "user": "alex.grant",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.12,
+      "count": 191,
+      "top_channels": [
+        {
+          "channel": "proj-multi-channel",
+          "messages": 117
+        },
+        {
+          "channel": "proj-channel-entitlement",
+          "messages": 31
+        },
+        {
+          "channel": "channel-platform-e2e-prototype",
+          "messages": 25
+        },
+        {
+          "channel": "channels-sync-connector-prototype",
+          "messages": 13
+        },
+        {
+          "channel": "inc-19750-discount-code-api-failures",
+          "messages": 12
+        },
+        {
+          "channel": "channels-rnd",
+          "messages": 11
+        },
+        {
+          "channel": "proj-walmart-connect",
+          "messages": 7
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 5
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 5
+        },
+        {
+          "channel": "proj-channels-order-attribution",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 84,
+      "top_mentioners": [
+        {
+          "user": "tejas.mehta",
+          "count": 16
+        },
+        {
+          "user": "jace.mu",
+          "count": 8
+        },
+        {
+          "user": "catherine.fu",
+          "count": 7
+        },
+        {
+          "user": "lisa.vanderschuit",
+          "count": 7
+        },
+        {
+          "user": "martin.wallace",
+          "count": 5
+        },
+        {
+          "user": "daniel.leroux",
+          "count": 4
+        },
+        {
+          "user": "kristian.ott",
+          "count": 4
+        },
+        {
+          "user": "johnnie.chen",
+          "count": 3
+        },
+        {
+          "user": "maxwell.ariss",
+          "count": 3
+        },
+        {
+          "user": "arman.kazemi",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 44,
+      "15": 36,
+      "14": 38,
+      "1": 4,
+      "19": 13,
+      "18": 12,
+      "16": 25,
+      "0": 2,
+      "13": 1,
+      "23": 4,
+      "3": 8,
+      "2": 3,
+      "21": 22,
+      "4": 8,
+      "22": 15,
+      "20": 6,
+      "5": 2
+    },
+    "by_day": {
+      "Wednesday": 46,
+      "Tuesday": 53,
+      "Monday": 31,
+      "Friday": 53,
+      "Thursday": 60
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.12,
+    "dept_average_30d": 5.79,
+    "dept_rank": 366,
+    "dept_size": 1233
+  }
+}

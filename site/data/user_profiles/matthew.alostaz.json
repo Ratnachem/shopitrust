@@ -1,0 +1,278 @@
+{
+  "username": "matthew.alostaz",
+  "name": "Matthew Alostaz",
+  "generated_at": "2026-04-08T20:22:19.308763",
+  "summary": {
+    "message_count": 229,
+    "channels_active": 14,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 17,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help :smile: Let us know if you need anything",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I knew I had something off",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "OK this is my bad, its there already. I didnt realize there was a new policy document id each time",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Filipe :smile:\nThis should be better\n<https://app.graphite.com/github/pr/Shopify/infrastructure/39359>",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018PU3LVNY> Im about to sign off for the day, Brandon might need some PR approvals here :coffee-cheers:\nThank you!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you sir. Looks good to me",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave::skin-tone-3: Not sure what the robots are saying. The TopicMoveUI is safe and our supported method for taking ownership out of",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if there's any other way that I can help out!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Let me know if there's any other way that I can help out!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help reset the offsets if you need it, but basically you would need to turn off the consumer group temporarily, and then a button will appear",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Ok I see what's going on here\n\nThe `kafka-consumer` helm template is relatively new, just released a few months ago, and it was developed",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "If I can't figure it out in the next 30 minutes, it might be tomorrow morning :heads_up:",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "may.aboalrejal",
+          "count": 11
+        },
+        {
+          "user": "justin.chen",
+          "count": 5
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 5
+        },
+        {
+          "user": "nick.ryan",
+          "count": 4
+        },
+        {
+          "user": "chethana.siddappa",
+          "count": 4
+        },
+        {
+          "user": "yuri.bocharov",
+          "count": 3
+        },
+        {
+          "user": "eli.bailey",
+          "count": 3
+        },
+        {
+          "user": "john.tanza",
+          "count": 3
+        },
+        {
+          "user": "selvi.arora",
+          "count": 2
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.55,
+      "count": 214,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 112
+        },
+        {
+          "channel": "kafka-access-controls",
+          "messages": 43
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 31
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 14
+        },
+        {
+          "channel": "streaming-frontend-alerts",
+          "messages": 6
+        },
+        {
+          "channel": "streaming-foundations-alerts",
+          "messages": 6
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 5
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 4
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "infra-central",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "may.aboalrejal",
+          "count": 10
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 6
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 5
+        },
+        {
+          "user": "noel.padavan",
+          "count": 4
+        },
+        {
+          "user": "david.mariassy",
+          "count": 4
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 3
+        },
+        {
+          "user": "nick.ryan",
+          "count": 3
+        },
+        {
+          "user": "selvi.arora",
+          "count": 3
+        },
+        {
+          "user": "yuri.bocharov",
+          "count": 3
+        },
+        {
+          "user": "filipe.deo",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 9,
+      "15": 19,
+      "19": 60,
+      "14": 14,
+      "13": 17,
+      "18": 28,
+      "2": 3,
+      "1": 1,
+      "22": 10,
+      "20": 19,
+      "21": 18,
+      "17": 29,
+      "10": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Tuesday": 67,
+      "Monday": 31,
+      "Friday": 39,
+      "Thursday": 65
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.7,
+    "dept_average_30d": 5.75,
+    "dept_rank": 168,
+    "dept_size": 357
+  }
+}

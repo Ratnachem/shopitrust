@@ -1,0 +1,287 @@
+{
+  "username": "josh.broughton",
+  "name": "Josh Broughton",
+  "generated_at": "2026-04-08T20:22:18.124864",
+  "summary": {
+    "message_count": 554,
+    "channels_active": 45,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I\u2019m here tomorrow so I can own scaling back down then if we haven\u2019t had a recurrence, thank you",
+          "channel": "inc-21077-high-and-sustained-core-p95-response-time",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Already done, thank you for keeping it in mind though",
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the sync this morning, I got caught up pairing on the data deletion and then we also mistakenly thought you were out today <@W018PTCL9AQ>",
+          "channel": "proj-proxysql-rearchitecturing",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "alright I\u2019m starting from the bottom, thank you. also, part of the objective today was to get the docs for this process updated since for the most",
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I lied let\u2019s go to <#C0ANQ5EC1B6> for further coordination, but thanks! We\u2019ll move on to the next step",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Success :celebrate-wooo: the schema cache dumper (and everything else) came up with the daemonset proxysql completely deleted.",
+          "channel": "inv-20452-proactive-channel-for-daemonset-core-exp-",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :thanking:",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Understood, thank you for confirming",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: we have another change for <#C0A2M1FV1N0> that we would like to spin up a `core-exp` cluster to test. In brief, the client side proxysql",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so I\u2019m worried its just a matter of time before whatever throttling mechanism put the job onto the writer triggers again",
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think this fix would prevent the initial issue with the scaler immediately submitting with the same VM number:",
+          "channel": "db-core-mysql-deploys",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Grain of AI-assisted salt here, but picking apart the stack trace\n\n``` #5 0x58f1975c407b",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "toni.zeng",
+          "count": 11
+        },
+        {
+          "user": "ben.thul",
+          "count": 6
+        },
+        {
+          "user": "akshay.suryawanshi",
+          "count": 5
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 4
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 3
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 3
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 2
+        },
+        {
+          "user": "kevin.norman",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.86,
+      "count": 283,
+      "top_channels": [
+        {
+          "channel": "proj-proxysql-rearchitecturing",
+          "messages": 124
+        },
+        {
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "messages": 62
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 46
+        },
+        {
+          "channel": "db-core-mysql-alerts",
+          "messages": 44
+        },
+        {
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "messages": 29
+        },
+        {
+          "channel": "inv-21068-high-storecreate-mutation-latency",
+          "messages": 23
+        },
+        {
+          "channel": "inv-19990-more-frequent-mysql-node-failures",
+          "messages": 23
+        },
+        {
+          "channel": "inv-21034-incomplete-pod-failovers",
+          "messages": 19
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20922-shard-85possible-failed-failover",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 11
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 10
+        },
+        {
+          "user": "akshay.suryawanshi",
+          "count": 8
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 7
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 4
+        },
+        {
+          "user": "tom.krouper",
+          "count": 3
+        },
+        {
+          "user": "dakota.mcinnis",
+          "count": 3
+        },
+        {
+          "user": "jp.caissy",
+          "count": 3
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 53,
+      "16": 74,
+      "2": 16,
+      "21": 58,
+      "20": 69,
+      "18": 57,
+      "15": 33,
+      "19": 84,
+      "0": 5,
+      "23": 10,
+      "22": 38,
+      "14": 31,
+      "13": 2,
+      "5": 1,
+      "4": 12,
+      "3": 11
+    },
+    "by_day": {
+      "Wednesday": 126,
+      "Tuesday": 115,
+      "Monday": 39,
+      "Friday": 104,
+      "Thursday": 170
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.34,
+    "dept_average_30d": 5.75,
+    "dept_rank": 234,
+    "dept_size": 357
+  }
+}

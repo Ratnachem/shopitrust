@@ -1,0 +1,266 @@
+{
+  "username": "yifan.ye",
+  "name": "Yifan Ye",
+  "generated_at": "2026-04-08T20:22:16.279058",
+  "summary": {
+    "message_count": 888,
+    "channels_active": 24,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 7,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Yes sure , feel free to commit to it and test in staging with your pipeline ",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "cc <@U08PVA0AALT> feel free to join if you want . since we talked about it in the office yesterday",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "just walked Calvin through the process. if no objections  , i will merge the playbook .\ngoing forward, feel free to reach out etl oncall, or just",
+          "channel": "inc-19207-reportify-incomplete-rollout-exposure-dat",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "i have a scheduled call with <@W018GAKBSAZ> to walk his through the process. feel free to join :blob-wave:",
+          "channel": "inc-19207-reportify-incomplete-rollout-exposure-dat",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018GAKBSAZ> <@W018WA88B2M>  <@W018GB0HWDB> for tomorrow,   :help-cat:  can you do me a favour and run below query and save the results in any temp",
+          "channel": "inc-19207-reportify-incomplete-rollout-exposure-dat",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "just deployed api-client , works now <https://production-sql-api-client-dimension.reportify.shopifycloud.com/#/overview>\n:celebrate-wooo:",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":thread:  On moving to production:\n\nThese are the deployment steps I *learned*:\n\nShip the Flink pipeline PR in world _*( CD will not deploy any",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> please cut a pr to remove useless dev commands",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Our problem is: we will be hosting 200+ pipelines, and we will have many folks developing pipelines in staging in parallel.\n\nWe could have many",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "It doesn\u2019t matter. Once YB  is in place, we\u2019ll be using read_token, which is DB-agnostic. It isn\u2019t even a timestamp; it\u2019s just a number. We don\u2019t",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "susie.lee",
+          "count": 15
+        },
+        {
+          "user": "steven.lee",
+          "count": 14
+        },
+        {
+          "user": "trideep.roy",
+          "count": 14
+        },
+        {
+          "user": "joshua.kim",
+          "count": 12
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 11
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 11
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 9
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 7
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 7
+        },
+        {
+          "user": "calvin.zhou",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.89,
+      "count": 179,
+      "top_channels": [
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 222
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 192
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 87
+        },
+        {
+          "channel": "inc-20469-keycommittoolarge-on-metafields-dimension",
+          "messages": 70
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 57
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 51
+        },
+        {
+          "channel": "inc-20112-production-dynamic-base-shop-ads-publishe",
+          "messages": 35
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 34
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 30
+        },
+        {
+          "channel": "inc-19207-reportify-incomplete-rollout-exposure-dat",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 94,
+      "top_mentioners": [
+        {
+          "user": "steven.lee",
+          "count": 15
+        },
+        {
+          "user": "joshua.kim",
+          "count": 15
+        },
+        {
+          "user": "susie.lee",
+          "count": 9
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 7
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 7
+        },
+        {
+          "user": "trideep.roy",
+          "count": 5
+        },
+        {
+          "user": "leo.godin",
+          "count": 5
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 3
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 3
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 105,
+      "16": 92,
+      "14": 90,
+      "13": 43,
+      "4": 1,
+      "1": 4,
+      "21": 90,
+      "20": 102,
+      "19": 62,
+      "18": 131,
+      "12": 6,
+      "23": 31,
+      "22": 28,
+      "0": 9,
+      "15": 88,
+      "2": 6
+    },
+    "by_day": {
+      "Wednesday": 210,
+      "Tuesday": 139,
+      "Monday": 139,
+      "Friday": 231,
+      "Thursday": 169
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.32,
+    "dept_average_30d": 5.79,
+    "dept_rank": 259,
+    "dept_size": 1233
+  }
+}

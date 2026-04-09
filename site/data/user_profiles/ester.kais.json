@@ -1,0 +1,303 @@
+{
+  "username": "ester.kais",
+  "name": "Ester Kais",
+  "generated_at": "2026-04-08T20:22:20.275833",
+  "summary": {
+    "message_count": 430,
+    "channels_active": 16,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 6,
+      "neg_count": 12,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Somehow I thought it was in `//areas/tools/dev`...my bad",
+          "channel": "tectonix",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Let me know how these suggestions go, and then I can help further!",
+          "channel": "tectonix",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah, so that heals it! Thank you!",
+          "channel": "dev-up",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your patience!",
+          "channel": "dev-up",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both for contributing to zeitung :blush:",
+          "channel": "tectonix",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing! I am merging E2E tests for zeitung now, so you'll likely need to rebase soon. I'll do a quick review now. Let me know once you've responded",
+          "channel": "tectonix",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The thing that I am then aware of is the installation journey - with our `tec` profiles (base, user, whatever) we can control the flow well, how this",
+          "channel": "projects-environments",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For the occasional `uvx` `devx` whatever run, that doesn't matter so much what we use...but the installation journey is indeed something we should",
+          "channel": "projects-environments",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> I want you to get started but as the initial implementation I want you to only introduce one check for now, we can extend later once",
+          "channel": "ester-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I do think that in that cache might need to put in a thing like async safe or something attribute to make sure that the ones that are not safe to run",
+          "channel": "ester-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We would put `/bin` to path, whatever git is inside there, is the git that will be invoked. `activate` script should not touch the `bin` entry is my",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Are we referring to the `activation` script? If yes, that can do whatever you want :smile: as long as it doesn't break the global tools profile",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Nice!!! A central location to have an overview and dig into details is gonna be key to keeping this system healthy.\n\nMy comments are all related to",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Here's how `tec toolchain` (currently in review, code going in now, migration underway) maps to this:\n\n*What's already designed:*\nThe toolchain has a",
+          "channel": "tectonix",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Here's how `tec toolchain` (currently in review, code going in now, migration underway) maps to this:\n\n*What's already designed:*\nThe toolchain has a",
+          "channel": "tectonix",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Following up on your `./init` feedback: I already built profiles (base, user, whatever in the future) to be self-knowing:\n\u2022 `activate.sh` knows how",
+          "channel": "tectonix",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "burke.libbey",
+          "count": 3
+        },
+        {
+          "user": "surma",
+          "count": 2
+        },
+        {
+          "user": "ashley.williams",
+          "count": 2
+        },
+        {
+          "user": "lily.foster",
+          "count": 2
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 2
+        },
+        {
+          "user": "sara.adcock",
+          "count": 1
+        },
+        {
+          "user": "sam.bostock",
+          "count": 1
+        },
+        {
+          "user": "pawan.patel",
+          "count": 1
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 1
+        },
+        {
+          "user": "jon.ringer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.25,
+      "count": 198,
+      "top_channels": [
+        {
+          "channel": "ester-river",
+          "messages": 120
+        },
+        {
+          "channel": "tectonix",
+          "messages": 107
+        },
+        {
+          "channel": "dev-up",
+          "messages": 87
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 56
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 28
+        },
+        {
+          "channel": "proj-non-rd-bootstrap",
+          "messages": 8
+        },
+        {
+          "channel": "inv-19976-google-auth-spam",
+          "messages": 7
+        },
+        {
+          "channel": "river",
+          "messages": 3
+        },
+        {
+          "channel": "proj-instant-dev-envs",
+          "messages": 3
+        },
+        {
+          "channel": "environments-tv",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "ashley.williams",
+          "count": 15
+        },
+        {
+          "user": "jacob.michels",
+          "count": 6
+        },
+        {
+          "user": "don.kelly",
+          "count": 6
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 3
+        },
+        {
+          "user": "johann.schweyer",
+          "count": 3
+        },
+        {
+          "user": "stuart.trann",
+          "count": 3
+        },
+        {
+          "user": "aubron.wood",
+          "count": 2
+        },
+        {
+          "user": "surma",
+          "count": 2
+        },
+        {
+          "user": "brian.warsing",
+          "count": 2
+        },
+        {
+          "user": "sara.adcock",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 14,
+      "15": 46,
+      "11": 8,
+      "7": 37,
+      "6": 7,
+      "12": 66,
+      "10": 43,
+      "9": 41,
+      "14": 64,
+      "13": 77,
+      "8": 27
+    },
+    "by_day": {
+      "Wednesday": 76,
+      "Tuesday": 127,
+      "Thursday": 128,
+      "Monday": 40,
+      "Friday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.16,
+    "dept_average_30d": 5.75,
+    "dept_rank": 104,
+    "dept_size": 357
+  }
+}

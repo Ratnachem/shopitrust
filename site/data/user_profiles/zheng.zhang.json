@@ -1,0 +1,220 @@
+{
+  "username": "zheng.zhang",
+  "name": "Zheng Zhang",
+  "generated_at": "2026-04-08T20:22:30.927255",
+  "summary": {
+    "message_count": 140,
+    "channels_active": 13,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great! Thank you so much :bhavika-superhero:",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U084XJE8W9K> for the quick fix! Wondering if we could deploy these changes to prod today or not?",
+          "channel": "proj-dnn-ranker",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "So well deserved! Congrats <@U02NQST3CRL> :bhavika-superhero:",
+          "channel": "search-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing",
+          "channel": "unified_query_rewriting",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "bhavika.tekwani",
+          "count": 8
+        },
+        {
+          "user": "mojtaba.kohram",
+          "count": 7
+        },
+        {
+          "user": "michael.garner",
+          "count": 6
+        },
+        {
+          "user": "shotaro.kamio",
+          "count": 6
+        },
+        {
+          "user": "wei.li",
+          "count": 4
+        },
+        {
+          "user": "zhuojie.wu",
+          "count": 3
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 3
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 2
+        },
+        {
+          "user": "taylor.peoples",
+          "count": 2
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.44,
+      "count": 155,
+      "top_channels": [
+        {
+          "channel": "proj-dnn-ranker",
+          "messages": 50
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 40
+        },
+        {
+          "channel": "unified_query_rewriting",
+          "messages": 18
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 10
+        },
+        {
+          "channel": "temp-proj-meridian-product-boost",
+          "messages": 6
+        },
+        {
+          "channel": "index-serving-ops-nopaging",
+          "messages": 4
+        },
+        {
+          "channel": "proj-real-time-inference-product-network",
+          "messages": 3
+        },
+        {
+          "channel": "proj-meridian-relevance",
+          "messages": 2
+        },
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 2
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.85,
+      "count": 61,
+      "top_mentioners": [
+        {
+          "user": "felipe.besson",
+          "count": 10
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 7
+        },
+        {
+          "user": "bhavika.tekwani",
+          "count": 7
+        },
+        {
+          "user": "mingqin.li",
+          "count": 5
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 3
+        },
+        {
+          "user": "dexter.fichuk",
+          "count": 3
+        },
+        {
+          "user": "kangyuan.shu",
+          "count": 3
+        },
+        {
+          "user": "taylor.peoples",
+          "count": 2
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 2
+        },
+        {
+          "user": "michael.garner",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 26,
+      "17": 7,
+      "15": 19,
+      "14": 22,
+      "0": 6,
+      "23": 7,
+      "20": 8,
+      "13": 9,
+      "1": 1,
+      "19": 9,
+      "18": 7,
+      "22": 9,
+      "16": 10
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 33,
+      "Monday": 17,
+      "Friday": 39,
+      "Thursday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.4,
+    "dept_average_30d": 5.79,
+    "dept_rank": 799,
+    "dept_size": 1233
+  }
+}

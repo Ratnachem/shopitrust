@@ -1,0 +1,210 @@
+{
+  "username": "katherine.tang",
+  "name": "Katherine Tang",
+  "generated_at": "2026-04-08T20:22:21.195034",
+  "summary": {
+    "message_count": 95,
+    "channels_active": 16,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "was able to merge, thanks!",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "No problem! Let me know if there needs to be any additional clarification anywhere.\n\nThe majority of this should be ok to share, maybe with the",
+          "channel": "resiliency-enterprise-sre-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yes sorry about the last minute request.\n\nThey did have a queue during their last sale and are asking to reduce/avoid since they expect more traffic",
+          "channel": "checkout-foundations",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "gavin.frei",
+          "count": 4
+        },
+        {
+          "user": "gus.degeus",
+          "count": 3
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "pranav.prabhu",
+          "count": 2
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 2
+        },
+        {
+          "user": "chris.andreoli",
+          "count": 2
+        },
+        {
+          "user": "komail.kanjee",
+          "count": 1
+        },
+        {
+          "user": "tom.krouper",
+          "count": 1
+        },
+        {
+          "user": "yusei.nishiyama",
+          "count": 1
+        },
+        {
+          "user": "chantal.hubrich",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.01,
+      "count": 238,
+      "top_channels": [
+        {
+          "channel": "resiliency-enterprise-sre-team",
+          "messages": 54
+        },
+        {
+          "channel": "checkout-foundations",
+          "messages": 12
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 7
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 4
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 4
+        },
+        {
+          "channel": "pods",
+          "messages": 2
+        },
+        {
+          "channel": "enterprise-sre-scale",
+          "messages": 2
+        },
+        {
+          "channel": "topps-operations",
+          "messages": 2
+        },
+        {
+          "channel": "ktang-river",
+          "messages": 1
+        },
+        {
+          "channel": "proj-infra-storefront-katesql-autoscale",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.67,
+      "count": 40,
+      "top_mentioners": [
+        {
+          "user": "pranav.prabhu",
+          "count": 10
+        },
+        {
+          "user": "kendall.stephens",
+          "count": 6
+        },
+        {
+          "user": "gavin.frei",
+          "count": 6
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 6
+        },
+        {
+          "user": "dakota.mcinnis",
+          "count": 4
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        },
+        {
+          "user": "khizra.abbasi",
+          "count": 1
+        },
+        {
+          "user": "muz.ali",
+          "count": 1
+        },
+        {
+          "user": "alex.park",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 12,
+      "15": 8,
+      "23": 10,
+      "22": 13,
+      "20": 7,
+      "18": 8,
+      "19": 11,
+      "17": 12,
+      "21": 10,
+      "14": 4
+    },
+    "by_day": {
+      "Wednesday": 13,
+      "Tuesday": 20,
+      "Monday": 25,
+      "Friday": 23,
+      "Thursday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 5.75,
+    "dept_rank": 224,
+    "dept_size": 357
+  }
+}

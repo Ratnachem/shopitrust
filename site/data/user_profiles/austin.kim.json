@@ -1,0 +1,146 @@
+{
+  "username": "austin.kim",
+  "name": "Austin Kim",
+  "generated_at": "2026-04-08T20:22:13.679236",
+  "summary": {
+    "message_count": 95,
+    "channels_active": 8,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Right, yea the current limitation with our staging env is that it's just the 1 node (`staging`) and we aren't able to provide 4 different staging",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":thank-you1: Thats good to know thank you for testing this!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Gotcha thanks! I assumed it was a worst case scenario, but wanted to be aware of it since I've learned about it :thumb: . I was planning to handle it",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! :pray1:\n\nAs for notifying the users on failure, I dont have it currently setup for a slack message to be sent; however that was one of the",
+          "channel": "proj-kafka-data-replication",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "omid.hemmati",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.61,
+      "count": 69,
+      "top_channels": [
+        {
+          "channel": "proj-kafka-data-replication",
+          "messages": 46
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 14
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 13
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 9
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 8
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 3
+        },
+        {
+          "channel": "streaming-platform-announcements",
+          "messages": 1
+        },
+        {
+          "channel": "foundations-frontend-burst-cluster-split",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "alankrit.joshi",
+          "count": 1
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 1
+        },
+        {
+          "user": "darren.li",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 12,
+      "15": 8,
+      "14": 5,
+      "13": 9,
+      "12": 1,
+      "20": 24,
+      "19": 14,
+      "21": 13,
+      "17": 5,
+      "16": 1,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 26,
+      "Tuesday": 19,
+      "Monday": 42,
+      "Friday": 7,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.4,
+    "dept_average_30d": 4.74,
+    "dept_rank": 902,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "username": "calvin.zhou",
+  "name": "Calvin Zhou",
+  "generated_at": "2026-04-08T20:22:14.343980",
+  "summary": {
+    "message_count": 97,
+    "channels_active": 12,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Francis! I will adjust accordingly!",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much Kevin! I will review asap!",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: <@W018SEYDK7W> <@U0524B1Q70R> I have a",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats <@U021X7D5YAY>! Super well deserved! :tada: :rocket:",
+          "channel": "optimization-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks Kevin! I tested the client with your branch! It worked nicely for me, I am able to connect to staging and production clickhouse cluster in my",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "We are nearing GA which should relax some of the current EA eligibility restrictions. Happy to help once that opens up.",
+          "channel": "help-rollouts",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "cc <@U04GVRS4UET> not urgent, but let me know if you have time to take a quick look :pray:",
+          "channel": "reportify-etl",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Just enabled the `shop_id: 19951857` for <http://vanessasteststore.myshopify.com|vanessasteststore.myshopify.com>. let me know if that works",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "tristan.boudreault",
+          "count": 5
+        },
+        {
+          "user": "kevin.charette",
+          "count": 4
+        },
+        {
+          "user": "leo.godin",
+          "count": 4
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 3
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 3
+        },
+        {
+          "user": "david.vincelli",
+          "count": 3
+        },
+        {
+          "user": "francis.pelland",
+          "count": 2
+        },
+        {
+          "user": "lisa.steiger",
+          "count": 2
+        },
+        {
+          "user": "michael.bonneau",
+          "count": 1
+        },
+        {
+          "user": "yifan.ye",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.19,
+      "count": 195,
+      "top_channels": [
+        {
+          "channel": "inc-19998-reportify-clickhouse-high-iops-load-due-t",
+          "messages": 29
+        },
+        {
+          "channel": "proj-rollouts-m1",
+          "messages": 25
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 13
+        },
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 10
+        },
+        {
+          "channel": "rollouts-ops",
+          "messages": 8
+        },
+        {
+          "channel": "help-rollouts",
+          "messages": 4
+        },
+        {
+          "channel": "inc-19207-reportify-incomplete-rollout-exposure-dat",
+          "messages": 2
+        },
+        {
+          "channel": "rollouts-river",
+          "messages": 2
+        },
+        {
+          "channel": "optimization-team",
+          "messages": 1
+        },
+        {
+          "channel": "optimization-team-toronto-gta",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "kevin.charette",
+          "count": 11
+        },
+        {
+          "user": "yifan.ye",
+          "count": 6
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 4
+        },
+        {
+          "user": "tristan.boudreault",
+          "count": 3
+        },
+        {
+          "user": "francis.pelland",
+          "count": 3
+        },
+        {
+          "user": "david.vincelli",
+          "count": 3
+        },
+        {
+          "user": "jade.golden",
+          "count": 1
+        },
+        {
+          "user": "lisa.steiger",
+          "count": 1
+        },
+        {
+          "user": "hong.zhang",
+          "count": 1
+        },
+        {
+          "user": "michael.bonneau",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 16,
+      "13": 8,
+      "17": 11,
+      "20": 27,
+      "19": 6,
+      "14": 4,
+      "21": 9,
+      "15": 8,
+      "16": 5,
+      "2": 1,
+      "0": 2
+    },
+    "by_day": {
+      "Wednesday": 44,
+      "Tuesday": 22,
+      "Thursday": 22,
+      "Monday": 2,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.52,
+    "dept_average_30d": 5.79,
+    "dept_rank": 725,
+    "dept_size": 1233
+  }
+}

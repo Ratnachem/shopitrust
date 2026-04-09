@@ -1,0 +1,249 @@
+{
+  "username": "miller.hall",
+  "name": "Miller Hall",
+  "generated_at": "2026-04-08T20:22:27.948822",
+  "summary": {
+    "message_count": 162,
+    "channels_active": 21,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-vault",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "It doesn't use an LLM, just a regex to assign emojis. Though even a regex could match things like migrations, and it's pretty easy to add an LLM pass",
+          "channel": "app-store-atc-deploy",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi y'all, we've now covered all the test cases in our bug bash. We have one open bug that we haven't pushed a fix for, and we have updated the",
+          "channel": "proj-app-store-cookie-deprecation",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Another reminder to folks watching the project: our bug bash is coming up in about 20 minutes. We have an awesome bug bash template made by Michelle",
+          "channel": "proj-app-store-cookie-deprecation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "theme-store-atc-deploy",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<https://app.graphite.com/github/pr/shop/world/510962|The fix> is merging now, should be able to rebase in ~an hour and see it mitigated. Sorry about",
+          "channel": "devs-ask-quick-questions",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "I just added you to <#C4TGD9MMZ>'s verdant agents, so you should have access now here\n\u2022 <https://verdant-express.shopify.io/channels|channel index>\n\u2022",
+          "channel": "help-theme-store",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah this is 100% something that if it works, we can export the full YAML configuration and hand it off to `pi` running Opus and have it translate it",
+          "channel": "partner-marketplaces-resiliency-planning",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "michelle.peens",
+          "count": 3
+        },
+        {
+          "user": "joanna.klekotka",
+          "count": 3
+        },
+        {
+          "user": "david.ward",
+          "count": 2
+        },
+        {
+          "user": "fernando.espinoza",
+          "count": 1
+        },
+        {
+          "user": "amy.furgoch",
+          "count": 1
+        },
+        {
+          "user": "marek.kudlacz",
+          "count": 1
+        },
+        {
+          "user": "mya.biagi",
+          "count": 1
+        },
+        {
+          "user": "scott.yang",
+          "count": 1
+        },
+        {
+          "user": "jessica.ip",
+          "count": 1
+        },
+        {
+          "user": "killian.kehoe",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.4,
+      "count": 206,
+      "top_channels": [
+        {
+          "channel": "proj-app-store-cookie-deprecation",
+          "messages": 38
+        },
+        {
+          "channel": "partner-marketplaces-resiliency-planning",
+          "messages": 29
+        },
+        {
+          "channel": "help-apps-in-admin",
+          "messages": 15
+        },
+        {
+          "channel": "devs-ask-quick-questions",
+          "messages": 14
+        },
+        {
+          "channel": "help-vault",
+          "messages": 9
+        },
+        {
+          "channel": "help-exp",
+          "messages": 9
+        },
+        {
+          "channel": "theme-store-devs",
+          "messages": 7
+        },
+        {
+          "channel": "theme-store-atc-deploy",
+          "messages": 7
+        },
+        {
+          "channel": "help-theme-store",
+          "messages": 6
+        },
+        {
+          "channel": "s-foundations-dw-agentic-workflows",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "jia.wang",
+          "count": 11
+        },
+        {
+          "user": "jennifer.miller",
+          "count": 6
+        },
+        {
+          "user": "joanna.klekotka",
+          "count": 5
+        },
+        {
+          "user": "mya.biagi",
+          "count": 4
+        },
+        {
+          "user": "killian.kehoe",
+          "count": 3
+        },
+        {
+          "user": "david.ward",
+          "count": 2
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 2
+        },
+        {
+          "user": "mark.trinidad",
+          "count": 2
+        },
+        {
+          "user": "danny.garcia",
+          "count": 2
+        },
+        {
+          "user": "khoi.hoang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 35,
+      "18": 17,
+      "16": 22,
+      "15": 24,
+      "14": 31,
+      "12": 5,
+      "13": 8,
+      "20": 6,
+      "21": 2,
+      "2": 1,
+      "1": 5,
+      "19": 4,
+      "23": 2
+    },
+    "by_day": {
+      "Tuesday": 40,
+      "Monday": 19,
+      "Friday": 57,
+      "Thursday": 30,
+      "Wednesday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.97,
+    "dept_average_30d": 5.79,
+    "dept_rank": 452,
+    "dept_size": 1233
+  }
+}

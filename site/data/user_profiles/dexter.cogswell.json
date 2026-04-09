@@ -1,0 +1,167 @@
+{
+  "username": "dexter.cogswell",
+  "name": "Dexter Cogswell",
+  "generated_at": "2026-04-08T20:22:23.918682",
+  "summary": {
+    "message_count": 77,
+    "channels_active": 13,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey, I wanted to report a bug with the Silence dialog in Observe (not sure this is the best channel, feel free to redirect). When adding a filter for",
+          "channel": "help-observability",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Weekly shift change for Data Ingestion oncall. I'll be oncall this week and not <@W018HM900EN> . Feel free to ping if you need anything",
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "karl.taylor",
+          "count": 3
+        },
+        {
+          "user": "bo.senyshyn",
+          "count": 2
+        },
+        {
+          "user": "khaled.hammouda",
+          "count": 1
+        },
+        {
+          "user": "miguel.mora",
+          "count": 1
+        },
+        {
+          "user": "karming.chin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.95,
+      "count": 182,
+      "top_channels": [
+        {
+          "channel": "proj-data-platform-bigquery-backfills",
+          "messages": 24
+        },
+        {
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20769-excessive-gaps-across-many-topics",
+          "messages": 8
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20433-failures-in-ingestion-scheduler-cluster-d",
+          "messages": 5
+        },
+        {
+          "channel": "help-ris",
+          "messages": 5
+        },
+        {
+          "channel": "data-factoids-alerts",
+          "messages": 3
+        },
+        {
+          "channel": "inv-21033-rfm-pipeline-is-only-reading-from-kafka-c",
+          "messages": 3
+        },
+        {
+          "channel": "help-observability",
+          "messages": 2
+        },
+        {
+          "channel": "help-exp",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.88,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "miguel.mora",
+          "count": 5
+        },
+        {
+          "user": "nicolas.ottonello",
+          "count": 1
+        },
+        {
+          "user": "rahul.pandey",
+          "count": 1
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        },
+        {
+          "user": "elson.oliveira",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 8,
+      "4": 1,
+      "15": 13,
+      "20": 8,
+      "19": 5,
+      "13": 8,
+      "18": 4,
+      "21": 2,
+      "16": 7,
+      "23": 13,
+      "22": 3,
+      "17": 3,
+      "2": 1,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 14,
+      "Tuesday": 15,
+      "Monday": 22,
+      "Friday": 22,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.71,
+    "dept_average_30d": 5.39,
+    "dept_rank": 190,
+    "dept_size": 272
+  }
+}

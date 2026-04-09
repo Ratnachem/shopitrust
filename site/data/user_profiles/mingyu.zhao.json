@@ -1,0 +1,225 @@
+{
+  "username": "mingyu.zhao",
+  "name": "Mingyu Zhao",
+  "generated_at": "2026-04-08T20:22:31.339444",
+  "summary": {
+    "message_count": 121,
+    "channels_active": 10,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both!\nbtw, is `sdp-ingest-snapshots-prod.sidekick_server.research_artifacts` the right table if I want to grab the judge eval results?",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "my goal is to run some error analysis on our pulse ft model\nand the first step is fetching the artifacts generated from a specific model\nthanks!",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team,\nqq on how pulse feature flags work currently: which feature flag are we using to control traffic going to different flow models (finetuned,",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ahh seems this does the trick, thank you Charles!",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@U09BUST5CTD> ,\nI am new to pulse workstream and ran into a issue when trying to run pulse evaluation with my",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both, we've fixed this now and updating the readme for avoiding this~\n```# basically just need to run\nexport TANGLE_AUTH=$(gcloud secrets",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey Jeff, thanks again for building this feature!\njust a quick follow up - do we have this developed in flowadmin? we would like to use this tool for",
+          "channel": "flow-project-ai",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team,\nGot a question about slack app approval. I made a slack app (already tested in sandbox) with following low risk scopes (according to",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "logan.vegna",
+          "count": 2
+        },
+        {
+          "user": "charles.qian",
+          "count": 1
+        },
+        {
+          "user": "navjot.singh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.85,
+      "count": 177,
+      "top_channels": [
+        {
+          "channel": "flow-project-ai",
+          "messages": 29
+        },
+        {
+          "channel": "shop-agent-env-river",
+          "messages": 28
+        },
+        {
+          "channel": "proj-sidekick-pulse",
+          "messages": 23
+        },
+        {
+          "channel": "sidekick-pulse-distillation",
+          "messages": 15
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 7
+        },
+        {
+          "channel": "proj-optimization-simgym",
+          "messages": 6
+        },
+        {
+          "channel": "proj-sidekick-media-gen-tools",
+          "messages": 5
+        },
+        {
+          "channel": "tangle",
+          "messages": 3
+        },
+        {
+          "channel": "proj-sidekick-server-move-to-world",
+          "messages": 3
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "matt.koenig",
+          "count": 7
+        },
+        {
+          "user": "yz.zhu",
+          "count": 4
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 4
+        },
+        {
+          "user": "paul.nuschke",
+          "count": 3
+        },
+        {
+          "user": "nicolas.bertagnolli",
+          "count": 2
+        },
+        {
+          "user": "logan.vegna",
+          "count": 2
+        },
+        {
+          "user": "ailin.fan",
+          "count": 1
+        },
+        {
+          "user": "lingyun.wang",
+          "count": 1
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 1
+        },
+        {
+          "user": "nikolas.leblanc",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 12,
+      "21": 22,
+      "20": 25,
+      "23": 16,
+      "19": 14,
+      "16": 9,
+      "18": 13,
+      "22": 7,
+      "0": 1,
+      "15": 1,
+      "14": 1
+    },
+    "by_day": {
+      "Tuesday": 24,
+      "Thursday": 57,
+      "Wednesday": 8,
+      "Monday": 10,
+      "Friday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.1,
+    "dept_average_30d": 5.79,
+    "dept_rank": 959,
+    "dept_size": 1233
+  }
+}

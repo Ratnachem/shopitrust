@@ -1,0 +1,286 @@
+{
+  "username": "kelsey.arendt",
+  "name": "Kelsey Arendt",
+  "generated_at": "2026-04-08T20:22:26.681911",
+  "summary": {
+    "message_count": 215,
+    "channels_active": 16,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "great work guys!!!",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That appeases my anxiety, thank you!",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! (got errors on both, but wanted to make sure I was moving in the right direction)",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I'm working on a couple other things today but I can try to get to this in the afternoon. Sorry about missing that",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!! this came up in a separate meeting, but SO glad to have this spreadsheet now :pray:",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yes! Sorry thought the GH automations would have picked that up\n\nEDIT: oops, I had `Relates to` not `Closes`. My bad. Still done!",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "(feel free to punt me to someone else too, if that's better. I'm happy to chase people down)",
+          "channel": "event-refinery-rollout-questions",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about all that",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":pray: thank you everyone",
+          "channel": "proj-exec-insights-plan",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "heya <@U02CZGED0US> I'm cranking through a task from last week's slot incident to add limits to array_aggs in our domain. A bunch of these are in the",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "and just to say the thing: July 25 will not be the stitch date here. It must be at least after server-side eventing rollout, so late March",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "What we're working on right now is anything that comes from `buyer_events`/BEP, replacing `customer_events`/CEP.\n\nI think some of these fall outside",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We had a thread in the team channel about trade-offs of \"data hoarding\" vs cost. That definitely applies here, but since these are all sessions and",
+          "channel": "dw-buyer-activity-team",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "austin.clooney",
+          "count": 6
+        },
+        {
+          "user": "spencer.bonar",
+          "count": 6
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 5
+        },
+        {
+          "user": "vrishti.dutta",
+          "count": 4
+        },
+        {
+          "user": "luke.qi",
+          "count": 3
+        },
+        {
+          "user": "ian.robertson",
+          "count": 3
+        },
+        {
+          "user": "siqi.fang",
+          "count": 2
+        },
+        {
+          "user": "jill.hogan",
+          "count": 2
+        },
+        {
+          "user": "judah.okwuobi",
+          "count": 1
+        },
+        {
+          "user": "corey.howard",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.09,
+      "count": 137,
+      "top_channels": [
+        {
+          "channel": "dw-buyer-activity-team",
+          "messages": 61
+        },
+        {
+          "channel": "prj-session-pipeline-er",
+          "messages": 55
+        },
+        {
+          "channel": "cto-metrics-monitoring",
+          "messages": 23
+        },
+        {
+          "channel": "dw-buyer-activity-monitoring",
+          "messages": 19
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 12
+        },
+        {
+          "channel": "event-refinery-rollout-questions",
+          "messages": 12
+        },
+        {
+          "channel": "inv-19987-slot-contention-in-shopify-dw-compute",
+          "messages": 9
+        },
+        {
+          "channel": "proj-exec-insights-plan",
+          "messages": 6
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 5
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 74,
+      "top_mentioners": [
+        {
+          "user": "lena.wallheimer",
+          "count": 15
+        },
+        {
+          "user": "spencer.bonar",
+          "count": 10
+        },
+        {
+          "user": "siqi.fang",
+          "count": 9
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 8
+        },
+        {
+          "user": "sarah.pyo",
+          "count": 4
+        },
+        {
+          "user": "luke.qi",
+          "count": 4
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 4
+        },
+        {
+          "user": "mohamed.toure",
+          "count": 3
+        },
+        {
+          "user": "corey.howard",
+          "count": 2
+        },
+        {
+          "user": "kristie.ching",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 16,
+      "19": 25,
+      "20": 35,
+      "22": 15,
+      "17": 23,
+      "16": 25,
+      "15": 10,
+      "6": 1,
+      "1": 11,
+      "18": 30,
+      "14": 5,
+      "2": 4,
+      "5": 1,
+      "0": 12,
+      "23": 2
+    },
+    "by_day": {
+      "Tuesday": 38,
+      "Monday": 27,
+      "Friday": 42,
+      "Thursday": 28,
+      "Wednesday": 80
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.81,
+    "dept_average_30d": 5.39,
+    "dept_rank": 90,
+    "dept_size": 272
+  }
+}

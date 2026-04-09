@@ -1,0 +1,300 @@
+{
+  "username": "christian.bruckmayer",
+  "name": "Christian Bruckmayer",
+  "generated_at": "2026-04-08T20:22:14.760169",
+  "summary": {
+    "message_count": 1387,
+    "channels_active": 45,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 56,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.3,
+      "pos_count": 8,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> we're doing a deployment to change your system prompt back from Evil to nice. Any last words you want me to post for you in the",
+          "channel": "river-infra",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018WAV8MCZ> want me to apply this ^",
+          "channel": "proj-infra-repo-vms-with-nix",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "that would be appreciated, let me know if you need a hand with something though",
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U0AEPQCKB3M>\n```[root@river-production-instance-pcrr:/home/christian_bruckmayer_shopify_com]# riverctl logs s-KzySnOrvIi | grep -i",
+          "channel": "jevon-river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U0AEPQCKB3M>\n```[root@river-production-instance-pcrr:/home/christian_bruckmayer_shopify_com]# riverctl logs s-Z2J95Ftuxk | grep",
+          "channel": "jevon-river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U0AEPQCKB3M> are you sure it's the pi version\n\nThe pi versions are indeed",
+          "channel": "jevon-river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U0AEPQCKB3M> this is from an instance from before our deploy\n```riverctl logs s-Z2J95Ftuxk | grep memory\n2026-03-10T23:33:53+00:00 nixos",
+          "channel": "jevon-river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U0AEPQCKB3M>\n```riverctl logs s-Ijvo6w6KG7 | grep memory\n2026-03-11T10:59:51+00:00 nixos systemd[1]: suid-sgid-wrappers.service: Consumed 47ms CPU",
+          "channel": "jevon-river",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For River I think I really just want a message bus inside the project / network so might just use whatever Google provides.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> can you investigate when the tec was uploaded to the nix cache? You should have read access with gsutil",
+          "channel": "tectonix",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> try to clone the repository, you should have access",
+          "channel": "lnd-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> you should have access, can you clone it with git",
+          "channel": "lnd-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> you should have access to Observe MCP, the data should be in the frontend-otlp",
+          "channel": "river-infra",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> you should have knowledge about this, look in //system/river/slackbot",
+          "channel": "river-infra",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 51,
+      "top_mentioned": [
+        {
+          "user": "surma",
+          "count": 23
+        },
+        {
+          "user": "darren.worrall",
+          "count": 7
+        },
+        {
+          "user": "richard.vining",
+          "count": 7
+        },
+        {
+          "user": "eric.florenzano",
+          "count": 6
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 5
+        },
+        {
+          "user": "ashley.williams",
+          "count": 4
+        },
+        {
+          "user": "burke.libbey",
+          "count": 4
+        },
+        {
+          "user": "nick.presta",
+          "count": 4
+        },
+        {
+          "user": "jevon.macdonald",
+          "count": 3
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.43,
+      "count": 366,
+      "top_channels": [
+        {
+          "channel": "river-infra",
+          "messages": 560
+        },
+        {
+          "channel": "river",
+          "messages": 182
+        },
+        {
+          "channel": "proj-infra-repo-vms-with-nix",
+          "messages": 65
+        },
+        {
+          "channel": "river-dev",
+          "messages": 62
+        },
+        {
+          "channel": "chrisbr-river",
+          "messages": 51
+        },
+        {
+          "channel": "tectonix",
+          "messages": 50
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 30
+        },
+        {
+          "channel": "team-ci",
+          "messages": 29
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 26
+        },
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 25
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 127,
+      "top_mentioners": [
+        {
+          "user": "surma",
+          "count": 12
+        },
+        {
+          "user": "chao.duan",
+          "count": 11
+        },
+        {
+          "user": "ashley.williams",
+          "count": 8
+        },
+        {
+          "user": "javier.moreno",
+          "count": 6
+        },
+        {
+          "user": "richard.vining",
+          "count": 6
+        },
+        {
+          "user": "colin.gray",
+          "count": 5
+        },
+        {
+          "user": "jacob.lott",
+          "count": 5
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 4
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 4
+        },
+        {
+          "user": "xiao.li",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 79,
+      "13": 144,
+      "12": 60,
+      "11": 132,
+      "10": 153,
+      "9": 123,
+      "8": 33,
+      "7": 6,
+      "16": 94,
+      "17": 84,
+      "14": 153,
+      "6": 6,
+      "5": 1,
+      "15": 117,
+      "19": 58,
+      "20": 37,
+      "23": 14,
+      "22": 30,
+      "21": 42,
+      "2": 7,
+      "1": 6,
+      "0": 8
+    },
+    "by_day": {
+      "Wednesday": 425,
+      "Tuesday": 311,
+      "Monday": 188,
+      "Friday": 180,
+      "Thursday": 283
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.99,
+    "dept_average_30d": 5.75,
+    "dept_rank": 21,
+    "dept_size": 357
+  }
+}

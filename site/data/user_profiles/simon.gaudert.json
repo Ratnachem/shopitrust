@@ -1,0 +1,271 @@
+{
+  "username": "simon.gaudert",
+  "name": "Simon Gaudert",
+  "generated_at": "2026-04-08T20:22:26.254082",
+  "summary": {
+    "message_count": 629,
+    "channels_active": 17,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 18,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey Observability team :wave:\n\nI have a question about cardinality impacts of adding ~20 boolean tags to a statsD event.\n\nIn this",
+          "channel": "help-observability",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team :wave: I\u2019m new to running migrations in core and wanted to get a sense of best practices before I start.\n\nI have 3 migrations I want to",
+          "channel": "help-database-platform",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U0AEPQCKB3M> Amazing, yes let\u2019s also add those using wildcarding",
+          "channel": "mm-fdn-measurement-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "reportify-api-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> I spoke to the developer that did the migration\n\n&gt; So far, we haven\u2019t been migrating any modals that use legacy portal children, so",
+          "channel": "mm-fdn-measurement-river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Taking a look now :eyes:",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey Privacy team :wave:\n\nLooking for a review on this monorail PR to introduce a new `attributed_session_experiment`",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I\u2019ll approve and ship.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team :wave: I\u2019m creating a new `monorail` schema for an event that will be produced from core.\n\nAs part of creating the event this PR was auto",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey MAAPI team :wave:\n\nI\u2019m wondering if there\u2019s a reason multi-hop joins like this aren\u2019t possible:\n\n`FACT` -&gt; `DIMENSION` -&gt;",
+          "channel": "reportify-api",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> yes, look at the code, you should have access here: <https://github.com/Shopify/shop-server/tree/main/areas/platforms/shop-server>",
+          "channel": "simon-gaudert-river-chat",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "hassan.naeem",
+          "count": 6
+        },
+        {
+          "user": "maia.hoang",
+          "count": 5
+        },
+        {
+          "user": "saeid.alizadeh",
+          "count": 2
+        },
+        {
+          "user": "aashna.narang",
+          "count": 2
+        },
+        {
+          "user": "joan.ramos",
+          "count": 2
+        },
+        {
+          "user": "nick.tierney",
+          "count": 2
+        },
+        {
+          "user": "ewa.manek",
+          "count": 1
+        },
+        {
+          "user": "nick.presta",
+          "count": 1
+        },
+        {
+          "user": "judah.okwuobi",
+          "count": 1
+        },
+        {
+          "user": "eric.liang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.35,
+      "count": 309,
+      "top_channels": [
+        {
+          "channel": "simon-gaudert-river-chat",
+          "messages": 397
+        },
+        {
+          "channel": "mm-fdn-measurement-river",
+          "messages": 122
+        },
+        {
+          "channel": "mm-fdn-measurement-alerts",
+          "messages": 30
+        },
+        {
+          "channel": "proj-measurement-marketing-data-in-ua",
+          "messages": 19
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 13
+        },
+        {
+          "channel": "help-admin-web-platform",
+          "messages": 6
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 6
+        },
+        {
+          "channel": "inv-21238-buyer-events-materializer-stuck-in-crash-",
+          "messages": 5
+        },
+        {
+          "channel": "help-observability",
+          "messages": 5
+        },
+        {
+          "channel": "proj-autopilot",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "aashna.narang",
+          "count": 4
+        },
+        {
+          "user": "joan.ramos",
+          "count": 3
+        },
+        {
+          "user": "hassan.naeem",
+          "count": 3
+        },
+        {
+          "user": "day.levesque",
+          "count": 2
+        },
+        {
+          "user": "melissa.king",
+          "count": 2
+        },
+        {
+          "user": "anqi.gao",
+          "count": 2
+        },
+        {
+          "user": "judah.okwuobi",
+          "count": 2
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 1
+        },
+        {
+          "user": "carolina.pinzon",
+          "count": 1
+        },
+        {
+          "user": "tobias.livadariu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "23": 5,
+      "22": 23,
+      "21": 93,
+      "16": 61,
+      "15": 55,
+      "1": 1,
+      "20": 79,
+      "19": 66,
+      "18": 91,
+      "17": 89,
+      "14": 32,
+      "13": 30,
+      "12": 3,
+      "3": 1
+    },
+    "by_day": {
+      "Tuesday": 145,
+      "Monday": 147,
+      "Thursday": 130,
+      "Wednesday": 73,
+      "Friday": 134
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.74,
+    "dept_average_30d": 5.77,
+    "dept_rank": 436,
+    "dept_size": 885
+  }
+}

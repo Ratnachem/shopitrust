@@ -1,0 +1,197 @@
+{
+  "username": "steve.thomson",
+  "name": "Steve Thomson",
+  "generated_at": "2026-04-08T20:22:25.406411",
+  "summary": {
+    "message_count": 279,
+    "channels_active": 10,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U07FNUPM5PD> my bad here - I don't really have any more time to fix this (if it's even fixable) - if changing the IDs doesn't work I think we might",
+          "channel": "proj-shop-hyperfeed-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U07FNUPM5PD> <@U03SPNN495L> the 2 line change deployed last night, it's still not amazing but you get a couple more words ",
+          "channel": "proj-shop-hyperfeed",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Ok where we are - we have:\n\n\u2022 The ability to quickly switch between og feed, hyperfeed native and hyperfeed rn\n\u2022 Real hyperfeed data (cached locally",
+          "channel": "proj-shop-hyperfeed",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "So what ideas do we have for showing a variety of cards?\n\n1) Backend `hyper_feed` query returns different cards/hints to tell the client what to",
+          "channel": "proj-shop-hyperfeed-dev",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "thomas.marshall",
+          "count": 15
+        },
+        {
+          "user": "david.hoffman",
+          "count": 13
+        },
+        {
+          "user": "dominic.lind",
+          "count": 10
+        },
+        {
+          "user": "tunca.ulubilge",
+          "count": 6
+        },
+        {
+          "user": "quique.fagoaga",
+          "count": 5
+        },
+        {
+          "user": "luke.dupont",
+          "count": 2
+        },
+        {
+          "user": "ali.ibrahim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.92,
+      "count": 130,
+      "top_channels": [
+        {
+          "channel": "proj-shop-hyperfeed-dev",
+          "messages": 130
+        },
+        {
+          "channel": "proj-shop-hyperfeed",
+          "messages": 119
+        },
+        {
+          "channel": "shop-minis-platform-team",
+          "messages": 12
+        },
+        {
+          "channel": "pi",
+          "messages": 5
+        },
+        {
+          "channel": "shop-talk",
+          "messages": 5
+        },
+        {
+          "channel": "river-steve-thomson-public",
+          "messages": 3
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 2
+        },
+        {
+          "channel": "shop-minis-app-inspiration",
+          "messages": 1
+        },
+        {
+          "channel": "mobile",
+          "messages": 1
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.27,
+      "count": 65,
+      "top_mentioners": [
+        {
+          "user": "david.hoffman",
+          "count": 30
+        },
+        {
+          "user": "tunca.ulubilge",
+          "count": 11
+        },
+        {
+          "user": "thomas.marshall",
+          "count": 10
+        },
+        {
+          "user": "dominic.lind",
+          "count": 7
+        },
+        {
+          "user": "quique.fagoaga",
+          "count": 6
+        },
+        {
+          "user": "luke.dupont",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 22,
+      "18": 10,
+      "20": 3,
+      "14": 9,
+      "13": 33,
+      "12": 55,
+      "11": 24,
+      "9": 20,
+      "8": 6,
+      "7": 2,
+      "6": 5,
+      "19": 5,
+      "16": 14,
+      "15": 31,
+      "17": 34,
+      "21": 4,
+      "22": 2
+    },
+    "by_day": {
+      "Wednesday": 70,
+      "Monday": 39,
+      "Friday": 82,
+      "Thursday": 55,
+      "Tuesday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.72,
+    "dept_average_30d": 5.86,
+    "dept_rank": 109,
+    "dept_size": 166
+  }
+}

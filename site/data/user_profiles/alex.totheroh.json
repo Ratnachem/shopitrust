@@ -1,0 +1,123 @@
+{
+  "username": "alex.totheroh",
+  "name": "Alex Totheroh",
+  "generated_at": "2026-04-08T20:22:29.386436",
+  "summary": {
+    "message_count": 58,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah I also tried clearing the cache file, which didn't resolve it :thinking_face: Thank you for checking :beers: Must be something weird in our",
+          "channel": "finance-ai",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think the way we organize postgres DB code is a bit messy/unclear. We have two different folders and it's unclear how they're different/what files",
+          "channel": "tmp-ft-river-testing",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "meaghan.kramer",
+          "count": 3
+        },
+        {
+          "user": "howell.manongsong",
+          "count": 1
+        },
+        {
+          "user": "octavian.radulescu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.56,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "finance-ai",
+          "messages": 46
+        },
+        {
+          "channel": "tmp-ft-river-testing",
+          "messages": 6
+        },
+        {
+          "channel": "help-finance-tech",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "curtis.traverse",
+          "count": 1
+        },
+        {
+          "user": "octavian.radulescu",
+          "count": 1
+        },
+        {
+          "user": "meaghan.kramer",
+          "count": 1
+        },
+        {
+          "user": "autumn.kaunitz",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 14,
+      "22": 3,
+      "0": 2,
+      "23": 3,
+      "20": 6,
+      "19": 3,
+      "18": 12,
+      "17": 9,
+      "15": 6
+    },
+    "by_day": {
+      "Monday": 14,
+      "Friday": 8,
+      "Thursday": 1,
+      "Wednesday": 30,
+      "Tuesday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 5.01,
+    "dept_average_30d": 4.35,
+    "dept_rank": 27,
+    "dept_size": 151
+  }
+}

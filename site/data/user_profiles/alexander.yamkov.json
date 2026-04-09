@@ -1,0 +1,177 @@
+{
+  "username": "alexander.yamkov",
+  "name": "Alexander Yamkov",
+  "generated_at": "2026-04-08T20:22:06.826404",
+  "summary": {
+    "message_count": 66,
+    "channels_active": 8,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Kyle, I\u2019m rolling out BF with the fix for <https://github.com/shop/issues-shipping-admin-experience/issues/3173|Custom inputted weight was reset",
+          "channel": "shipping-admin-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hi folks. I\u2019ve done a round of refactoring on <https://app.graphite.com/github/pr/shop/world/522307|my PR> but it looks like it would require more",
+          "channel": "ship-pickup-1-order-feds",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you folks, it was my pleasure working with you.",
+          "channel": "proj-ship-pickup-1-order",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Sorry just back from lunch will figure it out",
+          "channel": "shipping-admin-team",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "maria.khutoretsky",
+          "count": 1
+        },
+        {
+          "user": "cristina.smiarowski",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.86,
+      "count": 102,
+      "top_channels": [
+        {
+          "channel": "ship-pickup-1-order-feds",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20903-investigation-intent-total-weight-incorre",
+          "messages": 15
+        },
+        {
+          "channel": "shipping-admin-runteam",
+          "messages": 9
+        },
+        {
+          "channel": "help-labels",
+          "messages": 8
+        },
+        {
+          "channel": "shipping-admin-team",
+          "messages": 5
+        },
+        {
+          "channel": "proj-ship-pickup-1-order",
+          "messages": 5
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 3
+        },
+        {
+          "channel": "shipping-dev-ops",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "jake.joseph",
+          "count": 7
+        },
+        {
+          "user": "maulin.pathare",
+          "count": 5
+        },
+        {
+          "user": "chris.daviduik",
+          "count": 4
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 3
+        },
+        {
+          "user": "lazir.pascual",
+          "count": 3
+        },
+        {
+          "user": "jeremy.smereka",
+          "count": 2
+        },
+        {
+          "user": "mathieu.lavoie",
+          "count": 2
+        },
+        {
+          "user": "ryan.creps",
+          "count": 2
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 2
+        },
+        {
+          "user": "aqeel.nazeer",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 9,
+      "17": 3,
+      "14": 13,
+      "19": 14,
+      "16": 8,
+      "13": 5,
+      "21": 5,
+      "20": 7,
+      "15": 2
+    },
+    "by_day": {
+      "Wednesday": 26,
+      "Tuesday": 22,
+      "Friday": 9,
+      "Thursday": 2,
+      "Monday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.04,
+    "dept_average_30d": 5.77,
+    "dept_rank": 710,
+    "dept_size": 885
+  }
+}

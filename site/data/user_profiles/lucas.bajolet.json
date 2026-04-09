@@ -1,0 +1,310 @@
+{
+  "username": "lucas.bajolet",
+  "name": "Lucas Bajolet",
+  "generated_at": "2026-04-08T20:22:08.334550",
+  "summary": {
+    "message_count": 912,
+    "channels_active": 14,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 13,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Right, stack is up - there's 10 commits/PRs in there, I'll work with whatever CI throws at me (most likely Rubocop complaining AFAICT):",
+          "channel": "proj-infra-katesql-migration",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "OK PR updated for BV, feel free to do another review on it now",
+          "channel": "katesql-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you prefer that I move immediately",
+          "channel": "inv-20387-sidekick-messages-table-is-over-10-teraby",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "^ Sorry about that noise - I've silenced the alert on Observe for your KateSQL, but it seems that continues to push notifications here, no clue how",
+          "channel": "abacus-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Good luck with that!",
+          "channel": "shipping-dev-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great thanks! :slightly_smiling_face:",
+          "channel": "shipping-dev-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Ah yeah then feel free to kill it later and make another one with the name you want",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "In any case regarding the base question - feel free to scale anytime, I think it'd be preferable for both of our teams to do this proactively, before",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "us-ce1a my bad",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Right, stack is up - there's 10 commits/PRs in there, I'll work with whatever CI throws at me (most likely Rubocop complaining AFAICT):",
+          "channel": "proj-infra-katesql-migration",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would think that's what the crash recovery is supposed to fix no? Like a transaction is being applied, mysqld crashes for whatever reason, and it",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Like - the crash will cause some of the recent transactions to be purged from the binlogs because incomplete or whatever reason - mysqld gets to",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "idiot",
+          "text": "(I'm an idiot I meant to update them not the alert)",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Sure - let's hop into :tuple: then, we can probably figure it out",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "I presume we can deal with it but it might not be that helpful",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hmmmmm, I'm walking through the code to try to understand this a bit better - it seems that there's a default set of permissions? If it's a rw user",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "romeno.fernando",
+          "count": 5
+        },
+        {
+          "user": "nii.boidoku",
+          "count": 3
+        },
+        {
+          "user": "yevgeniy.safronov",
+          "count": 2
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "james.hall",
+          "count": 1
+        },
+        {
+          "user": "james.zhu",
+          "count": 1
+        },
+        {
+          "user": "emma.eagles",
+          "count": 1
+        },
+        {
+          "user": "patrick.gilbert",
+          "count": 1
+        },
+        {
+          "user": "evan.zhao",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.81,
+      "count": 127,
+      "top_channels": [
+        {
+          "channel": "katesql-ops",
+          "messages": 306
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 228
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 188
+        },
+        {
+          "channel": "proj-infra-katesql-migration",
+          "messages": 63
+        },
+        {
+          "channel": "smart-pricing-operations",
+          "messages": 34
+        },
+        {
+          "channel": "inv-20607-sfr-writer-reader-staleness-elevated",
+          "messages": 28
+        },
+        {
+          "channel": "inv-20387-sidekick-messages-table-is-over-10-teraby",
+          "messages": 19
+        },
+        {
+          "channel": "help-vault",
+          "messages": 18
+        },
+        {
+          "channel": "abacus-operations",
+          "messages": 8
+        },
+        {
+          "channel": "shipping-dev-ops",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "james.zhu",
+          "count": 12
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 4
+        },
+        {
+          "user": "jonathan.gnagy",
+          "count": 3
+        },
+        {
+          "user": "brian.chae",
+          "count": 3
+        },
+        {
+          "user": "evan.zhao",
+          "count": 2
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "nii.boidoku",
+          "count": 1
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 1
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 148,
+      "17": 59,
+      "16": 82,
+      "20": 130,
+      "19": 61,
+      "14": 98,
+      "13": 81,
+      "21": 82,
+      "15": 128,
+      "22": 20,
+      "23": 23
+    },
+    "by_day": {
+      "Wednesday": 484,
+      "Tuesday": 242,
+      "Monday": 58,
+      "Thursday": 90,
+      "Friday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.78,
+    "dept_average_30d": 5.75,
+    "dept_rank": 316,
+    "dept_size": 357
+  }
+}

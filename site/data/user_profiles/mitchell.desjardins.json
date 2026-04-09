@@ -1,0 +1,108 @@
+{
+  "username": "mitchell.desjardins",
+  "name": "Mitchell Desjardins",
+  "generated_at": "2026-04-08T20:22:28.973442",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "Happy 5th Shop Birthday! :tada: Dad of 2 at home and basically a dad of 6 at work with the rest of us. Somehow you still show up with patience and",
+          "channel": "se-ocial-engineering",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U01GURPPHNV> oncall security-incident\n\nSummary: Sensitive deal information is publicly accessible via a GitHub Pages (<http://github.io|github.io>)",
+          "channel": "help-security",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U01GURPPHNV> oncall security-incident\n\nSummary: Sensitive deal information is publicly accessible via a GitHub Pages (<http://github.io|github.io>)",
+          "channel": "help-security",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "lukas.perez",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.22,
+      "count": 85,
+      "top_channels": [
+        {
+          "channel": "se-ocial-engineering",
+          "messages": 3
+        },
+        {
+          "channel": "customer-references",
+          "messages": 1
+        },
+        {
+          "channel": "help-security",
+          "messages": 1
+        },
+        {
+          "channel": "se-assistant",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "ayat.dekis",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 1,
+      "0": 1,
+      "17": 1,
+      "15": 2,
+      "19": 1
+    },
+    "by_day": {
+      "Monday": 2,
+      "Tuesday": 1,
+      "Friday": 2,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.45,
+    "dept_average_30d": 4.32,
+    "dept_rank": 325,
+    "dept_size": 848
+  }
+}

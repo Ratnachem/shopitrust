@@ -1,0 +1,275 @@
+{
+  "username": "rich.chen",
+  "name": "Rich Chen",
+  "generated_at": "2026-04-08T20:22:15.606714",
+  "summary": {
+    "message_count": 1317,
+    "channels_active": 67,
+    "unique_people_mentioned": 65,
+    "unique_mentioners": 65,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about the flaky tests. I am trying to disable the 3 proto related test\n<https://github.com/Shopify/shop-ml/pull/18078/changes>",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave:thank you.\nTo clarify, there are two different things\n1. prepare data for CG and Features\n    a. current: dbt with BigQuery Compute\n    b.",
+          "channel": "gsd-48923-flink-bq-connector",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "great, I am heading out for day care. Feel free to kill this job and create a new one after DiscoFlink deploy a new image",
+          "channel": "proj-ur-flink-batch",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I am at :tuple: room <https://tuple.app/c/mUmVdJ>, feel free to join for flink batch",
+          "channel": "proj-ur-flink-batch",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "if we continue this path, I think task 1 Envoy testing is now on `Tangle team`. Sth like\n\u2022 provision 3rd k8s cluster using shopify internal network,",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I am going to restart Ads Exp in 10 mins, let me know if have concerns",
+          "channel": "recommendations-team-experiments",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to create InfraCentral PR, or I will create when back half hour later",
+          "channel": "streaming-foundations-alerts",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "&gt; this should have Kafka message since \"2026-03-18 18:24 UTC\", checking Kafkanet (<https://kafkanet-ui.shopify.io/queries/prod-782119|query>),",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<@W018HT9H3MH> and <@U09DV7LS59C>, adding `shop_id` and`broker_uuid` nullable to v6 is fine. We already done that.\n\nBut we realized need to change",
+          "channel": "recommendations-infra",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help with that tomorrow",
+          "channel": "recommendations-infra",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "friendly reminder",
+          "text": "However, also friendly reminder, the ER compliance and other rules are changing \"frequently\" in past few months, now is more stable",
+          "channel": "inc-20010-20260311-recsads-inference-3-hours-outage",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioned": [
+        {
+          "user": "akshay.soni",
+          "count": 12
+        },
+        {
+          "user": "daniel.redmond",
+          "count": 11
+        },
+        {
+          "user": "divine.jojolola",
+          "count": 9
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 7
+        },
+        {
+          "user": "simon.pearson",
+          "count": 7
+        },
+        {
+          "user": "hamid.bazargani",
+          "count": 6
+        },
+        {
+          "user": "rhys.young",
+          "count": 6
+        },
+        {
+          "user": "jerry.wang",
+          "count": 6
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 6
+        },
+        {
+          "user": "peter.han",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 496,
+      "top_channels": [
+        {
+          "channel": "recommendations-infra",
+          "messages": 283
+        },
+        {
+          "channel": "recommendations-team-experiments",
+          "messages": 156
+        },
+        {
+          "channel": "recommendations-infra-ops",
+          "messages": 113
+        },
+        {
+          "channel": "proj-mm-1p-migration",
+          "messages": 73
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 70
+        },
+        {
+          "channel": "proj-ur-flink-batch",
+          "messages": 64
+        },
+        {
+          "channel": "llm-cg-vantage",
+          "messages": 49
+        },
+        {
+          "channel": "inv-20985-20260401-recs-inference-restarting-becaus",
+          "messages": 41
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 31
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 27
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 373,
+      "top_mentioners": [
+        {
+          "user": "yang.gao",
+          "count": 31
+        },
+        {
+          "user": "akshay.soni",
+          "count": 28
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 27
+        },
+        {
+          "user": "divine.jojolola",
+          "count": 20
+        },
+        {
+          "user": "rhys.young",
+          "count": 18
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 15
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 15
+        },
+        {
+          "user": "tom.chikoore",
+          "count": 14
+        },
+        {
+          "user": "kristin.makulowich",
+          "count": 13
+        },
+        {
+          "user": "hamid.bazargani",
+          "count": 13
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 109,
+      "17": 134,
+      "16": 107,
+      "15": 107,
+      "14": 91,
+      "23": 72,
+      "22": 109,
+      "21": 62,
+      "20": 99,
+      "19": 164,
+      "13": 58,
+      "4": 36,
+      "1": 30,
+      "0": 32,
+      "2": 47,
+      "3": 43,
+      "12": 8,
+      "5": 9
+    },
+    "by_day": {
+      "Wednesday": 284,
+      "Tuesday": 282,
+      "Monday": 232,
+      "Friday": 226,
+      "Thursday": 293
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.76,
+    "dept_average_30d": 5.75,
+    "dept_rank": 32,
+    "dept_size": 357
+  }
+}

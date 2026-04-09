@@ -1,0 +1,270 @@
+{
+  "username": "emilie.noel",
+  "name": "Emilie Noel",
+  "generated_at": "2026-04-08T20:22:17.263613",
+  "summary": {
+    "message_count": 347,
+    "channels_active": 25,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 19,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you! I'll reach out when they are back",
+          "channel": "db-mobility",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Thank you <@U02B8TJV36D>, fully understand, no worries at all. Also good luck with the incident!",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02B8TJV36D>, fully understand, no worries at all. Also good luck with the incident!",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ahhhh I was wondering why he was crashing it lol Thank you!",
+          "channel": "tmp-benchmark-yugabyte",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I've got draft PR up for a skill to help finding downstream impacts of db migrations: <https://app.graphite.com/github/pr/shop/world/554381> - would",
+          "channel": "inc-18314-investigate-longboat-full-import-failures",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-frog: I've created a new `core_benchmark` schema on staging (PR <https://app.graphite.com/github/pr/Shopify/globaldb-yugabyte/5245|here>,",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah, longboat is datawarehouse. Thank you, I think at this point I'll just ping the folks on the incident. They'll know best (and will not want it",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh wow, will you look at that... an incident on the exact table I'm changing. Thank you so much for pointing this out <@U0815K8HYAY>",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I'll reach out to the folks you mentioned for the CDC one.\nBut it seems there's more that may need to be updated (see",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So, `shop_id ASC`  is only relevant when `id`  (or whatever previous column) are the same? (like :google_spreadsheets: )",
+          "channel": "proj-deliver-yugabyte",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "kirill.shatrov",
+          "count": 11
+        },
+        {
+          "user": "andrew.knowles",
+          "count": 8
+        },
+        {
+          "user": "kirill.suslov",
+          "count": 7
+        },
+        {
+          "user": "michael.go",
+          "count": 7
+        },
+        {
+          "user": "israel.valverde",
+          "count": 6
+        },
+        {
+          "user": "max.perry",
+          "count": 5
+        },
+        {
+          "user": "max.romaniv",
+          "count": 4
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 4
+        },
+        {
+          "user": "sean.moranrichards",
+          "count": 4
+        },
+        {
+          "user": "brett.owens",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.77,
+      "count": 278,
+      "top_channels": [
+        {
+          "channel": "proj-inventory-reservations",
+          "messages": 82
+        },
+        {
+          "channel": "proj-deliver-yugabyte",
+          "messages": 60
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 40
+        },
+        {
+          "channel": "fulfillments-yugabyte",
+          "messages": 39
+        },
+        {
+          "channel": "proj-yugabyte-migration-orders-and-returns",
+          "messages": 27
+        },
+        {
+          "channel": "inc-18314-investigate-longboat-full-import-failures",
+          "messages": 20
+        },
+        {
+          "channel": "tmp-reversible-maintenance-tasks",
+          "messages": 9
+        },
+        {
+          "channel": "deliver-performance-yugabyte",
+          "messages": 9
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 7
+        },
+        {
+          "channel": "proj-inventory-yugabyte",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.23,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "andrew.knowles",
+          "count": 6
+        },
+        {
+          "user": "kirill.suslov",
+          "count": 5
+        },
+        {
+          "user": "ian.robertson",
+          "count": 5
+        },
+        {
+          "user": "dylan.kirby",
+          "count": 4
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "andrea.rice",
+          "count": 2
+        },
+        {
+          "user": "max.perry",
+          "count": 2
+        },
+        {
+          "user": "jeffrey.bagdis",
+          "count": 2
+        },
+        {
+          "user": "michael.go",
+          "count": 2
+        },
+        {
+          "user": "philippe.demontigny",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 39,
+      "16": 49,
+      "15": 29,
+      "14": 53,
+      "13": 39,
+      "9": 1,
+      "20": 25,
+      "19": 32,
+      "18": 32,
+      "12": 8,
+      "11": 12,
+      "21": 26,
+      "10": 2
+    },
+    "by_day": {
+      "Wednesday": 122,
+      "Tuesday": 56,
+      "Monday": 56,
+      "Friday": 43,
+      "Thursday": 70
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.34,
+    "dept_average_30d": 5.79,
+    "dept_rank": 247,
+    "dept_size": 1233
+  }
+}

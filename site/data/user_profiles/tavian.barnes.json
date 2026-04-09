@@ -1,0 +1,243 @@
+{
+  "username": "tavian.barnes",
+  "name": "Tavian Barnes",
+  "generated_at": "2026-04-08T20:22:31.634400",
+  "summary": {
+    "message_count": 613,
+    "channels_active": 35,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!  We do have _some_ metrics reporting but probably not enough, weirdly: <https://observe.shopify.io/goto/afhak4bdhyneod?orgId=1>",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I just fixed `Future.isolation_level` for now but feel free to haul it out somewhere better when you reapply the monitor?",
+          "channel": "proj-sidekick-falcon",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey can someone more familiar with <https://github.com/Shopify/shop-chat-agent> please take a look at",
+          "channel": "shop-agent-eng",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-sidekick-falcon",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey quick question: what's the best way to have a metric for the number of currently active connections of a certain type, per (Puma) worker process?",
+          "channel": "help-observability",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "But span search is so useless to me that I only ever search for the root span anyway",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If we delete a bunch of messages contents is it going to try to update stuff via longboat or whatever?",
+          "channel": "assistants-resiliency-backlog-war-room",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "dirceu.tiegs",
+          "count": 5
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 4
+        },
+        {
+          "user": "chris.maltais",
+          "count": 3
+        },
+        {
+          "user": "mila.koeva",
+          "count": 3
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 3
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 2
+        },
+        {
+          "user": "matt.koenig",
+          "count": 1
+        },
+        {
+          "user": "peter.lazzarino",
+          "count": 1
+        },
+        {
+          "user": "leslie.xin",
+          "count": 1
+        },
+        {
+          "user": "charles.qian",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.02,
+      "count": 344,
+      "top_channels": [
+        {
+          "channel": "proj-sidekick-falcon",
+          "messages": 132
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 87
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 78
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 67
+        },
+        {
+          "channel": "inv-20387-sidekick-messages-table-is-over-10-teraby",
+          "messages": 57
+        },
+        {
+          "channel": "assistants-resiliency-backlog-war-room",
+          "messages": 49
+        },
+        {
+          "channel": "proj-agent-flywheel-platform",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20265-failure-to-create-sidekick-conversations-",
+          "messages": 16
+        },
+        {
+          "channel": "proj-sidekick-pulse",
+          "messages": 13
+        },
+        {
+          "channel": "proj-sidekick-server-move-to-world",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 80,
+      "top_mentioners": [
+        {
+          "user": "stella.zhang",
+          "count": 16
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 15
+        },
+        {
+          "user": "chris.maltais",
+          "count": 6
+        },
+        {
+          "user": "fredy.pla",
+          "count": 4
+        },
+        {
+          "user": "mila.koeva",
+          "count": 4
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 3
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 3
+        },
+        {
+          "user": "denzel.kwan",
+          "count": 3
+        },
+        {
+          "user": "ates.goral",
+          "count": 2
+        },
+        {
+          "user": "justin.flick",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 56,
+      "20": 56,
+      "18": 45,
+      "17": 38,
+      "16": 75,
+      "15": 91,
+      "14": 70,
+      "13": 25,
+      "0": 31,
+      "22": 17,
+      "19": 78,
+      "1": 19,
+      "12": 7,
+      "23": 5
+    },
+    "by_day": {
+      "Friday": 183,
+      "Thursday": 163,
+      "Wednesday": 72,
+      "Tuesday": 104,
+      "Monday": 91
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.33,
+    "dept_average_30d": 5.79,
+    "dept_rank": 256,
+    "dept_size": 1233
+  }
+}

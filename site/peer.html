@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ShopiTrust</title>
+  <script src="/client/quick.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f6f6f7;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 48px 16px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #1a1a1a;
+      letter-spacing: -0.5px;
+    }
+
+    header p {
+      margin-top: 8px;
+      font-size: 15px;
+      color: #6b7280;
+      max-width: 420px;
+    }
+
+    .nav-links {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .nav-links a {
+      color: #6b7280;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      border-radius: 20px;
+      background: rgba(0,0,0,0.05);
+      transition: background 0.2s, color 0.2s;
+      font-size: 14px;
+    }
+
+    .nav-links a:hover {
+      background: rgba(0,0,0,0.1);
+      color: #1a1a1a;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 16px rgba(0,0,0,0.04);
+      padding: 28px;
+      width: 100%;
+      max-width: 520px;
+    }
+
+    .input-row {
+      display: flex;
+      gap: 10px;
+    }
+
+    input[type="text"] {
+      flex: 1;
+      padding: 11px 14px;
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      font-size: 15px;
+      color: #111;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    input[type="text"]:focus {
+      border-color: #008060;
+    }
+
+    button.primary {
+      padding: 11px 20px;
+      background: #008060;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.15s;
+    }
+
+    button.primary:hover { background: #006b50; }
+    button.primary:disabled { background: #9ca3af; cursor: not-allowed; }
+
+    .loading {
+      display: none;
+      text-align: center;
+      padding: 32px 0;
+      color: #6b7280;
+      font-size: 14px;
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 24px;
+      height: 24px;
+      border: 3px solid #e5e7eb;
+      border-top-color: #008060;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin-bottom: 10px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .result { display: none; margin-top: 24px; }
+
+    .score-block {
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .score-block.red    { background: #fef2f2; border: 1.5px solid #fecaca; }
+    .score-block.yellow { background: #fefce8; border: 1.5px solid #fde68a; }
+    .score-block.green  { background: #f0fdf4; border: 1.5px solid #bbf7d0; }
+    .score-block.strong { background: #ecfdf5; border: 1.5px solid #6ee7b7; }
+    .score-block.epic   { background: #eff6ff; border: 1.5px solid #93c5fd; }
+
+    .score-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .score-name {
+      font-weight: 700;
+      font-size: 16px;
+      color: #111;
+    }
+
+    .score-number {
+      font-size: 22px;
+      font-weight: 800;
+      color: #111;
+    }
+
+    .score-bar {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 10px;
+    }
+
+    .bar-block {
+      height: 10px;
+      flex: 1;
+      border-radius: 3px;
+      background: #e5e7eb;
+    }
+
+    .bar-block.filled.red    { background: #ef4444; }
+    .bar-block.filled.yellow { background: #f59e0b; }
+    .bar-block.filled.green  { background: #10b981; }
+    .bar-block.filled.strong { background: #059669; }
+    .bar-block.filled.epic   { background: #3b82f6; }
+
+    .score-label {
+      font-size: 14px;
+      font-weight: 600;
+      color: #374151;
+    }
+
+    .section {
+      margin-bottom: 16px;
+    }
+
+    .section-title {
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #9ca3af;
+      margin-bottom: 6px;
+    }
+
+    .section-body {
+      font-size: 14px;
+      color: #374151;
+      line-height: 1.6;
+    }
+
+    .tip-card {
+      background: #f9fafb;
+      border-radius: 8px;
+      border: 1.5px solid #e5e7eb;
+      padding: 14px 16px;
+    }
+
+    .tip-action {
+      font-size: 15px;
+      font-weight: 600;
+      color: #111;
+      margin-bottom: 6px;
+      line-height: 1.5;
+    }
+
+    .tip-why {
+      font-size: 13px;
+      color: #6b7280;
+      line-height: 1.5;
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    button.secondary {
+      flex: 1;
+      padding: 10px;
+      background: white;
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 500;
+      color: #374151;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    button.secondary:hover { border-color: #008060; color: #008060; }
+    button.secondary:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    .error-msg {
+      display: none;
+      margin-top: 16px;
+      padding: 12px 14px;
+      background: #fef2f2;
+      border: 1.5px solid #fecaca;
+      border-radius: 8px;
+      font-size: 14px;
+      color: #dc2626;
+    }
+
+    .sent-msg {
+      display: none;
+      margin-top: 10px;
+      font-size: 13px;
+      color: #059669;
+      text-align: center;
+    }
+
+    .divider {
+      height: 1px;
+      background: #f3f4f6;
+      margin: 20px 0;
+    }
+
+    footer {
+      margin-top: 32px;
+      font-size: 12px;
+      color: #9ca3af;
+      text-align: center;
+    }
+
+    footer a { color: #6b7280; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🔋 ShopiTrust</h1>
+  <p>Check your trust battery with a colleague — grounded in real Slack, email, and calendar signals.</p>
+  <div class="nav-links">
+    <a href="index.html">🏆 Leaderboard</a>
+    <a href="peer.html">🔋 Battery Check</a>
+    <a href="about.html">ℹ️ About</a>
+  </div>
+</header>
+
+<div class="card">
+  <div class="input-row">
+    <input type="text" id="nameInput" placeholder="Enter a colleague's name…" autocomplete="off" />
+    <button class="primary" id="checkBtn" onclick="runCheck()">Check</button>
+  </div>
+
+  <div class="loading" id="loading">
+    <div class="spinner"></div><br/>
+    Pulling signals from Slack, email, and calendar…
+  </div>
+
+  <div class="error-msg" id="errorMsg"></div>
+
+  <div class="result" id="result">
+    <div class="score-block" id="scoreBlock">
+      <div class="score-header">
+        <span class="score-name" id="scoreName"></span>
+        <span class="score-number" id="scoreNumber"></span>
+      </div>
+      <div class="score-bar" id="scoreBar"></div>
+      <div class="score-label" id="scoreLabel"></div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">What moved it</div>
+      <div class="section-body" id="keyDriver"></div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="section">
+      <div class="section-title">Today's tip</div>
+      <div class="tip-card">
+        <div class="tip-action" id="tipAction"></div>
+        <div class="tip-why" id="tipWhy"></div>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button class="secondary" id="slackBtn" onclick="sendToSlack()">📬 Send to my Slack</button>
+      <button class="secondary" onclick="reset()">↩ Check someone else</button>
+    </div>
+    <div class="sent-msg" id="sentMsg">✓ Sent to your Slack DM</div>
+  </div>
+</div>
+
+<footer>
+  Built with <a href="https://github.com/Ratnachem/shopitrust" target="_blank">ShopiTrust</a> ·
+  Inspired by the trust battery concept from Tobi Lütke
+</footer>
+
+<script>
+  const SKILL_PROMPT = `You are ShopiTrust, a tool that assesses someone's trust battery with a colleague at Shopify.
+
+The trust battery starts at 0.5 (neutral) and moves based on real interaction signals.
+
+SCORING RULES:
+- Start at 0.5
+- Only move the score based on actual interactions — absence of interaction is neutral (stays 0.5)
+
+Charging signals (move score UP):
+- Responded quickly (<24h) to their last Slack/email: +0.05
+- Closed an open loop from a previous interaction: +0.07
+- Acknowledged their work or gave them a shoutout recently: +0.08
+- Proactively shared something useful for them: +0.06
+- Regular 1:1 cadence in past 30 days (2+ meetings): +0.07
+- Have met at least once in the last 30 days: +0.05
+- Followed through on a commitment they can verify: +0.08
+
+Draining signals (move score DOWN) — only if there was actual interaction:
+- Unanswered message/email from them sitting >2 days: -0.10
+- Commitment made in Slack/email with no follow-up: -0.08
+- Cancelled or rescheduled a shared meeting without rescheduling: -0.05
+
+Respond ONLY with valid JSON in this exact format:
+{
+  "score": 0.62,
+  "name": "Person Name",
+  "label": "🟢 Healthy — keep it up",
+  "colorClass": "green",
+  "keyDriver": "One sentence about the biggest signal that moved the score",
+  "tipAction": "One specific action to take today",
+  "tipWhy": "One sentence explaining why this charges the trust battery"
+}
+
+colorClass must be one of: "red" (0.0-0.3), "yellow" (0.3-0.5), "green" (0.5-0.7), "strong" (0.7-0.9), "epic" (0.9-1.0)
+
+Be honest. Base the score on signals from the context provided. If no interaction data is available, score stays at 0.5 with a tip focused on making a first meaningful connection.`;
+
+  let currentResult = null;
+  let currentUser = null;
+
+  async function init() {
+    try {
+      currentUser = await quick.id.get();
+    } catch (e) {
+      // Not in Quick context, continue without user identity
+    }
+  }
+
+  init();
+
+  document.getElementById("nameInput").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") runCheck();
+  });
+
+  async function runCheck() {
+    const name = document.getElementById("nameInput").value.trim();
+    if (!name) return;
+
+    document.getElementById("checkBtn").disabled = true;
+    document.getElementById("loading").style.display = "block";
+    document.getElementById("result").style.display = "none";
+    document.getElementById("errorMsg").style.display = "none";
+    document.getElementById("sentMsg").style.display = "none";
+
+    try {
+      const userContext = currentUser
+        ? `The person running this check is ${currentUser.name} (${currentUser.email}).`
+        : "";
+
+      const messages = [
+        { role: "system", content: SKILL_PROMPT },
+        {
+          role: "user",
+          content: `${userContext}\n\nAssess the trust battery for: ${name}\n\nSearch your available context for any recent interactions, open loops, meeting cadence, or relationship signals between the current user and ${name}. If no context is available, return a neutral 0.5 score with a tip for making a first meaningful connection grounded in what you know about ${name}'s role.`
+        }
+      ];
+
+      const response = await quick.ai.chat(messages, {
+        model: "claude-sonnet-4-6",
+        response_format: { type: "json_object" }
+      });
+
+      let raw = response.choices[0].message.content;
+      console.log('Quick AI response:', raw);
+      // Strip markdown code blocks if present
+      if (typeof raw === 'string') {
+        raw = raw.replace(/^```json\s*/i, '').replace(/```\s*$/, '').trim();
+        currentResult = JSON.parse(raw);
+      } else {
+        currentResult = raw;
+      }
+      renderResult(currentResult);
+    } catch (err) {
+      document.getElementById("errorMsg").textContent =
+        "Something went wrong. Check the console for details.";
+      document.getElementById("errorMsg").style.display = "block";
+      console.error(err);
+    } finally {
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("checkBtn").disabled = false;
+    }
+  }
+
+  function renderResult(data) {
+    document.getElementById("scoreName").textContent = data.name;
+    document.getElementById("scoreNumber").textContent = data.score.toFixed(2);
+    document.getElementById("scoreLabel").textContent = data.label;
+    document.getElementById("keyDriver").textContent = data.keyDriver;
+    document.getElementById("tipAction").textContent = data.tipAction;
+    document.getElementById("tipWhy").textContent = data.tipWhy;
+
+    // Score bar
+    const bar = document.getElementById("scoreBar");
+    bar.innerHTML = "";
+    const filled = Math.round(data.score * 10);
+    for (let i = 0; i < 10; i++) {
+      const block = document.createElement("div");
+      block.className = "bar-block" + (i < filled ? ` filled ${data.colorClass}` : "");
+      bar.appendChild(block);
+    }
+
+    // Color the score block
+    const scoreBlock = document.getElementById("scoreBlock");
+    scoreBlock.className = `score-block ${data.colorClass}`;
+
+    document.getElementById("result").style.display = "block";
+  }
+
+  async function sendToSlack() {
+    if (!currentResult) return;
+    const btn = document.getElementById("slackBtn");
+    btn.disabled = true;
+    btn.textContent = "Sending…";
+
+    const bar = "▓".repeat(Math.round(currentResult.score * 10)) +
+                "░".repeat(10 - Math.round(currentResult.score * 10));
+
+    const msg = `🔋 *Trust Battery: ${currentResult.name}*\nScore: ${currentResult.score.toFixed(2)} ${bar}\n${currentResult.label}\n\n*What moved it:* ${currentResult.keyDriver}\n\n*Today's tip:* ${currentResult.tipAction}\n_${currentResult.tipWhy}_`;
+
+    try {
+      const target = currentUser?.slack_id || currentUser?.email;
+      if (target) {
+        await quick.slack.send({ channel: target, text: msg });
+        document.getElementById("sentMsg").style.display = "block";
+      } else {
+        throw new Error("Could not determine your Slack identity");
+      }
+    } catch (err) {
+      document.getElementById("sentMsg").textContent = "⚠ Could not send — copy it manually above";
+      document.getElementById("sentMsg").style.display = "block";
+      console.error(err);
+    }
+
+    btn.textContent = "📬 Send to my Slack";
+    btn.disabled = false;
+  }
+
+  function reset() {
+    document.getElementById("nameInput").value = "";
+    document.getElementById("result").style.display = "none";
+    document.getElementById("errorMsg").style.display = "none";
+    document.getElementById("sentMsg").style.display = "none";
+    document.getElementById("nameInput").focus();
+    currentResult = null;
+  }
+</script>
+</body>
+</html>

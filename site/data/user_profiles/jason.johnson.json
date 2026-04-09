@@ -1,0 +1,106 @@
+{
+  "username": "jason.johnson",
+  "name": "Jason Johnson",
+  "generated_at": "2026-04-08T20:22:29.296311",
+  "summary": {
+    "message_count": 14,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U06J8J99LSY> - Connor will be following up with him tomorrow ",
+          "channel": "la-sdrs",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I do thank you <@W0182UWB6K1>!",
+          "channel": "help-crm",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "stephany.moronmendoza",
+          "count": 1
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.42,
+      "count": 11,
+      "top_channels": [
+        {
+          "channel": "help-crm",
+          "messages": 8
+        },
+        {
+          "channel": "la-sdrs",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "m.wakefield",
+          "count": 2
+        },
+        {
+          "user": "kate.bermingham",
+          "count": 1
+        },
+        {
+          "user": "stephany.moronmendoza",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 2,
+      "0": 1,
+      "1": 1,
+      "19": 3,
+      "18": 4,
+      "23": 3
+    },
+    "by_day": {
+      "Monday": 1,
+      "Thursday": 8,
+      "Wednesday": 1,
+      "Tuesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.54,
+    "dept_average_30d": 4.32,
+    "dept_rank": 753,
+    "dept_size": 848
+  }
+}

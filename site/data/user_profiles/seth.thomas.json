@@ -1,0 +1,149 @@
+{
+  "username": "seth.thomas",
+  "name": "Seth Thomas",
+  "generated_at": "2026-04-08T20:22:21.613549",
+  "summary": {
+    "message_count": 41,
+    "channels_active": 2,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "AH lovely, thank you!",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome! thank you for the context ",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "VERY helpful, thank you for this message.\n\n:question_block: what is going to happen to `feedback` associated on the app?",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "yeah i just replied with a link to my pr, let me know if i need to make additional changes ",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "friendly reminder",
+          "text": "friendly reminder <@U081GLB7D4P> <@U0A5XPUM02W>, looking for a second review",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "sarchen.starke",
+          "count": 1
+        },
+        {
+          "user": "jace.mu",
+          "count": 1
+        },
+        {
+          "user": "scott.wadden",
+          "count": 1
+        },
+        {
+          "user": "catherine.fu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.25,
+      "count": 33,
+      "top_channels": [
+        {
+          "channel": "proj-multi-channel",
+          "messages": 38
+        },
+        {
+          "channel": "river-seth",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "daniel.leroux",
+          "count": 3
+        },
+        {
+          "user": "tejas.mehta",
+          "count": 3
+        },
+        {
+          "user": "edwin.chan",
+          "count": 2
+        },
+        {
+          "user": "jace.mu",
+          "count": 2
+        },
+        {
+          "user": "johnnie.chen",
+          "count": 2
+        },
+        {
+          "user": "scott.wadden",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 4,
+      "14": 6,
+      "17": 4,
+      "16": 4,
+      "22": 1,
+      "18": 16,
+      "19": 6
+    },
+    "by_day": {
+      "Wednesday": 22,
+      "Monday": 6,
+      "Friday": 4,
+      "Tuesday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.07,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1200,
+    "dept_size": 1233
+  }
+}

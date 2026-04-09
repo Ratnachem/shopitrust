@@ -1,0 +1,282 @@
+{
+  "username": "john.pavlick",
+  "name": "John Pavlick",
+  "generated_at": "2026-04-08T20:22:16.932137",
+  "summary": {
+    "message_count": 639,
+    "channels_active": 30,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 12,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for this gift I'm woefully behind on mastery ",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "cool good luck!",
+          "channel": "proj-retail-cashout-gift-cards",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "happy to help! didnt want this to be my fault also",
+          "channel": "pos-channel-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "Excited for you to tell the bot off nathan",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018WA4P917> you got a bunch of Postgres test failures. Want me to rerun or does it need a rebase?",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U03B2MN3M5Y> you want me to hit the merge button? ",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "I'm gonna leave yall to it, but @ me if you'd like my assistance, happy to help",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for doing this",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok sounds good! thank you for investigating",
+          "channel": "help-shopify-dev-eng",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "As I mentioned to Shawn and Alex today, we're going to scope this project to just the Cash/Custom work and the card payment flow change. If we have",
+          "channel": "proj-pos-app-fast-checkout",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "ok, I imagine it's not intentional for that to disappear. Our designer <@U0895CX7XKM> is out until Thursday so he can't weigh in right now but",
+          "channel": "pos-core-selling-flow-cart",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "tom.anderson",
+          "count": 17
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 15
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 13
+        },
+        {
+          "user": "marco.yip",
+          "count": 6
+        },
+        {
+          "user": "meishang.chen",
+          "count": 5
+        },
+        {
+          "user": "adam.davidson",
+          "count": 4
+        },
+        {
+          "user": "drake.gebhart",
+          "count": 3
+        },
+        {
+          "user": "joanna.kang",
+          "count": 2
+        },
+        {
+          "user": "shivin.misra",
+          "count": 2
+        },
+        {
+          "user": "alex.kung",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.94,
+      "count": 340,
+      "top_channels": [
+        {
+          "channel": "proj-extensible-cash-management",
+          "messages": 396
+        },
+        {
+          "channel": "help-retail-checkout",
+          "messages": 36
+        },
+        {
+          "channel": "retail-bx-checkout",
+          "messages": 31
+        },
+        {
+          "channel": "pos-channel-dev",
+          "messages": 25
+        },
+        {
+          "channel": "pos-core-selling-flow-checkout",
+          "messages": 22
+        },
+        {
+          "channel": "pos-core-selling-flow-cart",
+          "messages": 18
+        },
+        {
+          "channel": "proj-pos-app-fast-checkout",
+          "messages": 16
+        },
+        {
+          "channel": "proj-pos-app-customer-pii-access",
+          "messages": 11
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 10
+        },
+        {
+          "channel": "inv-21057-pos-negotiation-violations",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 111,
+      "top_mentioners": [
+        {
+          "user": "tom.anderson",
+          "count": 20
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 17
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 15
+        },
+        {
+          "user": "drake.gebhart",
+          "count": 6
+        },
+        {
+          "user": "si.le",
+          "count": 4
+        },
+        {
+          "user": "adam.davidson",
+          "count": 4
+        },
+        {
+          "user": "zach.mathew",
+          "count": 3
+        },
+        {
+          "user": "robin.senior",
+          "count": 3
+        },
+        {
+          "user": "alexei.koulikov",
+          "count": 3
+        },
+        {
+          "user": "shivin.misra",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 62,
+      "14": 84,
+      "13": 33,
+      "19": 61,
+      "15": 48,
+      "12": 7,
+      "18": 97,
+      "21": 47,
+      "20": 60,
+      "16": 46,
+      "3": 10,
+      "2": 9,
+      "1": 12,
+      "0": 14,
+      "4": 3,
+      "22": 29,
+      "23": 15,
+      "11": 2
+    },
+    "by_day": {
+      "Wednesday": 152,
+      "Tuesday": 150,
+      "Monday": 52,
+      "Thursday": 177,
+      "Friday": 108
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.77,
+    "dept_average_30d": 5.77,
+    "dept_rank": 422,
+    "dept_size": 885
+  }
+}

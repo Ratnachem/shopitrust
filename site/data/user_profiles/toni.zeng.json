@@ -1,0 +1,217 @@
+{
+  "username": "toni.zeng",
+  "name": "Toni Zeng",
+  "generated_at": "2026-04-08T20:22:18.215480",
+  "summary": {
+    "message_count": 225,
+    "channels_active": 16,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 6,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi, I created an <https://github.com/Shopify/shopify-mysqld-exporter/issues/205|issue> with your suggestions and my plan for implementation. I'm",
+          "channel": "katesql-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi, I created an <https://github.com/Shopify/shopify-mysqld-exporter/issues/205|issue> with your suggestions and my plan for implementation. I'm",
+          "channel": "katesql-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay thank you Josh!",
+          "channel": "inv-20922-shard-85possible-failed-failover",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I have to catch my train soon but let me know if you need anything",
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the confusion, I got it mixed up from when he was talking about single cluster deploys when deploying new commits. However, I guess we",
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":fyi: The <https://app.graphite.com/github/pr/shop/world/514442/Fix-ProxySQL-demultiplexing-in-index-size-query|fix> has been made to replace the",
+          "channel": "inv-20263-proxysql-multiplexing-disabled-pod-350",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "This is something I should've verified sooner, that's my bad.",
+          "channel": "temp-index-by-size-metric-rollout",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to join the channel: <#C0ALEQZR894>",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, we are discussing that metric. Currently we have it rolled out on 2 shards, but eventually we would like to roll it out on all of them. We're",
+          "channel": "help-observability",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.85,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "ryan.woodworth",
+          "count": 2
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 2
+        },
+        {
+          "user": "jonathan.gnagy",
+          "count": 2
+        },
+        {
+          "user": "frederic.boivin",
+          "count": 1
+        },
+        {
+          "user": "kush.patel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.55,
+      "count": 115,
+      "top_channels": [
+        {
+          "channel": "temp-index-by-size-metric-rollout",
+          "messages": 87
+        },
+        {
+          "channel": "tmp-core-mysql-scale-test-25mar2026",
+          "messages": 49
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 27
+        },
+        {
+          "channel": "help-observability",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "messages": 8
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20922-shard-85possible-failed-failover",
+          "messages": 6
+        },
+        {
+          "channel": "db-core-mysql-alerts",
+          "messages": 6
+        },
+        {
+          "channel": "db-core-mysql-staging",
+          "messages": 5
+        },
+        {
+          "channel": "proj-cleanup-events-table",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.14,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "josh.broughton",
+          "count": 11
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 2
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 2
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        },
+        {
+          "user": "aadi.sanghani",
+          "count": 1
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 28,
+      "16": 30,
+      "19": 40,
+      "18": 25,
+      "15": 26,
+      "22": 5,
+      "20": 29,
+      "21": 14,
+      "14": 18,
+      "13": 8,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 49,
+      "Tuesday": 59,
+      "Monday": 34,
+      "Thursday": 16,
+      "Friday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.67,
+    "dept_average_30d": 4.74,
+    "dept_rank": 733,
+    "dept_size": 1663
+  }
+}

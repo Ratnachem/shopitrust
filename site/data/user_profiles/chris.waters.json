@@ -1,0 +1,252 @@
+{
+  "username": "chris.waters",
+  "name": "Chris Waters",
+  "generated_at": "2026-04-08T20:22:20.899462",
+  "summary": {
+    "message_count": 128,
+    "channels_active": 13,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Okay, my bad I read the previous response incorrectly. It looks like `dev` is installed.",
+          "channel": "dev-up",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats everyone!\n\nSide note: the butter to bread size ratio looks deliciously excessive. :yum:",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "It's amazing how useful messages become that just a few hours ago didn't register at all. :sweat_smile:",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Can you take a look at checkout-web and create a hypothesis as to why a checkout in my local environment is in an eternal redirect",
+          "channel": "carts-river",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Good advice, <@W018PU3KT44>. Thank you. Updated zip below. :slightly_smiling_face:",
+          "channel": "inv-18863-merchant-customer-data-exposure",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":pr: <https://github.com/shop/world/pull/573143>\n\n<@U07H95NG11D> <@U02EHNQ1LG0> <@U03QNF477AB> <@W018PSJ3PKN> :point_up::skin-tone-3: I think I",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Maybe <@U03EZRAH3PT> can clarify the Oxygen caching question?\n\n&gt; They're asking if we are able to regenerate the Oxygen All Accounts Page",
+          "channel": "inv-18863-merchant-customer-data-exposure",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I'm rubbish at remembering `rig` names, and I couldn't find a `list` command (although my stupidity occasionally goes to eleven), so I added one, and",
+          "channel": "dev-up",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "harvir.rajasanci",
+          "count": 3
+        },
+        {
+          "user": "sylvain.hamann",
+          "count": 2
+        },
+        {
+          "user": "westin.wrzesinski",
+          "count": 1
+        },
+        {
+          "user": "niko.rutherford",
+          "count": 1
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 1
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 1
+        },
+        {
+          "user": "laurent.dang",
+          "count": 1
+        },
+        {
+          "user": "gord.pearson",
+          "count": 1
+        },
+        {
+          "user": "don.kelly",
+          "count": 1
+        },
+        {
+          "user": "danielius.visockas",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.67,
+      "count": 220,
+      "top_channels": [
+        {
+          "channel": "proj-universal-commerce-protocol",
+          "messages": 52
+        },
+        {
+          "channel": "dev-up",
+          "messages": 14
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 12
+        },
+        {
+          "channel": "checkout-carts-production-support",
+          "messages": 12
+        },
+        {
+          "channel": "carts-and-river",
+          "messages": 11
+        },
+        {
+          "channel": "inv-21071-cart-flaky-tests",
+          "messages": 7
+        },
+        {
+          "channel": "checkout-carts-team",
+          "messages": 7
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 4
+        },
+        {
+          "channel": "checkout-accounts-ux-river",
+          "messages": 3
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "niko.rutherford",
+          "count": 4
+        },
+        {
+          "user": "laurent.dang",
+          "count": 3
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 3
+        },
+        {
+          "user": "danielius.visockas",
+          "count": 3
+        },
+        {
+          "user": "peter.vandolen",
+          "count": 2
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 1
+        },
+        {
+          "user": "devon.meunier",
+          "count": 1
+        },
+        {
+          "user": "simona.klimaite",
+          "count": 1
+        },
+        {
+          "user": "alex.park",
+          "count": 1
+        },
+        {
+          "user": "emmanuel.milou",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 10,
+      "15": 27,
+      "14": 13,
+      "20": 8,
+      "19": 6,
+      "13": 12,
+      "11": 8,
+      "7": 1,
+      "10": 5,
+      "8": 1,
+      "21": 14,
+      "9": 6,
+      "17": 6,
+      "12": 8,
+      "22": 1,
+      "18": 2
+    },
+    "by_day": {
+      "Wednesday": 16,
+      "Tuesday": 35,
+      "Friday": 16,
+      "Thursday": 48,
+      "Monday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.73,
+    "dept_average_30d": 5.79,
+    "dept_rank": 613,
+    "dept_size": 1233
+  }
+}

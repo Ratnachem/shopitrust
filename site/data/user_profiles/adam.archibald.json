@@ -1,0 +1,271 @@
+{
+  "username": "adam.archibald",
+  "name": "Adam Archibald",
+  "generated_at": "2026-04-08T20:22:16.977999",
+  "summary": {
+    "message_count": 488,
+    "channels_active": 14,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "a bit of me was a little excited for my first incident on the team",
+          "channel": "mozart-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "great work fam :bufo-heart:",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ohhhh!  sorry i though\n&gt;  Ok cleaned up and submitted for review <@U02BKSEC1ME>\nment a PR to fix it!  :facepalm:  my bad",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "ya appreciate it!  if you see anything else wonky please let me know!",
+          "channel": "mozart-backoffice",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "posted a new update :bow: let me know if this reads better, it is also more resilient",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to fail validation on mutli bandit?",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "commented on the PR, let me know if you want to pair or need to me take over, totally up to you :slightly_smiling_face:",
+          "channel": "proj-mailgun-custom-domain",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03ATRN5EEA> let me know if we are good with this naming for the events",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "also i have been running this new claude review skill that is helping me walk through reviews, please let me know if any comment seems stupid, or",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "coolio, picking up the other one, let me know if there is anything else specific you need me on!",
+          "channel": "proj-mozart-bandits",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "also i have been running this new claude review skill that is helping me walk through reviews, please let me know if any comment seems stupid, or",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "mark.blum",
+          "count": 14
+        },
+        {
+          "user": "david.aminpriddle",
+          "count": 10
+        },
+        {
+          "user": "stephanie.lin",
+          "count": 7
+        },
+        {
+          "user": "robert.wang",
+          "count": 7
+        },
+        {
+          "user": "brett.marx",
+          "count": 5
+        },
+        {
+          "user": "tomas.echeverri",
+          "count": 3
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 3
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 3
+        },
+        {
+          "user": "patrick.crane",
+          "count": 2
+        },
+        {
+          "user": "juliana.andrada",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.56,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "mozart-engineering",
+          "messages": 99
+        },
+        {
+          "channel": "proj-mailgun-custom-domain",
+          "messages": 90
+        },
+        {
+          "channel": "proj-mozart-bandits",
+          "messages": 75
+        },
+        {
+          "channel": "inv-20783-mozart-brief-tcp-accept-queues-filled-up",
+          "messages": 74
+        },
+        {
+          "channel": "mozart-backoffice",
+          "messages": 47
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 37
+        },
+        {
+          "channel": "proj-mozart-sales-parity",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20932-mozart-journey-errors-causing-high-utiliz",
+          "messages": 12
+        },
+        {
+          "channel": "proj-mozart-store-summary-email",
+          "messages": 11
+        },
+        {
+          "channel": "help-exp",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "mark.blum",
+          "count": 10
+        },
+        {
+          "user": "david.aminpriddle",
+          "count": 10
+        },
+        {
+          "user": "robert.wang",
+          "count": 8
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 5
+        },
+        {
+          "user": "tomas.echeverri",
+          "count": 4
+        },
+        {
+          "user": "patrick.crane",
+          "count": 4
+        },
+        {
+          "user": "pior.bastida",
+          "count": 4
+        },
+        {
+          "user": "brett.marx",
+          "count": 3
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 3
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 27,
+      "15": 29,
+      "14": 59,
+      "23": 16,
+      "21": 28,
+      "19": 66,
+      "16": 62,
+      "18": 87,
+      "13": 28,
+      "20": 56,
+      "22": 25,
+      "1": 1,
+      "11": 2,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 52,
+      "Tuesday": 127,
+      "Thursday": 85,
+      "Monday": 93,
+      "Friday": 131
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.87,
+    "dept_average_30d": 5.58,
+    "dept_rank": 151,
+    "dept_size": 398
+  }
+}

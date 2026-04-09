@@ -1,0 +1,263 @@
+{
+  "username": "daniel.redmond",
+  "name": "Daniel Redmond",
+  "generated_at": "2026-04-08T20:22:16.328791",
+  "summary": {
+    "message_count": 69,
+    "channels_active": 11,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.7,
+      "pos_count": 16,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "^^ FYI: my local agent is getting too assertive..  That was :robot-4:  above.\n\nThanks!  I was doing something like:\n\u2022 Hit CentML API\n\u2022 Get Observe",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Both of Rich's review comments were addressed yesterday (commit 941de5d4) \u2014 FLINK_UPGRADE_MODE set to stateless and the FlinkDeployment patch added.",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0A337HEKFV> can you Approve if looks good?  We are blocked from setting up new Flink, which we need for moving forward, thanks!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Team :wave-hand: We have an infrastructure PR for a new *Flink SQL batch runtime* for Buyer HSTU inference (CentML migration).\n\nCould someone from",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":pr: <https://github.com/Shopify/disco-flink/pull/4229|Remove legacy generative-recommenders-inference Python pipeline#4229>\n:approve: but need",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":centml: :green-alert: *CentML GPUs sitting unused*\n\n*Issue:* Need H100 etc. for testing purposes for development.\n*Problem:* `37 deployments sitting",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I missed this live incident yesterday while dealing with a family medical appointment. I\u2019ve caught up on investigation #20985 now. Thanks for",
+          "channel": "inv-20985-20260401-recs-inference-restarting-becaus",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hi <@W018PU3LVNY>, I can help with this today\n\nHas the `kroxy-staging` infra PR merged and is the  key is available yet?  When done, we have a draft",
+          "channel": "recommendations-infra",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "The CentML run is using an older checkpoint, but was testing with data from yesterday's prod run.  For next step of parity, will need to run the",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "divine.jojolola",
+          "count": 3
+        },
+        {
+          "user": "rich.chen",
+          "count": 3
+        },
+        {
+          "user": "ali.khanafer",
+          "count": 2
+        },
+        {
+          "user": "akshay.soni",
+          "count": 2
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 2
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 1
+        },
+        {
+          "user": "zac.roberts",
+          "count": 1
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 1
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 1
+        },
+        {
+          "user": "guy.cole",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "recommendations-generative-recs",
+          "messages": 21
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 15
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 11
+        },
+        {
+          "channel": "proj-cleanup-nas",
+          "messages": 8
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 5
+        },
+        {
+          "channel": "inv-20985-20260401-recs-inference-restarting-becaus",
+          "messages": 2
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 2
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 2
+        },
+        {
+          "channel": "recommendations-team-experiments",
+          "messages": 1
+        },
+        {
+          "channel": "streaming-compute-alerts",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.71,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "rich.chen",
+          "count": 12
+        },
+        {
+          "user": "divine.jojolola",
+          "count": 6
+        },
+        {
+          "user": "ali.khanafer",
+          "count": 5
+        },
+        {
+          "user": "guy.cole",
+          "count": 5
+        },
+        {
+          "user": "omer.barsade",
+          "count": 3
+        },
+        {
+          "user": "akshay.soni",
+          "count": 2
+        },
+        {
+          "user": "tom.rochette",
+          "count": 2
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 1
+        },
+        {
+          "user": "alexander.brasil",
+          "count": 1
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 12,
+      "19": 2,
+      "18": 11,
+      "15": 8,
+      "14": 7,
+      "22": 1,
+      "20": 10,
+      "16": 10,
+      "21": 2,
+      "0": 2,
+      "6": 1,
+      "13": 1,
+      "3": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Tuesday": 21,
+      "Monday": 22,
+      "Friday": 4,
+      "Thursday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.69,
+    "dept_average_30d": 5.79,
+    "dept_rank": 633,
+    "dept_size": 1233
+  }
+}

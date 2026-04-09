@@ -1,0 +1,261 @@
+{
+  "username": "rafael.seemann",
+  "name": "Rafael Seemann",
+  "generated_at": "2026-04-08T20:22:14.071679",
+  "summary": {
+    "message_count": 363,
+    "channels_active": 21,
+    "unique_people_mentioned": 50,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 8,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the extra context, <@U02EY4LSJJJ>, it's something that will be evaluated together with the current occurrence",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, checking your comment",
+          "channel": "shop-data",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the feedback, folks. I redid the analysis and the way we're evaluating usage and indeed the view count wasn't correct. I now fixed it",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Very well, thank you <@U045E0RQ3JM>",
+          "channel": "shop-data-alerts",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I was doing changes to other tables (+100) and then had to extract some tracker tables from that PR to fix something with more urgency and made some",
+          "channel": "shop-tracking-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "oh, now it's the second on that is failing, lemme get that. Sorry about that",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, <@U03RYRWRL8Z>, i'm going to address those",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "truth be told we had a copy in BQ, of the mysql one, but they're the same - so we could've. My bad, I didn't think it mattered in the case of a full",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "If a model needs to still needs to read `user_id` for some time, maybe because it still joins on monorail events that are still on `user_id` or",
+          "channel": "proj-mm-yugabyte-migration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I asked Claude to find the logs and he wasn't able to. I told it to think of whys the job could be failing, tho, and this is what I got. I don't have",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 51,
+      "top_mentioned": [
+        {
+          "user": "ben.labenski",
+          "count": 13
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 10
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 10
+        },
+        {
+          "user": "constantino.schillebeeckx",
+          "count": 6
+        },
+        {
+          "user": "yang.gao",
+          "count": 6
+        },
+        {
+          "user": "selina.li",
+          "count": 5
+        },
+        {
+          "user": "marcolivier.arsenault",
+          "count": 5
+        },
+        {
+          "user": "benjamin.allevius",
+          "count": 5
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 4
+        },
+        {
+          "user": "narendra.shetty",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.35,
+      "count": 309,
+      "top_channels": [
+        {
+          "channel": "shop-data-dev",
+          "messages": 104
+        },
+        {
+          "channel": "shop-data-alerts",
+          "messages": 99
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 57
+        },
+        {
+          "channel": "shop-data",
+          "messages": 44
+        },
+        {
+          "channel": "recommendations-generative-recs",
+          "messages": 10
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 9
+        },
+        {
+          "channel": "proj-mm-yugabyte-migration",
+          "messages": 6
+        },
+        {
+          "channel": "shop-tracking-ops",
+          "messages": 6
+        },
+        {
+          "channel": "shop-agent-eng",
+          "messages": 5
+        },
+        {
+          "channel": "pi",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 77,
+      "top_mentioners": [
+        {
+          "user": "ben.labenski",
+          "count": 8
+        },
+        {
+          "user": "rafael.schulman",
+          "count": 8
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 8
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 6
+        },
+        {
+          "user": "constantino.schi-7983",
+          "count": 6
+        },
+        {
+          "user": "rita.marmiene",
+          "count": 4
+        },
+        {
+          "user": "benjamin.allevius",
+          "count": 4
+        },
+        {
+          "user": "jared.eccles",
+          "count": 4
+        },
+        {
+          "user": "selina.li",
+          "count": 3
+        },
+        {
+          "user": "sireesha.pulipati",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 42,
+      "17": 48,
+      "16": 57,
+      "14": 56,
+      "13": 33,
+      "20": 28,
+      "11": 1,
+      "22": 11,
+      "19": 30,
+      "15": 25,
+      "12": 32
+    },
+    "by_day": {
+      "Wednesday": 84,
+      "Tuesday": 68,
+      "Monday": 88,
+      "Friday": 39,
+      "Thursday": 84
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.14,
+    "dept_average_30d": 5.86,
+    "dept_rank": 67,
+    "dept_size": 166
+  }
+}

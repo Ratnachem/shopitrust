@@ -1,0 +1,101 @@
+{
+  "username": "hunter.vanburen",
+  "name": "Hunter Vanburen",
+  "generated_at": "2026-04-08T20:22:31.288883",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 4,
+    "days_in_window": 14,
+    "days_scale": 0.61
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018PTAM8SY>",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.75,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "marly.suarez",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.86,
+      "count": 62,
+      "top_channels": [
+        {
+          "channel": "startup-alum",
+          "messages": 3
+        },
+        {
+          "channel": "help-copilot",
+          "messages": 3
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.71,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "kris.bethea",
+          "count": 2
+        },
+        {
+          "user": "melanie.zieba",
+          "count": 1
+        },
+        {
+          "user": "torina.hopfauf",
+          "count": 1
+        },
+        {
+          "user": "marly.suarez",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 2,
+      "20": 3,
+      "18": 1,
+      "19": 1,
+      "17": 1
+    },
+    "by_day": {
+      "Tuesday": 4,
+      "Monday": 2,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.88,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1284,
+    "dept_size": 1663
+  }
+}

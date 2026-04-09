@@ -1,0 +1,129 @@
+{
+  "username": "niall.obrien",
+  "name": "Niall Obrien",
+  "generated_at": "2026-04-08T20:22:31.475710",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 18,
+    "days_scale": 0.78
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team \u2014 I'm getting `access_denied: User is not assigned to the application` when vault-mcp tries to authenticate via the HTTP MCP endpoint",
+          "channel": "model-context-protocol",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Team, logged a request for sdp-pii permit this am. Let me know if anymore context needed around why I need it etc?",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0234NTKE4S> this worked !",
+          "channel": "claude-code",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.74,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "edmond.cotterell",
+          "count": 2
+        },
+        {
+          "user": "manoli.penalopez",
+          "count": 1
+        },
+        {
+          "user": "kevan.davis",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.94,
+      "count": 102,
+      "top_channels": [
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 3
+        },
+        {
+          "channel": "claude-code",
+          "messages": 3
+        },
+        {
+          "channel": "model-context-protocol",
+          "messages": 1
+        },
+        {
+          "channel": "rev-gen-teams",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.6,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "cameron.finnell",
+          "count": 2
+        },
+        {
+          "user": "risa.yamazaki",
+          "count": 2
+        },
+        {
+          "user": "laura.miller",
+          "count": 1
+        },
+        {
+          "user": "manoli.penalopez",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "16": 2,
+      "22": 1,
+      "12": 1,
+      "19": 1,
+      "11": 1,
+      "10": 1
+    },
+    "by_day": {
+      "Monday": 6,
+      "Thursday": 1,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.9,
+    "dept_average_30d": 4.74,
+    "dept_rank": 597,
+    "dept_size": 1663
+  }
+}

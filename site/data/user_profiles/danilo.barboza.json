@@ -1,0 +1,256 @@
+{
+  "username": "danilo.barboza",
+  "name": "Danilo Barboza",
+  "generated_at": "2026-04-08T20:22:30.603742",
+  "summary": {
+    "message_count": 219,
+    "channels_active": 28,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 23,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats <@U03LNPMRELT>!!! Very well deserved!",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018B08327Q> :wave::skin-tone-4: Hey thanks for being available to review this project from a Security perspective.\n\nBasically, this project aims",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks <@U02593J3EPR> <@U02JTHYP4T1> <@W0197J5L81W>\n\nCan you please clarify the process to update these duplicate synthetic tests or if that is",
+          "channel": "resiliency-enterprise-sre-team",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks, can I get an expedite review on making my flag operational? <https://github.com/shop/issues-measure/issues/1387>\n\nThis is currently",
+          "channel": "help-exp",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So this will be the PR that would also gate the remember me experience in guest checkout to whatever we decide post experiments?",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; still moving forward we probably want to not show any opt in solution (also applies to control) right?\nI think in these cases we would need to",
+          "channel": "proj-create-shop-accounts-for-all-pay-checkouts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yep, but in any case we need to see also how to get this whatever method we need to be:\n1. As accurate as possible \n2. Accessible from `shop-server`",
+          "channel": "proj-auth-via-app",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Thanks <@U08TUQY4GUA>! What are the next steps now?\n\nWe still don't have the feature live, but would love for us to discuss if this makes sense and",
+          "channel": "help-appsec",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yep, right now we do it only on phone verification, where we set the \"pay registered at\" if the user isn't already \"pay registered\". The logic for",
+          "channel": "shop-accounts-signin",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "reinis.babris",
+          "count": 15
+        },
+        {
+          "user": "john.datserakis",
+          "count": 15
+        },
+        {
+          "user": "saman.amirpour",
+          "count": 11
+        },
+        {
+          "user": "charles.mccauley",
+          "count": 11
+        },
+        {
+          "user": "jason.paidoussi",
+          "count": 8
+        },
+        {
+          "user": "robertas.godelis",
+          "count": 6
+        },
+        {
+          "user": "joel.antoci",
+          "count": 6
+        },
+        {
+          "user": "lucas.marcotterichardson",
+          "count": 5
+        },
+        {
+          "user": "zack.deveau",
+          "count": 5
+        },
+        {
+          "user": "max.rais",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.52,
+      "count": 304,
+      "top_channels": [
+        {
+          "channel": "inc-19886-shop-js-checkout-modal-coversion-rate-is",
+          "messages": 38
+        },
+        {
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "messages": 34
+        },
+        {
+          "channel": "shop-accounts-signin",
+          "messages": 27
+        },
+        {
+          "channel": "proj-shop-web-auth-uplift",
+          "messages": 27
+        },
+        {
+          "channel": "proj-shop-identity-increase-security",
+          "messages": 15
+        },
+        {
+          "channel": "proj-create-shop-accounts-for-all-pay-checkouts",
+          "messages": 12
+        },
+        {
+          "channel": "proj-auth-via-app",
+          "messages": 6
+        },
+        {
+          "channel": "proj-optimize-checkout-field-defaults",
+          "messages": 6
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 5
+        },
+        {
+          "channel": "temp-auth-via-app",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.47,
+      "count": 64,
+      "top_mentioners": [
+        {
+          "user": "max.rais",
+          "count": 11
+        },
+        {
+          "user": "reinis.babris",
+          "count": 11
+        },
+        {
+          "user": "joel.antoci",
+          "count": 8
+        },
+        {
+          "user": "john.datserakis",
+          "count": 4
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 3
+        },
+        {
+          "user": "lucas.marcotteri-2747",
+          "count": 3
+        },
+        {
+          "user": "lucas.marcotteri-2353",
+          "count": 2
+        },
+        {
+          "user": "saman.amirpour",
+          "count": 2
+        },
+        {
+          "user": "michael.bottens",
+          "count": 2
+        },
+        {
+          "user": "arya.patel",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 33,
+      "14": 26,
+      "10": 19,
+      "13": 16,
+      "12": 24,
+      "11": 22,
+      "19": 17,
+      "9": 20,
+      "8": 11,
+      "16": 23,
+      "20": 3,
+      "17": 4,
+      "18": 1
+    },
+    "by_day": {
+      "Thursday": 41,
+      "Wednesday": 59,
+      "Tuesday": 64,
+      "Monday": 27,
+      "Friday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.5,
+    "dept_average_30d": 4.74,
+    "dept_rank": 98,
+    "dept_size": 1663
+  }
+}

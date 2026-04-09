@@ -1,0 +1,92 @@
+{
+  "username": "brandon.mcgrath",
+  "name": "Brandon Mcgrath",
+  "generated_at": "2026-04-08T20:22:31.641896",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great, thank you!!",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Vladimir, sounds good! I'll wait to see if it refreshes on Monday thank you!",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Sameer, sounds good thank you!",
+          "channel": "help-onboarding-foundations",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 3.07,
+      "count": 81,
+      "top_channels": [
+        {
+          "channel": "help-lending-engineering",
+          "messages": 12
+        },
+        {
+          "channel": "help-onboarding-foundations",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "sameer.patel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 2,
+      "17": 5,
+      "16": 5,
+      "15": 3
+    },
+    "by_day": {
+      "Friday": 6,
+      "Monday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.71,
+    "dept_average_30d": 4.32,
+    "dept_rank": 686,
+    "dept_size": 848
+  }
+}

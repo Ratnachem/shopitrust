@@ -1,0 +1,110 @@
+{
+  "username": "harsh.singh",
+  "name": "Harsh Singh",
+  "generated_at": "2026-04-08T20:22:30.253314",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi, can I get review on tiny <https://github.com/Shopify/terraform-the-cloud/pull/56127|PR> to grant tangle-runner SA artifact registry reader",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "cindy.zhu",
+          "count": 2
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 1
+        },
+        {
+          "user": "maxim.ezhov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.45,
+      "count": 91,
+      "top_channels": [
+        {
+          "channel": "tangle",
+          "messages": 7
+        },
+        {
+          "channel": "help-commercial-optimization",
+          "messages": 5
+        },
+        {
+          "channel": "proj-data-ltv-tangle-migration",
+          "messages": 2
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "henrique.aveiro",
+          "count": 5
+        },
+        {
+          "user": "cindy.zhu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "18": 3,
+      "15": 3,
+      "23": 1,
+      "16": 2,
+      "14": 1,
+      "13": 2,
+      "19": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Thursday": 7,
+      "Monday": 1,
+      "Friday": 1,
+      "Wednesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.4,
+    "dept_average_30d": 5.39,
+    "dept_rank": 221,
+    "dept_size": 272
+  }
+}

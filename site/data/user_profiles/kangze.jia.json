@@ -1,0 +1,277 @@
+{
+  "username": "kangze.jia",
+  "name": "Kangze Jia",
+  "generated_at": "2026-04-08T20:22:13.740743",
+  "summary": {
+    "message_count": 709,
+    "channels_active": 23,
+    "unique_people_mentioned": 42,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 24,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good! Thanks!",
+          "channel": "proj-verdict-performance",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh, thanks!",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Nice!!! Thanks!\nI remember you mentioned we need to get approval from Chao to enable this optimization? Did he have any concern? Can we enable it now?",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U02CJJWFDRA> Thanks! Let me check the dev who deleted the config where the gap was.",
+          "channel": "help-exp",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> Can you please propose to fix these pipelines to get rid of the inconsistencies? For example, we should disable these pipelines first.",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\nThe shopify-build codebase is at <https://github.com/Shopify/shopify-build> . Please clone the latest one to e.g. /tmp. feel free to",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Are you still there?\nThe shopify-build codebase is at <https://github.com/Shopify/shopify-build> . Please clone the latest version to",
+          "channel": "kangze-river-private",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\n1. The shopify-build codebase is at <https://github.com/Shopify/shopify-build> . Please clone the latest one to e.g. /tmp. feel free",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\n1. The shopify-build codebase is at <https://github.com/Shopify/shopify-build> . Please clone the latest version to e.g. /tmp. Feel",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U025QKW329H> <@W018PSZ70FN>\n\nFYI: I made the following change : <https://app.graphite.com/github/pr/shop/world/537053?mode=tour>\n\nBackground\n&gt;",
+          "channel": "proj-fast-n-cost-effective-ci",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "To be simple, for the mq consistent failure auto quarantine, can we only check the failed buildkite builds?\nIf the build succeeds, the failed test",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "chao.duan",
+          "count": 24
+        },
+        {
+          "user": "abdelaziz.ragab",
+          "count": 22
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 15
+        },
+        {
+          "user": "ben.maynard",
+          "count": 15
+        },
+        {
+          "user": "greg.dodd",
+          "count": 13
+        },
+        {
+          "user": "vishnu.arun",
+          "count": 13
+        },
+        {
+          "user": "ryan.woodworth",
+          "count": 7
+        },
+        {
+          "user": "evan.lee",
+          "count": 7
+        },
+        {
+          "user": "xiao.li",
+          "count": 6
+        },
+        {
+          "user": "marvin.davila",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.01,
+      "count": 238,
+      "top_channels": [
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 295
+        },
+        {
+          "channel": "kangze-river-private",
+          "messages": 147
+        },
+        {
+          "channel": "proj-mq-p90-stabilization",
+          "messages": 108
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 31
+        },
+        {
+          "channel": "gitstream",
+          "messages": 29
+        },
+        {
+          "channel": "help-observability",
+          "messages": 24
+        },
+        {
+          "channel": "proj-fast-n-cost-effective-ci",
+          "messages": 16
+        },
+        {
+          "channel": "inv-21193-ci-controller-is-ooming",
+          "messages": 8
+        },
+        {
+          "channel": "help-exp",
+          "messages": 8
+        },
+        {
+          "channel": "inv-19759-ci-cluster-maxed-out",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 162,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 57
+        },
+        {
+          "user": "abdelaziz.ragab",
+          "count": 22
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 10
+        },
+        {
+          "user": "xiaodong.fan",
+          "count": 8
+        },
+        {
+          "user": "ben.maynard",
+          "count": 8
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 6
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 4
+        },
+        {
+          "user": "evan.lee",
+          "count": 4
+        },
+        {
+          "user": "vishnu.arun",
+          "count": 3
+        },
+        {
+          "user": "marvin.davila",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 53,
+      "16": 55,
+      "15": 15,
+      "14": 9,
+      "5": 57,
+      "4": 80,
+      "2": 37,
+      "0": 23,
+      "23": 51,
+      "22": 49,
+      "20": 58,
+      "19": 29,
+      "17": 70,
+      "6": 41,
+      "1": 7,
+      "21": 46,
+      "13": 2,
+      "3": 19,
+      "8": 1,
+      "7": 7
+    },
+    "by_day": {
+      "Wednesday": 124,
+      "Tuesday": 205,
+      "Monday": 105,
+      "Friday": 143,
+      "Thursday": 132
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.32,
+    "dept_average_30d": 5.75,
+    "dept_rank": 82,
+    "dept_size": 357
+  }
+}

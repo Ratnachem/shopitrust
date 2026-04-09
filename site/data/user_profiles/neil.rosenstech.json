@@ -1,0 +1,283 @@
+{
+  "username": "neil.rosenstech",
+  "name": "Neil Rosenstech",
+  "generated_at": "2026-04-08T20:22:26.977167",
+  "summary": {
+    "message_count": 253,
+    "channels_active": 19,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok thank you! I'll give it another shot this pm",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Same, thank you <@W018HM7BBV0> and team!",
+          "channel": "dev-up",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it thank you",
+          "channel": "river",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> we don't care about the original TypeError behaviour, if there is a test that expected this behaviour and that's what prevented you",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> You've made large changes to <https://app.graphite.com/github/pr/shop/world/550104>, they fall outside of the scope of simply updating",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes and no, it means the package depends on Shopify as a whole being in a particular state for the test to be meaningful, basically the same as",
+          "channel": "deliver-eng",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "That I can get behind for sure, but before you'd have 2 reviewers checking for whether it's the right approach, is it even needed, is it at the right",
+          "channel": "deliver-eng",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If you do this, mobile can use whatever reason they want, it won't matter because it will be overridden.",
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The only alternative I see would be for someone to implement a hack so that they pass in whatever and in the backend it gets overridden",
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> The last thing you pushed broke the PR in a bad way, revert that, whatever that is. Do not fix forward, instead use git commands to",
+          "channel": "anduin",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "frank.jiao",
+          "count": 6
+        },
+        {
+          "user": "christine.belan",
+          "count": 2
+        },
+        {
+          "user": "dane.carr",
+          "count": 2
+        },
+        {
+          "user": "hisham.kalban",
+          "count": 2
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 2
+        },
+        {
+          "user": "kirsten.westeinde",
+          "count": 1
+        },
+        {
+          "user": "kelsey.law",
+          "count": 1
+        },
+        {
+          "user": "swati.swoboda",
+          "count": 1
+        },
+        {
+          "user": "israel.valverde",
+          "count": 1
+        },
+        {
+          "user": "nick.presta",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.8,
+      "count": 280,
+      "top_channels": [
+        {
+          "channel": "inventory-penguins",
+          "messages": 116
+        },
+        {
+          "channel": "anduin",
+          "messages": 40
+        },
+        {
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "messages": 22
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 15
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 15
+        },
+        {
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "messages": 10
+        },
+        {
+          "channel": "deliver-eng",
+          "messages": 8
+        },
+        {
+          "channel": "devs-ask-quick-questions",
+          "messages": 7
+        },
+        {
+          "channel": "proj-migrate-states-to-groups",
+          "messages": 4
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "justin.bicknell",
+          "count": 8
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 6
+        },
+        {
+          "user": "laura.aubin",
+          "count": 3
+        },
+        {
+          "user": "yiyi.dai",
+          "count": 2
+        },
+        {
+          "user": "christine.belan",
+          "count": 2
+        },
+        {
+          "user": "kirsten.westeinde",
+          "count": 2
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 1
+        },
+        {
+          "user": "swati.swoboda",
+          "count": 1
+        },
+        {
+          "user": "israel.valverde",
+          "count": 1
+        },
+        {
+          "user": "nick.presta",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 20,
+      "19": 30,
+      "14": 7,
+      "22": 4,
+      "18": 18,
+      "15": 54,
+      "21": 15,
+      "17": 57,
+      "16": 39,
+      "13": 2,
+      "5": 1,
+      "4": 6
+    },
+    "by_day": {
+      "Tuesday": 39,
+      "Monday": 37,
+      "Thursday": 84,
+      "Wednesday": 54,
+      "Friday": 39
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.63,
+    "dept_average_30d": 5.79,
+    "dept_rank": 45,
+    "dept_size": 1233
+  }
+}

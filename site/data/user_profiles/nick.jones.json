@@ -1,0 +1,275 @@
+{
+  "username": "nick.jones",
+  "name": "Nick Jones",
+  "generated_at": "2026-04-08T20:22:21.436928",
+  "summary": {
+    "message_count": 377,
+    "channels_active": 20,
+    "unique_people_mentioned": 47,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "&gt; Don't hesitate: email <mailto:urgent-shopify@stripe.com|urgent-shopify@stripe.com>, cc",
+          "channel": "inc-21132-b2b-cannot-add-bank-account-in-customer-a",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the \"why we're doing this link\"!",
+          "channel": "payments-crossborder-incident-room",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Is there an incident or thread I can follow along with?",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@W0197HZL0FJ>! I was wondering if you could help us here. We're looking for the correct details to provide to our network tokenization partner,",
+          "channel": "proj-payments-shop-pay-network-tokenization",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "This data is partitioned by owner type. We have some shop scoped owner types (like customer, company location) and we have some non-shop scoped owner",
+          "channel": "pp-vaulting-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Great, drop me a message when you're back! Good luck :dentist-intensifies:",
+          "channel": "help-ris",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W0183118NDV> <@U01TR1260RJ> Ok, you want me to go ahead and rebase? Gimme a :check: each on this message and I'll go ahead!",
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Latency: these numbers are largely useless given the \"network latency\" aspect. It's now a case of `vgsLatency + networkLatency = sla` and therefore",
+          "channel": "proj-payments-shop-pay-network-tokenization",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> We need to find a different data source here if we can't figure it out from the table we're using. I need accurate numbers.",
+          "channel": "proj-payments-shop-pay-network-tokenization",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm happy to do whatever is quickest. If you want to merge directly to main, I'll rebase and run through CI again.",
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 54,
+      "top_mentioned": [
+        {
+          "user": "bryce.jones",
+          "count": 11
+        },
+        {
+          "user": "barry.simunovic",
+          "count": 7
+        },
+        {
+          "user": "eduardo.jolo",
+          "count": 6
+        },
+        {
+          "user": "qi.chen",
+          "count": 5
+        },
+        {
+          "user": "tadas.scerbinskas",
+          "count": 5
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 5
+        },
+        {
+          "user": "curtis.thompson",
+          "count": 3
+        },
+        {
+          "user": "dakota.yetman",
+          "count": 3
+        },
+        {
+          "user": "harry.venables",
+          "count": 3
+        },
+        {
+          "user": "mark.levidayyan",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.67,
+      "count": 220,
+      "top_channels": [
+        {
+          "channel": "proj-payments-shop-pay-network-tokenization",
+          "messages": 91
+        },
+        {
+          "channel": "inc-21132-b2b-cannot-add-bank-account-in-customer-a",
+          "messages": 51
+        },
+        {
+          "channel": "proj-shop-wallet-global-vault-migration",
+          "messages": 50
+        },
+        {
+          "channel": "pp-vaulting-internal",
+          "messages": 48
+        },
+        {
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "messages": 29
+        },
+        {
+          "channel": "support-case-332",
+          "messages": 19
+        },
+        {
+          "channel": "help-ris",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20782-b2b-customer-account-login-issue",
+          "messages": 16
+        },
+        {
+          "channel": "pp-vaulting-team",
+          "messages": 14
+        },
+        {
+          "channel": "proj-payments-global-vault-payments",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 127,
+      "top_mentioners": [
+        {
+          "user": "dakota.yetman",
+          "count": 14
+        },
+        {
+          "user": "eduardo.jolo",
+          "count": 14
+        },
+        {
+          "user": "bryce.jones",
+          "count": 11
+        },
+        {
+          "user": "tadas.scerbinskas",
+          "count": 8
+        },
+        {
+          "user": "qi.chen",
+          "count": 7
+        },
+        {
+          "user": "barry.simunovic",
+          "count": 7
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 6
+        },
+        {
+          "user": "mark.levidayyan",
+          "count": 5
+        },
+        {
+          "user": "marcin.drozd",
+          "count": 5
+        },
+        {
+          "user": "harry.venables",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 42,
+      "14": 26,
+      "10": 17,
+      "9": 28,
+      "8": 7,
+      "20": 20,
+      "19": 25,
+      "18": 24,
+      "17": 69,
+      "16": 39,
+      "21": 26,
+      "12": 15,
+      "22": 3,
+      "13": 21,
+      "11": 8,
+      "6": 1,
+      "5": 5,
+      "7": 1
+    },
+    "by_day": {
+      "Wednesday": 65,
+      "Friday": 143,
+      "Thursday": 64,
+      "Tuesday": 78,
+      "Monday": 27
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.43,
+    "dept_average_30d": 5.77,
+    "dept_rank": 139,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "username": "edouard.chin",
+  "name": "Edouard Chin",
+  "generated_at": "2026-04-08T20:22:10.565211",
+  "summary": {
+    "message_count": 208,
+    "channels_active": 18,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok thank you",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; So the ask would be, make a blik transaction on <https://bigbrains.co/en> with Shop Pay\nDo you want me to checkout using the \"Checkout\" button",
+          "channel": "proj-payment-method-unification-and-expansion",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U092LULCBBN> :pray: !",
+          "channel": "shared-shopify-cloudsmith",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey:wave:! I think it would be best to ask the dev infra team. They will confirm whether the `prd-s8d-dev-cb-1e4f` google project is the best fit to",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Just a FYI if anyone is working on the new setup mutation guard thing, I shipped a small change <https://github.com/shop/world/pull/577472> that will",
+          "channel": "proj-eng-fast-core-tests",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "When I worked on cibuildgem I encountered an issue that may be worth thinking about for the build farm.\nIf for whatever reason the build farm pushes",
+          "channel": "proj-better-support-for-rg-native-ext",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "My impression is that tests should not use redis at all (unless super specific use case). Even if we make redis super cheap, it still feels a wrong",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ah that's a cool idea ! We are instantiating so may Version object, that would be a win. I'll have to check if other part of the resolver requires",
+          "channel": "proj-faster-bundler",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I first told autoresearch to be creative and didn't provide much instructions on how to solve the problem (I had ideas but didn't want to influence",
+          "channel": "proj-faster-bundler",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I'll try asking Claude to dump the flags on a Ruby that compile quickly and do the same on a Ruby that is slow, maybe it can figure it out with a diff",
+          "channel": "proj-faster-bundler",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "eileen.uchitelle",
+          "count": 3
+        },
+        {
+          "user": "shashi.gonugunta",
+          "count": 3
+        },
+        {
+          "user": "hartley.mcguire",
+          "count": 2
+        },
+        {
+          "user": "jacoby.joukema",
+          "count": 1
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        },
+        {
+          "user": "kangze.jia",
+          "count": 1
+        },
+        {
+          "user": "aaron.patterson",
+          "count": 1
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.5,
+      "count": 264,
+      "top_channels": [
+        {
+          "channel": "proj-faster-bundler",
+          "messages": 72
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 45
+        },
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 17
+        },
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 15
+        },
+        {
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "messages": 15
+        },
+        {
+          "channel": "proj-payment-method-unification-and-expansion",
+          "messages": 7
+        },
+        {
+          "channel": "team-ruby-dx",
+          "messages": 6
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 5
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 4
+        },
+        {
+          "channel": "proj-eng-fast-core-tests",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "sebastian.motraghi",
+          "count": 4
+        },
+        {
+          "user": "abdelaziz.ragab",
+          "count": 3
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 3
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 2
+        },
+        {
+          "user": "eileen.uchitelle",
+          "count": 2
+        },
+        {
+          "user": "ani.tumanyan",
+          "count": 2
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 1
+        },
+        {
+          "user": "ian.kerseymer",
+          "count": 1
+        },
+        {
+          "user": "nuno.silva",
+          "count": 1
+        },
+        {
+          "user": "jesse.sharps",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 16,
+      "17": 17,
+      "15": 25,
+      "14": 34,
+      "11": 15,
+      "20": 6,
+      "13": 16,
+      "12": 31,
+      "10": 2,
+      "23": 8,
+      "19": 5,
+      "2": 1,
+      "0": 13,
+      "16": 6,
+      "21": 2,
+      "1": 4,
+      "22": 7
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 27,
+      "Friday": 23,
+      "Thursday": 67,
+      "Monday": 31
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.71,
+    "dept_average_30d": 5.75,
+    "dept_rank": 165,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "username": "jason.liu",
+  "name": "Jason Liu",
+  "generated_at": "2026-04-08T20:22:24.299951",
+  "summary": {
+    "message_count": 33,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "Really excited to share that support for Yugabyte :yugabyte: is now running on Query Engine Production! We're expecting users to start defining views",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "seif.ghazi",
+          "count": 5
+        },
+        {
+          "user": "kevin.lam",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.56,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "query-engine-dev",
+          "messages": 29
+        },
+        {
+          "channel": "proj-semantic-query-engine-ops",
+          "messages": 3
+        },
+        {
+          "channel": "intern-everyone",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "giselle.cardinal",
+          "count": 1
+        },
+        {
+          "user": "kevin.lam",
+          "count": 1
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 6,
+      "21": 2,
+      "14": 5,
+      "18": 4,
+      "19": 7,
+      "20": 5,
+      "12": 3,
+      "16": 1
+    },
+    "by_day": {
+      "Wednesday": 6,
+      "Tuesday": 3,
+      "Monday": 4,
+      "Friday": 9,
+      "Thursday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.14,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1188,
+    "dept_size": 1233
+  }
+}

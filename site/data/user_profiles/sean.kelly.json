@@ -1,0 +1,235 @@
+{
+  "username": "sean.kelly",
+  "name": "Sean Kelly",
+  "generated_at": "2026-04-08T20:22:19.353742",
+  "summary": {
+    "message_count": 198,
+    "channels_active": 23,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Fix merging now, sorry about that. I changed it but someone or something switched it back, probably a rogue agent :ghost:",
+          "channel": "sf-xo-b2b-merch-critical-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yeah so I can give a brief summary of the model's decisions. Let me know if you want a more in depth report:\n\ntl;dr: The network commerce signals are",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; if you plan on storing PII for more than 30 days\nI do not planning on storing PII for more than 30 days, in fact, I will probably set the TTLs",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Okay looks like it's running on prod, that was the issue. Thanks!",
+          "channel": "tangle",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Just FYI created <https://github.com/Shopify/discovery/issues/28703|this issue> with tangle-deploy a few days ago.\n\n&gt; When using",
+          "channel": "tangle",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can we add an <https://github.com/Shopify/sdp-storefronts/blob/main/dbt/dbt_project.yml#L121-L125|entry here>\n\n```intermediate:\n  bots (or whatever",
+          "channel": "core-storefronts",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "adam.ziolkowski",
+          "count": 8
+        },
+        {
+          "user": "scott.mcneil",
+          "count": 5
+        },
+        {
+          "user": "michael.harris",
+          "count": 3
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 2
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 2
+        },
+        {
+          "user": "brandon.tu",
+          "count": 2
+        },
+        {
+          "user": "josh.teeter",
+          "count": 1
+        },
+        {
+          "user": "marc.laforet",
+          "count": 1
+        },
+        {
+          "user": "sean.guntvedt",
+          "count": 1
+        },
+        {
+          "user": "ratna.chembrolu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.54,
+      "count": 319,
+      "top_channels": [
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 84
+        },
+        {
+          "channel": "core-storefronts",
+          "messages": 16
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 15
+        },
+        {
+          "channel": "tangle",
+          "messages": 12
+        },
+        {
+          "channel": "human-bot-signals-data-goalie",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-river-forum",
+          "messages": 8
+        },
+        {
+          "channel": "sf-xo-b2b-merch-critical-alerts",
+          "messages": 6
+        },
+        {
+          "channel": "proj-ddos-protection",
+          "messages": 6
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 6
+        },
+        {
+          "channel": "sf-xo-b2b-merch-data-platform",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 79,
+      "top_mentioners": [
+        {
+          "user": "adam.ziolkowski",
+          "count": 15
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 12
+        },
+        {
+          "user": "sneha.shah",
+          "count": 10
+        },
+        {
+          "user": "scott.mcneil",
+          "count": 10
+        },
+        {
+          "user": "philip.tolton",
+          "count": 6
+        },
+        {
+          "user": "shen.ni",
+          "count": 4
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 3
+        },
+        {
+          "user": "youxin.li",
+          "count": 2
+        },
+        {
+          "user": "andrew.droll",
+          "count": 2
+        },
+        {
+          "user": "ratna",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 13,
+      "15": 40,
+      "14": 31,
+      "13": 29,
+      "19": 16,
+      "18": 25,
+      "22": 7,
+      "20": 9,
+      "12": 5,
+      "17": 16,
+      "21": 2,
+      "4": 1,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 46,
+      "Tuesday": 31,
+      "Monday": 46,
+      "Friday": 36,
+      "Thursday": 39
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.47,
+    "dept_average_30d": 5.58,
+    "dept_rank": 54,
+    "dept_size": 398
+  }
+}

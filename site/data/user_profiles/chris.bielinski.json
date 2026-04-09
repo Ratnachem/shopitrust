@@ -1,0 +1,174 @@
+{
+  "username": "chris.bielinski",
+  "name": "Chris Bielinski",
+  "generated_at": "2026-04-08T20:22:27.630104",
+  "summary": {
+    "message_count": 99,
+    "channels_active": 8,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Oops, sorry about the baseline fallback falling off my radar after my first pass - will review again and the migration job today!!",
+          "channel": "proj-migrate-states-to-groups",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "mike.averto",
+          "count": 2
+        },
+        {
+          "user": "akshay.patil",
+          "count": 2
+        },
+        {
+          "user": "rj.davis",
+          "count": 1
+        },
+        {
+          "user": "andrew.ross",
+          "count": 1
+        },
+        {
+          "user": "matt.meurer",
+          "count": 1
+        },
+        {
+          "user": "shane.dharan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.95,
+      "count": 25,
+      "top_channels": [
+        {
+          "channel": "proj-migrate-states-to-groups",
+          "messages": 29
+        },
+        {
+          "channel": "proj-inventory-sublocations",
+          "messages": 26
+        },
+        {
+          "channel": "proj-reserved-to-committed",
+          "messages": 16
+        },
+        {
+          "channel": "inventory-pull-request-concept",
+          "messages": 13
+        },
+        {
+          "channel": "chrisb-river",
+          "messages": 11
+        },
+        {
+          "channel": "inventory-ledger",
+          "messages": 2
+        },
+        {
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "messages": 1
+        },
+        {
+          "channel": "tmp-inventory-pull-requests-poc",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "rj.davis",
+          "count": 7
+        },
+        {
+          "user": "ross.andrew",
+          "count": 6
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 5
+        },
+        {
+          "user": "shane.dharan",
+          "count": 5
+        },
+        {
+          "user": "natalie.orcutt",
+          "count": 5
+        },
+        {
+          "user": "mike.averto",
+          "count": 4
+        },
+        {
+          "user": "yiyi.dai",
+          "count": 4
+        },
+        {
+          "user": "christine.belan",
+          "count": 3
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 3
+        },
+        {
+          "user": "cassia.brooks",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 30,
+      "15": 16,
+      "19": 6,
+      "21": 9,
+      "17": 16,
+      "16": 15,
+      "14": 1,
+      "23": 1,
+      "3": 1,
+      "0": 1,
+      "22": 1,
+      "20": 2
+    },
+    "by_day": {
+      "Tuesday": 16,
+      "Monday": 2,
+      "Friday": 18,
+      "Thursday": 20,
+      "Wednesday": 43
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.49,
+    "dept_average_30d": 5.79,
+    "dept_rank": 741,
+    "dept_size": 1233
+  }
+}

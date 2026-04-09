@@ -1,0 +1,100 @@
+{
+  "username": "khalil.bruce",
+  "name": "Khalil Bruce",
+  "generated_at": "2026-04-08T20:22:28.469704",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hi team! I'm looking to get access to Chronicle. I'm working on *<https://github.com/Shopify/infrasec-bumper/issues/646|infrasec-bumper#646>,*",
+          "channel": "help-security",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yep, the new `PurlParser.parse()`calls in `OSV#create_package_policy` and `PackagePolicy#populate_purl_fields` weren't handling malformed purls that",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "owen.cummings",
+          "count": 1
+        },
+        {
+          "user": "scott.jensen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.91,
+      "count": 23,
+      "top_channels": [
+        {
+          "channel": "proj-bumper",
+          "messages": 12
+        },
+        {
+          "channel": "help-security",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.44,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "kaiyi.li",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 3,
+      "18": 2,
+      "16": 2,
+      "19": 1,
+      "17": 2,
+      "15": 2,
+      "21": 1,
+      "20": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Tuesday": 3,
+      "Thursday": 8,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.71,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1468,
+    "dept_size": 1663
+  }
+}

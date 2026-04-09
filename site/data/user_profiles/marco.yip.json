@@ -1,0 +1,181 @@
+{
+  "username": "marco.yip",
+  "name": "Marco Yip",
+  "generated_at": "2026-04-08T20:22:27.393495",
+  "summary": {
+    "message_count": 80,
+    "channels_active": 4,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That sounds good thank you! I'm actively monitoring the PR as it starts to merge and will update here once I have the Cherry Pick PRs up.",
+          "channel": "pos-release-train",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "sure! whatever works best :slightly_smiling_face:",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "tom.anderson",
+          "count": 3
+        },
+        {
+          "user": "adam.davidson",
+          "count": 3
+        },
+        {
+          "user": "michael.rembach",
+          "count": 2
+        },
+        {
+          "user": "joanna.kang",
+          "count": 2
+        },
+        {
+          "user": "john.pavlick",
+          "count": 2
+        },
+        {
+          "user": "joe.zaretsky",
+          "count": 1
+        },
+        {
+          "user": "shivin.misra",
+          "count": 1
+        },
+        {
+          "user": "zach.mathew",
+          "count": 1
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 1
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.94,
+      "count": 104,
+      "top_channels": [
+        {
+          "channel": "proj-extensible-cash-management",
+          "messages": 63
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 7
+        },
+        {
+          "channel": "inv-21180-core-deploy-sees-spike-in-retailcashmanag",
+          "messages": 5
+        },
+        {
+          "channel": "river-marcoy-ip",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "john.pavlick",
+          "count": 6
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 5
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 4
+        },
+        {
+          "user": "adam.davidson",
+          "count": 3
+        },
+        {
+          "user": "joanna.kang",
+          "count": 2
+        },
+        {
+          "user": "tom.anderson",
+          "count": 2
+        },
+        {
+          "user": "carlos.rodriguez-7195",
+          "count": 2
+        },
+        {
+          "user": "alex.kung",
+          "count": 1
+        },
+        {
+          "user": "andy.chhuon",
+          "count": 1
+        },
+        {
+          "user": "jeanbaptiste.morin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 12,
+      "17": 15,
+      "16": 8,
+      "14": 12,
+      "20": 12,
+      "15": 4,
+      "21": 4,
+      "13": 1,
+      "18": 9,
+      "23": 1,
+      "22": 2
+    },
+    "by_day": {
+      "Tuesday": 10,
+      "Monday": 11,
+      "Thursday": 15,
+      "Wednesday": 37,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.41,
+    "dept_average_30d": 5.77,
+    "dept_rank": 577,
+    "dept_size": 885
+  }
+}

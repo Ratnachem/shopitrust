@@ -1,0 +1,78 @@
+{
+  "username": "derek.ledoux",
+  "name": "Derek Ledoux",
+  "generated_at": "2026-04-08T20:22:30.629295",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 4,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 2.01,
+      "count": 53,
+      "top_channels": [
+        {
+          "channel": "dev-degree-2025-river-test",
+          "messages": 8
+        },
+        {
+          "channel": "dev-degree",
+          "messages": 3
+        },
+        {
+          "channel": "intern-everyone",
+          "messages": 1
+        },
+        {
+          "channel": "eng-ops-watercooler",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "liam.west",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 9,
+      "19": 3,
+      "13": 1
+    },
+    "by_day": {
+      "Thursday": 1,
+      "Tuesday": 4,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.78,
+    "dept_average_30d": 4.56,
+    "dept_rank": 57,
+    "dept_size": 74
+  }
+}

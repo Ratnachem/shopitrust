@@ -1,0 +1,98 @@
+{
+  "username": "sameer.gul",
+  "name": "Sameer Gul",
+  "generated_at": "2026-04-08T20:22:31.342361",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 17,
+    "days_scale": 0.74
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sure thing! Thank you for all the updates.",
+          "channel": "help-files",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Perfect thanks!",
+          "channel": "help-shopify-payments-kyc",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.61,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "ran.tao",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.46,
+      "count": 87,
+      "top_channels": [
+        {
+          "channel": "help-files",
+          "messages": 6
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 5
+        },
+        {
+          "channel": "help-balance",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.28,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "ran.tao",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 1,
+      "13": 1,
+      "20": 2,
+      "19": 1,
+      "14": 1,
+      "16": 5,
+      "21": 2
+    },
+    "by_day": {
+      "Tuesday": 4,
+      "Monday": 4,
+      "Wednesday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.16,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1064,
+    "dept_size": 1663
+  }
+}

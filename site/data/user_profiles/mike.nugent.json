@@ -1,0 +1,243 @@
+{
+  "username": "mike.nugent",
+  "name": "Mike Nugent",
+  "generated_at": "2026-04-08T20:22:28.591965",
+  "summary": {
+    "message_count": 342,
+    "channels_active": 58,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Ok feel free to approve it.  We'll still need an approving reviewer as well",
+          "channel": "proj-probes",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sure this works for me, thanks!",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you everyone for all of your patience, especially <@U06U0JDTRFE> who probably didnt think how deep he was getting in when he decided to merge",
+          "channel": "inv-20331-consistently-failing-post-merge-testing-c",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Anyone on your team can feel free to grab it from me if they want to",
+          "channel": "inv-20325-estee-lauder-customers-unable-to-add-paym",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "lmk I can help any more, feel free to reach out",
+          "channel": "inv-20182-intermittent-latency-spikes-on-exp",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "lmk I can help any more, feel free to reach out",
+          "channel": "inv-20182-intermittent-latency-spikes-on-exp",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Im good either way.   We'll figure it out after the incident",
+          "channel": "resiliency-gameday-tooling",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "sam.obrien",
+          "count": 6
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 4
+        },
+        {
+          "user": "richard.vining",
+          "count": 3
+        },
+        {
+          "user": "chris.dakin",
+          "count": 3
+        },
+        {
+          "user": "jonathan.harlap",
+          "count": 2
+        },
+        {
+          "user": "marcelo.mottalli",
+          "count": 2
+        },
+        {
+          "user": "adam.traver",
+          "count": 2
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 1
+        },
+        {
+          "user": "saurabh.chauhan",
+          "count": 1
+        },
+        {
+          "user": "brandon.mcnama",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.72,
+      "count": 381,
+      "top_channels": [
+        {
+          "channel": "inv-20331-consistently-failing-post-merge-testing-c",
+          "messages": 46
+        },
+        {
+          "channel": "inv-20563-core-deploy---unknown-currency-error",
+          "messages": 26
+        },
+        {
+          "channel": "inc-20331-consistently-failing-post-merge-testing-c",
+          "messages": 23
+        },
+        {
+          "channel": "proj-probes",
+          "messages": 19
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20510-recurring-es-hammered-by-collections-bots",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20967-preinstall-paypal-constant-does-not-exist",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20325-estee-lauder-customers-unable-to-add-paym",
+          "messages": 13
+        },
+        {
+          "channel": "experiments-goalie",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "magi.agrama",
+          "count": 2
+        },
+        {
+          "user": "celso.marciano",
+          "count": 2
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "richard.vining",
+          "count": 2
+        },
+        {
+          "user": "ken.wagatsuma",
+          "count": 2
+        },
+        {
+          "user": "gale.shafer",
+          "count": 1
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 1
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 1
+        },
+        {
+          "user": "alice.chou",
+          "count": 1
+        },
+        {
+          "user": "jonathan.harlap",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 28,
+      "20": 51,
+      "19": 35,
+      "18": 29,
+      "17": 26,
+      "15": 29,
+      "22": 33,
+      "21": 44,
+      "16": 15,
+      "14": 27,
+      "12": 11,
+      "11": 5,
+      "0": 2,
+      "23": 7
+    },
+    "by_day": {
+      "Tuesday": 104,
+      "Friday": 22,
+      "Thursday": 52,
+      "Wednesday": 103,
+      "Monday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.85,
+    "dept_average_30d": 5.75,
+    "dept_rank": 145,
+    "dept_size": 357
+  }
+}

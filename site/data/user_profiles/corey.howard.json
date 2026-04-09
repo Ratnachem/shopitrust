@@ -1,0 +1,217 @@
+{
+  "username": "corey.howard",
+  "name": "Corey Howard",
+  "generated_at": "2026-04-08T20:22:22.866220",
+  "summary": {
+    "message_count": 78,
+    "channels_active": 10,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks! Will go ahead with the rename before :ship:",
+          "channel": "proj-analytics-insights-on-the-dashboard",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I got the <https://github.com/Shopify/monorail/pull/23203|PR> up for the new monorail events from our discussion yesterday. Would appreciate some",
+          "channel": "proj-analytics-metric-targets",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Makes sense, thanks! Depending on the final UI, it might make sense to fold the requests into the existing config panel event but also okay with a",
+          "channel": "proj-analytics-metric-targets",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if there's anything I can do to help. I'm admittedly out of the loop on the tech design, but IMO it would be best to do this validation",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U025LM7DVA9> I know we're tracking down the source of the volume in the other thread but do you know offhand the sources of the sidekick queries",
+          "channel": "analytics-team-api-shopifyql",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "siqi.fang",
+          "count": 4
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 2
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 2
+        },
+        {
+          "user": "aly.gemae",
+          "count": 2
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        },
+        {
+          "user": "pablo.assanelli",
+          "count": 1
+        },
+        {
+          "user": "jorge.moller",
+          "count": 1
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.84,
+      "count": 75,
+      "top_channels": [
+        {
+          "channel": "prj-session-pipeline-er",
+          "messages": 35
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 11
+        },
+        {
+          "channel": "proj-analytics-metric-targets",
+          "messages": 9
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 6
+        },
+        {
+          "channel": "proj-analytics-insights-on-the-dashboard",
+          "messages": 5
+        },
+        {
+          "channel": "merchant-analytics-data-alerts",
+          "messages": 3
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 3
+        },
+        {
+          "channel": "proj-analytics-annotations",
+          "messages": 3
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 2
+        },
+        {
+          "channel": "merchant-analytics-data-learnings",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "daniel.conlin",
+          "count": 17
+        },
+        {
+          "user": "siqi.fang",
+          "count": 17
+        },
+        {
+          "user": "lena.wallheimer",
+          "count": 11
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 5
+        },
+        {
+          "user": "kia.dalili",
+          "count": 1
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 1
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 1
+        },
+        {
+          "user": "miray.ozcan",
+          "count": 1
+        },
+        {
+          "user": "pablo.assanelli",
+          "count": 1
+        },
+        {
+          "user": "jorge.moller",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 11,
+      "21": 1,
+      "22": 1,
+      "20": 8,
+      "18": 12,
+      "14": 14,
+      "13": 1,
+      "19": 11,
+      "16": 7,
+      "17": 12
+    },
+    "by_day": {
+      "Wednesday": 15,
+      "Tuesday": 15,
+      "Monday": 12,
+      "Thursday": 30,
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.22,
+    "dept_average_30d": 5.79,
+    "dept_rank": 913,
+    "dept_size": 1233
+  }
+}

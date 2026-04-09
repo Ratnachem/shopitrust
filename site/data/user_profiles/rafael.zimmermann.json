@@ -1,0 +1,226 @@
+{
+  "username": "rafael.zimmermann",
+  "name": "Rafael Zimmermann",
+  "generated_at": "2026-04-08T20:22:25.675606",
+  "summary": {
+    "message_count": 159,
+    "channels_active": 10,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ahh, I was expecting this to be done on infra repo\nCool!! thanks!!",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!",
+          "channel": "proj-attribution-on-event-refinery",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "This PR includes the gcs output too. So it is kind of big\nlet me know if it is too have, I think I can break it down",
+          "channel": "proj-attribution-on-event-refinery",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "How do you get the unique ids? Asking because we only produce whatever is available on staging topic\n\nyesterday staging was down as I was testing a",
+          "channel": "proj-attribution-on-event-refinery",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if I am not mistaken it compacts the data from the bucket, then deletes whatever was consumed and populates clickhouse",
+          "channel": "proj-attribution-on-event-refinery",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I am stuck and I can't figure it out why I get this error while I call my",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "day.levesque",
+          "count": 4
+        },
+        {
+          "user": "aura.everitt",
+          "count": 3
+        },
+        {
+          "user": "lukas.neicelis",
+          "count": 2
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 2
+        },
+        {
+          "user": "saeid.alizadeh",
+          "count": 1
+        },
+        {
+          "user": "kyra.stephen",
+          "count": 1
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.67,
+      "count": 97,
+      "top_channels": [
+        {
+          "channel": "proj-attribution-on-event-refinery",
+          "messages": 80
+        },
+        {
+          "channel": "mm-fdn-measurement-alerts",
+          "messages": 35
+        },
+        {
+          "channel": "proj-shop-campaigns-to-universal-attribution",
+          "messages": 18
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 6
+        },
+        {
+          "channel": "kafka-access-controls",
+          "messages": 4
+        },
+        {
+          "channel": "mm-ads-channels",
+          "messages": 4
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 4
+        },
+        {
+          "channel": "cep-deprecation-task-force",
+          "messages": 4
+        },
+        {
+          "channel": "inv-21224-deploying-the-prod-1-runtime-took-down-th",
+          "messages": 3
+        },
+        {
+          "channel": "proj-measurement-pipelines-stop-sourcing-from-cdc",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.54,
+      "count": 58,
+      "top_mentioners": [
+        {
+          "user": "day.levesque",
+          "count": 26
+        },
+        {
+          "user": "aashna.narang",
+          "count": 11
+        },
+        {
+          "user": "anshul.goel",
+          "count": 5
+        },
+        {
+          "user": "saeid.alizadeh",
+          "count": 5
+        },
+        {
+          "user": "lukas.neicelis",
+          "count": 3
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 3
+        },
+        {
+          "user": "eric.liang",
+          "count": 1
+        },
+        {
+          "user": "torrencio.vigilante",
+          "count": 1
+        },
+        {
+          "user": "shuo.chen",
+          "count": 1
+        },
+        {
+          "user": "hassan.naeem",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "6": 10,
+      "16": 20,
+      "10": 13,
+      "5": 5,
+      "13": 30,
+      "9": 7,
+      "8": 6,
+      "14": 22,
+      "17": 6,
+      "12": 12,
+      "11": 9,
+      "7": 4,
+      "21": 2,
+      "20": 1,
+      "15": 7,
+      "19": 5
+    },
+    "by_day": {
+      "Wednesday": 46,
+      "Tuesday": 35,
+      "Thursday": 52,
+      "Monday": 18,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.66,
+    "dept_average_30d": 5.77,
+    "dept_rank": 463,
+    "dept_size": 885
+  }
+}

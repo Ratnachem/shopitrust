@@ -1,0 +1,275 @@
+{
+  "username": "simon.levasseur",
+  "name": "Simon LeVasseur",
+  "generated_at": "2026-04-08T20:22:21.115583",
+  "summary": {
+    "message_count": 462,
+    "channels_active": 26,
+    "unique_people_mentioned": 43,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.9,
+      "pos_count": 4,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I just got out of a meeting. Anything I can help with?",
+          "channel": "inc-20311-elastic-search-unavailable-for-partners-a",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help move things along quickly for all things Tracify. Where I'm less confident is the Event Refinery side of things. I would probably need to",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@W018PT5QHC4> <@W018WBHMCCR> can you guys let me know how I can help with the unified logs view work. I have a lot of thoughts and ideas on how we",
+          "channel": "proj-functions-tracify-logs",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said above, the only reason we have 2 proto schemas is for the event classification used by Event Refinery.",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Blame",
+          "pattern": "why didn't you",
+          "text": "<@U0AEPQCKB3M> why didn't you just update <https://app.graphite.com/github/pr/shop/world/549897>",
+          "channel": "devtools-design",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can we optimize for whatever is the closest to what we will be doing with the apps-runtime gem?",
+          "channel": "devtools-proj-centralized-extension-activations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Short-answer is that it doesn't matter. Nothing under attributes is schematized which means you can send (or not send) whatever you want. It only",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Perhaps? That being said, everything inside of `payload.attributes` is not explicitly mapped so you can send whatever you want.",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said before, we should just put an if-else in the view for now. IMO, it would be premature to abstract away filters. It assumes all filters",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I was asked the following:\n&gt; For the latter case (system outage), do we support processing events that we were unable to process for whatever",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 46,
+      "top_mentioned": [
+        {
+          "user": "fred.ulrich",
+          "count": 10
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 10
+        },
+        {
+          "user": "andrew.murray",
+          "count": 7
+        },
+        {
+          "user": "roger.yen",
+          "count": 6
+        },
+        {
+          "user": "phong.pham",
+          "count": 6
+        },
+        {
+          "user": "denis.lins",
+          "count": 5
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 4
+        },
+        {
+          "user": "david.vincelli",
+          "count": 4
+        },
+        {
+          "user": "andrew.droll",
+          "count": 3
+        },
+        {
+          "user": "jen.stanicak",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.46,
+      "count": 262,
+      "top_channels": [
+        {
+          "channel": "proj-tracify-mission",
+          "messages": 156
+        },
+        {
+          "channel": "devtools-proj-centralized-extension-activations",
+          "messages": 64
+        },
+        {
+          "channel": "dev-generic-events",
+          "messages": 54
+        },
+        {
+          "channel": "devtools-dev-experience",
+          "messages": 38
+        },
+        {
+          "channel": "tmp-extension-centralization-migration",
+          "messages": 27
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 20
+        },
+        {
+          "channel": "devtools-design",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20311-elastic-search-unavailable-for-partners-a",
+          "messages": 10
+        },
+        {
+          "channel": "help-observability",
+          "messages": 9
+        },
+        {
+          "channel": "devtools-proj-automate-ux-issues",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 91,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 9
+        },
+        {
+          "user": "phong.pham",
+          "count": 8
+        },
+        {
+          "user": "todd.muchmore",
+          "count": 7
+        },
+        {
+          "user": "ben.lerchin",
+          "count": 7
+        },
+        {
+          "user": "roger.yen",
+          "count": 6
+        },
+        {
+          "user": "ryan.bahan",
+          "count": 5
+        },
+        {
+          "user": "achit.ojha",
+          "count": 5
+        },
+        {
+          "user": "alexandre.bradley",
+          "count": 5
+        },
+        {
+          "user": "aaron.schubert",
+          "count": 4
+        },
+        {
+          "user": "david.peacock",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 56,
+      "15": 22,
+      "20": 49,
+      "19": 39,
+      "18": 67,
+      "14": 42,
+      "13": 17,
+      "17": 81,
+      "1": 12,
+      "22": 32,
+      "21": 12,
+      "12": 10,
+      "3": 2,
+      "2": 11,
+      "0": 4,
+      "23": 3,
+      "11": 1,
+      "4": 2
+    },
+    "by_day": {
+      "Wednesday": 98,
+      "Tuesday": 125,
+      "Monday": 71,
+      "Thursday": 130,
+      "Friday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.41,
+    "dept_average_30d": 5.79,
+    "dept_rank": 218,
+    "dept_size": 1233
+  }
+}

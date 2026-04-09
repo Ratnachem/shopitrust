@@ -1,0 +1,88 @@
+{
+  "username": "irina.winter",
+  "name": "Irina Winter",
+  "generated_at": "2026-04-08T20:22:26.207769",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Submitted for CapIQ first via the Kepler bot\n\nis it possible to update the website that the request links out to",
+          "channel": "help-kepler",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "john.baynton",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.42,
+      "count": 64,
+      "top_channels": [
+        {
+          "channel": "help-kepler",
+          "messages": 5
+        },
+        {
+          "channel": "help-ai-chat",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "john.baynton",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "23": 4,
+      "17": 2,
+      "14": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Tuesday": 1,
+      "Wednesday": 4,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 3.92,
+    "dept_average_30d": 4.35,
+    "dept_rank": 104,
+    "dept_size": 151
+  }
+}

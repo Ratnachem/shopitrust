@@ -1,0 +1,221 @@
+{
+  "username": "karab.sze",
+  "name": "Karab Sze",
+  "generated_at": "2026-04-08T20:22:10.761048",
+  "summary": {
+    "message_count": 120,
+    "channels_active": 13,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! That will be more clear!",
+          "channel": "proj-mm-3p-rtb-model",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave-frog: <@U01J1K00BPX> , <@U074HN5BQ4B>\n\nWe've set up a separate on-call schedule for the ML side (monitor on <#C0A9C9G0QHF>).\nCurrently,",
+          "channel": "shop-campaigns-1p-data-bots",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Any updates on the additional licenses? We've got a few folks still blocked, and it's holding up our new ATC on-call setup. Really appreciate all the",
+          "channel": "help-it",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> \u2022 Raw events with bid_request_id \u2014  for reporting + ML training\n<@U09C1AC145C>\nLet's have a sync in standsup - I think we should go with the first",
+          "channel": "proj-mm-3p-rtb-model",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "sai.paladugu",
+          "count": 7
+        },
+        {
+          "user": "soroush.mirzaei",
+          "count": 5
+        },
+        {
+          "user": "alex.podkidyshev",
+          "count": 5
+        },
+        {
+          "user": "louisphilippe.thibault",
+          "count": 4
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 4
+        },
+        {
+          "user": "man.chen",
+          "count": 3
+        },
+        {
+          "user": "asghar.khan",
+          "count": 3
+        },
+        {
+          "user": "selina.li",
+          "count": 3
+        },
+        {
+          "user": "sid.challa",
+          "count": 2
+        },
+        {
+          "user": "nikita.kiselev",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.24,
+      "count": 112,
+      "top_channels": [
+        {
+          "channel": "proj-mm-3p-rtb-model",
+          "messages": 41
+        },
+        {
+          "channel": "mm-ml-ops",
+          "messages": 23
+        },
+        {
+          "channel": "proj-3p-rtb",
+          "messages": 14
+        },
+        {
+          "channel": "shop-campaigns-1p-data-bots",
+          "messages": 9
+        },
+        {
+          "channel": "inc-19877-pn-shops-disabled-due-to-restricted-indus",
+          "messages": 9
+        },
+        {
+          "channel": "proj-3p-automated-budget-allocation",
+          "messages": 7
+        },
+        {
+          "channel": "product-network-recommendations",
+          "messages": 4
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 4
+        },
+        {
+          "channel": "help-fleet-rollout",
+          "messages": 4
+        },
+        {
+          "channel": "sdp-and-yugabyte",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.85,
+      "count": 61,
+      "top_mentioners": [
+        {
+          "user": "alex.podkidyshev",
+          "count": 9
+        },
+        {
+          "user": "shuo.chen",
+          "count": 7
+        },
+        {
+          "user": "asghar.khan",
+          "count": 7
+        },
+        {
+          "user": "jenny.stanchak",
+          "count": 5
+        },
+        {
+          "user": "sai.paladugu",
+          "count": 5
+        },
+        {
+          "user": "navied.shoushtarian",
+          "count": 5
+        },
+        {
+          "user": "louisphilippe.th-5260",
+          "count": 4
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 4
+        },
+        {
+          "user": "nikita.kiselev",
+          "count": 3
+        },
+        {
+          "user": "sid.challa",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 20,
+      "17": 14,
+      "16": 14,
+      "14": 20,
+      "19": 6,
+      "23": 4,
+      "15": 13,
+      "0": 3,
+      "22": 5,
+      "5": 1,
+      "20": 6,
+      "13": 13,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 40,
+      "Tuesday": 42,
+      "Monday": 11,
+      "Friday": 6,
+      "Thursday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.77,
+    "dept_rank": 336,
+    "dept_size": 885
+  }
+}

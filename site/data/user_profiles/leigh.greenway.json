@@ -1,0 +1,272 @@
+{
+  "username": "leigh.greenway",
+  "name": "Leigh Greenway",
+  "generated_at": "2026-04-08T20:22:13.148493",
+  "summary": {
+    "message_count": 271,
+    "channels_active": 18,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for taking a look at this, <@W018HM3RAN6>!\n\n&gt; My understanding after talking through this with Joseph today is that for non-SNI",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@W018HTJBU1H>, <@W018HM3RAN6>, what are the next steps to have this",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018GBGCDRB>, <@W018HUPLNR1>, I just opened an <https://vault.shopify.io/gsd/reviews/66519|ad-hoc review> for this project since it's been dragging",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Actually my bad, looks like the ~100k output is normal even before the backfill",
+          "channel": "inc-20601-no-data-available-for-server-pixels",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U02KL7HPEV7>, do you want me to pull the",
+          "channel": "mm-fdn-signals-partner-events-eng",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@U02KL7HPEV7> for helping set up the new `validation-3` environment! This will speed dev way up for this project since we're all working",
+          "channel": "mm-fdn-signals-partner-events-eng",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to all who took the time to comment on/approve the",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Working for me now, thanks!",
+          "channel": "mm-fdn-signals-partner-events-eng",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<!channel>, we completed the <https://docs.google.com/document/d/13HAbY8UzZO_kMPu1L1_-2MVmqRuSS0BbQUS43U5Ynlg/edit?usp=sharing|technical design>",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W018GBGCDRB>, <@W018HUPLNR1>, I just opened an <https://vault.shopify.io/gsd/reviews/66519|ad-hoc review> for this project since it's been dragging",
+          "channel": "proj-customer-events-server-pixels-migration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Ack that from an analysis perspective that the world changing (different identity graph, no enrichment for non-SNI merchants, max. 30d lookback click",
+          "channel": "proj-server-pixels-identity-graph-exp",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "haitao.ji",
+          "count": 13
+        },
+        {
+          "user": "josh.davey",
+          "count": 11
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 8
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 7
+        },
+        {
+          "user": "meghan.connolly",
+          "count": 7
+        },
+        {
+          "user": "diego.lippel",
+          "count": 7
+        },
+        {
+          "user": "kenneth.ng",
+          "count": 4
+        },
+        {
+          "user": "jon.burns",
+          "count": 3
+        },
+        {
+          "user": "benjamin.destrempes",
+          "count": 3
+        },
+        {
+          "user": "kahvi.patel",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.08,
+      "count": 189,
+      "top_channels": [
+        {
+          "channel": "mm-fdn-signals-partner-events-eng",
+          "messages": 98
+        },
+        {
+          "channel": "mm-fdn-signals-atc",
+          "messages": 33
+        },
+        {
+          "channel": "inc-20601-no-data-available-for-server-pixels",
+          "messages": 32
+        },
+        {
+          "channel": "proj-customer-events-server-pixels-migration",
+          "messages": 24
+        },
+        {
+          "channel": "server-pixels",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20855-signals-deduplication-flink-pipeline-rest",
+          "messages": 16
+        },
+        {
+          "channel": "proj-pixel-data-sharing-controls",
+          "messages": 9
+        },
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 8
+        },
+        {
+          "channel": "proj-server-pixels-identity-graph-exp",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20493-cto-dashboard-metric-anomalies-in-active-",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "kenneth.ng",
+          "count": 6
+        },
+        {
+          "user": "susan.du",
+          "count": 6
+        },
+        {
+          "user": "benjamin.destrempes",
+          "count": 5
+        },
+        {
+          "user": "said.madi",
+          "count": 5
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 5
+        },
+        {
+          "user": "emile.bergeron",
+          "count": 4
+        },
+        {
+          "user": "quinn.fahey",
+          "count": 2
+        },
+        {
+          "user": "delali.agbenyegah",
+          "count": 2
+        },
+        {
+          "user": "russ.suskind",
+          "count": 2
+        },
+        {
+          "user": "esdras.martins",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 30,
+      "15": 37,
+      "14": 35,
+      "20": 34,
+      "16": 29,
+      "23": 8,
+      "19": 45,
+      "17": 13,
+      "22": 13,
+      "0": 3,
+      "13": 9,
+      "12": 4,
+      "11": 3,
+      "21": 7,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 97,
+      "Tuesday": 87,
+      "Monday": 11,
+      "Thursday": 37,
+      "Friday": 39
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.59,
+    "dept_average_30d": 5.77,
+    "dept_rank": 494,
+    "dept_size": 885
+  }
+}

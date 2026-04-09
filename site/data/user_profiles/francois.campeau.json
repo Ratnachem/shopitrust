@@ -1,0 +1,241 @@
+{
+  "username": "francois.campeau",
+  "name": "Francois Campeau",
+  "generated_at": "2026-04-08T20:22:06.755944",
+  "summary": {
+    "message_count": 673,
+    "channels_active": 26,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 8,
+    "days_in_window": 18,
+    "days_scale": 0.78
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.3,
+      "pos_count": 3,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok, thank you :smile:",
+          "channel": "help-eng-interviews",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U023T5F14B1> <@W0197H90TL0> i'm shipping <https://app.graphite.com/github/pr/Shopify/customer-data-platform/12093> nothing sets it to true right",
+          "channel": "customer-data-platform-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "ffs:\n\nERROR: Looks like we've hit a GitHub API rate limit!\nPlease wait a few minutes and then try to sync again.\nIf this issue persists, don't",
+          "channel": "customer-data-platform-ops",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "FIGURE IT OUT SPY",
+          "channel": "customer-data-platform-ops-staging",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "aka useless for us",
+          "channel": "customer-data-platform-ops",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I saw that we have: //areas/stream-processing/cdp-bp-shared is this actually a thing we want to use? what's the plan for it? my research agent is",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "exporter is currently more or less tied to ingest config, but that's just code, we can update to fit whatever brave new world we live in",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "for v1 yes for now, might change in the future, but future us are suckers and will figure it out",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.86,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "alexander.cecil",
+          "count": 5
+        },
+        {
+          "user": "gabriel.tanchen",
+          "count": 4
+        },
+        {
+          "user": "chethana.siddappa",
+          "count": 3
+        },
+        {
+          "user": "matthew.ferderber",
+          "count": 2
+        },
+        {
+          "user": "thomas.rahn",
+          "count": 2
+        },
+        {
+          "user": "ash.charles",
+          "count": 2
+        },
+        {
+          "user": "michael.terranova",
+          "count": 2
+        },
+        {
+          "user": "yifan.ye",
+          "count": 1
+        },
+        {
+          "user": "suneru.perera",
+          "count": 1
+        },
+        {
+          "user": "josh.davey",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 373,
+      "top_channels": [
+        {
+          "channel": "customer-data-platform-ops",
+          "messages": 286
+        },
+        {
+          "channel": "bp-cdp-flink-dev",
+          "messages": 116
+        },
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 77
+        },
+        {
+          "channel": "customer-data-platform-ops-staging",
+          "messages": 44
+        },
+        {
+          "channel": "proj-customer-events-refinery",
+          "messages": 22
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 18
+        },
+        {
+          "channel": "proj-cdp-cdc-deprecation",
+          "messages": 12
+        },
+        {
+          "channel": "burst-batch-audience-engine-march-2026",
+          "messages": 12
+        },
+        {
+          "channel": "merchant-marketing-talk",
+          "messages": 11
+        },
+        {
+          "channel": "proj-cdp-in-reportify",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "ryan.self",
+          "count": 8
+        },
+        {
+          "user": "soheil.hajimohammadi",
+          "count": 3
+        },
+        {
+          "user": "suneru.perera",
+          "count": 2
+        },
+        {
+          "user": "isis.abramovici",
+          "count": 1
+        },
+        {
+          "user": "ryan.griffin",
+          "count": 1
+        },
+        {
+          "user": "chris.cornutt",
+          "count": 1
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 1
+        },
+        {
+          "user": "balint.bene",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 79,
+      "17": 51,
+      "16": 82,
+      "15": 117,
+      "14": 80,
+      "13": 61,
+      "21": 23,
+      "20": 99,
+      "19": 54,
+      "12": 6,
+      "0": 7,
+      "22": 13,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 231,
+      "Tuesday": 160,
+      "Thursday": 94,
+      "Monday": 186,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.19,
+    "dept_average_30d": 4.74,
+    "dept_rank": 150,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "username": "max.giraldo",
+  "name": "Max Giraldo",
+  "generated_at": "2026-04-08T20:22:05.988663",
+  "summary": {
+    "message_count": 507,
+    "channels_active": 28,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 11,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "cc: <@U01T4V57ZSB> <@W018WA8GF6V> <@U02B9R7DC2D> for visibility. Sorry about the delay, it took several days for Core to deploy the Kafka consumer",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "We're good then! I'll periodically check infra-central. Thank you!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the delayed response. colissimo and la_poste_colissimo are not currently being throttled. They would need to be added if we want to",
+          "channel": "shipping-tracking",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Revert has been active for a couple days now.  Let me know if the issue is resolved <@U08MMJ3RF2A>",
+          "channel": "shipping-tracking",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-frog: Hello, I have a PR that I believe touches Commerce Loop territory and I was wondering if someone on the team could give a review? Thank",
+          "channel": "commerce-loop-engineering",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing thank you!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing thank you!",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0278GGL6RY> this is awesome context. I'll work on adding those improvements and see if it fixes the issue",
+          "channel": "help-exp",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U094KBGQK46> currently traveling but if you need to escalate, feel free to reach out",
+          "channel": "tracking-dev-ops",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yes, here you go:\n\nTech design:",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "yulia.kluev",
+          "count": 9
+        },
+        {
+          "user": "udeep.tandukar",
+          "count": 5
+        },
+        {
+          "user": "mike.welsh",
+          "count": 5
+        },
+        {
+          "user": "jon.elliott",
+          "count": 5
+        },
+        {
+          "user": "chris.sweeney",
+          "count": 4
+        },
+        {
+          "user": "josh.murray",
+          "count": 4
+        },
+        {
+          "user": "charlie.morris",
+          "count": 3
+        },
+        {
+          "user": "harmanprit.tatla",
+          "count": 2
+        },
+        {
+          "user": "richard.newman",
+          "count": 2
+        },
+        {
+          "user": "julian.dong",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.84,
+      "count": 229,
+      "top_channels": [
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 265
+        },
+        {
+          "channel": "tracking-dev-ops",
+          "messages": 46
+        },
+        {
+          "channel": "shipping-tracking",
+          "messages": 34
+        },
+        {
+          "channel": "proj-updated-edds-post-checkout",
+          "messages": 25
+        },
+        {
+          "channel": "inv-20398-forwarding-webhook-requests-to-shipify-ar",
+          "messages": 25
+        },
+        {
+          "channel": "tracking-team",
+          "messages": 24
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 19
+        },
+        {
+          "channel": "inc-21059-usps-subscription-failure-is-high",
+          "messages": 10
+        },
+        {
+          "channel": "help-tracking",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20923-high-write-latency-tracking-pipeline",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 106,
+      "top_mentioners": [
+        {
+          "user": "mike.welsh",
+          "count": 15
+        },
+        {
+          "user": "harmanprit.tatla",
+          "count": 13
+        },
+        {
+          "user": "jesse.li",
+          "count": 10
+        },
+        {
+          "user": "yulia.kluev",
+          "count": 10
+        },
+        {
+          "user": "jon.elliott",
+          "count": 9
+        },
+        {
+          "user": "josh.murray",
+          "count": 7
+        },
+        {
+          "user": "udeep.tandukar",
+          "count": 7
+        },
+        {
+          "user": "richard.newman",
+          "count": 6
+        },
+        {
+          "user": "charlie.morris",
+          "count": 6
+        },
+        {
+          "user": "chris.sweeney",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 49,
+      "17": 43,
+      "16": 36,
+      "14": 51,
+      "13": 46,
+      "1": 7,
+      "0": 12,
+      "21": 37,
+      "20": 52,
+      "19": 50,
+      "15": 61,
+      "12": 6,
+      "3": 3,
+      "23": 11,
+      "22": 11,
+      "5": 1,
+      "4": 3,
+      "10": 2,
+      "9": 1,
+      "11": 2,
+      "7": 4,
+      "6": 19
+    },
+    "by_day": {
+      "Wednesday": 95,
+      "Tuesday": 104,
+      "Monday": 59,
+      "Friday": 122,
+      "Thursday": 127
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.55,
+    "dept_average_30d": 5.77,
+    "dept_rank": 104,
+    "dept_size": 885
+  }
+}

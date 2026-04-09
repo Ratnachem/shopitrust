@@ -1,0 +1,135 @@
+{
+  "username": "ryan.persaud",
+  "name": "Ryan Persaud",
+  "generated_at": "2026-04-08T20:22:29.515159",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 3,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ahh never mind, I got it working! Sorry, post vacation fog is real, thank you <@U08959VBCUT> and <@U02C4A5RWPP>!!",
+          "channel": "dev-up",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, I've returned from a week long vacation and am having trouble re-authenticating my tokens; can I have the current flow for refreshing the",
+          "channel": "dev-up",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<!here> The workflows should be fixed! Please let me know if there are any issues.",
+          "channel": "merchant-legal-vetting",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "lily.chaw",
+          "count": 2
+        },
+        {
+          "user": "ashley.williams",
+          "count": 1
+        },
+        {
+          "user": "selvi.arora",
+          "count": 1
+        },
+        {
+          "user": "cristina.flores",
+          "count": 1
+        },
+        {
+          "user": "lauren.hockenson",
+          "count": 1
+        },
+        {
+          "user": "meg.swim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.8,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "merchant-legal-vetting",
+          "messages": 7
+        },
+        {
+          "channel": "dev-up",
+          "messages": 5
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "yolande.winegarden",
+          "count": 1
+        },
+        {
+          "user": "lauren.hockenson",
+          "count": 1
+        },
+        {
+          "user": "lily.chaw",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 5,
+      "13": 2,
+      "19": 3,
+      "15": 1,
+      "18": 1,
+      "17": 1,
+      "16": 3
+    },
+    "by_day": {
+      "Monday": 5,
+      "Tuesday": 1,
+      "Thursday": 2,
+      "Wednesday": 3,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Legal",
+    "user_score_30d": 3.81,
+    "dept_average_30d": 4.2,
+    "dept_rank": 55,
+    "dept_size": 82
+  }
+}

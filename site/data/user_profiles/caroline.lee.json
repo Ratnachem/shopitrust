@@ -1,0 +1,270 @@
+{
+  "username": "caroline.lee",
+  "name": "Caroline Lee",
+  "generated_at": "2026-04-08T20:22:17.004706",
+  "summary": {
+    "message_count": 159,
+    "channels_active": 26,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 16,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to checkmark it? I don't have any context though :lol-1:",
+          "channel": "search-relevance-metrics-v-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oooh ok. I'll post there. Thank you!",
+          "channel": "catalog-data",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "*BigQuery Storage Quota Update* :alert:\n\nHey team \u2014 wanted to flag that we've set up *BigQuery storage quotas at the subteam level for Search",
+          "channel": "help-foundation-models",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi, is someone able to :check: <https://github.com/Shopify/discovery-experience/pull/2820|this PR>? I missed it in something I just merged and it's",
+          "channel": "search-relevance-metrics-v-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U04B0SL8HJ6>. Upgrading their data domain project helped our issue.",
+          "channel": "inv-20906-dbt-models-failling-from-permissions-issu",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I asked AI to compare the plans for the two environments compared to the same upgrades we made in the sdp-prd-discovery-experience project (and",
+          "channel": "shop-data",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi :wave: Our SDP project (`sdp-prd-discovery-experience`) is breaking because we are sourcing some models that are a view using the",
+          "channel": "shop-data",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U030ZJSPBFV> I'm seeing some models with `ignore_for_downstream_timeliness` set as true in dataplex but others are not. The timeliness of our",
+          "channel": "shop-data",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah I see. Our Discovery Experience repo is on 12.1.0 but the repos we are consuming from must also be at the same version. Ok, I'll reach out to the",
+          "channel": "inv-20906-dbt-models-failling-from-permissions-issu",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I'm going to document this. The asset is in shop ML, and we don't have the best handle of what's going on in there!",
+          "channel": "search-ingestion-and-indexing-team",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "<@U08HLJQDKND> <@U08S21EP02V> As I mentioned <https://shopify.slack.com/archives/C08NBURA7B3/p1774016107129049|here>, I've been playing around with",
+          "channel": "proj-search-business-health-dashboard",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "jingyi.guo",
+          "count": 6
+        },
+        {
+          "user": "nigel.daley",
+          "count": 5
+        },
+        {
+          "user": "ben.labenski",
+          "count": 4
+        },
+        {
+          "user": "felipe.besson",
+          "count": 3
+        },
+        {
+          "user": "cheng.yuan",
+          "count": 3
+        },
+        {
+          "user": "anya.gongora",
+          "count": 3
+        },
+        {
+          "user": "mustafa.ak",
+          "count": 3
+        },
+        {
+          "user": "ye.an",
+          "count": 3
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 2
+        },
+        {
+          "user": "taylor.kellison",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.7,
+      "count": 380,
+      "top_channels": [
+        {
+          "channel": "search-relevance-metrics-v-team",
+          "messages": 35
+        },
+        {
+          "channel": "shop-data",
+          "messages": 16
+        },
+        {
+          "channel": "search-data-ops",
+          "messages": 15
+        },
+        {
+          "channel": "search-team",
+          "messages": 14
+        },
+        {
+          "channel": "proj-dnn-ranker",
+          "messages": 11
+        },
+        {
+          "channel": "proj-search-business-health-dashboard",
+          "messages": 11
+        },
+        {
+          "channel": "shop-agentic-search",
+          "messages": 9
+        },
+        {
+          "channel": "search-data-goalie",
+          "messages": 7
+        },
+        {
+          "channel": "shop-data-alerts",
+          "messages": 5
+        },
+        {
+          "channel": "data-community",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "felipe.besson",
+          "count": 9
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 8
+        },
+        {
+          "user": "kevin.chou",
+          "count": 6
+        },
+        {
+          "user": "ben.labenski",
+          "count": 4
+        },
+        {
+          "user": "anya.gongora",
+          "count": 4
+        },
+        {
+          "user": "regan.zhao",
+          "count": 4
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 3
+        },
+        {
+          "user": "cheng.yuan",
+          "count": 2
+        },
+        {
+          "user": "nigel.daley",
+          "count": 2
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 19,
+      "16": 18,
+      "15": 14,
+      "13": 26,
+      "10": 1,
+      "21": 14,
+      "14": 11,
+      "12": 3,
+      "20": 27,
+      "18": 13,
+      "19": 11,
+      "11": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 38,
+      "Tuesday": 39,
+      "Monday": 47,
+      "Thursday": 16,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.45,
+    "dept_average_30d": 5.79,
+    "dept_rank": 204,
+    "dept_size": 1233
+  }
+}

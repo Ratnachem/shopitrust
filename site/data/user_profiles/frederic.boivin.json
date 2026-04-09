@@ -1,0 +1,268 @@
+{
+  "username": "frederic.boivin",
+  "name": "Frederic Boivin",
+  "generated_at": "2026-04-08T20:22:08.527070",
+  "summary": {
+    "message_count": 579,
+    "channels_active": 30,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 22,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "sounds good, thank you",
+          "channel": "ext-shopify-paypal-integration-shared",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "congrats rose!!!!",
+          "channel": "payments-cross-border-talk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you :blobheart:",
+          "channel": "pcb-yugabyte-in-core",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "sorry about that, thanks to you both, and yeah Emily do ship the PR anyway please",
+          "channel": "pcb-yugabyte-in-core",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that, thanks to you both, and yeah Emily do ship the PR anyway please",
+          "channel": "pcb-yugabyte-in-core",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "If that's enough to fix the build then go ahead and thank you :slightly_smiling_face:",
+          "channel": "pcb-yugabyte-in-core",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Are you able to provide granular insights into CI performance. Anecdotally, I'm seeing a lot of churn with infra issues breaking",
+          "channel": "fboivin-river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if I can help with anything else, I cleaned up my stack quite a bit, we can talk Monday",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Let me know if I can help with anything else, I cleaned up my stack quite a bit, we can talk Monday",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "perf, thank you for the quick engagement, loving the new context feature btw :smile:",
+          "channel": "help-exp",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0AEPQCKB3M> Look at flows related to VaultToken, or ChargeOustandingAmountJob. f_pcc_query_filter_by_card_brand flag rolling out means that we're",
+          "channel": "fboivin-river",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.78,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "rose.wiegley",
+          "count": 4
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 3
+        },
+        {
+          "user": "raphael.papillon",
+          "count": 3
+        },
+        {
+          "user": "delong.gao",
+          "count": 2
+        },
+        {
+          "user": "amanda.azevedo",
+          "count": 2
+        },
+        {
+          "user": "nicola.lochead",
+          "count": 2
+        },
+        {
+          "user": "lucas.campanari",
+          "count": 1
+        },
+        {
+          "user": "leena.dileonardo",
+          "count": 1
+        },
+        {
+          "user": "rose.robertson",
+          "count": 1
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.83,
+      "count": 269,
+      "top_channels": [
+        {
+          "channel": "fboivin-river",
+          "messages": 136
+        },
+        {
+          "channel": "pcb-yugabyte-in-core",
+          "messages": 134
+        },
+        {
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "messages": 69
+        },
+        {
+          "channel": "inc-21132-b2b-cannot-add-bank-account-in-customer-a",
+          "messages": 66
+        },
+        {
+          "channel": "proj-checkout-yugabyte",
+          "messages": 42
+        },
+        {
+          "channel": "auth-rate-champions",
+          "messages": 28
+        },
+        {
+          "channel": "ext-shopify-paypal-integration-shared",
+          "messages": 12
+        },
+        {
+          "channel": "help-exp",
+          "messages": 11
+        },
+        {
+          "channel": "inv-21221-seeing-new-striperatelimiterror-in-core",
+          "messages": 10
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.95,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "rose.wiegley",
+          "count": 9
+        },
+        {
+          "user": "delong.gao",
+          "count": 5
+        },
+        {
+          "user": "nuno.silva",
+          "count": 4
+        },
+        {
+          "user": "michael.roudnitski",
+          "count": 4
+        },
+        {
+          "user": "rose.robertson",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 3
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "sam.athar",
+          "count": 2
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 2
+        },
+        {
+          "user": "marcelo.mottalli",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 96,
+      "16": 92,
+      "15": 70,
+      "14": 51,
+      "13": 11,
+      "21": 28,
+      "20": 79,
+      "19": 57,
+      "17": 91,
+      "11": 3,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 106,
+      "Tuesday": 194,
+      "Monday": 77,
+      "Friday": 94,
+      "Thursday": 108
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.36,
+    "dept_average_30d": 4.74,
+    "dept_rank": 114,
+    "dept_size": 1663
+  }
+}

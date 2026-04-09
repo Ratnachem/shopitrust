@@ -1,0 +1,234 @@
+{
+  "username": "kyle.jaebker",
+  "name": "Kyle Jaebker",
+  "generated_at": "2026-04-08T20:22:16.310555",
+  "summary": {
+    "message_count": 123,
+    "channels_active": 13,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I made a change to this approved PR for outbound_webhooks based on binks feedback:",
+          "channel": "shipping-platform-pod-red",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "shipping-platform-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "shipping-platform-pod-red",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U079H9S5VAT> let me know if I should start a new thread for this but figured this would be a good place to start.\n\nWe have added the new",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "sounds good, appreciate it",
+          "channel": "shipping-dev-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "ok, sounds good. let me know if you need a hand with anything. I can review when its up",
+          "channel": "proj-fulfillment-carrier-packaging",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want to add that to your PR or want me to create a new one?",
+          "channel": "proj-fulfillment-carrier-packaging",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "ah, sorry about that, seems I pulled the `unstable` from the api version on the providers table and not from `platform_webhook_endpoints`",
+          "channel": "proj-fulfillment-carrier-packaging",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "dimitri.yacoub",
+          "count": 4
+        },
+        {
+          "user": "minh.tran",
+          "count": 3
+        },
+        {
+          "user": "bryan.langille",
+          "count": 2
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 1
+        },
+        {
+          "user": "jeff.kantarek",
+          "count": 1
+        },
+        {
+          "user": "jerome.mathieu",
+          "count": 1
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 1
+        },
+        {
+          "user": "cristina.smiarowski",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.92,
+      "count": 130,
+      "top_channels": [
+        {
+          "channel": "shipping-platform-pod-red",
+          "messages": 37
+        },
+        {
+          "channel": "proj-fulfillment-carrier-packaging",
+          "messages": 23
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 21
+        },
+        {
+          "channel": "river-kj",
+          "messages": 8
+        },
+        {
+          "channel": "shipping-developers",
+          "messages": 7
+        },
+        {
+          "channel": "shipping-dev-ops",
+          "messages": 6
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 5
+        },
+        {
+          "channel": "shipping-ai",
+          "messages": 4
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 3
+        },
+        {
+          "channel": "shipping-platform-runteam",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "bryan.langille",
+          "count": 6
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 4
+        },
+        {
+          "user": "jeff.kantarek",
+          "count": 3
+        },
+        {
+          "user": "minh.tran",
+          "count": 3
+        },
+        {
+          "user": "jerome.mathieu",
+          "count": 3
+        },
+        {
+          "user": "dimitri.yacoub",
+          "count": 2
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 2
+        },
+        {
+          "user": "jon.elliott",
+          "count": 1
+        },
+        {
+          "user": "alanna.zito",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 23,
+      "13": 9,
+      "20": 16,
+      "1": 1,
+      "16": 7,
+      "14": 13,
+      "21": 9,
+      "19": 12,
+      "18": 16,
+      "22": 2,
+      "15": 15
+    },
+    "by_day": {
+      "Wednesday": 36,
+      "Tuesday": 17,
+      "Monday": 30,
+      "Thursday": 31,
+      "Friday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.35,
+    "dept_average_30d": 5.77,
+    "dept_rank": 603,
+    "dept_size": 885
+  }
+}

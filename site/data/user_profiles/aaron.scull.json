@@ -1,0 +1,269 @@
+{
+  "username": "aaron.scull",
+  "name": "Aaron Scull",
+  "generated_at": "2026-04-08T20:22:18.935704",
+  "summary": {
+    "message_count": 402,
+    "channels_active": 23,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! i added the decision and moved the doc into the Deploy",
+          "channel": "infra-central",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "props to",
+          "text": "props to Tai for that journal of the Source",
+          "channel": "team-cd",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "nice, thanks!",
+          "channel": "infra-central",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I really appreciate your help Nikita, thank you!",
+          "channel": "gitstream",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for adding that; ill try to sync with you to get that secret added to our prod secrets `.ejson`",
+          "channel": "gitstream",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ahh my bad, it is a linear walk. so we just need to do one walk backwards towards the sha on the branch name and once we hit that its :+1:  so a test",
+          "channel": "proj-git-and-infracentral-history-archival",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "im asking internally, if anything else comes up, feel free to ping me",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "lol sorry about that",
+          "channel": "proj-cd-auto-release",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: let me know if you need anything",
+          "channel": "inv-19997-devx-ci-trigger-is-failing",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "really sorry about all the confusion; trusting the tooling seems to have gotten in my way.",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "yea, you did what you should have",
+          "channel": "team-cd",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "kirk.chen",
+          "count": 13
+        },
+        {
+          "user": "xiao.li",
+          "count": 12
+        },
+        {
+          "user": "simon.chau",
+          "count": 7
+        },
+        {
+          "user": "briana.roberts",
+          "count": 5
+        },
+        {
+          "user": "tim.smith",
+          "count": 3
+        },
+        {
+          "user": "tahmeed.tabeeb",
+          "count": 3
+        },
+        {
+          "user": "guido.westenberg",
+          "count": 3
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 2
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.76,
+      "count": 225,
+      "top_channels": [
+        {
+          "channel": "team-cd",
+          "messages": 76
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 76
+        },
+        {
+          "channel": "gitstream",
+          "messages": 67
+        },
+        {
+          "channel": "proj-git-and-infracentral-history-archival",
+          "messages": 24
+        },
+        {
+          "channel": "scull-river-chat",
+          "messages": 19
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20248-admin-webs-release-candidates-showing-as-",
+          "messages": 16
+        },
+        {
+          "channel": "infra-central",
+          "messages": 14
+        },
+        {
+          "channel": "proj-cd-auto-release",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20998-shipit-nothing-can-deploy-due-to-blocked",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.54,
+      "count": 58,
+      "top_mentioners": [
+        {
+          "user": "simon.chau",
+          "count": 19
+        },
+        {
+          "user": "xiao.li",
+          "count": 9
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 6
+        },
+        {
+          "user": "kirk.chen",
+          "count": 5
+        },
+        {
+          "user": "briana.roberts",
+          "count": 4
+        },
+        {
+          "user": "edilson.correa",
+          "count": 2
+        },
+        {
+          "user": "ben.maynard",
+          "count": 2
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 1
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 60,
+      "16": 35,
+      "21": 25,
+      "20": 54,
+      "15": 44,
+      "23": 29,
+      "22": 14,
+      "18": 59,
+      "19": 46,
+      "14": 18,
+      "1": 10,
+      "0": 8
+    },
+    "by_day": {
+      "Wednesday": 116,
+      "Tuesday": 59,
+      "Monday": 99,
+      "Friday": 43,
+      "Thursday": 85
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.33,
+    "dept_average_30d": 5.75,
+    "dept_rank": 79,
+    "dept_size": 357
+  }
+}

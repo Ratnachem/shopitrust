@@ -1,0 +1,265 @@
+{
+  "username": "pierrenicolas.mahieu",
+  "name": "Pierrenicolas Mahieu",
+  "generated_at": "2026-04-08T20:22:21.107254",
+  "summary": {
+    "message_count": 251,
+    "channels_active": 20,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 36,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.7,
+      "pos_count": 17,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U09CDACP81F>, makes sense we could have had equal candidates. Instead of dropping them we could bake this into the sampling, and select",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team,\nGood news! We managed to identify the bug we had with OneDCG loss. We are now on par with production in our final DSL debug score",
+          "channel": "search-p13n",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you both for the swift reply!",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you all for the inputs\n&gt; We can try to do some of this filtering, but I worry a bit about products without a past order history and products",
+          "channel": "recommendations-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team,\nFollowing the implementation on staging from <@U09F7PGF4AJ> I checked a few users using the DSL created by <@U09FM857V0R> and we can see",
+          "channel": "search-p13n",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you all, managed to create them :slightly_smiling_face:",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok, that will make the feedback loop much faster, good to know, thank you <@U03KALJNC8Z>\nSo the issue is still not fixed though, job takes 56sec. I",
+          "channel": "search-ingestion-and-indexing-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U03RYRWRL8Z>",
+          "channel": "search-p13n",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok good to know it is under way and nothing is wrong. Thank you",
+          "channel": "search-p13n",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U01SFK583PD> it is working now, <https://oasis.shopify.io/runs/019d0170a925318c6a74/019d0170a7d6d51fa975|see run>",
+          "channel": "help-search-tooling",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "regan.zhao",
+          "count": 14
+        },
+        {
+          "user": "long.qiu",
+          "count": 13
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 13
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 11
+        },
+        {
+          "user": "david.gabrieli",
+          "count": 11
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 8
+        },
+        {
+          "user": "baoyuan.xing",
+          "count": 7
+        },
+        {
+          "user": "felipe.besson",
+          "count": 7
+        },
+        {
+          "user": "noah.frank",
+          "count": 6
+        },
+        {
+          "user": "alex.watt",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.96,
+      "count": 276,
+      "top_channels": [
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 87
+        },
+        {
+          "channel": "search-p13n",
+          "messages": 53
+        },
+        {
+          "channel": "search-location-signals",
+          "messages": 22
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 16
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 13
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 13
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 10
+        },
+        {
+          "channel": "help-search-tooling",
+          "messages": 10
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 5
+        },
+        {
+          "channel": "search-ingest-ops",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 118,
+      "top_mentioners": [
+        {
+          "user": "zhibiao.rao",
+          "count": 18
+        },
+        {
+          "user": "felipe.besson",
+          "count": 17
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 12
+        },
+        {
+          "user": "regan.zhao",
+          "count": 11
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 7
+        },
+        {
+          "user": "alex.watt",
+          "count": 5
+        },
+        {
+          "user": "misha.shakhray",
+          "count": 4
+        },
+        {
+          "user": "long.qiu",
+          "count": 4
+        },
+        {
+          "user": "yang.gao",
+          "count": 3
+        },
+        {
+          "user": "sabrina.zhu",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 43,
+      "14": 35,
+      "8": 3,
+      "20": 25,
+      "19": 11,
+      "18": 12,
+      "17": 29,
+      "13": 25,
+      "12": 8,
+      "15": 23,
+      "11": 5,
+      "9": 1,
+      "23": 2,
+      "10": 12,
+      "21": 6,
+      "22": 11
+    },
+    "by_day": {
+      "Wednesday": 37,
+      "Tuesday": 72,
+      "Monday": 35,
+      "Friday": 54,
+      "Thursday": 53
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.74,
+    "dept_average_30d": 4.74,
+    "dept_rank": 57,
+    "dept_size": 1663
+  }
+}

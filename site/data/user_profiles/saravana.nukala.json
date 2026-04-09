@@ -1,0 +1,276 @@
+{
+  "username": "saravana.nukala",
+  "name": "Saravana Nukala",
+  "generated_at": "2026-04-08T20:22:11.695698",
+  "summary": {
+    "message_count": 279,
+    "channels_active": 15,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 24,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you ",
+          "channel": "taxonomy-related-projects",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "it looks good, thank you.",
+          "channel": "catalog-platform-team-prs",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you - that slide looks good. From what I gather it is &lt;Input_BT&gt; -&gt; FlinkSQL+Catalog-inference-API -&gt; &lt;Output_BT&gt;\n\nOnly one",
+          "channel": "catalog-platform-team-prs",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'll update the PR soon with your changes - please feel free to take it from the PR and run any model sanity checks if you can for us to gauge",
+          "channel": "taxonomy-related-projects",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; Hi <@U09J28YCRFB>, yes the split of  `system` and `user` prompts was intentional - \u2014 the new category model requires the system/user split.",
+          "channel": "taxonomy-related-projects",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you - it makes sense now.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you - are there any availability of H100s on `aws-byoc-reserved-us-west-2` ? I can't seem to find it in the above",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you - I will look into the benchmarking later in the day today ",
+          "channel": "taxonomy-related-projects",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for fixing this - we are able to query right now",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Curious if the evals/quality checks are already done for this model and if they looked ok?\nAlso do you have the GCS location where you",
+          "channel": "taxonomy-related-projects",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "the one included in the PR was to _always_ default to the 5 fields when we get the request and is increasing the latency, like what Katherine was",
+          "channel": "the-shopify-catalog-operations",
+          "timestamp": "2026-04-06"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "eliseu.daroit",
+          "count": 24
+        },
+        {
+          "user": "xinjing.wang",
+          "count": 24
+        },
+        {
+          "user": "abigail.stone",
+          "count": 12
+        },
+        {
+          "user": "katherine.bailey",
+          "count": 7
+        },
+        {
+          "user": "houdong.hu",
+          "count": 7
+        },
+        {
+          "user": "ricardo.tejedor",
+          "count": 5
+        },
+        {
+          "user": "daniel.gross",
+          "count": 4
+        },
+        {
+          "user": "irina.pchelintceva",
+          "count": 4
+        },
+        {
+          "user": "peng.yu",
+          "count": 4
+        },
+        {
+          "user": "ryan.diep",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.96,
+      "count": 131,
+      "top_channels": [
+        {
+          "channel": "the-shopify-catalog-operations",
+          "messages": 81
+        },
+        {
+          "channel": "taxonomy-related-projects",
+          "messages": 77
+        },
+        {
+          "channel": "catalog-platform-team-prs",
+          "messages": 41
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 19
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 11
+        },
+        {
+          "channel": "the-shopify-catalog",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20715-flink-source-throughput-is-below-threshol",
+          "messages": 9
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 7
+        },
+        {
+          "channel": "tmp-catalog-h200s-centml-outage",
+          "messages": 7
+        },
+        {
+          "channel": "proj-catalogue-catalog-foundry",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 91,
+      "top_mentioners": [
+        {
+          "user": "xinjing.wang",
+          "count": 25
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 22
+        },
+        {
+          "user": "houdong.hu",
+          "count": 13
+        },
+        {
+          "user": "abigail.stone",
+          "count": 7
+        },
+        {
+          "user": "ryan.diep",
+          "count": 5
+        },
+        {
+          "user": "katherine.bailey",
+          "count": 4
+        },
+        {
+          "user": "peng.yu",
+          "count": 4
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 3
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 2
+        },
+        {
+          "user": "marvin.davila",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 27,
+      "17": 38,
+      "16": 16,
+      "13": 31,
+      "6": 6,
+      "5": 4,
+      "21": 13,
+      "19": 33,
+      "22": 14,
+      "20": 28,
+      "14": 17,
+      "11": 10,
+      "15": 14,
+      "10": 3,
+      "12": 12,
+      "9": 3,
+      "8": 7,
+      "4": 2,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 99,
+      "Tuesday": 67,
+      "Monday": 56,
+      "Thursday": 38,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.48,
+    "dept_average_30d": 5.75,
+    "dept_rank": 207,
+    "dept_size": 357
+  }
+}

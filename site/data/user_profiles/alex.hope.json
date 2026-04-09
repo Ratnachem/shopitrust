@@ -1,0 +1,272 @@
+{
+  "username": "alex.hope",
+  "name": "Alex Hope",
+  "generated_at": "2026-04-08T20:22:25.303482",
+  "summary": {
+    "message_count": 571,
+    "channels_active": 8,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hi Daniel! I tested out bumping go with your branch. I left a comment about how we should probably avoid upgrading the go version",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "&gt; BB -&gt; uses River client -&gt; call bump and open-pr cli commands.\nRight now, this is just for the tec stuff, ie bumps we think are easy\n\n&gt;",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Out of curiosity, i tried earlier asking it to open a PR but it refused:\n```To open a PR, I need your confirmation \u2014 you'll be the responsible",
+          "channel": "proj-bumper",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Grigorii for the permissions, you'll need to open an IT ticket. Feel free to tag me and I'll approve it straight away",
+          "channel": "help-infrasec",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "i thought there was going to be a second step but i was wrong lol",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help out. give me 5 mins",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "How do you want me to send these keys to you? I'm just in a meeting right now but I can generate these afterwards",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to take this?",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Will do. I have a build running now trying it out, but i gotta go pick up the kids so I'll hit you up tomorrow if i can't figure it out",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "EOD update for me:\n\nsuccessfully tophatted protobuf for the opening PRs pipeline:\n:eyes:",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "at the end of the day i'm just a li'l guy writing code i can set the threshold at whatever the higher ups tell me je ne dont mind",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "we dont watch for CI now, right? we just slap the label and trust the merge queue to deal with it?",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "andrija.bogojevic",
+          "count": 4
+        },
+        {
+          "user": "justin.hill",
+          "count": 1
+        },
+        {
+          "user": "peter.wagner",
+          "count": 1
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 1
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        },
+        {
+          "user": "chad.denyar",
+          "count": 1
+        },
+        {
+          "user": "erin.son",
+          "count": 1
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 1
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.69,
+      "count": 71,
+      "top_channels": [
+        {
+          "channel": "proj-bumper",
+          "messages": 480
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 72
+        },
+        {
+          "channel": "help-bumperbot",
+          "messages": 9
+        },
+        {
+          "channel": "si-2520-axios",
+          "messages": 5
+        },
+        {
+          "channel": "dependency-analyzer",
+          "messages": 2
+        },
+        {
+          "channel": "team-ci",
+          "messages": 1
+        },
+        {
+          "channel": "river",
+          "messages": 1
+        },
+        {
+          "channel": "proj-eng-security-automerge",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 94,
+      "top_mentioners": [
+        {
+          "user": "chris.shino",
+          "count": 52
+        },
+        {
+          "user": "andrija.bogojevic",
+          "count": 20
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 4
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 3
+        },
+        {
+          "user": "pierre-guillaume-3402",
+          "count": 3
+        },
+        {
+          "user": "pulkit.garg",
+          "count": 2
+        },
+        {
+          "user": "jacob.michels",
+          "count": 2
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        },
+        {
+          "user": "sam.bostock",
+          "count": 1
+        },
+        {
+          "user": "david.jee",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "11": 29,
+      "18": 51,
+      "17": 41,
+      "15": 90,
+      "14": 138,
+      "13": 99,
+      "12": 24,
+      "16": 30,
+      "22": 1,
+      "19": 46,
+      "20": 19,
+      "21": 1,
+      "10": 2
+    },
+    "by_day": {
+      "Wednesday": 98,
+      "Tuesday": 130,
+      "Monday": 107,
+      "Thursday": 98,
+      "Friday": 138
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.97,
+    "dept_average_30d": 4.89,
+    "dept_rank": 36,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "username": "molly.mckeehan",
+  "name": "Molly McKeehan",
+  "generated_at": "2026-04-08T20:22:31.644890",
+  "summary": {
+    "message_count": 127,
+    "channels_active": 10,
+    "unique_people_mentioned": 43,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "sfdc_pull_requests",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi team - all tests passed in UAT last week and I will be deploying the Acceleration Fit Score build to prod today.\n\nAs a reminder, any accounts that",
+          "channel": "proj-acceleration-fit-scoring",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U05SWEWQADB> Can you confirm these are the correct steps for Ulysse? Thank you!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U096N81C761> Can you send a screenshot of the exact error you are getting? Thank you!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "temp-help-salesforce-claude-agent",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U06TVCEB7J5> Thank you so much for the detailed response - super helpful! <@U07SQPYEA6M> Since we _*should*_ have received an event for this in",
+          "channel": "help-monetization",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Also <@W018PU5LW4C> <@U02492K7FHQ> everything is looking great in my sandbox so far I went ahead and implemented the above to not hold us up on",
+          "channel": "proj-acceleration-fit-scoring",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@W018PU5LW4C> <@U02492K7FHQ> I identified a gap in the logic I am building for displaying acquisition versus acceleration fit scores. Originally,",
+          "channel": "proj-acceleration-fit-scoring",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@W018PU5LW4C> <@U02492K7FHQ> I identified a gap in the logic I am building for displaying acquisition versus acceleration fit scores. Originally,",
+          "channel": "proj-acceleration-fit-scoring",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "That answer is not correct haha I can help you out on my end though",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "sohit.kanaujia",
+          "count": 7
+        },
+        {
+          "user": "allison.hayes",
+          "count": 6
+        },
+        {
+          "user": "molly.parapini",
+          "count": 5
+        },
+        {
+          "user": "katie.george",
+          "count": 4
+        },
+        {
+          "user": "marly.suarez",
+          "count": 3
+        },
+        {
+          "user": "will.stanton",
+          "count": 2
+        },
+        {
+          "user": "noreen.khan",
+          "count": 2
+        },
+        {
+          "user": "jill.randall",
+          "count": 2
+        },
+        {
+          "user": "jessie.nadar",
+          "count": 2
+        },
+        {
+          "user": "ryan.hartman",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.05,
+      "count": 107,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 55
+        },
+        {
+          "channel": "sfdc_pull_requests",
+          "messages": 18
+        },
+        {
+          "channel": "proj-acceleration-fit-scoring",
+          "messages": 14
+        },
+        {
+          "channel": "test-help-sf-verdant",
+          "messages": 10
+        },
+        {
+          "channel": "help-salesforce-river",
+          "messages": 9
+        },
+        {
+          "channel": "help-lead-management",
+          "messages": 8
+        },
+        {
+          "channel": "proj-crm-on-vault",
+          "messages": 5
+        },
+        {
+          "channel": "temp-help-salesforce-claude-agent",
+          "messages": 4
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 3
+        },
+        {
+          "channel": "monetization-dev-env",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.71,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "will.stanton",
+          "count": 7
+        },
+        {
+          "user": "katie.george",
+          "count": 6
+        },
+        {
+          "user": "sohit.kanaujia",
+          "count": 3
+        },
+        {
+          "user": "molly.parapini",
+          "count": 3
+        },
+        {
+          "user": "allison.hayes",
+          "count": 3
+        },
+        {
+          "user": "ashley.hartlen",
+          "count": 3
+        },
+        {
+          "user": "marisha.nichols",
+          "count": 3
+        },
+        {
+          "user": "ulysse.meersseman",
+          "count": 2
+        },
+        {
+          "user": "noreen.khan",
+          "count": 2
+        },
+        {
+          "user": "connor.trendov",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 15,
+      "17": 17,
+      "16": 8,
+      "14": 19,
+      "13": 12,
+      "12": 1,
+      "21": 5,
+      "18": 23,
+      "15": 11,
+      "19": 14,
+      "22": 2
+    },
+    "by_day": {
+      "Friday": 31,
+      "Thursday": 24,
+      "Wednesday": 27,
+      "Tuesday": 24,
+      "Monday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 5.02,
+    "dept_average_30d": 4.32,
+    "dept_rank": 137,
+    "dept_size": 848
+  }
+}

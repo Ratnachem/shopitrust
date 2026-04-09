@@ -1,0 +1,107 @@
+{
+  "username": "tasha.anestopoulos",
+  "name": "Tasha Anestopoulos",
+  "generated_at": "2026-04-08T20:22:31.401148",
+  "summary": {
+    "message_count": 21,
+    "channels_active": 2,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> thank you, this is helpful",
+          "channel": "temp-river-ta-playground",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U0AEPQCKB3M>! You\u2019re the <http://bomb.com|bomb.com>",
+          "channel": "temp-river-ta-playground",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "katrina.bautista",
+          "count": 1
+        },
+        {
+          "user": "austin.knight",
+          "count": 1
+        },
+        {
+          "user": "matt.griffin",
+          "count": 1
+        },
+        {
+          "user": "alix.balevi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.71,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "temp-river-ta-playground",
+          "messages": 19
+        },
+        {
+          "channel": "design-livestream",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "timothy.barnes",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 11,
+      "13": 1,
+      "15": 2,
+      "20": 3,
+      "17": 2,
+      "21": 1,
+      "16": 1
+    },
+    "by_day": {
+      "Tuesday": 11,
+      "Friday": 5,
+      "Thursday": 2,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 3.71,
+    "dept_average_30d": 4.13,
+    "dept_rank": 46,
+    "dept_size": 64
+  }
+}

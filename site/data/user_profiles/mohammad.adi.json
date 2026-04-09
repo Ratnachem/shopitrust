@@ -1,0 +1,246 @@
+{
+  "username": "mohammad.adi",
+  "name": "Mohammad Adi",
+  "generated_at": "2026-04-08T20:22:13.624418",
+  "summary": {
+    "message_count": 169,
+    "channels_active": 18,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W01B238KTUG>! Would it also be possible to send an invite to <@W018HMW4AHG> and me? Thank you!",
+          "channel": "proj-retail-yugabyte-migration",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "nice thanks! just a note, due to the order session changes from before are now doing the following check on the `Session` object to make sure it's a",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Sorry I forgot to circle back here - it turns out my machine was unable to hit a particular service in Cloudflare and had an outdated version of",
+          "channel": "dev-up",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team :wave:  - coming from <#C09D677LVNU>\n\nWe noticed that the order creation in shop-server",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-retail-shop-pay",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if I should be posting this in another channel instead",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@W0182UNPDKR> I've added the PR to the merge queue and it should hopefully go out with the next deploy to prod. after that you should have access to",
+          "channel": "retail-atc",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "michael.wilson",
+          "count": 5
+        },
+        {
+          "user": "sean.watson",
+          "count": 4
+        },
+        {
+          "user": "jonathan.chan",
+          "count": 2
+        },
+        {
+          "user": "dan.katz",
+          "count": 2
+        },
+        {
+          "user": "david.hou",
+          "count": 2
+        },
+        {
+          "user": "sam.ou",
+          "count": 1
+        },
+        {
+          "user": "raphael.adams",
+          "count": 1
+        },
+        {
+          "user": "noah.woodward",
+          "count": 1
+        },
+        {
+          "user": "drake.gebhart",
+          "count": 1
+        },
+        {
+          "user": "shyam.kotak",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.08,
+      "count": 242,
+      "top_channels": [
+        {
+          "channel": "proj-retail-shop-pay",
+          "messages": 54
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 35
+        },
+        {
+          "channel": "retail-shop-bopis-roris",
+          "messages": 11
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 9
+        },
+        {
+          "channel": "retail-buyer-journey-river",
+          "messages": 8
+        },
+        {
+          "channel": "dev-up",
+          "messages": 8
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 8
+        },
+        {
+          "channel": "inv-21057-pos-negotiation-violations",
+          "messages": 6
+        },
+        {
+          "channel": "retail-buyer-experience-ops",
+          "messages": 5
+        },
+        {
+          "channel": "retail-bx-checkout",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "dan.katz",
+          "count": 6
+        },
+        {
+          "user": "michael.wilson",
+          "count": 3
+        },
+        {
+          "user": "sam.ou",
+          "count": 2
+        },
+        {
+          "user": "raphael.adams",
+          "count": 2
+        },
+        {
+          "user": "sean.watson",
+          "count": 2
+        },
+        {
+          "user": "si.le",
+          "count": 1
+        },
+        {
+          "user": "chris.magee",
+          "count": 1
+        },
+        {
+          "user": "nathan.woodger",
+          "count": 1
+        },
+        {
+          "user": "simon.bats",
+          "count": 1
+        },
+        {
+          "user": "mary.harte",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 20,
+      "17": 20,
+      "16": 26,
+      "15": 22,
+      "13": 31,
+      "20": 14,
+      "14": 17,
+      "19": 12,
+      "22": 2,
+      "12": 5
+    },
+    "by_day": {
+      "Wednesday": 33,
+      "Tuesday": 20,
+      "Monday": 5,
+      "Thursday": 82,
+      "Friday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.75,
+    "dept_average_30d": 5.77,
+    "dept_rank": 428,
+    "dept_size": 885
+  }
+}

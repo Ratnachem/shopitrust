@@ -1,0 +1,267 @@
+{
+  "username": "roque.pinel",
+  "name": "Roque Pinel",
+  "generated_at": "2026-04-08T20:22:17.942550",
+  "summary": {
+    "message_count": 353,
+    "channels_active": 26,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 38,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations!",
+          "channel": "shop-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations!",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "It's working. Thanks!",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "&gt; do we preserve the referrer during a top frame redirect?\nYes. Also, feel free to review <https://app.graphite.com/github/pr/Shopify/shop-js/5755>",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; Need to see if is_storefront_request equivalent is required or can be handled by CF routing for the worker\nThis was one blocker for not",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Please do it only for `<http://shop.app/accounts/top_bounce|shop.app/accounts/top_bounce>`. We should discuss",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Agree, let's go with your fix and I can refactor that based on it. Thank you!",
+          "channel": "shop-identity",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Thank you, and sorry about that confusion. I've restored that rollout.",
+          "channel": "edge-infrastructure-operations",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, and sorry about that confusion. I've restored that rollout.",
+          "channel": "edge-infrastructure-operations",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, can you also update the description /shop_pay_callback_on_edge/shop_recognition_storefront_bounce/",
+          "channel": "edge-infrastructure-operations",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "stijn.heymans",
+          "count": 10
+        },
+        {
+          "user": "joel.antoci",
+          "count": 6
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 6
+        },
+        {
+          "user": "erin.ren",
+          "count": 5
+        },
+        {
+          "user": "julie.haynes",
+          "count": 4
+        },
+        {
+          "user": "rabeea.ahmad",
+          "count": 4
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 3
+        },
+        {
+          "user": "philibert.dugas",
+          "count": 3
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 3
+        },
+        {
+          "user": "thomas.antonio",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.33,
+      "count": 255,
+      "top_channels": [
+        {
+          "channel": "boost-user-recognition",
+          "messages": 152
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 21
+        },
+        {
+          "channel": "inc-19972-sfr-incorrect-referrer-in-trekkie",
+          "messages": 20
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 17
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 16
+        },
+        {
+          "channel": "inc-19907-quick-search-broken-in-agent-prod",
+          "messages": 16
+        },
+        {
+          "channel": "inc-20668-sfr-to-shop-app-loses-nca-customer-sessio",
+          "messages": 12
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 11
+        },
+        {
+          "channel": "shop-identity-ops",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20313-investigating-increase-in-reports-of-dupl",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 84,
+      "top_mentioners": [
+        {
+          "user": "stijn.heymans",
+          "count": 7
+        },
+        {
+          "user": "joel.antoci",
+          "count": 7
+        },
+        {
+          "user": "erin.ren",
+          "count": 7
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 6
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 4
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 4
+        },
+        {
+          "user": "quinton.chester",
+          "count": 3
+        },
+        {
+          "user": "rabeea.ahmad",
+          "count": 3
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 3
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 42,
+      "16": 26,
+      "15": 43,
+      "14": 46,
+      "12": 19,
+      "20": 19,
+      "18": 44,
+      "13": 27,
+      "19": 22,
+      "1": 7,
+      "21": 23,
+      "23": 5,
+      "11": 2,
+      "2": 4,
+      "0": 2,
+      "10": 2,
+      "22": 19,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 97,
+      "Tuesday": 84,
+      "Friday": 57,
+      "Thursday": 81,
+      "Monday": 34
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.53,
+    "dept_average_30d": 5.86,
+    "dept_rank": 35,
+    "dept_size": 166
+  }
+}

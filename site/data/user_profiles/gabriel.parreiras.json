@@ -1,0 +1,262 @@
+{
+  "username": "gabriel.parreiras",
+  "name": "Gabriel Parreiras",
+  "generated_at": "2026-04-08T20:22:30.448344",
+  "summary": {
+    "message_count": 495,
+    "channels_active": 18,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 22,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U0283BKGTDM> is there any way I can help? please let me know.\n\n<@U08959VBCUT> as we talked on the meeting, I'll check again when I login tomorrow.",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "nice, it worked! thank you",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "evaluation in seconds would be amazing.\n\nonce we fix broken builds on all zones and therefore cache them properly, we should see even lower build",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "nice, thanks! just looking at the changes now",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! yeah, I think it could be more semantically correct. at the same time, it seems like the current implementation return different URL",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "perfect, thanks!",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to deploy to staging. there are instructions on readme.\n\nthe changes are only in controller, dont change API contract or have migrations,",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "ben.maynard",
+          "count": 12
+        },
+        {
+          "user": "ashley.williams",
+          "count": 11
+        },
+        {
+          "user": "jacob.michels",
+          "count": 8
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 4
+        },
+        {
+          "user": "ester.kais",
+          "count": 3
+        },
+        {
+          "user": "alex.decious",
+          "count": 2
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 2
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 1
+        },
+        {
+          "user": "jacob.bush",
+          "count": 1
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.58,
+      "count": 121,
+      "top_channels": [
+        {
+          "channel": "proj-instant-dev-envs",
+          "messages": 324
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 33
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 26
+        },
+        {
+          "channel": "tectonix",
+          "messages": 23
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 19
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 16
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 14
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 10
+        },
+        {
+          "channel": "wcb-alerts",
+          "messages": 7
+        },
+        {
+          "channel": "help-observability",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.85,
+      "count": 61,
+      "top_mentioners": [
+        {
+          "user": "jacob.michels",
+          "count": 18
+        },
+        {
+          "user": "ashley.williams",
+          "count": 17
+        },
+        {
+          "user": "ben.maynard",
+          "count": 6
+        },
+        {
+          "user": "marvin.davila",
+          "count": 3
+        },
+        {
+          "user": "alex.decious",
+          "count": 2
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "chao.duan",
+          "count": 2
+        },
+        {
+          "user": "sam.bostock",
+          "count": 1
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 27,
+      "17": 65,
+      "16": 95,
+      "15": 73,
+      "14": 102,
+      "13": 47,
+      "12": 8,
+      "11": 12,
+      "10": 13,
+      "8": 21,
+      "19": 12,
+      "9": 18,
+      "7": 2
+    },
+    "by_day": {
+      "Thursday": 123,
+      "Wednesday": 102,
+      "Tuesday": 97,
+      "Monday": 50,
+      "Friday": 123
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.13,
+    "dept_average_30d": 5.75,
+    "dept_rank": 106,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "username": "david.hynes",
+  "name": "David Hynes",
+  "generated_at": "2026-04-08T20:22:28.316669",
+  "summary": {
+    "message_count": 64,
+    "channels_active": 12,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Things seem to look good now.",
+          "channel": "help-app-store",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Quick question for the team based on some of the AI feedback on",
+          "channel": "dev-generic-events",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "kurt.peters",
+          "count": 1
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.42,
+      "count": 207,
+      "top_channels": [
+        {
+          "channel": "dev-generic-events",
+          "messages": 32
+        },
+        {
+          "channel": "proj-managed-pricing",
+          "messages": 7
+        },
+        {
+          "channel": "billing-operations",
+          "messages": 7
+        },
+        {
+          "channel": "help-app-store",
+          "messages": 5
+        },
+        {
+          "channel": "foundations-dx-ops",
+          "messages": 4
+        },
+        {
+          "channel": "s-foundations-pricing-and-devdash-river",
+          "messages": 2
+        },
+        {
+          "channel": "foundations-and-billing-team-combo-chats",
+          "messages": 2
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 1
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 1
+        },
+        {
+          "channel": "help-eng-interviews",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "marek.kudlacz",
+          "count": 8
+        },
+        {
+          "user": "mladen.rangelov",
+          "count": 4
+        },
+        {
+          "user": "haozhi.liao",
+          "count": 3
+        },
+        {
+          "user": "azadeh.alirezay",
+          "count": 3
+        },
+        {
+          "user": "justin.h.kim",
+          "count": 1
+        },
+        {
+          "user": "ben.lerchin",
+          "count": 1
+        },
+        {
+          "user": "ashton.addington",
+          "count": 1
+        },
+        {
+          "user": "tyler.eon",
+          "count": 1
+        },
+        {
+          "user": "kurt.peters",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 15,
+      "19": 13,
+      "14": 9,
+      "21": 4,
+      "20": 10,
+      "2": 2,
+      "18": 4,
+      "17": 5,
+      "13": 2
+    },
+    "by_day": {
+      "Tuesday": 6,
+      "Monday": 14,
+      "Thursday": 20,
+      "Friday": 11,
+      "Wednesday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.19,
+    "dept_average_30d": 5.79,
+    "dept_rank": 930,
+    "dept_size": 1233
+  }
+}

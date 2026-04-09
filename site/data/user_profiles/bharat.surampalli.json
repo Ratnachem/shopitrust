@@ -1,0 +1,226 @@
+{
+  "username": "bharat.surampalli",
+  "name": "Bharat Surampalli",
+  "generated_at": "2026-04-08T20:22:12.590229",
+  "summary": {
+    "message_count": 100,
+    "channels_active": 11,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations <@U07S5A12SCW> on clearing the house inspection - glad everything is sorted now man  :party-blob:",
+          "channel": "payments-pme-data-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "yes! feel free to call on tuple",
+          "channel": "payments-pme-data-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Few pointers -\n\u2022 Current state will only produce 1 output per day (largest anomaly)\n    \u25e6 During yesterday's run - it found the Nov 25 anomaly to be",
+          "channel": "payments-pme-data-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team, I <https://github.com/Shopify/data-acq-db-sources/pull/8154|added> a new manifest for `organization_identity_assessor_events` on",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@U03CZG5QK6X>",
+          "channel": "pcb-champions",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sarah helped me on this already! thank you John, and Sarah! :slightly_smiling_face:",
+          "channel": "help-data-hiring",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "&gt; Does this mean we'll be showing 3 anomalies per metric per day?\nyes\n\n&gt; I worry that we won't capture the true value of the pipeline without",
+          "channel": "payments-pme-data-team",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "danielle.harris",
+          "count": 5
+        },
+        {
+          "user": "john.zhou",
+          "count": 4
+        },
+        {
+          "user": "weiyi.yin",
+          "count": 3
+        },
+        {
+          "user": "ronald.feng",
+          "count": 1
+        },
+        {
+          "user": "haitham.fallatah",
+          "count": 1
+        },
+        {
+          "user": "silvia.hayden",
+          "count": 1
+        },
+        {
+          "user": "caihua.du",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.08,
+      "count": 136,
+      "top_channels": [
+        {
+          "channel": "payments-pme-data-team",
+          "messages": 71
+        },
+        {
+          "channel": "temp-anomaly-detection-testing",
+          "messages": 12
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 3
+        },
+        {
+          "channel": "proj-operational-health",
+          "messages": 3
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 3
+        },
+        {
+          "channel": "sp-provider-expansion",
+          "messages": 2
+        },
+        {
+          "channel": "pcb-performance",
+          "messages": 2
+        },
+        {
+          "channel": "eu-orr",
+          "messages": 1
+        },
+        {
+          "channel": "payments-data-science",
+          "messages": 1
+        },
+        {
+          "channel": "pcb-champions",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "kevin.norring",
+          "count": 10
+        },
+        {
+          "user": "danielle.harris",
+          "count": 8
+        },
+        {
+          "user": "john.zhou",
+          "count": 6
+        },
+        {
+          "user": "jose.degyves",
+          "count": 5
+        },
+        {
+          "user": "weiyi.yin",
+          "count": 3
+        },
+        {
+          "user": "jayden.suh",
+          "count": 2
+        },
+        {
+          "user": "silvia.hayden",
+          "count": 2
+        },
+        {
+          "user": "devin.asaro",
+          "count": 1
+        },
+        {
+          "user": "caihua.du",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "17": 15,
+      "16": 9,
+      "15": 7,
+      "22": 22,
+      "5": 1,
+      "21": 9,
+      "19": 8,
+      "23": 1,
+      "6": 2,
+      "14": 1,
+      "20": 8,
+      "4": 2
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Tuesday": 29,
+      "Monday": 28,
+      "Friday": 12,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.92,
+    "dept_average_30d": 5.77,
+    "dept_rank": 742,
+    "dept_size": 885
+  }
+}

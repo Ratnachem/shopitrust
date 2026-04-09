@@ -1,0 +1,237 @@
+{
+  "username": "mouhcine.taoufiq",
+  "name": "Mouhcine Taoufiq",
+  "generated_at": "2026-04-08T20:22:31.017612",
+  "summary": {
+    "message_count": 65,
+    "channels_active": 11,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need anything",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Alright. Thank you! I already tested it btw using 1 day of data. Results are in:\n\n`SELECT *`\n`FROM",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "shop-data",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both for the quick reply. I\u2019m on the Buyer Profile team and we expose a domain data called the",
+          "channel": "shop-data",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! Can someone help me figure out how I can access search queries in Event Refinery for Shop? Basically the equivalent of `payload.event_type",
+          "channel": "shop-data",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! How can I access a user\u2019s search query in ER for Shop users? Basically the equivalent of `payload.event_type =",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "These functions are quite simple. I was planning on using macros. I think macros are easier to test and set up and I don\u2019t really see the benefit of",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "baoyuan.xing",
+          "count": 4
+        },
+        {
+          "user": "dion.banno",
+          "count": 2
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 2
+        },
+        {
+          "user": "adam.duncan",
+          "count": 2
+        },
+        {
+          "user": "sonali.mayer",
+          "count": 1
+        },
+        {
+          "user": "rich.chen",
+          "count": 1
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 1
+        },
+        {
+          "user": "annie.caron",
+          "count": 1
+        },
+        {
+          "user": "ryan.self",
+          "count": 1
+        },
+        {
+          "user": "gabriel.tanchen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.62,
+      "count": 165,
+      "top_channels": [
+        {
+          "channel": "mm-fdn-buyer-profile-ops",
+          "messages": 17
+        },
+        {
+          "channel": "proj-customer-events-refinery",
+          "messages": 12
+        },
+        {
+          "channel": "proj-smart-multichannel-messaging",
+          "messages": 7
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 7
+        },
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 7
+        },
+        {
+          "channel": "shop-data",
+          "messages": 5
+        },
+        {
+          "channel": "mm-foundations-messaging-data-notify",
+          "messages": 5
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 2
+        },
+        {
+          "channel": "mm-fdn-atc",
+          "messages": 1
+        },
+        {
+          "channel": "bp-cdp-flink-dev",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "francois.saintjacques",
+          "count": 5
+        },
+        {
+          "user": "baoyuan.xing",
+          "count": 3
+        },
+        {
+          "user": "sunyoung.hwang",
+          "count": 3
+        },
+        {
+          "user": "dion.banno",
+          "count": 2
+        },
+        {
+          "user": "adam.duncan",
+          "count": 2
+        },
+        {
+          "user": "ryan.self",
+          "count": 2
+        },
+        {
+          "user": "soheil.hajimohammadi",
+          "count": 2
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 1
+        },
+        {
+          "user": "chad.isenberg",
+          "count": 1
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 5,
+      "17": 4,
+      "16": 4,
+      "15": 14,
+      "14": 11,
+      "13": 13,
+      "20": 8,
+      "19": 5,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Friday": 6,
+      "Thursday": 18,
+      "Tuesday": 11,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.97,
+    "dept_average_30d": 5.77,
+    "dept_rank": 732,
+    "dept_size": 885
+  }
+}

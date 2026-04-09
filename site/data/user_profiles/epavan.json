@@ -1,0 +1,107 @@
+{
+  "username": "epavan",
+  "name": "Epavan",
+  "generated_at": "2026-04-08T20:22:30.062530",
+  "summary": {
+    "message_count": 52,
+    "channels_active": 1,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 5,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U025M997B3P> just following up on the Fine-grained DML and partition concurrency. If you would like to test out multi-partition concurrency along",
+          "channel": "gcp-bq-external",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "as I mentioned, the limit was placed as a way to prevent queries from running over a large amount of data inadvertently (this was a common feedback",
+          "channel": "gcp-bq-external",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.48,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "iurie.cangea",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.48,
+      "count": 12,
+      "top_channels": [
+        {
+          "channel": "gcp-bq-external",
+          "messages": 52
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.4,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "tdelazzari",
+          "count": 6
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 2
+        },
+        {
+          "user": "bipinu",
+          "count": 1
+        },
+        {
+          "user": "connor.clark",
+          "count": 1
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 2,
+      "20": 1,
+      "23": 35,
+      "21": 2,
+      "0": 10,
+      "17": 2
+    },
+    "by_day": {
+      "Friday": 2,
+      "Thursday": 19,
+      "Wednesday": 28,
+      "Tuesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.89,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1278,
+    "dept_size": 1663
+  }
+}

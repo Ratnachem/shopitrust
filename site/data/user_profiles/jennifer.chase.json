@@ -1,0 +1,110 @@
+{
+  "username": "jennifer.chase",
+  "name": "Jennifer Chase",
+  "generated_at": "2026-04-08T20:22:14.735162",
+  "summary": {
+    "message_count": 14,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That did it - thank you for the help! :slightly_smiling_face:",
+          "channel": "help-it",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W01993BF4MC> I pressed the wrong button by accident! I still need help. Thank you!",
+          "channel": "help-it",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I need to be able to access 1Password, but when I try to login via Okta, I cannot get the verification code I need in order to login. I was affected",
+          "channel": "help-it",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I haven't had an update on my ticket in several hours and I cannot work without this resolved. What's the best way to solve this issue? Thank you! ",
+          "channel": "help-it",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I get this error when I open Chrome, as it immediately crashes. I have checked that my computer does not need updates, nor does Cloudflare. I cannot",
+          "channel": "help-it",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "jenica.mcguire",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-it",
+          "messages": 13
+        },
+        {
+          "channel": "customer-references",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "marianne.encina",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 10,
+      "0": 2,
+      "20": 2
+    },
+    "by_day": {
+      "Wednesday": 11,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Communications",
+    "user_score_30d": 4.13,
+    "dept_average_30d": 4.33,
+    "dept_rank": 27,
+    "dept_size": 42
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "username": "derek.pyne",
+  "name": "Derek Pyne",
+  "generated_at": "2026-04-08T20:22:29.814856",
+  "summary": {
+    "message_count": 497,
+    "channels_active": 16,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 41,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "perfect, thanks!",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":+1: sounds good, thanks!",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Any luck or things I can help with? <@U0A9NA6HYS0>",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02CX07FDDW> does that sound right? feel free to change",
+          "channel": "angle-river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "it can, but its been confused lately and there was a bug late last week that was causing it to crash. <@U0A5GB06J4X> is working on this and already",
+          "channel": "river-dev",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "lets make a new /memories/skills for reviewing pull requests. this is what i have in my version of this skill. give me feedback\n\n```   ---\n   name:",
+          "channel": "river-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ahhh, I think I went a little looney. I thought we had already brought in an `observe-data` skill. My bad <@U02JMN3E4HF>!",
+          "channel": "river",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to hijack the pr if you've got a better way too :slightly_smiling_face:",
+          "channel": "tectonix",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "The Data Portal CLI is now in world (thanks to Anthony!), and will be more discoverable by River soon :slightly_smiling_face:",
+          "channel": "scout-team",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad, one seconds",
+          "channel": "project-global-analytical-engine",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Then, for River to long term know how/when/whatever with Scout, it will need to go into Scouts one in world and learn about it there. We will",
+          "channel": "scout-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever you think is best here :slightly_smiling_face: I'm totally out of my expertise here",
+          "channel": "tectonix",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "anthony.tasca",
+          "count": 5
+        },
+        {
+          "user": "angela.ychen",
+          "count": 4
+        },
+        {
+          "user": "patrick.douglas",
+          "count": 4
+        },
+        {
+          "user": "spencer.lawrence",
+          "count": 4
+        },
+        {
+          "user": "ali.imad",
+          "count": 3
+        },
+        {
+          "user": "david.gauthier-dussureault",
+          "count": 3
+        },
+        {
+          "user": "eric.florenzano",
+          "count": 3
+        },
+        {
+          "user": "alex.pilon",
+          "count": 3
+        },
+        {
+          "user": "batu.atakan",
+          "count": 3
+        },
+        {
+          "user": "javier.moreno",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.41,
+      "count": 90,
+      "top_channels": [
+        {
+          "channel": "river",
+          "messages": 162
+        },
+        {
+          "channel": "river-dev",
+          "messages": 84
+        },
+        {
+          "channel": "derek-pyne-river",
+          "messages": 78
+        },
+        {
+          "channel": "ai-analytics-chat",
+          "messages": 49
+        },
+        {
+          "channel": "project-global-analytical-engine",
+          "messages": 24
+        },
+        {
+          "channel": "river-infra",
+          "messages": 23
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 19
+        },
+        {
+          "channel": "dave-river-chat",
+          "messages": 13
+        },
+        {
+          "channel": "ask-river",
+          "messages": 13
+        },
+        {
+          "channel": "tectonix",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 104,
+      "top_mentioners": [
+        {
+          "user": "javier.moreno",
+          "count": 24
+        },
+        {
+          "user": "surma",
+          "count": 5
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 5
+        },
+        {
+          "user": "patrick.douglas",
+          "count": 5
+        },
+        {
+          "user": "anthony.tasca",
+          "count": 4
+        },
+        {
+          "user": "coralie.delpha",
+          "count": 4
+        },
+        {
+          "user": "eric.florenzano",
+          "count": 4
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 3
+        },
+        {
+          "user": "sherry.feng",
+          "count": 3
+        },
+        {
+          "user": "angela.ychen",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 59,
+      "18": 71,
+      "0": 1,
+      "17": 55,
+      "15": 35,
+      "14": 44,
+      "13": 23,
+      "12": 20,
+      "22": 24,
+      "20": 65,
+      "11": 2,
+      "21": 40,
+      "16": 58
+    },
+    "by_day": {
+      "Friday": 79,
+      "Thursday": 107,
+      "Wednesday": 122,
+      "Tuesday": 106,
+      "Monday": 83
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.23,
+    "dept_average_30d": 5.39,
+    "dept_rank": 49,
+    "dept_size": 272
+  }
+}

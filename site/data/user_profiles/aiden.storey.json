@@ -1,0 +1,190 @@
+{
+  "username": "aiden.storey",
+  "name": "Aiden Storey",
+  "generated_at": "2026-04-08T20:22:09.745409",
+  "summary": {
+    "message_count": 97,
+    "channels_active": 7,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Summary thanks to Claude, but from pairing with <@U08QAMLHVCP> today on some issues with the SFR pipelines was curious to see what was taking the",
+          "channel": "proj-eng-fast-core-tests",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to take it off and test?",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Given that there are only  ~150 times that we do this in ~50 files, whatever we choose I want to make sure that we don't make loading fixtures slower",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "guillaume.malette",
+          "count": 2
+        },
+        {
+          "user": "jared.blatt",
+          "count": 2
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 2
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 2
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 2
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 1
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 1
+        },
+        {
+          "user": "tobias.bales",
+          "count": 1
+        },
+        {
+          "user": "aura.everitt",
+          "count": 1
+        },
+        {
+          "user": "emilie.noel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.59,
+      "count": 163,
+      "top_channels": [
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 39
+        },
+        {
+          "channel": "proj-eng-fast-core-tests",
+          "messages": 36
+        },
+        {
+          "channel": "help-it",
+          "messages": 7
+        },
+        {
+          "channel": "team-ruby-dx",
+          "messages": 7
+        },
+        {
+          "channel": "team-core-applications",
+          "messages": 6
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 1
+        },
+        {
+          "channel": "core-commerceloop-dev-ai-stakeholders",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.33,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "jahfer.husain",
+          "count": 6
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 2
+        },
+        {
+          "user": "tobias.bales",
+          "count": 2
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 1
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 1
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 8,
+      "14": 21,
+      "13": 16,
+      "19": 9,
+      "17": 18,
+      "16": 10,
+      "20": 5,
+      "15": 3,
+      "12": 1,
+      "22": 1,
+      "4": 2,
+      "3": 1,
+      "0": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 24,
+      "Monday": 34,
+      "Thursday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.72,
+    "dept_average_30d": 5.79,
+    "dept_rank": 618,
+    "dept_size": 1233
+  }
+}

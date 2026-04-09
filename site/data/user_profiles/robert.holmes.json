@@ -1,0 +1,186 @@
+{
+  "username": "robert.holmes",
+  "name": "Robert Holmes",
+  "generated_at": "2026-04-08T20:22:15.147645",
+  "summary": {
+    "message_count": 86,
+    "channels_active": 9,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Hey guys following a link from sidekick-eng.  I opened this <https://app.graphite.com/github/pr/Shopify/sidekick-server/13887|PR> to fix a bug for",
+          "channel": "proj-agent-shared-client",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I have no issue with making it a polymorphic key.",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inc-20088-high-500-on-unifiedauth-proxy",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "tyler.rowsell",
+          "count": 1
+        },
+        {
+          "user": "chris.maltais",
+          "count": 1
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 1
+        },
+        {
+          "user": "kush.patel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.85,
+      "count": 177,
+      "top_channels": [
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 29
+        },
+        {
+          "channel": "inc-20088-high-500-on-unifiedauth-proxy",
+          "messages": 19
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 12
+        },
+        {
+          "channel": "proj-agent-shared-client",
+          "messages": 9
+        },
+        {
+          "channel": "web-staging",
+          "messages": 8
+        },
+        {
+          "channel": "sfdc_pull_requests",
+          "messages": 3
+        },
+        {
+          "channel": "help-admin-web-platform",
+          "messages": 3
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 2
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "jared.garvinjoseph",
+          "count": 8
+        },
+        {
+          "user": "mike.sassak",
+          "count": 5
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 5
+        },
+        {
+          "user": "kush.patel",
+          "count": 4
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 3
+        },
+        {
+          "user": "artin.rezaee",
+          "count": 1
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 1
+        },
+        {
+          "user": "dima.belyaev",
+          "count": 1
+        },
+        {
+          "user": "mazine.mrini",
+          "count": 1
+        },
+        {
+          "user": "chris.maltais",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 6,
+      "23": 4,
+      "16": 18,
+      "12": 2,
+      "17": 9,
+      "13": 11,
+      "19": 6,
+      "15": 14,
+      "11": 1,
+      "1": 1,
+      "22": 3,
+      "20": 6,
+      "14": 4,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 13,
+      "Tuesday": 16,
+      "Monday": 25,
+      "Friday": 20,
+      "Thursday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.76,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1078,
+    "dept_size": 1233
+  }
+}

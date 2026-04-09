@@ -1,0 +1,223 @@
+{
+  "username": "philip.tolton",
+  "name": "Philip Tolton",
+  "generated_at": "2026-04-08T20:22:08.183901",
+  "summary": {
+    "message_count": 388,
+    "channels_active": 35,
+    "unique_people_mentioned": 43,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "i dunno why im excited for this",
+          "channel": "tmp-spanner-autoscale",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I've been following along here and you guys are doing an excellent job posting updates. Easy to follow and consistent progress. Thank you!",
+          "channel": "proj-edge-stapled-sessions",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Sam",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "do whatever is faster",
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 44,
+      "top_mentioned": [
+        {
+          "user": "chao.duan",
+          "count": 6
+        },
+        {
+          "user": "sean.kelly",
+          "count": 6
+        },
+        {
+          "user": "sean.guntvedt",
+          "count": 4
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 4
+        },
+        {
+          "user": "marco.araujo",
+          "count": 3
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 3
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 2
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 2
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 2
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 473,
+      "top_channels": [
+        {
+          "channel": "tmp-spanner-autoscale",
+          "messages": 91
+        },
+        {
+          "channel": "proj-edge-stapled-sessions",
+          "messages": 53
+        },
+        {
+          "channel": "liquid-vm-perf-data",
+          "messages": 47
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 36
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 26
+        },
+        {
+          "channel": "proj-eng-fast-core-tests",
+          "messages": 11
+        },
+        {
+          "channel": "proj-ddos-protection",
+          "messages": 11
+        },
+        {
+          "channel": "proj-storefronts-processing-time",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20813-low-prio-sfr-sustained-bot-pressure",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-core-container-reliabiltiy",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 104,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 16
+        },
+        {
+          "user": "youxin.li",
+          "count": 11
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 10
+        },
+        {
+          "user": "chase.platon",
+          "count": 8
+        },
+        {
+          "user": "derek.stride",
+          "count": 5
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 5
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 4
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 3
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 3
+        },
+        {
+          "user": "tobias.bales",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "14": 39,
+      "13": 60,
+      "0": 5,
+      "19": 31,
+      "12": 12,
+      "22": 7,
+      "20": 83,
+      "15": 32,
+      "17": 37,
+      "16": 10,
+      "11": 5,
+      "1": 1,
+      "23": 3,
+      "21": 28
+    },
+    "by_day": {
+      "Wednesday": 80,
+      "Tuesday": 122,
+      "Monday": 77,
+      "Thursday": 71,
+      "Friday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 98,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "username": "richard.ludvigh",
+  "name": "Richard Ludvigh",
+  "generated_at": "2026-04-08T20:22:27.903459",
+  "summary": {
+    "message_count": 177,
+    "channels_active": 10,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> can you rebase <https://app.graphite.com/github/pr/shop/world/426508> and make sure the CI gets green ? let me know if any code fixes",
+          "channel": "richard-ludvigh-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! hopefully we should be good with the revert. Errors seem to originate from that adjustment rollup service, and i didn\u2019t see any other PRs",
+          "channel": "inv-20284-typetoolkit-unexpectednilerror",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "yiyi.dai",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.64,
+      "count": 96,
+      "top_channels": [
+        {
+          "channel": "richard-ludvigh-river",
+          "messages": 94
+        },
+        {
+          "channel": "inv-20284-typetoolkit-unexpectednilerror",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20331-consistently-failing-post-merge-testing-c",
+          "messages": 18
+        },
+        {
+          "channel": "proj-purchase-orders-create-transfers",
+          "messages": 13
+        },
+        {
+          "channel": "inventory-error-handling-imrpovements",
+          "messages": 9
+        },
+        {
+          "channel": "inventory-alerts",
+          "messages": 6
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 6
+        },
+        {
+          "channel": "second-brain",
+          "messages": 6
+        },
+        {
+          "channel": "proj-rollup-performance-improvements",
+          "messages": 3
+        },
+        {
+          "channel": "proj-inventory-reservations",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "justin.bicknell",
+          "count": 3
+        },
+        {
+          "user": "himanshu.chhabra",
+          "count": 3
+        },
+        {
+          "user": "hisham.kalban",
+          "count": 2
+        },
+        {
+          "user": "peter.kostylev",
+          "count": 2
+        },
+        {
+          "user": "brandon.ashley",
+          "count": 1
+        },
+        {
+          "user": "neil.rosenstech",
+          "count": 1
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 1
+        },
+        {
+          "user": "rj.davis",
+          "count": 1
+        },
+        {
+          "user": "kirill.suslov",
+          "count": 1
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 23,
+      "21": 18,
+      "20": 14,
+      "19": 4,
+      "18": 14,
+      "22": 33,
+      "16": 20,
+      "15": 15,
+      "23": 11,
+      "6": 2,
+      "5": 18,
+      "4": 1,
+      "14": 1,
+      "0": 2,
+      "3": 1
+    },
+    "by_day": {
+      "Tuesday": 36,
+      "Monday": 15,
+      "Thursday": 54,
+      "Friday": 12,
+      "Wednesday": 60
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.88,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1043,
+    "dept_size": 1233
+  }
+}

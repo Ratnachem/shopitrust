@@ -1,0 +1,327 @@
+{
+  "username": "travis.a.smith",
+  "name": "Travis A Smith",
+  "generated_at": "2026-04-08T20:22:07.513428",
+  "summary": {
+    "message_count": 936,
+    "channels_active": 26,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 25,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "Oh, haha, I was testing some stuff locally and I think I got too excited for the fix before committing.",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh, I was thinking Binks. My bad. <@U01VCLAT66M> handles most of the Librechat stuff so it's not even on my mind.",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Alright, some other stuff to review...\n:eyes: <https://app.graphite.com/github/pr/shop/world/548607?ref=gt-pasteable-stack|#548607 Add proposal:",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "re: above... looks like the stack didn't get updated correct. \"Moved onto\" so it's a straight line...\n\n```\u276f gt submit --stack                      \n\ud83e\udd5e",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "Whole thing for your browsing...\n\n```system/ci/ci-controller on \uf418 travisthetechie_adding_binks_auth_creds_to_ci_controller via \ue791 v3.4.4 via \uf313 impure",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Oh wow, this is amazing. <https://github.com/shop/world/pull/583890/changes#r3045206506> the jobs bootloading code is referenced even though it has",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "```\u276f bin/rails 'ops:cancel_executions[ids:519823+520766+528948 target:production execute]'\n\ud83d\ude80 Proxying to production...\n   Pod: web-6b48f4c96d-8zxmj\n ",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Should, I need to run into the eye doc then, not blocked on my calendar, my bad.",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Looks like Henrique cleared the queue. Thanks! Clean slates all around.",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "See up thread <@U0AFZE116LS> &amp; <@U09C1AB8SKG>, let me know if there are questions/comments/disagreements.",
+          "channel": "proj-eng-monorepo-llm-reviews",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "More important to fix whatever failed for sure, but when you get a moment, does this mean we won't be on `apps-us-ce1-dk0` anymore?",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "It's the way auth helpers generally work :shrugd:. Not that I disagree, but don't like to mess with existing patterns unless it's need. Let's test if",
+          "channel": "tectonix",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "I'm happy to review the plan with you next week, both existing and what we plan next! I don't mind a second pair of eyes, this is complicated. I was",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Can we bit more explicit what the tool contract will look like? Env variables, configuration, whatever else?",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ha, well, I never got to answer this before my account was locked out. We do subscribe to GDE, but we need to be able to checkout the code and",
+          "channel": "team-ci",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Oh yeah, we get throttled by Anthropic regularly, there is a built-in model fallback that's getting released because of it.\n\nBut yeah, I assume I can",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Deleted, moved, whatever. But yeah. Not gonna break anything, but we should clean things up.",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever, just my thoughts. It's not critical now, we have a fix.",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think we've absolutely caused some issues, but generally they wouldn't be widespread, just whatever nodes our repo is on (far from all of them).",
+          "channel": "developers-talk",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "jin.li",
+          "count": 5
+        },
+        {
+          "user": "kyle.mcdaniel",
+          "count": 4
+        },
+        {
+          "user": "peter.petrov",
+          "count": 4
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 4
+        },
+        {
+          "user": "matt.burnett",
+          "count": 3
+        },
+        {
+          "user": "sebastien.bruel",
+          "count": 2
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 2
+        },
+        {
+          "user": "tim.perkins",
+          "count": 2
+        },
+        {
+          "user": "thad.craft",
+          "count": 2
+        },
+        {
+          "user": "jon.allured",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.67,
+      "count": 326,
+      "top_channels": [
+        {
+          "channel": "projects-dev-ai",
+          "messages": 582
+        },
+        {
+          "channel": "dev-ai-algo",
+          "messages": 78
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 59
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 37
+        },
+        {
+          "channel": "team-ci",
+          "messages": 27
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 24
+        },
+        {
+          "channel": "proj-eng-monorepo-llm-reviews",
+          "messages": 20
+        },
+        {
+          "channel": "help-gitstream",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20571-high-infra-failures-on-the-ci-staging-us-",
+          "messages": 15
+        },
+        {
+          "channel": "tectonix",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.9,
+      "count": 71,
+      "top_mentioners": [
+        {
+          "user": "jon.allured",
+          "count": 13
+        },
+        {
+          "user": "jin.li",
+          "count": 12
+        },
+        {
+          "user": "peter.petrov",
+          "count": 8
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 7
+        },
+        {
+          "user": "will.goldstein",
+          "count": 3
+        },
+        {
+          "user": "theo.truong",
+          "count": 3
+        },
+        {
+          "user": "chao.duan",
+          "count": 2
+        },
+        {
+          "user": "sebastien.bruel",
+          "count": 2
+        },
+        {
+          "user": "zac.roberts",
+          "count": 2
+        },
+        {
+          "user": "eric.yang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 166,
+      "17": 144,
+      "16": 100,
+      "14": 96,
+      "13": 83,
+      "21": 46,
+      "15": 49,
+      "12": 29,
+      "20": 120,
+      "19": 93,
+      "23": 3,
+      "22": 3,
+      "1": 1,
+      "0": 3
+    },
+    "by_day": {
+      "Wednesday": 269,
+      "Tuesday": 160,
+      "Monday": 126,
+      "Friday": 195,
+      "Thursday": 186
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.7,
+    "dept_average_30d": 4.74,
+    "dept_rank": 63,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "username": "regan.zhao",
+  "name": "Regan Zhao",
+  "generated_at": "2026-04-08T20:22:17.214380",
+  "summary": {
+    "message_count": 296,
+    "channels_active": 13,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.3,
+      "pos_count": 42,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-search-offline-reranker-upgrade",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No worries. I saw another post with the <https://shopify.slack.com/archives/C0ACW1U04E5/p1775514030050449|discussion>. Will ask there! Thank you",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you for confirming",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "search-relevance-metrics-v-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for that!",
+          "channel": "proj-search-offline-reranker-upgrade",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team! Does anyone know if there's a storefront equivalent of `sdp-prd-shop-ml.intermediate.intermediate__shop_search__product_search_outcomes`?",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! May I ask if you did non english resample ( `results_non_english_sample = results_non_english.sample(n=1500, random_state=42)` ) for",
+          "channel": "proj-meridian-relevance",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it, thank you!",
+          "channel": "help-shopify-catalog",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I will reach out",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-search-tooling",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Oh I just realized it's a holiday in Canada. Let me figure it out and trigger it then",
+          "channel": "proj-search-offline-reranker-upgrade",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "jingyi.guo",
+          "count": 14
+        },
+        {
+          "user": "younggue.bae",
+          "count": 13
+        },
+        {
+          "user": "felipe.besson",
+          "count": 13
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 11
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 11
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 8
+        },
+        {
+          "user": "nikola.todic",
+          "count": 7
+        },
+        {
+          "user": "baiji.he",
+          "count": 5
+        },
+        {
+          "user": "ye.an",
+          "count": 5
+        },
+        {
+          "user": "caroline.lee",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.38,
+      "count": 152,
+      "top_channels": [
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 50
+        },
+        {
+          "channel": "proj-meridian-relevance",
+          "messages": 48
+        },
+        {
+          "channel": "search-relevance-retrieval",
+          "messages": 47
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 41
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 28
+        },
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 27
+        },
+        {
+          "channel": "proj-search-offline-reranker-upgrade",
+          "messages": 21
+        },
+        {
+          "channel": "help-search-tooling",
+          "messages": 14
+        },
+        {
+          "channel": "search-ingest-ops",
+          "messages": 10
+        },
+        {
+          "channel": "search-relevance-metrics-v-team",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 118,
+      "top_mentioners": [
+        {
+          "user": "younggue.bae",
+          "count": 24
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 20
+        },
+        {
+          "user": "felipe.besson",
+          "count": 19
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 14
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 10
+        },
+        {
+          "user": "nikola.todic",
+          "count": 6
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 5
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 5
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 4
+        },
+        {
+          "user": "noah.frank",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 30,
+      "16": 25,
+      "15": 30,
+      "14": 14,
+      "0": 12,
+      "21": 42,
+      "20": 41,
+      "19": 37,
+      "13": 17,
+      "1": 4,
+      "23": 13,
+      "22": 5,
+      "18": 25,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 72,
+      "Tuesday": 69,
+      "Monday": 47,
+      "Friday": 49,
+      "Thursday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.5,
+    "dept_average_30d": 5.79,
+    "dept_rank": 736,
+    "dept_size": 1233
+  }
+}

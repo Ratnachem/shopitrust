@@ -1,0 +1,149 @@
+{
+  "username": "jc.dansereau",
+  "name": "JC Dansereau",
+  "generated_at": "2026-04-08T20:22:28.643229",
+  "summary": {
+    "message_count": 49,
+    "channels_active": 7,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "The setup to run locally tests with yugabyte is broken, we are trying to figure it out but progress is",
+          "channel": "selling-strategies-yugabyte",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "peter.arato",
+          "count": 3
+        },
+        {
+          "user": "miroslav.miskovski",
+          "count": 2
+        },
+        {
+          "user": "jeffrey.bagdis",
+          "count": 1
+        },
+        {
+          "user": "brice.argenson",
+          "count": 1
+        },
+        {
+          "user": "nigel.swinson",
+          "count": 1
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        },
+        {
+          "user": "kerstin.puschke",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.84,
+      "count": 75,
+      "top_channels": [
+        {
+          "channel": "selling-strategies-yugabyte",
+          "messages": 22
+        },
+        {
+          "channel": "help-db-agnostic-core",
+          "messages": 11
+        },
+        {
+          "channel": "help-fleet-rollout",
+          "messages": 5
+        },
+        {
+          "channel": "help-selling-strategies",
+          "messages": 3
+        },
+        {
+          "channel": "help-vault",
+          "messages": 3
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 3
+        },
+        {
+          "channel": "merch-yugabyte",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "erick.kadbay",
+          "count": 1
+        },
+        {
+          "user": "ani.tumanyan",
+          "count": 1
+        },
+        {
+          "user": "kari.sapp",
+          "count": 1
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 17,
+      "14": 11,
+      "12": 4,
+      "16": 4,
+      "15": 1,
+      "10": 1,
+      "0": 1,
+      "19": 4,
+      "18": 3,
+      "17": 2,
+      "22": 1
+    },
+    "by_day": {
+      "Tuesday": 20,
+      "Monday": 8,
+      "Thursday": 8,
+      "Friday": 3,
+      "Wednesday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.22,
+    "dept_average_30d": 5.79,
+    "dept_rank": 913,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "username": "yad.dhaliwal",
+  "name": "Yad Dhaliwal",
+  "generated_at": "2026-04-08T20:22:30.550743",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey! I'd like to get beta access to the `shopify-talent` MCP server for use with Claude Code. Is that possible? Thanks!",
+          "channel": "talent-acceleration",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 2.23,
+      "count": 59,
+      "top_channels": [
+        {
+          "channel": "talent-acceleration",
+          "messages": 2
+        },
+        {
+          "channel": "livestream-revenue",
+          "messages": 1
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "matt.wong",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 1,
+      "12": 1,
+      "13": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 3.7,
+    "dept_average_30d": 4.13,
+    "dept_rank": 47,
+    "dept_size": 64
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "username": "ayla.mandel",
+  "name": "Ayla Mandel",
+  "generated_at": "2026-04-08T20:22:29.058838",
+  "summary": {
+    "message_count": 14,
+    "channels_active": 6,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "hi! i am trying to close-won an opportunity and in the health check it says, \"Missing CCS Contract: A signed CCS (Commerce Components) agreement via",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "katie.george",
+          "count": 1
+        },
+        {
+          "user": "jill.randall",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 161,
+      "top_channels": [
+        {
+          "channel": "claude-code",
+          "messages": 7
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 3
+        },
+        {
+          "channel": "tool-gateway",
+          "messages": 1
+        },
+        {
+          "channel": "river-revenue-marketing",
+          "messages": 1
+        },
+        {
+          "channel": "temp-fishpond-agentic",
+          "messages": 1
+        },
+        {
+          "channel": "help-agentic-plan",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "katie.george",
+          "count": 4
+        },
+        {
+          "user": "steve.popov",
+          "count": 1
+        },
+        {
+          "user": "jill.randall",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 5,
+      "20": 5,
+      "18": 3,
+      "15": 1
+    },
+    "by_day": {
+      "Monday": 8,
+      "Thursday": 1,
+      "Tuesday": 1,
+      "Wednesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.58,
+    "dept_average_30d": 4.32,
+    "dept_rank": 730,
+    "dept_size": 848
+  }
+}

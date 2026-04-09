@@ -1,0 +1,219 @@
+{
+  "username": "eileen.uchitelle",
+  "name": "Eileen Uchitelle",
+  "generated_at": "2026-04-08T20:22:28.112327",
+  "summary": {
+    "message_count": 242,
+    "channels_active": 13,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 14,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if this isn't accurate <@W018HU01Y5R>",
+          "channel": "proj-better-support-for-rg-native-ext",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W0182UR0HRD> I'm going to turn the aws sandbox off for now, but feel free to turn it back on if you need it",
+          "channel": "proj-faster-bundler",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks for filling out the proposal and reframing it <@U0829PTEY2V>. I think the argument that this is a commerce domain concept rather than just a",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to create more gemfile scenarios and commit them - we can run against if you think your change works better for a particular set of gems",
+          "channel": "proj-faster-bundler",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I fixed large, i didnt realize it needs a lockfile. the setup script runs this automatically if it's there but if you want to rebuild the gems `rake",
+          "channel": "proj-faster-bundler",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i was thinking the restriction is gems that live on the binary/alternate/whatever server can only exist after a gem was pushed to the source where a",
+          "channel": "proj-better-support-for-rg-native-ext",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "From what I've seen in the past, tests just get copied and pasted with whatever's already there without someone scrutinizing whether the test",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.85,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 2
+        },
+        {
+          "user": "edouard.chin",
+          "count": 2
+        },
+        {
+          "user": "robin.somlette",
+          "count": 1
+        },
+        {
+          "user": "richard.newman",
+          "count": 1
+        },
+        {
+          "user": "randy.stauner",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.74,
+      "count": 214,
+      "top_channels": [
+        {
+          "channel": "proj-faster-bundler",
+          "messages": 88
+        },
+        {
+          "channel": "proj-better-support-for-rg-native-ext",
+          "messages": 40
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 26
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 25
+        },
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 20
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 18
+        },
+        {
+          "channel": "inc-19891-world-shopify-production-builder-is-faili",
+          "messages": 14
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 4
+        },
+        {
+          "channel": "proj-rails-rubygems-native",
+          "messages": 2
+        },
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.33,
+      "count": 26,
+      "top_mentioners": [
+        {
+          "user": "diego.plentz",
+          "count": 5
+        },
+        {
+          "user": "jenny.shen",
+          "count": 3
+        },
+        {
+          "user": "edouard.chin",
+          "count": 3
+        },
+        {
+          "user": "aaron.patterson",
+          "count": 2
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 2
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 2
+        },
+        {
+          "user": "richard.newman",
+          "count": 2
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 1
+        },
+        {
+          "user": "erik.solorzano",
+          "count": 1
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 18,
+      "19": 41,
+      "18": 22,
+      "13": 23,
+      "20": 30,
+      "17": 25,
+      "14": 40,
+      "12": 4,
+      "15": 37,
+      "21": 2
+    },
+    "by_day": {
+      "Tuesday": 47,
+      "Monday": 64,
+      "Thursday": 52,
+      "Wednesday": 57,
+      "Friday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 8.31,
+    "dept_average_30d": 4.74,
+    "dept_rank": 18,
+    "dept_size": 1663
+  }
+}

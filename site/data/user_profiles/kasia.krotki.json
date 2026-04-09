@@ -1,0 +1,134 @@
+{
+  "username": "kasia.krotki",
+  "name": "Kasia Krotki",
+  "generated_at": "2026-04-08T20:22:32.174274",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 2,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018GB2CAF7> . I have now run into some problems connecting MCPs, is it something you can help with?",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi! I am trying to set up dev and getting this message in my terminal, should I close the terminal and reopen or will it stop and cancel the",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> now I need you to write two impact story emails. I will share examples for inspiration but from you I need the real stuff. Maybe you",
+          "channel": "temp-river-ta-playground",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> - can you look at internal information and the ML blog again and find ideas for a message in this \u201ccontrarian take\u201d category, that can",
+          "channel": "temp-river-ta-playground",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "timothy.barnes",
+          "count": 1
+        },
+        {
+          "user": "suzie.acimovic",
+          "count": 1
+        },
+        {
+          "user": "ester.kais",
+          "count": 1
+        },
+        {
+          "user": "ali.soleymani",
+          "count": 1
+        },
+        {
+          "user": "durmus.karatay",
+          "count": 1
+        },
+        {
+          "user": "jin.li",
+          "count": 1
+        },
+        {
+          "user": "eyal.klein",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.98,
+      "count": 26,
+      "top_channels": [
+        {
+          "channel": "temp-river-ta-playground",
+          "messages": 16
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "timothy.barnes",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3,
+      "17": 4,
+      "14": 5,
+      "13": 4,
+      "11": 1,
+      "9": 1,
+      "8": 2
+    },
+    "by_day": {
+      "Thursday": 6,
+      "Tuesday": 6,
+      "Monday": 3,
+      "Wednesday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 3.84,
+    "dept_average_30d": 4.13,
+    "dept_rank": 39,
+    "dept_size": 64
+  }
+}

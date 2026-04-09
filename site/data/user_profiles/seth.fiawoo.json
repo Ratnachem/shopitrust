@@ -1,0 +1,203 @@
+{
+  "username": "seth.fiawoo",
+  "name": "Seth Fiawoo",
+  "generated_at": "2026-04-08T20:22:21.547197",
+  "summary": {
+    "message_count": 289,
+    "channels_active": 6,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks for flagging Jamie. The skill was recording start time after worktree creation instead of at the very start, and the timestamps weren't both",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh my bad, I hadn't seen that. I had pulled in from main when our team meeting started and didn't think any changes had been pushed during the",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Could you connect the abacus mcp and refresh the page, and let me know if you still see the issue in a new SSA agent session?",
+          "channel": "help-ai-chat",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "No, they shouldn't be checked. If they're checked it means that within that session the llm would have access to tools from those servers. However,",
+          "channel": "help-ai-chat",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "No worries! Hopefully it works as intended :sweat_smile:. Feel free to share any feedback you have once you take it for a spin.",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Issue should be fixed now via this PR -&gt; <https://github.com/Shopify/librechat/pull/2323>. Let me know if it's resolved for you",
+          "channel": "help-ai-chat",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Issue should be fixed now via this PR -> <https://github.com/Shopify/librechat/pull/2323>. Let me know if it's resolved for you.",
+          "channel": "help-ai-chat",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Okay, got it. So if lines exist, flag but if not don't flag. Thanks for clarifying, appreciate it :bless-up:",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Apologies, totally missed your reply. So the infrastructure repos spins up resources needed for your service using k8s manifests. This section ->",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I added a comment. Let me know if that makes sense.",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 2.73,
+      "count": 72,
+      "top_channels": [
+        {
+          "channel": "team-ai-operations",
+          "messages": 153
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 81
+        },
+        {
+          "channel": "help-ai-chat",
+          "messages": 27
+        },
+        {
+          "channel": "seth-verdant-express-test",
+          "messages": 23
+        },
+        {
+          "channel": "help-observability",
+          "messages": 3
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "meg.swim",
+          "count": 14
+        },
+        {
+          "user": "michelle.oconnor",
+          "count": 3
+        },
+        {
+          "user": "ben.marton",
+          "count": 3
+        },
+        {
+          "user": "annette.lohan",
+          "count": 2
+        },
+        {
+          "user": "yuechao.qin",
+          "count": 2
+        },
+        {
+          "user": "anton.mushin",
+          "count": 2
+        },
+        {
+          "user": "jaimie.way",
+          "count": 2
+        },
+        {
+          "user": "ari.cohen",
+          "count": 1
+        },
+        {
+          "user": "dawid.milewski",
+          "count": 1
+        },
+        {
+          "user": "fredy.pla",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 43,
+      "14": 41,
+      "16": 21,
+      "0": 5,
+      "23": 7,
+      "20": 30,
+      "19": 41,
+      "18": 40,
+      "17": 39,
+      "22": 10,
+      "21": 12
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 47,
+      "Monday": 75,
+      "Thursday": 58,
+      "Friday": 49
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.12,
+    "dept_average_30d": 5.75,
+    "dept_rank": 267,
+    "dept_size": 357
+  }
+}

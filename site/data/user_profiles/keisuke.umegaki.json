@@ -1,0 +1,266 @@
+{
+  "username": "keisuke.umegaki",
+  "name": "Keisuke Umegaki",
+  "generated_at": "2026-04-08T20:22:25.801583",
+  "summary": {
+    "message_count": 955,
+    "channels_active": 47,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I will check <https://observe.shopify.io/goto/efif8hxz1c4qoe?orgId=1> after the deployment",
+          "channel": "proj-moranis",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Based on <https://observe.shopify.io/goto/afhk8y3go229se?orgId=1|these metrics>, P75 of `moranis_message_age_bucket` has sometimes hit the 1-hour",
+          "channel": "proj-moranis",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the update! I will remove flags such as",
+          "channel": "help-customers",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, Derek. I can verify that works!",
+          "channel": "river",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I see `--env PITCHFORK_REFORKING_PARALLEL_WORKERS\\=3` in the log :sweat_blob:\nI thought the test ran based on this",
+          "channel": "inv-20283-redis-locking-test-failures",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inc-20276-google-cloud-packet-lost-in-us-central1a",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "<@U0AEPQCKB3M> i was wrong. <https://github.com/shop/world/pull/508068/changes> changes `CI_QUEUE_LAZY_LOAD` and `CI_QUEUE_USE_TEST_NAMES` values.",
+          "channel": "inv-20283-redis-locking-test-failures",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0417QL4G1Z> thank you for handling this! I think we can stop this incident.",
+          "channel": "inv-20280-db-writer-cpu-saturation--95-for-25-min",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the confirmation!",
+          "channel": "inv-20206-proxysql-multiplexing-disabled",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I didn't. Thanks!",
+          "channel": "inv-20206-proxysql-multiplexing-disabled",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "bing.li",
+          "count": 13
+        },
+        {
+          "user": "sourabh.ail",
+          "count": 9
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 7
+        },
+        {
+          "user": "adam.traver",
+          "count": 6
+        },
+        {
+          "user": "deane.masonloveridge",
+          "count": 4
+        },
+        {
+          "user": "joel.rubio",
+          "count": 4
+        },
+        {
+          "user": "bartomiej.piotrowski",
+          "count": 3
+        },
+        {
+          "user": "kazuki.higashiguchi",
+          "count": 2
+        },
+        {
+          "user": "mingding.han",
+          "count": 2
+        },
+        {
+          "user": "lien.li",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 400,
+      "top_channels": [
+        {
+          "channel": "proj-slow-query-prevention",
+          "messages": 95
+        },
+        {
+          "channel": "inv-20206-proxysql-multiplexing-disabled",
+          "messages": 72
+        },
+        {
+          "channel": "inv-19949-gameday-disabling-apps",
+          "messages": 63
+        },
+        {
+          "channel": "inc-20341-increased-checkout-failures-on-293",
+          "messages": 59
+        },
+        {
+          "channel": "inv-20344-noavailablecarrieradaptererror-components",
+          "messages": 48
+        },
+        {
+          "channel": "inv-20067-high-db-writer-cpu-usage-in-shard325-db12",
+          "messages": 43
+        },
+        {
+          "channel": "inv-20282-checkout-web-test-failure",
+          "messages": 42
+        },
+        {
+          "channel": "inv-20204-shopify-core-errors-by-cluster",
+          "messages": 42
+        },
+        {
+          "channel": "inv-19898-gameday-sfr-low-priority-deployment-incid",
+          "messages": 40
+        },
+        {
+          "channel": "inv-20283-redis-locking-test-failures",
+          "messages": 38
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "bing.li",
+          "count": 8
+        },
+        {
+          "user": "sourabh.ail",
+          "count": 7
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 5
+        },
+        {
+          "user": "michael.lewis",
+          "count": 4
+        },
+        {
+          "user": "annie.caron",
+          "count": 4
+        },
+        {
+          "user": "adam.traver",
+          "count": 3
+        },
+        {
+          "user": "matthew.draper",
+          "count": 3
+        },
+        {
+          "user": "jake.levine",
+          "count": 3
+        },
+        {
+          "user": "himanshu.chhabra",
+          "count": 3
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "5": 161,
+      "4": 106,
+      "2": 95,
+      "1": 103,
+      "0": 24,
+      "8": 38,
+      "6": 146,
+      "3": 121,
+      "7": 148,
+      "21": 1,
+      "16": 1,
+      "13": 1,
+      "23": 4,
+      "10": 1,
+      "15": 1,
+      "9": 3,
+      "14": 1
+    },
+    "by_day": {
+      "Wednesday": 279,
+      "Tuesday": 244,
+      "Monday": 47,
+      "Friday": 176,
+      "Thursday": 209
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 9.05,
+    "dept_average_30d": 5.75,
+    "dept_rank": 11,
+    "dept_size": 357
+  }
+}

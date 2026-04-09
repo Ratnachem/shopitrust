@@ -1,0 +1,272 @@
+{
+  "username": "layne.koftinowmikan",
+  "name": "Layne Koftinowmikan",
+  "generated_at": "2026-04-08T20:22:06.612397",
+  "summary": {
+    "message_count": 625,
+    "channels_active": 34,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 31,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.3,
+      "pos_count": 28,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah yeah it was caused by the <https://shopify.slack.com/archives/C0AHK3XUM4P/p1775652366062339?thread_ts=1775652041.671459&amp;cid=C0AHK3XUM4P|PR>,",
+          "channel": "inv-21240-checkout-web-post-merge-build-test-failin",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M>\n&gt; Do you want me to dig into the specific retry/error-detection logic to see if the existing retry mechanisms are missing these",
+          "channel": "shop-wallet-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> investigate why this E2E test is flaking out:\n```e2e/tests/shop-pay-external/bopis.spec.ts [SPCC] BOPIS - \u203a unvaulted \u203a select pickup",
+          "channel": "shop-wallet-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Cool thanks I threw a :tuple: on your calendar at 2, let me know if another time works better",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave_pikachu: Hey team, continuing this <https://shopify.slack.com/archives/C08867PMPD1/p1775135429174019|thread>. Shop Pay and other teams",
+          "channel": "checkout-web-foundations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "There\u2019s a handful I\u2019m assigned to and taking a look at now, they\u2019re failing due to the Thank You page taking too long to",
+          "channel": "help-shop-off-shopify",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Beautiful thank you! I\u2019ll put the summary together on Vault",
+          "channel": "pcb-shopwallet-subs",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U08Q3RFPMB3> Great thank you! So the takeaway here is that auth rates for deleted cards are about half that of non-deleted cards? Based on the",
+          "channel": "pcb-shopwallet-subs",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah that flag isn\u2019t enabled :thinking_face:\nI recall we\u2019ve had issues around duplicate orders and a theory that it could be caused by the Thank You",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I\u2019ve assigned a handful to myself that are related to the Thank You page, others are failing for different reasons at different times though so I",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "They did all initially <https://shopify.slack.com/archives/C0AHK3XUM4P/p1775597834133279?thread_ts=1775592791.716769&amp;cid=C0AHK3XUM4P|start>",
+          "channel": "shop-wallet-dev",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "chris.bacon",
+          "count": 14
+        },
+        {
+          "user": "drew.benshoff",
+          "count": 13
+        },
+        {
+          "user": "barry.simunovic",
+          "count": 7
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 6
+        },
+        {
+          "user": "jorge.quan",
+          "count": 6
+        },
+        {
+          "user": "stefano.pace",
+          "count": 5
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 4
+        },
+        {
+          "user": "eduardo.jolo",
+          "count": 4
+        },
+        {
+          "user": "jamie.ly",
+          "count": 3
+        },
+        {
+          "user": "christian.indra",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 450,
+      "top_channels": [
+        {
+          "channel": "shop-wallet-dev",
+          "messages": 174
+        },
+        {
+          "channel": "shop-wallet-river",
+          "messages": 173
+        },
+        {
+          "channel": "inc-20274-spi-drop-in-agreement-creation",
+          "messages": 36
+        },
+        {
+          "channel": "pcb-shopwallet-subs",
+          "messages": 34
+        },
+        {
+          "channel": "shop-pay-installments-dev",
+          "messages": 21
+        },
+        {
+          "channel": "support-case-159",
+          "messages": 19
+        },
+        {
+          "channel": "proj-shop-wallet-global-vault-migration",
+          "messages": 17
+        },
+        {
+          "channel": "support-case-271",
+          "messages": 17
+        },
+        {
+          "channel": "inv-19965-new-subscriptions-not-appearing-in-shopap",
+          "messages": 17
+        },
+        {
+          "channel": "inc-19965-new-subscriptions-not-appearing-in-shopap",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 96,
+      "top_mentioners": [
+        {
+          "user": "zin.pomarenski",
+          "count": 11
+        },
+        {
+          "user": "dakota.yetman",
+          "count": 11
+        },
+        {
+          "user": "chris.bacon",
+          "count": 9
+        },
+        {
+          "user": "drew.benshoff",
+          "count": 6
+        },
+        {
+          "user": "artur.spirke",
+          "count": 5
+        },
+        {
+          "user": "eros.dipede",
+          "count": 5
+        },
+        {
+          "user": "eduardo.jolo",
+          "count": 4
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 4
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 4
+        },
+        {
+          "user": "jorge.quan",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 75,
+      "17": 64,
+      "14": 45,
+      "13": 58,
+      "12": 38,
+      "23": 4,
+      "22": 32,
+      "21": 49,
+      "20": 36,
+      "16": 70,
+      "15": 72,
+      "19": 68,
+      "11": 1,
+      "1": 9,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 158,
+      "Tuesday": 187,
+      "Monday": 80,
+      "Thursday": 119,
+      "Friday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.97,
+    "dept_average_30d": 4.74,
+    "dept_rank": 41,
+    "dept_size": 1663
+  }
+}

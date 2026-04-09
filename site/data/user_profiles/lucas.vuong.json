@@ -1,0 +1,153 @@
+{
+  "username": "lucas.vuong",
+  "name": "Lucas Vuong",
+  "generated_at": "2026-04-08T20:22:31.391353",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 19,
+    "days_scale": 0.83
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great thanks! See you soon!",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hmm you already got access as Big Query User, it should allow you to view the dataset. Do you want to pair to get this sorted out? Please feel free",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U03EUKCUUFM> the changes to use service accounts instead of your account have been merged, could you try updating your query and let me know if",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U03EUKCUUFM> the changes to use service accounts instead of your account have been merged, could you try updating your query and let me know if",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U03EUKCUUFM> I have granted you a role `BigQuery User` could you try running `dev deploy_scheduled_queries_staging` again and let me know if",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hi could I have access to shop/world too, I already had access to shop organization but couldn't access world repo. Thanks!",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "PR for putting up finance concepts mcp setup doc <https://github.com/Shopify/corporate-finance-rag-system/pull/1062>, please feel free to let me know",
+          "channel": "finance-ai",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "PR for putting up finance concepts mcp setup doc <https://github.com/Shopify/corporate-finance-rag-system/pull/1062>, please feel free to let me know",
+          "channel": "finance-ai",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.1,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "ciaran.downiecheetham",
+          "count": 4
+        },
+        {
+          "user": "ciara.mann",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.31,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "help-finance-tech",
+          "messages": 9
+        },
+        {
+          "channel": "finance-engineering-failure-notifications",
+          "messages": 5
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 1
+        },
+        {
+          "channel": "finance-ai",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.26,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "ciaran.downiecheetham",
+          "count": 3
+        },
+        {
+          "user": "curtis.traverse",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 4,
+      "13": 2,
+      "19": 3,
+      "15": 2,
+      "20": 2,
+      "18": 1,
+      "17": 2
+    },
+    "by_day": {
+      "Tuesday": 4,
+      "Monday": 5,
+      "Friday": 6,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.33,
+    "dept_average_30d": 4.74,
+    "dept_rank": 962,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "username": "ben.etienne",
+  "name": "Ben Etienne",
+  "generated_at": "2026-04-08T20:22:29.085538",
+  "summary": {
+    "message_count": 109,
+    "channels_active": 11,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah thank you Sana! I\u2019ll give that a shot tomorrow ",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I've submitted the proposal now",
+          "channel": "proj-semantic-layer",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both! Kristie you're definitely not behind here, this was my harebrained draft of how the backfill should go so I appreciate the",
+          "channel": "temp-filter-e2e-test-accounts",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! :sonic:\n\nI'll merge as soon as the checks pass",
+          "channel": "data-engineering-ai",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great, thanks! I'll try to surface any other patterns earlier in the week so you'll have more time to prototype",
+          "channel": "proj-semantic-layer",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "The issue is that the emails need to stay indefinitely as unredacted or else we will lose test shop classifications over time. The base models are",
+          "channel": "temp-filter-e2e-test-accounts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "TL;DR there's a NULL adset name from upstream.\n\nOptions:\n1. Remove the non-null test\n2. COALESCE adset_name to \"unknown\" either in the",
+          "channel": "growth-data-sdp-critical",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The post didn't end up getting sent today. It took longer than expected to figure out the batching for the rebuild process. It would be nice to get",
+          "channel": "temp-filter-e2e-test-accounts",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "taher.elsheikh",
+          "count": 4
+        },
+        {
+          "user": "connor.mccambridge",
+          "count": 3
+        },
+        {
+          "user": "tunde.thomas",
+          "count": 2
+        },
+        {
+          "user": "olaolu.olawuyi",
+          "count": 2
+        },
+        {
+          "user": "desmond.hui",
+          "count": 2
+        },
+        {
+          "user": "andrew.plassard",
+          "count": 2
+        },
+        {
+          "user": "ryan.anderson",
+          "count": 1
+        },
+        {
+          "user": "kristie.ching",
+          "count": 1
+        },
+        {
+          "user": "danilo.teodoro",
+          "count": 1
+        },
+        {
+          "user": "emily.evans",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.98,
+      "count": 105,
+      "top_channels": [
+        {
+          "channel": "temp-filter-e2e-test-accounts",
+          "messages": 32
+        },
+        {
+          "channel": "proj-semantic-layer",
+          "messages": 27
+        },
+        {
+          "channel": "growth-data-sdp-critical",
+          "messages": 23
+        },
+        {
+          "channel": "data-engineering-ai",
+          "messages": 10
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 6
+        },
+        {
+          "channel": "data-community",
+          "messages": 3
+        },
+        {
+          "channel": "proj-fraud-adjustments-in-payback-reporting",
+          "messages": 2
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 2
+        },
+        {
+          "channel": "data-remote-happy-hour",
+          "messages": 2
+        },
+        {
+          "channel": "data-engineering-community",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.6,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "lena.wallheimer",
+          "count": 13
+        },
+        {
+          "user": "jolie.demuth",
+          "count": 12
+        },
+        {
+          "user": "desmond.hui",
+          "count": 6
+        },
+        {
+          "user": "akanksha",
+          "count": 4
+        },
+        {
+          "user": "steven.wu",
+          "count": 3
+        },
+        {
+          "user": "shanelle.mullin",
+          "count": 2
+        },
+        {
+          "user": "andrew.plassard",
+          "count": 2
+        },
+        {
+          "user": "jill.cates",
+          "count": 2
+        },
+        {
+          "user": "sara.mcneilly",
+          "count": 1
+        },
+        {
+          "user": "taher.elsheikh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 22,
+      "19": 10,
+      "22": 2,
+      "21": 18,
+      "18": 12,
+      "17": 7,
+      "16": 2,
+      "15": 10,
+      "13": 11,
+      "14": 14,
+      "12": 1
+    },
+    "by_day": {
+      "Monday": 28,
+      "Thursday": 27,
+      "Wednesday": 25,
+      "Tuesday": 21,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.59,
+    "dept_average_30d": 5.58,
+    "dept_rank": 206,
+    "dept_size": 398
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "username": "margaret.anderso-8297",
+  "name": "Margaret Anderso-8297",
+  "generated_at": "2026-04-08T20:22:31.519188",
+  "summary": {
+    "message_count": 260,
+    "channels_active": 18,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I think the tiny robot and I got all the comments, but let me know if it\u2019s still weird (I\u2019m at EOD brain)",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Sorry, I had other alerts firing and missed the message in the data warehouse channel",
+          "channel": "inv-19258-dw-tasks-sitting-in-scheduled-state",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Woo! That looks good! Thank you!\n\nThere are some others, but if we know the CLI Time Travel is working now, I can sort out getting those (\u2026 and I\u2019ll",
+          "channel": "data-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "That\u2019s me <@U02CL0CQ36D>, sorry about that",
+          "channel": "dw-infra-monitoring",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "sdp-project-owners",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Mmm, we may have celebrated too fast, we have `Script variable dbt_partitions_for_replacement exceeded the size limit of 1048576 bytes at [11:7]`",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm on my phone right now, so my answers may only to be half the question, let me know if I missed the mark. \n\nBoth edge logs and Nginx do need to",
+          "channel": "dataset-optimization",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-data-platform-clickhouse-routing-migration",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.83,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "daiane.silva",
+          "count": 5
+        },
+        {
+          "user": "elize.papineau",
+          "count": 3
+        },
+        {
+          "user": "brittany.howard",
+          "count": 3
+        },
+        {
+          "user": "steven.wu",
+          "count": 2
+        },
+        {
+          "user": "marvin.davila",
+          "count": 2
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 2
+        },
+        {
+          "user": "youmi.koh",
+          "count": 2
+        },
+        {
+          "user": "ariane.schang",
+          "count": 2
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 2
+        },
+        {
+          "user": "greg.dodd",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.71,
+      "count": 162,
+      "top_channels": [
+        {
+          "channel": "dw-infra-data-goalie",
+          "messages": 79
+        },
+        {
+          "channel": "dw-infra-monitoring",
+          "messages": 71
+        },
+        {
+          "channel": "infrastructure-data",
+          "messages": 22
+        },
+        {
+          "channel": "inv-20247-issues-with-shopworldflakytestexecutions-",
+          "messages": 17
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 15
+        },
+        {
+          "channel": "proj-data-platform-clickhouse-routing-migration",
+          "messages": 10
+        },
+        {
+          "channel": "proj-data-platform-warehouse-versioning",
+          "messages": 7
+        },
+        {
+          "channel": "proj-dw-playbook-generation-system",
+          "messages": 7
+        },
+        {
+          "channel": "temp-burn-sdp-infrastructure",
+          "messages": 6
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 24,
+      "14": 39,
+      "20": 21,
+      "18": 34,
+      "15": 12,
+      "13": 31,
+      "19": 32,
+      "16": 26,
+      "12": 21,
+      "2": 2,
+      "21": 12,
+      "0": 2,
+      "22": 4
+    },
+    "by_day": {
+      "Monday": 61,
+      "Friday": 60,
+      "Thursday": 45,
+      "Wednesday": 41,
+      "Tuesday": 53
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.72,
+    "dept_average_30d": 4.74,
+    "dept_rank": 698,
+    "dept_size": 1663
+  }
+}

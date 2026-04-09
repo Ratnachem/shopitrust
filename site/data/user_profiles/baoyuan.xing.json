@@ -1,0 +1,277 @@
+{
+  "username": "baoyuan.xing",
+  "name": "Baoyuan Xing",
+  "generated_at": "2026-04-08T20:22:10.491975",
+  "summary": {
+    "message_count": 252,
+    "channels_active": 14,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "it is wrapped as <https://skills.quick.shopify.io/#/buyer-profile-skill> .  feel free to use.",
+          "channel": "buyer-profile",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "great. thank you very much.",
+          "channel": "buyer-profile",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "i just deployed it to staging. please have a try and let me know if it works.  btw, it was in production already.",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "nice. thank you <@U02S6RQ8KE3> .  could you follow this <https://github.com/Shopify/sdp-buyer-profile?tab=readme-ov-file#setup-and-permissions>?",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U02S6RQ8KE3> , could you fill a <https://github.com/Shopify/buyer-profile/issues/new?template=feature_request.yml|feature request> so that we",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want me to ask IGS?",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018WBMNMS5> <@U08H2SA9BFG>  i resumed export dags after today's domain build.  let me know if you think we should not.",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "sure. thank you if you could do it.",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes. it works fine. thank you",
+          "channel": "data-infrastructure",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "okay. i will update the version soon.  thank you for letting me know.",
+          "channel": "data-infrastructure",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Sure. we could just tell them if they don't care, we could add a timestamp when we load the data.",
+          "channel": "proj-buyer-profile-shopkv",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "there are many reasons that may fail a dag.  we could try to find a better metric or solution.\n\nFor",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "jerry.wang",
+          "count": 7
+        },
+        {
+          "user": "dustin.firman",
+          "count": 6
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 4
+        },
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 3
+        },
+        {
+          "user": "vincent.lizotte",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "alfred.yang",
+          "count": 2
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 2
+        },
+        {
+          "user": "jacob.dubinsky",
+          "count": 1
+        },
+        {
+          "user": "eric.zhao",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.18,
+      "count": 247,
+      "top_channels": [
+        {
+          "channel": "mm-fdn-buyer-profile-ops",
+          "messages": 83
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 70
+        },
+        {
+          "channel": "proj-buyer-profile-shopkv",
+          "messages": 42
+        },
+        {
+          "channel": "proj-real-time-inference-product-network",
+          "messages": 17
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 10
+        },
+        {
+          "channel": "shopify-audiences-help",
+          "messages": 6
+        },
+        {
+          "channel": "shop-agent-eng",
+          "messages": 5
+        },
+        {
+          "channel": "tmp-sbsid-in-identity-graph",
+          "messages": 5
+        },
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 3
+        },
+        {
+          "channel": "help-it",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "francois.saintjacques",
+          "count": 10
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 7
+        },
+        {
+          "user": "jerry.wang",
+          "count": 5
+        },
+        {
+          "user": "sabrina.zhu",
+          "count": 4
+        },
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 4
+        },
+        {
+          "user": "benjamin.allevius",
+          "count": 3
+        },
+        {
+          "user": "kristin.makulowich",
+          "count": 3
+        },
+        {
+          "user": "eric.zhao",
+          "count": 2
+        },
+        {
+          "user": "peter.thesling",
+          "count": 2
+        },
+        {
+          "user": "hammad.khalid",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 22,
+      "21": 11,
+      "20": 24,
+      "16": 24,
+      "15": 23,
+      "14": 19,
+      "19": 26,
+      "17": 41,
+      "13": 38,
+      "12": 11,
+      "22": 6,
+      "23": 5,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 64,
+      "Tuesday": 56,
+      "Monday": 52,
+      "Friday": 30,
+      "Thursday": 50
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.69,
+    "dept_average_30d": 5.77,
+    "dept_rank": 450,
+    "dept_size": 885
+  }
+}

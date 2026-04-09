@@ -1,0 +1,246 @@
+{
+  "username": "joel.kerfoot",
+  "name": "Joel Kerfoot",
+  "generated_at": "2026-04-08T20:22:16.636198",
+  "summary": {
+    "message_count": 183,
+    "channels_active": 9,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "That's my bad then. I didn't realize the Interface didn't expose PaymentDetails and thought accessing the completion data from payment details would",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Makes sense, thanks! Just wanted to confirm before making the change",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@W018PTCECPN>, would you mind taking a look at <https://app.graphite.com/github/pr/shop/world/529195|this PR>? Thanks!\n\nTL;DR: We added a new",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U01U9F8PRNC> and <@W0197J1GWRW>, if you have some time today I would greatly appreciate your reviews on the",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I don't think was using the proper terms to refer to the Adyen account structure, so sorry for any confusion. There are a couple things I'm",
+          "channel": "shared-shopify-retail-adyen",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "&gt; Stupid question. The completion endpoint only lists merchantAccount as required. Do we really need the emvData\nEmv data is required for chip",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> try again. You should have write access now",
+          "channel": "pp-retail-payment-processing-river-sandbox",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; \u2022 We need to update the boundary of PAPI for when we continue from a PA state of `confirmation_required`  to accept additional data we don't",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "arsh.ganda",
+          "count": 4
+        },
+        {
+          "user": "nick.smith",
+          "count": 3
+        },
+        {
+          "user": "samuel.beshara",
+          "count": 3
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 3
+        },
+        {
+          "user": "saki.futamura",
+          "count": 3
+        },
+        {
+          "user": "nima.namjouy",
+          "count": 1
+        },
+        {
+          "user": "daniel.wyckoff",
+          "count": 1
+        },
+        {
+          "user": "frederic.marois",
+          "count": 1
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 1
+        },
+        {
+          "user": "kyro.nassif",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.02,
+      "count": 133,
+      "top_channels": [
+        {
+          "channel": "proj-payments-card-present-emv",
+          "messages": 134
+        },
+        {
+          "channel": "card-present-payment-gateway-central",
+          "messages": 13
+        },
+        {
+          "channel": "pp-retail-payment-processing-river-sandbox",
+          "messages": 10
+        },
+        {
+          "channel": "retail-card-present-payment-gateway",
+          "messages": 10
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 5
+        },
+        {
+          "channel": "shared-shopify-retail-adyen",
+          "messages": 4
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 3
+        },
+        {
+          "channel": "retail-payments",
+          "messages": 2
+        },
+        {
+          "channel": "retail-ppp-dev",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "cole.pilegard",
+          "count": 14
+        },
+        {
+          "user": "nick.smith",
+          "count": 5
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 5
+        },
+        {
+          "user": "nima.namjouy",
+          "count": 3
+        },
+        {
+          "user": "arsh.ganda",
+          "count": 3
+        },
+        {
+          "user": "simon.bats",
+          "count": 2
+        },
+        {
+          "user": "saki.futamura",
+          "count": 2
+        },
+        {
+          "user": "david.hou",
+          "count": 2
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 2
+        },
+        {
+          "user": "cameron.nickert",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 17,
+      "16": 31,
+      "15": 24,
+      "0": 1,
+      "22": 29,
+      "21": 24,
+      "18": 13,
+      "20": 15,
+      "19": 16,
+      "14": 3,
+      "23": 7,
+      "1": 1,
+      "4": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 44,
+      "Monday": 53,
+      "Thursday": 26,
+      "Friday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.57,
+    "dept_average_30d": 5.77,
+    "dept_rank": 505,
+    "dept_size": 885
+  }
+}

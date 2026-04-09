@@ -1,0 +1,272 @@
+{
+  "username": "roman.zaharenkau",
+  "name": "Roman Zaharenkau",
+  "generated_at": "2026-04-08T20:22:18.419614",
+  "summary": {
+    "message_count": 308,
+    "channels_active": 18,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 27,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for explaining. Not a concern to your PR. But it would be nice though if infra knew about it and allowed debug events. E.g. displaying",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "I was wrong about async capacity, in the current setup `async_capacity=max_connections`. I made a PR to split them:",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for looking into!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "OK, with similar feedback coming from <@U054NA0L89Z> and <@U01QK8CDA82> I will use k8s namespace/job_name as identifier across the board. Thank you",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great, thanks!",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "IMO retry mechanism is a corner stone we should have in order to get to GA and now while we have less load and catching errors here and there is a",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for deploying it!",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "it works, thank you very much for fixing it!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for thorough review, we ended up with more polished code!",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Of cource, I know graphite is a wrapper around Github. But still a bit confusing to go against the flow. If we use graphite merge queue in world and",
+          "channel": "help-bumperbot",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "friendly reminder",
+          "text": "No worries, it was friendly reminder not a hard concern :slightly_smiling_face:",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "cedric.darne",
+          "count": 5
+        },
+        {
+          "user": "pablo.mercado",
+          "count": 4
+        },
+        {
+          "user": "david.peacock",
+          "count": 3
+        },
+        {
+          "user": "matthew.frail",
+          "count": 2
+        },
+        {
+          "user": "rezaan.syed",
+          "count": 1
+        },
+        {
+          "user": "matt.franklin",
+          "count": 1
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 1
+        },
+        {
+          "user": "george.li",
+          "count": 1
+        },
+        {
+          "user": "marcus.radica",
+          "count": 1
+        },
+        {
+          "user": "luca.castelli",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.08,
+      "count": 242,
+      "top_channels": [
+        {
+          "channel": "proj-next-gen-events",
+          "messages": 119
+        },
+        {
+          "channel": "help-events",
+          "messages": 38
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 37
+        },
+        {
+          "channel": "river-for-roman",
+          "messages": 23
+        },
+        {
+          "channel": "help-observability",
+          "messages": 21
+        },
+        {
+          "channel": "s-foundations-events-team",
+          "messages": 18
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 10
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 9
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 7
+        },
+        {
+          "channel": "help-bumperbot",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "rezaan.syed",
+          "count": 1
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 1
+        },
+        {
+          "user": "tomas.echeverri",
+          "count": 1
+        },
+        {
+          "user": "joshua.kline",
+          "count": 1
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 1
+        },
+        {
+          "user": "matthew.frail",
+          "count": 1
+        },
+        {
+          "user": "pablo.mercado",
+          "count": 1
+        },
+        {
+          "user": "harshdeep.hura",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 40,
+      "22": 26,
+      "21": 19,
+      "19": 18,
+      "18": 48,
+      "15": 34,
+      "14": 33,
+      "16": 45,
+      "20": 19,
+      "3": 8,
+      "0": 1,
+      "23": 8,
+      "13": 7,
+      "2": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 66,
+      "Tuesday": 110,
+      "Monday": 28,
+      "Friday": 34,
+      "Thursday": 70
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.88,
+    "dept_average_30d": 5.79,
+    "dept_rank": 519,
+    "dept_size": 1233
+  }
+}

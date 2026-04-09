@@ -1,0 +1,258 @@
+{
+  "username": "diego.gilon",
+  "name": "Diego Gilon",
+  "generated_at": "2026-04-08T20:22:19.754728",
+  "summary": {
+    "message_count": 235,
+    "channels_active": 24,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Can you post what\u2019s top priority/top of mind for this week?\n\nLast week we talked about\n\n\u2022 Fixing tests to remove bespoke calculator ",
+          "channel": "proj-order-edit-on-checkout-one",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I should have shared this my bad ",
+          "channel": "proj-order-edit-send-entire-order-state",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "And thank you :pray: ",
+          "channel": "proj-order-edit-send-entire-order-state",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad i\u2019ll archive this one and forward my message there.",
+          "channel": "proj-order-edit-full-order-on-c1",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Please correct me where I\u2019m wrong.\n\nMy understanding is that you need a comparison of tax outputs for the tax projects, you\u2019re in a negotatiation and",
+          "channel": "proj-order-edit-tax-calculations-using-c1",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Nice job everyone :claps:  it really does look a lot simpler + cleaner when I compare it this way :nail_care:",
+          "channel": "proj-densify-order-refund-page",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "i thought the bug hunt was done already and that the bug <@U0419A1G1T5> mentioned was a result of it. my bad. if we haven\u2019t bug hunted yet then yes",
+          "channel": "proj-densify-order-refund-page",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Correct you can lean on all `sales_order_staged_changes` records that have `calculated_by_c1: true` and `agreement_id is not null` and you should",
+          "channel": "order-edit-on-checkout-workstream",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "<@U02SCNSUFT9> can you start a doc tracking the information we have at this point? And tagging the relevant folks? Everything is in slack across",
+          "channel": "proj-express-order-editing-on-c1",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "steph.baker",
+          "count": 24
+        },
+        {
+          "user": "prajjwal.singh",
+          "count": 10
+        },
+        {
+          "user": "liam.meade",
+          "count": 8
+        },
+        {
+          "user": "brent.sharrow",
+          "count": 8
+        },
+        {
+          "user": "jeremy.topper",
+          "count": 6
+        },
+        {
+          "user": "kim.hawthorne",
+          "count": 6
+        },
+        {
+          "user": "david.hahn",
+          "count": 5
+        },
+        {
+          "user": "riya.walia",
+          "count": 5
+        },
+        {
+          "user": "gemma.curl",
+          "count": 4
+        },
+        {
+          "user": "eddie.gao",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.59,
+      "count": 216,
+      "top_channels": [
+        {
+          "channel": "inc-20340-investigation-refunds-with-the-restock-bo",
+          "messages": 50
+        },
+        {
+          "channel": "diego-river-workspace",
+          "messages": 38
+        },
+        {
+          "channel": "proj-express-order-editing-on-c1",
+          "messages": 34
+        },
+        {
+          "channel": "deliver-sidekick-capabilities",
+          "messages": 16
+        },
+        {
+          "channel": "proj-densify-order-refund-page",
+          "messages": 13
+        },
+        {
+          "channel": "proj-order-edit-on-checkout-one",
+          "messages": 12
+        },
+        {
+          "channel": "proj-tax-recalculation-address-change",
+          "messages": 11
+        },
+        {
+          "channel": "tmp-burst-orders-spring-26",
+          "messages": 11
+        },
+        {
+          "channel": "proj-order-edit-send-entire-order-state",
+          "messages": 10
+        },
+        {
+          "channel": "order-edit-on-checkout-workstream",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.44,
+      "count": 57,
+      "top_mentioners": [
+        {
+          "user": "zin.pomarenski",
+          "count": 11
+        },
+        {
+          "user": "steph.baker",
+          "count": 9
+        },
+        {
+          "user": "david.hahn",
+          "count": 5
+        },
+        {
+          "user": "jon.hamburg",
+          "count": 4
+        },
+        {
+          "user": "dakota.yetman",
+          "count": 4
+        },
+        {
+          "user": "liam.meade",
+          "count": 3
+        },
+        {
+          "user": "andrea.rice",
+          "count": 3
+        },
+        {
+          "user": "mido.kabbara",
+          "count": 2
+        },
+        {
+          "user": "shaun.sim",
+          "count": 2
+        },
+        {
+          "user": "riya.walia",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 34,
+      "14": 17,
+      "13": 8,
+      "2": 1,
+      "19": 21,
+      "15": 15,
+      "18": 16,
+      "12": 2,
+      "21": 15,
+      "20": 12,
+      "17": 24,
+      "0": 4,
+      "23": 22,
+      "22": 43,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 44,
+      "Monday": 17,
+      "Friday": 61,
+      "Thursday": 53
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.63,
+    "dept_average_30d": 5.79,
+    "dept_rank": 664,
+    "dept_size": 1233
+  }
+}

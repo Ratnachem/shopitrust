@@ -1,0 +1,93 @@
+{
+  "username": "connor.grady",
+  "name": "Connor Grady",
+  "generated_at": "2026-04-08T20:22:29.997336",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Hey gang! We've made a ton of progress even with the burst this week - a huge thanks to everyone who rallied with the massive PR review efforts the",
+          "channel": "proj-bcldb-app-rewrite",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "zach.lamothe",
+          "count": 2
+        },
+        {
+          "user": "john.taylor",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.08,
+      "count": 2,
+      "top_channels": [
+        {
+          "channel": "proj-bcldb-app-rewrite",
+          "messages": 9
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "john.taylor",
+          "count": 2
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 1,
+      "20": 3,
+      "19": 1,
+      "18": 2,
+      "21": 1,
+      "15": 2
+    },
+    "by_day": {
+      "Friday": 6,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Professional Services",
+    "user_score_30d": 4.79,
+    "dept_average_30d": 4.61,
+    "dept_rank": 22,
+    "dept_size": 52
+  }
+}

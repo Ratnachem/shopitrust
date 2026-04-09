@@ -1,0 +1,283 @@
+{
+  "username": "teddy.hwang",
+  "name": "Teddy Hwang",
+  "generated_at": "2026-04-08T20:22:18.974148",
+  "summary": {
+    "message_count": 500,
+    "channels_active": 26,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> i have it queued to merge - monitor the PR and let me know if any CI steps fail",
+          "channel": "orders-rest-gql-parity-migration",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! moved the meeting to after",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! i should have read the docs",
+          "channel": "pair-review",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! is it `sidekick-eval:finetune-70b`?",
+          "channel": "proj-sidekick-graphql-agent",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "3 hours is a marathon.. kudos for doing that",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Okay so in short:\n\u2022 this is a change in the default argument - from what I can tell, the argument today is not even working to begin with\n\u2022 they need",
+          "channel": "breaking-api-change-requests",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "haha all good.. let me know if you disagree with enforcing it and then we can move to PR review",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<!subteam^S09D33GBJHE> i'm pulling this out of the thread. :til-today-i-learned: there are granular `export` access scopes for staff members in the",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "great, thank you!",
+          "channel": "pair-review",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "nice to see `bulk_operations` no longer on the top 10 of this list:",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so we need to support both.. whatever gets removed (whether it's a type or a field or a argument or a enum), we have to be able to trace the path and",
+          "channel": "proj-better-bulk-ops",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; The thing most on my mind with it is I would love to apply an identical approach to limits, to the API breaking change thing, and whatever comes",
+          "channel": "proj-metafields-limit",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "rebecca.friedman",
+          "count": 8
+        },
+        {
+          "user": "david.hahn",
+          "count": 7
+        },
+        {
+          "user": "adam.macdonald",
+          "count": 6
+        },
+        {
+          "user": "mido.kabbara",
+          "count": 5
+        },
+        {
+          "user": "darius.gai",
+          "count": 4
+        },
+        {
+          "user": "allan.calix",
+          "count": 3
+        },
+        {
+          "user": "alex.wong",
+          "count": 3
+        },
+        {
+          "user": "greg.macwilliam",
+          "count": 3
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 3
+        },
+        {
+          "user": "bronwyn.skelley",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.56,
+      "count": 267,
+      "top_channels": [
+        {
+          "channel": "proj-better-bulk-ops",
+          "messages": 170
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 74
+        },
+        {
+          "channel": "orders-rest-gql-parity-migration",
+          "messages": 47
+        },
+        {
+          "channel": "river-api-foundations",
+          "messages": 35
+        },
+        {
+          "channel": "breaking-api-change-requests",
+          "messages": 33
+        },
+        {
+          "channel": "proj-breadth-first-exec",
+          "messages": 32
+        },
+        {
+          "channel": "proj-sidekick-graphql-agent",
+          "messages": 18
+        },
+        {
+          "channel": "inc-20149-nomethoderror-componentsplatformgraphmode",
+          "messages": 18
+        },
+        {
+          "channel": "pair-review",
+          "messages": 12
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.44,
+      "count": 57,
+      "top_mentioners": [
+        {
+          "user": "greg.macwilliam",
+          "count": 5
+        },
+        {
+          "user": "annie.caron",
+          "count": 3
+        },
+        {
+          "user": "stephen.anders",
+          "count": 3
+        },
+        {
+          "user": "osaru.izeiyamu",
+          "count": 3
+        },
+        {
+          "user": "francis.sing",
+          "count": 3
+        },
+        {
+          "user": "allan.calix",
+          "count": 2
+        },
+        {
+          "user": "steve.lu",
+          "count": 2
+        },
+        {
+          "user": "eric.h.lee",
+          "count": 2
+        },
+        {
+          "user": "darius.gai",
+          "count": 2
+        },
+        {
+          "user": "rj.davis",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 52,
+      "13": 56,
+      "23": 3,
+      "22": 3,
+      "15": 43,
+      "14": 53,
+      "21": 24,
+      "20": 38,
+      "19": 56,
+      "18": 65,
+      "16": 50,
+      "12": 16,
+      "0": 3,
+      "2": 2,
+      "11": 4,
+      "1": 2,
+      "9": 10,
+      "8": 9,
+      "7": 11
+    },
+    "by_day": {
+      "Wednesday": 136,
+      "Tuesday": 141,
+      "Monday": 127,
+      "Thursday": 60,
+      "Friday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.5,
+    "dept_average_30d": 5.79,
+    "dept_rank": 13,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "username": "stephany.nielsen",
+  "name": "Stephany Nielsen",
+  "generated_at": "2026-04-08T20:22:30.423296",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 5,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!!!",
+          "channel": "brisk-tool",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi! Requesting approval for a Brisk site \u2014 subdomain: oocfo-tasks (submitted ~18h ago). It's a sensitive internal tool for the Office of the CFO, so",
+          "channel": "brisk-tool",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! what a pain",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!!!!",
+          "channel": "claude-code",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "brittany.makort",
+          "count": 1
+        },
+        {
+          "user": "zuha.qazi",
+          "count": 1
+        },
+        {
+          "user": "jennifer.beckert",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.61,
+      "count": 16,
+      "top_channels": [
+        {
+          "channel": "brisk-tool",
+          "messages": 4
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 3
+        },
+        {
+          "channel": "claude-code",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "fpa-slt-bq-quota-public",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "moonta.kabir",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "16": 2,
+      "15": 2,
+      "14": 4,
+      "13": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Thursday": 4,
+      "Wednesday": 4,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Corpo",
+    "user_score_30d": 3.52,
+    "dept_average_30d": 4.84,
+    "dept_rank": 18,
+    "dept_size": 18
+  }
+}

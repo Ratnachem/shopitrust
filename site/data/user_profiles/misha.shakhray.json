@@ -1,0 +1,271 @@
+{
+  "username": "misha.shakhray",
+  "name": "Misha Shakhray",
+  "generated_at": "2026-04-08T20:22:27.232854",
+  "summary": {
+    "message_count": 223,
+    "channels_active": 13,
+    "unique_people_mentioned": 31,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 6,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!\ncan I have a link?",
+          "channel": "search-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; Did we make any changes? It is much faster since essentially 9:30 UTC\n<@W01830K651V> bunch of optimizations were expected to land early this",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "good to hear, thanks!",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "oh, I see now, thanks!",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "<@U08HBELFSEP> I'll be super grateful if you can review EOD",
+          "channel": "proj-dsl-shared",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! kind of different scenarios to me ...",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; <@U081X3567L2> I think ideally we should send a list and you can try the entire list, since there might be multiple complementary",
+          "channel": "proj-real-time-inference-product-network",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "you said `The user profile would carry a map&lt;public_taxonomy_id, avg_ppi&gt; from their purchase history`\nmeans query is large indeed\nmeans",
+          "channel": "search-p13n",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "folks, I don't need 10 solutions, I need one\nI don't care what format is it in the Big Query - I can write a Big Query query to parse whatever it",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "folks, I don't need 10 solutions, I need one\nI don't care what format is it in the Big Query - I can write a Big Query query to parse whatever it",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "peter.thesling",
+          "count": 16
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 12
+        },
+        {
+          "user": "long.qiu",
+          "count": 11
+        },
+        {
+          "user": "girish.malkarnenkar",
+          "count": 5
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 5
+        },
+        {
+          "user": "ben.chen",
+          "count": 5
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 4
+        },
+        {
+          "user": "yumi.minami",
+          "count": 4
+        },
+        {
+          "user": "david.gabrieli",
+          "count": 3
+        },
+        {
+          "user": "dexter.fichuk",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.8,
+      "count": 227,
+      "top_channels": [
+        {
+          "channel": "proj-real-time-inference-product-network",
+          "messages": 100
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 57
+        },
+        {
+          "channel": "proj-dsl-shared",
+          "messages": 28
+        },
+        {
+          "channel": "search-p13n",
+          "messages": 11
+        },
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 10
+        },
+        {
+          "channel": "serbia-social",
+          "messages": 4
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 4
+        },
+        {
+          "channel": "search-team",
+          "messages": 2
+        },
+        {
+          "channel": "search-gsd",
+          "messages": 2
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 85,
+      "top_mentioners": [
+        {
+          "user": "peter.thesling",
+          "count": 22
+        },
+        {
+          "user": "long.qiu",
+          "count": 7
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 6
+        },
+        {
+          "user": "girish.malkarnenkar",
+          "count": 4
+        },
+        {
+          "user": "yumi.minami",
+          "count": 4
+        },
+        {
+          "user": "jerry.wang",
+          "count": 4
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 4
+        },
+        {
+          "user": "bhisham.gudwani",
+          "count": 3
+        },
+        {
+          "user": "akshay.soni",
+          "count": 3
+        },
+        {
+          "user": "noah.frank",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 21,
+      "21": 30,
+      "20": 19,
+      "15": 35,
+      "13": 8,
+      "18": 11,
+      "17": 30,
+      "6": 2,
+      "14": 10,
+      "22": 9,
+      "16": 26,
+      "12": 6,
+      "10": 3,
+      "9": 4,
+      "8": 1,
+      "11": 1,
+      "3": 1,
+      "1": 1,
+      "23": 3,
+      "5": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Tuesday": 35,
+      "Monday": 39,
+      "Thursday": 55,
+      "Wednesday": 62,
+      "Friday": 32
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.88,
+    "dept_average_30d": 5.79,
+    "dept_rank": 519,
+    "dept_size": 1233
+  }
+}

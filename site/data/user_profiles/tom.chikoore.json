@@ -1,0 +1,284 @@
+{
+  "username": "tom.chikoore",
+  "name": "Tom Chikoore",
+  "generated_at": "2026-04-08T20:22:18.692168",
+  "summary": {
+    "message_count": 186,
+    "channels_active": 18,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 9,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U094EAZJH7C> Thank you for raising this important question. I don't have a definitive answer for you at this moment, as we are currently working",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "No problem. My bad. I forgot. No rush.\n\nPS: We processed 3.8M new users. How many total new users were eligible to be processed?",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "<@U098PV7TZQB> <@U094EAZJH7C> Interrupting my OOO to celebrate small wins....:grinning:\n*First clean transition from 300QPS to 500QPS.* This is good",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Great tool <@U09SAJ4RW77> - I like its simplicity. However, it appears I need to select an ideal result before I can submit a DSAT. The problem is",
+          "channel": "search-dsat",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "*THANKS* for the guidance.  We'll wait for Illia next week. However, 10M/day gives me something to work with for a proposal. Thank you.",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if it ends up being a \"no go\" for today so I can communicate appropriately.",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":rocket: *LLM-CG Shopify Search Ramp-Up \u2014 Starting Tomorrow Night (03/26)*\nTeam, starting tomorrow night (03/26) we are ramping up LLM-CG throughput",
+          "channel": "search-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Team, here is the plan that I created from our discussions yesterday.  Let me know if I need to revise, especially the dates (the one point that I",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": ":tada: :baby: *Huge congrats to <@U016Z33HCEN> on welcoming their first child yesterday. Welcome to parenthood \u2014 enjoy every moment!*",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "Team, as I mentioned during our call earlier this week, I will be OOO (kids' spring break) Thursday-Monday. I know some of you are at a Burst so work",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U094EAZJH7C> Just to clarify, you will be adding instructions here:",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U02H3CAPLJD> Please test again. You should have received results like this:\n\n```{\n  \"requestId\": \"123\",\n  \"status\": 200,\n  \"message\": \"ShardServer:",
+          "channel": "llm-cg-vantage",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "himanshu.arora",
+          "count": 30
+        },
+        {
+          "user": "ahmed.dawod",
+          "count": 29
+        },
+        {
+          "user": "rich.chen",
+          "count": 14
+        },
+        {
+          "user": "logan.best",
+          "count": 5
+        },
+        {
+          "user": "alex.watt",
+          "count": 5
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 5
+        },
+        {
+          "user": "robert.adler",
+          "count": 4
+        },
+        {
+          "user": "ravi.yada",
+          "count": 4
+        },
+        {
+          "user": "zhuojie.wu",
+          "count": 4
+        },
+        {
+          "user": "linjun.yang",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.27,
+      "count": 252,
+      "top_channels": [
+        {
+          "channel": "llm-cg-vantage",
+          "messages": 126
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 11
+        },
+        {
+          "channel": "search-design-reviews",
+          "messages": 8
+        },
+        {
+          "channel": "search-team",
+          "messages": 8
+        },
+        {
+          "channel": "help-external-workers",
+          "messages": 6
+        },
+        {
+          "channel": "product-network-search",
+          "messages": 5
+        },
+        {
+          "channel": "catalog-api-traffic-increase-notifs",
+          "messages": 4
+        },
+        {
+          "channel": "proj-collective-vantage-search",
+          "messages": 3
+        },
+        {
+          "channel": "proj-collective-dynamic-sourcing",
+          "messages": 3
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.6,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "ahmed.dawod",
+          "count": 11
+        },
+        {
+          "user": "himanshu.arora",
+          "count": 7
+        },
+        {
+          "user": "tatiana.gale",
+          "count": 3
+        },
+        {
+          "user": "namrata.suri",
+          "count": 2
+        },
+        {
+          "user": "girish.malkarnenkar",
+          "count": 2
+        },
+        {
+          "user": "ben.chen",
+          "count": 2
+        },
+        {
+          "user": "alex.watt",
+          "count": 2
+        },
+        {
+          "user": "nigel.daley",
+          "count": 2
+        },
+        {
+          "user": "jenica.mcguire",
+          "count": 2
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 15,
+      "16": 12,
+      "13": 5,
+      "12": 4,
+      "4": 4,
+      "3": 4,
+      "1": 2,
+      "0": 6,
+      "23": 17,
+      "22": 18,
+      "20": 21,
+      "18": 12,
+      "15": 16,
+      "14": 10,
+      "19": 13,
+      "2": 4,
+      "21": 15,
+      "6": 1,
+      "5": 4,
+      "11": 3
+    },
+    "by_day": {
+      "Wednesday": 50,
+      "Tuesday": 45,
+      "Monday": 38,
+      "Friday": 30,
+      "Thursday": 23
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.25,
+    "dept_average_30d": 5.79,
+    "dept_rank": 293,
+    "dept_size": 1233
+  }
+}

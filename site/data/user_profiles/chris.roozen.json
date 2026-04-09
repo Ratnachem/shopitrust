@@ -1,0 +1,105 @@
+{
+  "username": "chris.roozen",
+  "name": "Chris Roozen",
+  "generated_at": "2026-04-08T20:22:30.923919",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 8,
+    "days_scale": 0.35
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi I need the same IAM (Security) on Google Cloud as <@U043UDV911D> to allow me to do similar workload he is doing today. Thanks!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.61,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "matthew.frail",
+          "count": 1
+        },
+        {
+          "user": "chase.platon",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.63,
+      "count": 15,
+      "top_channels": [
+        {
+          "channel": "help-infrasec",
+          "messages": 2
+        },
+        {
+          "channel": "machine-migration",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.2,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 6
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 1
+        },
+        {
+          "user": "aamina.parkar",
+          "count": 1
+        },
+        {
+          "user": "matthew.frail",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 1,
+      "20": 2
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Tuesday": 1,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.18,
+    "dept_average_30d": 5.75,
+    "dept_rank": 347,
+    "dept_size": 357
+  }
+}

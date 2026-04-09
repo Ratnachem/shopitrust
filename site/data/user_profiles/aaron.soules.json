@@ -1,0 +1,279 @@
+{
+  "username": "aaron.soules",
+  "name": "Aaron Soules",
+  "generated_at": "2026-04-08T20:22:14.060175",
+  "summary": {
+    "message_count": 550,
+    "channels_active": 24,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both! :teamwork-1:",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "<@U0AEPQCKB3M> ignore 563822, my mistake",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Continue this Checkout Experience work from the dashboard.\nIssue: #10700 \u2014 Checkout order summary displays stale delivery cost after",
+          "channel": "checkout-experience-production-support",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02SJJ3LNR3>",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ahh I see, thank you",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02D1356DK7> feel free to add any additional context or constraints for River",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Yes! Congratulations!  :party-blob: :partywizard:",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to prompt right here, that's the whole point of River being in Slack",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, thanks!",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "```\u279c  shopify git:(main) ls ~/.pi\nagent  agent-shopify.backup-20260312-153944```\nSorry about this one, folks :sorry:  TIL never tell pi to delete",
+          "channel": "\u03c0",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Try `dev up --bare`  and then running integration tests. Do whatever it takes to get your development environment working.",
+          "channel": "checkout-backend-persistence-only",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Due to privacy, security, and cost concerns I pivoted the \"post-session analysis\" idea to another technique I've used with success: the",
+          "channel": "checkout-web-agentic",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "remy.orans",
+          "count": 15
+        },
+        {
+          "user": "amine.hosseini",
+          "count": 7
+        },
+        {
+          "user": "alex.salisbury",
+          "count": 7
+        },
+        {
+          "user": "gladys.ng",
+          "count": 2
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 2
+        },
+        {
+          "user": "renxia.wang",
+          "count": 2
+        },
+        {
+          "user": "daniel.kift",
+          "count": 1
+        },
+        {
+          "user": "caroline.song",
+          "count": 1
+        },
+        {
+          "user": "alvaro.perezliano",
+          "count": 1
+        },
+        {
+          "user": "max.leopold",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.78,
+      "count": 226,
+      "top_channels": [
+        {
+          "channel": "checkout-backend-persistence-only",
+          "messages": 313
+        },
+        {
+          "channel": "checkout-web-agentic",
+          "messages": 81
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 44
+        },
+        {
+          "channel": "soules-river",
+          "messages": 14
+        },
+        {
+          "channel": "tectonix",
+          "messages": 12
+        },
+        {
+          "channel": "checkout-experience",
+          "messages": 11
+        },
+        {
+          "channel": "pi",
+          "messages": 10
+        },
+        {
+          "channel": "river",
+          "messages": 10
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 9
+        },
+        {
+          "channel": "checkout-web-foundations-river",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "caroline.song",
+          "count": 7
+        },
+        {
+          "user": "remy.orans",
+          "count": 6
+        },
+        {
+          "user": "alex.salisbury",
+          "count": 4
+        },
+        {
+          "user": "ben.scott",
+          "count": 3
+        },
+        {
+          "user": "amine.hosseini",
+          "count": 3
+        },
+        {
+          "user": "christian.indra",
+          "count": 3
+        },
+        {
+          "user": "gale.shafer",
+          "count": 2
+        },
+        {
+          "user": "steven.li",
+          "count": 2
+        },
+        {
+          "user": "gladys.ng",
+          "count": 1
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 60,
+      "17": 57,
+      "16": 35,
+      "15": 68,
+      "3": 6,
+      "13": 25,
+      "21": 40,
+      "20": 83,
+      "19": 77,
+      "14": 70,
+      "23": 4,
+      "12": 11,
+      "22": 9,
+      "2": 4,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 145,
+      "Tuesday": 138,
+      "Monday": 86,
+      "Friday": 77,
+      "Thursday": 104
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.35,
+    "dept_average_30d": 5.79,
+    "dept_rank": 243,
+    "dept_size": 1233
+  }
+}

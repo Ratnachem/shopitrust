@@ -1,0 +1,274 @@
+{
+  "username": "nathan.woodger",
+  "name": "Nathan Woodger",
+  "generated_at": "2026-04-08T20:22:10.098211",
+  "summary": {
+    "message_count": 723,
+    "channels_active": 15,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "FYI Alex we're rolling out the cash management flag again now that the production deployment was rolled back. I'll keep an eye on the channel but",
+          "channel": "retail-atc",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad! I'll dismiss my review",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> thank you, all done",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Doesn't matter though :celebrate_burst:",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I was interviewing someone so I didn't have a chance to look at the build results. That's definitely what's causing the failures so thanks!",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> I regenerated the lockfile myself and that bit looks good. However, the build is consistently failing, here's an example of one of the",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks! Just wanted to know if it's stripe so I know to keep an eye on em this evening",
+          "channel": "retail-atc",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> no thank you. Please sleep now",
+          "channel": "retail-river",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Looks like the query doesn't capture that for whatever reason",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm all over it like white on... whatever doesn't matter",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "This might be a stupid question, but why don't they just rebase changes when they're at the front of the queue automatically and ejected the ones",
+          "channel": "proj-extensible-cash-management",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "tom.anderson",
+          "count": 25
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 20
+        },
+        {
+          "user": "john.pavlick",
+          "count": 16
+        },
+        {
+          "user": "shivin.misra",
+          "count": 5
+        },
+        {
+          "user": "adam.davidson",
+          "count": 5
+        },
+        {
+          "user": "marco.yip",
+          "count": 4
+        },
+        {
+          "user": "zach.mathew",
+          "count": 1
+        },
+        {
+          "user": "sam.rasmussen",
+          "count": 1
+        },
+        {
+          "user": "ramesh.raj",
+          "count": 1
+        },
+        {
+          "user": "rami.aboughanem",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.44,
+      "count": 208,
+      "top_channels": [
+        {
+          "channel": "proj-extensible-cash-management",
+          "messages": 582
+        },
+        {
+          "channel": "retail-river",
+          "messages": 49
+        },
+        {
+          "channel": "inv-21180-core-deploy-sees-spike-in-retailcashmanag",
+          "messages": 19
+        },
+        {
+          "channel": "pos-channel-dev",
+          "messages": 15
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 14
+        },
+        {
+          "channel": "help-retail-checkout",
+          "messages": 12
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 8
+        },
+        {
+          "channel": "proj-retail-cashout-gift-cards",
+          "messages": 7
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 5
+        },
+        {
+          "channel": "retail-hq-store-management-notifications",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.06,
+      "count": 63,
+      "top_mentioners": [
+        {
+          "user": "tom.anderson",
+          "count": 15
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 13
+        },
+        {
+          "user": "john.pavlick",
+          "count": 13
+        },
+        {
+          "user": "shivin.misra",
+          "count": 6
+        },
+        {
+          "user": "adam.davidson",
+          "count": 5
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 4
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 2
+        },
+        {
+          "user": "drake.gebhart",
+          "count": 1
+        },
+        {
+          "user": "zach.mathew",
+          "count": 1
+        },
+        {
+          "user": "mohammad.adi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 107,
+      "17": 74,
+      "19": 63,
+      "16": 49,
+      "15": 81,
+      "14": 106,
+      "13": 80,
+      "22": 9,
+      "21": 34,
+      "20": 69,
+      "12": 5,
+      "3": 11,
+      "2": 15,
+      "1": 10,
+      "0": 3,
+      "4": 4,
+      "23": 3
+    },
+    "by_day": {
+      "Wednesday": 121,
+      "Tuesday": 141,
+      "Monday": 124,
+      "Thursday": 162,
+      "Friday": 175
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.87,
+    "dept_average_30d": 5.77,
+    "dept_rank": 370,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "username": "tyler.hanson",
+  "name": "Tyler Hanson",
+  "generated_at": "2026-04-08T20:22:08.649765",
+  "summary": {
+    "message_count": 58,
+    "channels_active": 4,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad for the outdated READMEs, never a bad time to update them :melting_face:",
+          "channel": "proj-revenue-tools-unified-revenue-api",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! I have a draft up for the SAU logic pending validation and cleanup (and it's pointing to a direct table reference since the lending inputs",
+          "channel": "proj-revenue-tools-unified-revenue-api",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Cindy :pray: thankfully you can ignore most of my theorizing here",
+          "channel": "proj-revenue-tools-unified-revenue-api",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "ok I'm starting to figure it out, I'm confusing myself with the semantics a bit :sweat_smile:\n\u2022 There's an identity here: E[GMV] = (GMV | Merchant is",
+          "channel": "proj-revenue-tools-unified-revenue-api",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "patrick.whelan",
+          "count": 6
+        },
+        {
+          "user": "kamal.jazar",
+          "count": 4
+        },
+        {
+          "user": "gabrielle.forgione",
+          "count": 2
+        },
+        {
+          "user": "kris.bethea",
+          "count": 2
+        },
+        {
+          "user": "cindy.zhu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.89,
+      "count": 50,
+      "top_channels": [
+        {
+          "channel": "proj-revenue-tools-unified-revenue-api",
+          "messages": 45
+        },
+        {
+          "channel": "commercial-ai-alerts",
+          "messages": 7
+        },
+        {
+          "channel": "help-commercial-data-platform",
+          "messages": 5
+        },
+        {
+          "channel": "revenue-data-airflow-dags-status",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "kris.bethea",
+          "count": 4
+        },
+        {
+          "user": "kouros.falati",
+          "count": 1
+        },
+        {
+          "user": "cindy.zhu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 8,
+      "17": 11,
+      "16": 3,
+      "15": 9,
+      "21": 3,
+      "19": 5,
+      "20": 13,
+      "22": 3,
+      "0": 2,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Tuesday": 21,
+      "Monday": 15,
+      "Friday": 13,
+      "Thursday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 3.64,
+    "dept_average_30d": 5.39,
+    "dept_rank": 261,
+    "dept_size": 272
+  }
+}

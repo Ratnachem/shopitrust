@@ -1,0 +1,202 @@
+{
+  "username": "jonathan.gnagy",
+  "name": "Jonathan Gnagy",
+  "generated_at": "2026-04-08T20:22:07.121065",
+  "summary": {
+    "message_count": 139,
+    "channels_active": 7,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Let me see if I can help",
+          "channel": "katesql-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I have a strong suspicion, looking at the list, that this isn't a problem, but I'll confirm. I think these are projects where we effectively",
+          "channel": "katesql-dev",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "We're happy to help, but there's a bit of a disconnect since I'm not very familiar with our 1P apps. KateSQL is a DBaaS for Shopify. In terms of",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need any help or want to pair",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about all the questions/comments",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I know exactly how backups work. They're the part I'm worried about the least. They might not be _fast_ given the amount of data and how you'll be",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'll reiterate though, that I think using the mysqld-exporter approach is the best approach and we should see how we could solve whatever concerns we",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "lucas.bajolet",
+          "count": 3
+        },
+        {
+          "user": "tom.krouper",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "nii.boidoku",
+          "count": 1
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 1
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 1
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.54,
+      "count": 67,
+      "top_channels": [
+        {
+          "channel": "katesql-dev",
+          "messages": 78
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 32
+        },
+        {
+          "channel": "proj-infra-katesql-migration",
+          "messages": 14
+        },
+        {
+          "channel": "proj-infra-yugabyte-core-tables",
+          "messages": 8
+        },
+        {
+          "channel": "proj-infra-mysql-backup-costs",
+          "messages": 3
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 3
+        },
+        {
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.29,
+      "count": 11,
+      "top_mentioners": [
+        {
+          "user": "james.zhu",
+          "count": 6
+        },
+        {
+          "user": "toni.zeng",
+          "count": 2
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 1
+        },
+        {
+          "user": "josh.varner",
+          "count": 1
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 11,
+      "17": 42,
+      "19": 20,
+      "14": 2,
+      "21": 4,
+      "15": 5,
+      "13": 1,
+      "16": 20,
+      "22": 23,
+      "4": 6,
+      "20": 5
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 33,
+      "Monday": 54,
+      "Friday": 20
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.85,
+    "dept_average_30d": 5.75,
+    "dept_rank": 307,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "username": "mohsen.morshedi",
+  "name": "Mohsen Morshedi",
+  "generated_at": "2026-04-08T20:22:27.545411",
+  "summary": {
+    "message_count": 103,
+    "channels_active": 5,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "The fix is deployed to prod. I\u2019m gonna stop the investigation. We have some data cleanup to do. Let me know if you have any concern.",
+          "channel": "inv-20852-investigation-wrong-rollout-step-in-the-d",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I see the same issue and trying to ship to fix a bug in prod too, thanks!",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hey folks, we have <https://github.com/shop/issues-measure/issues/1340|this> operational flag request for review, thanks!",
+          "channel": "help-exp",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I can add them to the above issue or create a separate one, whatever makes sense\u2026",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "neelay.shah",
+          "count": 4
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 3
+        },
+        {
+          "user": "daniel.podgornikabramovici",
+          "count": 3
+        },
+        {
+          "user": "lucas.uyezu",
+          "count": 3
+        },
+        {
+          "user": "francis.pelland",
+          "count": 2
+        },
+        {
+          "user": "iain.wilson",
+          "count": 2
+        },
+        {
+          "user": "lisa.steiger",
+          "count": 1
+        },
+        {
+          "user": "irene.nam",
+          "count": 1
+        },
+        {
+          "user": "mert.kara",
+          "count": 1
+        },
+        {
+          "user": "thiago.temple",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.57,
+      "count": 162,
+      "top_channels": [
+        {
+          "channel": "proj-rollouts-m1",
+          "messages": 43
+        },
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 38
+        },
+        {
+          "channel": "inv-20852-investigation-wrong-rollout-step-in-the-d",
+          "messages": 20
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 1
+        },
+        {
+          "channel": "help-exp",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "daniel.podgornik-3133",
+          "count": 19
+        },
+        {
+          "user": "neelay.shah",
+          "count": 7
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 6
+        },
+        {
+          "user": "thomas.wang",
+          "count": 6
+        },
+        {
+          "user": "francis.pelland",
+          "count": 5
+        },
+        {
+          "user": "lucas.uyezu",
+          "count": 3
+        },
+        {
+          "user": "mert.kara",
+          "count": 2
+        },
+        {
+          "user": "john.king",
+          "count": 1
+        },
+        {
+          "user": "irene.nam",
+          "count": 1
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 10,
+      "19": 19,
+      "16": 8,
+      "14": 15,
+      "20": 12,
+      "13": 7,
+      "12": 2,
+      "17": 9,
+      "15": 9,
+      "21": 4,
+      "22": 8
+    },
+    "by_day": {
+      "Tuesday": 30,
+      "Thursday": 18,
+      "Wednesday": 26,
+      "Monday": 26,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.74,
+    "dept_average_30d": 5.79,
+    "dept_rank": 609,
+    "dept_size": 1233
+  }
+}

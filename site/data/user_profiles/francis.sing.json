@@ -1,0 +1,116 @@
+{
+  "username": "francis.sing",
+  "name": "Francis Sing",
+  "generated_at": "2026-04-08T20:22:30.843997",
+  "summary": {
+    "message_count": 38,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@W018HMY2MQA>, I noticed that the PR was merged last week and I asked the merchant to try again, but it appears that they are still facing the",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team, Dev Support here :wave: Got redirected here from <#C01HHKW1K3K> (<https://shopify.slack.com/archives/C01HHKW1K3K/p1773210487753179|original",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "teddy.hwang",
+          "count": 3
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 2
+        },
+        {
+          "user": "phyllis.wu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.87,
+      "count": 23,
+      "top_channels": [
+        {
+          "channel": "river-dev-support",
+          "messages": 31
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 3
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 3
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "teddy.hwang",
+          "count": 2
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "3": 2,
+      "1": 5,
+      "0": 3,
+      "6": 4,
+      "5": 11,
+      "4": 12,
+      "2": 1
+    },
+    "by_day": {
+      "Thursday": 6,
+      "Wednesday": 11,
+      "Tuesday": 3,
+      "Monday": 15,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.48,
+    "dept_average_30d": 4.09,
+    "dept_rank": 489,
+    "dept_size": 642
+  }
+}

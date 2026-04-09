@@ -1,0 +1,261 @@
+{
+  "username": "ken.wagatsuma",
+  "name": "Ken Wagatsuma",
+  "generated_at": "2026-04-08T20:22:25.939815",
+  "summary": {
+    "message_count": 100,
+    "channels_active": 23,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 10,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. Did all my point make sense? Happy to carry on discussion async!",
+          "channel": "tmp-yugabyte-resiliency",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "A Vault GSD decision log is created <https://vault.shopify.io/gsd/decisions/10792> let me know if you need more input from us",
+          "channel": "help-appsec",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Cool, I'm fine with that, whatever works. And that new solution does make more sense too. Thank you for having a look and keep improving the vault!",
+          "channel": "help-vault",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "observability-profiling",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "inv-18084-checkout-sheet-protocol-authentication-dr",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sorry, and thanks!",
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inv-18646-db-writer-cpu-saturation--95-for-25-min",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Cool, I'm fine with that, whatever works. And that new solution does make more sense too. Thank you for having a look and keep improving the vault!",
+          "channel": "help-vault",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.48,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "andrew.pham",
+          "count": 5
+        },
+        {
+          "user": "abdullah.sheikh",
+          "count": 3
+        },
+        {
+          "user": "ollie.treend",
+          "count": 2
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 2
+        },
+        {
+          "user": "mike.nugent",
+          "count": 2
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 2
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 1
+        },
+        {
+          "user": "filip.petkovski",
+          "count": 1
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 1
+        },
+        {
+          "user": "mark.murray",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.37,
+      "count": 283,
+      "top_channels": [
+        {
+          "channel": "inv-19430-high-priority---only-for-europe-storefron",
+          "messages": 16
+        },
+        {
+          "channel": "inv-18646-db-writer-cpu-saturation--95-for-25-min",
+          "messages": 14
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 12
+        },
+        {
+          "channel": "inv-19726-pod169-mysql-disk-exhaustion-graphql-pagi",
+          "messages": 9
+        },
+        {
+          "channel": "proj-yugabyte-query-perf-monitor",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 7
+        },
+        {
+          "channel": "resiliency-gameday-tooling",
+          "messages": 7
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 4
+        },
+        {
+          "channel": "proj-data-storage-yugabyte-observability",
+          "messages": 3
+        },
+        {
+          "channel": "resiliency-ai-talk",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.28,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "mikolaj.liberski",
+          "count": 1
+        },
+        {
+          "user": "felipe.saez",
+          "count": 1
+        },
+        {
+          "user": "ollie.treend",
+          "count": 1
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 1
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 1
+        },
+        {
+          "user": "felipe.cuozzo",
+          "count": 1
+        },
+        {
+          "user": "abdullah.sheikh",
+          "count": 1
+        },
+        {
+          "user": "aditya.singh",
+          "count": 1
+        },
+        {
+          "user": "brent.faulkner",
+          "count": 1
+        },
+        {
+          "user": "andrew.pham",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "2": 1,
+      "14": 17,
+      "21": 1,
+      "15": 24,
+      "13": 17,
+      "17": 3,
+      "10": 21,
+      "9": 1,
+      "8": 1,
+      "16": 1,
+      "12": 13
+    },
+    "by_day": {
+      "Wednesday": 20,
+      "Friday": 18,
+      "Thursday": 39,
+      "Tuesday": 20,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.95,
+    "dept_average_30d": 4.74,
+    "dept_rank": 42,
+    "dept_size": 1663
+  }
+}

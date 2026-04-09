@@ -1,0 +1,90 @@
+{
+  "username": "laurea.hilario",
+  "name": "Laurea Hilario",
+  "generated_at": "2026-04-08T20:22:31.169850",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 18,
+    "days_scale": 0.78
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "That's great news! I'll have the merchant try again. Appreciate it~",
+          "channel": "help-files",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.58,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "adrian.augustyn",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.21,
+      "count": 87,
+      "top_channels": [
+        {
+          "channel": "help-files",
+          "messages": 3
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 3
+        },
+        {
+          "channel": "help-milestones",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.27,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "maggie.callaghan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "13": 2,
+      "12": 1,
+      "11": 2,
+      "10": 1,
+      "20": 1
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Tuesday": 2,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.12,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1098,
+    "dept_size": 1663
+  }
+}

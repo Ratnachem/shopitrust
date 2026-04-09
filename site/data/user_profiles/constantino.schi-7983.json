@@ -1,0 +1,214 @@
+{
+  "username": "constantino.schi-7983",
+  "name": "Constantino Schi-7983",
+  "generated_at": "2026-04-08T20:22:30.922404",
+  "summary": {
+    "message_count": 225,
+    "channels_active": 19,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "cool thanks!",
+          "channel": "pi",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I see the `user_uuid` field, thank you <@W0182V27BEK>!!",
+          "channel": "temp-shopyuga-client-cutover",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "cool, thank you!\n\nBy my tracking that leaves only:\n1. shop_app_csat_survey_feedback_submitted\n2. shop_app_push_notification_received",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@W0182V27BEK>",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "that's great to hear - sorry about the disruption gang",
+          "channel": "shop-p13n-ml-alerts-production",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi there! I'm coming from shop-ml and I'm just finding out about this project, it sounds like it's going to replace at least two datasets that we",
+          "channel": "proj-shopkick",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; `product_id` and `product_variant_id` are staying as `id` in general as they are from Core\nthat's what I wanted to hear, thanks!",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "shop-data-action-items",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "you really shouldn't be querying from base, you should have a mart model - these base models are not guaranteed to not break, they can (at a moments",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.44,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "elaine.y.chan",
+          "count": 13
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 12
+        },
+        {
+          "user": "rafael.seemann",
+          "count": 6
+        },
+        {
+          "user": "rafael.schulman",
+          "count": 5
+        },
+        {
+          "user": "andrew.lo",
+          "count": 5
+        },
+        {
+          "user": "andre.ericson",
+          "count": 4
+        },
+        {
+          "user": "benjamin.allevius",
+          "count": 3
+        },
+        {
+          "user": "jared.eccles",
+          "count": 2
+        },
+        {
+          "user": "karl.taylor",
+          "count": 2
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.3,
+      "count": 293,
+      "top_channels": [
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 75
+        },
+        {
+          "channel": "shop-data-dev",
+          "messages": 37
+        },
+        {
+          "channel": "shop-data-alerts",
+          "messages": 21
+        },
+        {
+          "channel": "shop-data",
+          "messages": 16
+        },
+        {
+          "channel": "proj-dw-shop-yugabyte-migration",
+          "messages": 15
+        },
+        {
+          "channel": "temp-shopyuga-client-cutover",
+          "messages": 12
+        },
+        {
+          "channel": "shop-p13n-ml-alerts-production",
+          "messages": 12
+        },
+        {
+          "channel": "proj-shop-gmv-dw",
+          "messages": 8
+        },
+        {
+          "channel": "data-engineering-ai",
+          "messages": 6
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 37,
+      "20": 25,
+      "19": 19,
+      "17": 37,
+      "15": 29,
+      "13": 11,
+      "18": 15,
+      "14": 21,
+      "22": 3,
+      "16": 25,
+      "12": 2,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 49,
+      "Tuesday": 61,
+      "Monday": 39,
+      "Friday": 19,
+      "Thursday": 57
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.17,
+    "dept_average_30d": 4.74,
+    "dept_rank": 462,
+    "dept_size": 1663
+  }
+}

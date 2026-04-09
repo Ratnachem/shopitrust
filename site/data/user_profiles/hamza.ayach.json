@@ -1,0 +1,113 @@
+{
+  "username": "hamza.ayach",
+  "name": "Hamza Ayach",
+  "generated_at": "2026-04-08T20:22:32.059563",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Anthony!",
+          "channel": "help-balance",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "brand-ae-milestones-alerts",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "michael.ruffolo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.49,
+      "count": 13,
+      "top_channels": [
+        {
+          "channel": "brand-ae-milestones-alerts",
+          "messages": 3
+        },
+        {
+          "channel": "help-balance",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "tech-flex-20-vending-machine",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "lindsay.craig",
+          "count": 3
+        },
+        {
+          "user": "anthony.moffa",
+          "count": 1
+        },
+        {
+          "user": "anthony.kentris",
+          "count": 1
+        },
+        {
+          "user": "mitchell.sidharta",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 1,
+      "21": 1,
+      "18": 1,
+      "16": 1,
+      "15": 3
+    },
+    "by_day": {
+      "Monday": 1,
+      "Friday": 2,
+      "Tuesday": 1,
+      "Thursday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Brand Marketing",
+    "user_score_30d": 4.11,
+    "dept_average_30d": 4.22,
+    "dept_rank": 18,
+    "dept_size": 35
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "username": "jon.force",
+  "name": "Jon Force",
+  "generated_at": "2026-04-08T20:22:29.578516",
+  "summary": {
+    "message_count": 267,
+    "channels_active": 19,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "You're the best angus thank you!",
+          "channel": "neobank-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "The last cleanup stack I currently have is blocked by the long merge queue, anything I can help you guys with today <@U02MAM477DK> <@U0228HMKMHN>?",
+          "channel": "proj-decouple-shop-neobank",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Anything I can help you guys with today <@U02MAM477DK> <@U0228HMKMHN>? I have a few small PRs I'm working on getting in but I've got a little",
+          "channel": "proj-decouple-shop-neobank",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you all so much for handling this while I was out sick, I'm really sorry that I caused a mess while I was gone! I should have been more",
+          "channel": "balance-exceptions",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yea great call\n<https://gist.github.com/JonForceShopify/d8d8dc93f337d9b8e82b45be5589fdcf>\nI haven't used secret gists before, let me know if you can",
+          "channel": "proj-decouple-shop-neobank",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Could use a review on this <https://github.com/Shopify/monorail/pull/23090>\nIt's the change to the monorail repo that needs to ship before our other",
+          "channel": "proj-decouple-shop-neobank",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great thank you for the help!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Dug into it more but haven't found anything that would be a problem if we didn't have the SLE on the commerce connection model. Let me know if you",
+          "channel": "proj-decouple-shop-neobank",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Also public UUID now in the production database wooooo :fireworks: :happy-celebrate-cat:",
+          "channel": "proj-decouple-shop-neobank",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yea whatever haha it's fine",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "renee.ren",
+          "count": 25
+        },
+        {
+          "user": "angus.kwong",
+          "count": 20
+        },
+        {
+          "user": "franck.delache",
+          "count": 12
+        },
+        {
+          "user": "hajar.niamehr",
+          "count": 2
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "robin.brandt",
+          "count": 1
+        },
+        {
+          "user": "maribel.romo",
+          "count": 1
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 1
+        },
+        {
+          "user": "midori.takeuchi",
+          "count": 1
+        },
+        {
+          "user": "hammad.khan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.17,
+      "count": 141,
+      "top_channels": [
+        {
+          "channel": "proj-decouple-shop-neobank",
+          "messages": 168
+        },
+        {
+          "channel": "jon-river",
+          "messages": 18
+        },
+        {
+          "channel": "neobank-team",
+          "messages": 13
+        },
+        {
+          "channel": "banking-dev",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20988-banking-error-reporting-new-errors-for-co",
+          "messages": 9
+        },
+        {
+          "channel": "balance-exceptions",
+          "messages": 7
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 7
+        },
+        {
+          "channel": "fs-coffee-chat",
+          "messages": 6
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 5
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.77,
+      "count": 41,
+      "top_mentioners": [
+        {
+          "user": "renee.ren",
+          "count": 11
+        },
+        {
+          "user": "franck.delache",
+          "count": 10
+        },
+        {
+          "user": "angus.kwong",
+          "count": 4
+        },
+        {
+          "user": "mamoun.saudi",
+          "count": 3
+        },
+        {
+          "user": "hajar.niamehr",
+          "count": 3
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 3
+        },
+        {
+          "user": "robin.brandt",
+          "count": 1
+        },
+        {
+          "user": "vitor.rigoni",
+          "count": 1
+        },
+        {
+          "user": "nathaniel.fernandes",
+          "count": 1
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 31,
+      "12": 9,
+      "11": 14,
+      "16": 40,
+      "14": 21,
+      "10": 6,
+      "20": 7,
+      "19": 29,
+      "18": 48,
+      "17": 33,
+      "15": 27,
+      "21": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Monday": 45,
+      "Thursday": 66,
+      "Wednesday": 74,
+      "Tuesday": 47,
+      "Friday": 35
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.5,
+    "dept_average_30d": 5.77,
+    "dept_rank": 542,
+    "dept_size": 885
+  }
+}

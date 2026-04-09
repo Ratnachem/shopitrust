@@ -1,0 +1,281 @@
+{
+  "username": "mary.sohn",
+  "name": "Mary Sohn",
+  "generated_at": "2026-04-08T20:22:14.113040",
+  "summary": {
+    "message_count": 731,
+    "channels_active": 34,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 22,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 20,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "from icloud:\n\n```Hello, \n \nThank you for your message. \n \niCloud Mail uses reputation systems, user feedback, and other dynamic filtering technology",
+          "channel": "proj-mailgun-dns-custom-domain",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": ":claude_: Investigation complete \u2014 block is cleared, safe to resend.\n\n*Block was intermittent \u2014 fully resolved today after Tucows closed ticket",
+          "channel": "email-squad-reports",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "AMAZING",
+          "channel": "notification-platform-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you hahahahahah",
+          "channel": "courier-operations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah thank you! it was WRITING to sheets but not writing EVER on the correct row",
+          "channel": "notification-platform-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-notification-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hello! was asked to redirect this to your team since it doesn't look like fraud so much as a credit risk issue. please let me know if you have any",
+          "channel": "help-credit-risk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oooh thank you will do",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team \u2014 looking for guidance on a customer complaint we received regarding <https://trust-platform.shopify.io/shops/69172330805|Shop 69172330805>",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "ok we are collaborating with them on a more permanent fix, but in the meantime i found a few emails that had expired our retry window and failed. let",
+          "channel": "help-notification-platform",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": ":claude-panic: _Comcast RL000010 \u2014 `<http://shop.app|shop.app>` sender domain reputation throttling on `internal-high` pool_\nComcast is throttling",
+          "channel": "inc-20904-delivered-alert-for-internal-low",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.01,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "wayne.mehl",
+          "count": 11
+        },
+        {
+          "user": "erika.leblanc",
+          "count": 7
+        },
+        {
+          "user": "christine.borgia",
+          "count": 7
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 6
+        },
+        {
+          "user": "robert.wang",
+          "count": 4
+        },
+        {
+          "user": "thomas.barton",
+          "count": 3
+        },
+        {
+          "user": "jess.dolinski",
+          "count": 2
+        },
+        {
+          "user": "kate.tratten",
+          "count": 1
+        },
+        {
+          "user": "viktor.klein",
+          "count": 1
+        },
+        {
+          "user": "omar.benzekri",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.95,
+      "count": 326,
+      "top_channels": [
+        {
+          "channel": "email-reputation",
+          "messages": 200
+        },
+        {
+          "channel": "email-deliverability",
+          "messages": 84
+        },
+        {
+          "channel": "proj-mailgun-dns-custom-domain",
+          "messages": 70
+        },
+        {
+          "channel": "inc-20904-delivered-alert-for-internal-low",
+          "messages": 67
+        },
+        {
+          "channel": "notification-platform-team",
+          "messages": 44
+        },
+        {
+          "channel": "tmp-email-deliverability-test-alerts",
+          "messages": 41
+        },
+        {
+          "channel": "notification-platform-dev",
+          "messages": 28
+        },
+        {
+          "channel": "courier-operations",
+          "messages": 24
+        },
+        {
+          "channel": "help-notification-platform",
+          "messages": 19
+        },
+        {
+          "channel": "suspicious-activity-investigation",
+          "messages": 18
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 79,
+      "top_mentioners": [
+        {
+          "user": "wayne.mehl",
+          "count": 17
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 10
+        },
+        {
+          "user": "erika.leblanc",
+          "count": 10
+        },
+        {
+          "user": "christine.borgia",
+          "count": 10
+        },
+        {
+          "user": "robert.wang",
+          "count": 7
+        },
+        {
+          "user": "thomas.barton",
+          "count": 6
+        },
+        {
+          "user": "yolande.winegarden",
+          "count": 3
+        },
+        {
+          "user": "celso.marciano",
+          "count": 2
+        },
+        {
+          "user": "lindsay.fitzmaurice",
+          "count": 1
+        },
+        {
+          "user": "charles.ng",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 73,
+      "17": 56,
+      "15": 125,
+      "14": 117,
+      "13": 57,
+      "21": 47,
+      "16": 58,
+      "10": 2,
+      "9": 2,
+      "8": 3,
+      "7": 4,
+      "5": 3,
+      "4": 3,
+      "2": 1,
+      "1": 2,
+      "0": 3,
+      "23": 19,
+      "20": 99,
+      "12": 2,
+      "3": 2,
+      "19": 45,
+      "6": 3,
+      "22": 3,
+      "11": 2
+    },
+    "by_day": {
+      "Wednesday": 149,
+      "Tuesday": 274,
+      "Monday": 110,
+      "Friday": 43,
+      "Thursday": 155
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.18,
+    "dept_average_30d": 4.74,
+    "dept_rank": 154,
+    "dept_size": 1663
+  }
+}

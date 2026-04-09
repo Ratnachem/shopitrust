@@ -1,0 +1,283 @@
+{
+  "username": "joe.holston",
+  "name": "Joe Holston",
+  "generated_at": "2026-04-08T20:22:18.348336",
+  "summary": {
+    "message_count": 779,
+    "channels_active": 12,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.2,
+      "pos_count": 6,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> I think this answers your questions, but let me know if you have more:\n1. product variant didn't have an existing/simple choice",
+          "channel": "river-joe",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm on a flight, landing soon, so I will be AFK for a bit. If CI passes and this looks good, feel free to merge.",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Did you read the correct message? <https://shopify.slack.com/archives/C58CNRGQH/p1774357321607859>\n\nHey team, T3 merchant is reporting that the `B2B",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> great thanks!",
+          "channel": "river-joe",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> excellent, thank you. continue to monitor, check CI every 5 minutes and notify once it's passing. if it's not fix and then continue to",
+          "channel": "river-joe",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Again, I may be missing some context here, so feel free to disregard, just wanted to make sure you had that info since this was a tricky edge case",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> this check feels a bit odd, why do we do != f continue with other checks. isn't just checking if it's not f enough? if it's not f, we",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Blame",
+          "pattern": "why didn't you",
+          "text": "<@U0AEPQCKB3M> so far I've tested\n1. selection\n    a. selected 2 orders with 3 products total, got 3 rows on the csv\n2. current page\n    a. exported",
+          "channel": "river-joe",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> try again, you should have a way to do it",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> create the stack off of main, not where it is now. you can either create new PRs or move, whatever is easiest. if you create new PRs,",
+          "channel": "river-joe",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> I wanna focus on just the back end parts, the bottom PR in the stack. A few thoughts, I wanna break it up. I want the first PR to be",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>\nLet's take a step back, we should use the existing field `dateCreated` for whatever data we are adding. we should not add a duplicate",
+          "channel": "admin-workflows-river",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "nikola.milosevic",
+          "count": 9
+        },
+        {
+          "user": "kush.patel",
+          "count": 7
+        },
+        {
+          "user": "daniel.flood",
+          "count": 5
+        },
+        {
+          "user": "jita.yi",
+          "count": 4
+        },
+        {
+          "user": "phil.coggins",
+          "count": 4
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 3
+        },
+        {
+          "user": "princess.morales",
+          "count": 2
+        },
+        {
+          "user": "matthew.ellig",
+          "count": 2
+        },
+        {
+          "user": "joe.thomas",
+          "count": 2
+        },
+        {
+          "user": "yvonne.mcdonnell",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.27,
+      "count": 199,
+      "top_channels": [
+        {
+          "channel": "river-joe",
+          "messages": 413
+        },
+        {
+          "channel": "proj-index-tables",
+          "messages": 168
+        },
+        {
+          "channel": "admin-workflows-river",
+          "messages": 137
+        },
+        {
+          "channel": "temp-table-filter-feedback",
+          "messages": 25
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 13
+        },
+        {
+          "channel": "help-products",
+          "messages": 9
+        },
+        {
+          "channel": "help-metafields-and-metaobjects",
+          "messages": 4
+        },
+        {
+          "channel": "help-admin-workflows",
+          "messages": 3
+        },
+        {
+          "channel": "help-it",
+          "messages": 3
+        },
+        {
+          "channel": "admin-workflows",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "kush.patel",
+          "count": 5
+        },
+        {
+          "user": "daniel.flood",
+          "count": 5
+        },
+        {
+          "user": "nikola.milosevic",
+          "count": 4
+        },
+        {
+          "user": "jess.clark",
+          "count": 3
+        },
+        {
+          "user": "phil.coggins",
+          "count": 3
+        },
+        {
+          "user": "princess.morales",
+          "count": 2
+        },
+        {
+          "user": "scott.birksted",
+          "count": 2
+        },
+        {
+          "user": "alastair.lewis",
+          "count": 1
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 1
+        },
+        {
+          "user": "james.lunan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 118,
+      "16": 76,
+      "15": 127,
+      "14": 117,
+      "18": 60,
+      "13": 71,
+      "12": 19,
+      "11": 4,
+      "19": 79,
+      "21": 11,
+      "20": 49,
+      "2": 6,
+      "10": 1,
+      "1": 3,
+      "0": 14,
+      "4": 1,
+      "3": 2,
+      "22": 6,
+      "23": 15
+    },
+    "by_day": {
+      "Wednesday": 194,
+      "Tuesday": 123,
+      "Monday": 66,
+      "Friday": 196,
+      "Thursday": 200
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 541,
+    "dept_size": 1233
+  }
+}

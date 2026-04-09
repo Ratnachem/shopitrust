@@ -1,0 +1,228 @@
+{
+  "username": "jesse.tao",
+  "name": "Jesse Tao",
+  "generated_at": "2026-04-08T20:22:14.065171",
+  "summary": {
+    "message_count": 162,
+    "channels_active": 16,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.3,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> my bad. Reference the PRs in this message:",
+          "channel": "jessetao_river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Yeah my bad.  I got it confused with another intake request",
+          "channel": "foundation-analytics-intake",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you.  Is the schedule on <http://shopify.pagerduty.com|shopify.pagerduty.com>?  I just requested access but the entitlements don't seem to have",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "This seems like it just pull from core tables with some aggregations and joins?  We're just starting the join without aggregation and aggregation",
+          "channel": "proj-local-currency-gift-cards",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I have a potentially painfully stupid and obvious question:",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "yuichi.hagio",
+          "count": 5
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 3
+        },
+        {
+          "user": "trideep.roy",
+          "count": 3
+        },
+        {
+          "user": "susie.lee",
+          "count": 3
+        },
+        {
+          "user": "ani.panwar",
+          "count": 3
+        },
+        {
+          "user": "steven.lee",
+          "count": 3
+        },
+        {
+          "user": "taylor.mattson",
+          "count": 2
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 2
+        },
+        {
+          "user": "roel.decoene",
+          "count": 2
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.9,
+      "count": 103,
+      "top_channels": [
+        {
+          "channel": "jessetao_river",
+          "messages": 89
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 21
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 12
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 7
+        },
+        {
+          "channel": "proj-local-currency-gift-cards",
+          "messages": 5
+        },
+        {
+          "channel": "yugabyte_pk_flink_migration",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20576-title-unverified-returns-misidentified-as",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20576-title-unverified-returns-misidentified-as",
+          "messages": 4
+        },
+        {
+          "channel": "river",
+          "messages": 3
+        },
+        {
+          "channel": "proj-add-sells-in-person-capability-to-location-primitive",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 46,
+      "top_mentioners": [
+        {
+          "user": "daniel.conlin",
+          "count": 7
+        },
+        {
+          "user": "taylor.mattson",
+          "count": 6
+        },
+        {
+          "user": "yifan.ye",
+          "count": 5
+        },
+        {
+          "user": "yuichi.hagio",
+          "count": 3
+        },
+        {
+          "user": "nick.presta",
+          "count": 3
+        },
+        {
+          "user": "christian.lessard",
+          "count": 2
+        },
+        {
+          "user": "trideep.roy",
+          "count": 2
+        },
+        {
+          "user": "kia.dalili",
+          "count": 2
+        },
+        {
+          "user": "susie.lee",
+          "count": 2
+        },
+        {
+          "user": "roel.decoene",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 25,
+      "17": 18,
+      "15": 15,
+      "13": 10,
+      "23": 3,
+      "16": 10,
+      "19": 19,
+      "14": 26,
+      "20": 27,
+      "22": 4,
+      "12": 3,
+      "0": 1,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 47,
+      "Tuesday": 29,
+      "Monday": 19,
+      "Friday": 40,
+      "Thursday": 27
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1054,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "username": "jp.caissy",
+  "name": "JP Caissy",
+  "generated_at": "2026-04-08T20:22:10.072704",
+  "summary": {
+    "message_count": 1703,
+    "channels_active": 94,
+    "unique_people_mentioned": 49,
+    "unique_mentioners": 51,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 9,
+      "neg_count": 11,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Perfect, exactly what I wanted to know. Thanks!",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "ah dang i was wrong",
+          "channel": "inv-20990-storefront-availability-for-bellami-profe",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Actually I can jump in for the e-imoc review if needed, feel free to ping me or ML once Kirstin or any other SME has approved",
+          "channel": "inc-20390-alo-yoga-required-phone-number-on-shop-pa",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W0197J5L81W> we already have a `fashionnova_exclude_ips` in there, want me to add the IP they provided in that exclusion list?",
+          "channel": "fashion-nova-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "tmp-checkout-slo",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "oh yeah that was my mistake",
+          "channel": "tmp-cart-slo",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad!",
+          "channel": "inv-20357-supreme-flashsale-error-tracking",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yes, my bad",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh my bad",
+          "channel": "inc-19979-sfr-errors-due-to-topps-unannounced-flash",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "They need to setup a a signature and use the headers with whatever crawling tool they use (Cypress should support that)",
+          "channel": "resiliency-enterprise-sre-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "also whatever was doing it on 333 stopped?",
+          "channel": "inv-21068-high-storecreate-mutation-latency",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ty, whatever works for everyone :stuck_out_tongue:",
+          "channel": "tmp-checkout-slo",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Those playwright tests are run within our infrastructure, right? I wonder if we could see the resource usage of whatever runs them. If CPU was high",
+          "channel": "inv-20981-jb-hifi-e2e-cart-permalink-canary-flaky",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yeah that shouldn\u2019t be too hard, point it to how it\u2019s done for checkout token in whatever observe singleton is used and it might be able to to the",
+          "channel": "checkout-one-exceptions",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "err, just to clarify what I mean is that any app-level mitigation for Supreme on graphql endpoints is useless since it\u2019s blocked at the edge",
+          "channel": "checkout-carts-operations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "but it\u2019s completely useless",
+          "channel": "checkout-carts-operations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If this is checkout-web did we validate that the previous deploy works with the tophat header (or whatever the header name is these days)?",
+          "channel": "inc-20643-paypal-is-seeing-a-significant-drop-in-vo",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": ":ben-affleck-smoking:  so after 2 hours of pairing with <@U021M9C22MC> we managed to figure it out",
+          "channel": "inv-20357-supreme-flashsale-error-tracking",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Could that just mean whatever overlap protection (if any) we have failed?",
+          "channel": "inv-20375-high-error-rate-on-sfr-for-mattel-on-pod-",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 54,
+      "top_mentioned": [
+        {
+          "user": "jordan.neufeld",
+          "count": 12
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 8
+        },
+        {
+          "user": "anagayan.ariaran",
+          "count": 8
+        },
+        {
+          "user": "nabeel.ahsen",
+          "count": 6
+        },
+        {
+          "user": "yusei.nishiyama",
+          "count": 5
+        },
+        {
+          "user": "joe.chop",
+          "count": 4
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 4
+        },
+        {
+          "user": "dennis.ho",
+          "count": 4
+        },
+        {
+          "user": "damien.ardouin",
+          "count": 4
+        },
+        {
+          "user": "josh.broughton",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 663,
+      "top_channels": [
+        {
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "messages": 177
+        },
+        {
+          "channel": "tmp-checkout-slo",
+          "messages": 138
+        },
+        {
+          "channel": "inc-19979-sfr-errors-due-to-topps-unannounced-flash",
+          "messages": 122
+        },
+        {
+          "channel": "inv-20357-supreme-flashsale-error-tracking",
+          "messages": 119
+        },
+        {
+          "channel": "tmp-search-slo",
+          "messages": 70
+        },
+        {
+          "channel": "inv-20706-monitoring-topps-flashsales",
+          "messages": 58
+        },
+        {
+          "channel": "inv-20417-soor-ploom-flash-sale-caused-500s",
+          "messages": 49
+        },
+        {
+          "channel": "inv-20375-high-error-rate-on-sfr-for-mattel-on-pod-",
+          "messages": 45
+        },
+        {
+          "channel": "inv-20390-alo-yoga-required-phone-number-on-shop-pa",
+          "messages": 43
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 42
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 147,
+      "top_mentioners": [
+        {
+          "user": "jordan.neufeld",
+          "count": 31
+        },
+        {
+          "user": "celine.bensoussan",
+          "count": 9
+        },
+        {
+          "user": "dakota.mcinnis",
+          "count": 8
+        },
+        {
+          "user": "mattie.toia",
+          "count": 8
+        },
+        {
+          "user": "gabriel.queiroz",
+          "count": 6
+        },
+        {
+          "user": "ayo.akinkugbe",
+          "count": 6
+        },
+        {
+          "user": "dennis.ho",
+          "count": 5
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 5
+        },
+        {
+          "user": "max.veldink",
+          "count": 4
+        },
+        {
+          "user": "corrine.giesbrecht",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 269,
+      "17": 189,
+      "13": 78,
+      "16": 183,
+      "15": 257,
+      "14": 273,
+      "20": 75,
+      "19": 208,
+      "22": 48,
+      "21": 61,
+      "12": 13,
+      "23": 26,
+      "0": 23
+    },
+    "by_day": {
+      "Wednesday": 436,
+      "Tuesday": 168,
+      "Monday": 188,
+      "Thursday": 715,
+      "Friday": 196
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 5.75,
+    "dept_rank": 141,
+    "dept_size": 357
+  }
+}

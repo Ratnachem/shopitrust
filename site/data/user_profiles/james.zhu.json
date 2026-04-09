@@ -1,0 +1,272 @@
+{
+  "username": "james.zhu",
+  "name": "James Zhu",
+  "generated_at": "2026-04-08T20:22:23.002269",
+  "summary": {
+    "message_count": 240,
+    "channels_active": 31,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "The mysqldump approach will likely take hours (we don't have exact numbers how long it takes for a 1TB table), and writes will be unavailable during",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help find the right person for this. Is there a TLDR? is this database KateSQL or Core?",
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018WAVQKRP> just to confirm, do you plan to talk to the owner of these dependent GSDs or you want me to do it? I am fine with either, but want to",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I found this documentation <https://vault.shopify.io/disciplines/25-Engineering/docs/infrastructure/deploy/shipit>",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U01NW6JCE4E> my fix is in staging right now so feel free to play with it!",
+          "channel": "katesql-dev",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hello from the Database Platform!\n\nWe're sending this message because you are identified as the owner for the following tables in `shardm`:\n\u2022",
+          "channel": "mission-cookies",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave: Hello from the Database Platform again!\n\nWe're sending this message because you are identified as the owner for the following tables in",
+          "channel": "team-rails-infra",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you all, I think I got all the information I need.\n\nYes we are planning migration strategies for each use case, and are aware that these",
+          "channel": "pp-vaulting-team",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I appreciate the insights!",
+          "channel": "metafields-and-metaobjects",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah good to know, thank you!",
+          "channel": "admin-workflows",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "great, I assume some backfilter work was originally only designed for shop tables, good to identify if there are any feature gap and confirm whatever",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "lucas.bajolet",
+          "count": 12
+        },
+        {
+          "user": "toria.gibbs",
+          "count": 8
+        },
+        {
+          "user": "yevgeniy.safronov",
+          "count": 6
+        },
+        {
+          "user": "jonathan.gnagy",
+          "count": 6
+        },
+        {
+          "user": "nii.boidoku",
+          "count": 6
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 6
+        },
+        {
+          "user": "brian.chae",
+          "count": 5
+        },
+        {
+          "user": "austen.lacy",
+          "count": 3
+        },
+        {
+          "user": "evan.zhao",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 654,
+      "top_channels": [
+        {
+          "channel": "help-database-platform",
+          "messages": 53
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 43
+        },
+        {
+          "channel": "proj-infra-yugabyte-core-tables",
+          "messages": 35
+        },
+        {
+          "channel": "katesql-ops",
+          "messages": 33
+        },
+        {
+          "channel": "proj-infra-katesql-migration",
+          "messages": 12
+        },
+        {
+          "channel": "inc-20137-failures-on-world-storefront-renderer",
+          "messages": 7
+        },
+        {
+          "channel": "inv-19646-devicemanager-database-at-risk",
+          "messages": 5
+        },
+        {
+          "channel": "inc-19834-gcp-zonal-issues-central-c",
+          "messages": 5
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 5
+        },
+        {
+          "channel": "cx-rnd-team",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "bogdan.matu",
+          "count": 8
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 6
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 4
+        },
+        {
+          "user": "jie.sun",
+          "count": 3
+        },
+        {
+          "user": "josh.zucker",
+          "count": 2
+        },
+        {
+          "user": "yuechao.qin",
+          "count": 2
+        },
+        {
+          "user": "peter.rong",
+          "count": 2
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 2
+        },
+        {
+          "user": "bryan.langille",
+          "count": 1
+        },
+        {
+          "user": "lucas.bajolet",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 43,
+      "19": 21,
+      "18": 19,
+      "17": 25,
+      "16": 36,
+      "20": 26,
+      "21": 15,
+      "14": 26,
+      "3": 1,
+      "12": 3,
+      "2": 3,
+      "0": 3,
+      "23": 6,
+      "22": 11,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 62,
+      "Tuesday": 39,
+      "Monday": 43,
+      "Friday": 31,
+      "Thursday": 65
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.49,
+    "dept_average_30d": 5.75,
+    "dept_rank": 205,
+    "dept_size": 357
+  }
+}

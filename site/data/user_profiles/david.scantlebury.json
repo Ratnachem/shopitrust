@@ -1,0 +1,224 @@
+{
+  "username": "david.scantlebury",
+  "name": "David Scantlebury",
+  "generated_at": "2026-04-08T20:22:13.258674",
+  "summary": {
+    "message_count": 158,
+    "channels_active": 16,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! When do you expect the external reviews will be completed?",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'd recommend implementing a single shared table - and responder teams can feel free to build their own if they feel that's the right solution for",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Hi David, breaking inheritance across market types and using a list of all countries to represent 'all d2c' is non-standard and makes the",
+          "channel": "proj-discounts-eligibility-by-market",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Market assignment isn't a responder structure though - it's a markets one.\n\nThere is no discounts code needed to handle the assignment, beyond",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "thomas.wang",
+          "count": 10
+        },
+        {
+          "user": "daniel.podgornikabramovici",
+          "count": 9
+        },
+        {
+          "user": "neelay.shah",
+          "count": 6
+        },
+        {
+          "user": "chris.lee",
+          "count": 4
+        },
+        {
+          "user": "francis.pelland",
+          "count": 3
+        },
+        {
+          "user": "gabriel.letarte",
+          "count": 2
+        },
+        {
+          "user": "james.kieley",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        },
+        {
+          "user": "irene.nam",
+          "count": 1
+        },
+        {
+          "user": "mohsen.morshedi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.04,
+      "count": 187,
+      "top_channels": [
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 74
+        },
+        {
+          "channel": "davids-riverflow",
+          "messages": 17
+        },
+        {
+          "channel": "proj-market-change-sets-backend-only",
+          "messages": 16
+        },
+        {
+          "channel": "proj-discounts-eligibility-by-market",
+          "messages": 12
+        },
+        {
+          "channel": "markets-platform",
+          "messages": 6
+        },
+        {
+          "channel": "markets-prs",
+          "messages": 6
+        },
+        {
+          "channel": "core-catalogs-dev",
+          "messages": 6
+        },
+        {
+          "channel": "proj-markets-and-rollouts",
+          "messages": 5
+        },
+        {
+          "channel": "inv-20019-index-serving---long-lived-shard-online-r",
+          "messages": 4
+        },
+        {
+          "channel": "product-driven-markets-for-shipping-profiles-red-team",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "daniel.podgornik-3133",
+          "count": 13
+        },
+        {
+          "user": "neelay.shah",
+          "count": 6
+        },
+        {
+          "user": "asaf.gitai",
+          "count": 5
+        },
+        {
+          "user": "thomas.wang",
+          "count": 5
+        },
+        {
+          "user": "james.kieley",
+          "count": 5
+        },
+        {
+          "user": "janet.balneaves",
+          "count": 5
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 5
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 3
+        },
+        {
+          "user": "lukas.michelbacher",
+          "count": 3
+        },
+        {
+          "user": "francis.pelland",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 20,
+      "14": 13,
+      "23": 6,
+      "22": 2,
+      "21": 17,
+      "19": 8,
+      "16": 22,
+      "15": 6,
+      "20": 17,
+      "1": 2,
+      "13": 13,
+      "17": 28,
+      "2": 1,
+      "11": 1,
+      "3": 1,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 41,
+      "Tuesday": 29,
+      "Monday": 38,
+      "Friday": 31,
+      "Thursday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.84,
+    "dept_average_30d": 5.79,
+    "dept_rank": 557,
+    "dept_size": 1233
+  }
+}

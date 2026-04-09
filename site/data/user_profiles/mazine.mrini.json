@@ -1,0 +1,191 @@
+{
+  "username": "mazine.mrini",
+  "name": "Mazine Mrini",
+  "generated_at": "2026-04-08T20:22:30.522283",
+  "summary": {
+    "message_count": 110,
+    "channels_active": 6,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 3,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U03D02QAVDY> IMO, if we want to be consistent, `agent-server` should resolve that use case (in a generic way). Even if it takes legal or whatever,",
+          "channel": "storefront-agent-eng",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Other question, kind of related to that is how we want to manage `merchant/buyer` specific context. Do we just shove everything in `context` ? I'm",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":wave: Wanted to run a quick idea for the playground before implementing anything, i see that currently, some keys are directly pointing to",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "felipe.leusin",
+          "count": 6
+        },
+        {
+          "user": "tyler.rowsell",
+          "count": 4
+        },
+        {
+          "user": "alex.cote",
+          "count": 3
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 2
+        },
+        {
+          "user": "justin.harris",
+          "count": 2
+        },
+        {
+          "user": "mike.sassak",
+          "count": 2
+        },
+        {
+          "user": "charlie.lee",
+          "count": 1
+        },
+        {
+          "user": "ates.goral",
+          "count": 1
+        },
+        {
+          "user": "tibi.mitran",
+          "count": 1
+        },
+        {
+          "user": "robert.holmes",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.69,
+      "count": 71,
+      "top_channels": [
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 69
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 25
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 11
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 2
+        },
+        {
+          "channel": "tmp-storekick-agent-eval-burst",
+          "messages": 2
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "richard.poirier",
+          "count": 8
+        },
+        {
+          "user": "mike.sassak",
+          "count": 7
+        },
+        {
+          "user": "nick.lepine",
+          "count": 2
+        },
+        {
+          "user": "justin.harris",
+          "count": 2
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 1
+        },
+        {
+          "user": "alex.cote",
+          "count": 1
+        },
+        {
+          "user": "ates.goral",
+          "count": 1
+        },
+        {
+          "user": "tyler.rowsell",
+          "count": 1
+        },
+        {
+          "user": "ellen.dunne",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 12,
+      "21": 7,
+      "20": 23,
+      "19": 21,
+      "18": 12,
+      "17": 10,
+      "15": 9,
+      "14": 9,
+      "13": 5,
+      "22": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Thursday": 16,
+      "Tuesday": 57,
+      "Monday": 18,
+      "Wednesday": 11,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.66,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1098,
+    "dept_size": 1233
+  }
+}

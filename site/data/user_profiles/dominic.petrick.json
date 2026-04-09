@@ -1,0 +1,162 @@
+{
+  "username": "dominic.petrick",
+  "name": "Dominic Petrick",
+  "generated_at": "2026-04-08T20:22:18.820245",
+  "summary": {
+    "message_count": 77,
+    "channels_active": 6,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Sorry my bad, it's not a duplicate",
+          "channel": "proj-storefronts-processing-time",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Gave it a read in its entirety, thanks! Nit: The preamble incorrectly expresses what's happening in the report though: `This report measures the CPU",
+          "channel": "proj-storefronts-processing-time",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "choose whatever you think is better",
+          "channel": "proj-storefronts-processing-time",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "ian.kerseymer",
+          "count": 5
+        },
+        {
+          "user": "jingxian.hou",
+          "count": 1
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.88,
+      "count": 76,
+      "top_channels": [
+        {
+          "channel": "proj-storefronts-processing-time",
+          "messages": 65
+        },
+        {
+          "channel": "liquid-perf",
+          "messages": 5
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 4
+        },
+        {
+          "channel": "storefront-renderer-operations",
+          "messages": 1
+        },
+        {
+          "channel": "team-core-applications",
+          "messages": 1
+        },
+        {
+          "channel": "storefront-performance",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "ian.kerseymer",
+          "count": 7
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 2
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 2
+        },
+        {
+          "user": "logan.martel",
+          "count": 1
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 1
+        },
+        {
+          "user": "guillaume.malette",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 3,
+      "16": 12,
+      "12": 4,
+      "11": 6,
+      "10": 8,
+      "14": 19,
+      "7": 1,
+      "6": 1,
+      "8": 1,
+      "19": 1,
+      "18": 1,
+      "13": 15,
+      "9": 4,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Tuesday": 23,
+      "Thursday": 17,
+      "Monday": 16,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.55,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1122,
+    "dept_size": 1233
+  }
+}

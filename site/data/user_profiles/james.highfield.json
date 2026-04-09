@@ -1,0 +1,256 @@
+{
+  "username": "james.highfield",
+  "name": "James Highfield",
+  "generated_at": "2026-04-08T20:22:22.037622",
+  "summary": {
+    "message_count": 285,
+    "channels_active": 16,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Will fix it so they're all *not* bold then",
+          "channel": "proj-shipping-profile-redesign",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Nice thanks! Always happy to see components broken up into multiple smaller ones :smile:",
+          "channel": "proj-shipping-profile-redesign-eng",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "```@River Investigate the following query which is causing #inc-20747-pod-240-elevated-latency:\n\nSELECT delivery_origin_locations.* FROM",
+          "channel": "fulfillment-atc-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "<@U0AEPQCKB3M> What do you think of this code review I just got for this?\n```The fix is correct for the immediate symptom but too narrow. The",
+          "channel": "river-highfield",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm going to pivot to market names so we can get something merged this week, since that's the more likely direction than profiles, but let me know if",
+          "channel": "proj-product-and-location-conditions-in-shipping-options",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "OK great thanks! <https://app.graphite.com/github/pr/shop/world/532377|I have a PR> almost ready for review adding profiles, but sounds like I should",
+          "channel": "proj-product-and-location-conditions-in-shipping-options",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Any issues, feel free to page me with `@spy page @James Highfield message`",
+          "channel": "inv-20085-order-printer-error-spike-prisma-timeouts",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U099F9RCHFA> <@W018B14K1QW> FYI as ATC and On Call. If there are any issues, feel free to scale up to `5`  here as we did last week:",
+          "channel": "inv-20085-order-printer-error-spike-prisma-timeouts",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U099F9RCHFA> <@W018B14K1QW> FYI as ATC and On Call. If there are any issues, feel free to scale up to `5`  here as we did last week:",
+          "channel": "inv-20085-order-printer-error-spike-prisma-timeouts",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "marcus.turner",
+          "count": 7
+        },
+        {
+          "user": "cherry.chau",
+          "count": 3
+        },
+        {
+          "user": "paul.ayling",
+          "count": 3
+        },
+        {
+          "user": "beth.townsend",
+          "count": 2
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 1
+        },
+        {
+          "user": "ollie.treend",
+          "count": 1
+        },
+        {
+          "user": "alex.corr",
+          "count": 1
+        },
+        {
+          "user": "max.romaniv",
+          "count": 1
+        },
+        {
+          "user": "max.perry",
+          "count": 1
+        },
+        {
+          "user": "hamish.morgan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.84,
+      "count": 75,
+      "top_channels": [
+        {
+          "channel": "river-highfield",
+          "messages": 75
+        },
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 49
+        },
+        {
+          "channel": "inv-20382-order-printer-high-failure-rate",
+          "messages": 38
+        },
+        {
+          "channel": "fulfillment-excp",
+          "messages": 21
+        },
+        {
+          "channel": "proj-shipping-profile-redesign",
+          "messages": 20
+        },
+        {
+          "channel": "proj-product-and-location-conditions-in-shipping-options",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20085-order-printer-error-spike-prisma-timeouts",
+          "messages": 20
+        },
+        {
+          "channel": "proj-shipping-profile-redesign-eng",
+          "messages": 11
+        },
+        {
+          "channel": "fulfillment-operations",
+          "messages": 8
+        },
+        {
+          "channel": "proj-shipping-profile-redesign-fed",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "cherry.chau",
+          "count": 4
+        },
+        {
+          "user": "chema.balsas",
+          "count": 4
+        },
+        {
+          "user": "ilana.beer",
+          "count": 3
+        },
+        {
+          "user": "paul.ayling",
+          "count": 3
+        },
+        {
+          "user": "michael.zaporozhets",
+          "count": 1
+        },
+        {
+          "user": "daniella.niyonkuru",
+          "count": 1
+        },
+        {
+          "user": "kelly.ma",
+          "count": 1
+        },
+        {
+          "user": "reuben.sutton",
+          "count": 1
+        },
+        {
+          "user": "tyler.kelleher",
+          "count": 1
+        },
+        {
+          "user": "alex.corr",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 18,
+      "14": 14,
+      "8": 5,
+      "11": 32,
+      "10": 50,
+      "9": 23,
+      "17": 8,
+      "16": 36,
+      "13": 8,
+      "12": 9,
+      "21": 12,
+      "20": 56,
+      "18": 14
+    },
+    "by_day": {
+      "Wednesday": 61,
+      "Tuesday": 77,
+      "Monday": 34,
+      "Friday": 51,
+      "Thursday": 62
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.36,
+    "dept_average_30d": 5.79,
+    "dept_rank": 824,
+    "dept_size": 1233
+  }
+}

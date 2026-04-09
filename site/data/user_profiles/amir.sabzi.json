@@ -1,0 +1,180 @@
+{
+  "username": "amir.sabzi",
+  "name": "Amir Sabzi",
+  "generated_at": "2026-04-08T20:22:18.031617",
+  "summary": {
+    "message_count": 36,
+    "channels_active": 9,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I will wait for that. Thank you",
+          "channel": "proj-automated-ltv-offer-gen",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much! I received a voucher. Is this for Q1 or Q2?",
+          "channel": "help-shop-cash",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yes, actually that would make things easier. I'm using the csv you generated as a DBT seed for our offer guidances. Currently, I have a mapping to",
+          "channel": "lending-intelligence-team",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "shixiao.li",
+          "count": 5
+        },
+        {
+          "user": "lukas.skrabak",
+          "count": 3
+        },
+        {
+          "user": "eric.lybrand",
+          "count": 1
+        },
+        {
+          "user": "adam.derewecki",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.86,
+      "count": 230,
+      "top_channels": [
+        {
+          "channel": "proj-automated-ltv-offer-gen",
+          "messages": 16
+        },
+        {
+          "channel": "tangle",
+          "messages": 6
+        },
+        {
+          "channel": "lending-intelligence-team",
+          "messages": 4
+        },
+        {
+          "channel": "capital-data-exceptions",
+          "messages": 3
+        },
+        {
+          "channel": "financial-services-triage",
+          "messages": 2
+        },
+        {
+          "channel": "help-shop-cash",
+          "messages": 2
+        },
+        {
+          "channel": "bna-ds-exceptions",
+          "messages": 1
+        },
+        {
+          "channel": "help-capital-data-science",
+          "messages": 1
+        },
+        {
+          "channel": "proj-capital-tangle-gmv-grm",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "lukas.skrabak",
+          "count": 5
+        },
+        {
+          "user": "adam.derewecki",
+          "count": 3
+        },
+        {
+          "user": "devansh.malik",
+          "count": 2
+        },
+        {
+          "user": "eric.lybrand",
+          "count": 1
+        },
+        {
+          "user": "yasmin.niknam",
+          "count": 1
+        },
+        {
+          "user": "youcef.msaid",
+          "count": 1
+        },
+        {
+          "user": "shixiao.li",
+          "count": 1
+        },
+        {
+          "user": "larissa.filice",
+          "count": 1
+        },
+        {
+          "user": "vivi.ma",
+          "count": 1
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 5,
+      "16": 1,
+      "20": 6,
+      "15": 3,
+      "19": 5,
+      "14": 7,
+      "13": 1,
+      "18": 8
+    },
+    "by_day": {
+      "Wednesday": 9,
+      "Tuesday": 6,
+      "Monday": 11,
+      "Thursday": 9,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.2,
+    "dept_average_30d": 5.39,
+    "dept_rank": 149,
+    "dept_size": 272
+  }
+}

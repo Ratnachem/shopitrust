@@ -1,0 +1,83 @@
+{
+  "username": "amie.brogan",
+  "name": "Amie Brogan",
+  "generated_at": "2026-04-08T20:22:25.417370",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "peter.redmond",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.68,
+      "count": 18,
+      "top_channels": [
+        {
+          "channel": "rsi-river-testing",
+          "messages": 3
+        },
+        {
+          "channel": "rtms-specialist-badge",
+          "messages": 1
+        },
+        {
+          "channel": "retail-talk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "jason.armstrong",
+          "count": 1
+        },
+        {
+          "user": "jankiel.rohr",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 1,
+      "12": 1,
+      "8": 3
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Monday": 1,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.69,
+    "dept_average_30d": 4.09,
+    "dept_rank": 395,
+    "dept_size": 642
+  }
+}

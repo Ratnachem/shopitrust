@@ -1,0 +1,213 @@
+{
+  "username": "will.mills",
+  "name": "Will Mills",
+  "generated_at": "2026-04-08T20:22:16.424989",
+  "summary": {
+    "message_count": 75,
+    "channels_active": 11,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "As a temporary workaround, you can locally",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "That\u2019s my mistake, the issue is that I didn\u2019t update the core _dev_ key to expect the \u201csecondary\u201d key id",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U07QPDHGDH7> <@W018PU5KGRJ> <@W0182UWB6K1> You should have all the access you require to make terraform changes, and I\u2019ve added you to the",
+          "channel": "proj-crm-on-vault",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "jesse.vanpatter",
+          "count": 1
+        },
+        {
+          "user": "dharu.ravi",
+          "count": 1
+        },
+        {
+          "user": "conor.carey",
+          "count": 1
+        },
+        {
+          "user": "ivan.velasquez",
+          "count": 1
+        },
+        {
+          "user": "keji.fasuyi",
+          "count": 1
+        },
+        {
+          "user": "nick.lepine",
+          "count": 1
+        },
+        {
+          "user": "mike.sassak",
+          "count": 1
+        },
+        {
+          "user": "kouros.falati",
+          "count": 1
+        },
+        {
+          "user": "shameel.abdullah",
+          "count": 1
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.72,
+      "count": 223,
+      "top_channels": [
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 20
+        },
+        {
+          "channel": "inc-20378-leads-not-processing",
+          "messages": 11
+        },
+        {
+          "channel": "swagless-auto-ktlo",
+          "messages": 9
+        },
+        {
+          "channel": "revenge",
+          "messages": 8
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 7
+        },
+        {
+          "channel": "sidekick-staging",
+          "messages": 6
+        },
+        {
+          "channel": "help-revenue-funnel",
+          "messages": 4
+        },
+        {
+          "channel": "messaging-operations",
+          "messages": 4
+        },
+        {
+          "channel": "proj-crm-on-vault",
+          "messages": 4
+        },
+        {
+          "channel": "commercial-data-river",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "mike.sassak",
+          "count": 6
+        },
+        {
+          "user": "jared.garvinjoseph",
+          "count": 4
+        },
+        {
+          "user": "ellen.dunne",
+          "count": 3
+        },
+        {
+          "user": "dharu.ravi",
+          "count": 2
+        },
+        {
+          "user": "jesse.vanpatter",
+          "count": 1
+        },
+        {
+          "user": "darrelday.guerrero",
+          "count": 1
+        },
+        {
+          "user": "al.mcquiston",
+          "count": 1
+        },
+        {
+          "user": "conor.carey",
+          "count": 1
+        },
+        {
+          "user": "feken.baboyan",
+          "count": 1
+        },
+        {
+          "user": "mila.koeva",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 7,
+      "16": 7,
+      "14": 17,
+      "20": 13,
+      "13": 4,
+      "21": 4,
+      "19": 7,
+      "15": 10,
+      "22": 1,
+      "2": 1,
+      "18": 2,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 17,
+      "Tuesday": 16,
+      "Thursday": 26,
+      "Monday": 7,
+      "Friday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.7,
+    "dept_average_30d": 5.79,
+    "dept_rank": 629,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "username": "ali.mir",
+  "name": "Ali Mir",
+  "generated_at": "2026-04-08T20:22:26.929944",
+  "summary": {
+    "message_count": 232,
+    "channels_active": 10,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I haven't yet looked at the analysis, gotta run an interview in a min :smile: but yeah I had an ardous journey from batch serving on Spark,",
+          "channel": "proj-data-platform-cookie-identity-resolution",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "but well, worked in the end! thank you :slightly_smiling_face:",
+          "channel": "help-vault",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ah right I shouldn't have merged it mid build, my bad",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "It has a plan issue, but I must run for an hour, I'll investigate it when I'm back but our builds should go to the right cluster during this time, so",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah let's test both, we have a chance since prod is broken, working on it, and we can add whatever improvement we make to the queries to them as",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "&gt; . It might just fail because of that stupid ip join to maxmind.\nYeah if we had that backfill thing done it would have not been an issue",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "harrison.lin",
+          "count": 3
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 2
+        },
+        {
+          "user": "jonny.lomond",
+          "count": 1
+        },
+        {
+          "user": "amelie.rolland",
+          "count": 1
+        },
+        {
+          "user": "connor.clark",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.01,
+      "count": 53,
+      "top_channels": [
+        {
+          "channel": "identity-graph-data-atc",
+          "messages": 179
+        },
+        {
+          "channel": "tmp-sbsid-in-identity-graph",
+          "messages": 19
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 12
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 6
+        },
+        {
+          "channel": "inc-21232-missing-data-in-identifierubimapping-tabl",
+          "messages": 5
+        },
+        {
+          "channel": "help-vault",
+          "messages": 5
+        },
+        {
+          "channel": "proj-data-platform-cookie-identity-resolution",
+          "messages": 2
+        },
+        {
+          "channel": "proj-data-platform-id-graph-resiliency",
+          "messages": 2
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 1
+        },
+        {
+          "channel": "claude-code",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.33,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "connor.clark",
+          "count": 5
+        },
+        {
+          "user": "jonny.lomond",
+          "count": 3
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 2
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 2
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 1
+        },
+        {
+          "user": "harrison.lin",
+          "count": 1
+        },
+        {
+          "user": "amelie.rolland",
+          "count": 1
+        },
+        {
+          "user": "timothy.weeks",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 15,
+      "19": 18,
+      "14": 15,
+      "13": 33,
+      "9": 2,
+      "15": 24,
+      "0": 3,
+      "23": 10,
+      "22": 2,
+      "21": 6,
+      "18": 17,
+      "17": 10,
+      "16": 26,
+      "12": 40,
+      "10": 1,
+      "11": 2,
+      "8": 7,
+      "7": 1
+    },
+    "by_day": {
+      "Tuesday": 63,
+      "Wednesday": 145,
+      "Monday": 3,
+      "Friday": 13,
+      "Thursday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.07,
+    "dept_average_30d": 5.39,
+    "dept_rank": 163,
+    "dept_size": 272
+  }
+}

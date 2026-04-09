@@ -1,0 +1,233 @@
+{
+  "username": "alan.ly",
+  "name": "Alan Ly",
+  "generated_at": "2026-04-08T20:22:28.222289",
+  "summary": {
+    "message_count": 145,
+    "channels_active": 12,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@U025WKYED1A>!",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: Hey folks; I've been trying to better wrap my head around the \"progressive disclosure\" behaviour so that I can correctly verbalize what it is",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey <@W018PT6MFCL> I \"productionized\" stack above for changes to Checkouts (<https://github.com/shop/world/pull/550338>)\nI'd like to get Checkouts'",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: another update on my end:\nworking through CI and rebase hell on <https://app.graphite.com/github/pr/shop/world/484563|the stack of changes>,",
+          "channel": "proj-lsf-rollouts",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "do we also need to shovel any context into whatever the interface is to describe the changes?",
+          "channel": "proj-theme-swaps-translations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I'll need to take a peek at what the shops are first; there might be shops that are in frozen/cancelled states that we don't care about",
+          "channel": "proj-lsf-rollouts",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "iain.wilson",
+          "count": 6
+        },
+        {
+          "user": "aser.eldamaty",
+          "count": 5
+        },
+        {
+          "user": "neelay.shah",
+          "count": 4
+        },
+        {
+          "user": "leo.zhao",
+          "count": 3
+        },
+        {
+          "user": "rachel.philipose",
+          "count": 3
+        },
+        {
+          "user": "john.king",
+          "count": 3
+        },
+        {
+          "user": "luke.hickin",
+          "count": 3
+        },
+        {
+          "user": "irene.nam",
+          "count": 2
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 1
+        },
+        {
+          "user": "iryna.loza",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.06,
+      "count": 135,
+      "top_channels": [
+        {
+          "channel": "proj-lsf-rollouts",
+          "messages": 49
+        },
+        {
+          "channel": "proj-theme-swaps-translations",
+          "messages": 34
+        },
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 29
+        },
+        {
+          "channel": "inv-20711-investigation-south-africa-province-code-",
+          "messages": 9
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 5
+        },
+        {
+          "channel": "proj-migrate-translate-and-adapt-to-core",
+          "messages": 4
+        },
+        {
+          "channel": "markets-platform",
+          "messages": 4
+        },
+        {
+          "channel": "markets-localization-atc-coordination",
+          "messages": 3
+        },
+        {
+          "channel": "markets-and-checkout-and-accounts",
+          "messages": 3
+        },
+        {
+          "channel": "markets-localization-ops",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "david.small",
+          "count": 7
+        },
+        {
+          "user": "neelay.shah",
+          "count": 5
+        },
+        {
+          "user": "aser.eldamaty",
+          "count": 5
+        },
+        {
+          "user": "chase.dougherty",
+          "count": 5
+        },
+        {
+          "user": "iain.wilson",
+          "count": 4
+        },
+        {
+          "user": "leo.zhao",
+          "count": 4
+        },
+        {
+          "user": "thomas.wang",
+          "count": 3
+        },
+        {
+          "user": "luke.hickin",
+          "count": 3
+        },
+        {
+          "user": "rachel.philipose",
+          "count": 2
+        },
+        {
+          "user": "lucas.uyezu",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 12,
+      "14": 15,
+      "19": 23,
+      "18": 29,
+      "13": 15,
+      "21": 5,
+      "20": 20,
+      "17": 10,
+      "16": 12,
+      "23": 3,
+      "22": 1
+    },
+    "by_day": {
+      "Tuesday": 26,
+      "Monday": 15,
+      "Thursday": 34,
+      "Wednesday": 61,
+      "Friday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.57,
+    "dept_average_30d": 5.79,
+    "dept_rank": 700,
+    "dept_size": 1233
+  }
+}

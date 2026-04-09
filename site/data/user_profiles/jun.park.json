@@ -1,0 +1,220 @@
+{
+  "username": "jun.park",
+  "name": "Jun Park",
+  "generated_at": "2026-04-08T20:22:09.664613",
+  "summary": {
+    "message_count": 181,
+    "channels_active": 15,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Please let me know if you have any concerns.",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "This is from us-central1. Please let me know if if you also need it from us-east1.",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U02F3EFK6B0> , could you make <https://experiments.shopify.io/flags/f_shop_new_buyer_pipeline_status_write_globaldb|this flag> to bypass the",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Hi team, this is a stack of PRs for `ads_bidify.checkout_ad_sessions` table in Yugabyte.\n<@U03EM6PFAR0> please confirm if we need `target_roas` or",
+          "channel": "proj-mm-ads-engine-editable-campaigns",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "esdras.martins",
+          "count": 1
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 1
+        },
+        {
+          "user": "samuel.oyediran",
+          "count": 1
+        },
+        {
+          "user": "baoyuan.xing",
+          "count": 1
+        },
+        {
+          "user": "simon.pearson",
+          "count": 1
+        },
+        {
+          "user": "yazeed.sabil",
+          "count": 1
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.77,
+      "count": 331,
+      "top_channels": [
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 37
+        },
+        {
+          "channel": "proj-mm-ads-engine-editable-campaigns",
+          "messages": 34
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 32
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 25
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 11
+        },
+        {
+          "channel": "ads-bidify-api-ops",
+          "messages": 10
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 10
+        },
+        {
+          "channel": "pi",
+          "messages": 6
+        },
+        {
+          "channel": "proj-mm-yugabyte-migration",
+          "messages": 5
+        },
+        {
+          "channel": "mm-proj-multi-bid-campaign-setup",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "elaine.y.chan",
+          "count": 11
+        },
+        {
+          "user": "esdras.martins",
+          "count": 7
+        },
+        {
+          "user": "yazeed",
+          "count": 6
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 3
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 3
+        },
+        {
+          "user": "sabrina.zhu",
+          "count": 3
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "simon.pearson",
+          "count": 2
+        },
+        {
+          "user": "philip.blaquiere",
+          "count": 2
+        },
+        {
+          "user": "shane.lattanzio",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "17": 28,
+      "16": 10,
+      "13": 10,
+      "23": 2,
+      "19": 31,
+      "15": 34,
+      "14": 17,
+      "21": 12,
+      "20": 10,
+      "1": 6,
+      "22": 5,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 25,
+      "Monday": 15,
+      "Thursday": 42,
+      "Friday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.1,
+    "dept_average_30d": 5.77,
+    "dept_rank": 256,
+    "dept_size": 885
+  }
+}

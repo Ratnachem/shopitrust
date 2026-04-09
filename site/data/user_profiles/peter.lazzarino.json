@@ -1,0 +1,269 @@
+{
+  "username": "peter.lazzarino",
+  "name": "Peter Lazzarino",
+  "generated_at": "2026-04-08T20:22:15.304333",
+  "summary": {
+    "message_count": 600,
+    "channels_active": 50,
+    "unique_people_mentioned": 41,
+    "unique_mentioners": 38,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 22,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "if you hit any snags or things seem off feel free to reach out",
+          "channel": "headless-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! not too busy but some interesting problems so can't complain :slightly_smiling_face:",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "okay great :pray: thank you",
+          "channel": "tmp-sec-gpc-merchant-sessions",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to explain on tuple quick?",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "*GPC Merchant Opt-Out Notes*\n\n*The Event Refinery + AIO pipeline is the intended source of truth for privacy opt-outs, but it can't serve the",
+          "channel": "tmp-sec-gpc-merchant-sessions",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "oh TIL, thanks!",
+          "channel": "inv-20874-jwks-resiliency-gameday",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, no there isn't anything planned tomorrow",
+          "channel": "identity-operations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yep all good, thank you!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "okay thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "hey Tavian, there was a recent bump I shipped but it was only some minor versions that wouldn't impact the checks on valid tokens. I don't believe",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "hey Lydia :wave: taking a look at this now to see how we can figure it out",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "colin.iuliano",
+          "count": 7
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 5
+        },
+        {
+          "user": "kartiki.sharma",
+          "count": 4
+        },
+        {
+          "user": "heather.knowlton",
+          "count": 4
+        },
+        {
+          "user": "seb.barre",
+          "count": 3
+        },
+        {
+          "user": "aman.adhav",
+          "count": 3
+        },
+        {
+          "user": "tibi.mitran",
+          "count": 3
+        },
+        {
+          "user": "matthew.ratzloff",
+          "count": 3
+        },
+        {
+          "user": "caitlin.oreilly",
+          "count": 2
+        },
+        {
+          "user": "christian.shumharden",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 600,
+      "top_channels": [
+        {
+          "channel": "tmp-identity-jwks-resiliency",
+          "messages": 138
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 87
+        },
+        {
+          "channel": "authentication-river",
+          "messages": 83
+        },
+        {
+          "channel": "tmp-sec-gpc-merchant-sessions",
+          "messages": 39
+        },
+        {
+          "channel": "proj-merchant-edge-sessions",
+          "messages": 35
+        },
+        {
+          "channel": "identity-operations",
+          "messages": 31
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20874-jwks-resiliency-gameday",
+          "messages": 20
+        },
+        {
+          "channel": "help-messaging-inbox",
+          "messages": 12
+        },
+        {
+          "channel": "help-observability",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "aman.adhav",
+          "count": 5
+        },
+        {
+          "user": "matteo.depalo",
+          "count": 3
+        },
+        {
+          "user": "josh.beckman",
+          "count": 3
+        },
+        {
+          "user": "colin.iuliano",
+          "count": 3
+        },
+        {
+          "user": "heather.knowlton",
+          "count": 2
+        },
+        {
+          "user": "brian.berzellini",
+          "count": 2
+        },
+        {
+          "user": "matthew.ratzloff",
+          "count": 2
+        },
+        {
+          "user": "trish.ta",
+          "count": 2
+        },
+        {
+          "user": "james.go",
+          "count": 2
+        },
+        {
+          "user": "jay.cha",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 92,
+      "16": 32,
+      "15": 105,
+      "14": 66,
+      "13": 108,
+      "20": 56,
+      "19": 53,
+      "12": 16,
+      "17": 59,
+      "0": 2,
+      "23": 6,
+      "21": 5
+    },
+    "by_day": {
+      "Wednesday": 97,
+      "Tuesday": 129,
+      "Monday": 103,
+      "Friday": 159,
+      "Thursday": 112
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.86,
+    "dept_average_30d": 5.79,
+    "dept_rank": 98,
+    "dept_size": 1233
+  }
+}

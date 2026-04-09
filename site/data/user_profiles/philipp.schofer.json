@@ -1,0 +1,285 @@
+{
+  "username": "philipp.schofer",
+  "name": "Philipp Schofer",
+  "generated_at": "2026-04-08T20:22:16.444033",
+  "summary": {
+    "message_count": 552,
+    "channels_active": 28,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.9,
+      "pos_count": 39,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Annotators! \u2014 I\u2019m going to start posting daily updates from now on as an easy way for us to rally around the task of the day and keep things",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Hey Annotators! \u2014 I\u2019m going to start posting daily updates from now on as an easy way for us to rally around the task of the day and keep things",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey All \u2014 here\u2019s where we stand by stream:\n\n:airflow-spin: *Pipeline / DAG*\nKafka events are flowing in production :white_check_mark: One snag: the",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U06LQM8KQBD> I assigned the resiliency issue to you:",
+          "channel": "s-foundations-analytics-unified-analytics",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W019NR3FNUQ> I created a playbook in <https://app.graphite.com/github/pr/shop/world/575284|this PR>. It\u2019s a draft, but should give enough context",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want to pair <@U01DVCEPJ3V>",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ok, thanks!",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, appreciate your help with this!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Much better now. Thank you for your help. I suppose in the future I can look at these logs myself to help debug the issue. Any easy way to access",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok, I\u2019m trying to understand the cost implications of the annotations DAG. Kyle had shared some estimates here on how many CH queries it might",
+          "channel": "analytics-team-api-shopifyql",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever you recommend <@U0AEPQCKB3M>",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Following up on the eligibility discussion \u2014 from this thread I see there are *three options on the table* and I want to make sure we\u2019re aligned",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W018LFKPY59> whatever we decide has implications on the ActiveKafka consumer. The test is asserting against an integer, but the Kafka payload",
+          "channel": "proj-analytics-annotations",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "tyler.noseworthy",
+          "count": 25
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 24
+        },
+        {
+          "user": "susie.kim",
+          "count": 21
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 21
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 15
+        },
+        {
+          "user": "juan.esparza",
+          "count": 14
+        },
+        {
+          "user": "tammie.childs",
+          "count": 13
+        },
+        {
+          "user": "margarita.morozova",
+          "count": 11
+        },
+        {
+          "user": "jeremy.ludwig",
+          "count": 10
+        },
+        {
+          "user": "rachel.ng",
+          "count": 9
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.44,
+      "count": 208,
+      "top_channels": [
+        {
+          "channel": "proj-analytics-annotations",
+          "messages": 341
+        },
+        {
+          "channel": "analytics-ui-components",
+          "messages": 58
+        },
+        {
+          "channel": "analytics-team-experience",
+          "messages": 21
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 20
+        },
+        {
+          "channel": "inc-20112-production-dynamic-base-shop-ads-publishe",
+          "messages": 15
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 14
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 9
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 8
+        },
+        {
+          "channel": "s-foundation-analytics-eng",
+          "messages": 7
+        },
+        {
+          "channel": "river-philschofer",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 107,
+      "top_mentioners": [
+        {
+          "user": "nicole.bailey",
+          "count": 17
+        },
+        {
+          "user": "tyler.noseworthy",
+          "count": 15
+        },
+        {
+          "user": "tammie.childs",
+          "count": 9
+        },
+        {
+          "user": "juan.esparza",
+          "count": 9
+        },
+        {
+          "user": "petar.bojinov",
+          "count": 9
+        },
+        {
+          "user": "ben.milton",
+          "count": 8
+        },
+        {
+          "user": "susie.kim",
+          "count": 5
+        },
+        {
+          "user": "nick.presta",
+          "count": 4
+        },
+        {
+          "user": "nate.jacobs",
+          "count": 4
+        },
+        {
+          "user": "jeremy.ludwig",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 88,
+      "16": 54,
+      "14": 88,
+      "22": 1,
+      "21": 55,
+      "20": 56,
+      "15": 56,
+      "0": 2,
+      "19": 61,
+      "18": 65,
+      "13": 19,
+      "3": 1,
+      "23": 3,
+      "12": 3
+    },
+    "by_day": {
+      "Wednesday": 82,
+      "Tuesday": 114,
+      "Monday": 106,
+      "Friday": 108,
+      "Thursday": 142
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.27,
+    "dept_average_30d": 5.79,
+    "dept_rank": 286,
+    "dept_size": 1233
+  }
+}

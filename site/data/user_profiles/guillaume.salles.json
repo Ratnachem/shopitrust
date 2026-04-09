@@ -1,0 +1,215 @@
+{
+  "username": "guillaume.salles",
+  "name": "Guillaume Salles",
+  "generated_at": "2026-04-08T20:22:27.860818",
+  "summary": {
+    "message_count": 66,
+    "channels_active": 5,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your patience! That's great timing because we might be able to squeeze that in right before the merge into shell world.",
+          "channel": "proj-agentic-online-store-editor",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, that's really useful. Let me think about it a bit more because I feel like I'm missing a piece of the puzzle to truly understand how we'll",
+          "channel": "proj-agentic-online-store-editor",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, that's helpful.\n\nHow do you feel about doing imperative edits as modification on the AST directly?\n\nAn imperative edit would be something",
+          "channel": "proj-agentic-online-store-editor",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "It look like imperative edits are broken. They always go through the LLM. It was working earlier today. Investigating right now. Let me know if",
+          "channel": "proj-agentic-online-store-editor",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0185HA8Y4F>! That's a good first step",
+          "channel": "proj-agentic-online-store-editor",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I noticed that updating a color quickly can create a bug: it adds multiple invalid classes to a dom element. I think it's due to the imperative edit",
+          "channel": "proj-agentic-online-store-editor",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats team!!!",
+          "channel": "proj-lsf-rollouts",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0234PQR3D0> for the review and <@U033GTBM0S0> for the feedback! PR is merging now but I didn't have time address the small ui tweaks",
+          "channel": "proj-theme-editor-nav-simplification",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "\u2022 We look at the AST and try to understand if we can do it on the client.\n    \u25e6 If we can, we write the file locally and re-render the front-end.",
+          "channel": "proj-agentic-online-store-editor",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "clauderic.demers",
+          "count": 5
+        },
+        {
+          "user": "balint.gabor",
+          "count": 3
+        },
+        {
+          "user": "cp.clermont",
+          "count": 3
+        },
+        {
+          "user": "edmund.teh",
+          "count": 2
+        },
+        {
+          "user": "philippe.collin",
+          "count": 1
+        },
+        {
+          "user": "kate.park",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.56,
+      "count": 94,
+      "top_channels": [
+        {
+          "channel": "proj-agentic-online-store-editor",
+          "messages": 59
+        },
+        {
+          "channel": "proj-lsf-rollouts",
+          "messages": 3
+        },
+        {
+          "channel": "montreal-lsf",
+          "messages": 2
+        },
+        {
+          "channel": "proj-rollouts-m1",
+          "messages": 1
+        },
+        {
+          "channel": "proj-theme-editor-nav-simplification",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.5,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "cp.clermont",
+          "count": 4
+        },
+        {
+          "user": "clauderic.demers",
+          "count": 1
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 1
+        },
+        {
+          "user": "josh.larson",
+          "count": 1
+        },
+        {
+          "user": "balint.gabor",
+          "count": 1
+        },
+        {
+          "user": "tyler.alsbury",
+          "count": 1
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 1
+        },
+        {
+          "user": "edmund.teh",
+          "count": 1
+        },
+        {
+          "user": "hayward.peirce",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 4,
+      "16": 5,
+      "14": 11,
+      "13": 1,
+      "22": 4,
+      "20": 4,
+      "0": 3,
+      "23": 1,
+      "19": 11,
+      "18": 15,
+      "15": 4,
+      "12": 3
+    },
+    "by_day": {
+      "Tuesday": 33,
+      "Friday": 6,
+      "Thursday": 12,
+      "Wednesday": 13,
+      "Monday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.37,
+    "dept_average_30d": 5.79,
+    "dept_rank": 818,
+    "dept_size": 1233
+  }
+}

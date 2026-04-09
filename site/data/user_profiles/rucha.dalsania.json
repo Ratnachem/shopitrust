@@ -1,0 +1,262 @@
+{
+  "username": "rucha.dalsania",
+  "name": "Rucha Dalsania",
+  "generated_at": "2026-04-08T20:22:17.985237",
+  "summary": {
+    "message_count": 252,
+    "channels_active": 20,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes please, thank you for letting me know",
+          "channel": "search-serving-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank youuu <@W018HT5BACT>, I see now what you meant by `base controller` :see_no_evil:.\nI have replied, we can chat quickly if you are available",
+          "channel": "proj-search-storefront-search-throttle",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "&gt; I didn\u2019t have the latest on this, and I thought we couldn\u2019t use complexity rate limiting yet because of the cart rules.\nMy bad, I had PR for",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to keep the manual assignments for those shops (in WAF rules) at",
+          "channel": "inv-20510-recurring-es-hammered-by-collections-bots",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I have been asking Claude but it could not give me correct pointers to do that, so I am asking you, Liquid legend.\nI also tried looking",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hello <@U0240HDEBFB>, I do not think waiting for failover is necessary for our rollout.\nAlso, I am thinking to apply the Terraform change, I have a",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello <@U0240HDEBFB>, I do not think waiting for failover is necessary for our rollout.\nAlso, I am thinking to apply the Terraform change, I have a",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sharing again, <https://docs.google.com/document/d/1jG9wK9ke6JWh61PIaI2C4sZUk6w8Ang_wgLT5jffQMk/edit?tab=t.0|Elasticsearch Cost Rule \u2014 Rollout",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sharing again, <https://docs.google.com/document/d/1jG9wK9ke6JWh61PIaI2C4sZUk6w8Ang_wgLT5jffQMk/edit?tab=t.0|Elasticsearch Cost Rule \u2014 Rollout",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :bow:",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "caroline",
+          "count": 9
+        },
+        {
+          "user": "michael.herold",
+          "count": 8
+        },
+        {
+          "user": "brenda.segal",
+          "count": 4
+        },
+        {
+          "user": "anagayan.ariaran",
+          "count": 3
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 2
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 2
+        },
+        {
+          "user": "jason.magsino",
+          "count": 1
+        },
+        {
+          "user": "carmen.lobon",
+          "count": 1
+        },
+        {
+          "user": "jivan.gubbi",
+          "count": 1
+        },
+        {
+          "user": "michael.pauls",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.26,
+      "count": 304,
+      "top_channels": [
+        {
+          "channel": "tmp-search-serving-resilience",
+          "messages": 64
+        },
+        {
+          "channel": "proj-search-storefront-search-throttle",
+          "messages": 48
+        },
+        {
+          "channel": "tmp-search-slo",
+          "messages": 32
+        },
+        {
+          "channel": "rdriver",
+          "messages": 16
+        },
+        {
+          "channel": "help-search-serving",
+          "messages": 15
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 14
+        },
+        {
+          "channel": "river-search-serving",
+          "messages": 9
+        },
+        {
+          "channel": "unified_query_rewriting",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20510-recurring-es-hammered-by-collections-bots",
+          "messages": 9
+        },
+        {
+          "channel": "inc-20040-semian-circuits-overloaded-in-sfr",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "caroline",
+          "count": 7
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 7
+        },
+        {
+          "user": "brenda.segal",
+          "count": 6
+        },
+        {
+          "user": "michael.herold",
+          "count": 4
+        },
+        {
+          "user": "mojtaba.kohram",
+          "count": 4
+        },
+        {
+          "user": "mingqin.li",
+          "count": 3
+        },
+        {
+          "user": "darryn.soper",
+          "count": 1
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 1
+        },
+        {
+          "user": "john.finnson",
+          "count": 1
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 31,
+      "2": 1,
+      "22": 9,
+      "18": 52,
+      "14": 29,
+      "13": 30,
+      "12": 10,
+      "21": 12,
+      "20": 20,
+      "19": 29,
+      "16": 14,
+      "15": 13,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 49,
+      "Monday": 44,
+      "Thursday": 54,
+      "Friday": 46
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.78,
+    "dept_average_30d": 5.79,
+    "dept_rank": 581,
+    "dept_size": 1233
+  }
+}

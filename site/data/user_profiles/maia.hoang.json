@@ -1,0 +1,134 @@
+{
+  "username": "maia.hoang",
+  "name": "Maia Hoang",
+  "generated_at": "2026-04-08T20:22:23.113644",
+  "summary": {
+    "message_count": 30,
+    "channels_active": 6,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 5,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great, thank you, I\u2019ll take a look later today",
+          "channel": "analytics-ui-components",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.38,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "hassan.naeem",
+          "count": 3
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 3
+        },
+        {
+          "user": "ben.milton",
+          "count": 2
+        },
+        {
+          "user": "simon.gaudert",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.3,
+      "count": 58,
+      "top_channels": [
+        {
+          "channel": "mm-fdn-measurement-river",
+          "messages": 9
+        },
+        {
+          "channel": "proj-measurement-marketing-data-in-ua",
+          "messages": 7
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 5
+        },
+        {
+          "channel": "analytics-team-experience",
+          "messages": 5
+        },
+        {
+          "channel": "analytics-ui-components",
+          "messages": 3
+        },
+        {
+          "channel": "proj-analytics-multi-metric-viz",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.61,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "simon.gaudert",
+          "count": 5
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 2
+        },
+        {
+          "user": "hassan.naeem",
+          "count": 2
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 2
+        },
+        {
+          "user": "nick.presta",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 4,
+      "18": 7,
+      "15": 5,
+      "19": 3,
+      "17": 2,
+      "13": 1,
+      "20": 7,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Monday": 14,
+      "Tuesday": 6,
+      "Friday": 1,
+      "Thursday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.4,
+    "dept_average_30d": 4.74,
+    "dept_rank": 902,
+    "dept_size": 1663
+  }
+}

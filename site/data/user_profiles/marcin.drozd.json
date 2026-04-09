@@ -1,0 +1,283 @@
+{
+  "username": "marcin.drozd",
+  "name": "Marcin Drozd",
+  "generated_at": "2026-04-08T20:22:22.977448",
+  "summary": {
+    "message_count": 268,
+    "channels_active": 19,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 17,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "++ <@U02SJJ3LNR3> this is not really what happened :smile: I just noticed that you already implemented something that I started looking into and that",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "++ <@U0379K2FS79> thank you :heart:",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I will add them to my list to double-check if they fail again during migration",
+          "channel": "inv-20966-issues-with-revoking-duplicates-in-cardse",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "++ <@U02GJL6NUPM> <@U02SJJ3LNR3> <@U03NK37V0MA> thank you for huge help with the investigation and resolution (in progress) for revoked cards :heart:",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Rose, thank you for creating this PR :heart: We'll have a look and finalize",
+          "channel": "inv-20738-shop-pay-express-re-authorization-routing",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "joking :slightly_smiling_face: obviously very well deserved, congrats <@U067LPZ891P>!!!",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "++ <@U0379K2FS79> thank you so much for your help and insights into the addresses :heart:",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the confirmation <@U016T584P8U>. This is what I expected but was worried that I'm missing something.",
+          "channel": "external-shopify-shopifypayments-stripe",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats Fran :slightly_smiling_face: It's so great to have you in our team (but today you are actually not here so :shrug: )",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello Team, I would like to ask about some more insights potentially in once case I am investigating.\nThere seemingly was no change in the payment",
+          "channel": "external-shopify-shopifypayments-stripe",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So the thing is that you can skip passing the address completely in mutation and it's fine. I thought that maybe it's still worth getting whatever",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I will log an issue to review this input and align it with what we really want. I guess it's not great telling outside world to give us just whatever",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Stupid question, but are secondary subscription gateways hidden in admin nowadays? Only when I go to the",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "francesco.ferazzoli",
+          "count": 6
+        },
+        {
+          "user": "samuel.martin",
+          "count": 6
+        },
+        {
+          "user": "nick.jones",
+          "count": 5
+        },
+        {
+          "user": "alvaro.perezliano",
+          "count": 4
+        },
+        {
+          "user": "harry.venables",
+          "count": 4
+        },
+        {
+          "user": "qi.chen",
+          "count": 4
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 2
+        },
+        {
+          "user": "emanuele.vicentini",
+          "count": 2
+        },
+        {
+          "user": "tadas.scerbinskas",
+          "count": 2
+        },
+        {
+          "user": "gavin.frei",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.42,
+      "count": 260,
+      "top_channels": [
+        {
+          "channel": "pp-vaulting-internal",
+          "messages": 102
+        },
+        {
+          "channel": "inv-20966-issues-with-revoking-duplicates-in-cardse",
+          "messages": 46
+        },
+        {
+          "channel": "proj-payments-global-vault-payments",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20637-success-rate-dropped-for-mollie---ideal-a",
+          "messages": 14
+        },
+        {
+          "channel": "pp-vaulting-daily",
+          "messages": 12
+        },
+        {
+          "channel": "river-marcin",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20738-shop-pay-express-re-authorization-routing",
+          "messages": 8
+        },
+        {
+          "channel": "payments-crossborder-incident-room",
+          "messages": 8
+        },
+        {
+          "channel": "inc-20615-core-deploy---checkoutsonewebgqlpaymentpr",
+          "messages": 8
+        },
+        {
+          "channel": "pp-vaulting-team",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.48,
+      "count": 67,
+      "top_mentioners": [
+        {
+          "user": "samuel.martin",
+          "count": 9
+        },
+        {
+          "user": "alvaro.perezliano",
+          "count": 8
+        },
+        {
+          "user": "harry.venables",
+          "count": 8
+        },
+        {
+          "user": "qi.chen",
+          "count": 4
+        },
+        {
+          "user": "francesco.ferazzoli",
+          "count": 3
+        },
+        {
+          "user": "tadas.scerbinskas",
+          "count": 3
+        },
+        {
+          "user": "markus.voigt",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 3
+        },
+        {
+          "user": "eduardo.jolo",
+          "count": 3
+        },
+        {
+          "user": "emanuele.vicentini",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 56,
+      "12": 7,
+      "8": 40,
+      "16": 18,
+      "13": 12,
+      "11": 15,
+      "7": 6,
+      "9": 18,
+      "10": 25,
+      "14": 64,
+      "17": 3,
+      "18": 4
+    },
+    "by_day": {
+      "Wednesday": 118,
+      "Tuesday": 45,
+      "Monday": 32,
+      "Friday": 37,
+      "Thursday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.23,
+    "dept_average_30d": 5.77,
+    "dept_rank": 211,
+    "dept_size": 885
+  }
+}

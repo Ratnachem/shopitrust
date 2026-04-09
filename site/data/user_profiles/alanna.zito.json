@@ -1,0 +1,213 @@
+{
+  "username": "alanna.zito",
+  "name": "Alanna Zito",
+  "generated_at": "2026-04-08T20:22:24.701102",
+  "summary": {
+    "message_count": 294,
+    "channels_active": 10,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh, thank you! I was looking for it in Bigquery, and I couldn't find it - I think because of the missing dateOfMailing, monorail would have failed to",
+          "channel": "shipping-usps-bridge-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M>, do you want me to paste the logs instead?",
+          "channel": "proj-usps-ship-bridge",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thanks to everyone who attended the retro for this incident! I've created some <https://incidents.shopify.io/incidents/19970/action_items|draft",
+          "channel": "inc-19970-spike-in-label-purchase-failures-for-usps",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to everyone who attended the retro for this incident! I've created some <https://incidents.shopify.io/incidents/19970/action_items|draft",
+          "channel": "inc-19970-spike-in-label-purchase-failures-for-usps",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "cristina.smiarowski",
+          "count": 6
+        },
+        {
+          "user": "namchau.nguyen",
+          "count": 4
+        },
+        {
+          "user": "jasmin.decampos",
+          "count": 3
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 3
+        },
+        {
+          "user": "maria.khutoretsky",
+          "count": 2
+        },
+        {
+          "user": "dan.oconnor",
+          "count": 2
+        },
+        {
+          "user": "edward.drobnis",
+          "count": 2
+        },
+        {
+          "user": "cory.svensson",
+          "count": 2
+        },
+        {
+          "user": "kristen.jain",
+          "count": 1
+        },
+        {
+          "user": "jon.elliott",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.6,
+      "count": 95,
+      "top_channels": [
+        {
+          "channel": "proj-usps-ship-bridge",
+          "messages": 152
+        },
+        {
+          "channel": "shipping-usps-bridge-alerts",
+          "messages": 82
+        },
+        {
+          "channel": "inc-19970-spike-in-label-purchase-failures-for-usps",
+          "messages": 24
+        },
+        {
+          "channel": "shipping-dev-ops",
+          "messages": 22
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 3
+        },
+        {
+          "channel": "si-2526-inc-20930-axios-vulnerability-impact-on-shipify",
+          "messages": 3
+        },
+        {
+          "channel": "shipping-platform-runteam",
+          "messages": 3
+        },
+        {
+          "channel": "shipping-ai",
+          "messages": 3
+        },
+        {
+          "channel": "inv-21061-usps-payment-token-is-failing-to-refresh-",
+          "messages": 1
+        },
+        {
+          "channel": "shipping-platform-pod-blue",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "cristina.smiarowski",
+          "count": 16
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 3
+        },
+        {
+          "user": "dan.oconnor",
+          "count": 2
+        },
+        {
+          "user": "jasmin.decampos",
+          "count": 2
+        },
+        {
+          "user": "namchau.nguyen",
+          "count": 1
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 1
+        },
+        {
+          "user": "dave.rose",
+          "count": 1
+        },
+        {
+          "user": "jon.elliott",
+          "count": 1
+        },
+        {
+          "user": "bryan.langille",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 38,
+      "12": 8,
+      "20": 25,
+      "17": 36,
+      "16": 33,
+      "15": 23,
+      "14": 44,
+      "19": 35,
+      "18": 48,
+      "21": 4
+    },
+    "by_day": {
+      "Wednesday": 84,
+      "Tuesday": 38,
+      "Monday": 29,
+      "Thursday": 87,
+      "Friday": 56
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.52,
+    "dept_average_30d": 5.77,
+    "dept_rank": 532,
+    "dept_size": 885
+  }
+}

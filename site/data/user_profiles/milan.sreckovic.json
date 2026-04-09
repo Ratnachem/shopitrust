@@ -1,0 +1,329 @@
+{
+  "username": "milan.sreckovic",
+  "name": "Milan Sreckovic",
+  "generated_at": "2026-04-08T20:22:09.009926",
+  "summary": {
+    "message_count": 791,
+    "channels_active": 65,
+    "unique_people_mentioned": 56,
+    "unique_mentioners": 82,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018WAVQKRP> <@U07J8MJ9XDW> et al., I populated the",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you all!",
+          "channel": "pods",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! <@U01PAPSBV38>, you can make 361 writable any time you want",
+          "channel": "pods",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "OK, good, thanks!",
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, thank you!\n\nThat's a hidden UI lol",
+          "channel": "tmp-sltreviews-yb-march-2026",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, thanks! Yes, the standard problem of having pointers to old documents - maybe update the Files list in the channel to point to the latest",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Yup, mostly not interested in discovering some new race condition that leads to a reused id :slightly_smiling_face:. Unless there is an amazingly",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W018HT4RZ35> this is great, thanks! So much work to get it, and so much follow up :slightly_smiling_face:.",
+          "channel": "proj-1000-node-yugabyte",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I think the process_records_for_shops_not_on_pod was supposed to make that unnecessary, but clearly we found a case where it is. I'll chase",
+          "channel": "shop-mover",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "As in, it is not on pod 361 anymore, so whatever we usually do in order to test on Yugabyte is the only thing that would work here.",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Let's make sure whatever playbook/ATC you all come up with is published somewhere, vault, pinned to the channel, etc., to make this obvious.",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It will also make implementing something like the island mover simpler. It will probably also prevent subtle bugs where people inadvertently set the",
+          "channel": "yugabyte-core-islands",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Everything is guided by the date in the Shop record. Whatever that date is set to guides the deletions. ",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "While we're on the topic of `events` table :slightly_smiling_face:. Was there ever a conversation started on not having this table in MySQL/Yugabyte?",
+          "channel": "proj-cleanup-events-table",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "A few of things to add to the brainstorming:\n\u2022 Yes, we can leave the detection out. A few ideas were mentioned, and there are a bunch of things that",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "The way to think about this is what we'd do if we didn't have a kill switch? What was the event that triggered it, and what would have been the",
+          "channel": "temp-shop-yuga-paykillswitchremoval",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Do we still need this fallback? I didn't hear that we got rid of it, just that we don't need to run `spy magellan update-pods` or whatever that",
+          "channel": "job-platform",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I mean, whatever it is that transfer-jobs needs to do. It's ok if we make this work CLI only, with local edits to work around things, that's the only",
+          "channel": "pods",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 58,
+      "top_mentioned": [
+        {
+          "user": "austen.lacy",
+          "count": 5
+        },
+        {
+          "user": "tom.krouper",
+          "count": 4
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 4
+        },
+        {
+          "user": "brad.dietrich",
+          "count": 4
+        },
+        {
+          "user": "jeremiah.brazeau",
+          "count": 4
+        },
+        {
+          "user": "craig.soules",
+          "count": 4
+        },
+        {
+          "user": "garth.goodson",
+          "count": 4
+        },
+        {
+          "user": "philip.tolton",
+          "count": 3
+        },
+        {
+          "user": "anagayan.ariaran",
+          "count": 3
+        },
+        {
+          "user": "toria.gibbs",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 584,
+      "top_channels": [
+        {
+          "channel": "pods",
+          "messages": 127
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 106
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 84
+        },
+        {
+          "channel": "db-mobility",
+          "messages": 50
+        },
+        {
+          "channel": "shop-mover",
+          "messages": 35
+        },
+        {
+          "channel": "db-core-mysql",
+          "messages": 30
+        },
+        {
+          "channel": "proj-infra-yugabyte-core-tables",
+          "messages": 26
+        },
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 25
+        },
+        {
+          "channel": "temp-shop-yuga-paykillswitchremoval",
+          "messages": 25
+        },
+        {
+          "channel": "yugabyte-core-islands",
+          "messages": 24
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 155,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 11
+        },
+        {
+          "user": "austen.lacy",
+          "count": 10
+        },
+        {
+          "user": "chase.platon",
+          "count": 9
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 6
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 4
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 4
+        },
+        {
+          "user": "tom.krouper",
+          "count": 4
+        },
+        {
+          "user": "michael.roudnitski",
+          "count": 3
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 3
+        },
+        {
+          "user": "anton.molleda",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 116,
+      "17": 64,
+      "16": 98,
+      "15": 103,
+      "14": 84,
+      "13": 84,
+      "21": 27,
+      "20": 76,
+      "11": 12,
+      "19": 99,
+      "1": 1,
+      "22": 7,
+      "23": 7,
+      "12": 10,
+      "10": 1,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 183,
+      "Tuesday": 182,
+      "Monday": 104,
+      "Friday": 168,
+      "Thursday": 154
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.75,
+    "dept_rank": 92,
+    "dept_size": 357
+  }
+}

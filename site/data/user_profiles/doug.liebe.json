@@ -1,0 +1,114 @@
+{
+  "username": "doug.liebe",
+  "name": "Doug Liebe",
+  "generated_at": "2026-04-08T20:22:30.339098",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 13,
+    "days_scale": 0.57
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "yup happy to help - I know Jerrys dealing with some marketing work today before heading out, too!",
+          "channel": "proj-shop-app-save-for-later",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! As I learn more about experimentation on web, who would be a good eng contact? I can talk more with <@U09DLCXKA0Z> on the ds side, but",
+          "channel": "proj-shop-web-home-feed-refresh",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team ~ I am unable to sign into Ramp. I am getting the error \"Your account is missing required information.\" and it then prompts me to contact",
+          "channel": "help-talent-support",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.8,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "jerry.zhu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.68,
+      "count": 25,
+      "top_channels": [
+        {
+          "channel": "proj-shop-web-home-feed-refresh",
+          "messages": 4
+        },
+        {
+          "channel": "proj-shop-app-save-for-later",
+          "messages": 1
+        },
+        {
+          "channel": "proj-shop-app-pdp-shipping-returns",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.11,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "emily.chandel",
+          "count": 2
+        },
+        {
+          "user": "jerry.zhu",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 1,
+      "22": 1,
+      "18": 4,
+      "15": 2
+    },
+    "by_day": {
+      "Thursday": 1,
+      "Wednesday": 6,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 3.63,
+    "dept_average_30d": 5.86,
+    "dept_rank": 163,
+    "dept_size": 166
+  }
+}

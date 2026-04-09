@@ -1,0 +1,127 @@
+{
+  "username": "tommy.cho",
+  "name": "Tommy Cho",
+  "generated_at": "2026-04-08T20:22:18.771099",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "this dashboard is so good, thank you!!1",
+          "channel": "help-rei-data",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team - curious how lead routing operates when a partner submits a lead on behalf of client (SLTWTR &gt; Nestle) how would this lead be routed",
+          "channel": "help-lead-management",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "emily.dawson",
+          "count": 1
+        },
+        {
+          "user": "allison.hayes",
+          "count": 1
+        },
+        {
+          "user": "nicole.smelzer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.58,
+      "count": 68,
+      "top_channels": [
+        {
+          "channel": "help-lead-management",
+          "messages": 4
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 3
+        },
+        {
+          "channel": "help-rei-data",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "cameron.finnell",
+          "count": 2
+        },
+        {
+          "user": "fiona.taurel",
+          "count": 2
+        },
+        {
+          "user": "allison.hayes",
+          "count": 2
+        },
+        {
+          "user": "emily.tran",
+          "count": 1
+        },
+        {
+          "user": "laura.miller",
+          "count": 1
+        },
+        {
+          "user": "pedro.abreu",
+          "count": 1
+        },
+        {
+          "user": "ashley.hartlen",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 4,
+      "14": 2,
+      "19": 2,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Tuesday": 3,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.0,
+    "dept_average_30d": 4.32,
+    "dept_rank": 526,
+    "dept_size": 848
+  }
+}

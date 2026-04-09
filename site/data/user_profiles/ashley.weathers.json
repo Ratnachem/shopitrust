@@ -1,0 +1,124 @@
+{
+  "username": "ashley.weathers",
+  "name": "Ashley Weathers",
+  "generated_at": "2026-04-08T20:22:29.130654",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got it! Thank you so much for all the help :smile:",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes looks great! thank you so much. Could I also ask you for this opportunity I am having a similar issue. It actually isnt showing anything in",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "sarah.campbell",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.36,
+      "count": 115,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 11
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 4
+        },
+        {
+          "channel": "help-lending-engineering",
+          "messages": 2
+        },
+        {
+          "channel": "help-onboarding-foundations",
+          "messages": 2
+        },
+        {
+          "channel": "help-copilot",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "sarah.campbell",
+          "count": 1
+        },
+        {
+          "user": "katie.george",
+          "count": 1
+        },
+        {
+          "user": "marly.suarez",
+          "count": 1
+        },
+        {
+          "user": "sophie.lee",
+          "count": 1
+        },
+        {
+          "user": "andrew.mccallum",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 5,
+      "19": 1,
+      "18": 2,
+      "17": 5,
+      "15": 1,
+      "14": 2,
+      "13": 2,
+      "12": 2
+    },
+    "by_day": {
+      "Monday": 3,
+      "Wednesday": 5,
+      "Tuesday": 6,
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.22,
+    "dept_average_30d": 4.32,
+    "dept_rank": 418,
+    "dept_size": 848
+  }
+}

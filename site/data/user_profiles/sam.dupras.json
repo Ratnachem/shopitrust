@@ -1,0 +1,263 @@
+{
+  "username": "sam.dupras",
+  "name": "Sam Dupras",
+  "generated_at": "2026-04-08T20:22:07.189158",
+  "summary": {
+    "message_count": 267,
+    "channels_active": 16,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "So there are 3 issues in this thread:\n1. Messaging for warning problems not clear: I'll have a PR to fix this this afternoon\n2. Disconnect button too",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U028ETRCVL5> this is the new UX\n\u2022 removed TOS step\n\u2022 split email invite steps\n\u2022 updated copy\nlet me know if we want to make any more changes\ncc",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "As part of ATC Last week I rolled out the `f_row_level_shipping_label_distinct` flag.\n\nI was monitoring the `shipping_labels` metric on this",
+          "channel": "inc-16133-foli-with-higher-quantity-than-line-item",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Thanks! Will take a look Monday and hand it off to the next ATC, sorry about the wait",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Will take a look Monday and hand it off to the next ATC, sorry about the wait",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! will do",
+          "channel": "checkout-platform-support",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yes problem title, my bad!",
+          "channel": "proj-autopilot-ux-pillar",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Hi Henry, I'm assuming this would be ongoing over the duration of the project? I would be happy to help. but my availability is pretty",
+          "channel": "b2b-eng",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Just :pear: with <@U08PHL00AT0>.\nThe decision for now is to:\n\nfor link text\nuse *suggestedAction.link.label* (Martin will implement a PR for this).",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "ok lets just gate in the backend for now, let me know if I need to do anything in the frontend",
+          "channel": "proj-autopilot-ux-pillar",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "salma.amzil",
+          "count": 19
+        },
+        {
+          "user": "hovo.khachikyan",
+          "count": 16
+        },
+        {
+          "user": "nathan.wenneker",
+          "count": 13
+        },
+        {
+          "user": "craig.coles",
+          "count": 12
+        },
+        {
+          "user": "laura.idziszek",
+          "count": 7
+        },
+        {
+          "user": "jaime.cepeda",
+          "count": 7
+        },
+        {
+          "user": "leo.shen",
+          "count": 6
+        },
+        {
+          "user": "virak.ngauv",
+          "count": 5
+        },
+        {
+          "user": "richard.clayton",
+          "count": 4
+        },
+        {
+          "user": "wuang.qin",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.89,
+      "count": 232,
+      "top_channels": [
+        {
+          "channel": "proj-autopilot-ux-pillar",
+          "messages": 100
+        },
+        {
+          "channel": "proj-autopilot",
+          "messages": 67
+        },
+        {
+          "channel": "proj-3p-automation-autopilot",
+          "messages": 25
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 14
+        },
+        {
+          "channel": "b2b-operations",
+          "messages": 12
+        },
+        {
+          "channel": "samd-river",
+          "messages": 11
+        },
+        {
+          "channel": "b2b-eng",
+          "messages": 10
+        },
+        {
+          "channel": "b2b-operations-e2e",
+          "messages": 10
+        },
+        {
+          "channel": "pit-stop",
+          "messages": 5
+        },
+        {
+          "channel": "mm-product-sourcing-atc",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 91,
+      "top_mentioners": [
+        {
+          "user": "nathan.wenneker",
+          "count": 13
+        },
+        {
+          "user": "hovo.khachikyan",
+          "count": 8
+        },
+        {
+          "user": "leo.shen",
+          "count": 7
+        },
+        {
+          "user": "hussein.hegazy",
+          "count": 7
+        },
+        {
+          "user": "salma.amzil",
+          "count": 7
+        },
+        {
+          "user": "craig.coles",
+          "count": 7
+        },
+        {
+          "user": "joel.dmello",
+          "count": 6
+        },
+        {
+          "user": "eagle.yeh",
+          "count": 5
+        },
+        {
+          "user": "travis.allan",
+          "count": 4
+        },
+        {
+          "user": "wuang.qin",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 32,
+      "17": 21,
+      "16": 31,
+      "15": 28,
+      "14": 27,
+      "13": 10,
+      "23": 6,
+      "21": 24,
+      "22": 18,
+      "20": 45,
+      "1": 1,
+      "0": 4,
+      "19": 18,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 79,
+      "Tuesday": 55,
+      "Monday": 30,
+      "Thursday": 67,
+      "Friday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.77,
+    "dept_rank": 217,
+    "dept_size": 885
+  }
+}

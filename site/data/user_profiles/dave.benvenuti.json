@@ -1,0 +1,333 @@
+{
+  "username": "dave.benvenuti",
+  "name": "Dave Benvenuti",
+  "generated_at": "2026-04-08T20:22:08.387198",
+  "summary": {
+    "message_count": 721,
+    "channels_active": 24,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 16,
+      "neg_count": 13,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes please log an issue, thank you!",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!  I've got another commit now with your suggested changes.  I _think_ I've got the readiness probe now and the `preStop` hooks are gone",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!  Yes that's the one",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks!",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help today!  That's fine",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave-frog: Howdy, I wanted to flag something about the approved <https://kepler.shopify.io/services/opencode|opencode coding agent>.  I use opencode",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!  It does.  :bufo-lgtm:",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes please, thank you <@U0AEPQCKB3M>!",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": ":np-2: good luck",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":update: Update for the `Contact` removal effort: Now that the <https://app.graphite.com/github/pr/shop/world/577717|new Kafka consumers are",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": ":update: *An update on removal of Contact from the Transactional Messages Pipeline*\n\nAs I mentioned earlier, yesterday I hit a roadblock and",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "And unfortunately there's no Kafka cluster for whatever the other US east region is (3 maybe?)",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I guess you wouldn't want a bloom filter for transactional for the risk of false positives but whatever",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The personalization has to match whatever's in the protobuf definition for the campaign we're using for these so we can't add any new keys there",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "This might be stupid question, but can we just query the `message-deliveries` as it exists today and get the information we need out of it?",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Then `MessageBus::Message` could become `MessageBus::CommercialMessage` and whatever other subtypes.  But it'd be nice to get rid of all the",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm fully a Pi Guy now.  It only uses whatever model you tell it to",
+          "channel": "enable-marketing-acceleration-rnd",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm just gonna yolo and try it.  Ideally `dev up` should fix whatever I broke anyway right?",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "At least now an error displays rather than just the base branch changing to `graphite-base/whatever` without me even noticing",
+          "channel": "proj-tier1-infra-mozart",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "fernando.calderon",
+          "count": 29
+        },
+        {
+          "user": "brett.marx",
+          "count": 26
+        },
+        {
+          "user": "abrar.habib",
+          "count": 11
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 6
+        },
+        {
+          "user": "mark.blum",
+          "count": 5
+        },
+        {
+          "user": "hussein.patni",
+          "count": 5
+        },
+        {
+          "user": "casey.rockwell",
+          "count": 3
+        },
+        {
+          "user": "joao.alves",
+          "count": 3
+        },
+        {
+          "user": "connor.cozens",
+          "count": 3
+        },
+        {
+          "user": "dennis",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.94,
+      "count": 287,
+      "top_channels": [
+        {
+          "channel": "proj-tier1-infra-mozart",
+          "messages": 292
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 256
+        },
+        {
+          "channel": "inc-20105-melody-segment-flag-producing-wrong-membe",
+          "messages": 54
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 24
+        },
+        {
+          "channel": "mozart-ops-staging",
+          "messages": 13
+        },
+        {
+          "channel": "enable-marketing-acceleration-rnd",
+          "messages": 11
+        },
+        {
+          "channel": "marketing-efficiency-team",
+          "messages": 11
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 9
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 8
+        },
+        {
+          "channel": "mini-proj-mozart-qa-dash",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "louis.cloutier",
+          "count": 15
+        },
+        {
+          "user": "robert.wang",
+          "count": 5
+        },
+        {
+          "user": "dennis",
+          "count": 4
+        },
+        {
+          "user": "hussein.patni",
+          "count": 4
+        },
+        {
+          "user": "kyle.dormer",
+          "count": 3
+        },
+        {
+          "user": "brett.marx",
+          "count": 3
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 3
+        },
+        {
+          "user": "matthew.frail",
+          "count": 2
+        },
+        {
+          "user": "casey.rockwell",
+          "count": 2
+        },
+        {
+          "user": "mark.blum",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 124,
+      "17": 91,
+      "16": 156,
+      "15": 63,
+      "0": 13,
+      "22": 30,
+      "21": 38,
+      "20": 83,
+      "23": 27,
+      "19": 77,
+      "14": 13,
+      "2": 1,
+      "1": 5
+    },
+    "by_day": {
+      "Wednesday": 186,
+      "Tuesday": 115,
+      "Monday": 76,
+      "Friday": 220,
+      "Thursday": 124
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.5,
+    "dept_average_30d": 5.58,
+    "dept_rank": 50,
+    "dept_size": 398
+  }
+}

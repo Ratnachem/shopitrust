@@ -1,0 +1,300 @@
+{
+  "username": "brendan.abbott",
+  "name": "Brendan Abbott",
+  "generated_at": "2026-04-08T20:22:25.691237",
+  "summary": {
+    "message_count": 853,
+    "channels_active": 64,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 18,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yeah, method exists; the <https://github.com/Shopify/shopify-cloud/blob/main/lib/shopify-cloud/engine.rb#L142-L197|shopify-cloud gem has it's own",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "Just to bring some of the team's wins back to this channel (because they are impressive):\n\n\u2022 Translation queries now hit the read replica; not the",
+          "channel": "inc-20496-shopify-web-slo-elevated-error-rate5xx-at",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "inv-20683-high-and-sustained-core-p95-response-time",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I think it's ok to not actively follow this up. If the incident repeats I'll let <#C66JKJGR2> know and mention we have attempted outreach",
+          "channel": "inv-20683-high-and-sustained-core-p95-response-time",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Updated, thank you!",
+          "channel": "proj-edge-waf-tooling-abstraction",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both :slightly_smiling_face:",
+          "channel": "help-proxy-shopify-ai",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that, didn't consider dry-runs when planning with Claude",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Hope you get some sleep :hi-5:",
+          "channel": "inc-20685-semian-increased-number-of-storefront-sea",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yo <@U0AEPQCKB3M>; where in the core zone is this normalized SQL query being generated from:\n\n```UPDATE customers SET customers.updated_at = ?,",
+          "channel": "brendan-abbott-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that noise. Definitely interesting that the synthetic has the same JA4 as the bot network.",
+          "channel": "inv-20544-enterprise-synthetics-indexproductcollect",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Yes agreed. One agent to remember, one consistent tone of voice. I don't care if it delegates to hundreds of other agents to get a response; but from",
+          "channel": "proj-infra-river-k8s-debug",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I agree with you :nod2: My current mindset is the skills are the long-lived thing which codify the existing tribal knowledge or skillsets for",
+          "channel": "river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "It's not that we don't care about <http://shop.app|shop.app> 5xx; it's just that it shouldn't be emitted as an SFR error which is just a bad signal",
+          "channel": "inv-20943-sfr-5xx-on-homepage-user-journey",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> initial diagnostics\n```---                                                                                                            ",
+          "channel": "brendan-abbott-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Nah I think I know, it's the stupid task stuff I've been battling for 2 weeks",
+          "channel": "explainify",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "adam.traver",
+          "count": 8
+        },
+        {
+          "user": "keisuke.umegaki",
+          "count": 5
+        },
+        {
+          "user": "bartomiej.piotrowski",
+          "count": 4
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 2
+        },
+        {
+          "user": "kazuki.higashiguchi",
+          "count": 2
+        },
+        {
+          "user": "celine.zhang",
+          "count": 2
+        },
+        {
+          "user": "toby.shannan",
+          "count": 2
+        },
+        {
+          "user": "joey.yu",
+          "count": 1
+        },
+        {
+          "user": "iyaz.shaikh",
+          "count": 1
+        },
+        {
+          "user": "vitali.tsevan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 429,
+      "top_channels": [
+        {
+          "channel": "proj-slow-query-prevention",
+          "messages": 136
+        },
+        {
+          "channel": "inv-20683-high-and-sustained-core-p95-response-time",
+          "messages": 58
+        },
+        {
+          "channel": "brendan-abbott-river",
+          "messages": 47
+        },
+        {
+          "channel": "inv-20543-elevated-sfr-low-priority-error-rate",
+          "messages": 44
+        },
+        {
+          "channel": "inc-20496-shopify-web-slo-elevated-error-rate5xx-at",
+          "messages": 43
+        },
+        {
+          "channel": "inv-20494-sp-portugal-80-failure-rate",
+          "messages": 38
+        },
+        {
+          "channel": "explainify",
+          "messages": 37
+        },
+        {
+          "channel": "inv-20551-bfcm-2026-scale-test-1",
+          "messages": 32
+        },
+        {
+          "channel": "inv-19791-higher-than-usual-admin-error-rate",
+          "messages": 30
+        },
+        {
+          "channel": "inc-20556-semian-increased-number-of-storefront-sea",
+          "messages": 25
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "keisuke.umegaki",
+          "count": 7
+        },
+        {
+          "user": "adam.traver",
+          "count": 5
+        },
+        {
+          "user": "jodi.shambrook",
+          "count": 5
+        },
+        {
+          "user": "bing.li",
+          "count": 3
+        },
+        {
+          "user": "himanshu.chhabra",
+          "count": 3
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 2
+        },
+        {
+          "user": "kazuki.higashiguchi",
+          "count": 2
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 2
+        },
+        {
+          "user": "mingding.han",
+          "count": 2
+        },
+        {
+          "user": "sam.killgallon",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "6": 116,
+      "5": 92,
+      "4": 114,
+      "0": 51,
+      "23": 37,
+      "22": 27,
+      "12": 8,
+      "9": 18,
+      "8": 39,
+      "2": 105,
+      "1": 117,
+      "21": 3,
+      "7": 78,
+      "3": 47,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 159,
+      "Tuesday": 237,
+      "Monday": 161,
+      "Friday": 103,
+      "Thursday": 193
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 9.31,
+    "dept_average_30d": 5.75,
+    "dept_rank": 5,
+    "dept_size": 357
+  }
+}

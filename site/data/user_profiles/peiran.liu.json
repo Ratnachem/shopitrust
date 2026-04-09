@@ -1,0 +1,214 @@
+{
+  "username": "peiran.liu",
+  "name": "Peiran Liu",
+  "generated_at": "2026-04-08T20:22:24.711660",
+  "summary": {
+    "message_count": 99,
+    "channels_active": 18,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "This one was a long time coming. Congrats to the whole project team. Great works. :tada:",
+          "channel": "strip-additional-headers",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "This one was a long time coming. Congrats to the whole project team. Great works. :tada:",
+          "channel": "strip-additional-headers",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "The main problem like I said is that,  based on my search result, the ejson secret `observe_synthetics` used in basic-auth is not configured in",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "jerry.deng",
+          "count": 4
+        },
+        {
+          "user": "wolfgang.nagele",
+          "count": 4
+        },
+        {
+          "user": "drew.suitor",
+          "count": 3
+        },
+        {
+          "user": "nick.silverman",
+          "count": 3
+        },
+        {
+          "user": "bill.bean",
+          "count": 2
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 2
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 2
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 1
+        },
+        {
+          "user": "joshua.sager",
+          "count": 1
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.4,
+      "count": 153,
+      "top_channels": [
+        {
+          "channel": "edge-infrastructure",
+          "messages": 25
+        },
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 18
+        },
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 10
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 6
+        },
+        {
+          "channel": "help-observability",
+          "messages": 6
+        },
+        {
+          "channel": "caching-platform-team",
+          "messages": 6
+        },
+        {
+          "channel": "app-lifecycle-blackhole",
+          "messages": 5
+        },
+        {
+          "channel": "proj-self-provisioned-ssl-certs-in-cloudflare",
+          "messages": 5
+        },
+        {
+          "channel": "cloudflare-account-team-shared",
+          "messages": 4
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.52,
+      "count": 29,
+      "top_mentioners": [
+        {
+          "user": "brent.faulkner",
+          "count": 5
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 3
+        },
+        {
+          "user": "charles.ng",
+          "count": 2
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 2
+        },
+        {
+          "user": "matthew.frail",
+          "count": 2
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 2
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 2
+        },
+        {
+          "user": "joshua.sager",
+          "count": 2
+        },
+        {
+          "user": "bill.bean",
+          "count": 1
+        },
+        {
+          "user": "michael.jackson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 13,
+      "12": 3,
+      "16": 12,
+      "14": 14,
+      "0": 2,
+      "19": 14,
+      "20": 4,
+      "17": 11,
+      "15": 3,
+      "18": 16,
+      "1": 2,
+      "21": 3,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 22,
+      "Tuesday": 22,
+      "Friday": 20,
+      "Monday": 6,
+      "Thursday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.24,
+    "dept_average_30d": 5.75,
+    "dept_rank": 248,
+    "dept_size": 357
+  }
+}

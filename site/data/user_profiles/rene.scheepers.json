@@ -1,0 +1,225 @@
+{
+  "username": "rene.scheepers",
+  "name": "Rene Scheepers",
+  "generated_at": "2026-04-08T20:22:16.459452",
+  "summary": {
+    "message_count": 936,
+    "channels_active": 34,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I've sent an invite for today. Let me know if that doesn't work for you.",
+          "channel": "shopifyvm",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi: I've disabled access to 132 TF state buckets that should be unused. Let me know if you run into issues",
+          "channel": "production-infrastructure",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U04CX6YA146> can you actually apply the binding, we don't care about restricting",
+          "channel": "infrastructure-lifecycle",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U04CX6YA146> create 5 new GKE clusters, copy some from shopiyf-cloud-apps, don't ask me things just assume or whatever",
+          "channel": "proj-infra-agentic-terraform",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "maxime.ginters",
+          "count": 4
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 3
+        },
+        {
+          "user": "mark.rattle",
+          "count": 3
+        },
+        {
+          "user": "darren.foo",
+          "count": 3
+        },
+        {
+          "user": "patrick.crane",
+          "count": 3
+        },
+        {
+          "user": "pulkit.garg",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 2
+        },
+        {
+          "user": "brian.warsing",
+          "count": 2
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 2
+        },
+        {
+          "user": "ali.abbasialaei",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.42,
+      "count": 260,
+      "top_channels": [
+        {
+          "channel": "proj-infra-agentic-terraform",
+          "messages": 160
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 104
+        },
+        {
+          "channel": "actuator-test",
+          "messages": 98
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 87
+        },
+        {
+          "channel": "proj-infra-repo-vms-with-nix",
+          "messages": 76
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 47
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 45
+        },
+        {
+          "channel": "proj-secure-egress-gateway",
+          "messages": 40
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 34
+        },
+        {
+          "channel": "courier-operations",
+          "messages": 34
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.79,
+      "count": 70,
+      "top_mentioners": [
+        {
+          "user": "sumedh.degaonkar",
+          "count": 5
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 5
+        },
+        {
+          "user": "devon.boyer",
+          "count": 5
+        },
+        {
+          "user": "pulkit.garg",
+          "count": 5
+        },
+        {
+          "user": "brian.warsing",
+          "count": 4
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 3
+        },
+        {
+          "user": "riti.nagi",
+          "count": 3
+        },
+        {
+          "user": "mark.rattle",
+          "count": 3
+        },
+        {
+          "user": "aditya.sharma",
+          "count": 2
+        },
+        {
+          "user": "pedro.deoliveira-5241",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 64,
+      "13": 134,
+      "12": 82,
+      "8": 92,
+      "7": 15,
+      "6": 34,
+      "5": 4,
+      "16": 41,
+      "15": 81,
+      "10": 94,
+      "9": 71,
+      "14": 75,
+      "19": 11,
+      "11": 63,
+      "20": 30,
+      "18": 42,
+      "21": 3
+    },
+    "by_day": {
+      "Wednesday": 191,
+      "Tuesday": 284,
+      "Friday": 93,
+      "Thursday": 244,
+      "Monday": 124
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.61,
+    "dept_average_30d": 5.75,
+    "dept_rank": 45,
+    "dept_size": 357
+  }
+}

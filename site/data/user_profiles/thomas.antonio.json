@@ -1,0 +1,97 @@
+{
+  "username": "thomas.antonio",
+  "name": "Thomas Antonio",
+  "generated_at": "2026-04-08T20:22:22.984109",
+  "summary": {
+    "message_count": 37,
+    "channels_active": 5,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.8,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 11
+        },
+        {
+          "channel": "help-it",
+          "messages": 9
+        },
+        {
+          "channel": "proj-reduce-cdn-purge-rate",
+          "messages": 8
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "proj-self-provisioned-ssl-certs-in-cloudflare",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "nick.silverman",
+          "count": 4
+        },
+        {
+          "user": "wolfgang.nagele",
+          "count": 3
+        },
+        {
+          "user": "roque.pinel",
+          "count": 2
+        },
+        {
+          "user": "benjamin.destrempes",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 21,
+      "14": 3,
+      "13": 4,
+      "17": 3,
+      "16": 2,
+      "18": 4
+    },
+    "by_day": {
+      "Wednesday": 10,
+      "Monday": 15,
+      "Thursday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.05,
+    "dept_average_30d": 5.75,
+    "dept_rank": 279,
+    "dept_size": 357
+  }
+}

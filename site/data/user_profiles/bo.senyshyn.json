@@ -1,0 +1,269 @@
+{
+  "username": "bo.senyshyn",
+  "name": "Bo Senyshyn",
+  "generated_at": "2026-04-08T20:22:18.146233",
+  "summary": {
+    "message_count": 442,
+    "channels_active": 16,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.1,
+      "pos_count": 21,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect! Thank you. The issue template was outdated and had an incorrect naming for topic. Could you please name your topic using the convention Tim",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah, my bad. I included the wrong payload type, AppRuntimeEvent instead of AppRuntimeClientEvent. Let me rebuild the SHA and I will build it again",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Will review soon, thank you!",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! Does it stop us now from spinning up at least a prod test job, so that Brandon can inspect his data in BQ?",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AAD1W1Z2L> next thing on the list we have to work on is handling updates to annotations. As discussed before, we will implement the solution from",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your patience",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AAD1W1Z2L> do you mind looking at this PR which fixes schema loading? <https://github.com/Shopify/factoids/pull/1551>\n\nThank you!",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@W018PSLEVRA> , I updated the alert rule for the time being, my bad",
+          "channel": "data-factoids-alerts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad, cancelled",
+          "channel": "data-factoids-alerts",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sounds great. Patrick created an issue template for new topics which we should work on Event Refinery, you will be one of the first users, so feel",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "my bad it have been EDT, but whatever",
+          "channel": "inc-20463-legitimate-gaps-werent-found-by-gap-analy",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "karming.chin",
+          "count": 26
+        },
+        {
+          "user": "patrick.lazarus",
+          "count": 17
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 11
+        },
+        {
+          "user": "david.garfinkle",
+          "count": 6
+        },
+        {
+          "user": "marc.laforet",
+          "count": 4
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 3
+        },
+        {
+          "user": "khaled.hammouda",
+          "count": 3
+        },
+        {
+          "user": "dave.sugden",
+          "count": 2
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 2
+        },
+        {
+          "user": "andrew.droll",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.03,
+      "count": 80,
+      "top_channels": [
+        {
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "messages": 148
+        },
+        {
+          "channel": "data-factoids-alerts",
+          "messages": 74
+        },
+        {
+          "channel": "inc-20463-legitimate-gaps-werent-found-by-gap-analy",
+          "messages": 68
+        },
+        {
+          "channel": "proj-admin-events-in-event-refinery",
+          "messages": 59
+        },
+        {
+          "channel": "inv-20999-event-refinery-wrongful-labelling-of-even",
+          "messages": 26
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20433-failures-in-ingestion-scheduler-cluster-d",
+          "messages": 14
+        },
+        {
+          "channel": "proj-data-platform-ingest-governance",
+          "messages": 10
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 9
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 16
+        },
+        {
+          "user": "patrick.lazarus",
+          "count": 9
+        },
+        {
+          "user": "brandon.conway",
+          "count": 4
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 4
+        },
+        {
+          "user": "dave.sugden",
+          "count": 3
+        },
+        {
+          "user": "sarah.pyo",
+          "count": 3
+        },
+        {
+          "user": "karl.taylor",
+          "count": 3
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 2
+        },
+        {
+          "user": "marc.laforet",
+          "count": 2
+        },
+        {
+          "user": "dexter.cogswell",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 46,
+      "15": 33,
+      "14": 48,
+      "19": 51,
+      "18": 49,
+      "16": 35,
+      "13": 22,
+      "20": 50,
+      "22": 32,
+      "21": 72,
+      "23": 3,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 95,
+      "Tuesday": 95,
+      "Monday": 34,
+      "Thursday": 94,
+      "Friday": 124
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.77,
+    "dept_average_30d": 5.39,
+    "dept_rank": 97,
+    "dept_size": 272
+  }
+}

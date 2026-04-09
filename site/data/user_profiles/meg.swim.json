@@ -1,0 +1,294 @@
+{
+  "username": "meg.swim",
+  "name": "Meg Swim",
+  "generated_at": "2026-04-08T20:22:25.090454",
+  "summary": {
+    "message_count": 749,
+    "channels_active": 31,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 20,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":pray::skin-tone-2:  you can release now. let me know if there are any issues with it",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Fares teams aren't matching yet! ahh ^^ thank you",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "vault_id doesn't need to be the first line -- it'll just need to be in that header section for the file to see it ! I think that check was likely",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help! Glad I popped into the channel because when I saw that error I was thinking :hmm-ro:  we should get that updated!  perfect timing!",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Appreciate you following up Natalia - and thank you, will do! I it seems like most of the buildkite apps are installed on `all repos` in the org, but",
+          "channel": "team-ci",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!subteam^SQRKZ3VD1> I've<https://docs.google.com/document/d/1l0jubYsDiOtklQWpdQTSgiKKiZxdZ9-v9SrMpCjCkVY/edit?tab=t.k2asyrl6dhyc| created this doc",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if it's not working as expected. add it to <#C09QS72D88L> as that seems to be the updated channel name!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if that works for you Karl otherwise I'll take a look at the configuration and everything.\n\nAlso, is there a reason graphite isn't being",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":red-alert-a: Github access has been updated to use an OKTA synced group instead of having base org permissions. If you seemingly do not have access",
+          "channel": "developers-talk",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":red-alert-a: Github access has been updated to use an OKTA synced group instead of having base org permissions. If you seemingly do not have access",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the file being edited in the PR `181-Shopifolk-Essentials/469-Payroll/US-Payroll_Information/USA-Payroll-Information.md`",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "&gt; *Sebastien Bruel:* Uh if the line numbers are completely outside the file I feel we could figure it out by just counting the files and making",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'll again defer to Michelle / JK for the other use of tags that are related to the code / bug itself/pattern library. I wouldn't think it's",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Thanks for the output. Looking at the thread with Olga I think it has something to do with the credential being gh auth and not",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "seth.fiawoo",
+          "count": 14
+        },
+        {
+          "user": "michelle.oconnor",
+          "count": 8
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 6
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 5
+        },
+        {
+          "user": "jamie.kinnavane",
+          "count": 4
+        },
+        {
+          "user": "annette.lohan",
+          "count": 3
+        },
+        {
+          "user": "evan.lee",
+          "count": 2
+        },
+        {
+          "user": "jeffrey.wood",
+          "count": 2
+        },
+        {
+          "user": "kartiki.sharma",
+          "count": 2
+        },
+        {
+          "user": "randy.rubin",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.98,
+      "count": 342,
+      "top_channels": [
+        {
+          "channel": "team-ai-operations",
+          "messages": 346
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 185
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 64
+        },
+        {
+          "channel": "gworkspace-mcp",
+          "messages": 18
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 15
+        },
+        {
+          "channel": "dev-ai-chat",
+          "messages": 11
+        },
+        {
+          "channel": "proj-eng-llm-bug-accuracy",
+          "messages": 10
+        },
+        {
+          "channel": "team-production-excellence",
+          "messages": 9
+        },
+        {
+          "channel": "claude-code",
+          "messages": 8
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "kush.patel",
+          "count": 5
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 4
+        },
+        {
+          "user": "robin.drexler",
+          "count": 4
+        },
+        {
+          "user": "annette.lohan",
+          "count": 3
+        },
+        {
+          "user": "jeffrey.wood",
+          "count": 2
+        },
+        {
+          "user": "owen.cummings",
+          "count": 2
+        },
+        {
+          "user": "james.kirkpatrick",
+          "count": 2
+        },
+        {
+          "user": "logan.best",
+          "count": 1
+        },
+        {
+          "user": "kyle.acres",
+          "count": 1
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 53,
+      "11": 14,
+      "21": 33,
+      "19": 79,
+      "15": 63,
+      "14": 67,
+      "13": 49,
+      "20": 95,
+      "18": 94,
+      "17": 95,
+      "16": 65,
+      "10": 2,
+      "1": 2,
+      "0": 9,
+      "23": 6,
+      "22": 23
+    },
+    "by_day": {
+      "Wednesday": 180,
+      "Tuesday": 163,
+      "Monday": 157,
+      "Thursday": 118,
+      "Friday": 131
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.18,
+    "dept_average_30d": 5.75,
+    "dept_rank": 96,
+    "dept_size": 357
+  }
+}

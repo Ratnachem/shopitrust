@@ -1,0 +1,266 @@
+{
+  "username": "artyom.astafurov",
+  "name": "Artyom Astafurov",
+  "generated_at": "2026-04-08T20:22:21.483102",
+  "summary": {
+    "message_count": 341,
+    "channels_active": 11,
+    "unique_people_mentioned": 45,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 18,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "great work! it's a step in a right direction. this week i have bandwidth for rubber stamp approval. i also see quite a few ai-review comments that",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "and thank you for your help in <#C0893LXNXMJ> this week.",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "&gt; Does the fact that I see CentML in Okta mean that I've submitted the access request already?\nnot sure - i am not seeing access request. pls let",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Our users are looking to `pip install shopify-ml-sdk` from <https://pkgs.shopify.io/basic/data/python/simple/> in Airflow/Composer and are",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah. My bad. I missed that part.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want me to update it to 32 now <@U097CN46VG8>?",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! tomorrow will be better!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<!channel> please do your part and delete unused data, historical checkpoints and other artifacts from shared fs in training cluster today.\n\nWe are",
+          "channel": "ml-infrastructure-users",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to give `devx ml [--llms]` with claude code to make your first deployment.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad. Is the root cause that some of the workloads bypass the kueue?",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "dakota.szabo",
+          "count": 13
+        },
+        {
+          "user": "fahimeh.hosseini",
+          "count": 5
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 5
+        },
+        {
+          "user": "ethan.bates",
+          "count": 5
+        },
+        {
+          "user": "juhana.kangaspunta",
+          "count": 5
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 4
+        },
+        {
+          "user": "zhaoyu.zhang",
+          "count": 4
+        },
+        {
+          "user": "ming.zhu",
+          "count": 4
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 3
+        },
+        {
+          "user": "christophe.vangysel",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.36,
+      "count": 204,
+      "top_channels": [
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 154
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 147
+        },
+        {
+          "channel": "ml-infrastructure-users",
+          "messages": 17
+        },
+        {
+          "channel": "inc-20700-high-latency-for-sidekick-finetune",
+          "messages": 10
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 3
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 3
+        },
+        {
+          "channel": "proj-davies-gpu-control-plane",
+          "messages": 2
+        },
+        {
+          "channel": "inv-20715-flink-source-throughput-is-below-threshol",
+          "messages": 2
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 1
+        },
+        {
+          "channel": "ml-infra-gpu-ops-urgent",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 111,
+      "top_mentioners": [
+        {
+          "user": "tom.rochette",
+          "count": 15
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 14
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 13
+        },
+        {
+          "user": "fahimeh.hosseini",
+          "count": 10
+        },
+        {
+          "user": "ming.zhu",
+          "count": 9
+        },
+        {
+          "user": "zhaoyu.zhang",
+          "count": 6
+        },
+        {
+          "user": "zac.roberts",
+          "count": 5
+        },
+        {
+          "user": "patrick.haluptzok",
+          "count": 3
+        },
+        {
+          "user": "diego.ardila",
+          "count": 3
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 28,
+      "14": 38,
+      "18": 37,
+      "23": 18,
+      "0": 9,
+      "21": 42,
+      "17": 31,
+      "12": 5,
+      "20": 27,
+      "19": 39,
+      "22": 32,
+      "16": 13,
+      "13": 4,
+      "1": 5,
+      "11": 5,
+      "3": 4,
+      "2": 4
+    },
+    "by_day": {
+      "Wednesday": 100,
+      "Tuesday": 81,
+      "Monday": 45,
+      "Friday": 34,
+      "Thursday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.33,
+    "dept_average_30d": 5.75,
+    "dept_rank": 79,
+    "dept_size": 357
+  }
+}

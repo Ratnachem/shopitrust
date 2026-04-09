@@ -1,0 +1,281 @@
+{
+  "username": "justin.pauley",
+  "name": "Justin Pauley",
+  "generated_at": "2026-04-08T20:22:15.706192",
+  "summary": {
+    "message_count": 550,
+    "channels_active": 32,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.4,
+      "pos_count": 33,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Morning! Checking in post long weekend: what are the next steps here? Do you need info from AE? Anything I can help move forward?",
+          "channel": "temp-data-platform-slo-alignment",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I used River's plan + some knowledge I had about the quirks to build the PR I linked too so hopefully fairly similar",
+          "channel": "proj-vault-metrics",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome thank you!",
+          "channel": "dw-upsell-monitoring",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-dw-dbt-unit-testing",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Perfect! That works, thanks!",
+          "channel": "pi",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you!",
+          "channel": "pi",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Both points are great feedback! Thank you! I will look into both of these next week!\n\nI'm thinking about adding a Workflows section, with the",
+          "channel": "holocron",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-dw-playbook-generation-system",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing Marisa! Thank you for continuing to see these through!",
+          "channel": "proj-dw-playbook-generation-system",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing Marisa! Thank you for continuing to see these through!",
+          "channel": "proj-dw-playbook-generation-system",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think whatever you find works best is likely good. We are just experimenting with it after all!",
+          "channel": "proj-dw-playbook-generation-system",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "What is the current consensus on the 1m token context window in Opus 4.6? Hearing internally to avoid it (Claude still getting stupider after 80k",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "mackenzie.ostler",
+          "count": 5
+        },
+        {
+          "user": "marisa.sievers",
+          "count": 5
+        },
+        {
+          "user": "avinash.pallerlamudi",
+          "count": 5
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 3
+        },
+        {
+          "user": "sana.asghar",
+          "count": 3
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 2
+        },
+        {
+          "user": "kristie.ching",
+          "count": 2
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 2
+        },
+        {
+          "user": "auggie.fisher",
+          "count": 2
+        },
+        {
+          "user": "daniel.cole",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.39,
+      "count": 116,
+      "top_channels": [
+        {
+          "channel": "proj-dw-playbook-generation-system",
+          "messages": 158
+        },
+        {
+          "channel": "holocron",
+          "messages": 35
+        },
+        {
+          "channel": "inv-20023-apparent-bug-in-timeliness-reporting-on-d",
+          "messages": 35
+        },
+        {
+          "channel": "inv-19987-slot-contention-in-shopify-dw-compute",
+          "messages": 33
+        },
+        {
+          "channel": "proj-data-platform-decouple-ownership",
+          "messages": 32
+        },
+        {
+          "channel": "cto-metrics-monitoring",
+          "messages": 31
+        },
+        {
+          "channel": "proj-vault-metrics",
+          "messages": 27
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 27
+        },
+        {
+          "channel": "pi",
+          "messages": 24
+        },
+        {
+          "channel": "data-engineering-ai",
+          "messages": 23
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.54,
+      "count": 58,
+      "top_mentioners": [
+        {
+          "user": "shannon.alfimova",
+          "count": 5
+        },
+        {
+          "user": "sana.asghar",
+          "count": 5
+        },
+        {
+          "user": "jolie.demuth",
+          "count": 4
+        },
+        {
+          "user": "auggie.fisher",
+          "count": 4
+        },
+        {
+          "user": "marisa.sievers",
+          "count": 4
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 3
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 3
+        },
+        {
+          "user": "almer.muneer",
+          "count": 3
+        },
+        {
+          "user": "adi.matheswaran",
+          "count": 2
+        },
+        {
+          "user": "asad.jaffery",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 81,
+      "16": 56,
+      "15": 42,
+      "14": 82,
+      "13": 49,
+      "20": 33,
+      "19": 69,
+      "17": 65,
+      "21": 6,
+      "0": 9,
+      "12": 33,
+      "11": 5,
+      "2": 1,
+      "22": 16,
+      "23": 1,
+      "10": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 168,
+      "Tuesday": 103,
+      "Thursday": 143,
+      "Monday": 81,
+      "Friday": 55
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 9.3,
+    "dept_average_30d": 5.39,
+    "dept_rank": 5,
+    "dept_size": 272
+  }
+}

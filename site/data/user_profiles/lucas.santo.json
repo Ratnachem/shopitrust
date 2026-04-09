@@ -1,0 +1,76 @@
+{
+  "username": "lucas.santo",
+  "name": "Lucas Santo",
+  "generated_at": "2026-04-08T20:22:31.652440",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "hi folks, when i try to use my yubikey i get credentials not found message. Please help, thank you.",
+          "channel": "help-it",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.19,
+      "count": 5,
+      "top_channels": [
+        {
+          "channel": "bl-directs-river-playground",
+          "messages": 3
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "tor.thilert",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 2,
+      "14": 2
+    },
+    "by_day": {
+      "Friday": 1,
+      "Thursday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Brand Marketing",
+    "user_score_30d": 4.28,
+    "dept_average_30d": 4.22,
+    "dept_rank": 13,
+    "dept_size": 35
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "username": "will.goldstein",
+  "name": "Will Goldstein",
+  "generated_at": "2026-04-08T20:22:14.356973",
+  "summary": {
+    "message_count": 790,
+    "channels_active": 12,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Just merged a fix, deploying it now. Sorry about that",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AFZE116LS> lmk if you want me to look at this or if you want to",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "do you want me to cut the binks PRs to use the new 1pass creds?",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Done, sorry about that",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Should be done, let me know if you're still blocked <@W018AVD80QN>",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that! Apply the label `Override: PR Review Bot Comments Addressed`",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "dev-ai-algo",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I assume you're well staffed on getting a river aligned global extension built, but if I can help with that please lmk",
+          "channel": "river",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "every message is doubled because of a parsing issue in the quick site, sorry about that",
+          "channel": "tmp-tangle-super-mla",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "i love the variety of thank you emojis here",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or bigquery or whatever other services we need",
+          "channel": "tmp-tangle-super-mla",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "baoze.lin",
+          "count": 15
+        },
+        {
+          "user": "peter.petrov",
+          "count": 10
+        },
+        {
+          "user": "kyle.mcdaniel",
+          "count": 10
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 7
+        },
+        {
+          "user": "surma",
+          "count": 7
+        },
+        {
+          "user": "jon.allured",
+          "count": 6
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 6
+        },
+        {
+          "user": "jin.li",
+          "count": 4
+        },
+        {
+          "user": "travis.a.smith",
+          "count": 3
+        },
+        {
+          "user": "ben.chen",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.74,
+      "count": 46,
+      "top_channels": [
+        {
+          "channel": "projects-dev-ai",
+          "messages": 456
+        },
+        {
+          "channel": "tmp-tangle-super-mla",
+          "messages": 202
+        },
+        {
+          "channel": "dev-ai-algo",
+          "messages": 83
+        },
+        {
+          "channel": "supermla-public-experiments",
+          "messages": 17
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20987-binks-429s-is-blocking-merges",
+          "messages": 6
+        },
+        {
+          "channel": "proj-eng-llm-code-scan",
+          "messages": 5
+        },
+        {
+          "channel": "river",
+          "messages": 4
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "inc-20608-graphite-merges-failing",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "volv.grebennikov",
+          "count": 10
+        },
+        {
+          "user": "baoze.lin",
+          "count": 9
+        },
+        {
+          "user": "ben.chen",
+          "count": 8
+        },
+        {
+          "user": "surma",
+          "count": 8
+        },
+        {
+          "user": "jin.li",
+          "count": 5
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 5
+        },
+        {
+          "user": "jon.allured",
+          "count": 4
+        },
+        {
+          "user": "kyle.mcdaniel",
+          "count": 4
+        },
+        {
+          "user": "peter.petrov",
+          "count": 4
+        },
+        {
+          "user": "sebastien.bruel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 169,
+      "17": 145,
+      "21": 5,
+      "20": 61,
+      "15": 107,
+      "14": 71,
+      "13": 60,
+      "19": 75,
+      "22": 6,
+      "16": 65,
+      "12": 12,
+      "1": 8,
+      "11": 1,
+      "0": 1,
+      "23": 4
+    },
+    "by_day": {
+      "Wednesday": 288,
+      "Tuesday": 187,
+      "Monday": 105,
+      "Thursday": 114,
+      "Friday": 96
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.12,
+    "dept_average_30d": 5.75,
+    "dept_rank": 109,
+    "dept_size": 357
+  }
+}

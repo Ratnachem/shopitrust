@@ -1,0 +1,294 @@
+{
+  "username": "rylan.polster",
+  "name": "Rylan Polster",
+  "generated_at": "2026-04-08T20:22:20.431938",
+  "summary": {
+    "message_count": 680,
+    "channels_active": 13,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 18,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HM7BBV0> let me know if you want me to dive in more, sorry to keep muddling it",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@W018HM7BBV0> let me know if you want me to dive in more, sorry to keep muddling it",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey, just learned about this now. I haven't read through everything, but let me know if there's any context I can add Homebrew-wise. I'll dig through",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Functionality-wise, it's being used in river services (which he'll see in the demo later, although not directly unless you want me to highlight it)",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It worked!!! Thank you!!!\n\n```\u250f\u2501\u2501 \ud83d\udd27  2/4 Node",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Good morning! River services to-do list:\n\u2022 regex patterns\n\u2022 better cert handling\n\u2022 host on `127.0.0.1` instead of `shopify.root.world.dev.internal`\n\u2022",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> great, you can shutdown thanks!",
+          "channel": "rylan-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Can I pass off some of these PRs maybe?\n\u2022 <https://app.graphite.com/github/pr/shop/world/558651>\n\u2022",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!!",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "But let me know if you think otherwise!",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "so what do we gain from his PR aside from \"no more netx\", nginx itself can work on nixOS, right?\n\nOr is it just a stepping stone that's a 1:1 nginx",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think we'd need to perform the fallback within the task itself, otherwise it will just make the nix default be whatever value your `MYSQL_USER` is",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> let me clarify: in this case, pretend I'm seeing `DEV_PROJECT_SERVICE_IP` to `shopify.root.world.dev.internal`, even though that's not",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Credentials is the wrong word here tbh. What I'm trying to think through is enabling this:\n\nI can run `dev up --bare` and get environment variables",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> for the things that can't be nixified, could we still do the download/fetch/install in nix and then do whatever convergent steps are",
+          "channel": "rylan-river",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "As long as it's not already taken and is a `W-{6 digit hex}` format, I can pick whatever zone id I want, and can discard `tec zone create`'s right?",
+          "channel": "tectonix",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "gord.pearson",
+          "count": 12
+        },
+        {
+          "user": "selvi.arora",
+          "count": 6
+        },
+        {
+          "user": "burke.libbey",
+          "count": 6
+        },
+        {
+          "user": "ashley.williams",
+          "count": 4
+        },
+        {
+          "user": "lily.foster",
+          "count": 3
+        },
+        {
+          "user": "javier.moreno",
+          "count": 2
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 2
+        },
+        {
+          "user": "jacob.michels",
+          "count": 2
+        },
+        {
+          "user": "paulo.casaretto",
+          "count": 2
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.38,
+      "count": 152,
+      "top_channels": [
+        {
+          "channel": "proj-eng-convergence-lifecycle",
+          "messages": 371
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 140
+        },
+        {
+          "channel": "rylan-river",
+          "messages": 122
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 12
+        },
+        {
+          "channel": "river-infra",
+          "messages": 11
+        },
+        {
+          "channel": "tectonix",
+          "messages": 10
+        },
+        {
+          "channel": "inv-19976-google-auth-spam",
+          "messages": 5
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 3
+        },
+        {
+          "channel": "pit-stop",
+          "messages": 2
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "selvi.arora",
+          "count": 7
+        },
+        {
+          "user": "ashley.williams",
+          "count": 3
+        },
+        {
+          "user": "gord.pearson",
+          "count": 3
+        },
+        {
+          "user": "jacob.michels",
+          "count": 1
+        },
+        {
+          "user": "xiaodong.fan",
+          "count": 1
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        },
+        {
+          "user": "ani.tumanyan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 61,
+      "15": 75,
+      "21": 106,
+      "20": 82,
+      "19": 93,
+      "18": 85,
+      "17": 74,
+      "14": 65,
+      "13": 5,
+      "12": 1,
+      "0": 2,
+      "22": 25,
+      "23": 5,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 110,
+      "Tuesday": 185,
+      "Monday": 173,
+      "Friday": 116,
+      "Thursday": 96
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.52,
+    "dept_average_30d": 5.75,
+    "dept_rank": 198,
+    "dept_size": 357
+  }
+}

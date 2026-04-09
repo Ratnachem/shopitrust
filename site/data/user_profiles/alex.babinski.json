@@ -1,0 +1,304 @@
+{
+  "username": "alex.babinski",
+  "name": "Alex Babinski",
+  "generated_at": "2026-04-08T20:22:10.966897",
+  "summary": {
+    "message_count": 824,
+    "channels_active": 33,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 46,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "rooting for",
+          "text": "I was really rooting for `Reject Notice Not That Kind Of Reject I Promise It Didn't Reject Shopify Payments`",
+          "channel": "cti-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Haha, yeah, a bit annoying. Thanks!",
+          "channel": "trust-battery-ops",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey everyone! Not sure if anybody\u2019s around today, but here\u2019s a PR to add DABL scores to shop/ticket",
+          "channel": "help-commerce-trust-integrity",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats <@W018GAGDCVB>!!",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Thanks Igor, sorry about that",
+          "channel": "funds-flow-team-run-workstream",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah, cool, not sure why I\u2019m not looking at Graphite. Thanks!",
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok, that\u2019s deployed and I ran the DAG to update the view. <@W018HTB1DD1> let me know if anything crazy happens :yologorn:",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, thanks!\n\nIs the `stripe_score` that\u2019s selected in the sourcing query used anywhere else (like metadata)? Ideally I want to remove the raw",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "As long as the signal is registered, you can egress whatever you want (though I'm not sure what is/isn't advisable practice there)",
+          "channel": "proj-deceptive-commerce-detection",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It might mean that whatever of those 600k signals end up in the rate limited queue get lost. Not ideal for \u201creal\u201d signals we want to process, but",
+          "channel": "inv-21060-redis-memory-low",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "We\u2019ve been waiting for the DW modeling to get the dashboard updated. It turns out the upstream table from the one that powers the dashboard isn\u2019t",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yep, and you can use `fraud_proxy_deemed_at` (or whatever the column is) to put it in time historically",
+          "channel": "proj-fraud-adjustments-in-payback-reporting",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think I see why. Those payouts are from `shopify_collective_credit` transactions (whatever those are, they\u2019re not SP charges):\n```SELECT\n  *\nFROM",
+          "channel": "help-commerce-trust-integrity",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "jan.borchmann",
+          "count": 4
+        },
+        {
+          "user": "dikshant.sharma",
+          "count": 3
+        },
+        {
+          "user": "tony.kim",
+          "count": 3
+        },
+        {
+          "user": "simson.chiu",
+          "count": 3
+        },
+        {
+          "user": "mason.gionet",
+          "count": 3
+        },
+        {
+          "user": "david.greenslade",
+          "count": 3
+        },
+        {
+          "user": "patrick.whelan",
+          "count": 3
+        },
+        {
+          "user": "satoshi.miyauchi",
+          "count": 2
+        },
+        {
+          "user": "alexandre.sauve",
+          "count": 2
+        },
+        {
+          "user": "alex.carr",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.62,
+      "count": 323,
+      "top_channels": [
+        {
+          "channel": "apb-river-public",
+          "messages": 265
+        },
+        {
+          "channel": "merchant-fraud-risk-team",
+          "messages": 113
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 96
+        },
+        {
+          "channel": "inv-21060-redis-memory-low",
+          "messages": 46
+        },
+        {
+          "channel": "proj-fraud-adjustments-in-payback-reporting",
+          "messages": 43
+        },
+        {
+          "channel": "trust-battery-ops",
+          "messages": 36
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 34
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 34
+        },
+        {
+          "channel": "inv-20646-auto-reserve-workflow-incorrectly-lifts-p",
+          "messages": 29
+        },
+        {
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 122,
+      "top_mentioners": [
+        {
+          "user": "george.zanetti",
+          "count": 11
+        },
+        {
+          "user": "tony.kim",
+          "count": 10
+        },
+        {
+          "user": "jolie.demuth",
+          "count": 9
+        },
+        {
+          "user": "dikshant.sharma",
+          "count": 7
+        },
+        {
+          "user": "kate.studwell",
+          "count": 7
+        },
+        {
+          "user": "linda.tran",
+          "count": 5
+        },
+        {
+          "user": "patrick.whelan",
+          "count": 5
+        },
+        {
+          "user": "daniel.tamming",
+          "count": 5
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 5
+        },
+        {
+          "user": "mason.gionet",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 48,
+      "16": 79,
+      "15": 77,
+      "13": 113,
+      "21": 68,
+      "14": 92,
+      "22": 50,
+      "19": 69,
+      "12": 18,
+      "2": 23,
+      "1": 26,
+      "23": 18,
+      "20": 61,
+      "17": 37,
+      "11": 12,
+      "10": 5,
+      "9": 3,
+      "0": 18,
+      "3": 7
+    },
+    "by_day": {
+      "Wednesday": 245,
+      "Tuesday": 162,
+      "Monday": 110,
+      "Friday": 131,
+      "Thursday": 176
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.61,
+    "dept_average_30d": 5.39,
+    "dept_rank": 29,
+    "dept_size": 272
+  }
+}

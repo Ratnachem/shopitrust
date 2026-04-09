@@ -1,0 +1,274 @@
+{
+  "username": "pedro.baracho",
+  "name": "Pedro Baracho",
+  "generated_at": "2026-04-08T20:22:10.550648",
+  "summary": {
+    "message_count": 276,
+    "channels_active": 18,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "I'm happy to help you guys setup a test run.\n\nI think the biggest benefit would be to run through the process in a staging environment with you and",
+          "channel": "help-ris",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "pushed a commit to reduce the batch size in the same PR.\n<@U02DVNPR8TG> when you have a moment, if you can :gh-green: to drop the SOX Admin codeowner",
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks for the quick turn around Brian! I really appreciate it!",
+          "channel": "russbot-staging-2-alerts",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for looking into this <@W0182UQHYEB>\nI confirmed that the logs are showing now :raised_hands:",
+          "channel": "help-observability",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing! Thank you!",
+          "channel": "quick",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing! Thank you!",
+          "channel": "quick",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! :raised_hands:",
+          "channel": "russbot-mysql-hll",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<https://github.com/ShopifyFRS/russbot/pull/pb-fix-bookkeeping-purge-gameday-rule>\nmy bad <@U02GJ4K2U86>",
+          "channel": "russbot-operations",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey <@W018HNP4HGA> <@W018HUP2DBM> <@W0197HZL0FJ> <@W018PSNHN9J> :wave:\n\nThe tech design for the Shopify Payments Bookkeeping in the SOX Data",
+          "channel": "proj-sox-data-platform",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to use staging-1 tadhg!",
+          "channel": "russbot-staging-2-alerts",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "7 or 8am works for me. Whatever is best for you guys",
+          "channel": "help-ris",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "brian.warsing",
+          "count": 11
+        },
+        {
+          "user": "josh.varner",
+          "count": 8
+        },
+        {
+          "user": "jeremie.david",
+          "count": 6
+        },
+        {
+          "user": "amalia.gomez",
+          "count": 6
+        },
+        {
+          "user": "emanuele.vicentini",
+          "count": 4
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 3
+        },
+        {
+          "user": "shirley.selvan",
+          "count": 2
+        },
+        {
+          "user": "manuel.ocana",
+          "count": 2
+        },
+        {
+          "user": "saranya.manoharan",
+          "count": 1
+        },
+        {
+          "user": "shawn.boutilier",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.1,
+      "count": 243,
+      "top_channels": [
+        {
+          "channel": "russbot-mysql-hll",
+          "messages": 69
+        },
+        {
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "messages": 56
+        },
+        {
+          "channel": "russbot-operations",
+          "messages": 42
+        },
+        {
+          "channel": "help-ris",
+          "messages": 29
+        },
+        {
+          "channel": "proj-sox-data-platform",
+          "messages": 27
+        },
+        {
+          "channel": "help-russbot",
+          "messages": 15
+        },
+        {
+          "channel": "russbot-staging-2-alerts",
+          "messages": 14
+        },
+        {
+          "channel": "russbot-staging-1-alerts",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20755-estimated-revenue-shows-anomalous-drop-on",
+          "messages": 4
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "brian.warsing",
+          "count": 14
+        },
+        {
+          "user": "jeremie.david",
+          "count": 9
+        },
+        {
+          "user": "amalia.gomez",
+          "count": 4
+        },
+        {
+          "user": "josh.varner",
+          "count": 3
+        },
+        {
+          "user": "riley.shott",
+          "count": 2
+        },
+        {
+          "user": "shirley.selvan",
+          "count": 2
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 2
+        },
+        {
+          "user": "elio.hasrouni",
+          "count": 2
+        },
+        {
+          "user": "andrew.tubman",
+          "count": 2
+        },
+        {
+          "user": "shawn.boutilier",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 12,
+      "16": 44,
+      "15": 40,
+      "14": 12,
+      "23": 20,
+      "21": 20,
+      "20": 45,
+      "19": 24,
+      "17": 27,
+      "0": 12,
+      "22": 10,
+      "5": 2,
+      "6": 1,
+      "3": 3,
+      "13": 1,
+      "2": 2,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 56,
+      "Tuesday": 97,
+      "Thursday": 53,
+      "Monday": 39,
+      "Friday": 31
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 6.29,
+    "dept_average_30d": 4.35,
+    "dept_rank": 2,
+    "dept_size": 151
+  }
+}

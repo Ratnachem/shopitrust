@@ -1,0 +1,183 @@
+{
+  "username": "joey.yu",
+  "name": "Joey Yu",
+  "generated_at": "2026-04-08T20:22:20.861433",
+  "summary": {
+    "message_count": 184,
+    "channels_active": 9,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U070ABHJF4Y> :wave-frog: I just restored both dashboards that you mentioned here\n\nand here is the list of dashboards that were also impacted during",
+          "channel": "proj-observe-tidy",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":fyi: The new global search is re-enabled now, feel free to give it a try and lmk if anyone runs into any problems :frog-pray:",
+          "channel": "proj-observe-ai",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I spot checked a few (note that spot checking will actually invalidate the no view metric), so far they all looking pretty useless",
+          "channel": "proj-observe-tidy",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "ryan.woodworth",
+          "count": 6
+        },
+        {
+          "user": "adrian.prayogo",
+          "count": 4
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 2
+        },
+        {
+          "user": "erin.noepayne",
+          "count": 2
+        },
+        {
+          "user": "samuel.dufel",
+          "count": 1
+        },
+        {
+          "user": "owen.linton",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.71,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "proj-observe-tidy",
+          "messages": 63
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 53
+        },
+        {
+          "channel": "proj-observe-ai",
+          "messages": 52
+        },
+        {
+          "channel": "opencode-ai",
+          "messages": 10
+        },
+        {
+          "channel": "o11y-sre-collabs",
+          "messages": 2
+        },
+        {
+          "channel": "joey-test",
+          "messages": 1
+        },
+        {
+          "channel": "inc-20998-shipit-nothing-can-deploy-due-to-blocked",
+          "messages": 1
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 1
+        },
+        {
+          "channel": "inv-19296-e2e-tests-failing-frequently",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.33,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "erin.noepayne",
+          "count": 4
+        },
+        {
+          "user": "andy.fleming",
+          "count": 3
+        },
+        {
+          "user": "ryan.woodworth",
+          "count": 3
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 2
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 1
+        },
+        {
+          "user": "adrian.prayogo",
+          "count": 1
+        },
+        {
+          "user": "erik.polderman",
+          "count": 1
+        },
+        {
+          "user": "anagayan.ariaran",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 18,
+      "20": 22,
+      "19": 37,
+      "18": 27,
+      "17": 26,
+      "15": 28,
+      "14": 17,
+      "13": 4,
+      "23": 2,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 41,
+      "Tuesday": 42,
+      "Monday": 23,
+      "Thursday": 75,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.46,
+    "dept_average_30d": 5.75,
+    "dept_rank": 213,
+    "dept_size": 357
+  }
+}

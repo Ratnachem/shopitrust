@@ -1,0 +1,121 @@
+{
+  "username": "adam.bercier",
+  "name": "Adam Bercier",
+  "generated_at": "2026-04-08T20:22:27.735668",
+  "summary": {
+    "message_count": 32,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "gotcha, I will let them know now. Thank you!",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "oh sorry about that: yes that was the one",
+          "channel": "help-checkout-accounts-customizations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey! Thanks for looking into this.  Ill see if I can replicate, or that they can provide more info. Thanks!",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "trevor.feeney",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-checkout-accounts-customizations",
+          "messages": 11
+        },
+        {
+          "channel": "temp-flag-search",
+          "messages": 9
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 5
+        },
+        {
+          "channel": "help-exp",
+          "messages": 5
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "nabeel.ahsen",
+          "count": 1
+        },
+        {
+          "user": "nicholas.licalzi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "16": 6,
+      "15": 4,
+      "14": 1,
+      "13": 1,
+      "20": 3,
+      "22": 1,
+      "17": 9,
+      "21": 4,
+      "19": 2
+    },
+    "by_day": {
+      "Tuesday": 9,
+      "Monday": 14,
+      "Friday": 1,
+      "Wednesday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.58,
+    "dept_average_30d": 4.09,
+    "dept_rank": 441,
+    "dept_size": 642
+  }
+}

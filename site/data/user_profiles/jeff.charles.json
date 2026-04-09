@@ -1,0 +1,156 @@
+{
+  "username": "jeff.charles",
+  "name": "Jeff Charles",
+  "generated_at": "2026-04-08T20:22:21.326842",
+  "summary": {
+    "message_count": 107,
+    "channels_active": 10,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 2,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "That did the trick! I think what happened is, the install initially failed because I don't have a default NPM environment setup for whatever reason.",
+          "channel": "shop-pi-fy",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'll let <@W018WAB5GAV> speak to any possible exemptions for the April 15th deadline. That said, Shopify Scripts will cease working entirely after",
+          "channel": "help-shopify-scripts",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "david.cameron",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.73,
+      "count": 72,
+      "top_channels": [
+        {
+          "channel": "proj-shopifyvm-onbox",
+          "messages": 40
+        },
+        {
+          "channel": "inv-21223-wasmtime-critical-security-vulnerability-",
+          "messages": 23
+        },
+        {
+          "channel": "shopifyvm-platform-ops",
+          "messages": 21
+        },
+        {
+          "channel": "shop-pi-fy",
+          "messages": 7
+        },
+        {
+          "channel": "inv-19996-runtimeenginecputhrottlinginuscentral1",
+          "messages": 5
+        },
+        {
+          "channel": "spotifyvm",
+          "messages": 3
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 3
+        },
+        {
+          "channel": "help-shopify-scripts",
+          "messages": 3
+        },
+        {
+          "channel": "rustaceans",
+          "messages": 1
+        },
+        {
+          "channel": "pi",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "david.cameron",
+          "count": 8
+        },
+        {
+          "user": "frank.brannigan",
+          "count": 4
+        },
+        {
+          "user": "christopher.butcher",
+          "count": 1
+        },
+        {
+          "user": "ziyad.abdelmaguid",
+          "count": 1
+        },
+        {
+          "user": "adam.petro",
+          "count": 1
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 1
+        },
+        {
+          "user": "michael.cooney",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 9,
+      "15": 9,
+      "14": 18,
+      "23": 2,
+      "21": 18,
+      "18": 10,
+      "17": 10,
+      "20": 14,
+      "19": 14,
+      "13": 1,
+      "22": 2
+    },
+    "by_day": {
+      "Wednesday": 26,
+      "Tuesday": 48,
+      "Monday": 17,
+      "Friday": 5,
+      "Thursday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.92,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1029,
+    "dept_size": 1233
+  }
+}

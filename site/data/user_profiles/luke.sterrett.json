@@ -1,0 +1,233 @@
+{
+  "username": "luke.sterrett",
+  "name": "Luke Sterrett",
+  "generated_at": "2026-04-08T20:22:26.543624",
+  "summary": {
+    "message_count": 210,
+    "channels_active": 13,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "gotcha, thanks!",
+          "channel": "ui-extensions-api-releases",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! rerunning the jobs in ui-extensions seems to be working this morning. Much easier than doing the copying manually :sweat_smile:",
+          "channel": "ui-extensions-api-releases",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sweet, thanks! wasn't aware of that. Will look into that and reach back out for PR review",
+          "channel": "checkout-web-foundations",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Iain for joining in and letting us know about your successful retry attempts and new root cause! :raised_hands:\n\nThanks Wolfgang for",
+          "channel": "inv-16996-truncated-assets",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Realizing today that I had outdated info. Sorry about that!\n\nIt looks like we intentionally don't document the entire `ui` field from the customer",
+          "channel": "help-checkout-accounts-customizations",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The script being `prepare-package-release.sh`?\n\nIf you run the script targeting 2026-07-rc like this `scripts/prepare-package-release.sh 2026-07-rc`",
+          "channel": "proj-devtools-ui-extensions-docs",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "james.vidler",
+          "count": 5
+        },
+        {
+          "user": "chris.peddecord",
+          "count": 4
+        },
+        {
+          "user": "rick.caplan",
+          "count": 3
+        },
+        {
+          "user": "justin.henricks",
+          "count": 2
+        },
+        {
+          "user": "kumar.mcmillan",
+          "count": 2
+        },
+        {
+          "user": "denis.lins",
+          "count": 1
+        },
+        {
+          "user": "dave.nagoda",
+          "count": 1
+        },
+        {
+          "user": "jonathan.hamel",
+          "count": 1
+        },
+        {
+          "user": "aaron.schubert",
+          "count": 1
+        },
+        {
+          "user": "ren.chaturvedi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.58,
+      "count": 121,
+      "top_channels": [
+        {
+          "channel": "1p-app-checkout-blocks-rnd",
+          "messages": 52
+        },
+        {
+          "channel": "customizations-river",
+          "messages": 47
+        },
+        {
+          "channel": "customizations-production-support",
+          "messages": 37
+        },
+        {
+          "channel": "customizations-rnd",
+          "messages": 20
+        },
+        {
+          "channel": "ui-extensions-api-releases",
+          "messages": 17
+        },
+        {
+          "channel": "inv-16996-truncated-assets",
+          "messages": 8
+        },
+        {
+          "channel": "proj-checkout-extensibility-remote-dom",
+          "messages": 8
+        },
+        {
+          "channel": "devtools-proj-templated-refs",
+          "messages": 6
+        },
+        {
+          "channel": "help-checkout-accounts-customizations",
+          "messages": 5
+        },
+        {
+          "channel": "proj-devtools-ui-extensions-docs",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "robin.drexler",
+          "count": 11
+        },
+        {
+          "user": "ren.chaturvedi",
+          "count": 5
+        },
+        {
+          "user": "chris.peddecord",
+          "count": 4
+        },
+        {
+          "user": "rick.caplan",
+          "count": 2
+        },
+        {
+          "user": "john.persano",
+          "count": 2
+        },
+        {
+          "user": "rangi.arambewela",
+          "count": 2
+        },
+        {
+          "user": "justin.henricks",
+          "count": 2
+        },
+        {
+          "user": "wolfgang.nagele",
+          "count": 2
+        },
+        {
+          "user": "milena.kazarinova",
+          "count": 1
+        },
+        {
+          "user": "stephanie.ordaz",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 1,
+      "21": 4,
+      "20": 30,
+      "13": 22,
+      "19": 47,
+      "15": 15,
+      "14": 29,
+      "18": 27,
+      "17": 23,
+      "16": 11,
+      "2": 1
+    },
+    "by_day": {
+      "Tuesday": 9,
+      "Monday": 21,
+      "Friday": 40,
+      "Thursday": 83,
+      "Wednesday": 57
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.19,
+    "dept_average_30d": 5.79,
+    "dept_rank": 930,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "username": "michael.do",
+  "name": "Michael Do",
+  "generated_at": "2026-04-08T20:22:31.418145",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Special place, special people. Thank you for all the kind messages :green_heart:",
+          "channel": "se-ocial-engineering",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. We\u2019ll let them know that they can launch with legacy customer accounts and ensure they are executing on their transition plan.",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "ryan.snape",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.31,
+      "count": 61,
+      "top_channels": [
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 2
+        },
+        {
+          "channel": "se-ocial-engineering",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "riley.guzman",
+          "count": 2
+        },
+        {
+          "user": "shana.yogan",
+          "count": 1
+        },
+        {
+          "user": "dan.srabotnjak",
+          "count": 1
+        },
+        {
+          "user": "alex.beeson",
+          "count": 1
+        },
+        {
+          "user": "andrew.eastridge",
+          "count": 1
+        },
+        {
+          "user": "jes.lopez",
+          "count": 1
+        },
+        {
+          "user": "dana.linnes",
+          "count": 1
+        },
+        {
+          "user": "lizzie.anthony",
+          "count": 1
+        },
+        {
+          "user": "david.oladejo",
+          "count": 1
+        },
+        {
+          "user": "salim.odero",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 1,
+      "21": 2
+    },
+    "by_day": {
+      "Tuesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.71,
+    "dept_average_30d": 4.32,
+    "dept_rank": 232,
+    "dept_size": 848
+  }
+}

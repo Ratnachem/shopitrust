@@ -1,0 +1,233 @@
+{
+  "username": "ryan.ferguson",
+  "name": "Ryan Ferguson",
+  "generated_at": "2026-04-08T20:22:09.784101",
+  "summary": {
+    "message_count": 471,
+    "channels_active": 9,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome!  Thanks!",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "ads-campaigns-engine-ops",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing job! Lot of work.\n\nI think the only real blocking things for me are on 1804, `TacticDeploymentService#detect_drift` needs to be corrected. ",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "just anything to identify the job or whatever",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "but i guess you would need to coordinate when they run the migration or else you might have to wait a while to re-enable",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "yunsheng.qi",
+          "count": 10
+        },
+        {
+          "user": "jacky.cai",
+          "count": 6
+        },
+        {
+          "user": "tiffany.shi",
+          "count": 6
+        },
+        {
+          "user": "leo.shen",
+          "count": 5
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 4
+        },
+        {
+          "user": "nathan.wenneker",
+          "count": 3
+        },
+        {
+          "user": "greg.yang",
+          "count": 2
+        },
+        {
+          "user": "joel.dmello",
+          "count": 2
+        },
+        {
+          "user": "thaksha.mangaleswaran",
+          "count": 2
+        },
+        {
+          "user": "wuang.qin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.2,
+      "count": 111,
+      "top_channels": [
+        {
+          "channel": "proj-3p-automation-autopilot",
+          "messages": 254
+        },
+        {
+          "channel": "ad-network-connectivity-ops",
+          "messages": 57
+        },
+        {
+          "channel": "proj-autopilot",
+          "messages": 54
+        },
+        {
+          "channel": "mm-ads-channels",
+          "messages": 50
+        },
+        {
+          "channel": "ads-campaigns-engine-ops",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20905-yugabyte-node-cpu-usage--95-for-10min",
+          "messages": 17
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 4
+        },
+        {
+          "channel": "audiences-ops",
+          "messages": 1
+        },
+        {
+          "channel": "inv-20722-queries-to-adsanccatalogoperations-causin",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "yunsheng.qi",
+          "count": 10
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 9
+        },
+        {
+          "user": "leo.shen",
+          "count": 8
+        },
+        {
+          "user": "joel.dmello",
+          "count": 6
+        },
+        {
+          "user": "jacky.cai",
+          "count": 6
+        },
+        {
+          "user": "bheeshmar.redheendran",
+          "count": 6
+        },
+        {
+          "user": "wuang.qin",
+          "count": 4
+        },
+        {
+          "user": "shuo.chen",
+          "count": 4
+        },
+        {
+          "user": "tiffany.shi",
+          "count": 4
+        },
+        {
+          "user": "enrique.collazo",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 41,
+      "17": 69,
+      "14": 47,
+      "19": 40,
+      "12": 18,
+      "13": 52,
+      "21": 25,
+      "20": 69,
+      "16": 35,
+      "15": 51,
+      "6": 5,
+      "0": 7,
+      "1": 5,
+      "23": 6,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 118,
+      "Tuesday": 132,
+      "Monday": 34,
+      "Friday": 70,
+      "Thursday": 117
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.97,
+    "dept_average_30d": 5.77,
+    "dept_rank": 318,
+    "dept_size": 885
+  }
+}

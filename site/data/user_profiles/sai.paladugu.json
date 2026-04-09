@@ -1,0 +1,127 @@
+{
+  "username": "sai.paladugu",
+  "name": "Sai Paladugu",
+  "generated_at": "2026-04-08T20:22:30.000710",
+  "summary": {
+    "message_count": 28,
+    "channels_active": 5,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 3,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "hey <@U03SXG7KK7U> my bad, the default for my value model dag is set to mm-ml-ops i forgot to override to staging. ill also fix the formatting! not",
+          "channel": "mm-ml-ops",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.49,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "louisphilippe.thibault",
+          "count": 7
+        },
+        {
+          "user": "karab.sze",
+          "count": 5
+        },
+        {
+          "user": "man.chen",
+          "count": 1
+        },
+        {
+          "user": "soroush.mirzaei",
+          "count": 1
+        },
+        {
+          "user": "giselle.cardinal",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.28,
+      "count": 79,
+      "top_channels": [
+        {
+          "channel": "mm-ml-ops",
+          "messages": 24
+        },
+        {
+          "channel": "claude-code",
+          "messages": 1
+        },
+        {
+          "channel": "proj-mm-3p-rtb-model",
+          "messages": 1
+        },
+        {
+          "channel": "intern-everyone",
+          "messages": 1
+        },
+        {
+          "channel": "proj-3p-rtb",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.28,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "karab.sze",
+          "count": 7
+        },
+        {
+          "user": "louisphilippe.th-5260",
+          "count": 2
+        },
+        {
+          "user": "giselle.cardinal",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 2,
+      "20": 10,
+      "19": 6,
+      "14": 1,
+      "22": 1,
+      "17": 1,
+      "18": 4,
+      "16": 2,
+      "21": 1
+    },
+    "by_day": {
+      "Friday": 6,
+      "Thursday": 11,
+      "Monday": 9,
+      "Tuesday": 1,
+      "Wednesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.81,
+    "dept_average_30d": 4.74,
+    "dept_rank": 649,
+    "dept_size": 1663
+  }
+}

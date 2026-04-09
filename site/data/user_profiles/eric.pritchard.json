@@ -1,0 +1,121 @@
+{
+  "username": "eric.pritchard",
+  "name": "Eric Pritchard",
+  "generated_at": "2026-04-08T20:22:19.383811",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Happy to hear that, Arian, thanks!",
+          "channel": "help-capital-engineering",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for that info, Olivier :slightly_smiling_face:",
+          "channel": "help-capital-engineering",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey TL, sorry about that! I escalated it now, but it kept me as assigned. I unassigned now and it's in the pending state",
+          "channel": "bankruptcies-insolvencies",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "michael.roberts",
+          "count": 2
+        },
+        {
+          "user": "arian.taherzadeh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.94,
+      "count": 104,
+      "top_channels": [
+        {
+          "channel": "help-capital-engineering",
+          "messages": 9
+        },
+        {
+          "channel": "help-lending-engineering",
+          "messages": 4
+        },
+        {
+          "channel": "bankruptcies-insolvencies",
+          "messages": 2
+        },
+        {
+          "channel": "cti-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "gustavo.maloste",
+          "count": 1
+        },
+        {
+          "user": "arian.taherzadeh",
+          "count": 1
+        },
+        {
+          "user": "terrilynn.soroka",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "14": 3,
+      "15": 4,
+      "18": 3,
+      "12": 1,
+      "19": 3
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Monday": 6,
+      "Thursday": 3,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 3.94,
+    "dept_average_30d": 4.89,
+    "dept_rank": 181,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "username": "jason.hoos",
+  "name": "Jason Hoos",
+  "generated_at": "2026-04-08T20:22:28.389661",
+  "summary": {
+    "message_count": 429,
+    "channels_active": 18,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I see the cardsink one is merged, want me to deploy? are you available for monitoring (not that anything should go wrong)?  likewise <@U07HPRV97M1>",
+          "channel": "help-ris",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "as far as I understand it, once we have the encrypted shards or key or whatever from the TMD, then we can leave the secure room with it to go to a",
+          "channel": "proj-infra-card-present-hsm",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Rest looks fine at a glance at least. I\u2019m not by a computer to determine if anything is missing since I\u2019m PTO. And Riley is on a plane right now",
+          "channel": "proj-infra-card-present-hsm",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Is there an option we could take with per-store provider configuration, or does that sort of thing not apply to POS? I\u2019m probably not describing what",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "FYI\u2026 I don\u2019t know if it was a result of the Fleet transition or whatever \u201cbackground security update\u201d my laptop installed last night, as I did both",
+          "channel": "help-it",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "(or migrate kafkabuddy to system-controllers, or whatever the preferred direction is this week? :shrug:)",
+          "channel": "help-lending-engineering",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Honestly I kinda wonder, given that it sounds like the KLDs are generally offline devices that just take data in, reencrypt it to a key the HSM",
+          "channel": "card-present-payment-gateway-central",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Not really. Our primary concern at this point either way is how we deal with the key-loading ceremonies. An open question for today is how much of",
+          "channel": "card-present-payment-gateway-central",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "riley.shott",
+          "count": 3
+        },
+        {
+          "user": "amir.pourafshar",
+          "count": 2
+        },
+        {
+          "user": "mojan.jamalzadeh",
+          "count": 2
+        },
+        {
+          "user": "reid.vanmelle",
+          "count": 2
+        },
+        {
+          "user": "emanuele.vicentini",
+          "count": 2
+        },
+        {
+          "user": "anas.shahid",
+          "count": 2
+        },
+        {
+          "user": "owen.cummings",
+          "count": 1
+        },
+        {
+          "user": "chris.lafrance",
+          "count": 1
+        },
+        {
+          "user": "kabir.jain",
+          "count": 1
+        },
+        {
+          "user": "antoine.merciernicol",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.76,
+      "count": 225,
+      "top_channels": [
+        {
+          "channel": "help-ris",
+          "messages": 187
+        },
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 53
+        },
+        {
+          "channel": "card-present-payment-gateway-central",
+          "messages": 53
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 25
+        },
+        {
+          "channel": "help-security",
+          "messages": 24
+        },
+        {
+          "channel": "proj-infra-card-present-hsm",
+          "messages": 19
+        },
+        {
+          "channel": "cardserver-operations",
+          "messages": 15
+        },
+        {
+          "channel": "proj-payments-card-present-emv",
+          "messages": 13
+        },
+        {
+          "channel": "si-2520-axios",
+          "messages": 12
+        },
+        {
+          "channel": "proj-infra-gke-ledger-cluster",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "amir.pourafshar",
+          "count": 6
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 6
+        },
+        {
+          "user": "riley.shott",
+          "count": 5
+        },
+        {
+          "user": "brian.warsing",
+          "count": 4
+        },
+        {
+          "user": "brandon.horn",
+          "count": 4
+        },
+        {
+          "user": "anas.shahid",
+          "count": 3
+        },
+        {
+          "user": "noel.padavan",
+          "count": 3
+        },
+        {
+          "user": "angie.elmamlouk",
+          "count": 3
+        },
+        {
+          "user": "shamsa",
+          "count": 2
+        },
+        {
+          "user": "pablo.rocco",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 24,
+      "13": 3,
+      "12": 1,
+      "21": 36,
+      "20": 41,
+      "19": 60,
+      "17": 69,
+      "18": 63,
+      "16": 42,
+      "15": 50,
+      "3": 1,
+      "22": 31,
+      "23": 2,
+      "4": 1,
+      "1": 1,
+      "0": 4
+    },
+    "by_day": {
+      "Tuesday": 112,
+      "Monday": 80,
+      "Thursday": 101,
+      "Wednesday": 128,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.31,
+    "dept_average_30d": 5.75,
+    "dept_rank": 84,
+    "dept_size": 357
+  }
+}

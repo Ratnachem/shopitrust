@@ -1,0 +1,188 @@
+{
+  "username": "trang.vu",
+  "name": "Trang Vu",
+  "generated_at": "2026-04-08T20:22:20.061335",
+  "summary": {
+    "message_count": 67,
+    "channels_active": 6,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No worries Jane and thank you for the instructions!!",
+          "channel": "proj-pos-app-fast-pos-checkout",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help with that!",
+          "channel": "proj-pos-app-fast-pos-checkout",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your clarification <@U037SGBTGEQ>, we will keep the legacy flow as it is now!",
+          "channel": "retail-mx-orders",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for reviewing my PR! Yes for the `maxPrice`, it was destined to show the total line item price (on old add custom discount UX) when one of",
+          "channel": "proj-pos-custom-discount-allocation-each",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team :wave-2:\nI\u2019m from Retail Merchandising. As part of the custom discount",
+          "channel": "retail-mx-orders",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0201ASFSCC> Thank you for the context!\nDo you think I should still drop the message to the R&E team hmm <@U03K12286DQ>",
+          "channel": "proj-pos-custom-discount-allocation-each",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U03K12286DQ> Yes, closing the issue sounds good to me. Thank you for looking into this ticket!",
+          "channel": "retail-mx-merchandising",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> how to trigger this case on UI\n*2. `numberOfLines` override mutates wrong label for bundles* (`useFormatDisplayItem.ts`)\nThe guard",
+          "channel": "hd39-navi-pos",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "jiri.crispeyn",
+          "count": 5
+        },
+        {
+          "user": "alejandra.temprana",
+          "count": 3
+        },
+        {
+          "user": "jane.zhu",
+          "count": 1
+        },
+        {
+          "user": "ayman.salloom",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.22,
+      "count": 85,
+      "top_channels": [
+        {
+          "channel": "hd39-navi-pos",
+          "messages": 42
+        },
+        {
+          "channel": "proj-pos-custom-discount-allocation-each",
+          "messages": 18
+        },
+        {
+          "channel": "proj-pos-app-fast-pos-checkout",
+          "messages": 3
+        },
+        {
+          "channel": "retail-mx-orders",
+          "messages": 2
+        },
+        {
+          "channel": "proj-improve-pos-app-architecture",
+          "messages": 1
+        },
+        {
+          "channel": "retail-mx-merchandising",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.88,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "eugene.havrylov",
+          "count": 4
+        },
+        {
+          "user": "jane.zhu",
+          "count": 2
+        },
+        {
+          "user": "emma.clay",
+          "count": 1
+        },
+        {
+          "user": "jiri.crispeyn",
+          "count": 1
+        },
+        {
+          "user": "leo.kaliazine",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 14,
+      "15": 10,
+      "20": 8,
+      "14": 6,
+      "19": 7,
+      "18": 6,
+      "4": 2,
+      "13": 5,
+      "21": 1,
+      "17": 6,
+      "2": 1,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Tuesday": 20,
+      "Monday": 3,
+      "Friday": 9,
+      "Thursday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.54,
+    "dept_average_30d": 5.77,
+    "dept_rank": 817,
+    "dept_size": 885
+  }
+}

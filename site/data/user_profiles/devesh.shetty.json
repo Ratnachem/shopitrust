@@ -1,0 +1,183 @@
+{
+  "username": "devesh.shetty",
+  "name": "Devesh Shetty",
+  "generated_at": "2026-04-08T20:22:21.873092",
+  "summary": {
+    "message_count": 96,
+    "channels_active": 11,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "checkout-carts-errors",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "How did you come across this <@W018HT89ENP>\nbig drop\n&gt;  *March 26: 2026 Topps Series 1 Celebration Mega Boxes* \u2014 The 2026 Topps Series 1",
+          "channel": "proj-cart-throttle-improvements",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "> The metric `StorefrontAPI_cart_cart_next_to_checkout` exists and is active, but the alert filters on `response_status=\"400\"` which is never",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations both :tada-1:",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "devon.meunier",
+          "count": 2
+        },
+        {
+          "user": "gabriel.queiroz",
+          "count": 2
+        },
+        {
+          "user": "niko.rutherford",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.12,
+      "count": 191,
+      "top_channels": [
+        {
+          "channel": "proj-cart-throttle-improvements",
+          "messages": 51
+        },
+        {
+          "channel": "checkout-carts-operations",
+          "messages": 12
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 9
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 6
+        },
+        {
+          "channel": "checkout-carts-team",
+          "messages": 5
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 4
+        },
+        {
+          "channel": "proj-universal-commerce-protocol",
+          "messages": 2
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 2
+        },
+        {
+          "channel": "inc-20186-multipass-errors-elevated",
+          "messages": 2
+        },
+        {
+          "channel": "checkout-carts-production-support",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.96,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "gabriel.queiroz",
+          "count": 10
+        },
+        {
+          "user": "niko.rutherford",
+          "count": 2
+        },
+        {
+          "user": "louis.vancraen",
+          "count": 2
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 1
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 1
+        },
+        {
+          "user": "laurent.dang",
+          "count": 1
+        },
+        {
+          "user": "james.vidler",
+          "count": 1
+        },
+        {
+          "user": "willow.cheng",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 10,
+      "14": 10,
+      "13": 4,
+      "12": 10,
+      "11": 9,
+      "9": 7,
+      "8": 12,
+      "6": 4,
+      "4": 1,
+      "10": 13,
+      "7": 15,
+      "5": 1
+    },
+    "by_day": {
+      "Wednesday": 53,
+      "Tuesday": 5,
+      "Thursday": 27,
+      "Monday": 4,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.36,
+    "dept_average_30d": 5.79,
+    "dept_rank": 824,
+    "dept_size": 1233
+  }
+}

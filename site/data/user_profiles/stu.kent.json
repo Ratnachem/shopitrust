@@ -1,0 +1,100 @@
+{
+  "username": "stu.kent",
+  "name": "Stu Kent",
+  "generated_at": "2026-04-08T20:22:28.730248",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, just looking to check why a buyer didn't get their advertised Shop Offer on an order, as all my toolings points to it being billable:\n\u2022",
+          "channel": "help-shop-campaigns",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, I'm having difficulty seeing why a Shop Offer wasn't issued for a purchase and was hoping you could",
+          "channel": "help-shop-campaigns",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I have a buyer whose $55 off exclusive offers seems to be removing from cart &gt; checkout. I suspect it may be linked to",
+          "channel": "help-shop-campaigns",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 3.45,
+      "count": 91,
+      "top_channels": [
+        {
+          "channel": "help-shop-campaigns",
+          "messages": 8
+        },
+        {
+          "channel": "help-shop-cash",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "chris.wang",
+          "count": 1
+        },
+        {
+          "user": "brendan.soffientini",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 1,
+      "9": 2,
+      "7": 1,
+      "13": 2,
+      "5": 1,
+      "10": 3
+    },
+    "by_day": {
+      "Tuesday": 3,
+      "Friday": 2,
+      "Wednesday": 1,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.27,
+    "dept_average_30d": 4.09,
+    "dept_rank": 553,
+    "dept_size": 642
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "username": "diego.ardila",
+  "name": "Diego Ardila",
+  "generated_at": "2026-04-08T20:22:18.059925",
+  "summary": {
+    "message_count": 211,
+    "channels_active": 27,
+    "unique_people_mentioned": 43,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "And thank you!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad. Always make this mistake. Sorry for that",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it. Very helpful context. Thanks!",
+          "channel": "proj-sidekick-pulse-integrations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U07AES023FB> this is amazing :tada:.\n\nA question more for the folks with context on the buyer-side, what kind of eval would make us feel",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to all!\n\nAs for: the Remote Explorer. Is this a nice-to-have or is it critical to your workflow?\n\nIt is quite important for me, but not sure",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; Yes, we have a request to raise it to 1 PB. Hope to move forward with that very quickly. Waiting on Nebius to respond with pricing\nThat sounds",
+          "channel": "ml-infrastructure-users",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-app-store",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! curious if you get something different. Also, how long is it taking for you to train the 1B/8B model?",
+          "channel": "hstu-team",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 45,
+      "top_mentioned": [
+        {
+          "user": "ryan.kang",
+          "count": 7
+        },
+        {
+          "user": "tom.rochette",
+          "count": 6
+        },
+        {
+          "user": "connor.mckay",
+          "count": 6
+        },
+        {
+          "user": "michael.w.hsu",
+          "count": 5
+        },
+        {
+          "user": "anton.dereventsov",
+          "count": 5
+        },
+        {
+          "user": "octav.druta",
+          "count": 4
+        },
+        {
+          "user": "kurt.peters",
+          "count": 4
+        },
+        {
+          "user": "zhong.wu",
+          "count": 3
+        },
+        {
+          "user": "jordan.pereira",
+          "count": 3
+        },
+        {
+          "user": "adrien.biarnes",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.6,
+      "count": 375,
+      "top_channels": [
+        {
+          "channel": "proj-sidekick-pulse-integrations",
+          "messages": 38
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 26
+        },
+        {
+          "channel": "proj-hstu-personalization-engine",
+          "messages": 25
+        },
+        {
+          "channel": "diego-ardila-river",
+          "messages": 19
+        },
+        {
+          "channel": "proj-davies-gpu-control-plane",
+          "messages": 17
+        },
+        {
+          "channel": "tmp-ml-training-migration",
+          "messages": 15
+        },
+        {
+          "channel": "help-admin-home",
+          "messages": 10
+        },
+        {
+          "channel": "ml-infrastructure-users",
+          "messages": 9
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 7
+        },
+        {
+          "channel": "proj-sidekick-hstu-pulse",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.48,
+      "count": 67,
+      "top_mentioners": [
+        {
+          "user": "octav.druta",
+          "count": 9
+        },
+        {
+          "user": "david.park",
+          "count": 6
+        },
+        {
+          "user": "connor.mckay",
+          "count": 5
+        },
+        {
+          "user": "tom.rochette",
+          "count": 5
+        },
+        {
+          "user": "mike.richards",
+          "count": 4
+        },
+        {
+          "user": "austin.rothwell",
+          "count": 3
+        },
+        {
+          "user": "ethan.bates",
+          "count": 3
+        },
+        {
+          "user": "anton.dereventsov",
+          "count": 3
+        },
+        {
+          "user": "ryan.kang",
+          "count": 3
+        },
+        {
+          "user": "breno.limadefreitas",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 27,
+      "21": 12,
+      "18": 16,
+      "16": 25,
+      "15": 23,
+      "19": 10,
+      "14": 12,
+      "11": 5,
+      "1": 9,
+      "20": 10,
+      "13": 22,
+      "12": 3,
+      "22": 10,
+      "3": 5,
+      "2": 14,
+      "0": 3,
+      "10": 3,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 65,
+      "Tuesday": 71,
+      "Monday": 20,
+      "Friday": 27,
+      "Thursday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.98,
+    "dept_average_30d": 5.58,
+    "dept_rank": 13,
+    "dept_size": 398
+  }
+}

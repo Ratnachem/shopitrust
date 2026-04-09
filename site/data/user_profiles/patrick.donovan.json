@@ -1,0 +1,174 @@
+{
+  "username": "patrick.donovan",
+  "name": "Patrick Donovan",
+  "generated_at": "2026-04-08T20:22:24.378178",
+  "summary": {
+    "message_count": 131,
+    "channels_active": 4,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<https://github.com/shop/world/pull/580495>\n\ntest shows a bunch of existing failures. curious whether the owners want me to add them as exceptions",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "PSA: the QE connector supports column-aware filtering of change notifications via `columns.<tableName>` config \u2014 when set, it only executes the QE",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "actually - now that the `dev deploy staging-x` commands are gone I'm not sure if you can use your claimed staging to get a build going without",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "which team? what are our primary key requirements of them? I am surprised that a fast lane would require a primary key change beyond whatever",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "susie.lee",
+          "count": 2
+        },
+        {
+          "user": "lyne.champagne",
+          "count": 1
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 1
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        },
+        {
+          "user": "ryan.crumley",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 100
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 19
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 6
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.96,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "trideep.roy",
+          "count": 6
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 3
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 2
+        },
+        {
+          "user": "steven.lee",
+          "count": 2
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 1
+        },
+        {
+          "user": "vinay.shah",
+          "count": 1
+        },
+        {
+          "user": "lyne.champagne",
+          "count": 1
+        },
+        {
+          "user": "jesse.tao",
+          "count": 1
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 1
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 2,
+      "21": 21,
+      "20": 29,
+      "19": 16,
+      "15": 14,
+      "16": 8,
+      "17": 6,
+      "14": 17,
+      "22": 16,
+      "18": 2
+    },
+    "by_day": {
+      "Wednesday": 42,
+      "Tuesday": 26,
+      "Monday": 6,
+      "Friday": 24,
+      "Thursday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.87,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1049,
+    "dept_size": 1233
+  }
+}

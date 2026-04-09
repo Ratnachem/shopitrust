@@ -1,0 +1,123 @@
+{
+  "username": "jared.tredly",
+  "name": "Jared Tredly",
+  "generated_at": "2026-04-08T20:22:30.597988",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 6,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Incredible work - thank you PDS so much!",
+          "channel": "design-livestream",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "evan.stewart",
+          "count": 1
+        },
+        {
+          "user": "kjell.reigstad",
+          "count": 1
+        },
+        {
+          "user": "jon.lopkin",
+          "count": 1
+        },
+        {
+          "user": "cam.mcnab",
+          "count": 1
+        },
+        {
+          "user": "arnaud.tanielian",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.92,
+      "count": 130,
+      "top_channels": [
+        {
+          "channel": "dev-environment-setup",
+          "messages": 7
+        },
+        {
+          "channel": "design-livestream",
+          "messages": 6
+        },
+        {
+          "channel": "temp-river-ta-playground",
+          "messages": 2
+        },
+        {
+          "channel": "design-talk",
+          "messages": 2
+        },
+        {
+          "channel": "creative-talk",
+          "messages": 2
+        },
+        {
+          "channel": "retail-design",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "jason.huff",
+          "count": 3
+        },
+        {
+          "user": "cam.mcnab",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 9,
+      "13": 3,
+      "20": 2,
+      "19": 1,
+      "18": 1,
+      "11": 1,
+      "1": 1,
+      "14": 2
+    },
+    "by_day": {
+      "Thursday": 5,
+      "Friday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 4.18,
+    "dept_average_30d": 4.13,
+    "dept_rank": 22,
+    "dept_size": 64
+  }
+}

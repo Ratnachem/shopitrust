@@ -1,0 +1,112 @@
+{
+  "username": "katie.slater",
+  "name": "Katie Slater",
+  "generated_at": "2026-04-08T20:22:28.735503",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 2,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U027BJWQ6HH> i pushed a fix to address a start date issue. your view is fixed on my end but let me know if you have any issues",
+          "channel": "help-people-data",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Or once you have explored the HC Tracker, please let me know if there is something missing from it that you use in the New Hires dash",
+          "channel": "help-people-data",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "amanda.nye",
+          "count": 2
+        },
+        {
+          "user": "eugenia.sawa",
+          "count": 2
+        },
+        {
+          "user": "ross.diener",
+          "count": 2
+        },
+        {
+          "user": "kaylee.shackleton",
+          "count": 1
+        },
+        {
+          "user": "andrew.park",
+          "count": 1
+        },
+        {
+          "user": "sarah.t.scott",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.02,
+      "count": 27,
+      "top_channels": [
+        {
+          "channel": "help-people-data",
+          "messages": 8
+        },
+        {
+          "channel": "blue-jays-beat-the-dodgers",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "eugenia.sawa",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 1,
+      "20": 2,
+      "22": 1,
+      "18": 5
+    },
+    "by_day": {
+      "Tuesday": 1,
+      "Thursday": 2,
+      "Monday": 1,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 4.8,
+    "dept_average_30d": 4.13,
+    "dept_rank": 10,
+    "dept_size": 64
+  }
+}

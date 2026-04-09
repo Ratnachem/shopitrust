@@ -1,0 +1,133 @@
+{
+  "username": "sean.putman",
+  "name": "Sean Putman",
+  "generated_at": "2026-04-08T20:22:32.136058",
+  "summary": {
+    "message_count": 14,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "HI all! Thanks to all who have provided feedback on the experience. We have added a few new features based on your feedback.\n1. We have added a Save",
+          "channel": "temp-enablement-hub-pilot",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "OK thanks!",
+          "channel": "quick",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0634UW6WF5> Thank you for testing this. Can you try on <https://sean-pilot.quick.shopify.io/> again when you have a minute. If still open do a",
+          "channel": "temp-enablement-hub-pilot",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect thank you! I will parse through this and see if it causing the issue. I can see the metrics in the backend.",
+          "channel": "temp-enablement-hub-pilot",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "leena.dileonardo",
+          "count": 2
+        },
+        {
+          "user": "reel.quiroz",
+          "count": 1
+        },
+        {
+          "user": "kaitlin.colvin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.57,
+      "count": 15,
+      "top_channels": [
+        {
+          "channel": "temp-enablement-hub-pilot",
+          "messages": 10
+        },
+        {
+          "channel": "quick",
+          "messages": 3
+        },
+        {
+          "channel": "help-seismic",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.46,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "leena.dileonardo",
+          "count": 3
+        },
+        {
+          "user": "rachel.farewell",
+          "count": 2
+        },
+        {
+          "user": "torina.hopfauf",
+          "count": 1
+        },
+        {
+          "user": "lucinda.betteridge",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "13": 1,
+      "19": 8,
+      "20": 1,
+      "18": 1,
+      "16": 1,
+      "15": 1
+    },
+    "by_day": {
+      "Friday": 9,
+      "Wednesday": 1,
+      "Tuesday": 3,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Communications",
+    "user_score_30d": 4.04,
+    "dept_average_30d": 4.33,
+    "dept_rank": 32,
+    "dept_size": 42
+  }
+}

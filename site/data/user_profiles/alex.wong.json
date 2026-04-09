@@ -1,0 +1,243 @@
+{
+  "username": "alex.wong",
+  "name": "Alex Wong",
+  "generated_at": "2026-04-08T20:22:14.259224",
+  "summary": {
+    "message_count": 140,
+    "channels_active": 11,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @n1rmala,\n\nThank you for your report and your patience - our team was out of office last week for a team event, which delayed our responses",
+          "channel": "hackerone",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @jkappler,\n\nThank you for your report.\n\nAfter review, we can confirm that this is a duplicate of a previously submitted report. The",
+          "channel": "hackerone",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I had claude update your response a bit to drive that point across. You can edit this as you need:\n```Hi @bhavukjain1,\n\nThank you for following",
+          "channel": "hackerone",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hey @0xmoose,\n  \nThank you for your report.\n\nWe were able to reproduce the issue and our engineering team is working on a fix. We will get back to",
+          "channel": "hackerone",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey team :wave: I'm with the bug bounty team and claude directed me here for this but feel free to re-direct me if there is a better place for",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @sam_exploit,\n\nThank you for your report. \n\nWe were able to confirm the issue and our engineering team is working on a fix. We will get back to",
+          "channel": "hackerone",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @anthony23,\n\nThank you for your report and for the detailed follow-up.\n\nAfter reviewing with our engineering team, we've determined that your",
+          "channel": "hackerone",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Current draft:\n```Hi @sasubyasivv,\n\nThank you again for your report.\n\nAfter our internal assessment, we've classified this as Medium severity rather",
+          "channel": "hackerone-bounty-sync",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @sasubyasivv,\n\nThanks again for the report.\n\nAs per our precedent payout structure, we're awarding a $500 bounty for this staff permission",
+          "channel": "hackerone-bounty-sync",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "```Hi @hackerhero,\n\nThank you for your report.\n\nAfter a review of your findings we can confirm this does not meet the bar for dependency confusion.",
+          "channel": "hackerone-bounty-sync",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "josh.bregar",
+          "count": 10
+        },
+        {
+          "user": "alex.vindua",
+          "count": 6
+        },
+        {
+          "user": "craig.eplin",
+          "count": 5
+        },
+        {
+          "user": "justtin.hoang",
+          "count": 3
+        },
+        {
+          "user": "mar.lopez",
+          "count": 3
+        },
+        {
+          "user": "ivan.velasquez",
+          "count": 2
+        },
+        {
+          "user": "jr.rafols",
+          "count": 1
+        },
+        {
+          "user": "felipe.saez",
+          "count": 1
+        },
+        {
+          "user": "zack.deveau",
+          "count": 1
+        },
+        {
+          "user": "alex.lei",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.52,
+      "count": 93,
+      "top_channels": [
+        {
+          "channel": "hackerone",
+          "messages": 65
+        },
+        {
+          "channel": "hackerone-bounty-sync",
+          "messages": 47
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 6
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 4
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 4
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 4
+        },
+        {
+          "channel": "help-messaging-inbox",
+          "messages": 3
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 2
+        },
+        {
+          "channel": "help-theme-platform",
+          "messages": 2
+        },
+        {
+          "channel": "proj-multi-agent-code-scanning",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "josh.bregar",
+          "count": 6
+        },
+        {
+          "user": "alex.vindua",
+          "count": 3
+        },
+        {
+          "user": "craig.eplin",
+          "count": 3
+        },
+        {
+          "user": "teddy.hwang",
+          "count": 3
+        },
+        {
+          "user": "ivan.velasquez",
+          "count": 1
+        },
+        {
+          "user": "alex.lei",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 19,
+      "17": 18,
+      "15": 17,
+      "16": 6,
+      "19": 14,
+      "14": 16,
+      "13": 27,
+      "12": 20,
+      "20": 2,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 46,
+      "Tuesday": 21,
+      "Monday": 12,
+      "Friday": 40,
+      "Thursday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.68,
+    "dept_average_30d": 4.89,
+    "dept_rank": 125,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "username": "kyle.petroski",
+  "name": "Kyle Petroski",
+  "generated_at": "2026-04-08T20:22:12.512952",
+  "summary": {
+    "message_count": 410,
+    "channels_active": 42,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 44,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: <@U09JAP751FX> I spent some time and dug into the latency concern flagged on the release review. Wrote up findings here:",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U07U74FVAKG> let me know if you're able to get it working once you have those permit(s), should work",
+          "channel": "tmp-sidekick-push-insights",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "live-site-monitoring",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the API exception just means our feature is commited for whatever API version. we're shipping to unstable ahead of the next RC in July though right?",
+          "channel": "proj-analytics-metric-targets",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "ben.scott",
+          "count": 4
+        },
+        {
+          "user": "manuel.isava",
+          "count": 3
+        },
+        {
+          "user": "nicolas.grasset",
+          "count": 3
+        },
+        {
+          "user": "lyne.champagne",
+          "count": 3
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 3
+        },
+        {
+          "user": "octav.druta",
+          "count": 3
+        },
+        {
+          "user": "philipp.schofer",
+          "count": 3
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 3
+        },
+        {
+          "user": "luc.tribolet",
+          "count": 3
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.05,
+      "count": 346,
+      "top_channels": [
+        {
+          "channel": "live-site-monitoring",
+          "messages": 72
+        },
+        {
+          "channel": "inv-20597-continued-failures-in-post-deploy-steps-f",
+          "messages": 34
+        },
+        {
+          "channel": "proj-analytics-annotations",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20518-multiple-failing-tests-in-core",
+          "messages": 24
+        },
+        {
+          "channel": "hd39-push-insights-rag",
+          "messages": 22
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20561-failing-ci-tests-core-customeraccountinte",
+          "messages": 17
+        },
+        {
+          "channel": "reportify-api-ops",
+          "messages": 15
+        },
+        {
+          "channel": "help-admin-extensibility",
+          "messages": 15
+        },
+        {
+          "channel": "tmp-sidekick-push-insights",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 101,
+      "top_mentioners": [
+        {
+          "user": "philipp.schofer",
+          "count": 15
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 11
+        },
+        {
+          "user": "aly.gemae",
+          "count": 7
+        },
+        {
+          "user": "ben.milton",
+          "count": 6
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 5
+        },
+        {
+          "user": "jason.z.liu",
+          "count": 3
+        },
+        {
+          "user": "nick.presta",
+          "count": 2
+        },
+        {
+          "user": "roeland.vanhoute",
+          "count": 2
+        },
+        {
+          "user": "kyle.durand",
+          "count": 2
+        },
+        {
+          "user": "daiane.silva",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 36,
+      "16": 54,
+      "12": 4,
+      "22": 6,
+      "17": 45,
+      "14": 70,
+      "15": 65,
+      "13": 49,
+      "19": 47,
+      "21": 3,
+      "20": 23,
+      "3": 3,
+      "2": 2,
+      "0": 1,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 71,
+      "Tuesday": 134,
+      "Monday": 109,
+      "Friday": 42,
+      "Thursday": 54
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.05,
+    "dept_average_30d": 5.79,
+    "dept_rank": 402,
+    "dept_size": 1233
+  }
+}

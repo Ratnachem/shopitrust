@@ -1,0 +1,262 @@
+{
+  "username": "phil.coggins",
+  "name": "Phil Coggins",
+  "generated_at": "2026-04-08T20:22:24.988900",
+  "summary": {
+    "message_count": 143,
+    "channels_active": 18,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.6,
+      "pos_count": 16,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yeah I shoulda been more careful with <https://github.com/shop/world/pull/561098>, it's obviously a :red-flag: if pre-existing tests get removed.",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing! Been wanting to get my hands dirty with Gumloop, this is a perfect oppo. Thanks so much :blush:",
+          "channel": "yugabyte-dashboard",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sounds good! Let me know if there's anyway I can help!",
+          "channel": "proj-bulk-upload-edit",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Sounds good! Let me know if there's anyway I can help!",
+          "channel": "proj-bulk-upload-edit",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Here's a stack with some of the low-effort fixes from Customers Bug Bash yesterday, should be pretty easy to review, LMK if any questions. Thanks!",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Very cathartic, thank you",
+          "channel": "creative-coding",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U01V041CKHQ> All ready for another review here, thanks!",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Customers Index Table should not persist table order with the saved view record. I'm going to roll this into the `displayPreferencesOnly` prop, so",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I audited all Filter View Models where `allow_multiple` is true (41 total) to check whether the backend pagination queries actually handle",
+          "channel": "proj-index-tables",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "kush.patel",
+          "count": 3
+        },
+        {
+          "user": "joe.holston",
+          "count": 3
+        },
+        {
+          "user": "madison.frye",
+          "count": 1
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 1
+        },
+        {
+          "user": "louis.pierrestiger",
+          "count": 1
+        },
+        {
+          "user": "jita.yi",
+          "count": 1
+        },
+        {
+          "user": "greg.macwilliam",
+          "count": 1
+        },
+        {
+          "user": "si.le",
+          "count": 1
+        },
+        {
+          "user": "matthew.ferderber",
+          "count": 1
+        },
+        {
+          "user": "raman.lally",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 397,
+      "top_channels": [
+        {
+          "channel": "proj-index-tables",
+          "messages": 50
+        },
+        {
+          "channel": "help-customers",
+          "messages": 23
+        },
+        {
+          "channel": "proj-bulk-upload-edit",
+          "messages": 15
+        },
+        {
+          "channel": "pi",
+          "messages": 12
+        },
+        {
+          "channel": "admin-workflows-river",
+          "messages": 9
+        },
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 6
+        },
+        {
+          "channel": "admin-workflows",
+          "messages": 5
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 3
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 3
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "madison.frye",
+          "count": 10
+        },
+        {
+          "user": "kush.patel",
+          "count": 5
+        },
+        {
+          "user": "joe.holston",
+          "count": 4
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 4
+        },
+        {
+          "user": "lauren.ip",
+          "count": 2
+        },
+        {
+          "user": "axel.morancaballero",
+          "count": 2
+        },
+        {
+          "user": "liann.rogers",
+          "count": 1
+        },
+        {
+          "user": "jita.yi",
+          "count": 1
+        },
+        {
+          "user": "jess.clark",
+          "count": 1
+        },
+        {
+          "user": "nicole.neubarth",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 2,
+      "21": 7,
+      "18": 9,
+      "15": 24,
+      "17": 19,
+      "23": 1,
+      "22": 7,
+      "16": 23,
+      "20": 11,
+      "14": 16,
+      "13": 6,
+      "11": 1,
+      "19": 17
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 33,
+      "Monday": 11,
+      "Friday": 22,
+      "Thursday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.17,
+    "dept_average_30d": 5.79,
+    "dept_rank": 335,
+    "dept_size": 1233
+  }
+}

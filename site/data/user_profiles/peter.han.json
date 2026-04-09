@@ -1,0 +1,169 @@
+{
+  "username": "peter.han",
+  "name": "Peter Han",
+  "generated_at": "2026-04-08T20:22:17.789953",
+  "summary": {
+    "message_count": 72,
+    "channels_active": 8,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it thanks!",
+          "channel": "shop-data-alerts",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "frederic.ren",
+          "count": 3
+        },
+        {
+          "user": "rich.chen",
+          "count": 2
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 1
+        },
+        {
+          "user": "alex.allaire",
+          "count": 1
+        },
+        {
+          "user": "bhisham.gudwani",
+          "count": 1
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 1
+        },
+        {
+          "user": "akshay.soni",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.11,
+      "count": 82,
+      "top_channels": [
+        {
+          "channel": "recommendations-infra-ops",
+          "messages": 29
+        },
+        {
+          "channel": "inv-20985-20260401-recs-inference-restarting-becaus",
+          "messages": 15
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 9
+        },
+        {
+          "channel": "recommendations-team-experiments",
+          "messages": 8
+        },
+        {
+          "channel": "proj-ur-relevancy",
+          "messages": 5
+        },
+        {
+          "channel": "shop-data-alerts",
+          "messages": 3
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "proj-ur-yugabyte-migration",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.75,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "parul.bhardwaj",
+          "count": 6
+        },
+        {
+          "user": "rich.chen",
+          "count": 5
+        },
+        {
+          "user": "frederic.ren",
+          "count": 2
+        },
+        {
+          "user": "guy.cole",
+          "count": 1
+        },
+        {
+          "user": "rudi.natarajan",
+          "count": 1
+        },
+        {
+          "user": "masoud.dorrikhteh",
+          "count": 1
+        },
+        {
+          "user": "constantino.schi-7983",
+          "count": 1
+        },
+        {
+          "user": "alex.allaire",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 21,
+      "15": 3,
+      "22": 8,
+      "23": 4,
+      "19": 8,
+      "0": 2,
+      "20": 7,
+      "18": 6,
+      "16": 5,
+      "21": 7,
+      "13": 1
+    },
+    "by_day": {
+      "Wednesday": 15,
+      "Tuesday": 17,
+      "Monday": 10,
+      "Friday": 16,
+      "Thursday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.71,
+    "dept_average_30d": 5.77,
+    "dept_rank": 786,
+    "dept_size": 885
+  }
+}

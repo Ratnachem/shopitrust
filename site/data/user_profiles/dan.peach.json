@@ -1,0 +1,202 @@
+{
+  "username": "dan.peach",
+  "name": "Dan Peach",
+  "generated_at": "2026-04-08T20:22:18.311265",
+  "summary": {
+    "message_count": 85,
+    "channels_active": 18,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Just sent an invite for later this afternoon.",
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It affected some of our table tagging jobs but all seems cleared up now. Thank you!",
+          "channel": "infra-central",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yeah... sorry about that. I'm going to put a deprecation notice out for the CLI in the next week or so.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "sienna.wishart",
+          "count": 2
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 2
+        },
+        {
+          "user": "anthony.tasca",
+          "count": 2
+        },
+        {
+          "user": "daria.zarayskaya",
+          "count": 1
+        },
+        {
+          "user": "merlin.davies",
+          "count": 1
+        },
+        {
+          "user": "yida.wang",
+          "count": 1
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 1
+        },
+        {
+          "user": "jacob.bush",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.0,
+      "count": 132,
+      "top_channels": [
+        {
+          "channel": "data-platform-tools-notify",
+          "messages": 18
+        },
+        {
+          "channel": "proj-data-platform-fast-freshness-rca",
+          "messages": 12
+        },
+        {
+          "channel": "inv-21185-lineage-snapshots-failing",
+          "messages": 7
+        },
+        {
+          "channel": "data-platform-tools-memes",
+          "messages": 7
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 6
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 6
+        },
+        {
+          "channel": "help-vault",
+          "messages": 6
+        },
+        {
+          "channel": "infra-central",
+          "messages": 4
+        },
+        {
+          "channel": "transformation-health-monitoring",
+          "messages": 4
+        },
+        {
+          "channel": "proj-48240-improve-metadata-reliability",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "joe.gee",
+          "count": 7
+        },
+        {
+          "user": "alankrit.joshi",
+          "count": 2
+        },
+        {
+          "user": "john.comar",
+          "count": 1
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 1
+        },
+        {
+          "user": "jill.cates",
+          "count": 1
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 1
+        },
+        {
+          "user": "anthony.tasca",
+          "count": 1
+        },
+        {
+          "user": "daria.zarayskaya",
+          "count": 1
+        },
+        {
+          "user": "jeannaly.cruz",
+          "count": 1
+        },
+        {
+          "user": "sienna.wishart",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 25,
+      "15": 12,
+      "20": 1,
+      "19": 14,
+      "18": 10,
+      "13": 3,
+      "16": 15,
+      "14": 3,
+      "21": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 27,
+      "Monday": 12,
+      "Friday": 22,
+      "Tuesday": 8,
+      "Thursday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.03,
+    "dept_average_30d": 5.39,
+    "dept_rank": 166,
+    "dept_size": 272
+  }
+}

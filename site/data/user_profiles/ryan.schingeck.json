@@ -1,0 +1,258 @@
+{
+  "username": "ryan.schingeck",
+  "name": "Ryan Schingeck",
+  "generated_at": "2026-04-08T20:22:29.973904",
+  "summary": {
+    "message_count": 271,
+    "channels_active": 16,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Sweeet! Thanks to PI :smile: I have an open PR I\u2019ll add this in and tag ya soon",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0209UG1708> one thing I\u2019m considering (and have a PR for) is a limited cache on our adapters because we make so many consecutive calls across",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U036VRB8NBF> <@U02DU3SJX7D> here\u2019s the issue with what we chatted about if you want to track: <https://github.com/shop/issues/issues/22130> feel",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "<@U03R33GCBUJ> I put in a fix for the checkout profile id management_path linkage (as mentioned above) while tackling other improvements (inactive",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "<@U0963F38Y87> I put up a PR for the <https://github.com/shop/world/pull/511186|App Embed naming fix> + adds caching (short ttl of 10 mins) on the",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Man\u2026 bummer to hear, it was great getting to know you and work with you on this. Wishing you the best for whatever comes next!",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0209UG1708> for the issue you mentioned - \u201cConsistent function naming for merchants on all surfaces\u201d, there\u2019s a few concerns with that overall.",
+          "channel": "proj-app-transparency-boiler-room",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "jonathan.harlap",
+          "count": 7
+        },
+        {
+          "user": "michelle.shi",
+          "count": 6
+        },
+        {
+          "user": "bashu.naimiroy",
+          "count": 6
+        },
+        {
+          "user": "jitesh.sachdeva",
+          "count": 4
+        },
+        {
+          "user": "aaron.schubert",
+          "count": 4
+        },
+        {
+          "user": "alessandro.dalgrande",
+          "count": 3
+        },
+        {
+          "user": "said.madi",
+          "count": 3
+        },
+        {
+          "user": "steve.hayes",
+          "count": 2
+        },
+        {
+          "user": "scott.yang",
+          "count": 2
+        },
+        {
+          "user": "thierry.joyal",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.67,
+      "count": 220,
+      "top_channels": [
+        {
+          "channel": "proj-app-transparency-boiler-room",
+          "messages": 135
+        },
+        {
+          "channel": "app-transparency-extensions-working-group",
+          "messages": 46
+        },
+        {
+          "channel": "apps-in-admin-ops",
+          "messages": 23
+        },
+        {
+          "channel": "help-apps-in-admin",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20492-increased-appaccessgrant-mutation-failure",
+          "messages": 13
+        },
+        {
+          "channel": "help-app-store",
+          "messages": 8
+        },
+        {
+          "channel": "s-foundations-partner-marketplaces-river",
+          "messages": 6
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 5
+        },
+        {
+          "channel": "help-exp",
+          "messages": 4
+        },
+        {
+          "channel": "app-store-devs",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "michelle.shi",
+          "count": 9
+        },
+        {
+          "user": "joanna.klekotka",
+          "count": 7
+        },
+        {
+          "user": "graeme.killick",
+          "count": 5
+        },
+        {
+          "user": "jennifer.miller",
+          "count": 4
+        },
+        {
+          "user": "adam.barrus",
+          "count": 3
+        },
+        {
+          "user": "aaron.schubert",
+          "count": 3
+        },
+        {
+          "user": "jia.wang",
+          "count": 3
+        },
+        {
+          "user": "kumar.mcmillan",
+          "count": 3
+        },
+        {
+          "user": "murtaza.haider",
+          "count": 2
+        },
+        {
+          "user": "ryan.d.lee",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 29,
+      "13": 22,
+      "20": 39,
+      "12": 9,
+      "19": 28,
+      "18": 35,
+      "17": 25,
+      "16": 32,
+      "15": 22,
+      "11": 2,
+      "21": 21,
+      "22": 4,
+      "0": 1,
+      "2": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Friday": 40,
+      "Thursday": 29,
+      "Wednesday": 99,
+      "Tuesday": 37,
+      "Monday": 66
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.65,
+    "dept_average_30d": 5.79,
+    "dept_rank": 133,
+    "dept_size": 1233
+  }
+}

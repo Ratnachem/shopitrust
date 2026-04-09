@@ -1,0 +1,278 @@
+{
+  "username": "manef.zahra",
+  "name": "Manef Zahra",
+  "generated_at": "2026-04-08T20:22:16.842680",
+  "summary": {
+    "message_count": 181,
+    "channels_active": 25,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you appreciate it :pray:",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thank you appreciate it :pray:",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: I scheduled a quick sync to chat about risk analysis. After learning more about how it (risk analysis) works, I believe we have a decision to",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Sounds good, if you have time to pair I would appreciate it",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Gotcha, thank you\n\nWhat I am still unsure about is when we refer to the risk checks we perform for SP, given the initial transaction was a 3P and we",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Nope it\u2019s all good my question wasn\u2019t correct given what we want to achieve right now, my bad\nWe just have to reuse the existing fraud checks for SP",
+          "channel": "buyer-risk-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Alright thank you, that helps!",
+          "channel": "pp-paypal-soap-to-rest",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Most of the <https://github.com/orgs/shop/projects/259/views/30|issues> for the project are here. Feel free to break down the issues further if you",
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah that\u2019s what I found on my end but I wasn\u2019t sure. And theoretically it makes sense, I think it should work. Thank you",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it thank you!",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":+1: I lean towards `fallback` that\u2019s what we\u2019ve used so far, but it\u2019s a matter of taste for the name, I\u2019m open to use whatever name is clearer for",
+          "channel": "pp-multi-direct-gateway",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think SP still relies on the default policy of one hour though, or did that change ? On my end whatever path we chose, I think we should limit the",
+          "channel": "help-ris",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "delong.gao",
+          "count": 4
+        },
+        {
+          "user": "michal.malecki",
+          "count": 4
+        },
+        {
+          "user": "mark.bastawros",
+          "count": 3
+        },
+        {
+          "user": "nicola.lochead",
+          "count": 3
+        },
+        {
+          "user": "gregoire.weber",
+          "count": 2
+        },
+        {
+          "user": "antoine.merciernicol",
+          "count": 2
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 1
+        },
+        {
+          "user": "sophie.bernadinmercier",
+          "count": 1
+        },
+        {
+          "user": "emanuele.vicentini",
+          "count": 1
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.73,
+      "count": 382,
+      "top_channels": [
+        {
+          "channel": "pp-proj-retry-3p-declined-charges",
+          "messages": 46
+        },
+        {
+          "channel": "manefz-river",
+          "messages": 25
+        },
+        {
+          "channel": "inc-20944-apple-pay-registration-failures",
+          "messages": 22
+        },
+        {
+          "channel": "buyer-risk-team",
+          "messages": 17
+        },
+        {
+          "channel": "pp-multi-direct-gateway",
+          "messages": 11
+        },
+        {
+          "channel": "pp-partner-platform-river",
+          "messages": 10
+        },
+        {
+          "channel": "dev-paypal-express-api-upgrade",
+          "messages": 7
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20777-billing-agreement-not-found-errors-during",
+          "messages": 5
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "delong.gao",
+          "count": 5
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 4
+        },
+        {
+          "user": "erick.kadbay",
+          "count": 3
+        },
+        {
+          "user": "aram.anderson",
+          "count": 2
+        },
+        {
+          "user": "alex.corey",
+          "count": 2
+        },
+        {
+          "user": "saki.futamura",
+          "count": 2
+        },
+        {
+          "user": "gregoire.weber",
+          "count": 1
+        },
+        {
+          "user": "devon.meunier",
+          "count": 1
+        },
+        {
+          "user": "sophie.bernadinm-5747",
+          "count": 1
+        },
+        {
+          "user": "adam.traver",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 7,
+      "15": 22,
+      "14": 19,
+      "19": 21,
+      "18": 12,
+      "12": 19,
+      "21": 4,
+      "20": 15,
+      "16": 11,
+      "13": 9,
+      "11": 11,
+      "10": 5,
+      "1": 7,
+      "0": 19
+    },
+    "by_day": {
+      "Wednesday": 91,
+      "Tuesday": 35,
+      "Monday": 10,
+      "Thursday": 36,
+      "Friday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 7.51,
+    "dept_average_30d": 5.77,
+    "dept_rank": 48,
+    "dept_size": 885
+  }
+}

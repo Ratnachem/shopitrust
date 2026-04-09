@@ -1,0 +1,274 @@
+{
+  "username": "lily.li",
+  "name": "Lily Li",
+  "generated_at": "2026-04-08T20:22:10.270279",
+  "summary": {
+    "message_count": 705,
+    "channels_active": 37,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Finally created the workflows I need! Thank you, <@W018HUJJ76X>!!! :blobheart:",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "The alert today is for `flow-execution-usage` , which is not very big. So, please let us know after the review if we should use different metrics for",
+          "channel": "flow-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for letting us know!",
+          "channel": "flow-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I've added some comments. Otherwise, it looks good. Thank you!",
+          "channel": "inv-20540-high-and-sustained-core-p95-response-time",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":summary: Thank you for everyone! Here is a summary of our",
+          "channel": "flow-execution-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Flow production-benchmark runtime now has 4 regions. The deployment in `us-east1`",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Thank you. Can you check if anyone else in the company complains about it?",
+          "channel": "lily-ocean",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U0AEPQCKB3M> That is amazing! Can you also check if there are any impact on the `flow-workflow-runs` elasticsearch cluster?",
+          "channel": "flow-operations",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@W018HMBTA3U>, the ^ clone doesn't fix the problem.\n\nAccording to",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@W018HMBTA3U>, the ^ clone doesn't fix the problem.\n\nAccording to",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": ":alert: We have hit the *cross-region elasticsearch* issue again I think. After trying to debug the `reporter-monorail-consumer` in benchmark with",
+          "channel": "proj-flow-regional-flow",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "aline.manera",
+          "count": 18
+        },
+        {
+          "user": "timothy.willard",
+          "count": 10
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 7
+        },
+        {
+          "user": "alex.gomez",
+          "count": 5
+        },
+        {
+          "user": "elias.hawa",
+          "count": 5
+        },
+        {
+          "user": "jeff.armstrong",
+          "count": 4
+        },
+        {
+          "user": "mihai.popescu",
+          "count": 4
+        },
+        {
+          "user": "michael.rokas",
+          "count": 4
+        },
+        {
+          "user": "tomas.baena",
+          "count": 2
+        },
+        {
+          "user": "colin.vrugteman",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.52,
+      "count": 212,
+      "top_channels": [
+        {
+          "channel": "flow-operations",
+          "messages": 202
+        },
+        {
+          "channel": "proj-flow-regional-flow",
+          "messages": 145
+        },
+        {
+          "channel": "lily-ocean",
+          "messages": 40
+        },
+        {
+          "channel": "flow-development",
+          "messages": 39
+        },
+        {
+          "channel": "flow-execution-team",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20001-flow-materializer-consumer-latency-too-hi",
+          "messages": 30
+        },
+        {
+          "channel": "flow-oncall",
+          "messages": 27
+        },
+        {
+          "channel": "inc-20713-flow-web-increase-of-5xx-errors-for-web",
+          "messages": 22
+        },
+        {
+          "channel": "inv-20540-high-and-sustained-core-p95-response-time",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20976-kafka-consumers-are-lagging",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "mihai.popescu",
+          "count": 10
+        },
+        {
+          "user": "ershad.rahimikia",
+          "count": 7
+        },
+        {
+          "user": "timothy.willard",
+          "count": 7
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 7
+        },
+        {
+          "user": "michael.rokas",
+          "count": 5
+        },
+        {
+          "user": "aline.manera",
+          "count": 5
+        },
+        {
+          "user": "alex.gomez",
+          "count": 4
+        },
+        {
+          "user": "steven.low",
+          "count": 2
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "ryan.ische",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 48,
+      "17": 78,
+      "15": 75,
+      "12": 11,
+      "20": 98,
+      "19": 56,
+      "14": 120,
+      "13": 43,
+      "3": 5,
+      "16": 56,
+      "21": 42,
+      "0": 2,
+      "23": 32,
+      "22": 21,
+      "1": 8,
+      "2": 5,
+      "8": 5
+    },
+    "by_day": {
+      "Wednesday": 274,
+      "Tuesday": 120,
+      "Monday": 106,
+      "Thursday": 80,
+      "Friday": 125
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.79,
+    "dept_rank": 313,
+    "dept_size": 1233
+  }
+}

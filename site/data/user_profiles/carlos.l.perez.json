@@ -1,0 +1,283 @@
+{
+  "username": "carlos.l.perez",
+  "name": "Carlos L Perez",
+  "generated_at": "2026-04-08T20:22:14.476277",
+  "summary": {
+    "message_count": 392,
+    "channels_active": 27,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 33,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 13,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U025M98JLJZ>",
+          "channel": "inc-21031-error-rate-spoke-on-apiwebviewtokens-cont",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks I appreciate it",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you James, if it ends up taking more than the EOD please let me know so I can extend the IP block for another day or throughout the weekend",
+          "channel": "inc-21031-error-rate-spoke-on-apiwebviewtokens-cont",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":fyi: I have created and linked in the `Resources` tab a link to our project Drive folder, please feel free to add any artifacts that are related to",
+          "channel": "proj-identity-hardening",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds like a good plan <@U025M98JLJZ>, thank you for all the hard work and assistance",
+          "channel": "proj-mobile-app-eternal-sessions",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Kevin, since there is only one cluster in `us-central` for the `commerce-loop` cluster set we didn't really have much of a choice.  The",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Alright thank you",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for getting this cleared up <@U0223MUV7CH> :thanks-2:",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, do you mind reviewing <https://app.graphite.com/github/pr/Shopify/infrastructure/36809|this PR>",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Ah :amazing-7174:",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "As I mentioned a couple of times previously, this is the first time I've seen any implementation that has a skew of `0`, normally in a distributed",
+          "channel": "tmp-identity-jwks-resiliency",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm fine with whatever, I was more curious if there was an optimization that we weren't doing here",
+          "channel": "proj-mobile-app-eternal-sessions",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We can just do a redeploy of whatever is currently in production and get it done today",
+          "channel": "proj-identity-hardening",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "matteo.depalo",
+          "count": 11
+        },
+        {
+          "user": "james.go",
+          "count": 7
+        },
+        {
+          "user": "josh.bregar",
+          "count": 7
+        },
+        {
+          "user": "matthew.ratzloff",
+          "count": 6
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 6
+        },
+        {
+          "user": "heather.knowlton",
+          "count": 5
+        },
+        {
+          "user": "aman.adhav",
+          "count": 5
+        },
+        {
+          "user": "derek.yu",
+          "count": 3
+        },
+        {
+          "user": "craig.eplin",
+          "count": 3
+        },
+        {
+          "user": "markanthony.delavega",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 396,
+      "top_channels": [
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 63
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 45
+        },
+        {
+          "channel": "proj-identity-hardening",
+          "messages": 44
+        },
+        {
+          "channel": "proj-mobile-app-eternal-sessions",
+          "messages": 39
+        },
+        {
+          "channel": "identity-operations",
+          "messages": 32
+        },
+        {
+          "channel": "inc-21031-error-rate-spoke-on-apiwebviewtokens-cont",
+          "messages": 32
+        },
+        {
+          "channel": "tmp-identity-infra-requests",
+          "messages": 31
+        },
+        {
+          "channel": "inv-20772-enabling-us-central1-for-identity",
+          "messages": 20
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 15
+        },
+        {
+          "channel": "tool-gateway",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 126,
+      "top_mentioners": [
+        {
+          "user": "james.go",
+          "count": 23
+        },
+        {
+          "user": "michael.hughes",
+          "count": 19
+        },
+        {
+          "user": "aman.adhav",
+          "count": 11
+        },
+        {
+          "user": "matthew.ratzloff",
+          "count": 9
+        },
+        {
+          "user": "matthew.frail",
+          "count": 5
+        },
+        {
+          "user": "josh.bregar",
+          "count": 5
+        },
+        {
+          "user": "jie.sun",
+          "count": 5
+        },
+        {
+          "user": "matteo.depalo",
+          "count": 5
+        },
+        {
+          "user": "david.ward",
+          "count": 4
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 43,
+      "13": 56,
+      "21": 17,
+      "20": 27,
+      "19": 53,
+      "17": 27,
+      "15": 55,
+      "14": 58,
+      "16": 47,
+      "12": 5,
+      "22": 3,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 45,
+      "Tuesday": 96,
+      "Monday": 47,
+      "Friday": 87,
+      "Thursday": 117
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.15,
+    "dept_average_30d": 4.74,
+    "dept_rank": 162,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "username": "damion.rashford",
+  "name": "Damion Rashford",
+  "generated_at": "2026-04-08T20:22:29.284728",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 10,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! Developer Support here.\n\nWe have a second partner hit by what looks like the Event Router embedded events deprecation, same",
+          "channel": "help-messaging-inbox",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team! potential bug with `subscription_contracts/expire` webhook delivery, hoping someone can confirm.\n\nA partner with two subscription apps",
+          "channel": "help-selling-strategies",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey Shaun \u2014 following up with the fresh request ID I promised. Developer confirmed it's still failing as of yesterday.\n\n*Request ID:*",
+          "channel": "help-metafields-and-metaobjects",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "steven.li",
+          "count": 1
+        },
+        {
+          "user": "chris.jones",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 161,
+      "top_channels": [
+        {
+          "channel": "help-security",
+          "messages": 3
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 3
+        },
+        {
+          "channel": "help-selling-strategies",
+          "messages": 3
+        },
+        {
+          "channel": "help-metafields-and-metaobjects",
+          "messages": 3
+        },
+        {
+          "channel": "help-checkout-wallets",
+          "messages": 2
+        },
+        {
+          "channel": "ops-ai",
+          "messages": 2
+        },
+        {
+          "channel": "help-messaging-inbox",
+          "messages": 1
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 1
+        },
+        {
+          "channel": "help-simgym",
+          "messages": 1
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "steven.li",
+          "count": 1
+        },
+        {
+          "user": "alex.montague",
+          "count": 1
+        },
+        {
+          "user": "christine.walsh",
+          "count": 1
+        },
+        {
+          "user": "shaun.stanworth",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 6,
+      "19": 2,
+      "16": 3,
+      "15": 1,
+      "21": 2,
+      "20": 3,
+      "18": 3
+    },
+    "by_day": {
+      "Monday": 2,
+      "Wednesday": 9,
+      "Tuesday": 5,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 4.33,
+    "dept_average_30d": 4.09,
+    "dept_rank": 189,
+    "dept_size": 642
+  }
+}

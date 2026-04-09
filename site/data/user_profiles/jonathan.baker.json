@@ -1,0 +1,228 @@
+{
+  "username": "jonathan.baker",
+  "name": "Jonathan Baker",
+  "generated_at": "2026-04-08T20:22:21.470768",
+  "summary": {
+    "message_count": 304,
+    "channels_active": 21,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to rollout one of my flags, should be easy to see the rollout exclusion be effective",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U01V041CKHQ> the repo for the dashboard is <https://github.com/shopify-playground/cardinal-verifier-dashboard|here> - let me know if you need help",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Just FYI, the phase 1 flag and the verifier flag is currently disabled due the incident yesterday. Do you want me to keep them disabled or reenable",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Hey team! :wave: We're seeing `Platform::ReaperWorkerJob::IneligibleTableError` being raised for the `collection_sources` table. Reaper was enabled",
+          "channel": "help-collections",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Hey team! :wave: We're seeing `Platform::ReaperWorkerJob::IneligibleTableError` being raised for the `dev_sessions` table. Reaper was enabled in",
+          "channel": "devtools-dev-foundations",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "scott.walkinshaw",
+          "count": 9
+        },
+        {
+          "user": "greg.macwilliam",
+          "count": 6
+        },
+        {
+          "user": "adam.macdonald",
+          "count": 3
+        },
+        {
+          "user": "josh.larson",
+          "count": 3
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 1
+        },
+        {
+          "user": "jordan.verasamy",
+          "count": 1
+        },
+        {
+          "user": "gray.gilmore",
+          "count": 1
+        },
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 1
+        },
+        {
+          "user": "robert.vangennip",
+          "count": 1
+        },
+        {
+          "user": "guilherme.vieira",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.82,
+      "count": 281,
+      "top_channels": [
+        {
+          "channel": "proj-breadth-first-exec",
+          "messages": 180
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 20
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 16
+        },
+        {
+          "channel": "river-api-foundations",
+          "messages": 14
+        },
+        {
+          "channel": "proj-core-reaper",
+          "messages": 12
+        },
+        {
+          "channel": "claude-code",
+          "messages": 10
+        },
+        {
+          "channel": "help-exp",
+          "messages": 8
+        },
+        {
+          "channel": "help-observability",
+          "messages": 5
+        },
+        {
+          "channel": "inc-20186-multipass-errors-elevated",
+          "messages": 5
+        },
+        {
+          "channel": "devtools-proj-preview-links",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.52,
+      "count": 29,
+      "top_mentioners": [
+        {
+          "user": "scott.walkinshaw",
+          "count": 10
+        },
+        {
+          "user": "greg.macwilliam",
+          "count": 4
+        },
+        {
+          "user": "josh.larson",
+          "count": 2
+        },
+        {
+          "user": "jim.graham",
+          "count": 1
+        },
+        {
+          "user": "kevin.menard",
+          "count": 1
+        },
+        {
+          "user": "adam.macdonald",
+          "count": 1
+        },
+        {
+          "user": "soheil.hajimohammadi",
+          "count": 1
+        },
+        {
+          "user": "tyler.copple",
+          "count": 1
+        },
+        {
+          "user": "richard.monette",
+          "count": 1
+        },
+        {
+          "user": "guilherme.vieira",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 39,
+      "11": 2,
+      "22": 3,
+      "19": 48,
+      "14": 42,
+      "13": 27,
+      "12": 6,
+      "17": 14,
+      "18": 37,
+      "16": 33,
+      "20": 31,
+      "21": 18,
+      "0": 2,
+      "23": 2
+    },
+    "by_day": {
+      "Wednesday": 79,
+      "Monday": 55,
+      "Thursday": 87,
+      "Tuesday": 65,
+      "Friday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.79,
+    "dept_rank": 313,
+    "dept_size": 1233
+  }
+}

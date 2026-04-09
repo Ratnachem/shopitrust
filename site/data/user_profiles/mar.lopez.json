@@ -1,0 +1,201 @@
+{
+  "username": "mar.lopez",
+  "name": "Mar Lopez",
+  "generated_at": "2026-04-08T20:22:27.930813",
+  "summary": {
+    "message_count": 101,
+    "channels_active": 5,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.3,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "just tested and it works! thank you very much <@W0182UWB6K1>!",
+          "channel": "help-vault",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "it was nice meeting you both! definitely feel free to reach out if you have any questions :smile:",
+          "channel": "proj-appsec-ai",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "i created a meeting for tomorrow at 1pm --- you should have edit permissions for the event so feel free to move it as needed, i'm not married to that",
+          "channel": "proj-appsec-ai",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "i created a meeting for tomorrow at 1pm --- you should have edit permissions for the event so feel free to move it as needed, i'm not married to that",
+          "channel": "proj-appsec-ai",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "so i think broadly the standard evaluator you've created shouldn't be operating on invocations but rather on the identified risks we've collected in",
+          "channel": "proj-appsec-ai",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "chris.cornutt",
+          "count": 7
+        },
+        {
+          "user": "guillaume.jacques",
+          "count": 7
+        },
+        {
+          "user": "felipe.saez",
+          "count": 5
+        },
+        {
+          "user": "paul.gagliardi",
+          "count": 1
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 1
+        },
+        {
+          "user": "joe.basirico",
+          "count": 1
+        },
+        {
+          "user": "trevor.walker",
+          "count": 1
+        },
+        {
+          "user": "jonathan.feng",
+          "count": 1
+        },
+        {
+          "user": "matthew.ratzloff",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.54,
+      "count": 67,
+      "top_channels": [
+        {
+          "channel": "proj-appsec-ai",
+          "messages": 92
+        },
+        {
+          "channel": "help-vault",
+          "messages": 4
+        },
+        {
+          "channel": "hackerone-bounty-sync",
+          "messages": 3
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 1
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "chris.cornutt",
+          "count": 11
+        },
+        {
+          "user": "guillaume.jacques",
+          "count": 10
+        },
+        {
+          "user": "alex.wong",
+          "count": 3
+        },
+        {
+          "user": "carlos.l.perez",
+          "count": 2
+        },
+        {
+          "user": "joe.basirico",
+          "count": 1
+        },
+        {
+          "user": "abdulwahaab.ahmed",
+          "count": 1
+        },
+        {
+          "user": "alex.vindua",
+          "count": 1
+        },
+        {
+          "user": "josh.bregar",
+          "count": 1
+        },
+        {
+          "user": "matthew.ratzloff",
+          "count": 1
+        },
+        {
+          "user": "rolando.penate",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 8,
+      "16": 12,
+      "14": 26,
+      "18": 2,
+      "15": 20,
+      "12": 2,
+      "21": 8,
+      "13": 19,
+      "19": 2,
+      "20": 2
+    },
+    "by_day": {
+      "Tuesday": 17,
+      "Thursday": 26,
+      "Wednesday": 16,
+      "Monday": 18,
+      "Friday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.56,
+    "dept_average_30d": 4.89,
+    "dept_rank": 56,
+    "dept_size": 237
+  }
+}

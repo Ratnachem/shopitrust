@@ -1,0 +1,172 @@
+{
+  "username": "bernardo.garcia",
+  "name": "Bernardo Garcia",
+  "generated_at": "2026-04-08T20:22:24.304773",
+  "summary": {
+    "message_count": 43,
+    "channels_active": 9,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. Just created a ticket #REQ-1857598",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to add it to Verdant <@U0973GW8KMX> :+1:. We can make changes along the way once we get more feedback from users",
+          "channel": "proj-admin-intents",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "adam.barrus",
+          "count": 3
+        },
+        {
+          "user": "alex.page",
+          "count": 1
+        },
+        {
+          "user": "rachel.mcclung",
+          "count": 1
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.31,
+      "count": 61,
+      "top_channels": [
+        {
+          "channel": "help-admin-intents",
+          "messages": 9
+        },
+        {
+          "channel": "proj-admin-web-component-coverage",
+          "messages": 8
+        },
+        {
+          "channel": "proj-admin-intents",
+          "messages": 8
+        },
+        {
+          "channel": "temp-burst-app-intents",
+          "messages": 5
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 4
+        },
+        {
+          "channel": "help-it",
+          "messages": 4
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "proj-bulk-upload-edit",
+          "messages": 1
+        },
+        {
+          "channel": "design-talk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "adam.barrus",
+          "count": 9
+        },
+        {
+          "user": "madison.frye",
+          "count": 6
+        },
+        {
+          "user": "sophie.schneider",
+          "count": 2
+        },
+        {
+          "user": "jaimie.way",
+          "count": 2
+        },
+        {
+          "user": "alex.page",
+          "count": 1
+        },
+        {
+          "user": "phiroze.noble",
+          "count": 1
+        },
+        {
+          "user": "nicole.neubarth",
+          "count": 1
+        },
+        {
+          "user": "jeffrey.wood",
+          "count": 1
+        },
+        {
+          "user": "jess.clark",
+          "count": 1
+        },
+        {
+          "user": "alyssa.wilkinson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 5,
+      "14": 8,
+      "18": 7,
+      "19": 5,
+      "15": 12,
+      "0": 1,
+      "17": 5
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Tuesday": 7,
+      "Thursday": 21,
+      "Monday": 4,
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.14,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1188,
+    "dept_size": 1233
+  }
+}

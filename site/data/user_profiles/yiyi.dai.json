@@ -1,0 +1,197 @@
+{
+  "username": "yiyi.dai",
+  "name": "Yiyi Dai",
+  "generated_at": "2026-04-08T20:22:30.264189",
+  "summary": {
+    "message_count": 83,
+    "channels_active": 6,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-bye-snorlax: Hi team! As I head off on mat leave, I want to thank you all for the support over the past few months. A special thanks to",
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> monitor 2 PRs\u2019 CI build result and let me know if there are any failures: <https://github.com/shop/world/pull/559530> and",
+          "channel": "xiaoxi-test-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "For the validation part, since we don\u2019t need to support backfill for at least 3 months, we\u2019ve simplified the validation to just calculate on_hand =",
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<https://app.graphite.com/github/shop/world/pull/513582|A new PR> needs some :eyes: s, this is a follow-up refactoring to have `AdjustQuantities`",
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Given we\u2019re delaying the backfill(See",
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Given we\u2019re delaying the backfill(See",
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey team!  Popping here after discussing error handling with <@U07M18110AJ>.\n\nWhen I tried to get River and Claude to fix a bug, the code the LLMs",
+          "channel": "xiaoxi-test-river",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "chris.bielinski",
+          "count": 4
+        },
+        {
+          "user": "kelsey.law",
+          "count": 3
+        },
+        {
+          "user": "kirsten.westeinde",
+          "count": 3
+        },
+        {
+          "user": "andrew.ross",
+          "count": 3
+        },
+        {
+          "user": "neil.rosenstech",
+          "count": 2
+        },
+        {
+          "user": "stephen.anders",
+          "count": 2
+        },
+        {
+          "user": "hisham.kalban",
+          "count": 1
+        },
+        {
+          "user": "george.ferreira",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.08,
+      "count": 55,
+      "top_channels": [
+        {
+          "channel": "xiaoxi-test-river",
+          "messages": 57
+        },
+        {
+          "channel": "proj-inventory-on-hand-quantities-in-ledger",
+          "messages": 19
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 4
+        },
+        {
+          "channel": "inventory-exceptions",
+          "messages": 1
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 1
+        },
+        {
+          "channel": "proj-migrate-states-to-groups",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "kirsten.westeinde",
+          "count": 2
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 1
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 1
+        },
+        {
+          "user": "ross.andrew",
+          "count": 1
+        },
+        {
+          "user": "richard.ludvigh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 14,
+      "19": 13,
+      "23": 2,
+      "22": 3,
+      "15": 10,
+      "18": 6,
+      "16": 8,
+      "17": 14,
+      "14": 6,
+      "13": 5,
+      "12": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Thursday": 15,
+      "Wednesday": 22,
+      "Tuesday": 13,
+      "Monday": 20,
+      "Friday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.69,
+    "dept_average_30d": 4.74,
+    "dept_rank": 718,
+    "dept_size": 1663
+  }
+}

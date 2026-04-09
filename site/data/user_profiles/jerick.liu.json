@@ -1,0 +1,185 @@
+{
+  "username": "jerick.liu",
+  "name": "Jerick Liu",
+  "generated_at": "2026-04-08T20:22:29.202239",
+  "summary": {
+    "message_count": 268,
+    "channels_active": 12,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Seems like another race condition where `COPY_SEGMENT_FINISHED` was written before the upload finished for whatever reason",
+          "channel": "streaming-foundations-alerts",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "darren.li",
+          "count": 5
+        },
+        {
+          "user": "michael.hynes",
+          "count": 2
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 2
+        },
+        {
+          "user": "filipe.deo",
+          "count": 2
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 1
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 1
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 1
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.5,
+      "count": 66,
+      "top_channels": [
+        {
+          "channel": "streaming-foundations-alerts",
+          "messages": 120
+        },
+        {
+          "channel": "proj-infra-kafka-tiered-storage",
+          "messages": 55
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 29
+        },
+        {
+          "channel": "inv-19995-gamesday--production-us-region-failover-s",
+          "messages": 28
+        },
+        {
+          "channel": "proj-enhance-flinksql-toolkit",
+          "messages": 17
+        },
+        {
+          "channel": "streaming-foundations-ops",
+          "messages": 13
+        },
+        {
+          "channel": "help-vault",
+          "messages": 1
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 1
+        },
+        {
+          "channel": "inv-20368-kafka-us-region-migration-monitoring",
+          "messages": 1
+        },
+        {
+          "channel": "inv-20051-not-seeing-any-events-in-our-kafka-consum",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "darren.li",
+          "count": 11
+        },
+        {
+          "user": "noel.padavan",
+          "count": 7
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 4
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 4
+        },
+        {
+          "user": "filipe.deo",
+          "count": 2
+        },
+        {
+          "user": "michael.hynes",
+          "count": 1
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 32,
+      "17": 11,
+      "16": 29,
+      "15": 41,
+      "14": 23,
+      "12": 26,
+      "20": 18,
+      "13": 39,
+      "21": 5,
+      "18": 13,
+      "22": 18,
+      "4": 1,
+      "23": 5,
+      "1": 1,
+      "0": 6
+    },
+    "by_day": {
+      "Monday": 17,
+      "Thursday": 107,
+      "Wednesday": 54,
+      "Tuesday": 57,
+      "Friday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.24,
+    "dept_average_30d": 4.74,
+    "dept_rank": 436,
+    "dept_size": 1663
+  }
+}

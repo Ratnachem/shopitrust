@@ -1,0 +1,234 @@
+{
+  "username": "nathan.fabergood",
+  "name": "Nathan Fabergood",
+  "generated_at": "2026-04-08T20:22:23.309355",
+  "summary": {
+    "message_count": 238,
+    "channels_active": 7,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 11,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Its all good! Happy to help, <@U0AEPQCKB3M> was a tonne of help in the other thread :slightly_smiling_face:",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hmm seems like both /delta and /acp are busted mid deploy? This is from opus so take with a grain of salt:\n&gt;  neither path works \u2014 /delta/ returns",
+          "channel": "river",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Do we know if these experiments had the river agent actually writing or running any code, or if we did a `dev up` or stood up any kind of dev",
+          "channel": "nfg-river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> is there an incident channel that has to do with litellm and the recent cred exfil supply chain attack?",
+          "channel": "nfg-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Oh hey just remembered you can upload built tarballs from laptops to prod binks so we need to audit all the runnables, the checks I did looking at",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "IMO probably yea, that machinery was sorta slap-dash by myself a long while ago, its likely not worth the cpu cycles (or the maintenance burden,",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Wow I'm late to the party here sorry folks. Yea spin allocated a whole separate google service account per user, we did it in our custom k8s",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Are you able to run a development/local version of the river infra to verify this stuff? Like make these changes and then hack together a little",
+          "channel": "nfg-river",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.28,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "peter.petrov",
+          "count": 4
+        },
+        {
+          "user": "theo.truong",
+          "count": 3
+        },
+        {
+          "user": "ajith.bondili",
+          "count": 3
+        },
+        {
+          "user": "kyle.mcdaniel",
+          "count": 2
+        },
+        {
+          "user": "jin.li",
+          "count": 1
+        },
+        {
+          "user": "baoze.lin",
+          "count": 1
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 1
+        },
+        {
+          "user": "jon.allured",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.29,
+      "count": 83,
+      "top_channels": [
+        {
+          "channel": "nfg-river",
+          "messages": 100
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 66
+        },
+        {
+          "channel": "proj-eng-llm-code-scan",
+          "messages": 33
+        },
+        {
+          "channel": "dev-ai-algo",
+          "messages": 24
+        },
+        {
+          "channel": "river",
+          "messages": 13
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 1
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.57,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "theo.truong",
+          "count": 4
+        },
+        {
+          "user": "jin.li",
+          "count": 3
+        },
+        {
+          "user": "eric.proulx",
+          "count": 3
+        },
+        {
+          "user": "sebastien.bruel",
+          "count": 2
+        },
+        {
+          "user": "jon.allured",
+          "count": 2
+        },
+        {
+          "user": "ajith.bondili",
+          "count": 2
+        },
+        {
+          "user": "will.goldstein",
+          "count": 1
+        },
+        {
+          "user": "peter.petrov",
+          "count": 1
+        },
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 1
+        },
+        {
+          "user": "javier.moreno",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 13,
+      "11": 14,
+      "10": 24,
+      "9": 37,
+      "8": 16,
+      "6": 16,
+      "15": 39,
+      "7": 26,
+      "13": 8,
+      "4": 14,
+      "1": 1,
+      "12": 5,
+      "19": 2,
+      "18": 1,
+      "3": 3,
+      "2": 1,
+      "16": 3,
+      "5": 15
+    },
+    "by_day": {
+      "Wednesday": 72,
+      "Tuesday": 54,
+      "Monday": 35,
+      "Thursday": 46,
+      "Friday": 31
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.54,
+    "dept_average_30d": 4.74,
+    "dept_rank": 322,
+    "dept_size": 1663
+  }
+}

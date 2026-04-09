@@ -1,0 +1,293 @@
+{
+  "username": "jennifer.xiong",
+  "name": "Jennifer Xiong",
+  "generated_at": "2026-04-08T20:22:08.990000",
+  "summary": {
+    "message_count": 479,
+    "channels_active": 36,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.7,
+      "pos_count": 57,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: As part of a GKE Kubernetes upgrade, the Streaming Compute team is migrating Flink production workloads off existing clusters onto new",
+          "channel": "reportify-etl",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that - there likely was no data loss because it seems like TA spun up the new pipeline before spinning down the old pipeline on the old",
+          "channel": "mozart-data",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for your help Chethana!",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; only these 2 options are necessary right?\nYes, thank you!",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "OK, so the only way would be through more PRs changing the targets. thanks!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ofc! thank you for your help! :bow:",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Gotcha - I updated the PR to be a more generalized Cost Inefficiency item, let me know if that works",
+          "channel": "infra-central",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to put up a PR to change it! I'll stamp",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I posted here, feel free to add in any other concerns you might have! <https://shopify.slack.com/archives/C05ABDX94GK/p1775082339238389>",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, thanks guys! Will route the remaining one to melody-team",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Actually, you should have permissions to do this for your own pipelines, so try that first",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "hmm you should have been tagged by Infra Central when TA ran, and it should have a link to Temporal in the message",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I merged both of them just now, haven't rolled anything out yet. Trying to figure it out",
+          "channel": "streaming-compute-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm looking into the <https://docs.google.com/document/d/1cxOaSFxgd3qbXBk0Ffs4BWeGO8Jx_WAY0rTbV6cCzng/edit?tab=t.0|blue/green packing issue> and",
+          "channel": "gsd-49488-flink-infrastructure-upgrade",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "yanis.djeridi",
+          "count": 5
+        },
+        {
+          "user": "luca.castelli",
+          "count": 2
+        },
+        {
+          "user": "chethana.siddappa",
+          "count": 2
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 2
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 2
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 2
+        },
+        {
+          "user": "audreyanne.guindon",
+          "count": 2
+        },
+        {
+          "user": "udeep.tandukar",
+          "count": 2
+        },
+        {
+          "user": "james.kan",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 524,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 213
+        },
+        {
+          "channel": "gsd-49488-flink-infrastructure-upgrade",
+          "messages": 52
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 45
+        },
+        {
+          "channel": "bp-cdp-flink-dev",
+          "messages": 38
+        },
+        {
+          "channel": "infra-central",
+          "messages": 23
+        },
+        {
+          "channel": "recommendations-infra",
+          "messages": 16
+        },
+        {
+          "channel": "mozart-data",
+          "messages": 11
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 9
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 9
+        },
+        {
+          "channel": "help-foundation-models",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 85,
+      "top_mentioners": [
+        {
+          "user": "yanis.djeridi",
+          "count": 9
+        },
+        {
+          "user": "asghar.khan",
+          "count": 8
+        },
+        {
+          "user": "james.kan",
+          "count": 8
+        },
+        {
+          "user": "aashna.narang",
+          "count": 5
+        },
+        {
+          "user": "pablo.marti",
+          "count": 5
+        },
+        {
+          "user": "sonali.mayer",
+          "count": 4
+        },
+        {
+          "user": "mark.blum",
+          "count": 4
+        },
+        {
+          "user": "rich.chen",
+          "count": 4
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 3
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 90,
+      "17": 65,
+      "16": 36,
+      "23": 14,
+      "20": 54,
+      "19": 65,
+      "0": 2,
+      "22": 69,
+      "21": 63,
+      "15": 6,
+      "6": 6,
+      "2": 4,
+      "13": 2,
+      "4": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 139,
+      "Tuesday": 105,
+      "Monday": 117,
+      "Friday": 36,
+      "Thursday": 82
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.49,
+    "dept_average_30d": 5.75,
+    "dept_rank": 61,
+    "dept_size": 357
+  }
+}

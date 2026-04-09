@@ -1,0 +1,281 @@
+{
+  "username": "jake.anderson",
+  "name": "Jake Anderson",
+  "generated_at": "2026-04-08T20:22:18.840627",
+  "summary": {
+    "message_count": 688,
+    "channels_active": 17,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 13,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to move on without me",
+          "channel": "proj-melody-service-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! graphite seems to be having issues. so hopefully they resolve that quickly",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! yeah i found that table on friday. will use this until a more realtime solution is proven :saluting_face:",
+          "channel": "help-mozart",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hello there! :hello-there:\n\ncoming from the melody team where im looking to fetch journeys that are using a particular melody segment. it seems like",
+          "channel": "help-mozart",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to pop into the team tuple if you'd like",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you both!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! did you want to move these? i can then take a peek at them so we can get them merged",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "also just sent our an invite for a Tu/Th 15 minute standup. <@U032UEQUJ5U> <@U030ZG4H89G> added you both as optional just to have it as an fyi. feel",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "hi there! there's a button in the segment ui that allows you to do this yourself. please feel free to press it :worry-love:",
+          "channel": "help-melody",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":check:  thanks! yeah i thought this was off due to how often we sync from katesql",
+          "channel": "melody-cdp-ops",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "another thought for hedwig is to have a dedicated `segment_diff` queue we're running them in and have k8s set up in a way where there is one worker",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<!here> With the recent change in scope to batch segments, which was not accounted for in the prototype phase or build video, the scope of this",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "matthew.tanous",
+          "count": 16
+        },
+        {
+          "user": "nikhil.hooda",
+          "count": 16
+        },
+        {
+          "user": "chand.bud",
+          "count": 11
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 7
+        },
+        {
+          "user": "hussein.patni",
+          "count": 6
+        },
+        {
+          "user": "ross.williams",
+          "count": 5
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 5
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 5
+        },
+        {
+          "user": "thomas.brown",
+          "count": 4
+        },
+        {
+          "user": "nana.mathis",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.43,
+      "count": 117,
+      "top_channels": [
+        {
+          "channel": "melody-team",
+          "messages": 196
+        },
+        {
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "messages": 170
+        },
+        {
+          "channel": "help-melody",
+          "messages": 80
+        },
+        {
+          "channel": "inc-19967-melody-hedwig-out-of-memory",
+          "messages": 65
+        },
+        {
+          "channel": "melody-river",
+          "messages": 51
+        },
+        {
+          "channel": "melody-cdp-ops",
+          "messages": 38
+        },
+        {
+          "channel": "proj-migrate-melody-flink",
+          "messages": 21
+        },
+        {
+          "channel": "proj-migrate-marketing-event-distribution",
+          "messages": 18
+        },
+        {
+          "channel": "proj-melody-service-monorepo",
+          "messages": 15
+        },
+        {
+          "channel": "proj-melody-stabilize",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 83,
+      "top_mentioners": [
+        {
+          "user": "daniel.newbury",
+          "count": 11
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 10
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 7
+        },
+        {
+          "user": "erika.hellauer",
+          "count": 7
+        },
+        {
+          "user": "derek.wu",
+          "count": 6
+        },
+        {
+          "user": "hussein.patni",
+          "count": 6
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 5
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 5
+        },
+        {
+          "user": "nikhil.hooda",
+          "count": 4
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 57,
+      "16": 59,
+      "14": 114,
+      "21": 58,
+      "20": 50,
+      "19": 53,
+      "18": 41,
+      "15": 89,
+      "13": 43,
+      "3": 1,
+      "2": 6,
+      "23": 13,
+      "22": 50,
+      "12": 14,
+      "1": 24,
+      "0": 12,
+      "11": 4
+    },
+    "by_day": {
+      "Wednesday": 188,
+      "Tuesday": 115,
+      "Monday": 121,
+      "Friday": 147,
+      "Thursday": 117
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.36,
+    "dept_average_30d": 5.58,
+    "dept_rank": 70,
+    "dept_size": 398
+  }
+}

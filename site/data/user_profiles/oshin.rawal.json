@@ -1,0 +1,293 @@
+{
+  "username": "oshin.rawal",
+  "name": "Oshin Rawal",
+  "generated_at": "2026-04-08T20:22:11.786035",
+  "summary": {
+    "message_count": 347,
+    "channels_active": 23,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 13,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U02P4RU06CX> Could you please add <@U08PHPAL79U> too please? Thank you!",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Heads up <@U03RH8R30LV>: <@W018HTZSD51> brought up that having frame extractor area in shop server might interfere with move to world. I started PR",
+          "channel": "shop-engineering",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://tuple.app/c/AT9YQC> feel free to join, debugging",
+          "channel": "shop-engineering",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah the fire alarm went off in the port, just came back home. Thank you!",
+          "channel": "shop-bots",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, no other option then :smile:",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "> We decided on 500mb yesterday based on what the moderator is set to handle but we could go with a more conservative bump instead\nStart with being",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations <@U03L86LFC3Z> :tada:",
+          "channel": "shop-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Btw I just updated doc permissions to make sure folks can comment. My bad!",
+          "channel": "help-appsec",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Looking into it. Feel free to :tuple: if you are interested :slightly_smiling_face:",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you being the early tester :smile:",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can't we start the experiment now and just end it early  (and ship some variant) based on whatever product decision we make? <@U07UB138TA9>",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U03M7NF015W> see if bringing this one back to life is quick for the moderation check:<https://github.com/Shopify/shop-server/pull/149462>\nor just",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Hmm we are gating all our feed logic behind an experiment. Can we still use the exp to rollout changes on the app? <@U07UB138TA9> <@W018WBP9N2D>\n(1%",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "you can do whatever\n\narray: easier query, but you loose some of the DB strictness that you would get with a new table",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "sean.dang",
+          "count": 20
+        },
+        {
+          "user": "jane.cui",
+          "count": 19
+        },
+        {
+          "user": "ryan.lambert",
+          "count": 17
+        },
+        {
+          "user": "eylam.fried",
+          "count": 14
+        },
+        {
+          "user": "isaac.ebhodaghe",
+          "count": 10
+        },
+        {
+          "user": "mitch.cunningham",
+          "count": 7
+        },
+        {
+          "user": "dj.chung",
+          "count": 5
+        },
+        {
+          "user": "bill.devine",
+          "count": 5
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 4
+        },
+        {
+          "user": "carljohan.gustavsson",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.19,
+      "count": 195,
+      "top_channels": [
+        {
+          "channel": "proj-shop-posts",
+          "messages": 169
+        },
+        {
+          "channel": "shop-feed-bots",
+          "messages": 43
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 33
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 27
+        },
+        {
+          "channel": "shop-feed",
+          "messages": 25
+        },
+        {
+          "channel": "inv-21192-high-rate-of-shops-marked-as-ineligible",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20794-home-feed-not-loading-on-certain-versions",
+          "messages": 7
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20183-shopjob-foundations-sidekiq-default-queue",
+          "messages": 6
+        },
+        {
+          "channel": "proj-shop-patronus",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 100,
+      "top_mentioners": [
+        {
+          "user": "ryan.lambert",
+          "count": 30
+        },
+        {
+          "user": "jane.cui",
+          "count": 13
+        },
+        {
+          "user": "sean.dang",
+          "count": 10
+        },
+        {
+          "user": "kyle.waldrop",
+          "count": 7
+        },
+        {
+          "user": "dj.chung",
+          "count": 5
+        },
+        {
+          "user": "eylam.fried",
+          "count": 5
+        },
+        {
+          "user": "mitch.cunningham",
+          "count": 5
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 4
+        },
+        {
+          "user": "isaac.ebhodaghe",
+          "count": 4
+        },
+        {
+          "user": "bill.devine",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 41,
+      "16": 26,
+      "15": 25,
+      "14": 84,
+      "13": 36,
+      "0": 3,
+      "23": 11,
+      "21": 22,
+      "20": 32,
+      "19": 31,
+      "17": 21,
+      "22": 11,
+      "12": 2,
+      "1": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 85,
+      "Tuesday": 88,
+      "Monday": 70,
+      "Friday": 50,
+      "Thursday": 54
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.33,
+    "dept_average_30d": 5.86,
+    "dept_rank": 49,
+    "dept_size": 166
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "username": "charles.ng",
+  "name": "Charles Ng",
+  "generated_at": "2026-04-08T20:22:13.576173",
+  "summary": {
+    "message_count": 345,
+    "channels_active": 23,
+    "unique_people_mentioned": 31,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "pi",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: The team hit a big milestone yesterday having 1% of Shop on the Google edge. We\u2019ve worked hard on it for over a year and we're seeing the",
+          "channel": "team-edge-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> Please use `sdp-prd-infrastructure.mart.gcp_daily_detailed_billing` in BQ as the primary source of data to analyze our costs, though",
+          "channel": "google-cloud-finances",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Charlie. I\u2019m away tomorrow, Friday and next week. However, Aparna and Jie have context on this. I\u2019m verifying when Adaptive Protection was",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Please use `sdp-prd-infrastructure.mart.gcp_daily_detailed_billing` in BQ as the primary source of data to analyze our costs, though",
+          "channel": "google-cloud-finances",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 7
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 6
+        },
+        {
+          "user": "jie.sun",
+          "count": 5
+        },
+        {
+          "user": "bill.bean",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 4
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 3
+        },
+        {
+          "user": "sean.ittel",
+          "count": 3
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 3
+        },
+        {
+          "user": "nick.silverman",
+          "count": 3
+        },
+        {
+          "user": "peiran.liu",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.5,
+      "count": 264,
+      "top_channels": [
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 99
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 58
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 28
+        },
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 27
+        },
+        {
+          "channel": "google-cloud-finances",
+          "messages": 26
+        },
+        {
+          "channel": "platform-efficiency",
+          "messages": 17
+        },
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 15
+        },
+        {
+          "channel": "notification-platform-team",
+          "messages": 14
+        },
+        {
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "messages": 12
+        },
+        {
+          "channel": "pi",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "chase.platon",
+          "count": 9
+        },
+        {
+          "user": "sean.ittel",
+          "count": 4
+        },
+        {
+          "user": "brent.faulkner",
+          "count": 4
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 3
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 2
+        },
+        {
+          "user": "lynnsey.grahamnovak",
+          "count": 2
+        },
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 2
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 2
+        },
+        {
+          "user": "vasile.gorcinschi",
+          "count": 1
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 42,
+      "17": 39,
+      "15": 30,
+      "14": 43,
+      "13": 41,
+      "16": 37,
+      "19": 27,
+      "0": 1,
+      "21": 34,
+      "20": 38,
+      "22": 6,
+      "23": 3,
+      "12": 4
+    },
+    "by_day": {
+      "Wednesday": 91,
+      "Tuesday": 108,
+      "Monday": 67,
+      "Friday": 21,
+      "Thursday": 58
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.9,
+    "dept_average_30d": 5.75,
+    "dept_rank": 135,
+    "dept_size": 357
+  }
+}

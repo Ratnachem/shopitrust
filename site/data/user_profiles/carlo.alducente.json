@@ -1,0 +1,245 @@
+{
+  "username": "carlo.alducente",
+  "name": "Carlo Alducente",
+  "generated_at": "2026-04-08T20:22:15.400937",
+  "summary": {
+    "message_count": 201,
+    "channels_active": 7,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah great, just realized i can also manually transfer it myself, thank you!",
+          "channel": "help-observability",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Coming out of the monorail world, and the pump up reviews, what's the most important thing i can help unblock? Any PRs that I can review that I",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I just made an order for my \"prod\" store, i can see the extension render in both thank you and order status",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you. Let me get the translations in there and will merge first thing tomorrow morning",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ah good call out, thanks!",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "great, thank you",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help. I have witnessed a total of 1 GORM, do you want to set up a quick sync so I can fully prepare for it?",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "great, thanks!",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "great, thank you! i'll do some digging",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":rewind:\n\u2022 Cleaned up the request review feature flags, should now be default behaviour\n\u2022 Addressed the generic \"Something went wrong\" errors that",
+          "channel": "growth-digital-products-onramps",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I have a stack of PRs that will:\n\u2022 Mark the merchant as eligible for review request if they hit ONE of the following milestones:\n    \u25e6 After an order",
+          "channel": "growth-digital-products-onramps",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ok whatever pi is saying doesn't solve my issue with the dashboard rendering an error, back to the drawing board",
+          "channel": "digital-downloads-dev",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "jose.claudio",
+          "count": 6
+        },
+        {
+          "user": "jess.bottali",
+          "count": 5
+        },
+        {
+          "user": "sarah.klem",
+          "count": 5
+        },
+        {
+          "user": "alessandro.nahon",
+          "count": 4
+        },
+        {
+          "user": "shanyu.gowdu",
+          "count": 2
+        },
+        {
+          "user": "dan.ertman",
+          "count": 2
+        },
+        {
+          "user": "madelyn.aaron",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.58,
+      "count": 121,
+      "top_channels": [
+        {
+          "channel": "digital-downloads-dev",
+          "messages": 139
+        },
+        {
+          "channel": "growth-digital-products-onramps",
+          "messages": 45
+        },
+        {
+          "channel": "digital-downloads-ops",
+          "messages": 11
+        },
+        {
+          "channel": "help-observability",
+          "messages": 2
+        },
+        {
+          "channel": "help-polaris",
+          "messages": 2
+        },
+        {
+          "channel": "inc-20998-shipit-nothing-can-deploy-due-to-blocked",
+          "messages": 1
+        },
+        {
+          "channel": "inv-20504-checkout-web-typeerror-cannot-read-proper",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 46,
+      "top_mentioners": [
+        {
+          "user": "dan.ertman",
+          "count": 21
+        },
+        {
+          "user": "sarah.klem",
+          "count": 9
+        },
+        {
+          "user": "jose.claudio",
+          "count": 5
+        },
+        {
+          "user": "jess.bottali",
+          "count": 3
+        },
+        {
+          "user": "alessandro.nahon",
+          "count": 3
+        },
+        {
+          "user": "shanyu.gowdu",
+          "count": 3
+        },
+        {
+          "user": "sam.athar",
+          "count": 1
+        },
+        {
+          "user": "coralie.delpha",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "17": 17,
+      "20": 17,
+      "14": 26,
+      "13": 14,
+      "23": 6,
+      "19": 26,
+      "15": 28,
+      "16": 35,
+      "21": 6,
+      "12": 5,
+      "22": 2,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 40,
+      "Monday": 34,
+      "Thursday": 46,
+      "Friday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.66,
+    "dept_average_30d": 5.58,
+    "dept_rank": 191,
+    "dept_size": 398
+  }
+}

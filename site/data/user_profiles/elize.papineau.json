@@ -1,0 +1,273 @@
+{
+  "username": "elize.papineau",
+  "name": "Elize Papineau",
+  "generated_at": "2026-04-08T20:22:29.288769",
+  "summary": {
+    "message_count": 224,
+    "channels_active": 21,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I'm on standby for re-review:qb_salute:",
+          "channel": "dw-infra",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for sharing. `1. Reorder path \u2014 date/hour first` I am in full agreement with",
+          "channel": "proj-data-platform-clickhouse-routing-migration",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the support here!",
+          "channel": "proj-data-platform-clickhouse-routing-migration",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi all! Wanted to round out the thread with a reply here in case it didn't get completely distributed via DMs. My original concern with the reversion",
+          "channel": "proj-data-platform-decouple-ownership",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to tag me on the ownership transfer review PR :bugcat-cheer:",
+          "channel": "dw-infra",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I'm grabbing caffeine then will be online. LMK how I can help here.",
+          "channel": "dw-infra-monitoring",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much :bow:",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Good to know! Thank you for the support.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey <@U03LLBYHQ5A> I can help out with a few of these. Before I dive into your question, I would recommend that you split this PR into at least three",
+          "channel": "meltano-community",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":fyi: I am :ship:'ing a PR that requires a composer restart. Feel free to ignore any alerting on edge / nginx pipelines for the next ~3 hours - I",
+          "channel": "dw-infra-data-goalie",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Do we need an investigation or incident or whatever  ",
+          "channel": "dw-infra-monitoring",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "ariane.schang",
+          "count": 6
+        },
+        {
+          "user": "margaret.andersonkilfoil",
+          "count": 6
+        },
+        {
+          "user": "kunal.kohli",
+          "count": 5
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 5
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 4
+        },
+        {
+          "user": "brittany.howard",
+          "count": 3
+        },
+        {
+          "user": "trish.gillett",
+          "count": 2
+        },
+        {
+          "user": "kennedy.murphy",
+          "count": 2
+        },
+        {
+          "user": "john.comar",
+          "count": 2
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.72,
+      "count": 170,
+      "top_channels": [
+        {
+          "channel": "dw-infra-data-goalie",
+          "messages": 57
+        },
+        {
+          "channel": "proj-data-platform-clickhouse-routing-migration",
+          "messages": 39
+        },
+        {
+          "channel": "dw-infra-monitoring",
+          "messages": 29
+        },
+        {
+          "channel": "dw-infra",
+          "messages": 23
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 17
+        },
+        {
+          "channel": "proj-data-platform-decouple-ownership",
+          "messages": 12
+        },
+        {
+          "channel": "meltano-community",
+          "messages": 9
+        },
+        {
+          "channel": "inv-19258-dw-tasks-sitting-in-scheduled-state",
+          "messages": 8
+        },
+        {
+          "channel": "data-platform-experience-notify",
+          "messages": 4
+        },
+        {
+          "channel": "ae-self-service-theme",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "kunal.kohli",
+          "count": 5
+        },
+        {
+          "user": "sienna.wishart",
+          "count": 5
+        },
+        {
+          "user": "john.comar",
+          "count": 4
+        },
+        {
+          "user": "marvin.davila",
+          "count": 4
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 3
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 3
+        },
+        {
+          "user": "margaret.anderso-8297",
+          "count": 3
+        },
+        {
+          "user": "rahul.sachan",
+          "count": 2
+        },
+        {
+          "user": "greg.clarke",
+          "count": 2
+        },
+        {
+          "user": "trish.gillett",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 22,
+      "10": 1,
+      "23": 24,
+      "22": 8,
+      "21": 32,
+      "19": 39,
+      "7": 2,
+      "5": 2,
+      "1": 8,
+      "0": 7,
+      "20": 29,
+      "18": 28,
+      "16": 19,
+      "4": 1,
+      "3": 1,
+      "15": 1
+    },
+    "by_day": {
+      "Monday": 14,
+      "Friday": 73,
+      "Thursday": 72,
+      "Wednesday": 44,
+      "Tuesday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.02,
+    "dept_average_30d": 5.39,
+    "dept_rank": 68,
+    "dept_size": 272
+  }
+}

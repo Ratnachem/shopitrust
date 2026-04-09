@@ -1,0 +1,131 @@
+{
+  "username": "katrina.mitchell",
+  "name": "Katrina Mitchell",
+  "generated_at": "2026-04-08T20:22:27.137424",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 8,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! We are having some issues releasing the final payout for this merchant acct_1RBVlAQ12oNtETGz\nWe are being told via a support ticket that",
+          "channel": "external-shopify-shopifypayments-stripe",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!!!",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! We also share the request ID that shows that error message. Would that be enough as well, or would you prefer the error message instead?",
+          "channel": "external-shopify-shopifypayments-stripe",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "zoe.cahill",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.86,
+      "count": 230,
+      "top_channels": [
+        {
+          "channel": "help-fraud-operations",
+          "messages": 5
+        },
+        {
+          "channel": "sarkat-river-chats",
+          "messages": 3
+        },
+        {
+          "channel": "external-shopify-shopifypayments-stripe",
+          "messages": 3
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 2
+        },
+        {
+          "channel": "cti-team",
+          "messages": 2
+        },
+        {
+          "channel": "help-onboarding-foundations",
+          "messages": 2
+        },
+        {
+          "channel": "temp-lpm-operations-collab",
+          "messages": 2
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "zoe.cahill",
+          "count": 2
+        },
+        {
+          "user": "shazia.malik",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 3,
+      "19": 2,
+      "17": 3,
+      "21": 1,
+      "13": 7,
+      "14": 1,
+      "15": 2,
+      "16": 1
+    },
+    "by_day": {
+      "Tuesday": 7,
+      "Monday": 4,
+      "Friday": 3,
+      "Thursday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.97,
+    "dept_average_30d": 4.09,
+    "dept_rank": 289,
+    "dept_size": 642
+  }
+}

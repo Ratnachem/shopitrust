@@ -1,0 +1,254 @@
+{
+  "username": "adam.shepley",
+  "name": "Adam Shepley",
+  "generated_at": "2026-04-08T20:22:06.195487",
+  "summary": {
+    "message_count": 541,
+    "channels_active": 38,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U03UEEF7FQE> feel free to add anything else and regen",
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": ":check: on that PR. We can add it to the queue tomorrow.\n\nI'll DM Simson tomorrow to see where that PR's at. Sounds like it'll be the final blocker",
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "cti-data PR shipped fine. There were some trust battery table DAG errors later but they appear to be unrelated to the table queries that I changed -",
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey again Simson, I was actually a bit wrong: the context of this particular signal is the same as the old version. I was mixing it up with some",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Rad, thanks!",
+          "channel": "help-commerce-trust-integrity",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh, cool. Thank you",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks :wave: I'm looking to update the `ShopFraudSafetyDimension V1` Trust Battery Decision.\n\nWe recently shipped some new signals for things",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "I had assumed that problem went away with the switch to merge commits but it seems I was wrong.",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "(Feel free to add me to the meeting as a :fly: on the wall)",
+          "channel": "trust-battery",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The thing is, I'm not sure that these are \"right\", so to speak. I think with Stripe it was a bit of over-eagerness to be careful, and now it is",
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "GDE marks a timestamp in the event it publishes to Kafka (`x_received_at_ms`, `x_received_at_ts`) as well as the delivery id",
+          "channel": "team-ci",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "jeff.long",
+          "count": 2
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 1
+        },
+        {
+          "user": "marijana.sostaric",
+          "count": 1
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        },
+        {
+          "user": "kate.studwell",
+          "count": 1
+        },
+        {
+          "user": "hossam.mahmoud",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.29,
+      "count": 200,
+      "top_channels": [
+        {
+          "channel": "proj-trust-battery-stripe-identity-v3",
+          "messages": 190
+        },
+        {
+          "channel": "ajs-river-test",
+          "messages": 53
+        },
+        {
+          "channel": "trust-battery-ops",
+          "messages": 50
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 49
+        },
+        {
+          "channel": "inc-21213-trust-battery-decisions-erroring-due-to-b",
+          "messages": 40
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 19
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 18
+        },
+        {
+          "channel": "inv-19748-gde-is-broken",
+          "messages": 15
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 12
+        },
+        {
+          "channel": "inv-21212-seeing-error-in-core-deploy-trustbatterys",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.33,
+      "count": 56,
+      "top_mentioners": [
+        {
+          "user": "kate.studwell",
+          "count": 14
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 6
+        },
+        {
+          "user": "jenna.mccormick",
+          "count": 5
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 4
+        },
+        {
+          "user": "ahmed.ismail",
+          "count": 4
+        },
+        {
+          "user": "andy.di",
+          "count": 3
+        },
+        {
+          "user": "chao.duan",
+          "count": 3
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 2
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 2
+        },
+        {
+          "user": "marijana.sostaric",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 45,
+      "15": 86,
+      "14": 105,
+      "13": 32,
+      "22": 37,
+      "21": 42,
+      "20": 51,
+      "19": 53,
+      "17": 36,
+      "16": 51,
+      "23": 1,
+      "12": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 95,
+      "Tuesday": 171,
+      "Monday": 114,
+      "Thursday": 87,
+      "Friday": 74
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.75,
+    "dept_rank": 131,
+    "dept_size": 357
+  }
+}

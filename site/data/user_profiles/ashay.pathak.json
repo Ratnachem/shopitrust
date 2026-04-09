@@ -1,0 +1,230 @@
+{
+  "username": "ashay.pathak",
+  "name": "Ashay Pathak",
+  "generated_at": "2026-04-08T20:22:14.142789",
+  "summary": {
+    "message_count": 252,
+    "channels_active": 20,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 45,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "The raw attribution source we have today (`multi_shop_orders`) tells us an order happened between a publisher and advertiser \u2014 which is sufficient",
+          "channel": "mm-ads-eng-and-data",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats Tom :tada: :claps:",
+          "channel": "merchant-marketing-talk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U03Q32TB50A> <@W018HMV1HL2>\n\nThe `product_network_personalization_funnel` DAG has been failing in prod since last night. The root cause is a PII",
+          "channel": "merchant-marketing-product-sourcing-data",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Based on my investigation so far, this drop does seem more than surface level mix shift but",
+          "channel": "revenue-softness-feb-2026",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if I'm missing context or if there are other angles worth looking into. Based on what I see, it seems like letting SFSO fully control ad",
+          "channel": "proj-1p-integrate-ads-in-shop-homefeed-mixing-layers",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "yingwei.lin",
+          "count": 14
+        },
+        {
+          "user": "akshay.soni",
+          "count": 12
+        },
+        {
+          "user": "rhys.young",
+          "count": 11
+        },
+        {
+          "user": "bhisham.gudwani",
+          "count": 10
+        },
+        {
+          "user": "peter.thesling",
+          "count": 10
+        },
+        {
+          "user": "timothy.weeks",
+          "count": 8
+        },
+        {
+          "user": "selina.li",
+          "count": 5
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 5
+        },
+        {
+          "user": "nikita.kiselev",
+          "count": 4
+        },
+        {
+          "user": "louisphilippe.thibault",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.78,
+      "count": 173,
+      "top_channels": [
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 146
+        },
+        {
+          "channel": "revenue-softness-feb-2026",
+          "messages": 25
+        },
+        {
+          "channel": "proj-real-time-inference-product-network",
+          "messages": 19
+        },
+        {
+          "channel": "proj-1p-integrate-ads-in-shop-homefeed-mixing-layers",
+          "messages": 12
+        },
+        {
+          "channel": "proj-mm-dynamic-offers",
+          "messages": 11
+        },
+        {
+          "channel": "shop-data-alerts",
+          "messages": 5
+        },
+        {
+          "channel": "proj-product-interaction-events",
+          "messages": 4
+        },
+        {
+          "channel": "proj-probabilities-fixes",
+          "messages": 4
+        },
+        {
+          "channel": "mm-ads-eng-and-data",
+          "messages": 4
+        },
+        {
+          "channel": "proj-3p-meta-personalized-recommendations",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 189,
+      "top_mentioners": [
+        {
+          "user": "peter.thesling",
+          "count": 26
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 24
+        },
+        {
+          "user": "akshay.soni",
+          "count": 23
+        },
+        {
+          "user": "rhys.young",
+          "count": 15
+        },
+        {
+          "user": "jenny.stanchak",
+          "count": 11
+        },
+        {
+          "user": "sang.le",
+          "count": 7
+        },
+        {
+          "user": "mark.rich",
+          "count": 7
+        },
+        {
+          "user": "connor.clark",
+          "count": 6
+        },
+        {
+          "user": "youssef.ahres",
+          "count": 5
+        },
+        {
+          "user": "jon.burns",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 25,
+      "16": 24,
+      "15": 24,
+      "14": 15,
+      "13": 30,
+      "21": 20,
+      "17": 18,
+      "12": 8,
+      "23": 10,
+      "22": 15,
+      "20": 15,
+      "0": 15,
+      "19": 26,
+      "4": 1,
+      "1": 2,
+      "2": 4
+    },
+    "by_day": {
+      "Wednesday": 58,
+      "Tuesday": 70,
+      "Monday": 37,
+      "Friday": 57,
+      "Thursday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.95,
+    "dept_average_30d": 5.77,
+    "dept_rank": 328,
+    "dept_size": 885
+  }
+}

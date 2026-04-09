@@ -1,0 +1,91 @@
+{
+  "username": "jasthine.pablico",
+  "name": "Jasthine Pablico",
+  "generated_at": "2026-04-08T20:22:32.316311",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh okay. I'll follow our process then. Thank you so much!",
+          "channel": "help-legal",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.0,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "cristina.flores",
+          "count": 2
+        },
+        {
+          "user": "laura.staszkiel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-legal",
+          "messages": 7
+        },
+        {
+          "channel": "help-flow",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.68,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "cristina.flores",
+          "count": 2
+        },
+        {
+          "user": "laura.staszkiel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 5,
+      "19": 1,
+      "20": 1,
+      "3": 2
+    },
+    "by_day": {
+      "Thursday": 3,
+      "Wednesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.83,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1331,
+    "dept_size": 1663
+  }
+}

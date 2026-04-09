@@ -1,0 +1,238 @@
+{
+  "username": "tanner.bruce",
+  "name": "Tanner Bruce",
+  "generated_at": "2026-04-08T20:22:29.697576",
+  "summary": {
+    "message_count": 413,
+    "channels_active": 25,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "anyways. :homer-bushes: I'm around-ish this week feel free to ping me for review if needed. Just mostly not around.",
+          "channel": "proj-ch-operator",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "want me to scale down ingest?",
+          "channel": "clickhouse-shopify-poc-shared",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "discuss-investigate-api",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for digging in to this",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the proper fix is likely on IAPI side really I guess, and making sure the filters that get added in backend are AND'd with whatever investigate sets",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "should I see it here or elsewhere",
+          "channel": "clickhouse-shopify-poc-shared",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "happy to do whatever :shrug: in the end all we need is a project that still gets our negotiated gcp pricing that we have control over",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "dustin.hooten",
+          "count": 2
+        },
+        {
+          "user": "matt.franklin",
+          "count": 2
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 2
+        },
+        {
+          "user": "abhay.singh",
+          "count": 2
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 1
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 1
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 1
+        },
+        {
+          "user": "sam.handler",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "clickhouse-shopify-poc-shared",
+          "messages": 75
+        },
+        {
+          "channel": "discuss-investigate-api",
+          "messages": 67
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 40
+        },
+        {
+          "channel": "proj-o11y-ingestion-next-gen",
+          "messages": 40
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 24
+        },
+        {
+          "channel": "inv-20992-clickhouse-insert-delays",
+          "messages": 23
+        },
+        {
+          "channel": "proj-ch-operator",
+          "messages": 23
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 18
+        },
+        {
+          "channel": "proj-ch-json-type",
+          "messages": 13
+        },
+        {
+          "channel": "proj-app-transparency-boiler-room",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.06,
+      "count": 63,
+      "top_mentioners": [
+        {
+          "user": "panos.tsavdaris",
+          "count": 11
+        },
+        {
+          "user": "sam.handler",
+          "count": 10
+        },
+        {
+          "user": "michael.wilkerson",
+          "count": 8
+        },
+        {
+          "user": "rob.cardy",
+          "count": 6
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 5
+        },
+        {
+          "user": "anya.zenkina",
+          "count": 3
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 2
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 2
+        },
+        {
+          "user": "abhay.singh",
+          "count": 2
+        },
+        {
+          "user": "pulkit.garg",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 47,
+      "20": 32,
+      "9": 7,
+      "16": 48,
+      "7": 1,
+      "14": 52,
+      "12": 21,
+      "11": 7,
+      "22": 13,
+      "19": 20,
+      "18": 44,
+      "17": 37,
+      "13": 30,
+      "15": 43,
+      "10": 9,
+      "8": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 92,
+      "Monday": 69,
+      "Friday": 49,
+      "Thursday": 98,
+      "Tuesday": 105
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.75,
+    "dept_rank": 127,
+    "dept_size": 357
+  }
+}

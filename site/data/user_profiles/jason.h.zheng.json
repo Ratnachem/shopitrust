@@ -1,0 +1,261 @@
+{
+  "username": "jason.h.zheng",
+  "name": "Jason H Zheng",
+  "generated_at": "2026-04-08T20:22:08.532158",
+  "summary": {
+    "message_count": 219,
+    "channels_active": 11,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 22,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 10,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to try though, I'm not blocking this.",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to make any changes to the DAG based on your analysis. Nothing to be restricted as long as the DAG can support your needs.",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to snooze it if this triggers again,.",
+          "channel": "reportify-etl-ops",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great analysis, thank you! Can you elaborate more on this category: `company_name` mismatch -> 1,319\nIs this due to stale reads on QE?",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Update the PR for `_kafka_consumed_time` metadata: <https://github.com/Shopify/flink-lib/pull/533>\nThanks!",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U01L9AM5MNG> I addressed you comments. Tophatted the PR in",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Proposal to Update Table Access Policy for our 2 service accounts:\n\u2022 <https://infra-central.shopify.io/proposals/12932>\n\u2022",
+          "channel": "data-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team! :wave: Not sure if this is right place to ask. I have a Terraform PR that needs review from the Ingestion team as owners of",
+          "channel": "data-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U01L9AM5MNG> do you mind give this one a review? Thanks!",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Nice finding! For \"shops\" I tried to deploy last Friday and it failed on CI timeout. I just retry it this morning and it worked, thanks to all the",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.78,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "vanessa.vuibert",
+          "count": 5
+        },
+        {
+          "user": "yifan.ye",
+          "count": 3
+        },
+        {
+          "user": "joshua.kim",
+          "count": 3
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 3
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 2
+        },
+        {
+          "user": "trideep.roy",
+          "count": 2
+        },
+        {
+          "user": "kyle.marshall",
+          "count": 2
+        },
+        {
+          "user": "michael.terranova",
+          "count": 2
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 1
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.61,
+      "count": 157,
+      "top_channels": [
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 119
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 25
+        },
+        {
+          "channel": "inc-21142-burst-cdc-traffic-causing-update-kafka-to",
+          "messages": 20
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 19
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 9
+        },
+        {
+          "channel": "reportify-etl-ops",
+          "messages": 9
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 9
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 5
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 2
+        },
+        {
+          "channel": "slack-webhook-test-channel",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.49,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "yifan.ye",
+          "count": 11
+        },
+        {
+          "user": "trideep.roy",
+          "count": 7
+        },
+        {
+          "user": "steven.lee",
+          "count": 6
+        },
+        {
+          "user": "tyler.noseworthy",
+          "count": 6
+        },
+        {
+          "user": "joshua.kim",
+          "count": 5
+        },
+        {
+          "user": "leo.godin",
+          "count": 3
+        },
+        {
+          "user": "juan.esparza",
+          "count": 2
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 1
+        },
+        {
+          "user": "ani.panwar",
+          "count": 1
+        },
+        {
+          "user": "valentinas.mital-2577",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 38,
+      "17": 38,
+      "16": 13,
+      "0": 9,
+      "22": 29,
+      "21": 29,
+      "20": 19,
+      "3": 1,
+      "2": 1,
+      "23": 15,
+      "19": 16,
+      "15": 11
+    },
+    "by_day": {
+      "Wednesday": 55,
+      "Tuesday": 42,
+      "Monday": 25,
+      "Friday": 35,
+      "Thursday": 62
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.04,
+    "dept_average_30d": 4.74,
+    "dept_rank": 185,
+    "dept_size": 1663
+  }
+}

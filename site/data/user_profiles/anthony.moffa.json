@@ -1,0 +1,267 @@
+{
+  "username": "anthony.moffa",
+  "name": "Anthony Moffa",
+  "generated_at": "2026-04-08T20:22:23.647007",
+  "summary": {
+    "message_count": 455,
+    "channels_active": 14,
+    "unique_people_mentioned": 77,
+    "unique_mentioners": 43,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 7,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U08D6JDTVB8> This looks to be a stripe initiated transfer of funds, probably related to the account closing. It's worth reaching out to stripe",
+          "channel": "help-balance",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats <@U036J0YTEDV>",
+          "channel": "fs-coffee-chat",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "So I have that stack. It was an adventure getting all the services to play nice together, but I was able to test it. Looks like its working locally.",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Back in action, thank you",
+          "channel": "help-minerva-clouddo",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help. We're adding some additional details to banking internal for the list of inbound transfers so you can see this reasons yourself.",
+          "channel": "help-balance",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I poked around a little more, it actually might be that there's a sneaky unicode character slipping in on that field. Found this while trying",
+          "channel": "help-shopify-payments-kyc",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "so unless it gets a shop ID up frront, the mcp tools are useless",
+          "channel": "proj-balance-atc",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ah, that second one is a different case. That's an offboarding payout. That business was closed, and we have a workflow for sending their remaining",
+          "channel": "banking-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@W018WA8T589> It looks like this this payment was returned because of issues with the receiving account:\n```Reversal Code: no_account\nReversal ACH",
+          "channel": "help-balance",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Sorry, just to be clear, you should escalate through whatever means you have. Whatever feedback they're taking will take some time to be implemented.",
+          "channel": "help-balance",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 78,
+      "top_mentioned": [
+        {
+          "user": "jeremy.ward",
+          "count": 15
+        },
+        {
+          "user": "robin.brandt",
+          "count": 6
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 5
+        },
+        {
+          "user": "sandeep.koduvanda",
+          "count": 4
+        },
+        {
+          "user": "angus.kwong",
+          "count": 4
+        },
+        {
+          "user": "stephen.dong",
+          "count": 4
+        },
+        {
+          "user": "holly.burnard",
+          "count": 4
+        },
+        {
+          "user": "claudia.chauvier",
+          "count": 4
+        },
+        {
+          "user": "ryan.quanz",
+          "count": 4
+        },
+        {
+          "user": "nathaniel.fernandes",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "help-balance",
+          "messages": 191
+        },
+        {
+          "channel": "balance-exceptions",
+          "messages": 93
+        },
+        {
+          "channel": "proj-balance-atc",
+          "messages": 67
+        },
+        {
+          "channel": "banking-dev",
+          "messages": 39
+        },
+        {
+          "channel": "proj-recipient-management",
+          "messages": 22
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 9
+        },
+        {
+          "channel": "river-anthony",
+          "messages": 7
+        },
+        {
+          "channel": "banking-security",
+          "messages": 7
+        },
+        {
+          "channel": "fs-coffee-chat",
+          "messages": 6
+        },
+        {
+          "channel": "inc-19707-connect-account-via-plaid-in-shopify-mobi",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 133,
+      "top_mentioners": [
+        {
+          "user": "michael.elfassy",
+          "count": 24
+        },
+        {
+          "user": "jeremy.ward",
+          "count": 20
+        },
+        {
+          "user": "holly.burnard",
+          "count": 9
+        },
+        {
+          "user": "jed.piezas",
+          "count": 7
+        },
+        {
+          "user": "gary.suarez",
+          "count": 6
+        },
+        {
+          "user": "thomas.gates",
+          "count": 5
+        },
+        {
+          "user": "mujtaba.zaidi",
+          "count": 5
+        },
+        {
+          "user": "stewart.rand",
+          "count": 4
+        },
+        {
+          "user": "xaria.kwa",
+          "count": 3
+        },
+        {
+          "user": "sandeep.koduvanda",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 83,
+      "13": 66,
+      "18": 55,
+      "17": 45,
+      "15": 65,
+      "21": 7,
+      "20": 46,
+      "19": 43,
+      "16": 37,
+      "12": 8
+    },
+    "by_day": {
+      "Wednesday": 117,
+      "Tuesday": 87,
+      "Monday": 69,
+      "Friday": 84,
+      "Thursday": 98
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.38,
+    "dept_average_30d": 5.77,
+    "dept_rank": 153,
+    "dept_size": 885
+  }
+}

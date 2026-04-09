@@ -1,0 +1,337 @@
+{
+  "username": "josh.heinrichs",
+  "name": "Josh Heinrichs",
+  "generated_at": "2026-04-08T20:22:15.238635",
+  "summary": {
+    "message_count": 616,
+    "channels_active": 28,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 44,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 14,
+      "neg_count": 10,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "much appreciated thank you!!!",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yeah that sounds great! thank you steph :bow:",
+          "channel": "team-ci",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "im having trouble groking this feel free to hop into the tuple if you're able to talk",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "that second fix shipped ~7 hours ago thanks to ester's review, and eval times are reasonable on main again. ill still get a builtin added for",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "happy to help if anything else is needed :slightly_smiling_face:",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "i think i got that working last week but happy to help if any additional changes are",
+          "channel": "proj-eng-convergence-lifecycle",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<!here> :tectonix-intensifies::nix-intensifies: ~90% of `dev up`s in world are now powered by Tectonix. We need your help getting to 100% by",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "put up a revert for this <https://github.com/shop/world/pull/510088>. if anyone on eu time approves this feel free to merge on by behalf",
+          "channel": "tectonix",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@W018WACRPJM> i suspect that this was a dev env that was created prior to the nix gc fix landing but if you're still experiencing issues im happy to",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02AT9RK8P7> this appears to get the red-arrow gems building feel free to take this patch and run with it for your work.",
+          "channel": "tectonix",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if this is specifically triggered by invoking `/usr/bin/security` dev's daemon likely invokes that sometimes. i dont think that `tec janitor` does.",
+          "channel": "projects-environments",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "not sure why our team got pinged on this. if you get an approval from whatever vault team 16581 is, i think that's sufficient",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "oh i guess to the other part of the thread, i think shipping a light fork of bundler is probably fine? i think we'd have to turn off its ability to",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U08959VBCUT> just so this in on your radar. this looks like it's good to ship. i've tested it on a bunch of zones w/ various pnpm versions. we're",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":+1: burke has a pr where he's adding <https://github.com/purpleclay/go-overlay|go-overlay> for dev environments. we could feasibly match the",
+          "channel": "tectonix-alerts",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "ohhh doh im stupid :facepalm:",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ideally i think it should operate as a cross-zone dependency and you should use whatever version is in the monorepo for the given sha",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "once a project is using tectonix-built dependencies getting the dependencies set up should be ~instant though. for ruby projects we need to run",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "once we're fully on <https://shopify.slack.com/archives/C07ATD6DE2C/p1770233838659509|tectonix dev envs> in world we'll just be building + caching",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "looks like whatever commit you're on hasnt been pushed to github. the file in question is `areas/platforms/trust-platform/zone.nix`. `libiconv` was",
+          "channel": "dev-up",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "jon.ringer",
+          "count": 9
+        },
+        {
+          "user": "don.kelly",
+          "count": 4
+        },
+        {
+          "user": "sam.bostock",
+          "count": 3
+        },
+        {
+          "user": "ashley.williams",
+          "count": 3
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "justin.hill",
+          "count": 2
+        },
+        {
+          "user": "tom.rochette",
+          "count": 1
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 1
+        },
+        {
+          "user": "vinicius.stock",
+          "count": 1
+        },
+        {
+          "user": "lily.foster",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.95,
+      "count": 288,
+      "top_channels": [
+        {
+          "channel": "projects-environments",
+          "messages": 171
+        },
+        {
+          "channel": "dev-up",
+          "messages": 98
+        },
+        {
+          "channel": "tectonix",
+          "messages": 92
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 59
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 54
+        },
+        {
+          "channel": "proj-eng-convergence-lifecycle",
+          "messages": 25
+        },
+        {
+          "channel": "inv-19932-high-number-github-action-runs-in-pending",
+          "messages": 20
+        },
+        {
+          "channel": "inv-19997-devx-ci-trigger-is-failing",
+          "messages": 15
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 12
+        },
+        {
+          "channel": "proj-instant-dev-envs",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 145,
+      "top_mentioners": [
+        {
+          "user": "ashley.williams",
+          "count": 45
+        },
+        {
+          "user": "jon.ringer",
+          "count": 11
+        },
+        {
+          "user": "don.kelly",
+          "count": 11
+        },
+        {
+          "user": "lily.foster",
+          "count": 9
+        },
+        {
+          "user": "vaidas.pilkauskas",
+          "count": 8
+        },
+        {
+          "user": "sam.bostock",
+          "count": 7
+        },
+        {
+          "user": "victor.sumner",
+          "count": 4
+        },
+        {
+          "user": "jacob.michels",
+          "count": 3
+        },
+        {
+          "user": "justin.hill",
+          "count": 3
+        },
+        {
+          "user": "robert.mic",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 76,
+      "17": 74,
+      "16": 56,
+      "22": 50,
+      "21": 85,
+      "15": 54,
+      "23": 48,
+      "20": 67,
+      "19": 57,
+      "0": 19,
+      "5": 4,
+      "4": 7,
+      "3": 2,
+      "13": 6,
+      "7": 1,
+      "14": 9,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 155,
+      "Tuesday": 141,
+      "Monday": 101,
+      "Friday": 75,
+      "Thursday": 144
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.61,
+    "dept_average_30d": 5.75,
+    "dept_rank": 45,
+    "dept_size": 357
+  }
+}

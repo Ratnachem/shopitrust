@@ -1,0 +1,202 @@
+{
+  "username": "trevor.walker",
+  "name": "Trevor Walker",
+  "generated_at": "2026-04-08T20:22:31.305001",
+  "summary": {
+    "message_count": 75,
+    "channels_active": 6,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Michael, I've updated the file detection on our end. Can you run the santa command again and let me know if it works?",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both for the help! That seems to have worked for me.",
+          "channel": "infra-central",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "No problem! If you have anymore questions, don't hesitate to pop back into this thread.",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey, thank you for reaching out. You did the right think here. Tracking internally developed github and slack apps is a relatively new process for",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to invite me to your sync and I'll come prepared",
+          "channel": "proj-appsec-ai",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Could you please now run `santactl sync --clean` and let me know if you are able to disable lockdown mode?",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Hi <@W018GAEDVKP>, you should have received an email from John on Friday about this. I'd encourage you to respond to him there.",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "alexa.whitney",
+          "count": 1
+        },
+        {
+          "user": "aamina.parkar",
+          "count": 1
+        },
+        {
+          "user": "matta.wakim",
+          "count": 1
+        },
+        {
+          "user": "stephanie.burton",
+          "count": 1
+        },
+        {
+          "user": "genevieve.luyt",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.83,
+      "count": 22,
+      "top_channels": [
+        {
+          "channel": "help-kepler",
+          "messages": 64
+        },
+        {
+          "channel": "proj-appsec-ai",
+          "messages": 4
+        },
+        {
+          "channel": "kepler-ops",
+          "messages": 3
+        },
+        {
+          "channel": "infra-central",
+          "messages": 2
+        },
+        {
+          "channel": "kepler-dev",
+          "messages": 1
+        },
+        {
+          "channel": "proj-cve-monitoring",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "nicole.lee",
+          "count": 5
+        },
+        {
+          "user": "chris.lafrance",
+          "count": 3
+        },
+        {
+          "user": "david.jee",
+          "count": 2
+        },
+        {
+          "user": "jamie.strachan",
+          "count": 1
+        },
+        {
+          "user": "pulkit.garg",
+          "count": 1
+        },
+        {
+          "user": "alexa.whitney",
+          "count": 1
+        },
+        {
+          "user": "misha.damjanic",
+          "count": 1
+        },
+        {
+          "user": "aamina.parkar",
+          "count": 1
+        },
+        {
+          "user": "felipe.saez",
+          "count": 1
+        },
+        {
+          "user": "claire.wang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 8,
+      "19": 6,
+      "18": 17,
+      "15": 12,
+      "16": 5,
+      "14": 12,
+      "17": 8,
+      "13": 6,
+      "21": 1
+    },
+    "by_day": {
+      "Tuesday": 25,
+      "Friday": 12,
+      "Thursday": 14,
+      "Monday": 10,
+      "Wednesday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.67,
+    "dept_average_30d": 4.89,
+    "dept_rank": 126,
+    "dept_size": 237
+  }
+}

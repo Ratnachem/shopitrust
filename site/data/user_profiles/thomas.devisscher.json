@@ -1,0 +1,273 @@
+{
+  "username": "thomas.devisscher",
+  "name": "Thomas Devisscher",
+  "generated_at": "2026-04-08T20:22:08.242036",
+  "summary": {
+    "message_count": 345,
+    "channels_active": 20,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Interesting :thinking_face: trying the repack command now. Thank you!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Crystine, I looked into this. The behavior you're seeing is expected for Buy X, Get Y discounts.\n\nThe BXGY discount applies *once per qualifying",
+          "channel": "help-discounts",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to triage these?",
+          "channel": "proj-discounts-eligibility-by-market",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hey Dave, this section of discounts is not released, and won't be released, so we can essentially delete those files and its exports instead of",
+          "channel": "help-discounts",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to put the PR as skip queue?",
+          "channel": "admin-web-atc",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "If the fix doesn't resolve the issue, feel free to punt it back at us :smile:",
+          "channel": "orders-flags-notifications",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok thank you :man-bowing:, moved this one to your board :slightly_smiling_face: <https://github.com/shop/issues/issues/17199>",
+          "channel": "orders-flags-notifications",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah yes, that was it. :man-bowing: My root tree was in a bad state. Thank you!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Updated, thank you :slightly_smiling_face:!",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help too :quick: :slightly_smiling_face:",
+          "channel": "proj-discounts-eligibility-by-market",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Right, whatever we do, I'd advocate for consistency throughout the page though",
+          "channel": "proj-discounts-eligibility-by-market",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "ian.phipps",
+          "count": 4
+        },
+        {
+          "user": "mathius.johnson",
+          "count": 3
+        },
+        {
+          "user": "loic.delaubier",
+          "count": 3
+        },
+        {
+          "user": "diana.cheptene",
+          "count": 3
+        },
+        {
+          "user": "ali.lakhani",
+          "count": 2
+        },
+        {
+          "user": "muna.rahman",
+          "count": 2
+        },
+        {
+          "user": "shahriar.rahman",
+          "count": 1
+        },
+        {
+          "user": "david.xu",
+          "count": 1
+        },
+        {
+          "user": "scott.mcneill",
+          "count": 1
+        },
+        {
+          "user": "jitesh.sachdeva",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.2,
+      "count": 248,
+      "top_channels": [
+        {
+          "channel": "proj-discounts-eligibility-by-market",
+          "messages": 108
+        },
+        {
+          "channel": "discounts-team",
+          "messages": 74
+        },
+        {
+          "channel": "discounts-river",
+          "messages": 32
+        },
+        {
+          "channel": "admin-web-atc",
+          "messages": 23
+        },
+        {
+          "channel": "discounts-exceptions",
+          "messages": 20
+        },
+        {
+          "channel": "help-discounts",
+          "messages": 18
+        },
+        {
+          "channel": "orders-flags-notifications",
+          "messages": 15
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 12
+        },
+        {
+          "channel": "pi",
+          "messages": 8
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "loic.delaubier",
+          "count": 14
+        },
+        {
+          "user": "mathius.johnson",
+          "count": 9
+        },
+        {
+          "user": "syed.mohsin",
+          "count": 3
+        },
+        {
+          "user": "jordan.foreman",
+          "count": 3
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 3
+        },
+        {
+          "user": "muna.rahman",
+          "count": 3
+        },
+        {
+          "user": "fabrice.dugas",
+          "count": 2
+        },
+        {
+          "user": "shahriar.rahman",
+          "count": 2
+        },
+        {
+          "user": "ian.phipps",
+          "count": 2
+        },
+        {
+          "user": "emily.reddin",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "17": 32,
+      "14": 36,
+      "20": 32,
+      "19": 28,
+      "16": 20,
+      "13": 27,
+      "21": 40,
+      "15": 35,
+      "22": 31,
+      "1": 5,
+      "12": 9,
+      "0": 1,
+      "11": 4,
+      "4": 1,
+      "23": 9
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 101,
+      "Monday": 52,
+      "Thursday": 59,
+      "Friday": 56
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.3,
+    "dept_average_30d": 4.74,
+    "dept_rank": 127,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "username": "david.mariassy",
+  "name": "David Mariassy",
+  "generated_at": "2026-04-08T20:22:32.167126",
+  "summary": {
+    "message_count": 201,
+    "channels_active": 18,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The Frontend and Foundations teams are at a Burst today and tomorrow so our responses here will be delayed. Feel free to page us in case of an",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "There is a little \"thank you\" note for you folks in our Vault update",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad",
+          "channel": "streaming-frontend-alerts",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "&gt; Would it be possible to enable for notifications topics? They're keyed but we don't care if the ordering is messed up within Kafka\nWe could do",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "eli.bailey",
+          "count": 6
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 4
+        },
+        {
+          "user": "frank.jania",
+          "count": 2
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 1
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "devon.boyer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.8,
+      "count": 174,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 80
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 30
+        },
+        {
+          "channel": "streaming-frontend-alerts",
+          "messages": 14
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 14
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 13
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 11
+        },
+        {
+          "channel": "proj-core-kafka-consumer-efficiency",
+          "messages": 11
+        },
+        {
+          "channel": "streaming-platform-discuss",
+          "messages": 5
+        },
+        {
+          "channel": "kafka-access-controls",
+          "messages": 4
+        },
+        {
+          "channel": "inv-19945-kubernetes-manifest-error-blocking-core-d",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.62,
+      "count": 30,
+      "top_mentioners": [
+        {
+          "user": "may.aboalrejal",
+          "count": 3
+        },
+        {
+          "user": "peter.limawal",
+          "count": 3
+        },
+        {
+          "user": "nick.ryan",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 2
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 2
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "bo.senyshyn",
+          "count": 1
+        },
+        {
+          "user": "selvi.arora",
+          "count": 1
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 1
+        },
+        {
+          "user": "pawan.patel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "17": 41,
+      "15": 14,
+      "14": 35,
+      "13": 28,
+      "12": 4,
+      "20": 21,
+      "19": 15,
+      "16": 12,
+      "23": 7,
+      "21": 6
+    },
+    "by_day": {
+      "Thursday": 47,
+      "Wednesday": 68,
+      "Tuesday": 27,
+      "Monday": 29,
+      "Friday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.99,
+    "dept_average_30d": 4.74,
+    "dept_rank": 552,
+    "dept_size": 1663
+  }
+}

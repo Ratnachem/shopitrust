@@ -1,0 +1,132 @@
+{
+  "username": "anh.dinh",
+  "name": "Anh Dinh",
+  "generated_at": "2026-04-08T20:22:29.546937",
+  "summary": {
+    "message_count": 17,
+    "channels_active": 6,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It worked! Thank you so much!",
+          "channel": "help-av",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-legal-marketing",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "neil.padgett",
+          "count": 2
+        },
+        {
+          "user": "aj.lowndes",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.55,
+      "count": 120,
+      "top_channels": [
+        {
+          "channel": "help-legal-marketing",
+          "messages": 7
+        },
+        {
+          "channel": "bds-crit",
+          "messages": 3
+        },
+        {
+          "channel": "bds-merchant-image-bank-use",
+          "messages": 2
+        },
+        {
+          "channel": "help-av",
+          "messages": 2
+        },
+        {
+          "channel": "ad-salon",
+          "messages": 2
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "alejandra.meza",
+          "count": 3
+        },
+        {
+          "user": "neil.padgett",
+          "count": 2
+        },
+        {
+          "user": "jennifer.rogers",
+          "count": 1
+        },
+        {
+          "user": "aj.dagostino",
+          "count": 1
+        },
+        {
+          "user": "jess.peterson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 6,
+      "15": 2,
+      "18": 2,
+      "17": 1,
+      "21": 4,
+      "19": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Monday": 3,
+      "Wednesday": 5,
+      "Friday": 4,
+      "Thursday": 1,
+      "Tuesday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Brand Design Studio",
+    "user_score_30d": 3.95,
+    "dept_average_30d": 4.57,
+    "dept_rank": 58,
+    "dept_size": 81
+  }
+}

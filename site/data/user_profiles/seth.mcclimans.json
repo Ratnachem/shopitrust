@@ -1,0 +1,110 @@
+{
+  "username": "seth.mcclimans",
+  "name": "Seth McClimans",
+  "generated_at": "2026-04-08T20:22:31.537854",
+  "summary": {
+    "message_count": 19,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No! Here I'll move it over now :\u200a) thank you",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "colin.sinclair",
+          "count": 1
+        },
+        {
+          "user": "alli.stewart",
+          "count": 1
+        },
+        {
+          "user": "ewa.johnson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.71,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "customer-references",
+          "messages": 9
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 6
+        },
+        {
+          "channel": "help-partner-plus-compensation",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "alli.stewart",
+          "count": 4
+        },
+        {
+          "user": "katie.george",
+          "count": 3
+        },
+        {
+          "user": "goltan.jebreili",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 4,
+      "18": 3,
+      "19": 6,
+      "14": 1,
+      "17": 1,
+      "0": 1,
+      "16": 1,
+      "3": 2
+    },
+    "by_day": {
+      "Monday": 5,
+      "Tuesday": 4,
+      "Friday": 3,
+      "Thursday": 4,
+      "Wednesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.02,
+    "dept_average_30d": 4.32,
+    "dept_rank": 519,
+    "dept_size": 848
+  }
+}

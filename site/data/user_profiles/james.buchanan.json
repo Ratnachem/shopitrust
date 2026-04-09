@@ -1,0 +1,148 @@
+{
+  "username": "james.buchanan",
+  "name": "James Buchanan",
+  "generated_at": "2026-04-08T20:22:25.933175",
+  "summary": {
+    "message_count": 39,
+    "channels_active": 10,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team, TMS here. I\u2019ve got a curious one where a merchant is noticing their Thank you page isn\u2019t loading the Google Map. This only seems to be",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Okay it\u2019s more of a typical TMS-like response so feel free to spice it up where",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "zin.pomarenski",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.59,
+      "count": 163,
+      "top_channels": [
+        {
+          "channel": "support-case-159",
+          "messages": 12
+        },
+        {
+          "channel": "merchant-escalations",
+          "messages": 10
+        },
+        {
+          "channel": "help-labels",
+          "messages": 4
+        },
+        {
+          "channel": "help-files",
+          "messages": 3
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 3
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 2
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 2
+        },
+        {
+          "channel": "help-credit-risk",
+          "messages": 1
+        },
+        {
+          "channel": "help-shopify-messaging-app",
+          "messages": 1
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "zin.pomarenski",
+          "count": 14
+        },
+        {
+          "user": "jodi.shambrook",
+          "count": 7
+        },
+        {
+          "user": "dakota.yetman",
+          "count": 3
+        },
+        {
+          "user": "bozena.jagic",
+          "count": 1
+        },
+        {
+          "user": "joe.davidson",
+          "count": 1
+        },
+        {
+          "user": "paulina.lizewski",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "2": 3,
+      "1": 3,
+      "21": 6,
+      "3": 2,
+      "23": 5,
+      "22": 1,
+      "20": 19
+    },
+    "by_day": {
+      "Wednesday": 7,
+      "Tuesday": 14,
+      "Monday": 6,
+      "Friday": 1,
+      "Thursday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.99,
+    "dept_average_30d": 4.09,
+    "dept_rank": 281,
+    "dept_size": 642
+  }
+}

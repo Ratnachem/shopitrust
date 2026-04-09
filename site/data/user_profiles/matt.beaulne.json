@@ -1,0 +1,187 @@
+{
+  "username": "matt.beaulne",
+  "name": "Matt Beaulne",
+  "generated_at": "2026-04-08T20:22:19.230996",
+  "summary": {
+    "message_count": 123,
+    "channels_active": 3,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "has anyone used AI for ticket creation in github? Seems like claude does a pretty amazing job at it",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to action on it in the morning?",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or do whatever!",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The `/address-pr-comments` is pretty nice. It allows you to select the comments that you want the AI to address directly. So any low-hanging fruit,",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It seems to work. I purposely didn\u2019t make anything destructive, so like closing issues or whatever, but I made sure to ping the users that are in the",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We can do whatever. We didn't have the overlay at the time but wanted it in there to begin with ",
+          "channel": "tangle-dev",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "camiel.vanschoonhoven",
+          "count": 6
+        },
+        {
+          "user": "morgan.wowk",
+          "count": 5
+        },
+        {
+          "user": "maxim.ezhov",
+          "count": 4
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 3
+        },
+        {
+          "user": "yuechao.qin",
+          "count": 3
+        },
+        {
+          "user": "matt.mitsui",
+          "count": 1
+        },
+        {
+          "user": "noah.frank",
+          "count": 1
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 1
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 1
+        },
+        {
+          "user": "xinjing.wang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.42,
+      "count": 64,
+      "top_channels": [
+        {
+          "channel": "tangle-dev",
+          "messages": 109
+        },
+        {
+          "channel": "tangle",
+          "messages": 13
+        },
+        {
+          "channel": "help-tangle",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "yuechao.qin",
+          "count": 12
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 5
+        },
+        {
+          "user": "morgan.wowk",
+          "count": 4
+        },
+        {
+          "user": "camiel.vanschoonhoven",
+          "count": 4
+        },
+        {
+          "user": "maxim.ezhov",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 18,
+      "13": 8,
+      "14": 2,
+      "20": 14,
+      "17": 20,
+      "19": 19,
+      "18": 13,
+      "12": 3,
+      "22": 5,
+      "21": 10,
+      "23": 3,
+      "15": 1,
+      "0": 7
+    },
+    "by_day": {
+      "Wednesday": 38,
+      "Monday": 9,
+      "Thursday": 45,
+      "Tuesday": 24,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.52,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1128,
+    "dept_size": 1233
+  }
+}

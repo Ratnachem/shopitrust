@@ -1,0 +1,186 @@
+{
+  "username": "prabhjot.singh",
+  "name": "Prabhjot Singh",
+  "generated_at": "2026-04-08T20:22:25.329426",
+  "summary": {
+    "message_count": 87,
+    "channels_active": 9,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you sir",
+          "channel": "search-ingest-ops",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for cancelling the older runs Joe",
+          "channel": "inv-21131-sssfdf-job-failed",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for cancelling the older runs!\n\nOn March 22 the total partitions in our Spanner Table increased to about 2,333. We've since been seem every",
+          "channel": "inv-21131-sssfdf-job-failed",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "drew.hayward",
+          "count": 2
+        },
+        {
+          "user": "joe.navetta",
+          "count": 2
+        },
+        {
+          "user": "jin.kim",
+          "count": 1
+        },
+        {
+          "user": "wiliam.oliveira",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.45,
+      "count": 91,
+      "top_channels": [
+        {
+          "channel": "search-ingest-ops",
+          "messages": 34
+        },
+        {
+          "channel": "proj-variant-publishing-downstream-consumers",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20677-discovery-project-has-a-sudden-increase-i",
+          "messages": 10
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 8
+        },
+        {
+          "channel": "temp-river-prabhjot",
+          "messages": 6
+        },
+        {
+          "channel": "inv-21131-sssfdf-job-failed",
+          "messages": 6
+        },
+        {
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20567-vantage-search-latency-spiking",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20442-catalog-api-high-latency",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "tim.lombardo",
+          "count": 6
+        },
+        {
+          "user": "joe.navetta",
+          "count": 4
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 4
+        },
+        {
+          "user": "samantha.john",
+          "count": 4
+        },
+        {
+          "user": "wiliam.oliveira",
+          "count": 3
+        },
+        {
+          "user": "nikola.todic",
+          "count": 3
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 2
+        },
+        {
+          "user": "drew.hayward",
+          "count": 1
+        },
+        {
+          "user": "michael.herold",
+          "count": 1
+        },
+        {
+          "user": "jin.kim",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "11": 1,
+      "22": 14,
+      "21": 9,
+      "20": 17,
+      "17": 7,
+      "23": 6,
+      "19": 10,
+      "16": 7,
+      "18": 4,
+      "15": 7,
+      "3": 2,
+      "2": 1,
+      "1": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 16,
+      "Tuesday": 26,
+      "Friday": 24,
+      "Thursday": 10,
+      "Monday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.02,
+    "dept_average_30d": 5.79,
+    "dept_rank": 994,
+    "dept_size": 1233
+  }
+}

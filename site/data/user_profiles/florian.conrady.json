@@ -1,0 +1,204 @@
+{
+  "username": "florian.conrady",
+  "name": "Florian Conrady",
+  "generated_at": "2026-04-08T20:22:21.227470",
+  "summary": {
+    "message_count": 115,
+    "channels_active": 8,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! So you have a dedicated termination reason for this.",
+          "channel": "proj-payments-sleeper-bustout-detection",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Just note that we moved to <#C0ALR1UCYSK>, since the proposal was approved.",
+          "channel": "proj-bustout-fraud",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hi <@W018PT6TZNY>, yes, that's what is happening. The logic is",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "jan.borchmann",
+          "count": 5
+        },
+        {
+          "user": "dikshant.sharma",
+          "count": 2
+        },
+        {
+          "user": "breno.limadefreitas",
+          "count": 2
+        },
+        {
+          "user": "alex.carvalho",
+          "count": 2
+        },
+        {
+          "user": "simson.chiu",
+          "count": 2
+        },
+        {
+          "user": "sahil.batra",
+          "count": 2
+        },
+        {
+          "user": "alex.carr",
+          "count": 2
+        },
+        {
+          "user": "david.greenslade",
+          "count": 2
+        },
+        {
+          "user": "zack.carlson",
+          "count": 2
+        },
+        {
+          "user": "alex.babinski",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.73,
+      "count": 72,
+      "top_channels": [
+        {
+          "channel": "proj-payments-sleeper-bustout-detection",
+          "messages": 59
+        },
+        {
+          "channel": "merchant-fraud-risk-data-alerts",
+          "messages": 21
+        },
+        {
+          "channel": "proj-nits-ml-model-improvements-gsd48638",
+          "messages": 13
+        },
+        {
+          "channel": "proj-bustout-fraud",
+          "messages": 8
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 6
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 5
+        },
+        {
+          "channel": "help-vault",
+          "messages": 2
+        },
+        {
+          "channel": "cti-data-alerts",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "andre.ache",
+          "count": 4
+        },
+        {
+          "user": "dikshant.sharma",
+          "count": 3
+        },
+        {
+          "user": "alex.carvalho",
+          "count": 2
+        },
+        {
+          "user": "simson.chiu",
+          "count": 2
+        },
+        {
+          "user": "zack.carlson",
+          "count": 2
+        },
+        {
+          "user": "alex.carr",
+          "count": 2
+        },
+        {
+          "user": "daniel.tamming",
+          "count": 2
+        },
+        {
+          "user": "jan.borchmann",
+          "count": 1
+        },
+        {
+          "user": "david.greenslade",
+          "count": 1
+        },
+        {
+          "user": "silvia.hayden",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 12,
+      "13": 23,
+      "1": 2,
+      "20": 16,
+      "15": 9,
+      "14": 21,
+      "12": 9,
+      "21": 5,
+      "18": 4,
+      "17": 9,
+      "22": 3,
+      "19": 2
+    },
+    "by_day": {
+      "Wednesday": 29,
+      "Tuesday": 29,
+      "Friday": 20,
+      "Thursday": 26,
+      "Monday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.34,
+    "dept_average_30d": 5.77,
+    "dept_rank": 607,
+    "dept_size": 885
+  }
+}

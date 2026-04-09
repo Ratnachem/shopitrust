@@ -1,0 +1,264 @@
+{
+  "username": "simon.bats",
+  "name": "Simon Bats",
+  "generated_at": "2026-04-08T20:22:17.336856",
+  "summary": {
+    "message_count": 434,
+    "channels_active": 26,
+    "unique_people_mentioned": 39,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.3,
+      "pos_count": 23,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Don't think so. This touches on payments and we are two payment engineers looking at it now. Seems to be a back-end change so no emergency rollout or",
+          "channel": "inc-21016-pre-auth-flag-prevent-retail-card-present",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "All good. Got them from internal, thank you!",
+          "channel": "help-retail-payments",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197GFD472> <@W01B0LARSP7> Hopefully this give you two also more visibility in what needs to be done and progress. Let me know if you need some",
+          "channel": "retail-card-present-payment-gateway",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team, we finally have some correct GitHub project setup :slightly_smiling_face:\n\u2022 <https://github.com/orgs/shop/projects/505/views/16|This board>",
+          "channel": "retail-card-present-payment-gateway",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing. thanks for confirming :+1:",
+          "channel": "card-present-payment-gateway-central",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you for confirming!",
+          "channel": "card-present-payment-gateway-central",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Some clarifications regarding the new way of working with AI:\n\u2022 we're aiming for having a first reviewable plan in 1 or 2 days so we avoid analysis",
+          "channel": "retail-card-present-payment-gateway",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thanks Nima!",
+          "channel": "retail-card-present-payment-gateway",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That would be perfect then, no need to add an OpenAPI spec if we have scripts example. Thanks!",
+          "channel": "card-present-payment-gateway-central",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "EOD update:\n\u2022 still working on the tooling setup. Got side-tracked by some other stuff but I'll look back at it a bit later today. AI went all over",
+          "channel": "retail-card-present-payment-gateway",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "nima.namjouy",
+          "count": 14
+        },
+        {
+          "user": "david.mccullars",
+          "count": 7
+        },
+        {
+          "user": "shyam.kotak",
+          "count": 7
+        },
+        {
+          "user": "adam.vastopa",
+          "count": 6
+        },
+        {
+          "user": "zach.mathew",
+          "count": 5
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 5
+        },
+        {
+          "user": "erik.labbe",
+          "count": 5
+        },
+        {
+          "user": "nikolas.michael",
+          "count": 3
+        },
+        {
+          "user": "chris.magee",
+          "count": 3
+        },
+        {
+          "user": "mahendra.nimishakavi",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.64,
+      "count": 324,
+      "top_channels": [
+        {
+          "channel": "card-present-payment-gateway-central",
+          "messages": 68
+        },
+        {
+          "channel": "help-retail-payments",
+          "messages": 65
+        },
+        {
+          "channel": "retail-card-present-payment-gateway",
+          "messages": 63
+        },
+        {
+          "channel": "retail-payments",
+          "messages": 59
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20264-orderless-transactions-due-to-discount",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20466-strawberry-milk-mob-popup-nyc-issue",
+          "messages": 17
+        },
+        {
+          "channel": "tmp-checkoutsdk-future",
+          "messages": 17
+        },
+        {
+          "channel": "help-retail-checkout",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20030-retail-checkout-completion-ratio",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.23,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "jeanbaptiste.morin",
+          "count": 5
+        },
+        {
+          "user": "mahendra.nimishakavi",
+          "count": 4
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 3
+        },
+        {
+          "user": "david.hou",
+          "count": 3
+        },
+        {
+          "user": "nikolas.michael",
+          "count": 3
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 2
+        },
+        {
+          "user": "robin.senior",
+          "count": 2
+        },
+        {
+          "user": "adam.vastopa",
+          "count": 2
+        },
+        {
+          "user": "brandon.mai",
+          "count": 2
+        },
+        {
+          "user": "nima.namjouy",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 37,
+      "15": 65,
+      "16": 37,
+      "14": 35,
+      "13": 47,
+      "2": 3,
+      "21": 35,
+      "20": 30,
+      "19": 27,
+      "18": 23,
+      "12": 13,
+      "23": 38,
+      "1": 6,
+      "0": 16,
+      "22": 22
+    },
+    "by_day": {
+      "Wednesday": 70,
+      "Tuesday": 136,
+      "Monday": 63,
+      "Thursday": 99,
+      "Friday": 66
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.54,
+    "dept_average_30d": 5.77,
+    "dept_rank": 106,
+    "dept_size": 885
+  }
+}

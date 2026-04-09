@@ -1,0 +1,322 @@
+{
+  "username": "xiao.li",
+  "name": "Xiao Li",
+  "generated_at": "2026-04-08T20:22:07.175412",
+  "summary": {
+    "message_count": 2100,
+    "channels_active": 16,
+    "unique_people_mentioned": 39,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.4,
+      "pos_count": 49,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "lol, thanks!",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh, I haven't yet? my bad.\n\nComparison with github",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "also, feel free to check server availabiltiy here:",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to create a issue to Gitstream project: <https://github.com/orgs/shop/projects/1660/views/1?filterQuery=key-milestones%3AM2+-status%3ADone>",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, thanks!",
+          "channel": "dev-prod-mikhail-reviews",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "ack, I'm setup a meeting for us go through this tomorrow and we need a plan to get gitstream support it asap. <@U03UEDY9N0N> anyone else you want me",
+          "channel": "gitstream",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W018GA8M8TF>  I still don't have the meeting shows on my calendar. Can you add me as well? Thanks!",
+          "channel": "dev-prod-mikhail-reviews",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad: <https://github.com/shop/world/pull/579927>",
+          "channel": "gitstream",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Then that's very likely the cause. I'm still tracking this issue - let me know if you hit it again on subsequent pushes after switching to",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> polish this words \"then that's highly likely the issue, though I'm still tracking this, let me know if you still hit this after",
+          "channel": "xiao-river-chats",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> no, if we really have repo corruption, the fetch will fail. So let's clean up the repo healthy check thing, to avoid false alarm, and",
+          "channel": "xiao-river-chats",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U01JUDKBL0Y> this is an urgent request. So the idea is pick up the teams has more world usage, no matter build count or push count or whatever,",
+          "channel": "dev-tools-data",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> no, why is git server availability is dropped to 98%, it should be any server is up then it's 100%, then you should have a separate",
+          "channel": "xiao-river-chats",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> try again, you should have access, this is for gitstream availability dashboard",
+          "channel": "xiao-river-chats",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "This seems useless and permission shouldn't be exposed to a normal push I think.",
+          "channel": "gitstream",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "<@U06TY5MR550> I'm dealing with that 2GB, but hit hard failure on LFS. Now I have some customize logic to deal with that. Curious how did you deal",
+          "channel": "gitstream",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Exactly , that's why I said it's useless. likely need code changes",
+          "channel": "proj-mq-p90-stabilization",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "ben.maynard",
+          "count": 48
+        },
+        {
+          "user": "evan.lee",
+          "count": 38
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 33
+        },
+        {
+          "user": "chao.duan",
+          "count": 29
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 20
+        },
+        {
+          "user": "hossam.mahmoud",
+          "count": 20
+        },
+        {
+          "user": "ashley.williams",
+          "count": 19
+        },
+        {
+          "user": "don.kelly",
+          "count": 17
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 17
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 12
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.71,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "xiao-river-chats",
+          "messages": 854
+        },
+        {
+          "channel": "gitstream",
+          "messages": 613
+        },
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 557
+        },
+        {
+          "channel": "help-gitstream",
+          "messages": 22
+        },
+        {
+          "channel": "inv-21236-some-commits-in-world-have-the-wrong-mess",
+          "messages": 11
+        },
+        {
+          "channel": "team-ci",
+          "messages": 9
+        },
+        {
+          "channel": "proj-mq-p90-stabilization",
+          "messages": 7
+        },
+        {
+          "channel": "gitstream-ops",
+          "messages": 6
+        },
+        {
+          "channel": "proj-fast-n-cost-effective-ci",
+          "messages": 6
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 269,
+      "top_mentioners": [
+        {
+          "user": "natalia.maximo",
+          "count": 46
+        },
+        {
+          "user": "chao.duan",
+          "count": 39
+        },
+        {
+          "user": "evan.lee",
+          "count": 26
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 21
+        },
+        {
+          "user": "ben.maynard",
+          "count": 19
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 18
+        },
+        {
+          "user": "aaron.scull",
+          "count": 12
+        },
+        {
+          "user": "ashley.williams",
+          "count": 11
+        },
+        {
+          "user": "xiaodong.fan",
+          "count": 8
+        },
+        {
+          "user": "briana.roberts",
+          "count": 8
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 164,
+      "17": 113,
+      "16": 141,
+      "15": 109,
+      "14": 52,
+      "6": 109,
+      "5": 138,
+      "4": 108,
+      "3": 105,
+      "2": 108,
+      "1": 96,
+      "0": 79,
+      "23": 80,
+      "22": 88,
+      "21": 157,
+      "20": 155,
+      "19": 100,
+      "9": 26,
+      "8": 38,
+      "7": 61,
+      "13": 25,
+      "12": 1,
+      "10": 47
+    },
+    "by_day": {
+      "Wednesday": 478,
+      "Tuesday": 591,
+      "Monday": 277,
+      "Friday": 463,
+      "Thursday": 291
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.8,
+    "dept_average_30d": 5.75,
+    "dept_rank": 153,
+    "dept_size": 357
+  }
+}

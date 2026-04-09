@@ -1,0 +1,297 @@
+{
+  "username": "greg.yang",
+  "name": "Greg Yang",
+  "generated_at": "2026-04-08T20:22:06.389432",
+  "summary": {
+    "message_count": 750,
+    "channels_active": 18,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 27,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 19,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello, need a PR review for adding a BQ index to QE:  :white_check_mark:",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats!!!  It's a pleasure working with you!",
+          "channel": "merchant-marketing-talk",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad.. my bug, sorry folks",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats, Natalie!",
+          "channel": "merchant-marketing-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hello, looking for a review on :eyes:",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "You want me to edit this:  ?",
+          "channel": "product-network-ads-engine",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":eyes: <https://app.graphite.com/github/pr/shop/world/530026?ref=gt-pasteable-stack|#530026 Recommender: 3rd attempt to add respone body in the log>",
+          "channel": "proj-s4m-recommendation-service",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! appreciate it!",
+          "channel": "tectonix",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thank you! appreciate it!",
+          "channel": "tectonix",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U094R7NR6RJ> <@U0AESJMF8K1> <@W018300GHPH> <@U09BLDCMW6T> please give me 1,2 bullet points that Yingwei and I should bring up the leads meeting",
+          "channel": "proj-s4m-recommendation-service",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would think in future we should have intelligence on deciding which regions to target.\n\nBut for now it is just pass-through, probably it will be",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Can we look at it as - whatever the merchant set, the recommender would be the source of truth, if it differs on the UI, we show something - a",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "Ok, here is Gemini's comment on Claude's opinion:\n\n```\nThis is an **excellent and highly accurate debugging analysis** by your team. The debug",
+          "channel": "inc-20271-broken-query-engine-connection-causing-st",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can we add:\n\n*Reduce `idle_timeout` and `max_lifetime`* in `RdbConfig` defaults to match whatever the server/proxy expects (e.g., 5 min idle, 30 min",
+          "channel": "inc-20271-broken-query-engine-connection-causing-st",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yea, or local disk or whatever.",
+          "channel": "proj-mm-ads-engine-editable-campaigns",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "yunsheng.qi",
+          "count": 8
+        },
+        {
+          "user": "enrique.collazo",
+          "count": 7
+        },
+        {
+          "user": "marc.posth",
+          "count": 4
+        },
+        {
+          "user": "reza.khani",
+          "count": 4
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 4
+        },
+        {
+          "user": "craig.coles",
+          "count": 3
+        },
+        {
+          "user": "anas.taimah",
+          "count": 3
+        },
+        {
+          "user": "travis.allan",
+          "count": 2
+        },
+        {
+          "user": "phil.messenger",
+          "count": 2
+        },
+        {
+          "user": "patrick.aboagye",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.84,
+      "count": 229,
+      "top_channels": [
+        {
+          "channel": "ads-bidify-api-ops",
+          "messages": 197
+        },
+        {
+          "channel": "proj-autopilot",
+          "messages": 195
+        },
+        {
+          "channel": "proj-s4m-recommendation-service",
+          "messages": 178
+        },
+        {
+          "channel": "ads-engine-river",
+          "messages": 40
+        },
+        {
+          "channel": "mm-growth-recommender-notifications",
+          "messages": 31
+        },
+        {
+          "channel": "product-network-ads-engine",
+          "messages": 20
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 18
+        },
+        {
+          "channel": "inc-20271-broken-query-engine-connection-causing-st",
+          "messages": 18
+        },
+        {
+          "channel": "proj-mm-1p-migration",
+          "messages": 13
+        },
+        {
+          "channel": "proj-mm-ads-engine-editable-campaigns",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 108,
+      "top_mentioners": [
+        {
+          "user": "yingwei.lin",
+          "count": 19
+        },
+        {
+          "user": "yunsheng.qi",
+          "count": 13
+        },
+        {
+          "user": "chris.barnes",
+          "count": 12
+        },
+        {
+          "user": "marc.posth",
+          "count": 9
+        },
+        {
+          "user": "craig.coles",
+          "count": 7
+        },
+        {
+          "user": "gavin.hinchley",
+          "count": 7
+        },
+        {
+          "user": "travis.allan",
+          "count": 6
+        },
+        {
+          "user": "enrique.collazo",
+          "count": 5
+        },
+        {
+          "user": "soroush.mirzaei",
+          "count": 4
+        },
+        {
+          "user": "peter.thesling",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 74,
+      "17": 72,
+      "14": 11,
+      "21": 90,
+      "20": 75,
+      "16": 104,
+      "15": 157,
+      "23": 56,
+      "22": 54,
+      "19": 35,
+      "0": 17,
+      "1": 5
+    },
+    "by_day": {
+      "Wednesday": 163,
+      "Tuesday": 162,
+      "Monday": 154,
+      "Friday": 134,
+      "Thursday": 137
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.3,
+    "dept_average_30d": 5.77,
+    "dept_rank": 180,
+    "dept_size": 885
+  }
+}

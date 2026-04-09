@@ -1,0 +1,274 @@
+{
+  "username": "xiaodong.fan",
+  "name": "Xiaodong Fan",
+  "generated_at": "2026-04-08T20:22:22.531282",
+  "summary": {
+    "message_count": 178,
+    "channels_active": 29,
+    "unique_people_mentioned": 46,
+    "unique_mentioners": 49,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.7,
+      "pos_count": 30,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for flagging that, <@W0197GQG5JL>. Let's discuss over there.",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "feature-platform-shaping",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Got it. Very helpful. Thank you, <@U01JUDKBL0Y>",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@U093FQUHEJG>. Please run it and report the results.",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@W018WBU59T3>. The retry comparison is quite drastic. But to be safer and just to ensure we rule out other possible factors, instead of",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the detailed report, <@U07M4EGF6DT>!\n\nWhy there are PRs in the MQ with draft PR churn? Sounds strange. ",
+          "channel": "team-ci",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@W0182UM3CK1>. <@U0A0MQWDANR>, do we have a plan to address these issues, including the desync on pushes?",
+          "channel": "gitstream",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@U07M4EGF6DT>.\n&gt; which Graphite is confirming causing some batches that pass CI to still timeout during gitops.\nIs that the reason for",
+          "channel": "team-ci",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, all. I think #5 is a very important topic so I suggest preparing it if we have time to cover. If not, we will resume on April 23.",
+          "channel": "dev-prod-mikhail-reviews",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, <@U025QKW329H>. Agree that it's better to ship today so that the impact is lower. I guess the impact would be the CI passing rate, right?",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>, can you check the followings and generate a more comprehensive report?\n\n*1. Nix `builtins.fetchGit` \u2014 `sources.nix` (8 repos)*\nAll",
+          "channel": "git-fetch-no-mirror",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 48,
+      "top_mentioned": [
+        {
+          "user": "chao.duan",
+          "count": 23
+        },
+        {
+          "user": "thad.craft",
+          "count": 8
+        },
+        {
+          "user": "kangze.jia",
+          "count": 6
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 6
+        },
+        {
+          "user": "xiao.li",
+          "count": 6
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 6
+        },
+        {
+          "user": "sam.bostock",
+          "count": 5
+        },
+        {
+          "user": "ben.chen",
+          "count": 5
+        },
+        {
+          "user": "lily.gilbert",
+          "count": 4
+        },
+        {
+          "user": "jin.li",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 441,
+      "top_channels": [
+        {
+          "channel": "team-ci",
+          "messages": 36
+        },
+        {
+          "channel": "xdfan-river",
+          "messages": 29
+        },
+        {
+          "channel": "gitstream",
+          "messages": 11
+        },
+        {
+          "channel": "proj-dev-metrics",
+          "messages": 11
+        },
+        {
+          "channel": "dev-prod-mikhail-reviews",
+          "messages": 10
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 9
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 9
+        },
+        {
+          "channel": "proj-universal-products",
+          "messages": 8
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 8
+        },
+        {
+          "channel": "proj-mq-p90-stabilization",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 143,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 37
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 11
+        },
+        {
+          "user": "xiao.li",
+          "count": 10
+        },
+        {
+          "user": "chase.platon",
+          "count": 9
+        },
+        {
+          "user": "thad.craft",
+          "count": 8
+        },
+        {
+          "user": "ashley.williams",
+          "count": 4
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 3
+        },
+        {
+          "user": "kangze.jia",
+          "count": 3
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 3
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 19,
+      "5": 7,
+      "4": 29,
+      "14": 16,
+      "16": 5,
+      "23": 17,
+      "22": 7,
+      "20": 5,
+      "19": 9,
+      "6": 7,
+      "3": 18,
+      "1": 17,
+      "0": 8,
+      "21": 2,
+      "17": 6,
+      "2": 4,
+      "18": 2
+    },
+    "by_day": {
+      "Wednesday": 36,
+      "Tuesday": 20,
+      "Monday": 44,
+      "Friday": 60,
+      "Thursday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.57,
+    "dept_average_30d": 5.75,
+    "dept_rank": 51,
+    "dept_size": 357
+  }
+}

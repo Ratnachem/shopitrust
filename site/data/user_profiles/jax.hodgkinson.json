@@ -1,0 +1,183 @@
+{
+  "username": "jax.hodgkinson",
+  "name": "Jax Hodgkinson",
+  "generated_at": "2026-04-08T20:22:28.984386",
+  "summary": {
+    "message_count": 537,
+    "channels_active": 18,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Yeah typo my bad",
+          "channel": "inc-20226-kafka-regional-eu-offline-partitions",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; the system is flagging that as fresh date for all accounts (independently of the source)\nTrue and that would make sense. I just wanna make sure",
+          "channel": "streaming-foundations-team",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "rosa.seohwakang",
+          "count": 5
+        },
+        {
+          "user": "darren.li",
+          "count": 4
+        },
+        {
+          "user": "filipe.deo",
+          "count": 4
+        },
+        {
+          "user": "eli.bailey",
+          "count": 1
+        },
+        {
+          "user": "jerick.liu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.17,
+      "count": 110,
+      "top_channels": [
+        {
+          "channel": "streaming-foundations-alerts",
+          "messages": 180
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 88
+        },
+        {
+          "channel": "inc-20226-kafka-regional-eu-offline-partitions",
+          "messages": 62
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 51
+        },
+        {
+          "channel": "streaming-foundations-ops",
+          "messages": 38
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 27
+        },
+        {
+          "channel": "inv-19995-gamesday--production-us-region-failover-s",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20368-kafka-us-region-migration-monitoring",
+          "messages": 19
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 12
+        },
+        {
+          "channel": "inv-19894-kafka-mcs-domains-not-being-created",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.67,
+      "count": 40,
+      "top_mentioners": [
+        {
+          "user": "filipe.deo",
+          "count": 18
+        },
+        {
+          "user": "darren.li",
+          "count": 13
+        },
+        {
+          "user": "balint.bene",
+          "count": 3
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 2
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 1
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 1
+        },
+        {
+          "user": "george.li",
+          "count": 1
+        },
+        {
+          "user": "alex.gomez",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 34,
+      "21": 42,
+      "15": 37,
+      "20": 30,
+      "18": 26,
+      "19": 50,
+      "16": 63,
+      "14": 51,
+      "13": 59,
+      "17": 42,
+      "23": 23,
+      "12": 20,
+      "4": 2,
+      "3": 10,
+      "2": 7,
+      "0": 17,
+      "1": 24
+    },
+    "by_day": {
+      "Monday": 42,
+      "Thursday": 130,
+      "Wednesday": 111,
+      "Tuesday": 241,
+      "Friday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.69,
+    "dept_average_30d": 5.75,
+    "dept_rank": 171,
+    "dept_size": 357
+  }
+}

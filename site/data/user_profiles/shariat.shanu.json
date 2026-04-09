@@ -1,0 +1,201 @@
+{
+  "username": "shariat.shanu",
+  "name": "Shariat Shanu",
+  "generated_at": "2026-04-08T20:22:19.083277",
+  "summary": {
+    "message_count": 78,
+    "channels_active": 6,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "This has been shipped. :celebrate-wooo:",
+          "channel": "cti-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Will do, thank you so much for the help. :thank__you:",
+          "channel": "help-notification-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about that, should've been more careful with the retries. We were trying to figure out whether to retry or cancel the stuck actions, looks like",
+          "channel": "help-commerce-trust-integrity",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I checked hedwig on TP, the scheduler job is registered in Hedwig and should be enqueuing every minute, but it's nowhere in running, queued, or",
+          "channel": "proj-cti-upf-workstream-eng",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "tyler.haugenstanley",
+          "count": 5
+        },
+        {
+          "user": "catherine.paulson",
+          "count": 5
+        },
+        {
+          "user": "matin.hallaji",
+          "count": 4
+        },
+        {
+          "user": "kerrin.moore",
+          "count": 3
+        },
+        {
+          "user": "victor.fontenele",
+          "count": 2
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 2
+        },
+        {
+          "user": "ken.prochnow",
+          "count": 2
+        },
+        {
+          "user": "julia.kranjac",
+          "count": 1
+        },
+        {
+          "user": "mehrad.haghshenas",
+          "count": 1
+        },
+        {
+          "user": "jason.seger",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.38,
+      "count": 152,
+      "top_channels": [
+        {
+          "channel": "proj-cti-upf-workstream-eng",
+          "messages": 28
+        },
+        {
+          "channel": "cti-team",
+          "messages": 16
+        },
+        {
+          "channel": "proj-high-value-goods-policy",
+          "messages": 12
+        },
+        {
+          "channel": "inform-bug-hunt",
+          "messages": 11
+        },
+        {
+          "channel": "help-notification-platform",
+          "messages": 6
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.56,
+      "count": 39,
+      "top_mentioners": [
+        {
+          "user": "tyler.haugenstanley",
+          "count": 15
+        },
+        {
+          "user": "matin.hallaji",
+          "count": 7
+        },
+        {
+          "user": "catherine.paulson",
+          "count": 3
+        },
+        {
+          "user": "mehrad.haghshenas",
+          "count": 3
+        },
+        {
+          "user": "ken.prochnow",
+          "count": 2
+        },
+        {
+          "user": "gonzo.nieto",
+          "count": 2
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 1
+        },
+        {
+          "user": "victor.fontenele",
+          "count": 1
+        },
+        {
+          "user": "kerrin.moore",
+          "count": 1
+        },
+        {
+          "user": "zack.carlson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 5,
+      "20": 5,
+      "15": 25,
+      "18": 9,
+      "21": 8,
+      "16": 10,
+      "14": 7,
+      "22": 5,
+      "19": 4
+    },
+    "by_day": {
+      "Wednesday": 19,
+      "Tuesday": 25,
+      "Monday": 13,
+      "Thursday": 17,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.46,
+    "dept_average_30d": 4.89,
+    "dept_rank": 67,
+    "dept_size": 237
+  }
+}

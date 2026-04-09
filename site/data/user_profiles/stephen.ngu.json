@@ -1,0 +1,137 @@
+{
+  "username": "stephen.ngu",
+  "name": "Stephen Ngu",
+  "generated_at": "2026-04-08T20:22:28.193971",
+  "summary": {
+    "message_count": 40,
+    "channels_active": 7,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Backfill is done, can you help with the cleanup policy change?",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "nick.presta",
+          "count": 3
+        },
+        {
+          "user": "balint.bene",
+          "count": 1
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 1
+        },
+        {
+          "user": "andrew.zhuang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.58,
+      "count": 121,
+      "top_channels": [
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 10
+        },
+        {
+          "channel": "proj-shop-campaigns-to-universal-attribution",
+          "messages": 7
+        },
+        {
+          "channel": "proj-measurement-pipelines-stop-sourcing-from-cdc",
+          "messages": 6
+        },
+        {
+          "channel": "proj-mcc-consolidation",
+          "messages": 5
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 5
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 4
+        },
+        {
+          "channel": "mm-fdn-measurement-alerts",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "anshul.goel",
+          "count": 3
+        },
+        {
+          "user": "eric.liang",
+          "count": 3
+        },
+        {
+          "user": "nick.presta",
+          "count": 2
+        },
+        {
+          "user": "aura.everitt",
+          "count": 1
+        },
+        {
+          "user": "saeid.alizadeh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 8,
+      "20": 7,
+      "14": 9,
+      "18": 4,
+      "16": 4,
+      "17": 3,
+      "13": 4,
+      "21": 1
+    },
+    "by_day": {
+      "Tuesday": 19,
+      "Monday": 3,
+      "Thursday": 11,
+      "Wednesday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.0,
+    "dept_average_30d": 5.77,
+    "dept_rank": 724,
+    "dept_size": 885
+  }
+}

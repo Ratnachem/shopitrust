@@ -1,0 +1,272 @@
+{
+  "username": "surya.dutta",
+  "name": "Surya Dutta",
+  "generated_at": "2026-04-08T20:22:07.835826",
+  "summary": {
+    "message_count": 472,
+    "channels_active": 42,
+    "unique_people_mentioned": 53,
+    "unique_mentioners": 60,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.3,
+      "pos_count": 43,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! kicked off a run",
+          "channel": "inv-21060-redis-memory-low",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! I can kick off a run now if that's ok? est row count is 115M (diff grew over the time we had this pipeline paused).",
+          "channel": "inv-21060-redis-memory-low",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "oh yikes sorry about that, I saw this message and assumed it needed approval from these teams to merge. I'll ask someone on shipping",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "sorry my mistake - we are not publishing these signals back to trust battery.\n\nthe table I linked above is built in dataland for use with training.",
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "amazing, thank you this was <https://github.com/shop/issues-1p-promise/issues/3895|on my list>",
+          "channel": "tmp-bo-logistics-monorepo-migration",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, thank you this was <https://github.com/shop/issues-1p-promise/issues/3895|on my list>",
+          "channel": "tmp-bo-logistics-monorepo-migration",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": ":wave::skin-tone-4: hi <@U077KH9RG8J> - yes we would need a backfill of this data and would definitely appreciate your help with this.\n\nI'm the DE on",
+          "channel": "fs-billing-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": ":wave::skin-tone-4: hello. sorry about this :grimacing: no immediate impact for this, but this is actually not a backfill... I'll post more context",
+          "channel": "inv-21060-redis-memory-low",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "perfect, thank you :slightly_smiling_face:",
+          "channel": "tmp-bo-logistics-monorepo-migration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!! I'll try to take a look later today.\n\njust for clarification, this changes the directory structure of bo-logistics, but doesn't migrate",
+          "channel": "tmp-bo-logistics-monorepo-migration",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U08U59KK35F> <@U03CZ90954K> - in standup, we discussed deprecating `debugInfo`. Right now, it's just a pass-through from whatever we get from the",
+          "channel": "proj-discrete-hazard-modeling",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 57,
+      "top_mentioned": [
+        {
+          "user": "boris.slobodin",
+          "count": 21
+        },
+        {
+          "user": "victor.borges",
+          "count": 17
+        },
+        {
+          "user": "wilson.becker",
+          "count": 13
+        },
+        {
+          "user": "noah.simpson",
+          "count": 12
+        },
+        {
+          "user": "vincent.chio",
+          "count": 11
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 10
+        },
+        {
+          "user": "valentinas.mitalauskas",
+          "count": 6
+        },
+        {
+          "user": "peter.moon",
+          "count": 5
+        },
+        {
+          "user": "siraj.ali",
+          "count": 5
+        },
+        {
+          "user": "joseph.carino",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 437,
+      "top_channels": [
+        {
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "messages": 89
+        },
+        {
+          "channel": "proj-shop-promise-dhm-shared-models",
+          "messages": 43
+        },
+        {
+          "channel": "shipping-data",
+          "messages": 38
+        },
+        {
+          "channel": "sdp-back-office-logistics",
+          "messages": 28
+        },
+        {
+          "channel": "buyer-trust-data-alerts",
+          "messages": 27
+        },
+        {
+          "channel": "inv-21060-redis-memory-low",
+          "messages": 24
+        },
+        {
+          "channel": "tmp-bo-logistics-monorepo-migration",
+          "messages": 24
+        },
+        {
+          "channel": "tmp-merchandising-logistic-merchant-sales-ownership-transfer",
+          "messages": 20
+        },
+        {
+          "channel": "proj-discrete-hazard-modeling",
+          "messages": 20
+        },
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 19
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 199,
+      "top_mentioners": [
+        {
+          "user": "noah.simpson",
+          "count": 21
+        },
+        {
+          "user": "valentinas.mital-2577",
+          "count": 14
+        },
+        {
+          "user": "vincent.chio",
+          "count": 13
+        },
+        {
+          "user": "siraj.ali",
+          "count": 13
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 12
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 10
+        },
+        {
+          "user": "ryan.wang",
+          "count": 9
+        },
+        {
+          "user": "lin.taylor",
+          "count": 8
+        },
+        {
+          "user": "jingxian.hou",
+          "count": 6
+        },
+        {
+          "user": "victor.borges",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 51,
+      "17": 50,
+      "16": 63,
+      "15": 70,
+      "14": 72,
+      "22": 23,
+      "21": 22,
+      "20": 38,
+      "19": 45,
+      "0": 1,
+      "23": 2,
+      "3": 2,
+      "2": 7,
+      "1": 13,
+      "13": 13
+    },
+    "by_day": {
+      "Wednesday": 87,
+      "Tuesday": 98,
+      "Monday": 79,
+      "Friday": 122,
+      "Thursday": 86
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 7.16,
+    "dept_average_30d": 5.77,
+    "dept_rank": 53,
+    "dept_size": 885
+  }
+}

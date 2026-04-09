@@ -1,0 +1,218 @@
+{
+  "username": "mathyas.papp",
+  "name": "Mathyas Papp",
+  "generated_at": "2026-04-08T20:22:23.738502",
+  "summary": {
+    "message_count": 72,
+    "channels_active": 11,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah ok that's a great suggestion, thank you! (also that makes a lot of sense)",
+          "channel": "help-database-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah ok! thank you, that makes sense to me. I'll give that a try",
+          "channel": "proj-globaldb-insensitive-collations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome! Thank you :cool-doge:",
+          "channel": "proj-globaldb-insensitive-collations",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Cool that seemed to resolve that issue, thank you <@W018WAEDR4Z>!\n\nI'm seeing",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey! I'm working on a migration in Core that adds soft-delete support and changes the collation on the `countries` table to\n  `utf8mb4_bin`",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "israel.valverde",
+          "count": 3
+        },
+        {
+          "user": "max.perry",
+          "count": 2
+        },
+        {
+          "user": "max.romaniv",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 2
+        },
+        {
+          "user": "pawan.dubey",
+          "count": 2
+        },
+        {
+          "user": "josh.murray",
+          "count": 1
+        },
+        {
+          "user": "alexa.whitney",
+          "count": 1
+        },
+        {
+          "user": "daniella.niyonkuru",
+          "count": 1
+        },
+        {
+          "user": "ilana.beer",
+          "count": 1
+        },
+        {
+          "user": "gale.shafer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.98,
+      "count": 105,
+      "top_channels": [
+        {
+          "channel": "fulfillments-yugabyte",
+          "messages": 36
+        },
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 8
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 7
+        },
+        {
+          "channel": "proj-globaldb-insensitive-collations",
+          "messages": 5
+        },
+        {
+          "channel": "help-dev-platform-data",
+          "messages": 3
+        },
+        {
+          "channel": "taxes-tax-platform",
+          "messages": 3
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 3
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 2
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 2
+        },
+        {
+          "channel": "inc-20762-cannot-create-fulfillment-due-to-invalid",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "max.perry",
+          "count": 2
+        },
+        {
+          "user": "ilana.beer",
+          "count": 2
+        },
+        {
+          "user": "john.comar",
+          "count": 1
+        },
+        {
+          "user": "israel.valverde",
+          "count": 1
+        },
+        {
+          "user": "paul.ayling",
+          "count": 1
+        },
+        {
+          "user": "max.romaniv",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 13,
+      "17": 5,
+      "18": 7,
+      "15": 7,
+      "12": 2,
+      "10": 1,
+      "20": 10,
+      "19": 11,
+      "13": 3,
+      "22": 4,
+      "16": 7,
+      "0": 1,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 11,
+      "Friday": 14,
+      "Thursday": 10,
+      "Monday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.66,
+    "dept_average_30d": 5.79,
+    "dept_rank": 43,
+    "dept_size": 1233
+  }
+}

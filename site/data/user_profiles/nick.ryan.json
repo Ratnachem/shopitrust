@@ -1,0 +1,246 @@
+{
+  "username": "nick.ryan",
+  "name": "Nick Ryan",
+  "generated_at": "2026-04-08T20:22:19.944733",
+  "summary": {
+    "message_count": 132,
+    "channels_active": 14,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Summarizing, let me know if I got it wrong\n\nStreaming is ok with leaving `platform-enrichment-p` &amp; `factoids` as running via the ACL due to their",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh gotcha, missed that. Thank you\n\nShould I delay updating the clustering until that backfill runs? edit: My gut says yes",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U09M0KMG9PS> saw you were selected on the PR so poking here too :slightly_smiling_face: thanks!",
+          "channel": "infra-central",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "E2E Test of Policy Engine document generation:\n\n1. Tagged a topic as EventRefinery &amp; all 12 Purpose &amp; Scope values:",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, sorry\nApparently my pager doesn't go through my bedtime settings - I have it allowlisted to notify but it didn't?",
+          "channel": "data-platform-governance-notify",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh gotcha, thank you for clarifying - glad I asked since I obviously misunderstood again :slightly_smiling_face:\n\nTo me it feels worth it to try",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So any `event_refinery_refined--*` topic?\n\nBut can you please double confirm that once I generate the doc for you, it won't bork some consumer in",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W018PU3LVNY> sorry for delay\n\nI think we will be code complete by EOD tomorrow, so we can tag whatever topics you want to start with and have a doc",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "may.aboalrejal",
+          "count": 8
+        },
+        {
+          "user": "yuri.bocharov",
+          "count": 5
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 3
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 3
+        },
+        {
+          "user": "marc.laforet",
+          "count": 2
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 2
+        },
+        {
+          "user": "david.mariassy",
+          "count": 2
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 2
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 1
+        },
+        {
+          "user": "nick.wareing",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.55,
+      "count": 120,
+      "top_channels": [
+        {
+          "channel": "kafka-access-controls",
+          "messages": 56
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 15
+        },
+        {
+          "channel": "data-platform-governance-notify",
+          "messages": 12
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 11
+        },
+        {
+          "channel": "data-platform-governance-river-chats",
+          "messages": 10
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 7
+        },
+        {
+          "channel": "infra-central",
+          "messages": 5
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 4
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 4
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "marc.laforet",
+          "count": 10
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 7
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 4
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 3
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 2
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 2
+        },
+        {
+          "user": "darshan.shirodkar",
+          "count": 2
+        },
+        {
+          "user": "rahul.sachan",
+          "count": 1
+        },
+        {
+          "user": "danica.denis",
+          "count": 1
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 25,
+      "22": 8,
+      "19": 8,
+      "17": 15,
+      "21": 17,
+      "18": 21,
+      "20": 29,
+      "15": 7,
+      "13": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 36,
+      "Tuesday": 12,
+      "Monday": 18,
+      "Friday": 40,
+      "Thursday": 26
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.03,
+    "dept_average_30d": 5.75,
+    "dept_rank": 117,
+    "dept_size": 357
+  }
+}

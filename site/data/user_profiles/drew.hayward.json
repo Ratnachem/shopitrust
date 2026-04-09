@@ -1,0 +1,205 @@
+{
+  "username": "drew.hayward",
+  "name": "Drew Hayward",
+  "generated_at": "2026-04-08T20:22:26.840391",
+  "summary": {
+    "message_count": 195,
+    "channels_active": 17,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! :approve:",
+          "channel": "search-ingest-ops",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for looking into it! So likely I should find a small set of shops responsible for the change?",
+          "channel": "inv-20019-index-serving---long-lived-shard-online-r",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "joe.navetta",
+          "count": 6
+        },
+        {
+          "user": "nikola.todic",
+          "count": 5
+        },
+        {
+          "user": "logan.best",
+          "count": 4
+        },
+        {
+          "user": "wiliam.oliveira",
+          "count": 4
+        },
+        {
+          "user": "samantha.john",
+          "count": 3
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 3
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 3
+        },
+        {
+          "user": "pawan.patel",
+          "count": 3
+        },
+        {
+          "user": "girish.malkarnenkar",
+          "count": 2
+        },
+        {
+          "user": "chris.c.barnes",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.45,
+      "count": 156,
+      "top_channels": [
+        {
+          "channel": "inv-20019-index-serving---long-lived-shard-online-r",
+          "messages": 40
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 33
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 29
+        },
+        {
+          "channel": "search-ingest-ops",
+          "messages": 26
+        },
+        {
+          "channel": "proj-search-unified-ingestion-and-indexing",
+          "messages": 12
+        },
+        {
+          "channel": "proj-catalogue-instant-product-search",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20310-many-failing-search-ingest-pipelines",
+          "messages": 10
+        },
+        {
+          "channel": "inc-20567-vantage-search-latency-spiking",
+          "messages": 7
+        },
+        {
+          "channel": "temp-shopkv-search-hydration",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20442-catalog-api-high-latency",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.88,
+      "count": 42,
+      "top_mentioners": [
+        {
+          "user": "joe.navetta",
+          "count": 9
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 7
+        },
+        {
+          "user": "nikola.todic",
+          "count": 6
+        },
+        {
+          "user": "pawan.patel",
+          "count": 3
+        },
+        {
+          "user": "samantha.john",
+          "count": 3
+        },
+        {
+          "user": "prabhjot.singh",
+          "count": 2
+        },
+        {
+          "user": "logan.best",
+          "count": 2
+        },
+        {
+          "user": "islam.abdelnaby",
+          "count": 1
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 1
+        },
+        {
+          "user": "chao.duan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 22,
+      "17": 24,
+      "15": 38,
+      "13": 19,
+      "21": 5,
+      "19": 20,
+      "14": 35,
+      "18": 9,
+      "16": 16,
+      "12": 5,
+      "1": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Tuesday": 44,
+      "Monday": 13,
+      "Friday": 37,
+      "Wednesday": 52,
+      "Thursday": 49
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.07,
+    "dept_average_30d": 5.79,
+    "dept_rank": 394,
+    "dept_size": 1233
+  }
+}

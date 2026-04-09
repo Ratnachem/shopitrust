@@ -1,0 +1,107 @@
+{
+  "username": "robert.baker",
+  "name": "Robert Baker",
+  "generated_at": "2026-04-08T20:22:31.078739",
+  "summary": {
+    "message_count": 20,
+    "channels_active": 1,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Not sure if this has been mentioned but can we get these variables added. Thank you\n\n{{1_business_days_from_now}} or {{2_business_days_from_now}}",
+          "channel": "help-crm",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Not sure if this is reported but once you disposition from the call, can this be cleared so we can key in a fresh number instead of having to delete",
+          "channel": "help-crm",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Not sure if this has been posted  but the notifications for folks who open emails, click links etc. Can that be in a feed similar to Sales Loft? \"Hot",
+          "channel": "help-crm",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-crm",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "josh.schwartzman",
+          "count": 5
+        },
+        {
+          "user": "m.wakefield",
+          "count": 2
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 1
+        },
+        {
+          "user": "brittany.bryant",
+          "count": 1
+        },
+        {
+          "user": "ahsan.rogers",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 8,
+      "21": 1,
+      "19": 3,
+      "15": 5,
+      "18": 2,
+      "20": 1
+    },
+    "by_day": {
+      "Wednesday": 10,
+      "Tuesday": 7,
+      "Thursday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.54,
+    "dept_average_30d": 4.32,
+    "dept_rank": 753,
+    "dept_size": 848
+  }
+}

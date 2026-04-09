@@ -1,0 +1,106 @@
+{
+  "username": "caitlin.oreilly",
+  "name": "Caitlin Oreilly",
+  "generated_at": "2026-04-08T20:22:22.306251",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 5,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 2,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Looks good! Thank you so much :smile:",
+          "channel": "proj-retail-pos-only-users-at-org-level",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Peter! Thank you so much - I've let the merchant know we are still investigating and I will keep an eye for updates on this thread.",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.0,
+      "count": 2,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 5.86,
+      "count": 162,
+      "top_channels": [
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 7
+        },
+        {
+          "channel": "rsi-river-testing",
+          "messages": 4
+        },
+        {
+          "channel": "proj-cash-rounding-on-pos",
+          "messages": 2
+        },
+        {
+          "channel": "proj-retail-pos-only-users-at-org-level",
+          "messages": 2
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.91,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "peter.lazzarino",
+          "count": 2
+        },
+        {
+          "user": "jose.narvaez",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 7,
+      "14": 1,
+      "16": 2,
+      "11": 2,
+      "9": 1,
+      "8": 1,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 6,
+      "Tuesday": 2,
+      "Friday": 4,
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.15,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1068,
+    "dept_size": 1663
+  }
+}

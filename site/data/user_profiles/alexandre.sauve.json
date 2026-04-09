@@ -1,0 +1,254 @@
+{
+  "username": "alexandre.sauve",
+  "name": "Alexandre Sauve",
+  "generated_at": "2026-04-08T20:22:15.548851",
+  "summary": {
+    "message_count": 307,
+    "channels_active": 26,
+    "unique_people_mentioned": 37,
+    "unique_mentioners": 32,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to throw in comments in the Plan.MD file in the PR",
+          "channel": "proj-trust-battery-automated-decision-coverage",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "FYI <@W018PTKSVEY> not quite super useful but feel free to chime in",
+          "channel": "cti-data-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much Daniel!",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I think Jan already added it downstream no? its even in the semantic layer model (grid__ whatever)\n\nFeel free to put up those PRs when you need to",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "wait - my bad guys. I think I totally misunderstood which activities tables we were talking about. This is a net new policy_activities table. Not the",
+          "channel": "cti-policies-workstream",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "gotcha - that was prob obvious. thanks!",
+          "channel": "proj-cti-horseworks",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think Jan already added it downstream no? its even in the semantic layer model (grid__ whatever)\n\nFeel free to put up those PRs when you need to",
+          "channel": "merchant-fraud-risk-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "also will this be useless if we significant change or replace asfacts",
+          "channel": "proj-cti-sp-rejection-appeal-automation",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "kamakshi.bagga",
+          "count": 18
+        },
+        {
+          "user": "simson.chiu",
+          "count": 16
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 8
+        },
+        {
+          "user": "niall.ryan",
+          "count": 8
+        },
+        {
+          "user": "jenna.mccormick",
+          "count": 7
+        },
+        {
+          "user": "bojan.antic",
+          "count": 7
+        },
+        {
+          "user": "isabella.chan",
+          "count": 6
+        },
+        {
+          "user": "tony.kim",
+          "count": 6
+        },
+        {
+          "user": "tamanon.virulhakieat",
+          "count": 6
+        },
+        {
+          "user": "harley.balabanian",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.63,
+      "count": 259,
+      "top_channels": [
+        {
+          "channel": "proj-trust-battery-trust-battery-metrics",
+          "messages": 50
+        },
+        {
+          "channel": "merchant-fraud-risk-team",
+          "messages": 42
+        },
+        {
+          "channel": "proj-cti-horseworks",
+          "messages": 41
+        },
+        {
+          "channel": "cti-automation-workstream",
+          "messages": 34
+        },
+        {
+          "channel": "proj-cti-sp-rejection-appeal-automation",
+          "messages": 26
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 20
+        },
+        {
+          "channel": "cti-data-river",
+          "messages": 20
+        },
+        {
+          "channel": "proj-scale-pendingtermination",
+          "messages": 16
+        },
+        {
+          "channel": "cti-policies-workstream",
+          "messages": 7
+        },
+        {
+          "channel": "trust-battery-river-rafting",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 103,
+      "top_mentioners": [
+        {
+          "user": "tamanon.virulhakieat",
+          "count": 16
+        },
+        {
+          "user": "daniel.tamming",
+          "count": 9
+        },
+        {
+          "user": "isabella.chan",
+          "count": 7
+        },
+        {
+          "user": "niall.ryan",
+          "count": 6
+        },
+        {
+          "user": "jeanpaul.tyo",
+          "count": 6
+        },
+        {
+          "user": "kamakshi.bagga",
+          "count": 5
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 5
+        },
+        {
+          "user": "bojan.antic",
+          "count": 5
+        },
+        {
+          "user": "jason.seger",
+          "count": 4
+        },
+        {
+          "user": "tony.kim",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 12,
+      "17": 18,
+      "13": 59,
+      "19": 35,
+      "4": 3,
+      "3": 1,
+      "2": 4,
+      "1": 13,
+      "0": 4,
+      "21": 19,
+      "16": 34,
+      "15": 12,
+      "22": 4,
+      "14": 29,
+      "20": 48,
+      "12": 9,
+      "11": 2,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 72,
+      "Tuesday": 98,
+      "Friday": 50,
+      "Thursday": 64,
+      "Monday": 23
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.08,
+    "dept_average_30d": 4.74,
+    "dept_rank": 173,
+    "dept_size": 1663
+  }
+}

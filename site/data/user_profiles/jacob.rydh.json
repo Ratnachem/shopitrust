@@ -1,0 +1,230 @@
+{
+  "username": "jacob.rydh",
+  "name": "Jacob Rydh",
+  "generated_at": "2026-04-08T20:22:21.006949",
+  "summary": {
+    "message_count": 200,
+    "channels_active": 30,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that",
+          "channel": "shop-alerts",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I suspected it was just a UI bug. Just wanted to verify",
+          "channel": "tmp-merge-commits",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats! :rock-out:",
+          "channel": "shop-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "great work!",
+          "channel": "inc-20238-shopweb-foundations-shop-web-5xx499-respo",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "But the shop agent you just have to live with whatever shop develops",
+          "channel": "proj-shop-agents-api",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "vahe.khachikyan",
+          "count": 2
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 2
+        },
+        {
+          "user": "arbab.ahmed",
+          "count": 1
+        },
+        {
+          "user": "peter.keogh",
+          "count": 1
+        },
+        {
+          "user": "carine.araujo",
+          "count": 1
+        },
+        {
+          "user": "qianyao.hao",
+          "count": 1
+        },
+        {
+          "user": "rudi.strahl",
+          "count": 1
+        },
+        {
+          "user": "tunca.ulubilge",
+          "count": 1
+        },
+        {
+          "user": "maria.yudina",
+          "count": 1
+        },
+        {
+          "user": "max.dasilva",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.84,
+      "count": 335,
+      "top_channels": [
+        {
+          "channel": "shop-bots",
+          "messages": 41
+        },
+        {
+          "channel": "proj-shop-agents-api",
+          "messages": 25
+        },
+        {
+          "channel": "inc-20415-high-percentage-of-graphql-accesstokenref",
+          "messages": 21
+        },
+        {
+          "channel": "shop-alerts",
+          "messages": 15
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20238-shopweb-foundations-shop-web-5xx499-respo",
+          "messages": 13
+        },
+        {
+          "channel": "tmp-merge-commits",
+          "messages": 12
+        },
+        {
+          "channel": "proj-shop-openclaw-integration",
+          "messages": 9
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 6
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "joe.rinaldijohnson",
+          "count": 22
+        },
+        {
+          "user": "lorenzo.sciandra",
+          "count": 3
+        },
+        {
+          "user": "maria.yudina",
+          "count": 3
+        },
+        {
+          "user": "darren.worrall",
+          "count": 3
+        },
+        {
+          "user": "andreas.zecher",
+          "count": 2
+        },
+        {
+          "user": "emily.stember",
+          "count": 2
+        },
+        {
+          "user": "matthew.frail",
+          "count": 2
+        },
+        {
+          "user": "rudi.strahl",
+          "count": 2
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 2
+        },
+        {
+          "user": "andre.ericson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 11,
+      "7": 6,
+      "13": 49,
+      "11": 12,
+      "10": 17,
+      "12": 21,
+      "19": 4,
+      "6": 7,
+      "5": 4,
+      "15": 25,
+      "14": 29,
+      "8": 5,
+      "18": 2,
+      "17": 2,
+      "9": 6
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 33,
+      "Monday": 27,
+      "Friday": 49,
+      "Thursday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.8,
+    "dept_average_30d": 5.86,
+    "dept_rank": 102,
+    "dept_size": 166
+  }
+}

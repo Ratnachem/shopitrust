@@ -1,0 +1,249 @@
+{
+  "username": "michael.pauls",
+  "name": "Michael Pauls",
+  "generated_at": "2026-04-08T20:22:07.118234",
+  "summary": {
+    "message_count": 109,
+    "channels_active": 21,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 9,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I will post a PR on the query side change later today",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "We are officially rolling out the Storefront A/A test. This is will be incrementally rolled out today via our feature flag. The experiment is defined",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good, thank you!",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "My Standup Update:\n\u2022 Working on setting up the Genghis stress testing framework. I shared a <https://github.com/Shopify/genghis-flows/pull/11194|PR>",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "yes ASN, my mistake",
+          "channel": "inv-20510-recurring-es-hammered-by-collections-bots",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Yes, sorry not shop related. Storefront related. Feel free to ignore, shop folks",
+          "channel": "inv-20511-high-elasticsearch-errors",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "My mistake, I clicked the wrong channel",
+          "channel": "inv-20511-high-elasticsearch-errors",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi JP, we just deployed <https://app.graphite.com/github/shop/world/pull/518549|a fix> for that early this morning. Please let me know if you still",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both! I have a <https://app.graphite.com/github/shop/world/pull/502375|PR here> that adds these filters on the storefront side.",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "fletcher.dares",
+          "count": 2
+        },
+        {
+          "user": "caroline",
+          "count": 2
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 1
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 1
+        },
+        {
+          "user": "shotaro.kamio",
+          "count": 1
+        },
+        {
+          "user": "brenda.segal",
+          "count": 1
+        },
+        {
+          "user": "rahim.daya",
+          "count": 1
+        },
+        {
+          "user": "piotr.jatkowski",
+          "count": 1
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.42,
+      "count": 260,
+      "top_channels": [
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 28
+        },
+        {
+          "channel": "storefront-renderer-operations",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20511-high-elasticsearch-errors",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20326-nomethoderror-storefrontgraphql-responder",
+          "messages": 9
+        },
+        {
+          "channel": "help-search-serving",
+          "messages": 8
+        },
+        {
+          "channel": "tmp-search-serving-resilience",
+          "messages": 8
+        },
+        {
+          "channel": "inc-19499-storefront-filters-not-appearing-in-some",
+          "messages": 7
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 4
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20510-recurring-es-hammered-by-collections-bots",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.27,
+      "count": 65,
+      "top_mentioners": [
+        {
+          "user": "brenda.segal",
+          "count": 9
+        },
+        {
+          "user": "xiaofeng.xu",
+          "count": 9
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 6
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 5
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 3
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 3
+        },
+        {
+          "user": "bing.li",
+          "count": 3
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 3
+        },
+        {
+          "user": "rucha.dalsania",
+          "count": 2
+        },
+        {
+          "user": "michael.herold",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 21,
+      "16": 5,
+      "15": 17,
+      "14": 15,
+      "17": 12,
+      "20": 7,
+      "13": 10,
+      "19": 13,
+      "11": 3,
+      "21": 3,
+      "12": 3
+    },
+    "by_day": {
+      "Wednesday": 23,
+      "Tuesday": 26,
+      "Monday": 23,
+      "Thursday": 36,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.75,
+    "dept_average_30d": 5.79,
+    "dept_rank": 602,
+    "dept_size": 1233
+  }
+}

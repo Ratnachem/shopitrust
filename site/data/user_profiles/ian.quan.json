@@ -1,0 +1,264 @@
+{
+  "username": "ian.quan",
+  "name": "Ian Quan",
+  "generated_at": "2026-04-08T20:22:12.358545",
+  "summary": {
+    "message_count": 186,
+    "channels_active": 16,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if this make sense: wait for the server PR for setting the min_client_version for the exp flag to be deployed -&gt; extend the experiment",
+          "channel": "proj-order-details-redesign",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hey folks, I'm working on the <https://docs.google.com/document/d/1zPX10pcoKTRGGg81EFL58oLZm0EZjLJ70TUFSNX04aU/edit?usp=sharing|tech design",
+          "channel": "proj-tracking-tab-v2",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@W018WBRB2P3> <@U02K0R86WH4> for confirming, I'll proceed with the change and gate it behind a flag",
+          "channel": "shop-tracking",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Congratulations <@U03L86LFC3Z>!! :rocket_animated:",
+          "channel": "shop-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Huge congrats <@U03LNPMRELT>!",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "This is the read path of the fraud order filtering code and currently it's not being used so there should be no production impact, the error should",
+          "channel": "shop-bots",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey <@W018L9EKK18> one more to cherry pick: <https://app.graphite.com/github/pr/Shopify/shop-client/96796>, Thank you! :pray:",
+          "channel": "shop-mobile",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team, same here I requested access to CentML, would be nice to get  approval on access, thank",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "cc: <@W018WAADX41> let me know if you want to take it, if not I'll assign to myself",
+          "channel": "shop-tracking",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-frog: I have a whole <https://app.graphite.com/github/pr/Shopify/shop-client/95466|stack> here that we want to include in this week release.",
+          "channel": "shop-mobile",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "chris.feher",
+          "count": 9
+        },
+        {
+          "user": "mike.welsh",
+          "count": 7
+        },
+        {
+          "user": "dave.alexander",
+          "count": 6
+        },
+        {
+          "user": "owen.dodd",
+          "count": 6
+        },
+        {
+          "user": "rita.marmiene",
+          "count": 4
+        },
+        {
+          "user": "andreas.zecher",
+          "count": 4
+        },
+        {
+          "user": "danilo.castro",
+          "count": 4
+        },
+        {
+          "user": "jason.kim",
+          "count": 3
+        },
+        {
+          "user": "nem.gostimirovic",
+          "count": 2
+        },
+        {
+          "user": "kenny.cohen",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.8,
+      "count": 174,
+      "top_channels": [
+        {
+          "channel": "shop-tracking",
+          "messages": 88
+        },
+        {
+          "channel": "proj-order-details-redesign",
+          "messages": 21
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 19
+        },
+        {
+          "channel": "proj-tracking-shop-tracking-layer",
+          "messages": 14
+        },
+        {
+          "channel": "shop-bad-trackers",
+          "messages": 13
+        },
+        {
+          "channel": "proj-shop-land-push-feed",
+          "messages": 6
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 6
+        },
+        {
+          "channel": "shop-tracking-ops",
+          "messages": 6
+        },
+        {
+          "channel": "proj-tracking-tab-v2",
+          "messages": 3
+        },
+        {
+          "channel": "inv-20525-buyers-cant-claim-their-shop-cash-for-pro",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "kasparas.galdikas",
+          "count": 7
+        },
+        {
+          "user": "andreas.zecher",
+          "count": 6
+        },
+        {
+          "user": "chris.feher",
+          "count": 5
+        },
+        {
+          "user": "mike.welsh",
+          "count": 4
+        },
+        {
+          "user": "ryan.lambert",
+          "count": 3
+        },
+        {
+          "user": "rita.marmiene",
+          "count": 3
+        },
+        {
+          "user": "sang.le",
+          "count": 3
+        },
+        {
+          "user": "mori.ahmadi",
+          "count": 2
+        },
+        {
+          "user": "aj.robidas",
+          "count": 2
+        },
+        {
+          "user": "john.datserakis",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 22,
+      "16": 18,
+      "15": 20,
+      "22": 4,
+      "21": 13,
+      "20": 20,
+      "19": 25,
+      "17": 13,
+      "14": 16,
+      "13": 20,
+      "12": 3,
+      "23": 5,
+      "9": 4,
+      "2": 2,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 55,
+      "Tuesday": 43,
+      "Monday": 36,
+      "Thursday": 45,
+      "Friday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.31,
+    "dept_average_30d": 5.86,
+    "dept_rank": 52,
+    "dept_size": 166
+  }
+}

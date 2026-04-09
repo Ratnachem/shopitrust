@@ -1,0 +1,249 @@
+{
+  "username": "angela.ychen",
+  "name": "Angela Ychen",
+  "generated_at": "2026-04-08T20:22:27.491204",
+  "summary": {
+    "message_count": 293,
+    "channels_active": 17,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 11,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> no stop that's the wrong #2 my bad ",
+          "channel": "angle-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> I think we're ok for now thank you, you can shut down",
+          "channel": "angle-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "hahahaha amazing",
+          "channel": "angle-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad for the late ping, this is not important :facepalm-w-lightskin:",
+          "channel": "angle-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It's probably both, but will be <https://github.com/Shopify/project-centaur/pull/1094|fixed> on the ranking system side in the next 20 mins! thank",
+          "channel": "proj-vault-ranked-feed",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I don't think you're doing anything wrong, we're actively working on improvements to River's dev environment, specifically diving into `dev up`",
+          "channel": "river",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "needed to wait for session shutdown and the pipeline to ingest whatever was being fired to gcs. i remember lei mentioning that that sea pulls from",
+          "channel": "dave-river-chat",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yea, the session data was lost, but I am thinking of backfilling with whatever we can recover from slack data for those days with gaps ",
+          "channel": "river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> yes, but before you do that, I want to ask a few more questions\n1. what we _can_ recover from slack data looks good, i want to recover",
+          "channel": "angle-river",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.75,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "derek.pyne",
+          "count": 3
+        },
+        {
+          "user": "javier.moreno",
+          "count": 3
+        },
+        {
+          "user": "surma",
+          "count": 1
+        },
+        {
+          "user": "tom.lowe",
+          "count": 1
+        },
+        {
+          "user": "eric.florenzano",
+          "count": 1
+        },
+        {
+          "user": "batu.atakan",
+          "count": 1
+        },
+        {
+          "user": "paulo.arruda",
+          "count": 1
+        },
+        {
+          "user": "alexa.ironside",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.83,
+      "count": 168,
+      "top_channels": [
+        {
+          "channel": "angle-river",
+          "messages": 205
+        },
+        {
+          "channel": "river-infra",
+          "messages": 24
+        },
+        {
+          "channel": "river-dev",
+          "messages": 21
+        },
+        {
+          "channel": "dave-river-chat",
+          "messages": 10
+        },
+        {
+          "channel": "batu-river",
+          "messages": 9
+        },
+        {
+          "channel": "river",
+          "messages": 5
+        },
+        {
+          "channel": "eric-florenzano-river",
+          "messages": 5
+        },
+        {
+          "channel": "proj-vault-ranked-feed",
+          "messages": 3
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 2
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.14,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "derek.pyne",
+          "count": 4
+        },
+        {
+          "user": "javier.moreno",
+          "count": 3
+        },
+        {
+          "user": "ross.diener",
+          "count": 2
+        },
+        {
+          "user": "batu.atakan",
+          "count": 2
+        },
+        {
+          "user": "ashley.williams",
+          "count": 2
+        },
+        {
+          "user": "surma",
+          "count": 1
+        },
+        {
+          "user": "dave.hedengren",
+          "count": 1
+        },
+        {
+          "user": "tascha.douglas",
+          "count": 1
+        },
+        {
+          "user": "tom.lowe",
+          "count": 1
+        },
+        {
+          "user": "swati.swoboda",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 37,
+      "16": 41,
+      "15": 35,
+      "14": 37,
+      "21": 19,
+      "13": 9,
+      "22": 26,
+      "17": 31,
+      "20": 28,
+      "23": 16,
+      "1": 1,
+      "0": 6,
+      "18": 5,
+      "12": 2
+    },
+    "by_day": {
+      "Tuesday": 103,
+      "Monday": 21,
+      "Thursday": 61,
+      "Wednesday": 83,
+      "Friday": 25
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 8.42,
+    "dept_average_30d": 4.74,
+    "dept_rank": 13,
+    "dept_size": 1663
+  }
+}

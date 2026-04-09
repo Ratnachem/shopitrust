@@ -1,0 +1,272 @@
+{
+  "username": "max.veldink",
+  "name": "Max VelDink",
+  "generated_at": "2026-04-08T20:22:11.660646",
+  "summary": {
+    "message_count": 473,
+    "channels_active": 36,
+    "unique_people_mentioned": 50,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 19,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0APMHAPDV1> Thank you. can you look at our `checkout_one_negotiation_policy_execute` metric and see if we can see where the increase is coming",
+          "channel": "inv-21227-negotiatefromsession-latency-increased",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0APMHAPDV1> Thank you. can you look at our `checkout_one_negotiation_policy_execute` metric and see if we can see where the increase is coming",
+          "channel": "inv-21227-negotiatefromsession-latency-increased",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to attempt a River one shot?",
+          "channel": "checkout-platform-performance",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :pray::skin-tone-2: I'll send a robot at it when I'm back",
+          "channel": "proj-breadth-first-exec",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave::skin-tone-2: I'm soliciting ideas for the next Checkout Engineering Roundtable (Tue, 4/21). If you don't want to listen to me list my favorite",
+          "channel": "checkout-and-accounts-eng",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :pray::skin-tone-2: ",
+          "channel": "inv-20786-shard299-replicas-not-replicating",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave::skin-tone-2: Going to hand off to you, let me know if you need any Checkout help (not sure if I paged in the right payments team)",
+          "channel": "inc-20782-b2b-customer-account-login-issue",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :pray::skin-tone-2: So sorry :blob-sigh:",
+          "channel": "inc-20693-world-shopify-post-merge-testing-pipeline",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to your AE presentation earlier this week, I currently have a task researching ways to improve this test/find an alternative so we can stop",
+          "channel": "inc-20693-world-shopify-post-merge-testing-pipeline",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Headed back to bed for now; if it looks good to you <@U036X4MBFST> feel free to throw it in the MQ :+1::skin-tone-2:",
+          "channel": "inv-20688-checkout-page-error-frequency-sustained-o",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "We'll pull the owner in there once we figure it out",
+          "channel": "checkout-platform-performance",
+          "timestamp": "2026-04-08"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 54,
+      "top_mentioned": [
+        {
+          "user": "christopher.butcher",
+          "count": 10
+        },
+        {
+          "user": "spencer.plant",
+          "count": 7
+        },
+        {
+          "user": "debora.setton",
+          "count": 6
+        },
+        {
+          "user": "richard.vining",
+          "count": 5
+        },
+        {
+          "user": "jp.caissy",
+          "count": 4
+        },
+        {
+          "user": "sander.lijbrink",
+          "count": 4
+        },
+        {
+          "user": "james.dirosa",
+          "count": 4
+        },
+        {
+          "user": "jack.seok",
+          "count": 3
+        },
+        {
+          "user": "adam.petro",
+          "count": 3
+        },
+        {
+          "user": "kyle.myers",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.07,
+      "count": 347,
+      "top_channels": [
+        {
+          "channel": "checkout-platform-performance",
+          "messages": 79
+        },
+        {
+          "channel": "inv-21227-negotiatefromsession-latency-increased",
+          "messages": 58
+        },
+        {
+          "channel": "checkout-one-exceptions",
+          "messages": 41
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 39
+        },
+        {
+          "channel": "inc-20615-core-deploy---checkoutsonewebgqlpaymentpr",
+          "messages": 39
+        },
+        {
+          "channel": "checkout-foundations",
+          "messages": 24
+        },
+        {
+          "channel": "tmp-checkout-flaky-tests",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20693-world-shopify-post-merge-testing-pipeline",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20617-world-shopify-post-merge-testing-pipeline",
+          "messages": 18
+        },
+        {
+          "channel": "inc-21191-custom-delivery-strategy-handle-can-be-in",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "celine.bensoussan",
+          "count": 10
+        },
+        {
+          "user": "debora.setton",
+          "count": 6
+        },
+        {
+          "user": "christopher.butcher",
+          "count": 5
+        },
+        {
+          "user": "richard.vining",
+          "count": 5
+        },
+        {
+          "user": "alex.lei",
+          "count": 3
+        },
+        {
+          "user": "spencer.plant",
+          "count": 3
+        },
+        {
+          "user": "nabeel.ahsen",
+          "count": 3
+        },
+        {
+          "user": "james.dirosa",
+          "count": 3
+        },
+        {
+          "user": "nadim.khalife",
+          "count": 2
+        },
+        {
+          "user": "christopher.rintjema",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 27,
+      "17": 38,
+      "15": 40,
+      "14": 66,
+      "13": 21,
+      "12": 49,
+      "20": 42,
+      "19": 90,
+      "16": 25,
+      "10": 35,
+      "22": 5,
+      "23": 10,
+      "11": 13,
+      "7": 8,
+      "21": 4
+    },
+    "by_day": {
+      "Wednesday": 186,
+      "Tuesday": 66,
+      "Monday": 65,
+      "Thursday": 134,
+      "Friday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 9.75,
+    "dept_average_30d": 5.79,
+    "dept_rank": 6,
+    "dept_size": 1233
+  }
+}

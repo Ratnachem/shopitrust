@@ -1,0 +1,205 @@
+{
+  "username": "celina.assal",
+  "name": "Celina Assal",
+  "generated_at": "2026-04-08T20:22:09.756887",
+  "summary": {
+    "message_count": 153,
+    "channels_active": 7,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank youuu",
+          "channel": "proj-bulk-jobs",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-bulk-jobs",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No worries, thank you for cancelling it and we'll keep you updated when we figure out why this is happening. We've removed the job from the passive",
+          "channel": "job-platform-alerts",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for letting us know how this is impacting your team, I'll speak to my team about this and see what we can do. I'll follow-up with you on",
+          "channel": "job-platform",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That's true. I think you're right that we can just call `expire` on every enqueue then. Thanks!",
+          "channel": "proj-bulk-jobs",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, both! :high-five-teamwork:",
+          "channel": "help-observability",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!\n<https://observe.shopify.io/a/observe/investigate/query/ebfa4c01-8064-4182-89dc-58480e6b7e71|Here> is the search for the analytics query",
+          "channel": "help-observability",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Left a couple small comments but overall looks good to me! Thank you for taking this on! :raised_hands: :high-five-teamwork:",
+          "channel": "job-platform-team",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "denis.ivanov",
+          "count": 3
+        },
+        {
+          "user": "sander.verdonschot",
+          "count": 3
+        },
+        {
+          "user": "alex.gomez",
+          "count": 2
+        },
+        {
+          "user": "jenny.shen",
+          "count": 1
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.3,
+      "count": 87,
+      "top_channels": [
+        {
+          "channel": "job-platform-team",
+          "messages": 62
+        },
+        {
+          "channel": "proj-bulk-jobs",
+          "messages": 44
+        },
+        {
+          "channel": "job-platform-alerts",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20307-scaling-down-redis-queue-partitions-for-c",
+          "messages": 15
+        },
+        {
+          "channel": "job-platform",
+          "messages": 8
+        },
+        {
+          "channel": "help-observability",
+          "messages": 3
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.75,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "phil.boyd",
+          "count": 4
+        },
+        {
+          "user": "sander.verdonschot",
+          "count": 4
+        },
+        {
+          "user": "denis.ivanov",
+          "count": 2
+        },
+        {
+          "user": "tim.borkhodoev",
+          "count": 2
+        },
+        {
+          "user": "erik.solorzano",
+          "count": 2
+        },
+        {
+          "user": "matthew.bruce",
+          "count": 2
+        },
+        {
+          "user": "akin.shonibare",
+          "count": 1
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 13,
+      "16": 16,
+      "15": 20,
+      "14": 20,
+      "21": 13,
+      "20": 21,
+      "17": 16,
+      "13": 14,
+      "19": 17,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 55,
+      "Tuesday": 38,
+      "Monday": 21,
+      "Thursday": 10,
+      "Friday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.81,
+    "dept_average_30d": 5.75,
+    "dept_rank": 313,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "username": "rishi.sharma",
+  "name": "Rishi Sharma",
+  "generated_at": "2026-04-08T20:22:28.206318",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 20,
+    "days_scale": 0.87
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Jennifer, thanks!",
+          "channel": "help-flow",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.52,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "chris.williams",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.27,
+      "count": 98,
+      "top_channels": [
+        {
+          "channel": "help-agentic-storefronts",
+          "messages": 7
+        },
+        {
+          "channel": "help-partner-plus-compensation",
+          "messages": 5
+        },
+        {
+          "channel": "help-flow",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.24,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "jennifer.wills",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 3,
+      "16": 5,
+      "12": 2,
+      "20": 1,
+      "19": 2
+    },
+    "by_day": {
+      "Tuesday": 1,
+      "Friday": 9,
+      "Thursday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.11,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1109,
+    "dept_size": 1663
+  }
+}

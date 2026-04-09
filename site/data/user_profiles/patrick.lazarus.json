@@ -1,0 +1,234 @@
+{
+  "username": "patrick.lazarus",
+  "name": "Patrick Lazarus",
+  "generated_at": "2026-04-08T20:22:11.623136",
+  "summary": {
+    "message_count": 120,
+    "channels_active": 16,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Hey <@W018GA7BW5B>, <@W018PSLEVRA> and I discussed a few of these with Peter's notes from when he created the forecasts. Happy to hop on a call to",
+          "channel": "gcp-forecast-update-finance",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Wonderful! That's what I suspected. I'll look into the lineage, but I'm glad to hear the view was taken care of. Thanks!",
+          "channel": "factoids-cdc-sunset",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<!channel>, earlier today I ran the lineage query again and found a _*new*_ model downstream of Factoids CDC.\n\n\u2022 Factoids CDC table:",
+          "channel": "factoids-cdc-sunset",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U08H2SA9BFG>, <@W01830YQR4P>, here's the form to request ingestion (FYI, you're the first to use it - so let me know if there are any",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! (FYI <@U09F7PGQSMU>, <@U0AAD1W1Z2L>)",
+          "channel": "proj-admin-events-in-event-refinery",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Last Friday we briefly chat with Karl about this, for now, we'll keep whatever Claude needs on every session in the CLAUDE.md file, and extract",
+          "channel": "proj-data-platform-bigquery-backfills",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "bo.senyshyn",
+          "count": 9
+        },
+        {
+          "user": "david.garfinkle",
+          "count": 4
+        },
+        {
+          "user": "karl.taylor",
+          "count": 4
+        },
+        {
+          "user": "karming.chin",
+          "count": 4
+        },
+        {
+          "user": "sagar.haria",
+          "count": 3
+        },
+        {
+          "user": "frank.jania",
+          "count": 2
+        },
+        {
+          "user": "ivan.zimin",
+          "count": 2
+        },
+        {
+          "user": "rahul.pandey",
+          "count": 2
+        },
+        {
+          "user": "john.hong",
+          "count": 2
+        },
+        {
+          "user": "maggie.zhou",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.61,
+      "count": 217,
+      "top_channels": [
+        {
+          "channel": "inv-20769-excessive-gaps-across-many-topics",
+          "messages": 38
+        },
+        {
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "messages": 19
+        },
+        {
+          "channel": "factoids-cdc-sunset",
+          "messages": 17
+        },
+        {
+          "channel": "proj-data-platform-ingest-governance",
+          "messages": 11
+        },
+        {
+          "channel": "proj-data-platform-bigquery-backfills",
+          "messages": 9
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 4
+        },
+        {
+          "channel": "data-factoids-alerts",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20433-failures-in-ingestion-scheduler-cluster-d",
+          "messages": 4
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 3
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "bo.senyshyn",
+          "count": 17
+        },
+        {
+          "user": "erik.wright",
+          "count": 5
+        },
+        {
+          "user": "frank.jania",
+          "count": 3
+        },
+        {
+          "user": "lin.taylor",
+          "count": 2
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 2
+        },
+        {
+          "user": "nick.wareing",
+          "count": 2
+        },
+        {
+          "user": "andrew.droll",
+          "count": 2
+        },
+        {
+          "user": "rahul.pandey",
+          "count": 2
+        },
+        {
+          "user": "sarah.pyo",
+          "count": 2
+        },
+        {
+          "user": "sean.ittel",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 9,
+      "17": 11,
+      "19": 10,
+      "14": 13,
+      "23": 7,
+      "22": 6,
+      "21": 15,
+      "20": 33,
+      "16": 3,
+      "15": 6,
+      "13": 6,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 29,
+      "Tuesday": 26,
+      "Friday": 49,
+      "Thursday": 9,
+      "Monday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.87,
+    "dept_average_30d": 5.39,
+    "dept_rank": 83,
+    "dept_size": 272
+  }
+}

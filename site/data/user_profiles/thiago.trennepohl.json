@@ -1,0 +1,267 @@
+{
+  "username": "thiago.trennepohl",
+  "name": "Thiago Trennepohl",
+  "generated_at": "2026-04-08T20:22:18.543174",
+  "summary": {
+    "message_count": 1177,
+    "channels_active": 14,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Will leave it running. and wait for the configurable timeout PR. let me know if you want to open a PR",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Ok. I gotta leave now. If you think it's good to go feel free to merge it",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to push any changes to the branch",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "So yeah, feel free to push comments and more context to the doc. We need to design something that won't be a maintenance burden and still be fault",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02UJ8R1PB8> we already have the topics and I'm preparing deployments. So if you want to start dumping eu-west-1 and eu-west-4 into the kafka",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Really appreciate it Sebastian. I hope you get proper rest.",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "```\u23fa The root cause is in <http://subscriber.rs:77|subscriber.rs:77> \u2014 max_lease_extension is coupled to ack_deadline_seconds:\n\n ",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok let me know if you're not implementing the `1 file -&gt; 1 write` model, because then I'm going to. Can't sleep with that redeliver metric.",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "andrea.dipersio",
+          "count": 16
+        },
+        {
+          "user": "sam.handler",
+          "count": 16
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 15
+        },
+        {
+          "user": "tanner.bruce",
+          "count": 5
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 3
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 3
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 2
+        },
+        {
+          "user": "rob.cardy",
+          "count": 1
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 1
+        },
+        {
+          "user": "robert.laurin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.32,
+      "count": 114,
+      "top_channels": [
+        {
+          "channel": "proj-o11y-ingestion-next-gen",
+          "messages": 893
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 99
+        },
+        {
+          "channel": "proj-observability-tracing-schema",
+          "messages": 45
+        },
+        {
+          "channel": "inv-20018-clickhouse-insert-failures",
+          "messages": 41
+        },
+        {
+          "channel": "observability-ingestion-alerts",
+          "messages": 19
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 15
+        },
+        {
+          "channel": "inv-19968-clickhouse-write-failure",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20581-clickhouse-insert-delays",
+          "messages": 11
+        },
+        {
+          "channel": "inc-20107-undefined-method--for-nil-from-oxygen-hub",
+          "messages": 10
+        },
+        {
+          "channel": "help-observability",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 91,
+      "top_mentioners": [
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 49
+        },
+        {
+          "user": "sam.handler",
+          "count": 23
+        },
+        {
+          "user": "andrea.dipersio",
+          "count": 9
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 2
+        },
+        {
+          "user": "jenna.black",
+          "count": 2
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 1
+        },
+        {
+          "user": "tanner.bruce",
+          "count": 1
+        },
+        {
+          "user": "jerick.liu",
+          "count": 1
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 74,
+      "16": 110,
+      "15": 143,
+      "14": 129,
+      "13": 164,
+      "12": 145,
+      "11": 119,
+      "9": 60,
+      "8": 60,
+      "7": 16,
+      "10": 76,
+      "18": 18,
+      "5": 5,
+      "4": 15,
+      "3": 13,
+      "19": 7,
+      "1": 12,
+      "23": 11
+    },
+    "by_day": {
+      "Wednesday": 516,
+      "Tuesday": 288,
+      "Monday": 118,
+      "Friday": 96,
+      "Thursday": 159
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.11,
+    "dept_average_30d": 5.75,
+    "dept_rank": 111,
+    "dept_size": 357
+  }
+}

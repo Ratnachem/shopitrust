@@ -1,0 +1,274 @@
+{
+  "username": "saki.futamura",
+  "name": "Saki Futamura",
+  "generated_at": "2026-04-08T20:22:14.514340",
+  "summary": {
+    "message_count": 388,
+    "channels_active": 19,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.0,
+      "pos_count": 29,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!\nComparing the emvData required for auth and completion, the only two tags in the completion spec that aren\u2019t in the auth spec are:\n\u2022",
+          "channel": "shared-shopify-retail-adyen",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02FRNQECEL> Thanks for approving <https://app.graphite.com/github/pr/shop/world/572938|the PR> but I just pushed a change to force the",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much Jenny! I\u2019ll rebase after yours gets merged. The stack needs reviews from me and my team first so we won\u2019t ship the stack until",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "AHHHHHHHH THANK YOU!! :thankyou2:",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if any of the above is off, but I believe the only field we need from `additionalData` for card-present is `PaymentAccountReference` .",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "same for",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh my bad :frog-sorry:",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok awesome thank you!",
+          "channel": "help-ris",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Just FYI, I got Feb 9th as the reparenting rollout date based on <https://shopify.slack.com/archives/C0ACPFP3GLS/p1770656998753159|this",
+          "channel": "dev-paypal-express-api-upgrade",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "No worries at all! Thank you Mojan :woman-bowing:",
+          "channel": "help-ris",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; That flag should be separate from whatever flag we use to switch merchants to use the gateway. We will most likely have to backfill to create",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "tvesha.shah",
+          "count": 7
+        },
+        {
+          "user": "nick.smith",
+          "count": 5
+        },
+        {
+          "user": "kervin.alam",
+          "count": 4
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 3
+        },
+        {
+          "user": "david.hou",
+          "count": 3
+        },
+        {
+          "user": "sungjin.kim",
+          "count": 3
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 2
+        },
+        {
+          "user": "markus.voigt",
+          "count": 2
+        },
+        {
+          "user": "mojan.jamalzadeh",
+          "count": 2
+        },
+        {
+          "user": "joel.kerfoot",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.37,
+      "count": 310,
+      "top_channels": [
+        {
+          "channel": "proj-payments-card-present-emv",
+          "messages": 193
+        },
+        {
+          "channel": "inv-20494-sp-portugal-80-failure-rate",
+          "messages": 29
+        },
+        {
+          "channel": "proj-adyen-card-payment-processing",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20456-omaze-seeing-spike-in-subscription-renewa",
+          "messages": 23
+        },
+        {
+          "channel": "pp-retail-payment-processing-river-sandbox",
+          "messages": 17
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 15
+        },
+        {
+          "channel": "shared-shopify-retail-adyen",
+          "messages": 13
+        },
+        {
+          "channel": "help-ris",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20982-westwing-billing-agreement-failures-post",
+          "messages": 9
+        },
+        {
+          "channel": "payments-crossborder-incident-room",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "nick.smith",
+          "count": 15
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 8
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 6
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 5
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 3
+        },
+        {
+          "user": "bing.li",
+          "count": 3
+        },
+        {
+          "user": "joel.kerfoot",
+          "count": 3
+        },
+        {
+          "user": "erick.kadbay",
+          "count": 2
+        },
+        {
+          "user": "justin.lang",
+          "count": 2
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 24,
+      "17": 35,
+      "16": 54,
+      "22": 36,
+      "21": 31,
+      "19": 44,
+      "15": 35,
+      "14": 32,
+      "13": 10,
+      "12": 4,
+      "20": 43,
+      "3": 5,
+      "0": 1,
+      "11": 1,
+      "23": 4,
+      "2": 18,
+      "1": 11
+    },
+    "by_day": {
+      "Wednesday": 78,
+      "Tuesday": 121,
+      "Monday": 108,
+      "Thursday": 38,
+      "Friday": 43
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.39,
+    "dept_average_30d": 5.77,
+    "dept_rank": 150,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "username": "kevin.quijalvo",
+  "name": "Kevin Quijalvo",
+  "generated_at": "2026-04-08T20:22:21.013417",
+  "summary": {
+    "message_count": 322,
+    "channels_active": 11,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0815HMJDBN> feel free to ping me when this lands and I can put up the PR to update the API schema",
+          "channel": "reportify-api-new-errors",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "If you want to do the dump route, feel free to push the change to the PR I have: <https://github.com/shop/world/pull/564970> (resolves the other CI",
+          "channel": "reportify-api",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0942RXB7UG> Updated the bug bash issues with priorities and status:\nP1 (should fix before release)\n\u2022",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! rules look clear to me so far, let me know when this is finalized :slightly_smiling_face: my initial impression is that the effort wouldn't",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0942RXB7UG> I put a quick draft of the launch plan up here:",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0942RXB7UG> the fix I suggested for this bug in particular ended up being fairly simple, you can try it with this manifest:",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I see :thinking: so it sounds like whatever logic I added to format durations is maybe missing in polaris-viz? Is this supposed to solve the long",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Curious what folks think about adjusting the client code at all:\n\u2022 The scenario here:\n    \u25e6 New semantic type was added\n    \u25e6 Client side code",
+          "channel": "inv-21013-investigation-shop-server-app-getting-wit",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah just noticed that, the `dev schema-generate` script copies whatever is in the source `profitability.yml` file into each file under the",
+          "channel": "reportify-api",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The frozen records don't exist in that table, whatever you get when clicking on a default is pretty much sourced directly from this yml file:",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "anything that the merchant saves as a new report, I've just been referring to them as merchant-saved queries. This is the same as whatever is in that",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah our decision was to let it render whatever, even if it's broken because flat mode just doesn't play nicely with line charts. If we want to",
+          "channel": "proj-analytics-multi-metric-viz",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "miray.ozcan",
+          "count": 10
+        },
+        {
+          "user": "jeremy.ludwig",
+          "count": 4
+        },
+        {
+          "user": "matthew.vickers",
+          "count": 4
+        },
+        {
+          "user": "rachel.ng",
+          "count": 4
+        },
+        {
+          "user": "carys.mills",
+          "count": 4
+        },
+        {
+          "user": "susie.lee",
+          "count": 3
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 3
+        },
+        {
+          "user": "jorge.moller",
+          "count": 3
+        },
+        {
+          "user": "maia.hoang",
+          "count": 2
+        },
+        {
+          "user": "nate.jacobs",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.26,
+      "count": 86,
+      "top_channels": [
+        {
+          "channel": "proj-analytics-multi-metric-viz",
+          "messages": 118
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 58
+        },
+        {
+          "channel": "analytics-ui-components",
+          "messages": 36
+        },
+        {
+          "channel": "reportify-api-ops",
+          "messages": 35
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 35
+        },
+        {
+          "channel": "inv-21013-investigation-shop-server-app-getting-wit",
+          "messages": 21
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 11
+        },
+        {
+          "channel": "reportify-api-new-errors",
+          "messages": 4
+        },
+        {
+          "channel": "reportify-clickhouse-alerts",
+          "messages": 2
+        },
+        {
+          "channel": "analytics-team-experience",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 80,
+      "top_mentioners": [
+        {
+          "user": "miray.ozcan",
+          "count": 18
+        },
+        {
+          "user": "aly.gemae",
+          "count": 13
+        },
+        {
+          "user": "ben.milton",
+          "count": 8
+        },
+        {
+          "user": "carys.mills",
+          "count": 6
+        },
+        {
+          "user": "tammie.childs",
+          "count": 5
+        },
+        {
+          "user": "nick.presta",
+          "count": 4
+        },
+        {
+          "user": "jeremy.ludwig",
+          "count": 4
+        },
+        {
+          "user": "matthew.vickers",
+          "count": 3
+        },
+        {
+          "user": "juan.esparza",
+          "count": 3
+        },
+        {
+          "user": "ewa.manek",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 30,
+      "15": 38,
+      "13": 23,
+      "3": 1,
+      "19": 38,
+      "18": 15,
+      "17": 27,
+      "23": 24,
+      "14": 28,
+      "21": 33,
+      "20": 21,
+      "2": 8,
+      "1": 7,
+      "0": 6,
+      "22": 21,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 96,
+      "Tuesday": 65,
+      "Monday": 44,
+      "Friday": 30,
+      "Thursday": 87
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.59,
+    "dept_average_30d": 5.79,
+    "dept_rank": 689,
+    "dept_size": 1233
+  }
+}

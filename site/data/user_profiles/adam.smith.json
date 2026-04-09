@@ -1,0 +1,198 @@
+{
+  "username": "adam.smith",
+  "name": "Adam Smith",
+  "generated_at": "2026-04-08T20:22:21.185797",
+  "summary": {
+    "message_count": 131,
+    "channels_active": 15,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 2,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "But the reason why the `get_by_provider` vs `get` was just keeping it the same as whatever is did previously",
+          "channel": "inc-20982-westwing-billing-agreement-failures-post",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W018GB5EV5K> If a merchant changes their card gateway today, does that break their existing subscriptions? I'm tracing through the code now and it",
+          "channel": "proj-accounts-multi-direct-gateway",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "samuel.beshara",
+          "count": 3
+        },
+        {
+          "user": "jiabo.hou",
+          "count": 1
+        },
+        {
+          "user": "sophie.bernadinmercier",
+          "count": 1
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 1
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 1
+        },
+        {
+          "user": "qi.chen",
+          "count": 1
+        },
+        {
+          "user": "sameer.patel",
+          "count": 1
+        },
+        {
+          "user": "frederic.marois",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.5,
+      "count": 317,
+      "top_channels": [
+        {
+          "channel": "temp-adam-s-river",
+          "messages": 43
+        },
+        {
+          "channel": "pp-multi-direct-gateway",
+          "messages": 38
+        },
+        {
+          "channel": "proj-accounts-multi-direct-gateway",
+          "messages": 15
+        },
+        {
+          "channel": "inc-20982-westwing-billing-agreement-failures-post",
+          "messages": 8
+        },
+        {
+          "channel": "help-ris",
+          "messages": 7
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 3
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 3
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 2
+        },
+        {
+          "channel": "payments-foundations-monitoring",
+          "messages": 2
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "frederic.marois",
+          "count": 5
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 3
+        },
+        {
+          "user": "craig.dykstra874",
+          "count": 2
+        },
+        {
+          "user": "samuel.beshara",
+          "count": 2
+        },
+        {
+          "user": "maribel.romo",
+          "count": 2
+        },
+        {
+          "user": "emilie.lam",
+          "count": 1
+        },
+        {
+          "user": "antoine.merciernicol",
+          "count": 1
+        },
+        {
+          "user": "qi.chen",
+          "count": 1
+        },
+        {
+          "user": "silvia.hayden",
+          "count": 1
+        },
+        {
+          "user": "joe.novak",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 9,
+      "15": 14,
+      "12": 18,
+      "13": 26,
+      "19": 9,
+      "18": 7,
+      "17": 23,
+      "14": 10,
+      "22": 2,
+      "20": 8,
+      "23": 1,
+      "21": 3,
+      "6": 1
+    },
+    "by_day": {
+      "Wednesday": 47,
+      "Tuesday": 31,
+      "Monday": 24,
+      "Thursday": 19,
+      "Friday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.41,
+    "dept_average_30d": 5.77,
+    "dept_rank": 577,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "username": "brandon.szymanski",
+  "name": "Brandon Szymanski",
+  "generated_at": "2026-04-08T20:22:27.104069",
+  "summary": {
+    "message_count": 38,
+    "channels_active": 6,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "That sounds great. For that 2nd report, if it isn't an issue, feel free to push back on it. Lately, a lot of reports that are being submitted are AI",
+          "channel": "help-appsec",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "What is the exact attack vector here? Generally storefront XSS are out of scope, since we let merchants do whatever they want with their own",
+          "channel": "proj-multi-agent-code-scanning",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "chris.giba",
+          "count": 1
+        },
+        {
+          "user": "josh.bregar",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.52,
+      "count": 93,
+      "top_channels": [
+        {
+          "channel": "hackerone",
+          "messages": 17
+        },
+        {
+          "channel": "hackerone-bounty-sync",
+          "messages": 11
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 4
+        },
+        {
+          "channel": "si-2470-h1-shopifyheader-abuse",
+          "messages": 2
+        },
+        {
+          "channel": "proj-multi-agent-code-scanning",
+          "messages": 2
+        },
+        {
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.75,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "alex.lei",
+          "count": 3
+        },
+        {
+          "user": "josh.bregar",
+          "count": 3
+        },
+        {
+          "user": "alex.vindua",
+          "count": 3
+        },
+        {
+          "user": "joe.basirico",
+          "count": 2
+        },
+        {
+          "user": "danilo.barboza",
+          "count": 2
+        },
+        {
+          "user": "jason.paidoussi",
+          "count": 1
+        },
+        {
+          "user": "zack.deveau",
+          "count": 1
+        },
+        {
+          "user": "alex.wong",
+          "count": 1
+        },
+        {
+          "user": "connor.rosenthal",
+          "count": 1
+        },
+        {
+          "user": "craig.eplin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 6,
+      "15": 3,
+      "16": 5,
+      "0": 1,
+      "19": 4,
+      "18": 5,
+      "14": 4,
+      "17": 8,
+      "13": 2
+    },
+    "by_day": {
+      "Tuesday": 5,
+      "Friday": 8,
+      "Thursday": 9,
+      "Wednesday": 14,
+      "Monday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 3.97,
+    "dept_average_30d": 4.89,
+    "dept_rank": 176,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "username": "max.rais",
+  "name": "Max Rais",
+  "generated_at": "2026-04-08T20:22:08.027445",
+  "summary": {
+    "message_count": 948,
+    "channels_active": 41,
+    "unique_people_mentioned": 45,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 12,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "<@U0AEPQCKB3M> wow this worked, nice job\n\u2022 Push this change up\n\u2022 also comb through the entire PR again to identify gaps in unit test coverage and add",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you still have any questions or need additional help",
+          "channel": "help-shop-identity",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> still some type failures, try to look around the surrounding codebase at the types you are referencing to think ahead of any possible",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "not sure if there is a standard process from your end but trying to help speed things up if i can help",
+          "channel": "proj-shop-pay-remember-me",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "i can help out of course, i was the last person to make changes in this area i believe, but hoping to avoid a situation where whenever it breaks",
+          "channel": "shop-identity-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "with these assumptions in mind <https://github.com/Shopify/shop-server/pull/147898|here is the PR>. It's a simple one so feel free to take a look and",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U02HK2DGNV6> Here's a video of how the phone number collection on pay checkout works. This is working out of the box for me with no changes, all",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02HK2DGNV6> Here's a video of how the phone number collection on pay checkout works. This is working out of the box for me with no changes, all",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome thank you, very nice to see",
+          "channel": "shop-identity-ops",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for sharing this btw. we have been looking for something like this for a few months now, my team is excited to start using these (we are in",
+          "channel": "inv-20179-e2e-synthetic-checkout-liquid-per-shop-is",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "i havent done it either but if you want to pair we can try to figure it out",
+          "channel": "inv-20771-graphql-field-errors-error",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Depending on the effort required to keep the KateSQL fallback I would like to see it still there so we can be resilient to failovers. It's super",
+          "channel": "shop-identity-yugabyte-migration",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if its failing consistently now, then we should ship a revert of whatever PR is causing it. what is the error for the test? i dont see anything in",
+          "channel": "inv-20262-intermittent-flakiness-on-mobile-chrome-c",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can we clarify what is the experiment hypothesis? That removing the optional label will increase checkout conversion? opt-in rate? checkouts that",
+          "channel": "proj-optimize-checkout-field-defaults",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "i only heard about it once on slack, i can try to find it later but in meetings now, im sure you can figure it out though :wink:",
+          "channel": "shop-identity-ops",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Raising something with the ongoing GDPR experiment. Personally I'm not too concerned about it for now but will bring it up here. Seeing increased",
+          "channel": "proj-create-shop-accounts-for-all-pay-checkouts",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 48,
+      "top_mentioned": [
+        {
+          "user": "lucas.marcotterichardson",
+          "count": 14
+        },
+        {
+          "user": "danilo.barboza",
+          "count": 11
+        },
+        {
+          "user": "john.datserakis",
+          "count": 11
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 11
+        },
+        {
+          "user": "reinis.babris",
+          "count": 9
+        },
+        {
+          "user": "robertas.godelis",
+          "count": 6
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 6
+        },
+        {
+          "user": "natalie.moore",
+          "count": 5
+        },
+        {
+          "user": "michael.bottens",
+          "count": 5
+        },
+        {
+          "user": "joey.tedeschi",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.79,
+      "count": 332,
+      "top_channels": [
+        {
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "messages": 241
+        },
+        {
+          "channel": "proj-create-shop-accounts-for-all-pay-checkouts",
+          "messages": 115
+        },
+        {
+          "channel": "shop-identity-ops",
+          "messages": 90
+        },
+        {
+          "channel": "proj-optimize-checkout-field-defaults",
+          "messages": 83
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 67
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 29
+        },
+        {
+          "channel": "inv-20179-e2e-synthetic-checkout-liquid-per-shop-is",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20440-shop-exec-alert-login-with-shop-is-down",
+          "messages": 22
+        },
+        {
+          "channel": "proj-pay-checkout-login-to-state-machine",
+          "messages": 19
+        },
+        {
+          "channel": "resiliency-enterprise-sre-team",
+          "messages": 18
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 84,
+      "top_mentioners": [
+        {
+          "user": "michael.bottens",
+          "count": 8
+        },
+        {
+          "user": "charles.mccauley",
+          "count": 7
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 7
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 6
+        },
+        {
+          "user": "joel.antoci",
+          "count": 4
+        },
+        {
+          "user": "danilo.barboza",
+          "count": 4
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 4
+        },
+        {
+          "user": "dave.alexander",
+          "count": 3
+        },
+        {
+          "user": "reinis.babris",
+          "count": 3
+        },
+        {
+          "user": "quinton.chester",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 172,
+      "17": 139,
+      "16": 105,
+      "14": 137,
+      "13": 106,
+      "21": 33,
+      "20": 69,
+      "19": 61,
+      "15": 80,
+      "12": 20,
+      "0": 7,
+      "11": 14,
+      "23": 3,
+      "22": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 184,
+      "Tuesday": 219,
+      "Monday": 184,
+      "Friday": 185,
+      "Thursday": 176
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.73,
+    "dept_average_30d": 5.86,
+    "dept_rank": 19,
+    "dept_size": 166
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "username": "jerry.deng",
+  "name": "Jerry Deng",
+  "generated_at": "2026-04-08T20:22:10.718060",
+  "summary": {
+    "message_count": 171,
+    "channels_active": 10,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I was thinking routing synthetic CI but that won't cover it either because of core local proxy. Something like a single cluster deploy core-canary or",
+          "channel": "proj-self-hosted-envoy",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "matt.kubej",
+          "count": 2
+        },
+        {
+          "user": "koby.pathmanathar",
+          "count": 1
+        },
+        {
+          "user": "nick.silverman",
+          "count": 1
+        },
+        {
+          "user": "drew.suitor",
+          "count": 1
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 1
+        },
+        {
+          "user": "jie.sun",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.16,
+      "count": 193,
+      "top_channels": [
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 56
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 44
+        },
+        {
+          "channel": "proj-self-hosted-envoy",
+          "messages": 16
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 15
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 12
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 10
+        },
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 8
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 6
+        },
+        {
+          "channel": "inc-20405-sfr-503s-due-to-dying-workers",
+          "messages": 2
+        },
+        {
+          "channel": "strip-additional-headers",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "nick.silverman",
+          "count": 16
+        },
+        {
+          "user": "jie.sun",
+          "count": 7
+        },
+        {
+          "user": "peiran.liu",
+          "count": 4
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 3
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 2
+        },
+        {
+          "user": "tunc.ekiz",
+          "count": 2
+        },
+        {
+          "user": "drew.suitor",
+          "count": 1
+        },
+        {
+          "user": "bill.bean",
+          "count": 1
+        },
+        {
+          "user": "charles.ng",
+          "count": 1
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 26,
+      "14": 20,
+      "19": 11,
+      "17": 31,
+      "20": 14,
+      "15": 42,
+      "16": 14,
+      "21": 3,
+      "13": 7,
+      "10": 2,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 18,
+      "Thursday": 27,
+      "Tuesday": 107,
+      "Friday": 12,
+      "Monday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.54,
+    "dept_average_30d": 5.75,
+    "dept_rank": 194,
+    "dept_size": 357
+  }
+}

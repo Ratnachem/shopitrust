@@ -1,0 +1,177 @@
+{
+  "username": "nick.matantsev1",
+  "name": "Nick Matantsev1",
+  "generated_at": "2026-04-08T20:22:07.259203",
+  "summary": {
+    "message_count": 287,
+    "channels_active": 24,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, super aligned on this",
+          "channel": "proj-agent-shared-client",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "Appreciate the update and the review so far!\n\n\u2022 the main value of the schema abstraction/library is to eventually *standardize* the 5-6 different",
+          "channel": "proj-sidekick-intents",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Not really but I can take a look at the field quickly. Main thing is that eg some data might be loaded or whatever.\n\nIn fact I think that it's too",
+          "channel": "sidekick-river",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.78,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "ben.lafferty",
+          "count": 7
+        },
+        {
+          "user": "charlie.lee",
+          "count": 4
+        },
+        {
+          "user": "dima.belyaev",
+          "count": 2
+        },
+        {
+          "user": "mikko.haapoja",
+          "count": 2
+        },
+        {
+          "user": "alexandre.c",
+          "count": 2
+        },
+        {
+          "user": "feken.baboyan",
+          "count": 1
+        },
+        {
+          "user": "ates.goral",
+          "count": 1
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 1
+        },
+        {
+          "user": "stephan.leroux",
+          "count": 1
+        },
+        {
+          "user": "leslie.xin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.56,
+      "count": 205,
+      "top_channels": [
+        {
+          "channel": "proj-agent-shared-client",
+          "messages": 75
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 50
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 31
+        },
+        {
+          "channel": "proj-sidekick-intents",
+          "messages": 27
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 27
+        },
+        {
+          "channel": "sidekick-river",
+          "messages": 19
+        },
+        {
+          "channel": "inc-21126-some-merchants-are-unable-to-customize-th",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20856-new-error-failed-to-render-template-liqui",
+          "messages": 6
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 5
+        },
+        {
+          "channel": "proj-sidekick-falcon",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 22,
+      "15": 16,
+      "17": 50,
+      "14": 50,
+      "21": 19,
+      "20": 26,
+      "16": 19,
+      "13": 30,
+      "4": 6,
+      "22": 12,
+      "1": 1,
+      "0": 2,
+      "19": 16,
+      "12": 8,
+      "11": 5,
+      "10": 3,
+      "3": 2
+    },
+    "by_day": {
+      "Wednesday": 48,
+      "Tuesday": 75,
+      "Monday": 55,
+      "Friday": 43,
+      "Thursday": 66
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.84,
+    "dept_average_30d": 4.74,
+    "dept_rank": 636,
+    "dept_size": 1663
+  }
+}

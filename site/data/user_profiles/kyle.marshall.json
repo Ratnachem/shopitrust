@@ -1,0 +1,207 @@
+{
+  "username": "kyle.marshall",
+  "name": "Kyle Marshall",
+  "generated_at": "2026-04-08T20:22:29.437809",
+  "summary": {
+    "message_count": 71,
+    "channels_active": 15,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018PU89GSY> <@U09JE83150S> <@U06LA7YLT8X> <@U085B9KNJ9L> <@U08PVA0AALT> <@W018HT40BPV> I'm starting to think about how we should host clickhouse",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U01L9AM5MNG> The concern is that what we've run into is that most of the time we are able to process a model that requires a scatter gather lookup",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "jordan.miranda",
+          "count": 2
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 2
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 2
+        },
+        {
+          "user": "yuichi.hagio",
+          "count": 2
+        },
+        {
+          "user": "yifan.ye",
+          "count": 1
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 1
+        },
+        {
+          "user": "susie.lee",
+          "count": 1
+        },
+        {
+          "user": "caleb.powell",
+          "count": 1
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.61,
+      "count": 217,
+      "top_channels": [
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 22
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 11
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 7
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 5
+        },
+        {
+          "channel": "data-remote-happy-hour",
+          "messages": 5
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 4
+        },
+        {
+          "channel": "tmp-analytics-returns-metric",
+          "messages": 3
+        },
+        {
+          "channel": "proj-analytics-reportify-validator",
+          "messages": 3
+        },
+        {
+          "channel": "s-foundations-analytics-river",
+          "messages": 2
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "yifan.ye",
+          "count": 7
+        },
+        {
+          "user": "yuichi.hagio",
+          "count": 4
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 3
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 3
+        },
+        {
+          "user": "steven.lee",
+          "count": 2
+        },
+        {
+          "user": "frank.jiao",
+          "count": 2
+        },
+        {
+          "user": "valentinas.mital-2577",
+          "count": 2
+        },
+        {
+          "user": "kristie.ching",
+          "count": 2
+        },
+        {
+          "user": "marcelo.mottalli",
+          "count": 2
+        },
+        {
+          "user": "graham.johnson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 10,
+      "14": 5,
+      "20": 8,
+      "17": 10,
+      "7": 1,
+      "19": 7,
+      "16": 4,
+      "22": 3,
+      "21": 11,
+      "18": 8,
+      "23": 1,
+      "13": 2,
+      "0": 1
+    },
+    "by_day": {
+      "Monday": 8,
+      "Thursday": 22,
+      "Wednesday": 18,
+      "Tuesday": 18,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.29,
+    "dept_average_30d": 5.79,
+    "dept_rank": 870,
+    "dept_size": 1233
+  }
+}

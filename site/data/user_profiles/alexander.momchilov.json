@@ -1,0 +1,285 @@
+{
+  "username": "alexander.momchilov",
+  "name": "Alexander Momchilov",
+  "generated_at": "2026-04-08T20:22:19.249375",
+  "summary": {
+    "message_count": 251,
+    "channels_active": 11,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.1,
+      "pos_count": 6,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "This is great, thanks!\n\nOne addition I'll recommend, is considering how much of this would be relevant in a world with a new type checker?\n\nI.e. how",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I added a discussion point for next month's meeting:",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hi Justin, thank you for finding this, and I'm sorry about this incident. Typing should only ever increase the safety of our systems, and *never* be",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Justin, thank you for finding this, and I'm sorry about this incident. Typing should only ever increase the safety of our systems, and *never* be",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yeah I would guess that works because the assignment is binding the `#: as Float`, not the `if`/`else`.\n\nThanks!",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I'm writing a response, want me to do it?",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; My first concern. Cooldowns implicitly assume that someone else will install the new version first and find problems. But if everyone enables",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We have an NDA with Stripe, right? Can we share details about the size of Shopify Core?\n\n&gt; approximately how big is the monolith?  (# of files, #",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0AEPQCKB3M> of those `T::Enum` subclasses, can you please research if they're used more closely to the ActiveRecord layer, the GraphQL layer, or",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "And please tell them it's urgent and blocking for us.\n\nThe sorbet bump comes with our newly-merged RBS work, which we'd like to start using this",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I'm having the same `Symbol not found: _rb_cFalseClass` crash. Did you ever figure it out <@U05T1SPL2BW>",
+          "channel": "help-observability",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If we're going off GitHub, can we please use something standard/off-the-shelf?\n\nSelf-hosted GitLab, GitTea, Phabricator, whatever.",
+          "channel": "livestream-eng-data",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@W018GAUARDK> <@U022XL03LQN> I overhauled how the Prism parts integrate into the Sorbet pipelines (realmain and test). Could I please get an",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "kaan.ozkan",
+          "count": 6
+        },
+        {
+          "user": "vinicius.stock",
+          "count": 4
+        },
+        {
+          "user": "jesse.johnson",
+          "count": 4
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 4
+        },
+        {
+          "user": "stan.lo",
+          "count": 3
+        },
+        {
+          "user": "alexandre.terrasa",
+          "count": 2
+        },
+        {
+          "user": "alex.spencer",
+          "count": 2
+        },
+        {
+          "user": "john.taylor",
+          "count": 1
+        },
+        {
+          "user": "soutaro.matsumoto",
+          "count": 1
+        },
+        {
+          "user": "scott.jackson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.42,
+      "count": 154,
+      "top_channels": [
+        {
+          "channel": "team-ruby-dx",
+          "messages": 195
+        },
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 18
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 11
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 11
+        },
+        {
+          "channel": "help-observability",
+          "messages": 6
+        },
+        {
+          "channel": "vault-team",
+          "messages": 4
+        },
+        {
+          "channel": "team-ruby-and-rails-infra",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "stan.lo",
+          "count": 8
+        },
+        {
+          "user": "kaan.ozkan",
+          "count": 5
+        },
+        {
+          "user": "alex.spencer",
+          "count": 3
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 2
+        },
+        {
+          "user": "vinicius.stock",
+          "count": 2
+        },
+        {
+          "user": "justin.hill",
+          "count": 1
+        },
+        {
+          "user": "julianojulio.costa",
+          "count": 1
+        },
+        {
+          "user": "tim.borkhodoev",
+          "count": 1
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 1
+        },
+        {
+          "user": "john.taylor",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 16,
+      "18": 33,
+      "17": 21,
+      "14": 35,
+      "13": 12,
+      "21": 24,
+      "20": 12,
+      "22": 11,
+      "15": 46,
+      "19": 34,
+      "12": 1,
+      "11": 1,
+      "23": 1,
+      "1": 4
+    },
+    "by_day": {
+      "Wednesday": 63,
+      "Monday": 28,
+      "Thursday": 63,
+      "Tuesday": 39,
+      "Friday": 58
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.47,
+    "dept_average_30d": 5.75,
+    "dept_rank": 210,
+    "dept_size": 357
+  }
+}

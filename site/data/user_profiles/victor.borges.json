@@ -1,0 +1,234 @@
+{
+  "username": "victor.borges",
+  "name": "Victor Borges",
+  "generated_at": "2026-04-08T20:22:25.360971",
+  "summary": {
+    "message_count": 121,
+    "channels_active": 13,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "worked, thanks!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> just tell mw how to. Feel free to point me to any resource if you can find one, otherwise just send instructions.",
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!!",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh, that was it. The issue was with my `.gitignore`\nRemoved some specific lines and it worked. Thanks!",
+          "channel": "dev-up",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "A service account is a general identity abstraction. We have to use whatever owns/runs the core code",
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "They are not using CometML. Can your team own this? Once you figure it out just let me know what service account I must add.\nI have no context about",
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "surya.dutta",
+          "count": 6
+        },
+        {
+          "user": "vincent.chio",
+          "count": 5
+        },
+        {
+          "user": "maulin.pathare",
+          "count": 4
+        },
+        {
+          "user": "noah.simpson",
+          "count": 3
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 3
+        },
+        {
+          "user": "tom.rochette",
+          "count": 3
+        },
+        {
+          "user": "rouzbeh.majidi",
+          "count": 2
+        },
+        {
+          "user": "reza.soltani",
+          "count": 1
+        },
+        {
+          "user": "peter.moon",
+          "count": 1
+        },
+        {
+          "user": "deborah.ang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.21,
+      "count": 196,
+      "top_channels": [
+        {
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "messages": 71
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 15
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 10
+        },
+        {
+          "channel": "ml-community",
+          "messages": 5
+        },
+        {
+          "channel": "buyer-trust-data-alerts",
+          "messages": 4
+        },
+        {
+          "channel": "dev-up",
+          "messages": 3
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 3
+        },
+        {
+          "channel": "cti-team",
+          "messages": 2
+        },
+        {
+          "channel": "shipping-taxes-gsd",
+          "messages": 2
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "surya.dutta",
+          "count": 18
+        },
+        {
+          "user": "noah.simpson",
+          "count": 18
+        },
+        {
+          "user": "rouzbeh.majidi",
+          "count": 7
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 6
+        },
+        {
+          "user": "maulin.pathare",
+          "count": 6
+        },
+        {
+          "user": "vincent.chio",
+          "count": 4
+        },
+        {
+          "user": "don.kelly",
+          "count": 3
+        },
+        {
+          "user": "rylee.grace",
+          "count": 2
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 1
+        },
+        {
+          "user": "harley.balabanian",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 3,
+      "16": 9,
+      "17": 22,
+      "15": 14,
+      "19": 12,
+      "18": 21,
+      "13": 4,
+      "12": 2,
+      "21": 12,
+      "14": 8,
+      "22": 9,
+      "20": 5
+    },
+    "by_day": {
+      "Wednesday": 22,
+      "Monday": 15,
+      "Friday": 20,
+      "Thursday": 30,
+      "Tuesday": 34
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.01,
+    "dept_average_30d": 5.39,
+    "dept_rank": 69,
+    "dept_size": 272
+  }
+}

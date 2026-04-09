@@ -1,0 +1,303 @@
+{
+  "username": "ryan.woodworth",
+  "name": "Ryan Woodworth",
+  "generated_at": "2026-04-08T20:22:13.675920",
+  "summary": {
+    "message_count": 898,
+    "channels_active": 38,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 50,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 30,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah ok, probably just the model reaching for the new tool instead of the old metrics api lookups\n\nas long as this wasnt intentionally removed as a",
+          "channel": "proj-observe-ai",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah perfect thank you. otherwise this looks good to me",
+          "channel": "help-observability",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing!! Im so glad to hear this is working as expected now, thanks for sharing this update Justin :bufo-bless:",
+          "channel": "help-observability",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah that endpoint difference is likely a factor. thank you Marc-Antoine :bufo-bless:",
+          "channel": "help-proxy-shopify-ai",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! for no valid destination how are we handling github notification policies?",
+          "channel": "proj-observe-tidy",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":bufo-bless: thank you",
+          "channel": "proj-observe-ai",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! I approved, but our deploy is locked and wont be deployed likely until monday due to the canada holiday tomorrow",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "if you are finding any consistent behaviour preventing you from using the mcp server (or any of our other observability tools) please feel free to",
+          "channel": "developers-talk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah ok must have just been cd that pushed it through and it errored\n\nIll continue as normal in that case thank you!",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! approved, Ill deploy once checks are done",
+          "channel": "help-observability",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "makes sense to me! having that correlate tool will definitely be helpful here\n\nIm not too familiar with the claude code vs code extension but",
+          "channel": "help-observability",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "dont need all of them, just whatever you have :slightly_smiling_face:",
+          "channel": "help-observability",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the cardinality over whatever your querying time range is will impact performance :slightly_smiling_face:",
+          "channel": "temp-index-by-size-metric-rollout",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "not stupid, its kinda hidden\n\n`query inspector &gt; data &gt; download csv`",
+          "channel": "help-observability",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "would be in the mcp config for whatever agent client you are using. proxy would use this url:",
+          "channel": "help-observability",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "hey Tavian, using gauge would be correct here, though with our 30s scrape window, gauges will appear as whatever the last value that was sent within",
+          "channel": "help-observability",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "samuel.dufel",
+          "count": 5
+        },
+        {
+          "user": "andy.fleming",
+          "count": 3
+        },
+        {
+          "user": "joey.yu",
+          "count": 3
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 3
+        },
+        {
+          "user": "adrian.prayogo",
+          "count": 2
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 2
+        },
+        {
+          "user": "pedro.tanaka",
+          "count": 1
+        },
+        {
+          "user": "bassam.mansoob",
+          "count": 1
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 1
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.92,
+      "count": 392,
+      "top_channels": [
+        {
+          "channel": "help-observability",
+          "messages": 603
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 56
+        },
+        {
+          "channel": "proj-observe-tidy",
+          "messages": 42
+        },
+        {
+          "channel": "proj-observe-ai",
+          "messages": 39
+        },
+        {
+          "channel": "discuss-investigate-api",
+          "messages": 16
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 15
+        },
+        {
+          "channel": "rwoodworth-river",
+          "messages": 14
+        },
+        {
+          "channel": "rss-ai",
+          "messages": 12
+        },
+        {
+          "channel": "team-cd",
+          "messages": 12
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 117,
+      "top_mentioners": [
+        {
+          "user": "panos.tsavdaris",
+          "count": 14
+        },
+        {
+          "user": "jenna.black",
+          "count": 13
+        },
+        {
+          "user": "adrian.prayogo",
+          "count": 9
+        },
+        {
+          "user": "kangze.jia",
+          "count": 7
+        },
+        {
+          "user": "joey.yu",
+          "count": 6
+        },
+        {
+          "user": "justin.belzile",
+          "count": 4
+        },
+        {
+          "user": "yuri.levenhagen",
+          "count": 4
+        },
+        {
+          "user": "andy.fleming",
+          "count": 4
+        },
+        {
+          "user": "ben.maynard",
+          "count": 4
+        },
+        {
+          "user": "anas.shahid",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 130,
+      "17": 160,
+      "16": 91,
+      "15": 81,
+      "14": 112,
+      "13": 95,
+      "12": 26,
+      "20": 61,
+      "19": 118,
+      "22": 2,
+      "21": 22
+    },
+    "by_day": {
+      "Wednesday": 269,
+      "Tuesday": 207,
+      "Monday": 140,
+      "Thursday": 193,
+      "Friday": 89
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.67,
+    "dept_average_30d": 5.75,
+    "dept_rank": 39,
+    "dept_size": 357
+  }
+}

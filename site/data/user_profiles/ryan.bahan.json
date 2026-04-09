@@ -1,0 +1,330 @@
+{
+  "username": "ryan.bahan",
+  "name": "Ryan Bahan",
+  "generated_at": "2026-04-08T20:22:06.425387",
+  "summary": {
+    "message_count": 947,
+    "channels_active": 38,
+    "unique_people_mentioned": 49,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 28,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! just trying to gain context on the project/new functionality as i go :slightly_smiling_face:",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I've put in a <https://vault.shopify.io/gsd/reviews/67036|review request> for moving this project to done. All requirements have shipped as part of",
+          "channel": "devtools-proj-agentic-app-validation",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I've added all prs to the gsd project :+1:",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! I'll have to investigate whether we can always fully qualify the path. I imagine this could create divergent behavior if users have",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "just wanted to say a big thank you for orchestrating the cli release and fixing bugs Isaac :pray: :sonic:",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "huge thank you again to <@U0280NGAKUG> <@U057L0Z2P1N> <@U03LLC4MG5S> you are all my heroes :pray:",
+          "channel": "proj-agentic-store-building-access",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "CLI connector is submitted on our end. cc <@U057L0Z2P1N> <@U0280NGAKUG>\n\nThank you everyone for being so responsive :pray: :pray: :pray:",
+          "channel": "proj-agentic-store-building-access",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, tysm",
+          "channel": "proj-agentic-store-building-access",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0280NGAKUG> thank you! I need the app check bypassed on <https://apps.shopify.com/internal/app_submissions/109660/edit|this submission> since it",
+          "channel": "proj-agentic-store-building-access",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":picard2: thank you",
+          "channel": "proj-agentic-store-building-access",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "today we are trying to support whatever package manager is on the 3p user's local machine",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The merge is partially about performance and partially about making sure we have an understanding of the rules for merging + sorting as a unified",
+          "channel": "devtools-proj-devdash-home",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Makes sense. I think <https://shopify.slack.com/archives/C0AKUPLRULU/p1773397775419459?thread_ts=1773238273.604869&amp;cid=C0AKUPLRULU|Gonzalo>",
+          "channel": "devtools-exploring-cli-monorepo",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm thinking of Shopify's opinion on ordering as one-way. On link, pull, or app init we write the file and impose an order (the basic sorting we",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Blame",
+          "pattern": "why didn't you",
+          "text": "<@U0AEPQCKB3M> presumably the main branch was able to use copy to clipboard functionality without an outlet. Is that true? If so, why didn't you use",
+          "channel": "devtools-proj-self-service-agentic-apps",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@U0AEPQCKB3M> give me a confidence score out of 10 on how confident you are this pr is smart and not stupid",
+          "channel": "devtools-proj-self-service-agentic-apps",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "fwiw i wrote most of it and i don't care",
+          "channel": "devtools-dev-experience",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok, let's suppose that contracts as implemented in the CLI are correct",
+          "channel": "tmp-generic-build-steps-for-extensions",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Thanks for the perspective, Isaac. I'm going to try to reframe this a bit as design questions that I still have, and that I believe are important to",
+          "channel": "tmp-generic-build-steps-for-extensions",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 52,
+      "top_mentioned": [
+        {
+          "user": "donald.merand",
+          "count": 36
+        },
+        {
+          "user": "phyllis.wu",
+          "count": 17
+        },
+        {
+          "user": "nick.wesselman",
+          "count": 16
+        },
+        {
+          "user": "phil.mcclelland",
+          "count": 14
+        },
+        {
+          "user": "shankar.chandran",
+          "count": 13
+        },
+        {
+          "user": "julie.antunovic",
+          "count": 13
+        },
+        {
+          "user": "gonzalo.riestra",
+          "count": 8
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 8
+        },
+        {
+          "user": "max.arvidsson",
+          "count": 6
+        },
+        {
+          "user": "simon.levasseur",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.73,
+      "count": 382,
+      "top_channels": [
+        {
+          "channel": "devtools-dev-experience",
+          "messages": 380
+        },
+        {
+          "channel": "devtools-proj-agentic-app-validation",
+          "messages": 131
+        },
+        {
+          "channel": "devtools-proj-devdash-home",
+          "messages": 62
+        },
+        {
+          "channel": "proj-agentic-store-building-access",
+          "messages": 58
+        },
+        {
+          "channel": "inv-20093-consistent-500s-in-dev-dash",
+          "messages": 56
+        },
+        {
+          "channel": "tmp-generic-build-steps-for-extensions",
+          "messages": 30
+        },
+        {
+          "channel": "devtools-proj-automate-ux-issues",
+          "messages": 28
+        },
+        {
+          "channel": "devtools-proj-self-service-agentic-apps",
+          "messages": 27
+        },
+        {
+          "channel": "inc-21217-shopify-app-dev-broken-for-cli-versions--",
+          "messages": 17
+        },
+        {
+          "channel": "devtools-exploring-cli-monorepo",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 131,
+      "top_mentioners": [
+        {
+          "user": "phil.mcclelland",
+          "count": 18
+        },
+        {
+          "user": "richard.powell",
+          "count": 14
+        },
+        {
+          "user": "julie.antunovic",
+          "count": 12
+        },
+        {
+          "user": "donald.merand",
+          "count": 9
+        },
+        {
+          "user": "nick.wesselman",
+          "count": 5
+        },
+        {
+          "user": "phyllis.wu",
+          "count": 5
+        },
+        {
+          "user": "ryan.d.lee",
+          "count": 5
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 5
+        },
+        {
+          "user": "rod.mcnew",
+          "count": 5
+        },
+        {
+          "user": "max.arvidsson",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 141,
+      "17": 167,
+      "16": 133,
+      "15": 136,
+      "1": 18,
+      "0": 20,
+      "21": 35,
+      "20": 56,
+      "14": 85,
+      "13": 29,
+      "12": 5,
+      "22": 38,
+      "19": 62,
+      "23": 15,
+      "3": 1,
+      "2": 5,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 206,
+      "Tuesday": 229,
+      "Monday": 96,
+      "Friday": 196,
+      "Thursday": 220
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.94,
+    "dept_average_30d": 5.79,
+    "dept_rank": 89,
+    "dept_size": 1233
+  }
+}

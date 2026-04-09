@@ -1,0 +1,214 @@
+{
+  "username": "isaac.ebhodaghe",
+  "name": "Isaac Ebhodaghe",
+  "generated_at": "2026-04-08T20:22:13.926928",
+  "summary": {
+    "message_count": 100,
+    "channels_active": 12,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad that's a typo from my end, reverting that to have get the correct `dev up` output",
+          "channel": "dev-up",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Quick PR for this issue. My bad forgot for the delay on this. I add comments in the description on the different",
+          "channel": "shop-feed",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "In progress you should have it in a few minutes, Eylam's stack just merge. So sync eventing changes with main",
+          "channel": "proj-shop-posts",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "eylam.fried",
+          "count": 10
+        },
+        {
+          "user": "jane.cui",
+          "count": 8
+        },
+        {
+          "user": "dj.chung",
+          "count": 7
+        },
+        {
+          "user": "sean.dang",
+          "count": 6
+        },
+        {
+          "user": "ryan.lambert",
+          "count": 6
+        },
+        {
+          "user": "kyle.waldrop",
+          "count": 4
+        },
+        {
+          "user": "oshin.rawal",
+          "count": 4
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 2
+        },
+        {
+          "user": "sebastian.valencia",
+          "count": 2
+        },
+        {
+          "user": "dean.vanasseldonk",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.38,
+      "count": 152,
+      "top_channels": [
+        {
+          "channel": "proj-shop-posts",
+          "messages": 57
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 8
+        },
+        {
+          "channel": "dev-up",
+          "messages": 7
+        },
+        {
+          "channel": "shop-feed",
+          "messages": 6
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 5
+        },
+        {
+          "channel": "proj-enhanced-recs-impressions",
+          "messages": 5
+        },
+        {
+          "channel": "proj-shop-scroll-nudge",
+          "messages": 4
+        },
+        {
+          "channel": "shop-feed-bots",
+          "messages": 2
+        },
+        {
+          "channel": "help-localization",
+          "messages": 2
+        },
+        {
+          "channel": "shop-local-dev-environment",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.69,
+      "count": 69,
+      "top_mentioners": [
+        {
+          "user": "ryan.lambert",
+          "count": 10
+        },
+        {
+          "user": "oshin.rawal",
+          "count": 10
+        },
+        {
+          "user": "jane.cui",
+          "count": 8
+        },
+        {
+          "user": "eylam.fried",
+          "count": 7
+        },
+        {
+          "user": "kyle.waldrop",
+          "count": 6
+        },
+        {
+          "user": "dj.chung",
+          "count": 5
+        },
+        {
+          "user": "ted.smith",
+          "count": 5
+        },
+        {
+          "user": "sean.dang",
+          "count": 4
+        },
+        {
+          "user": "sebastian.valencia",
+          "count": 4
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 9,
+      "17": 5,
+      "16": 16,
+      "15": 17,
+      "14": 7,
+      "20": 8,
+      "19": 13,
+      "13": 7,
+      "12": 2,
+      "22": 7,
+      "21": 7,
+      "11": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 32,
+      "Tuesday": 26,
+      "Thursday": 22,
+      "Friday": 9,
+      "Monday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.61,
+    "dept_average_30d": 5.86,
+    "dept_rank": 115,
+    "dept_size": 166
+  }
+}

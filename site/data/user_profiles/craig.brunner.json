@@ -1,0 +1,195 @@
+{
+  "username": "craig.brunner",
+  "name": "Craig Brunner",
+  "generated_at": "2026-04-08T20:22:29.990943",
+  "summary": {
+    "message_count": 220,
+    "channels_active": 16,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if in the morning if we can get a staging for this",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "if you can put that on a staging I can help test",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> everything you said sounds good, right now I want to see the api return but I would like to wire it up to the product create and",
+          "channel": "craig-river-stream",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "matt.kubej",
+          "count": 3
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 3
+        },
+        {
+          "user": "jason.godson",
+          "count": 1
+        },
+        {
+          "user": "surma",
+          "count": 1
+        },
+        {
+          "user": "nate.jacobs",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.94,
+      "count": 340,
+      "top_channels": [
+        {
+          "channel": "proj-sidekick-appgen",
+          "messages": 101
+        },
+        {
+          "channel": "proj-admin-compression-dictionaries",
+          "messages": 55
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 16
+        },
+        {
+          "channel": "craig-river-stream",
+          "messages": 13
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 7
+        },
+        {
+          "channel": "tobi-river",
+          "messages": 6
+        },
+        {
+          "channel": "batteries-included-northstar",
+          "messages": 5
+        },
+        {
+          "channel": "proj-admin-web-agentic-tooling",
+          "messages": 4
+        },
+        {
+          "channel": "river",
+          "messages": 3
+        },
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.12,
+      "count": 15,
+      "top_mentioners": [
+        {
+          "user": "sean.ittel",
+          "count": 3
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 2
+        },
+        {
+          "user": "nate.jacobs",
+          "count": 2
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 1
+        },
+        {
+          "user": "nicole.neubarth",
+          "count": 1
+        },
+        {
+          "user": "jonathan.berry",
+          "count": 1
+        },
+        {
+          "user": "victor.r.vuong",
+          "count": 1
+        },
+        {
+          "user": "yoav.weiss",
+          "count": 1
+        },
+        {
+          "user": "matt.koenig",
+          "count": 1
+        },
+        {
+          "user": "raman.lally",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 1,
+      "16": 18,
+      "0": 2,
+      "19": 3,
+      "18": 45,
+      "17": 58,
+      "15": 50,
+      "14": 6,
+      "3": 5,
+      "2": 7,
+      "20": 19,
+      "4": 1,
+      "23": 2,
+      "21": 3
+    },
+    "by_day": {
+      "Friday": 88,
+      "Tuesday": 15,
+      "Wednesday": 11,
+      "Monday": 6,
+      "Thursday": 100
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.1,
+    "dept_average_30d": 5.79,
+    "dept_rank": 959,
+    "dept_size": 1233
+  }
+}

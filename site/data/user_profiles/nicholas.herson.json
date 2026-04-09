@@ -1,0 +1,230 @@
+{
+  "username": "nicholas.herson",
+  "name": "Nicholas Herson",
+  "generated_at": "2026-04-08T20:22:13.569051",
+  "summary": {
+    "message_count": 436,
+    "channels_active": 20,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 13,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hey there, I have <https://app.graphite.com/github/pr/shop/world/545647|a PR> which fully removes IdentityCache from `ShopLegalEntity` (routed",
+          "channel": "help-shopify-payments-kyc",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U085F9CFXFX> do you need help with the rollout? if so just lmk how i can help",
+          "channel": "proj-rts-identitycache-shutdown",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "just finished, this ended up being exactly correct, thanks!",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "tyty <@W018GAAN7N1> it looks amazing",
+          "channel": "tmp-sfr-prod-memcached-on-vms",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "couple things:\n1. i think you need to check your priors. does this shop have the flag set to true for whatever rollout % this was at when the error",
+          "channel": "proj-rts-identitycache-shutdown",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i think you mentioned this on :tuple: but basically because the CIDR got changed, we see this in the plan:\n```+/- resource",
+          "channel": "tmp-sfr-prod-memcached-on-vms",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I just figure we can open a new tab in whatever shell you're already using and ctrl+v",
+          "channel": "leela",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.28,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "mark.rattle",
+          "count": 8
+        },
+        {
+          "user": "majuth.kira",
+          "count": 6
+        },
+        {
+          "user": "sam.obeid",
+          "count": 5
+        },
+        {
+          "user": "dan.mayer",
+          "count": 2
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 1
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.49,
+      "count": 151,
+      "top_channels": [
+        {
+          "channel": "caching-platform-team",
+          "messages": 170
+        },
+        {
+          "channel": "proj-rts-identitycache-shutdown",
+          "messages": 79
+        },
+        {
+          "channel": "tmp-sfr-prod-memcached-on-vms",
+          "messages": 70
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 25
+        },
+        {
+          "channel": "leela",
+          "messages": 23
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20551-bfcm-2026-scale-test-1",
+          "messages": 14
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 9
+        },
+        {
+          "channel": "caching-platform-alerts",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20759-topps-add-to-cart-variant-not-found-error",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "sam.obeid",
+          "count": 16
+        },
+        {
+          "user": "mark.rattle",
+          "count": 6
+        },
+        {
+          "user": "bing.li",
+          "count": 5
+        },
+        {
+          "user": "majuth.kira",
+          "count": 3
+        },
+        {
+          "user": "jason.chen",
+          "count": 3
+        },
+        {
+          "user": "ayo.akinkugbe",
+          "count": 2
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "dan.mayer",
+          "count": 2
+        },
+        {
+          "user": "aly.gemae",
+          "count": 1
+        },
+        {
+          "user": "caroline",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 48,
+      "15": 27,
+      "23": 30,
+      "20": 66,
+      "19": 35,
+      "17": 67,
+      "22": 43,
+      "21": 35,
+      "0": 5,
+      "16": 58,
+      "14": 3,
+      "6": 7,
+      "5": 4,
+      "1": 4,
+      "2": 1,
+      "13": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 124,
+      "Tuesday": 122,
+      "Monday": 85,
+      "Friday": 45,
+      "Thursday": 60
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.71,
+    "dept_average_30d": 4.74,
+    "dept_rank": 276,
+    "dept_size": 1663
+  }
+}

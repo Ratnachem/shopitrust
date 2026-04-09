@@ -1,0 +1,220 @@
+{
+  "username": "drew.suitor",
+  "name": "Drew Suitor",
+  "generated_at": "2026-04-08T20:22:10.902509",
+  "summary": {
+    "message_count": 210,
+    "channels_active": 19,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for the example",
+          "channel": "edge-infrastructure-operations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":tuple:? feel free to give me a call whenever",
+          "channel": "edge-infrastructure-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "edge cache service time to process purge requests is steadily increasing but the graphs the runbooks are pointing me too don't seem abnormal. If",
+          "channel": "team-edge-infrastructure",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you guys for the quick help here",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "elvin.efendiev",
+          "count": 2
+        },
+        {
+          "user": "bill.bean",
+          "count": 1
+        },
+        {
+          "user": "jerry.deng",
+          "count": 1
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 1
+        },
+        {
+          "user": "max.stonge",
+          "count": 1
+        },
+        {
+          "user": "martina.marien",
+          "count": 1
+        },
+        {
+          "user": "matt.kubej",
+          "count": 1
+        },
+        {
+          "user": "brent.faulkner",
+          "count": 1
+        },
+        {
+          "user": "nick.silverman",
+          "count": 1
+        },
+        {
+          "user": "jeansamuel.aubryguzzi",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.46,
+      "count": 262,
+      "top_channels": [
+        {
+          "channel": "proj-self-provisioned-ssl-certs-in-cloudflare",
+          "messages": 41
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 39
+        },
+        {
+          "channel": "help-domains",
+          "messages": 33
+        },
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 20
+        },
+        {
+          "channel": "proj-application-edge-resiliency",
+          "messages": 13
+        },
+        {
+          "channel": "team-edge-infrastructure",
+          "messages": 12
+        },
+        {
+          "channel": "proj-self-hosted-envoy",
+          "messages": 11
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20604-signup-e2e-test-failing-on-main",
+          "messages": 10
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.02,
+      "count": 53,
+      "top_mentioners": [
+        {
+          "user": "nick.silverman",
+          "count": 17
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 6
+        },
+        {
+          "user": "matt.kubej",
+          "count": 4
+        },
+        {
+          "user": "peiran.liu",
+          "count": 3
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 2
+        },
+        {
+          "user": "bill.bean",
+          "count": 2
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 2
+        },
+        {
+          "user": "olaolu.olawuyi",
+          "count": 2
+        },
+        {
+          "user": "jia.wang",
+          "count": 2
+        },
+        {
+          "user": "bing.li",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 33,
+      "15": 28,
+      "13": 9,
+      "17": 29,
+      "16": 6,
+      "20": 26,
+      "19": 21,
+      "21": 31,
+      "14": 18,
+      "6": 3,
+      "5": 1,
+      "4": 2,
+      "12": 1,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 52,
+      "Tuesday": 77,
+      "Monday": 51,
+      "Thursday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.75,
+    "dept_rank": 92,
+    "dept_size": 357
+  }
+}

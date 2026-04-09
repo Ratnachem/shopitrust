@@ -1,0 +1,249 @@
+{
+  "username": "martin.morissette",
+  "name": "Martin Morissette",
+  "generated_at": "2026-04-08T20:22:15.671148",
+  "summary": {
+    "message_count": 181,
+    "channels_active": 16,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "If you have a look and let me know if there's anything missing. The script is pretty good I think but the skill might need some improvements",
+          "channel": "online-store-developer-platforms",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for your help and patience Isaac",
+          "channel": "online-store-developer-platforms",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you :pray:",
+          "channel": "online-store-developer-platforms",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok let me try that, thank you :saluting_face:",
+          "channel": "online-store-developer-platforms",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Just discussed with <@U030ZG73GTD> and it's very unlikely that it's related. I'll continue with the rollout. Feel free to roll it back to 0 if you",
+          "channel": "inv-20720-increase-in-gc-related-faults",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Right but my changes only apply when going through the native compiled JSON rendering flow. I assume you'll be rolling `f_liquid_vm_compile_json`",
+          "channel": "inv-20720-increase-in-gc-related-faults",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I did a deepdive with claude referencing the core dump linked above and I am not seeing a correlation between the segfault and the code paths",
+          "channel": "inv-20720-increase-in-gc-related-faults",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "I did a deepdive with claude referencing the core dump linked above and I am not seeing a correlation between the segfault and the code paths",
+          "channel": "inv-20720-increase-in-gc-related-faults",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "stephanie.chou",
+          "count": 5
+        },
+        {
+          "user": "clauderic.demers",
+          "count": 4
+        },
+        {
+          "user": "guilherme.carreiro",
+          "count": 3
+        },
+        {
+          "user": "mbarak.bujra",
+          "count": 2
+        },
+        {
+          "user": "philippe.collin",
+          "count": 2
+        },
+        {
+          "user": "victor.tortolero",
+          "count": 2
+        },
+        {
+          "user": "bashu.naimiroy",
+          "count": 1
+        },
+        {
+          "user": "thomas.geselle",
+          "count": 1
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 1
+        },
+        {
+          "user": "tyler.alsbury",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.02,
+      "count": 186,
+      "top_channels": [
+        {
+          "channel": "proj-agentic-online-store-editor",
+          "messages": 59
+        },
+        {
+          "channel": "proj-liquid-content-subsetting",
+          "messages": 42
+        },
+        {
+          "channel": "online-store-developer-platforms",
+          "messages": 37
+        },
+        {
+          "channel": "proj-make-horizon-faster",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20720-increase-in-gc-related-faults",
+          "messages": 9
+        },
+        {
+          "channel": "lsf-eng-backend",
+          "messages": 5
+        },
+        {
+          "channel": "liquid-perf",
+          "messages": 3
+        },
+        {
+          "channel": "montreal-lsf",
+          "messages": 3
+        },
+        {
+          "channel": "horizon-theme-releases",
+          "messages": 3
+        },
+        {
+          "channel": "proj-horizon-theme",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.35,
+      "count": 37,
+      "top_mentioners": [
+        {
+          "user": "stephanie.chou",
+          "count": 5
+        },
+        {
+          "user": "cp.clermont",
+          "count": 5
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 4
+        },
+        {
+          "user": "nathan.ferguson",
+          "count": 4
+        },
+        {
+          "user": "thomas.geselle",
+          "count": 2
+        },
+        {
+          "user": "mbarak.bujra",
+          "count": 2
+        },
+        {
+          "user": "philippe.collin",
+          "count": 2
+        },
+        {
+          "user": "dan.rosenthal",
+          "count": 1
+        },
+        {
+          "user": "alok.swamy",
+          "count": 1
+        },
+        {
+          "user": "guilherme.carreiro",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 9,
+      "15": 43,
+      "12": 5,
+      "19": 16,
+      "17": 11,
+      "20": 33,
+      "14": 20,
+      "21": 8,
+      "16": 24,
+      "0": 1,
+      "2": 2,
+      "13": 8,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 45,
+      "Tuesday": 43,
+      "Monday": 18,
+      "Thursday": 46,
+      "Friday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.79,
+    "dept_rank": 478,
+    "dept_size": 1233
+  }
+}

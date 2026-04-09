@@ -1,0 +1,132 @@
+{
+  "username": "gabriel.lacroix",
+  "name": "Gabriel Lacroix",
+  "generated_at": "2026-04-08T20:22:31.834220",
+  "summary": {
+    "message_count": 34,
+    "channels_active": 6,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Fixed it, thank you!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "jacob.lott",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.36,
+      "count": 115,
+      "top_channels": [
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 16
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 8
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 5
+        },
+        {
+          "channel": "identity-and-events-atc",
+          "messages": 2
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 2
+        },
+        {
+          "channel": "identity-graph",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "daniel.steuernol",
+          "count": 3
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 2
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 2
+        },
+        {
+          "user": "mike.myung",
+          "count": 1
+        },
+        {
+          "user": "eddie.cheung",
+          "count": 1
+        },
+        {
+          "user": "jacob.lott",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 6,
+      "16": 6,
+      "13": 4,
+      "22": 10,
+      "18": 3,
+      "12": 1,
+      "15": 1,
+      "14": 3
+    },
+    "by_day": {
+      "Thursday": 9,
+      "Wednesday": 13,
+      "Tuesday": 4,
+      "Monday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.71,
+    "dept_average_30d": 5.39,
+    "dept_rank": 190,
+    "dept_size": 272
+  }
+}

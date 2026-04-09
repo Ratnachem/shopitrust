@@ -1,0 +1,264 @@
+{
+  "username": "ming.zhu",
+  "name": "Ming Zhu",
+  "generated_at": "2026-04-08T20:22:15.019991",
+  "summary": {
+    "message_count": 253,
+    "channels_active": 19,
+    "unique_people_mentioned": 50,
+    "unique_mentioners": 37,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.0,
+      "pos_count": 20,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "\u2022 yes, I did a quick check so the move/copy missed the changes after 03/27 for ruby SDK. Since it is all on sdk folder, a quick sync from playground",
+          "channel": "feature-platform-shaping",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "Well done team!",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "The problem is a lack of assignment once a ticket is created, making it tricky to know who the correct POC is. <@U08959VBCUT> or <@U093FQUHEJG>,",
+          "channel": "team-ci",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi! I have a helpdesk ticket #REQ-1866350 to transfer <https://github.com/shopify-playground/feast-shopify> to Shopify/feast. Could someone pick it",
+          "channel": "team-ci",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi! I have a helpdesk ticket #REQ-1866350 to transfer <https://github.com/shopify-playground/feast-shopify> to Shopify/feast. Could someone pick it",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the flooded message, I tried to get the oncall via spy and it obviously makes `spy list` as a list of slack message sthat visible to",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad. That's correct, you have 5 nodes in total.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "cc <@W018HTYLHSP> for the PR review. Thanks!",
+          "channel": "help-proxy-shopify-ai",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "wow...that's great. Thanks for the info <@U0A75L1CDDF>. Then we are good to move 1 node to Search cluster. <@U07G5TUFSJF> (current oncall)",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 53,
+      "top_mentioned": [
+        {
+          "user": "dielli.hoxha",
+          "count": 10
+        },
+        {
+          "user": "kangyuan.shu",
+          "count": 10
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 10
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 9
+        },
+        {
+          "user": "tom.rochette",
+          "count": 7
+        },
+        {
+          "user": "zhaoyu.zhang",
+          "count": 6
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 5
+        },
+        {
+          "user": "jonathan.sabbagh",
+          "count": 5
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 5
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.68,
+      "count": 168,
+      "top_channels": [
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 83
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 45
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 26
+        },
+        {
+          "channel": "team-ci",
+          "messages": 23
+        },
+        {
+          "channel": "dev-proxy-shopify-ai",
+          "messages": 14
+        },
+        {
+          "channel": "ml-infrastructure-users",
+          "messages": 11
+        },
+        {
+          "channel": "inc-19916-nebius-gpus-unavailable-for-training-and-",
+          "messages": 11
+        },
+        {
+          "channel": "feature-platform-shaping",
+          "messages": 7
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 6
+        },
+        {
+          "channel": "tmp-catalog-h200s-centml-outage",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 107,
+      "top_mentioners": [
+        {
+          "user": "dielli.hoxha",
+          "count": 12
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 11
+        },
+        {
+          "user": "zhaoyu.zhang",
+          "count": 10
+        },
+        {
+          "user": "reenkat",
+          "count": 7
+        },
+        {
+          "user": "tom.rochette",
+          "count": 7
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 6
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 4
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 3
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 18,
+      "15": 26,
+      "14": 2,
+      "13": 4,
+      "17": 29,
+      "5": 3,
+      "19": 14,
+      "22": 30,
+      "16": 46,
+      "23": 15,
+      "21": 25,
+      "20": 22,
+      "3": 9,
+      "4": 8,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 72,
+      "Tuesday": 78,
+      "Monday": 32,
+      "Friday": 22,
+      "Thursday": 49
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.44,
+    "dept_average_30d": 5.39,
+    "dept_rank": 38,
+    "dept_size": 272
+  }
+}

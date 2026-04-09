@@ -1,0 +1,137 @@
+{
+  "username": "tasha.dennis",
+  "name": "Tasha Dennis",
+  "generated_at": "2026-04-08T20:22:30.100234",
+  "summary": {
+    "message_count": 18,
+    "channels_active": 6,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Courtney's the lead. I'd rather she be part of the scope meeting and I can be brought into whatever the outcome of that happens to be.",
+          "channel": "proj-email-continuity",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "katie.balloch",
+          "count": 4
+        },
+        {
+          "user": "lauren.hockenson",
+          "count": 2
+        },
+        {
+          "user": "stanley.pang",
+          "count": 2
+        },
+        {
+          "user": "courtney.verk",
+          "count": 2
+        },
+        {
+          "user": "stephanie.joo",
+          "count": 1
+        },
+        {
+          "user": "michelle.wu",
+          "count": 1
+        },
+        {
+          "user": "alex.anderson",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.08,
+      "count": 55,
+      "top_channels": [
+        {
+          "channel": "bds-river",
+          "messages": 4
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 4
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 3
+        },
+        {
+          "channel": "proj-managed-markets-gtm",
+          "messages": 3
+        },
+        {
+          "channel": "proj-email-continuity",
+          "messages": 3
+        },
+        {
+          "channel": "ad-salon",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "alex.anderson",
+          "count": 3
+        },
+        {
+          "user": "courtney.verk",
+          "count": 2
+        },
+        {
+          "user": "lauren.hockenson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 2,
+      "20": 5,
+      "16": 3,
+      "21": 3,
+      "18": 3,
+      "15": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Thursday": 7,
+      "Wednesday": 2,
+      "Tuesday": 2,
+      "Monday": 2,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Brand Design Studio",
+    "user_score_30d": 3.98,
+    "dept_average_30d": 4.57,
+    "dept_rank": 55,
+    "dept_size": 81
+  }
+}

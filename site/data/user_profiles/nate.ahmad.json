@@ -1,0 +1,93 @@
+{
+  "username": "nate.ahmad",
+  "name": "Nate Ahmad",
+  "generated_at": "2026-04-08T20:22:31.054587",
+  "summary": {
+    "message_count": 7,
+    "channels_active": 1,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "PERFECT. Just what I needed, thank you sooooo much. You're a life saver :superhero-1:  I've learnt a lot today as well",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Thomas, that's really helpful to know.  Using amount_usd is returning the closest figure to what we see in the Admin which is great.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Thank you Thomas, that's really helpful to know.  Using amount_usd is returning the closest figure to what we see in the Admin which is great.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hmm interesting Vault resource, as it's giving alternative ways to query the total gmv using *shopify-dw.finance.gross_merchandise_volume* instead.",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "thomas.massinger",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-data-warehouse",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "17": 6
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Thursday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.62,
+    "dept_average_30d": 4.09,
+    "dept_rank": 423,
+    "dept_size": 642
+  }
+}

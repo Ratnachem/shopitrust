@@ -1,0 +1,250 @@
+{
+  "username": "jeff.long",
+  "name": "Jeff Long",
+  "generated_at": "2026-04-08T20:22:16.037351",
+  "summary": {
+    "message_count": 643,
+    "channels_active": 24,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.1,
+      "pos_count": 6,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "i've had good luck stealing things out of the web UI in the past too when it gets stuck returning markdown",
+          "channel": "trust-battery-river-rafting",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if there's anything i can capture on my end that might make diagnosing easier, otherwise i'm going to bail back to github in a few minutes",
+          "channel": "help-gitstream",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "sorry my bad i'm looking at device manager -- thrown by the channel name",
+          "channel": "proj-device-manager-next-steps",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<https://github.com/shop/world/blob/main/areas/platforms/trust-battery/docs/Development/deployment.md#gem-publishing> and",
+          "channel": "trust-battery",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":thank--you: Thank you for running this down!",
+          "channel": "trust-battery-ops",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": ":nod2:  excited for it too",
+          "channel": "trust-battery",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> that query (which includes other topics we don't care about) is:\n```histogram_quantile(0.95, sum by (handler,location,",
+          "channel": "river-jeff-backchannel",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the footnote would be that once you find a config you're happy with, make sure to make those changes in your current repo, since that's the version",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":til-today-i-learned: `assert_monorail_produce_contains(\"my_cool_topic/4.1\", whatever)` will match an event published to `my_cool_topic/4.9`",
+          "channel": "trust-battery-ops",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> my github handle is `@banterability` -- you should have this in your memory for me already",
+          "channel": "river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "will figure it out ~, but not worried about it as a widespread issue~ :nervoussmile:",
+          "channel": "proj-device-manager-next-steps",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> let's make sure we update the PR description based on the final state of the work. i also think it's worth mentioning why we don't",
+          "channel": "trust-battery-river-rafting",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "it prints a lot of stuff out in a way that is borderline useless",
+          "channel": "trust-battery-river-rafting",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever it is is still only sometimes a problem, which is mysterious",
+          "channel": "trust-battery-ops",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 5.11,
+      "count": 138,
+      "top_channels": [
+        {
+          "channel": "trust-battery-ops",
+          "messages": 132
+        },
+        {
+          "channel": "proj-device-manager-next-steps",
+          "messages": 108
+        },
+        {
+          "channel": "inv-19646-devicemanager-database-at-risk",
+          "messages": 88
+        },
+        {
+          "channel": "river-jeff-backchannel",
+          "messages": 87
+        },
+        {
+          "channel": "trust-battery-river-rafting",
+          "messages": 81
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 34
+        },
+        {
+          "channel": "device-manager-ops",
+          "messages": 20
+        },
+        {
+          "channel": "gitstream",
+          "messages": 18
+        },
+        {
+          "channel": "river",
+          "messages": 13
+        },
+        {
+          "channel": "trust-battery-resiliency",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.69,
+      "count": 69,
+      "top_mentioners": [
+        {
+          "user": "jenna.mccormick",
+          "count": 14
+        },
+        {
+          "user": "ildar.gumerov",
+          "count": 11
+        },
+        {
+          "user": "ruidan.ji",
+          "count": 11
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 9
+        },
+        {
+          "user": "kate.studwell",
+          "count": 3
+        },
+        {
+          "user": "artem.tartakynov",
+          "count": 3
+        },
+        {
+          "user": "xiao.li",
+          "count": 3
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 2
+        },
+        {
+          "user": "adam.shepley",
+          "count": 2
+        },
+        {
+          "user": "ashley.williams",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 96,
+      "16": 68,
+      "15": 73,
+      "14": 20,
+      "13": 9,
+      "23": 16,
+      "21": 75,
+      "20": 99,
+      "18": 90,
+      "19": 59,
+      "22": 25,
+      "5": 1,
+      "0": 12
+    },
+    "by_day": {
+      "Wednesday": 143,
+      "Tuesday": 118,
+      "Monday": 122,
+      "Friday": 59,
+      "Thursday": 201
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.07,
+    "dept_average_30d": 5.75,
+    "dept_rank": 114,
+    "dept_size": 357
+  }
+}

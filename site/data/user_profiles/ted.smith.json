@@ -1,0 +1,271 @@
+{
+  "username": "ted.smith",
+  "name": "Ted Smith",
+  "generated_at": "2026-04-08T20:22:13.613338",
+  "summary": {
+    "message_count": 558,
+    "channels_active": 22,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "(jokes aside the issue was identified like instantly so kudos on that)",
+          "channel": "shop-bots",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah ok, thank you for flagging and all the context Lin :thanking:",
+          "channel": "experiments-goalie",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help with those, just need to determine if there are upstreams.",
+          "channel": "shop-feed",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great, thank you!! :praises:",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh awesome, thank YOU Mic!",
+          "channel": "shop-feed",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh sorry, didn't realize which part you were referring to, my bad.",
+          "channel": "shop-feed",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "I'll deal with it tomorrow :+1::skin-tone-3:",
+          "channel": "shop-feed",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Re:\n&gt; Test that existing user who has scrolled in last 7 days (one of our personal/work accounts) does not see scroll nudge\nWe cannot test that",
+          "channel": "proj-shop-scroll-nudge",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I disagree about it being weird to understand URLs (parse them) -- we do this all the time on the server (_*sections are modelled as what is",
+          "channel": "shop-feed",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "And like I said, we're consuming the data for unified recommendations if they contain a key for `broker_uuid`. The stack I linked is for using the",
+          "channel": "proj-ur-yugabyte-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Had to divert my attention for other Yugabyte migration work. I'll revisit my stack, get it into shape and tag you on reviews.\n\nHowever, as I",
+          "channel": "proj-ur-yugabyte-migration",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "eylam.fried",
+          "count": 13
+        },
+        {
+          "user": "ryan.lambert",
+          "count": 8
+        },
+        {
+          "user": "dj.chung",
+          "count": 5
+        },
+        {
+          "user": "isaac.ebhodaghe",
+          "count": 5
+        },
+        {
+          "user": "sean.dang",
+          "count": 4
+        },
+        {
+          "user": "ben.eichler",
+          "count": 3
+        },
+        {
+          "user": "dean.vanasseldonk",
+          "count": 3
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 3
+        },
+        {
+          "user": "elsa.huang",
+          "count": 3
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.61,
+      "count": 270,
+      "top_channels": [
+        {
+          "channel": "shop-feed",
+          "messages": 182
+        },
+        {
+          "channel": "proj-shop-scroll-nudge",
+          "messages": 152
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 57
+        },
+        {
+          "channel": "proj-ur-yugabyte-migration",
+          "messages": 36
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 24
+        },
+        {
+          "channel": "shop-feed-bots",
+          "messages": 21
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 14
+        },
+        {
+          "channel": "shop-agent-eng",
+          "messages": 12
+        },
+        {
+          "channel": "proj-limited-selection-ranker-for-shop",
+          "messages": 9
+        },
+        {
+          "channel": "shop-discovery",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 162,
+      "top_mentioners": [
+        {
+          "user": "dj.chung",
+          "count": 42
+        },
+        {
+          "user": "ryan.lambert",
+          "count": 22
+        },
+        {
+          "user": "parul.bhardwaj",
+          "count": 21
+        },
+        {
+          "user": "kyle.waldrop",
+          "count": 10
+        },
+        {
+          "user": "mic.cassano",
+          "count": 8
+        },
+        {
+          "user": "eylam.fried",
+          "count": 8
+        },
+        {
+          "user": "enrico.telesca",
+          "count": 7
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 6
+        },
+        {
+          "user": "sean.dang",
+          "count": 4
+        },
+        {
+          "user": "oshin.rawal",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 61,
+      "2": 4,
+      "21": 47,
+      "17": 83,
+      "16": 58,
+      "15": 75,
+      "20": 41,
+      "14": 56,
+      "23": 3,
+      "22": 13,
+      "19": 57,
+      "13": 50,
+      "0": 3,
+      "12": 7
+    },
+    "by_day": {
+      "Wednesday": 116,
+      "Thursday": 140,
+      "Tuesday": 105,
+      "Monday": 79,
+      "Friday": 118
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.6,
+    "dept_average_30d": 5.86,
+    "dept_rank": 27,
+    "dept_size": 166
+  }
+}

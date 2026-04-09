@@ -1,0 +1,95 @@
+{
+  "username": "elie.mechoulam",
+  "name": "Elie Mechoulam",
+  "generated_at": "2026-04-08T20:22:31.538583",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Lets do it. I see the lead is disqualified but we can fix that later <@U0969BB8MJB>. You want me to reach out to Ben at American Eagle or do you want",
+          "channel": "b2b-opportunity-request",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "eric.fung",
+          "count": 1
+        },
+        {
+          "user": "juan.jacinto",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "gworkspace-mcp",
+          "messages": 2
+        },
+        {
+          "channel": "b2b-opportunity-request",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "jordan.yeats",
+          "count": 4
+        },
+        {
+          "user": "al.sohrabi",
+          "count": 1
+        },
+        {
+          "user": "kajsa.cuthbert",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 1,
+      "16": 2,
+      "17": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Friday": 1,
+      "Thursday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.93,
+    "dept_average_30d": 4.32,
+    "dept_rank": 564,
+    "dept_size": 848
+  }
+}

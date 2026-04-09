@@ -1,0 +1,291 @@
+{
+  "username": "justin.lang",
+  "name": "Justin Lang",
+  "generated_at": "2026-04-08T20:22:10.470798",
+  "summary": {
+    "message_count": 502,
+    "channels_active": 13,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 11,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave::skin-tone-2: We are restarting the rollout today.  Manual assignments are enabled on the rollout flag:",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing :blobheart:",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Quick update related to rollout today:\n\n\u2022 We\u2019ve disabled manual assignments overnight\n\u2022 We saw three payments come in today\n\u2022 Unfortuntately two bugs",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to try to tophat?  I might have a local setup in a good state :thinking_face:",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03LL8WJRJQ> <@U02NXH82JQ2> We need routing probabilities for the Adyen MVP launch.  For some reason I thought this had been figured out earlier",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":tada: We have wrapped up today\u2019s bug hunt! :tada:\n\n:bug: *Some bugs uncovered:* \n\u2022 payment webhooks for 3DS are erroring:",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":tada: We have wrapped up today\u2019s bug hunt! :tada:\n\n:bug: *Some bugs uncovered:* \n\u2022 payment webhooks for 3DS are erroring:",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<!here>\n\n:mag::bug:  *Adyen payment processing bughunt!* :bug::mag:\n\nHey folks, from 1 pm to 4 pm EST we\u2019ll be going through various test cases in",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!here>\n\n:mag::bug:  *Adyen payment processing bughunt!* :bug::mag:\n\nHey folks, from 1 pm to 4 pm EST we\u2019ll be going through various test cases in",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks!  Since we only have 1 test shop atm, just wanted to share that I\u2019m planning on having a team bug hunt for payments on Monday after EST:",
+          "channel": "proj-adyen-account-management",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Np - yeah mine is failing on test runs for tests which I assume are flaky, or else failing because of CI infrastructure problems e.g. database",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I\u2019m still digging into the webhook errors we saw for 3DS, ideally we figure it out before launch.  I\u2019ll keep you updated.  I marked it as sev-1",
+          "channel": "sp-provider-expansion",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "I think Matt\u2019s code (that you mentioned) sufficiently deals with the minimum amount problem for Adyen specifically:",
+          "channel": "proj-adyen-card-payment-processing",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Apologies for the follow up - I just want to make 100% sure that THIS PR will be included in a Core deploy, or whether I need to take some other",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "jenny.shih",
+          "count": 18
+        },
+        {
+          "user": "rose.robertson",
+          "count": 15
+        },
+        {
+          "user": "kelsey.ottenhof",
+          "count": 12
+        },
+        {
+          "user": "sungjin.kim",
+          "count": 9
+        },
+        {
+          "user": "nicola.lochead",
+          "count": 7
+        },
+        {
+          "user": "matt.korostoff",
+          "count": 5
+        },
+        {
+          "user": "nabeel.chaudhry",
+          "count": 3
+        },
+        {
+          "user": "raphael.papillon",
+          "count": 3
+        },
+        {
+          "user": "muhammet.emre",
+          "count": 3
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.08,
+      "count": 136,
+      "top_channels": [
+        {
+          "channel": "proj-adyen-card-payment-processing",
+          "messages": 380
+        },
+        {
+          "channel": "sp-provider-expansion",
+          "messages": 33
+        },
+        {
+          "channel": "pp-card-payment-methods-team",
+          "messages": 29
+        },
+        {
+          "channel": "proj-adyen-account-management",
+          "messages": 18
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 11
+        },
+        {
+          "channel": "payments-crossborder-incident-room",
+          "messages": 9
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 5
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 5
+        },
+        {
+          "channel": "shared-shopify-retail-adyen",
+          "messages": 4
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "kelsey.ottenhof",
+          "count": 15
+        },
+        {
+          "user": "rose.robertson",
+          "count": 5
+        },
+        {
+          "user": "raphael.papillon",
+          "count": 5
+        },
+        {
+          "user": "francesco.ferazzoli",
+          "count": 4
+        },
+        {
+          "user": "nicola.lochead",
+          "count": 4
+        },
+        {
+          "user": "jenny.shih",
+          "count": 4
+        },
+        {
+          "user": "david.hou",
+          "count": 4
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 3
+        },
+        {
+          "user": "matt.korostoff",
+          "count": 3
+        },
+        {
+          "user": "nick.smith",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 52,
+      "17": 47,
+      "16": 79,
+      "15": 53,
+      "14": 59,
+      "13": 45,
+      "20": 58,
+      "21": 33,
+      "19": 60,
+      "12": 1,
+      "0": 2,
+      "22": 8,
+      "23": 5
+    },
+    "by_day": {
+      "Wednesday": 166,
+      "Tuesday": 88,
+      "Monday": 104,
+      "Friday": 67,
+      "Thursday": 77
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.13,
+    "dept_average_30d": 5.77,
+    "dept_rank": 241,
+    "dept_size": 885
+  }
+}

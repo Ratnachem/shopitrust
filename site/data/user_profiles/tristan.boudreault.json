@@ -1,0 +1,219 @@
+{
+  "username": "tristan.boudreault",
+  "name": "Tristan Boudreault",
+  "generated_at": "2026-04-08T20:22:12.444022",
+  "summary": {
+    "message_count": 128,
+    "channels_active": 12,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I\u2019m monitoring the channel let me know if any more help is needed. It looks like Angelo has a fix",
+          "channel": "inc-21043-unable-to-end-and-apply-rollouts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad I misread I thought the question was: do we even need trekkie? I stand corrected :+1:\n\n(I often read too fast :sweat_smile: )",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "that\u2019s an improvement. I\u2019m wondering now if we need the RMV at all we could query session_facts directly for analysis.\n\nSome might say: \u201cwe remove",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "&gt; <@U05QTQA3VRV> would like to start tracking the session/exposure only after checkout started.\nMe too, it\u2019s the right way to do A/B testing on",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "kevin.charette",
+          "count": 6
+        },
+        {
+          "user": "calvin.zhou",
+          "count": 3
+        },
+        {
+          "user": "lucas.uyezu",
+          "count": 2
+        },
+        {
+          "user": "qufei.chen",
+          "count": 2
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        },
+        {
+          "user": "joey.lacus",
+          "count": 1
+        },
+        {
+          "user": "jeremy.reyes",
+          "count": 1
+        },
+        {
+          "user": "andrew.droll",
+          "count": 1
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 1
+        },
+        {
+          "user": "mathieu.perreault",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.21,
+      "count": 196,
+      "top_channels": [
+        {
+          "channel": "proj-rollouts-m1",
+          "messages": 47
+        },
+        {
+          "channel": "rollouts-ops",
+          "messages": 18
+        },
+        {
+          "channel": "inc-21043-unable-to-end-and-apply-rollouts",
+          "messages": 13
+        },
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 12
+        },
+        {
+          "channel": "optimization-team",
+          "messages": 11
+        },
+        {
+          "channel": "prj-session-pipeline-er",
+          "messages": 8
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 5
+        },
+        {
+          "channel": "inc-20198-buyers-are-not-assigned-to-rollouts-until",
+          "messages": 5
+        },
+        {
+          "channel": "inc-20426-investigation-on-rollout-not-showing-for",
+          "messages": 3
+        },
+        {
+          "channel": "mission-cookies",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "kevin.charette",
+          "count": 8
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 7
+        },
+        {
+          "user": "calvin.zhou",
+          "count": 5
+        },
+        {
+          "user": "francis.pelland",
+          "count": 5
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 3
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "hong.zhang",
+          "count": 2
+        },
+        {
+          "user": "daniel.podgornik-3133",
+          "count": 1
+        },
+        {
+          "user": "aaron.glazer",
+          "count": 1
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 23,
+      "17": 20,
+      "16": 10,
+      "15": 21,
+      "21": 1,
+      "20": 12,
+      "13": 14,
+      "14": 14,
+      "23": 2,
+      "12": 1,
+      "19": 10
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 32,
+      "Monday": 11,
+      "Thursday": 36,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.48,
+    "dept_average_30d": 5.79,
+    "dept_rank": 746,
+    "dept_size": 1233
+  }
+}

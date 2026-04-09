@@ -1,0 +1,324 @@
+{
+  "username": "ryan.wilsonperkin",
+  "name": "Ryan Wilsonperkin",
+  "generated_at": "2026-04-08T20:22:13.014326",
+  "summary": {
+    "message_count": 1198,
+    "channels_active": 56,
+    "unique_people_mentioned": 47,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.6,
+      "pos_count": 16,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "<@U0AEPQCKB3M> I was wrong, it's exit_status, not exit_code",
+          "channel": "river-rwp",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "rooting for",
+          "text": "How about we turn them both on side by side in CI and compare results? See if one is catching things the other isn't and vice versa, and compare",
+          "channel": "help-admin-web-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U037ATYS401> would we be confident in rolling out that beta flag?",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Will do, thanks!",
+          "channel": "help-slh-santas-little-helper",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :pray::skin-tone-2:",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> thank you, take a minute to format the sql so that it is as legible as possible and documented thoroughly. Focus on making this query",
+          "channel": "river-rwp",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad <@U0AEPQCKB3M>, its `psst`",
+          "channel": "river-rwp",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> test this change out, reload the agent-browser skill and let me know if your setup.sh fails. Don't try to troubleshoot it. If it",
+          "channel": "river",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U01KZR1QBK6> looks like it got stuck on a pit-stop CI, want me to try requesting the override there and justifying it? Or want me to try \"making\"",
+          "channel": "team-ci",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "river-rwp",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Thankfully we've designed in such a way that this PR itself is not multi-zone, or else we would've been in for some hilarious irony",
+          "channel": "tmp-no-more-crosszone",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Big +1, my main question would be: are the right parts in place for tec for this to be successful both in local dev and CI? This has always been the",
+          "channel": "tmp-no-more-crosszone",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "All you should have to run is `pnpm refresh-graphql` if you've got committed changes in the //areas/core/shopify",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0214NYEYEB> <@U0AEPQCKB3M> one issue we're going to run into here is that in a `rig up` setup, shell is gonna spin up way faster than identity, so",
+          "channel": "conch-rv",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> that's not true, you should have access to login to Shopify via your credentials for",
+          "channel": "conch-rv",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Immediate mitigation: We'll run e2e pipeline in merge-queue instead of pre-merge. Tell people how they can still run it in pre-merge if they desire.",
+          "channel": "admin-web-platform",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> A couple of notes:\n\u2022 Links to shopify/web are okay if they are links to issues, pull-requests, or specific SHAs, because those are not",
+          "channel": "river-rwp",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "`gen -y whatever you want` and it'll come up with the command and automatically run it (here be dragons)",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 53,
+      "top_mentioned": [
+        {
+          "user": "carolina.pinzon",
+          "count": 9
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 7
+        },
+        {
+          "user": "chao.duan",
+          "count": 6
+        },
+        {
+          "user": "emily.ye",
+          "count": 6
+        },
+        {
+          "user": "nate.jacobs",
+          "count": 4
+        },
+        {
+          "user": "aaron.casanova",
+          "count": 4
+        },
+        {
+          "user": "victor.r.vuong",
+          "count": 3
+        },
+        {
+          "user": "bryan.white",
+          "count": 3
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 3
+        },
+        {
+          "user": "kush.patel",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 573,
+      "top_channels": [
+        {
+          "channel": "conch-rv",
+          "messages": 182
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 169
+        },
+        {
+          "channel": "river-rwp",
+          "messages": 154
+        },
+        {
+          "channel": "dev-up",
+          "messages": 83
+        },
+        {
+          "channel": "help-observability",
+          "messages": 59
+        },
+        {
+          "channel": "devs-ask-quick-questions",
+          "messages": 54
+        },
+        {
+          "channel": "tmp-no-more-crosszone",
+          "messages": 48
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 42
+        },
+        {
+          "channel": "team-ci",
+          "messages": 41
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 41
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 90,
+      "top_mentioners": [
+        {
+          "user": "carlos.corvaia",
+          "count": 12
+        },
+        {
+          "user": "carolina.pinzon",
+          "count": 8
+        },
+        {
+          "user": "chao.duan",
+          "count": 6
+        },
+        {
+          "user": "emily.ye",
+          "count": 5
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 4
+        },
+        {
+          "user": "kush.patel",
+          "count": 4
+        },
+        {
+          "user": "aaron.casanova",
+          "count": 4
+        },
+        {
+          "user": "zoey.lan",
+          "count": 4
+        },
+        {
+          "user": "josh.zucker",
+          "count": 3
+        },
+        {
+          "user": "ashley.williams",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 104,
+      "17": 97,
+      "16": 110,
+      "15": 153,
+      "14": 150,
+      "13": 109,
+      "12": 9,
+      "22": 46,
+      "21": 94,
+      "20": 140,
+      "19": 62,
+      "2": 25,
+      "1": 8,
+      "5": 7,
+      "4": 4,
+      "0": 18,
+      "23": 50,
+      "3": 12
+    },
+    "by_day": {
+      "Wednesday": 380,
+      "Tuesday": 308,
+      "Monday": 87,
+      "Friday": 174,
+      "Thursday": 249
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 9.38,
+    "dept_average_30d": 4.74,
+    "dept_rank": 6,
+    "dept_size": 1663
+  }
+}

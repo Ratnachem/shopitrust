@@ -1,0 +1,175 @@
+{
+  "username": "chloe.van",
+  "name": "Chloe Van",
+  "generated_at": "2026-04-08T20:22:13.266033",
+  "summary": {
+    "message_count": 25,
+    "channels_active": 12,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave_pikachu:  Hi team! Adding a new QE view thats ready for a plus one from QE reviewers when you get a chance. Thank you!",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Will do, thanks!",
+          "channel": "proj-shop-app-pdp-shipping-returns",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Yes I see it at the Rollouts component! My bad, I was just going off the top UI where it still says Operational Flag? No :grimacing:",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "elaine.y.chan",
+          "count": 4
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 1
+        },
+        {
+          "user": "craig.childs",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.53,
+      "count": 213,
+      "top_channels": [
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 7
+        },
+        {
+          "channel": "shop-bots",
+          "messages": 3
+        },
+        {
+          "channel": "proj-shop-app-pdp-shipping-returns",
+          "messages": 3
+        },
+        {
+          "channel": "shop-marketplace",
+          "messages": 2
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 2
+        },
+        {
+          "channel": "help-localization",
+          "messages": 2
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 1
+        },
+        {
+          "channel": "proj-mozart-shop-app-push-transactional-notifs",
+          "messages": 1
+        },
+        {
+          "channel": "shop-yugabyte",
+          "messages": 1
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "samuel.giles",
+          "count": 3
+        },
+        {
+          "user": "emily.chandel",
+          "count": 3
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 2
+        },
+        {
+          "user": "vithusha.ravirajan",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 1
+        },
+        {
+          "user": "hossam.bahrawy",
+          "count": 1
+        },
+        {
+          "user": "vahe.khachikyan",
+          "count": 1
+        },
+        {
+          "user": "peter.keogh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 2,
+      "17": 8,
+      "14": 1,
+      "13": 1,
+      "20": 3,
+      "19": 3,
+      "16": 3,
+      "15": 1,
+      "21": 1,
+      "4": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Tuesday": 3,
+      "Monday": 1,
+      "Friday": 10,
+      "Thursday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.5,
+    "dept_average_30d": 5.86,
+    "dept_rank": 120,
+    "dept_size": 166
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "username": "alex.bernard",
+  "name": "Alex Bernard",
+  "generated_at": "2026-04-08T20:22:28.598999",
+  "summary": {
+    "message_count": 312,
+    "channels_active": 14,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hi everyone - After discussion and going through ideas, we have a plan for how to improve the merchant experience when it comes to waiting for and",
+          "channel": "proj-optimization-simgym",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "I would check-in with francis about this if you have questions! he said he is happy to help provide direction and has a good idea of the problem (and",
+          "channel": "simgym-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I see it now! Thank you! I'll add the field to our tables now <@U03UJ04LV6H>",
+          "channel": "proj-simgym-single-theme",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "The new validation marked this as `FAILED_UI_INTENT` :celebrate-wooo:  that's what it should do.\n\nThe run_id matches the pipeline log too.\n\nConfirms",
+          "channel": "proj-simgym-data-alerts",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "eek. i wonder what the best solution would be for this.\n\u2022 skill for how to fetch the right project.id, dataset, and table name? (like \"look in",
+          "channel": "flight-deck",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "keerthan.vantakala",
+          "count": 12
+        },
+        {
+          "user": "ailin.fan",
+          "count": 6
+        },
+        {
+          "user": "leonardo.montesquiliche",
+          "count": 6
+        },
+        {
+          "user": "lisa.steiger",
+          "count": 5
+        },
+        {
+          "user": "nikolas.leblanc",
+          "count": 5
+        },
+        {
+          "user": "francis.pelland",
+          "count": 4
+        },
+        {
+          "user": "thomas.massinger",
+          "count": 4
+        },
+        {
+          "user": "jonathan.faerman",
+          "count": 4
+        },
+        {
+          "user": "amandine.berro",
+          "count": 3
+        },
+        {
+          "user": "catherine.emond",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.13,
+      "count": 109,
+      "top_channels": [
+        {
+          "channel": "proj-optimization-simgym",
+          "messages": 129
+        },
+        {
+          "channel": "proj-simgym-data-alerts",
+          "messages": 62
+        },
+        {
+          "channel": "temp-proj-simgym-general-availability",
+          "messages": 46
+        },
+        {
+          "channel": "simgym-river",
+          "messages": 20
+        },
+        {
+          "channel": "compacabana-data-monitoring",
+          "messages": 16
+        },
+        {
+          "channel": "flight-deck",
+          "messages": 14
+        },
+        {
+          "channel": "proj-simgym-single-theme",
+          "messages": 9
+        },
+        {
+          "channel": "sf-xo-b2b-merch-data-platform",
+          "messages": 6
+        },
+        {
+          "channel": "core-storefronts",
+          "messages": 3
+        },
+        {
+          "channel": "help-simgym",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "keerthan.vantakala",
+          "count": 14
+        },
+        {
+          "user": "nikolas.leblanc",
+          "count": 11
+        },
+        {
+          "user": "justin.belzile",
+          "count": 7
+        },
+        {
+          "user": "leonardo.montesq-4119",
+          "count": 7
+        },
+        {
+          "user": "catherine.emond",
+          "count": 6
+        },
+        {
+          "user": "jonathan.faerman",
+          "count": 6
+        },
+        {
+          "user": "keat.koay",
+          "count": 6
+        },
+        {
+          "user": "ella.chen",
+          "count": 5
+        },
+        {
+          "user": "smriti.chopra",
+          "count": 3
+        },
+        {
+          "user": "ailin.fan",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 17,
+      "21": 31,
+      "17": 11,
+      "14": 40,
+      "19": 31,
+      "16": 18,
+      "18": 32,
+      "15": 52,
+      "20": 38,
+      "2": 4,
+      "22": 31,
+      "23": 7
+    },
+    "by_day": {
+      "Tuesday": 64,
+      "Monday": 86,
+      "Friday": 45,
+      "Thursday": 57,
+      "Wednesday": 60
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.23,
+    "dept_average_30d": 5.79,
+    "dept_rank": 304,
+    "dept_size": 1233
+  }
+}

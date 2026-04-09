@@ -1,0 +1,222 @@
+{
+  "username": "jeffrey.loppert",
+  "name": "Jeffrey Loppert",
+  "generated_at": "2026-04-08T20:22:29.916507",
+  "summary": {
+    "message_count": 269,
+    "channels_active": 21,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! :man-bowing:",
+          "channel": "help-exp",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for putting up PRs for reducing the cpu min requests and replica counts\n\nOnce the replica count PR is deployed and has had time to soak, do",
+          "channel": "help-mozart",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; ***Remember if we don't do this, we might end-up on deploy jail or whatever is call, so we shall treat that with urgency\nPersistent Quota",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; ***Remember if we don't do this, we might end-up on deploy jail or whatever is call, so we shall treat that with urgency\nPersistent Quota",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 4
+        },
+        {
+          "user": "vasile.gorcinschi",
+          "count": 3
+        },
+        {
+          "user": "saad.zaki",
+          "count": 2
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 1
+        },
+        {
+          "user": "ian.robertson",
+          "count": 1
+        },
+        {
+          "user": "chase.platon",
+          "count": 1
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 1
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 1
+        },
+        {
+          "user": "charles.ng",
+          "count": 1
+        },
+        {
+          "user": "francis.beaudoin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.52,
+      "count": 265,
+      "top_channels": [
+        {
+          "channel": "platform-efficiency",
+          "messages": 104
+        },
+        {
+          "channel": "proj-efficiency-anomaly-detection",
+          "messages": 39
+        },
+        {
+          "channel": "help-mozart",
+          "messages": 31
+        },
+        {
+          "channel": "infra-central",
+          "messages": 14
+        },
+        {
+          "channel": "proj-ai-attribution",
+          "messages": 14
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 10
+        },
+        {
+          "channel": "proj-rightsize-apps",
+          "messages": 10
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 9
+        },
+        {
+          "channel": "shop-data-dev",
+          "messages": 6
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "marcolivier.arsenault",
+          "count": 5
+        },
+        {
+          "user": "vasile.gorcinschi",
+          "count": 3
+        },
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 2
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 2
+        },
+        {
+          "user": "nick.wareing",
+          "count": 2
+        },
+        {
+          "user": "sabrina.zhu",
+          "count": 1
+        },
+        {
+          "user": "mark.blum",
+          "count": 1
+        },
+        {
+          "user": "charles.ng",
+          "count": 1
+        },
+        {
+          "user": "samuel.giles",
+          "count": 1
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 40,
+      "14": 37,
+      "20": 17,
+      "17": 18,
+      "16": 33,
+      "13": 35,
+      "22": 3,
+      "21": 15,
+      "19": 29,
+      "18": 38,
+      "23": 1,
+      "11": 1,
+      "1": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Friday": 32,
+      "Thursday": 55,
+      "Wednesday": 42,
+      "Tuesday": 102,
+      "Monday": 38
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.57,
+    "dept_average_30d": 5.75,
+    "dept_rank": 190,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "username": "leo.kaliazine",
+  "name": "Leo Kaliazine",
+  "generated_at": "2026-04-08T20:22:19.742598",
+  "summary": {
+    "message_count": 986,
+    "channels_active": 45,
+    "unique_people_mentioned": 56,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.5,
+      "pos_count": 28,
+      "neg_count": 12,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, can confirm it's fixed, thank you!",
+          "channel": "shopify-retail-stripe",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to update that PR with the POS DMSDK only?",
+          "channel": "proj-retail-victa-integration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Yeah this looks like what I would expect a production Victa Mobile with Stripe to look like. Maybe the messed up at factory, or maybe this is a",
+          "channel": "proj-retail-victa-integration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Looks like the crash is fixed, thanks!",
+          "channel": "shopify-retail-stripe",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help you with it if you tell me which store you're registered on now",
+          "channel": "proj-retail-victa-integration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes the dock. Thank you, please do, there is a major bug that they are working on fixing and I want to make sure the infra for the update is in place",
+          "channel": "shopify-retail-stripe",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Exactly what I needed to know, thank you.",
+          "channel": "shopify-retail-stripe",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Cool, thank you! I will also get to it :nervoussmile:, just with all other things haven't had the chance yet",
+          "channel": "proj-retail-victa-integration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great news, thanks! :tada:\nSince we already got jaws deployed does this mean the accessibility functionality refers to default off and persistence?",
+          "channel": "shopify-retail-stripe",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://app.graphite.com/github/pr/shop/world/549257?utm_source=gt-slack-notif&panel=timeline&pnid=9PowhkOXSDmr2Yeowu3A#review-PRR_kwDONO8Wts7yIrqS|O",
+          "channel": "proj-retail-victa-mobile-stripe-integration",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "He mentioned having done something for my serial I wonder if he needs to do whatever it was for all? Or three something special about factory reset",
+          "channel": "proj-retail-victa-mobile-stripe-integration",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So it does go back to wifi after unplugging ethernet while still docked but it takes like 10 or whatever seconds.",
+          "channel": "proj-retail-victa-mobile-stripe-integration",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Note that I think it was with Kernal originally (maybe pre Jeremy's investigation findings) and <@U024BNT756E> changed the ownership, but like I said",
+          "channel": "retail-foundations-app-platform-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> can you dig into the higher than normal spike of this alert. Any obvious reasons for it (e.g. higher than normal devices in play for",
+          "channel": "retail-hardware",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Louis also mentioned <https://shopify.slack.com/archives/C0AA6J3UBAN/p1774564235898319|this> so when testing we should keep an eye out in case it's",
+          "channel": "proj-retail-victa-integration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Latest timing update. Based on this I assume we're going to hold rolling 11.2 and just wait for the hotfix. As well I assume we roll it as soon as",
+          "channel": "inv-20649-openbox-pos-goterminal-devices-on-rom-201",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":thinking_face: I wonder if we missed using whatever logic is in place in the other endpoint around this decision (to register etc) rather than rely",
+          "channel": "proj-retail-victa-integration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "even after factory reset? The one from today seems to be running 2.38 as well from the stripe dashboard so ok scratch that theory then, not sure what",
+          "channel": "shopify-retail-stripe",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "sure want to pair make sure I test the right thing same as whatever you're doing?",
+          "channel": "proj-retail-victa-integration",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 59,
+      "top_mentioned": [
+        {
+          "user": "steven.thomas",
+          "count": 57
+        },
+        {
+          "user": "logan.roth",
+          "count": 29
+        },
+        {
+          "user": "marc.grenier",
+          "count": 28
+        },
+        {
+          "user": "louisa.goncharenko",
+          "count": 25
+        },
+        {
+          "user": "saurabh.chauhan",
+          "count": 24
+        },
+        {
+          "user": "gulam.moledina",
+          "count": 21
+        },
+        {
+          "user": "fabio.hernandez",
+          "count": 13
+        },
+        {
+          "user": "louis.chen",
+          "count": 11
+        },
+        {
+          "user": "lance.holmes",
+          "count": 10
+        },
+        {
+          "user": "jade.fraser",
+          "count": 8
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 399,
+      "top_channels": [
+        {
+          "channel": "proj-retail-victa-integration",
+          "messages": 294
+        },
+        {
+          "channel": "retail-hardware",
+          "messages": 241
+        },
+        {
+          "channel": "shopify-retail-stripe",
+          "messages": 100
+        },
+        {
+          "channel": "proj-retail-victa-mobile-stripe-integration",
+          "messages": 70
+        },
+        {
+          "channel": "inv-20649-openbox-pos-goterminal-devices-on-rom-201",
+          "messages": 47
+        },
+        {
+          "channel": "inv-20701-there-is-a-stead-increase-in-customer-vie",
+          "messages": 24
+        },
+        {
+          "channel": "inc-20649-openbox-pos-goterminal-devices-on-rom-201",
+          "messages": 23
+        },
+        {
+          "channel": "proj-pos-inline-keyboard-suggestions",
+          "messages": 16
+        },
+        {
+          "channel": "inc-21138-pos-terminal-reader-connection-issue-post",
+          "messages": 15
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 15
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 95,
+      "top_mentioners": [
+        {
+          "user": "steven.thomas",
+          "count": 26
+        },
+        {
+          "user": "logan.roth",
+          "count": 14
+        },
+        {
+          "user": "louisa.goncharenko",
+          "count": 9
+        },
+        {
+          "user": "fabio.hernandez",
+          "count": 8
+        },
+        {
+          "user": "gulam.moledina",
+          "count": 3
+        },
+        {
+          "user": "marc.grenier",
+          "count": 3
+        },
+        {
+          "user": "kostia.arlouski",
+          "count": 3
+        },
+        {
+          "user": "misato.watson",
+          "count": 2
+        },
+        {
+          "user": "saurabh.chauhan",
+          "count": 2
+        },
+        {
+          "user": "rishi.venkat",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 124,
+      "13": 45,
+      "23": 24,
+      "22": 49,
+      "20": 85,
+      "19": 131,
+      "18": 109,
+      "15": 111,
+      "14": 100,
+      "17": 119,
+      "4": 3,
+      "21": 53,
+      "0": 7,
+      "2": 4,
+      "1": 8,
+      "12": 11,
+      "11": 2,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 215,
+      "Tuesday": 231,
+      "Monday": 172,
+      "Friday": 125,
+      "Thursday": 243
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.54,
+    "dept_average_30d": 5.77,
+    "dept_rank": 106,
+    "dept_size": 885
+  }
+}

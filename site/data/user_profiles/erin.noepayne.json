@@ -1,0 +1,285 @@
+{
+  "username": "erin.noepayne",
+  "name": "Erin Noepayne",
+  "generated_at": "2026-04-08T20:22:19.106361",
+  "summary": {
+    "message_count": 251,
+    "channels_active": 18,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 10,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "good work, thank you Adrian!",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": ":claps: Great all hands today, so much amazing work happening from these teams!",
+          "channel": "rss-feed",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thanks. <@U08TQCBF34M> <@U085BD45FT8> can yall ack these and find the right path forward - fix, close, mark as expected, etc. Thank you",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I will be a couple min late to platform call, feel free to start without me, finishing a 1:1",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "oof, good luck Dustin",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "imo mark as expected, wait for grafana to fix or not. your time is valuable. thank you Sam for digging in!",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://github.com/Shopify/observe/issues/4362>\n\nI wrote this epic w Claude to outline the plan we have been the past week. Feel free to add",
+          "channel": "proj-observe-ai",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "it works. I was making mistakes. Thank you Dustin",
+          "channel": "discuss-investigate-api",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "approved with comments. ^ This last PR here answers one of them\n\nThis is good work Adrian thank you",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome, thank you Adrian",
+          "channel": "o11y-observe-platform",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "sometimes I make a directory under ~/workspaces and just do fresh checkouts of whatever code is relevant",
+          "channel": "rss-ai",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Lots of text, I haven\u2019t read all the threads, but it seems like we got some batches with mixed timestamps that caused issues.\n\nAre we able to replay",
+          "channel": "proj-o11y-ingestion-next-gen",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://observe-api.shopifycloud.com/>\n\nHere\u2019s a test deployment. The cloudarmor thing doesn\u2019t actually work.\n\nAccording to Claude\n&gt;  WARP says",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.59,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "adrian.prayogo",
+          "count": 4
+        },
+        {
+          "user": "dustin.hooten",
+          "count": 4
+        },
+        {
+          "user": "joey.yu",
+          "count": 4
+        },
+        {
+          "user": "samuel.dufel",
+          "count": 1
+        },
+        {
+          "user": "tanner.bruce",
+          "count": 1
+        },
+        {
+          "user": "panos.tsavdaris",
+          "count": 1
+        },
+        {
+          "user": "sam.handler",
+          "count": 1
+        },
+        {
+          "user": "robert.laurin",
+          "count": 1
+        },
+        {
+          "user": "matt.franklin",
+          "count": 1
+        },
+        {
+          "user": "abhay.singh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.73,
+      "count": 69,
+      "top_channels": [
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 97
+        },
+        {
+          "channel": "proj-observe-ai",
+          "messages": 70
+        },
+        {
+          "channel": "discuss-investigate-api",
+          "messages": 23
+        },
+        {
+          "channel": "observability-profiling",
+          "messages": 16
+        },
+        {
+          "channel": "proj-observe-tidy",
+          "messages": 6
+        },
+        {
+          "channel": "rss-ai",
+          "messages": 5
+        },
+        {
+          "channel": "o11y-sre-collabs",
+          "messages": 5
+        },
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 5
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 5
+        },
+        {
+          "channel": "proj-o11y-monorepo",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "panos.tsavdaris",
+          "count": 6
+        },
+        {
+          "user": "adrian.prayogo",
+          "count": 3
+        },
+        {
+          "user": "sonal.sharma",
+          "count": 3
+        },
+        {
+          "user": "andy.fleming",
+          "count": 2
+        },
+        {
+          "user": "joey.yu",
+          "count": 2
+        },
+        {
+          "user": "sam.handler",
+          "count": 2
+        },
+        {
+          "user": "john.finnson",
+          "count": 2
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 1
+        },
+        {
+          "user": "thiago.trennepohl",
+          "count": 1
+        },
+        {
+          "user": "ryan.woodworth",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 20,
+      "14": 31,
+      "13": 29,
+      "12": 18,
+      "23": 6,
+      "20": 23,
+      "19": 52,
+      "18": 19,
+      "11": 7,
+      "21": 7,
+      "15": 17,
+      "16": 12,
+      "0": 4,
+      "22": 6
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 64,
+      "Monday": 22,
+      "Friday": 69,
+      "Thursday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 4.74,
+    "dept_rank": 384,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "username": "matthew.tanous",
+  "name": "Matthew Tanous",
+  "generated_at": "2026-04-08T20:22:15.568391",
+  "summary": {
+    "message_count": 253,
+    "channels_active": 22,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Yes, this should work fine for any table that you generate with that unique ID. I can help you set that up if you have the tables you would like to",
+          "channel": "proj-melody-4-revenue",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U021TMBLKJN> Verdict v1.4.4 is released for Java with a Flink BroadcastState storage implementation that I believe should work for you. Please let",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave::skin-tone-3: Hey team! Is it not possible to set up a KEDA autoscaler to work on connecting to Observe in a staging cluster? We are having DNS",
+          "channel": "help-observability",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Loading these values from CRM extracts to Melody, in this case. Melody requires an audit log for the table to be updated, and whatever process",
+          "channel": "proj-melody-4-revenue",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I would just throw Claude at it - take the PR <@W01830KNTTR> put together and tell it that you want to automatically parse any JSON encoded strings",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Just a heads up <@U0A7M1SB5FS>, Melody\u2019s map/set attributes are single-typed values (e.g. `Map&lt;String, [type]&gt;`, so for complex internal",
+          "channel": "mozart-engineering",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The legacy system cannot work for the new thing. It\u2019s heavily specific wrappers as prepared queries (2 of them, with all the special grain handling",
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I mostly just want to be sure that whatever caused the diff to not work won\u2019t replicate on other segments. Not super urgent, we are putting up filter",
+          "channel": "inc-19967-melody-hedwig-out-of-memory",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "hussein.patni",
+          "count": 8
+        },
+        {
+          "user": "jake.anderson",
+          "count": 7
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 6
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 4
+        },
+        {
+          "user": "louis.cloutier",
+          "count": 4
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 3
+        },
+        {
+          "user": "thomas.brown",
+          "count": 3
+        },
+        {
+          "user": "eugene.katella",
+          "count": 2
+        },
+        {
+          "user": "yinghai.zhao",
+          "count": 2
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 161,
+      "top_channels": [
+        {
+          "channel": "proj-melody-segments-yugabyte-streaming",
+          "messages": 62
+        },
+        {
+          "channel": "melody-team",
+          "messages": 50
+        },
+        {
+          "channel": "proj-melody-4-revenue",
+          "messages": 23
+        },
+        {
+          "channel": "proj-migrate-melody-flink",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20703-melody-datasource-attribute-pipeline-depl",
+          "messages": 15
+        },
+        {
+          "channel": "help-exp",
+          "messages": 12
+        },
+        {
+          "channel": "melody-cdp-ops",
+          "messages": 12
+        },
+        {
+          "channel": "proj-melody-shop-app-user-uuid-migration",
+          "messages": 12
+        },
+        {
+          "channel": "melody-river",
+          "messages": 9
+        },
+        {
+          "channel": "inc-19967-melody-hedwig-out-of-memory",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.65,
+      "count": 59,
+      "top_mentioners": [
+        {
+          "user": "jake.anderson",
+          "count": 17
+        },
+        {
+          "user": "hussein.patni",
+          "count": 14
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 5
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 4
+        },
+        {
+          "user": "yinghai.zhao",
+          "count": 4
+        },
+        {
+          "user": "kouros.falati",
+          "count": 3
+        },
+        {
+          "user": "jacques.peeters",
+          "count": 3
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 2
+        },
+        {
+          "user": "adam.petro",
+          "count": 2
+        },
+        {
+          "user": "jacob.lott",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 21,
+      "17": 30,
+      "14": 27,
+      "21": 22,
+      "19": 27,
+      "15": 35,
+      "13": 5,
+      "1": 5,
+      "23": 8,
+      "22": 13,
+      "16": 38,
+      "20": 16,
+      "2": 4,
+      "0": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 49,
+      "Monday": 28,
+      "Friday": 39,
+      "Thursday": 56
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.26,
+    "dept_average_30d": 5.58,
+    "dept_rank": 88,
+    "dept_size": 398
+  }
+}

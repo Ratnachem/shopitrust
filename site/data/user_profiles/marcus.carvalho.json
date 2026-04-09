@@ -1,0 +1,211 @@
+{
+  "username": "marcus.carvalho",
+  "name": "Marcus Carvalho",
+  "generated_at": "2026-04-08T20:22:29.219484",
+  "summary": {
+    "message_count": 81,
+    "channels_active": 11,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hey team, quick heads up. I am toggling the `BalanceIdvFromTrustBattery` kill switch in prod in a few. The *IDV decisions* for Balance onboarding",
+          "channel": "banking-dev",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "the playbook got lost in this <https://app.graphite.com/github/pr/shop/world/363569|PR>, my bad on it",
+          "channel": "balance-exceptions",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sure, I can look into these two PRs and ship them next week.\n<@U090S6FEPJB>, the `OutboundACHTransferRisk` and",
+          "channel": "proj-trust-battery-identity-trust-score",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "<@U09DWFDG0PN>, <@W018HMSDAQ2>, this is <https://app.graphite.com/github/pr/shop/world/578353|the PR> I mentioned in our sync for the Balance Trust",
+          "channel": "proj-balance-onboarding-trust-gate",
+          "timestamp": "2026-04-06"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "franck.delache",
+          "count": 3
+        },
+        {
+          "user": "nicholas.luciw",
+          "count": 3
+        },
+        {
+          "user": "monique.moledo",
+          "count": 2
+        },
+        {
+          "user": "mark.shan",
+          "count": 2
+        },
+        {
+          "user": "evan.eklund",
+          "count": 2
+        },
+        {
+          "user": "henrique.squinello",
+          "count": 1
+        },
+        {
+          "user": "brian.crescimanno",
+          "count": 1
+        },
+        {
+          "user": "ryan.quanz",
+          "count": 1
+        },
+        {
+          "user": "tagh.sira",
+          "count": 1
+        },
+        {
+          "user": "robin.brandt",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.06,
+      "count": 241,
+      "top_channels": [
+        {
+          "channel": "banking-dev",
+          "messages": 20
+        },
+        {
+          "channel": "balance-exceptions",
+          "messages": 15
+        },
+        {
+          "channel": "proj-trust-battery-identity-trust-score",
+          "messages": 14
+        },
+        {
+          "channel": "banking-security",
+          "messages": 8
+        },
+        {
+          "channel": "proj-balance-onboarding-trust-gate",
+          "messages": 6
+        },
+        {
+          "channel": "pi",
+          "messages": 5
+        },
+        {
+          "channel": "fs-coffee-chat",
+          "messages": 5
+        },
+        {
+          "channel": "autoresearch-wins",
+          "messages": 4
+        },
+        {
+          "channel": "quick",
+          "messages": 2
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "monique.moledo",
+          "count": 8
+        },
+        {
+          "user": "nicholas.luciw",
+          "count": 4
+        },
+        {
+          "user": "alejandro.dustet-1951",
+          "count": 3
+        },
+        {
+          "user": "evan.eklund",
+          "count": 3
+        },
+        {
+          "user": "tagh.sira",
+          "count": 2
+        },
+        {
+          "user": "ildar.gumerov",
+          "count": 1
+        },
+        {
+          "user": "mark.shan",
+          "count": 1
+        },
+        {
+          "user": "alex.hutnik",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "13": 5,
+      "17": 7,
+      "16": 11,
+      "14": 3,
+      "15": 9,
+      "23": 2,
+      "21": 2,
+      "19": 17,
+      "20": 8,
+      "22": 2
+    },
+    "by_day": {
+      "Monday": 12,
+      "Friday": 17,
+      "Wednesday": 27,
+      "Tuesday": 20,
+      "Thursday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.95,
+    "dept_average_30d": 5.77,
+    "dept_rank": 736,
+    "dept_size": 885
+  }
+}

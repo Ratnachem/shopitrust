@@ -1,0 +1,337 @@
+{
+  "username": "devon.boyer",
+  "name": "Devon Boyer",
+  "generated_at": "2026-04-08T20:22:09.176171",
+  "summary": {
+    "message_count": 1503,
+    "channels_active": 44,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 56,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.1,
+      "pos_count": 21,
+      "neg_count": 20,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "But this is me jumping in with 2% of the context so feel free to ignore :smile:",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Where did we land on naming?\n\nDid you want me to call it `ai-proxy-core`  or leave it as openai-proxy?",
+          "channel": "proj-data-platform-ai-proxy-fallback",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "If you have specific requirements for anything in particular I can help figure out how to get observability.",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm going to be working on clouddo plugin / tweaks to `devx infractl aws-reauth`.\n\nLet me know if anyone wanted to pair on making a production",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to keep it muted for as long as you need. I don't really know whats wrong yet, all pods are healthy and no errors in logs and metrics seem",
+          "channel": "help-observability",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "If anything with infra repo isn't working for you to test what you need to just let us know in <#C0ABY3NCBD3> and I can help fix anything",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": ":wave: If you are experiencing issues with CI I am working on a fix. Sorry about any inconvenience.",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": ":wave: Sure. Happy to help. Just a few questions:\n\nWhere was the YAML for what you were deploying? Is it in the infra repo?\n\nDid AWS make this for",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to turn it back on",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I deployed it to staging already. Hopefully I can leave you alone after this one :smile: .",
+          "channel": "help-observability",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Oh sorry I see this was using ProdKit.\n\nWe have a slightly less clear path for migrating those so we can tackle that whenever you do your migration",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "1. Yep just click Deploy there on the last release.\n2. Without a deploy any change to infrastructure repo won't have any affect.\n3. If you are on the",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M>\n\n      #: -&gt; bool\n      def logged_in?\n        _, _, stat = Open3.capture3(aws_cli, \"sts\", \"get-caller-identity\", \"--profile\",",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> stop overcomplicating the code, we don't need a force flag in login!, we literally always refresh\n\nAnd prompt_profile is a useless",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I can check with <#C059A66769Y> as well to see if whatever they are cooking up with envoy would work for multi-cloud.",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "`mcp` was all the rage 6 months ago, now people realize its a useless wrapper sort of and shell commands were always fine :shrug:",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "cordon workflow -> writes to zookeeper or whatever to mark cordoned\nk8s controller in cluster for kafka scalar -> reads from zookeeper and scales",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "We can figure it out.",
+          "channel": "inc-20274-spi-drop-in-agreement-creation",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U02GLRAHNBW> if you don't care, I am thinking about deleting the eks reconciler and replacing it with a `gcpwif` mutating webhook. This webhook",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "But either way I'd make modules for users instead. They don't care about workload identity pools no matter how many there are, they just want a GSA",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "jeremie.lagarde",
+          "count": 6
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 6
+        },
+        {
+          "user": "arun.kumar",
+          "count": 6
+        },
+        {
+          "user": "rene.scheepers",
+          "count": 5
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 4
+        },
+        {
+          "user": "kevin.norman",
+          "count": 2
+        },
+        {
+          "user": "darren.foo",
+          "count": 2
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 1
+        },
+        {
+          "user": "alice.yang",
+          "count": 1
+        },
+        {
+          "user": "ethan.bates",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 471,
+      "top_channels": [
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 532
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 257
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 192
+        },
+        {
+          "channel": "proj-agentic-debugging-k8s",
+          "messages": 53
+        },
+        {
+          "channel": "inv-19996-runtimeenginecputhrottlinginuscentral1",
+          "messages": 53
+        },
+        {
+          "channel": "inv-19945-kubernetes-manifest-error-blocking-core-d",
+          "messages": 45
+        },
+        {
+          "channel": "proj-infra-river-k8s-debug",
+          "messages": 44
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 39
+        },
+        {
+          "channel": "proj-data-platform-ai-proxy-fallback",
+          "messages": 29
+        },
+        {
+          "channel": "help-observability",
+          "messages": 29
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 133,
+      "top_mentioners": [
+        {
+          "user": "jacob.lott",
+          "count": 16
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 11
+        },
+        {
+          "user": "samuel.path",
+          "count": 9
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 7
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 7
+        },
+        {
+          "user": "arun.kumar",
+          "count": 5
+        },
+        {
+          "user": "michael.go",
+          "count": 5
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 4
+        },
+        {
+          "user": "nataly.sheinin",
+          "count": 3
+        },
+        {
+          "user": "eric.yang",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 199,
+      "17": 155,
+      "16": 166,
+      "15": 210,
+      "14": 123,
+      "13": 49,
+      "22": 75,
+      "19": 181,
+      "21": 86,
+      "23": 57,
+      "20": 129,
+      "12": 5,
+      "1": 14,
+      "0": 8,
+      "3": 36,
+      "2": 6,
+      "4": 4
+    },
+    "by_day": {
+      "Wednesday": 424,
+      "Tuesday": 362,
+      "Monday": 217,
+      "Thursday": 293,
+      "Friday": 207
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.6,
+    "dept_average_30d": 5.75,
+    "dept_rank": 47,
+    "dept_size": 357
+  }
+}

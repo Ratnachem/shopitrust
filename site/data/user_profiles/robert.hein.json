@@ -1,0 +1,128 @@
+{
+  "username": "robert.hein",
+  "name": "Robert Hein",
+  "generated_at": "2026-04-08T20:22:30.182763",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 4,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I confirmed `echo ${TOOL_GATEWAY_TOKEN:0:11}`\nis returning `shopify-eyJ` \n\nI've removed the tool gateway and re-added it. And re done dev setup",
+          "channel": "tool-gateway",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "christina.black",
+          "count": 1
+        },
+        {
+          "user": "mike.schmidt",
+          "count": 1
+        },
+        {
+          "user": "eleonora.cazzola",
+          "count": 1
+        },
+        {
+          "user": "jin.chen",
+          "count": 1
+        },
+        {
+          "user": "sarah.donovan",
+          "count": 1
+        },
+        {
+          "user": "deborah.isaac",
+          "count": 1
+        },
+        {
+          "user": "tony.cummings",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.66,
+      "count": 167,
+      "top_channels": [
+        {
+          "channel": "product-support-network",
+          "messages": 3
+        },
+        {
+          "channel": "tool-gateway",
+          "messages": 3
+        },
+        {
+          "channel": "robert-river",
+          "messages": 2
+        },
+        {
+          "channel": "capital-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "priya.patel",
+          "count": 1
+        },
+        {
+          "user": "nathan.santora",
+          "count": 1
+        },
+        {
+          "user": "muhammad.mukhtar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 1,
+      "15": 2,
+      "16": 2,
+      "23": 1,
+      "22": 1,
+      "17": 1,
+      "14": 1
+    },
+    "by_day": {
+      "Thursday": 4,
+      "Wednesday": 2,
+      "Tuesday": 2,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 4.83,
+    "dept_average_30d": 4.09,
+    "dept_rank": 97,
+    "dept_size": 642
+  }
+}

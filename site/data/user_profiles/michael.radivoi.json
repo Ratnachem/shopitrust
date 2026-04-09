@@ -1,0 +1,96 @@
+{
+  "username": "michael.radivoi",
+  "name": "Michael Radivoi",
+  "generated_at": "2026-04-08T20:22:29.263374",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.1,
+      "pos_count": 1,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Hey Nick!\n\nSo metafields are added and generated for all stores except Huckberry (2-3 metafields depending on the store type with definitions",
+          "channel": "tmp-sf-agent-test-stores",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U0AEPQCKB3M>\n\nCan you find any reference in github issues, documentation, or elsewhere to this 250 limit in legacy themes I can refer to?",
+          "channel": "riversong",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Can you find any reference in github issues, documentation, or elsewhere to this 250 limit in legacy themes I can refer to?",
+          "channel": "riversong",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "riversong",
+          "messages": 13
+        },
+        {
+          "channel": "tmp-sf-agent-test-stores",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "nick.lepine",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 3,
+      "21": 3,
+      "16": 4,
+      "15": 2,
+      "22": 3
+    },
+    "by_day": {
+      "Monday": 6,
+      "Thursday": 2,
+      "Wednesday": 4,
+      "Tuesday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.19,
+    "dept_average_30d": 4.09,
+    "dept_rank": 573,
+    "dept_size": 642
+  }
+}

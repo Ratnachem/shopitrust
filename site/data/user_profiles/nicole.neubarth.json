@@ -1,0 +1,277 @@
+{
+  "username": "nicole.neubarth",
+  "name": "Nicole Neubarth",
+  "generated_at": "2026-04-08T20:22:27.436777",
+  "summary": {
+    "message_count": 401,
+    "channels_active": 22,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02UJ4NDMRR> silenced this for another day. let me know if that was the wrong call! ^",
+          "channel": "admin-workflows-ops",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yes thank you!",
+          "channel": "inc-20428-intents-not-working-on-product-edit",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'm going to look into this and see if this kind of thing can be achieved with just a form schema or if we need other activity tools. But the",
+          "channel": "proj-sidekick-intents",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That works! Thank you",
+          "channel": "inc-20428-intents-not-working-on-product-edit",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": ":ship-1: _*Seven new Settings Intents \u2014 now live for 3P developers!*_\n\nToday we released seven new settings intents, enabling apps to open settings",
+          "channel": "shopify-foundations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That would be great, thank you!",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey Accounts and Access, I'm trying to create Admin intents for create/edit Roles. I noticed that there are two routes that could potentially map to",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018B0HN0F8> I'm not sure how necessary the smooth scroll is for the experience. I'll leave that up to product/UX to decide. <@U0973GW8KMX> what do",
+          "channel": "shopify-mobile-intents",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I think they likely have a general problem with users somehow being able to create invalid locales. I spoke to them about this when I fixed",
+          "channel": "help-admin-workflows",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "But now I'm thinking maybe not. Registration isn't per user. It's at build time, right? And if the user doesn't qualify for a particular route/view,",
+          "channel": "proj-admin-intents",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey all, had an idea about this:\n1. You can keep the `create:shopify/AnalyticsTarget`  (or whatever it is called) as a create intent that saves,",
+          "channel": "help-admin-intents",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": ":thinking_face: Okay so at least two issues:\n1. Saving or resetting a form in a page stack does not fire all expected callbacks, including reset.",
+          "channel": "help-admin-intents",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "raman.lally",
+          "count": 14
+        },
+        {
+          "user": "adam.barrus",
+          "count": 11
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 11
+        },
+        {
+          "user": "yohann.jouanneau",
+          "count": 10
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 6
+        },
+        {
+          "user": "nandini.parimi",
+          "count": 4
+        },
+        {
+          "user": "jaime.cepeda",
+          "count": 4
+        },
+        {
+          "user": "mikko.haapoja",
+          "count": 3
+        },
+        {
+          "user": "brianna.mansell",
+          "count": 3
+        },
+        {
+          "user": "kush.patel",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.47,
+      "count": 368,
+      "top_channels": [
+        {
+          "channel": "proj-admin-intents",
+          "messages": 90
+        },
+        {
+          "channel": "admin-workflows-river",
+          "messages": 83
+        },
+        {
+          "channel": "inc-20428-intents-not-working-on-product-edit",
+          "messages": 63
+        },
+        {
+          "channel": "help-admin-intents",
+          "messages": 43
+        },
+        {
+          "channel": "proj-sidekick-intents",
+          "messages": 28
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 16
+        },
+        {
+          "channel": "help-admin-workflows",
+          "messages": 14
+        },
+        {
+          "channel": "help-observability",
+          "messages": 11
+        },
+        {
+          "channel": "admin-web-platform",
+          "messages": 11
+        },
+        {
+          "channel": "shopify-mobile-intents",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.17,
+      "count": 64,
+      "top_mentioners": [
+        {
+          "user": "adam.barrus",
+          "count": 14
+        },
+        {
+          "user": "charlie.dobson",
+          "count": 9
+        },
+        {
+          "user": "nandini.parimi",
+          "count": 7
+        },
+        {
+          "user": "raman.lally",
+          "count": 6
+        },
+        {
+          "user": "mikko.haapoja",
+          "count": 5
+        },
+        {
+          "user": "kush.patel",
+          "count": 3
+        },
+        {
+          "user": "yohann.jouanneau",
+          "count": 2
+        },
+        {
+          "user": "bahar.pourazar",
+          "count": 2
+        },
+        {
+          "user": "diego.plentz",
+          "count": 1
+        },
+        {
+          "user": "michelle.vinci",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 61,
+      "17": 46,
+      "16": 46,
+      "15": 50,
+      "20": 49,
+      "14": 45,
+      "13": 46,
+      "18": 30,
+      "10": 1,
+      "21": 22,
+      "0": 1,
+      "23": 2,
+      "12": 2
+    },
+    "by_day": {
+      "Tuesday": 116,
+      "Monday": 64,
+      "Friday": 94,
+      "Thursday": 90,
+      "Wednesday": 37
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.62,
+    "dept_average_30d": 5.79,
+    "dept_rank": 145,
+    "dept_size": 1233
+  }
+}

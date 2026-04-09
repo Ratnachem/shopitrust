@@ -1,0 +1,239 @@
+{
+  "username": "vinicius.stock",
+  "name": "Vinicius Stock",
+  "generated_at": "2026-04-08T20:22:28.637754",
+  "summary": {
+    "message_count": 156,
+    "channels_active": 10,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks for the reviews folks, I appreciate it! :pray:",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome! Thank you",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Anything else on this one? Let me know if we need to change something else",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work. This is awesome",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03310S6210> I fixed 1. I don't think 2 and 3 are actual scenarios we need to worry about. For 4, my vote is to keep the single test rather than",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, we should sync on this to avoid disruption for our team.\n\nWe don't need VS Code to install packages, but it needs to have `node` and a package",
+          "channel": "dev-up",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever solution comes out of this, it would be nice to have the ability to integrate this into the Ruby LSP as we can expose a command or button",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "There's also a new report about what I mentioned in the other vulnerability thread back in January. Basically, malicious add-ons can run whatever",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 3
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 2
+        },
+        {
+          "user": "alexander.momchilov",
+          "count": 2
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 2
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 1
+        },
+        {
+          "user": "alexandre.terrasa",
+          "count": 1
+        },
+        {
+          "user": "dan.robinson",
+          "count": 1
+        },
+        {
+          "user": "alex.spencer",
+          "count": 1
+        },
+        {
+          "user": "stan.lo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.5,
+      "count": 211,
+      "top_channels": [
+        {
+          "channel": "team-ruby-dx",
+          "messages": 116
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 12
+        },
+        {
+          "channel": "river",
+          "messages": 6
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 6
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 6
+        },
+        {
+          "channel": "dev-up",
+          "messages": 4
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 2
+        },
+        {
+          "channel": "vscode-extensions-errors",
+          "messages": 1
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 6
+        },
+        {
+          "user": "stan.lo",
+          "count": 5
+        },
+        {
+          "user": "alexander.momchilov",
+          "count": 4
+        },
+        {
+          "user": "kaan.ozkan",
+          "count": 3
+        },
+        {
+          "user": "soutaro.matsumoto",
+          "count": 2
+        },
+        {
+          "user": "ashley.williams",
+          "count": 1
+        },
+        {
+          "user": "javier.moreno",
+          "count": 1
+        },
+        {
+          "user": "alexandre.terrasa",
+          "count": 1
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 29,
+      "17": 28,
+      "14": 26,
+      "12": 4,
+      "20": 9,
+      "11": 1,
+      "21": 2,
+      "19": 23,
+      "18": 15,
+      "16": 3,
+      "15": 16
+    },
+    "by_day": {
+      "Tuesday": 44,
+      "Monday": 21,
+      "Thursday": 34,
+      "Wednesday": 41,
+      "Friday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.87,
+    "dept_average_30d": 5.75,
+    "dept_rank": 140,
+    "dept_size": 357
+  }
+}

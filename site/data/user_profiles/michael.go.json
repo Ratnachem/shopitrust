@@ -1,0 +1,249 @@
+{
+  "username": "michael.go",
+  "name": "Michael Go",
+  "generated_at": "2026-04-08T20:22:10.213954",
+  "summary": {
+    "message_count": 377,
+    "channels_active": 24,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02GMUJ82LD> and <@U02UJ4NDMRR> for investigating this issue with me :pray:",
+          "channel": "yugabyte-dashboard",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that - It just passed",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the logs <@U094S8AHV9R>!\nI think last Dependabot PR broke the Verifier\u2026 :thinkfish:",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much for reporting <@U02770DEJ2W> :pray:",
+          "channel": "help-core-applications",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<!channel> Thank you everyone for fixing our `shopify-database-portability` pipeline :pray:\nWe are now seeing the pipeline running ~613K unit tests",
+          "channel": "yugabyte-dashboard",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I will reach out to <#C7M0QPLLB> for more context\u2026 thank you!",
+          "channel": "help-admin-workflows",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U037BAUMYGZ>!\nI have created PR to update `identity_accounts` \u2019s primary key to only use `uuid` and `id`",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "oh, that\u2019s a good idea! Thank you <@W018WB0M28Z> :blob-heart:",
+          "channel": "yugabyte-dashboard",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 38,
+      "top_mentioned": [
+        {
+          "user": "andrew.novoselac",
+          "count": 5
+        },
+        {
+          "user": "devon.boyer",
+          "count": 5
+        },
+        {
+          "user": "kush.patel",
+          "count": 4
+        },
+        {
+          "user": "bashu.naimiroy",
+          "count": 4
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 3
+        },
+        {
+          "user": "nikita.vasilevsky",
+          "count": 3
+        },
+        {
+          "user": "jason.godson",
+          "count": 3
+        },
+        {
+          "user": "ian.kerseymer",
+          "count": 2
+        },
+        {
+          "user": "mathius.johnson",
+          "count": 2
+        },
+        {
+          "user": "annie.caron",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 417,
+      "top_channels": [
+        {
+          "channel": "yugabyte-dashboard",
+          "messages": 128
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 112
+        },
+        {
+          "channel": "proj-core-applications-yugabyte",
+          "messages": 39
+        },
+        {
+          "channel": "proj-retail-yugabyte-migration",
+          "messages": 24
+        },
+        {
+          "channel": "proj-yugabyte-migration-orders-and-returns",
+          "messages": 15
+        },
+        {
+          "channel": "team-ci",
+          "messages": 12
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 6
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 5
+        },
+        {
+          "channel": "storefront-renderer-operations",
+          "messages": 5
+        },
+        {
+          "channel": "yugabyte-dashboard-notifications",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "mitch.dickinson",
+          "count": 9
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 8
+        },
+        {
+          "user": "brett.owens",
+          "count": 8
+        },
+        {
+          "user": "felix.descoteaux",
+          "count": 7
+        },
+        {
+          "user": "emilie.noel",
+          "count": 7
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 4
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 4
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 3
+        },
+        {
+          "user": "chao.duan",
+          "count": 3
+        },
+        {
+          "user": "jason.godson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 73,
+      "16": 25,
+      "15": 33,
+      "14": 46,
+      "12": 4,
+      "19": 49,
+      "17": 50,
+      "21": 24,
+      "20": 38,
+      "13": 21,
+      "2": 2,
+      "1": 2,
+      "22": 6,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 111,
+      "Tuesday": 100,
+      "Monday": 44,
+      "Friday": 55,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.97,
+    "dept_average_30d": 5.79,
+    "dept_rank": 452,
+    "dept_size": 1233
+  }
+}

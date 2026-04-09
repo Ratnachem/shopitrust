@@ -1,0 +1,286 @@
+{
+  "username": "peter.petrov",
+  "name": "Peter Petrov",
+  "generated_at": "2026-04-08T20:22:13.397213",
+  "summary": {
+    "message_count": 763,
+    "channels_active": 20,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 18,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "team-ci",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome! thank you...I had a hunch I forgot something :)P",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "this is amazing",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "you left us the feedback (THANK YOU)",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I can do it in a couple of hours...feel free to pick up the thread if easier",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I think we want them checked out because we expect the agent to need to look at the files. So if we get them pre-checked out, that's amazing.",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Yeah, that'll be amazing because what we currently do is we fetch the diff from GitHub API, which is obviously flaky, as you know, and we want to",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for coming here to say that!",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yeah, I'm kind of like semi looking at that. But the expectation is that we ship something before 4.30 when we have a catch up about this. Let me",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to throw away",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Sorry, I was in a meeting. Did you guys figure it out",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, this is exactly what I mean. We need to anchor onto the world stuff. And I would not even call it a Binks review skill. It should be an agent",
+          "channel": "dev-ai-algo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "when you tell us something in a thread (we don't care about this theoretical concern in this part of the code base) we will ingest it, process it",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "sebastien.bruel",
+          "count": 13
+        },
+        {
+          "user": "kyle.mcdaniel",
+          "count": 9
+        },
+        {
+          "user": "travis.a.smith",
+          "count": 8
+        },
+        {
+          "user": "theo.truong",
+          "count": 7
+        },
+        {
+          "user": "jin.li",
+          "count": 5
+        },
+        {
+          "user": "will.goldstein",
+          "count": 4
+        },
+        {
+          "user": "baoze.lin",
+          "count": 4
+        },
+        {
+          "user": "khadeeja.rizwan",
+          "count": 3
+        },
+        {
+          "user": "federico.ruggi",
+          "count": 2
+        },
+        {
+          "user": "ajith.bondili",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.57,
+      "count": 215,
+      "top_channels": [
+        {
+          "channel": "projects-dev-ai",
+          "messages": 467
+        },
+        {
+          "channel": "dev-ai-algo",
+          "messages": 139
+        },
+        {
+          "channel": "inv-20876-merge-queues-seems-to-be-blocked-by-binks",
+          "messages": 34
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 29
+        },
+        {
+          "channel": "help-gitstream",
+          "messages": 21
+        },
+        {
+          "channel": "peter-river",
+          "messages": 14
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 12
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 11
+        },
+        {
+          "channel": "team-ci",
+          "messages": 9
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 86,
+      "top_mentioners": [
+        {
+          "user": "jin.li",
+          "count": 15
+        },
+        {
+          "user": "will.goldstein",
+          "count": 10
+        },
+        {
+          "user": "theo.truong",
+          "count": 8
+        },
+        {
+          "user": "jon.allured",
+          "count": 7
+        },
+        {
+          "user": "sebastien.bruel",
+          "count": 7
+        },
+        {
+          "user": "margaret.syms",
+          "count": 6
+        },
+        {
+          "user": "baoze.lin",
+          "count": 6
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 4
+        },
+        {
+          "user": "travis.a.smith",
+          "count": 4
+        },
+        {
+          "user": "nathan.fabergood",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 97,
+      "17": 96,
+      "16": 54,
+      "14": 66,
+      "13": 80,
+      "23": 21,
+      "20": 42,
+      "19": 67,
+      "15": 128,
+      "0": 20,
+      "21": 25,
+      "12": 11,
+      "2": 15,
+      "1": 34,
+      "22": 7
+    },
+    "by_day": {
+      "Wednesday": 298,
+      "Tuesday": 226,
+      "Monday": 46,
+      "Friday": 115,
+      "Thursday": 78
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.36,
+    "dept_average_30d": 5.75,
+    "dept_rank": 76,
+    "dept_size": 357
+  }
+}

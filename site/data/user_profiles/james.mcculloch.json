@@ -1,0 +1,139 @@
+{
+  "username": "james.mcculloch",
+  "name": "James McCulloch",
+  "generated_at": "2026-04-08T20:22:31.732530",
+  "summary": {
+    "message_count": 28,
+    "channels_active": 8,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi \u2014 I'm deploying a new app.yaml-based app (`wfp-tools-production` on `apps-us-ce1-dk0`) and the deploy is failing because the ejson private key was",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team. I was following <https://vault.shopify.io/disciplines/25-Engineering/docs/infrastructure/getting-started|these instructions> on getting",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "This schedule has been updated. Please let me know if that solves the error.",
+          "channel": "dw-support-monitoring",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 3.67,
+      "count": 97,
+      "top_channels": [
+        {
+          "channel": "wfp-insights-monitor",
+          "messages": 9
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "wfp-builder-river",
+          "messages": 3
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "proj-data-platform-support-ai-analytics",
+          "messages": 2
+        },
+        {
+          "channel": "tmp-ttr-data-exclusion",
+          "messages": 2
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 1
+        },
+        {
+          "channel": "dw-support-monitoring",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.25,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "alex.bevilacqua",
+          "count": 2
+        },
+        {
+          "user": "nina.bryar",
+          "count": 1
+        },
+        {
+          "user": "fizza.sheikh",
+          "count": 1
+        },
+        {
+          "user": "travis.tubbs",
+          "count": 1
+        },
+        {
+          "user": "ali.ghorbanpour",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "15": 4,
+      "21": 3,
+      "20": 7,
+      "14": 4,
+      "17": 1,
+      "19": 1,
+      "18": 6
+    },
+    "by_day": {
+      "Friday": 3,
+      "Thursday": 8,
+      "Wednesday": 5,
+      "Tuesday": 3,
+      "Monday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 5.09,
+    "dept_average_30d": 4.09,
+    "dept_rank": 65,
+    "dept_size": 642
+  }
+}

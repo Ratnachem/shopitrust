@@ -1,0 +1,264 @@
+{
+  "username": "eric.lybrand",
+  "name": "Eric Lybrand",
+  "generated_at": "2026-04-08T20:22:10.086274",
+  "summary": {
+    "message_count": 205,
+    "channels_active": 13,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Just FYI going to add a couple more tests in <https://app.graphite.com/github/pr/shop/world/581589?ref=gt-pasteable-stack|581589 Card Fraud Model:",
+          "channel": "proj-card-fraud-ml",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want to pair and ask questions since this is your first time looking at the serving layer",
+          "channel": "proj-card-fraud-ml",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you thank you!",
+          "channel": "proj-card-fraud-ml",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "[scheduled] FYI <@U02CZQLRK6C> we're 100% on Payments BigTable instance. Things are looking good. I'm cleaning up the environment variable situation",
+          "channel": "ms-real-time-model-serving-layer",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "proj-card-fraud-ml",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you thank you!",
+          "channel": "ms-real-time-model-serving-layer",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U09QMF2AP1N> I'm getting",
+          "channel": "ms-real-time-model-serving-layer",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work! Based on the PR description and the `results.tsv`, it actually looks like the adjusted dispute rate ranged between 43bps and 72bps. Is",
+          "channel": "proj-card-fraud-ml",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "[scheduled] Okay! I think all the materials are prepared to do an earnest run of autoresearch <@U0A6SN44WJE>. I've submitted a few commits to your",
+          "channel": "proj-card-fraud-ml",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah, thank you for flagging. Let me take care of this real quick.",
+          "channel": "financial-services-triage",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "hana.hashemi",
+          "count": 33
+        },
+        {
+          "user": "devansh.malik",
+          "count": 10
+        },
+        {
+          "user": "johnmichael.doerr",
+          "count": 8
+        },
+        {
+          "user": "hammad.khan",
+          "count": 6
+        },
+        {
+          "user": "giorgos.logiotatidis",
+          "count": 4
+        },
+        {
+          "user": "yasmin.niknam",
+          "count": 3
+        },
+        {
+          "user": "evan.eklund",
+          "count": 3
+        },
+        {
+          "user": "tagh.sira",
+          "count": 3
+        },
+        {
+          "user": "austen.novis",
+          "count": 2
+        },
+        {
+          "user": "ben.white",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.32,
+      "count": 149,
+      "top_channels": [
+        {
+          "channel": "proj-card-fraud-ml",
+          "messages": 134
+        },
+        {
+          "channel": "bna-ds-exceptions",
+          "messages": 20
+        },
+        {
+          "channel": "banking-card-fraud-ml-alerts",
+          "messages": 14
+        },
+        {
+          "channel": "ms-real-time-model-serving-layer",
+          "messages": 12
+        },
+        {
+          "channel": "financial-services-triage",
+          "messages": 6
+        },
+        {
+          "channel": "buyer-risk-team",
+          "messages": 6
+        },
+        {
+          "channel": "fs-coffee-chat",
+          "messages": 4
+        },
+        {
+          "channel": "help-capital-data-science",
+          "messages": 2
+        },
+        {
+          "channel": "help-exp",
+          "messages": 2
+        },
+        {
+          "channel": "tangle",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.56,
+      "count": 39,
+      "top_mentioners": [
+        {
+          "user": "devansh.malik",
+          "count": 12
+        },
+        {
+          "user": "brian.crescimanno",
+          "count": 3
+        },
+        {
+          "user": "yasmin.niknam",
+          "count": 2
+        },
+        {
+          "user": "hana.hashemi",
+          "count": 2
+        },
+        {
+          "user": "tagh.sira",
+          "count": 2
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 2
+        },
+        {
+          "user": "rodrigo.lazoti",
+          "count": 2
+        },
+        {
+          "user": "caleb.powell",
+          "count": 2
+        },
+        {
+          "user": "amir.sabzi",
+          "count": 1
+        },
+        {
+          "user": "alejandro.dustet-1951",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 20,
+      "17": 27,
+      "14": 26,
+      "13": 21,
+      "0": 9,
+      "21": 20,
+      "20": 33,
+      "19": 13,
+      "16": 11,
+      "7": 2,
+      "1": 2,
+      "15": 14,
+      "23": 1,
+      "12": 5,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 36,
+      "Tuesday": 53,
+      "Monday": 26,
+      "Friday": 65,
+      "Thursday": 25
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.15,
+    "dept_average_30d": 5.77,
+    "dept_rank": 235,
+    "dept_size": 885
+  }
+}

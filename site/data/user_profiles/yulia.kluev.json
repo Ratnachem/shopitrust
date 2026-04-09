@@ -1,0 +1,276 @@
+{
+  "username": "yulia.kluev",
+  "name": "Yulia Kluev",
+  "generated_at": "2026-04-08T20:22:23.317456",
+  "summary": {
+    "message_count": 373,
+    "channels_active": 18,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.0,
+      "pos_count": 30,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hey folks! I've been trying to get",
+          "channel": "help-core-applications",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "does this look like an explanation that makes sense to anyone?\n\n``` Now let me check the critical piece \u2014 the conflict clause uses direct assignment",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ohhhhhh makes sense! thanks!",
+          "channel": "tracking-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!!",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "hey folks! looking for an approval on this monorail <https://app.graphite.com/github/pr/Shopify/monorail/23299|PR>. thank you!",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sound good. It was previously showing unit test failures as well but those seem to have cleared up on their own somehow. thanks!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey folks! I'm getting some really wacky and unrelated CI comments/failures for a simple <https://app.graphite.com/github/pr/shop/world/559474|doc",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing ",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "wait maybe that's something else actually haha my bad",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "does this look like an explanation that makes sense to anyone?\n\n``` Now let me check the critical piece \u2014 the conflict clause uses direct assignment",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "totally agree with you on the manual labour part :smile: I'm gonna investigate and try to determine the root cause for a bit, and I'll get back to",
+          "channel": "help-tracking",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "udeep.tandukar",
+          "count": 26
+        },
+        {
+          "user": "max.giraldo",
+          "count": 10
+        },
+        {
+          "user": "jon.elliott",
+          "count": 7
+        },
+        {
+          "user": "harmanprit.tatla",
+          "count": 5
+        },
+        {
+          "user": "mike.welsh",
+          "count": 5
+        },
+        {
+          "user": "richard.newman",
+          "count": 3
+        },
+        {
+          "user": "siraj.ali",
+          "count": 2
+        },
+        {
+          "user": "bailey.carrothers",
+          "count": 2
+        },
+        {
+          "user": "robert.walsh",
+          "count": 2
+        },
+        {
+          "user": "caroline.guthrie",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.15,
+      "count": 140,
+      "top_channels": [
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 134
+        },
+        {
+          "channel": "inv-20600-ups-sending-delivered-events-despite-orde",
+          "messages": 53
+        },
+        {
+          "channel": "help-tracking",
+          "messages": 33
+        },
+        {
+          "channel": "tracking-team",
+          "messages": 30
+        },
+        {
+          "channel": "inv-20446-stale-ups-trackers",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20446-stale-ups-trackers",
+          "messages": 20
+        },
+        {
+          "channel": "tracking-dev-ops",
+          "messages": 15
+        },
+        {
+          "channel": "inc-21022-dhl-express-tracking-updates-return-no-da",
+          "messages": 13
+        },
+        {
+          "channel": "shipping-developers",
+          "messages": 11
+        },
+        {
+          "channel": "help-observability",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.6,
+      "count": 49,
+      "top_mentioners": [
+        {
+          "user": "max.giraldo",
+          "count": 9
+        },
+        {
+          "user": "harmanprit.tatla",
+          "count": 7
+        },
+        {
+          "user": "udeep.tandukar",
+          "count": 7
+        },
+        {
+          "user": "jesse.li",
+          "count": 5
+        },
+        {
+          "user": "jon.elliott",
+          "count": 4
+        },
+        {
+          "user": "julian.dong",
+          "count": 3
+        },
+        {
+          "user": "richard.newman",
+          "count": 2
+        },
+        {
+          "user": "mike.welsh",
+          "count": 2
+        },
+        {
+          "user": "robert.walsh",
+          "count": 2
+        },
+        {
+          "user": "sandeep.sikka",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 42,
+      "15": 38,
+      "20": 66,
+      "19": 85,
+      "17": 41,
+      "8": 13,
+      "7": 4,
+      "18": 39,
+      "16": 31,
+      "12": 1,
+      "21": 8,
+      "13": 5
+    },
+    "by_day": {
+      "Wednesday": 76,
+      "Tuesday": 93,
+      "Monday": 57,
+      "Thursday": 74,
+      "Friday": 73
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.93,
+    "dept_average_30d": 5.77,
+    "dept_rank": 336,
+    "dept_size": 885
+  }
+}

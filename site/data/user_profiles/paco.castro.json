@@ -1,0 +1,123 @@
+{
+  "username": "paco.castro",
+  "name": "Paco Castro",
+  "generated_at": "2026-04-08T20:22:26.924462",
+  "summary": {
+    "message_count": 25,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hello team, <@W01830MV6TZ> and I have been working on an oncall playbook for GA\n\nHere it is:",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "marcus.radica",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.86,
+      "count": 49,
+      "top_channels": [
+        {
+          "channel": "proj-next-gen-events",
+          "messages": 12
+        },
+        {
+          "channel": "s-foundations-events-team",
+          "messages": 4
+        },
+        {
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "messages": 3
+        },
+        {
+          "channel": "captain-hook-alerts",
+          "messages": 3
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.88,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "david.peacock",
+          "count": 4
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 2
+        },
+        {
+          "user": "hiral.pambhar",
+          "count": 1
+        },
+        {
+          "user": "rezaan.syed",
+          "count": 1
+        },
+        {
+          "user": "cedric.darne",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 2,
+      "12": 4,
+      "19": 2,
+      "17": 4,
+      "16": 3,
+      "10": 2,
+      "14": 2,
+      "18": 3,
+      "11": 3
+    },
+    "by_day": {
+      "Tuesday": 7,
+      "Monday": 4,
+      "Thursday": 4,
+      "Wednesday": 5,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.21,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1178,
+    "dept_size": 1233
+  }
+}

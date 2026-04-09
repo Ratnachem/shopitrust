@@ -1,0 +1,271 @@
+{
+  "username": "pierre.bedard",
+  "name": "Pierre Bedard",
+  "generated_at": "2026-04-08T20:22:16.104162",
+  "summary": {
+    "message_count": 191,
+    "channels_active": 12,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing. Heads up <@U01QK8CDA82>",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing, thank you!",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thank you!",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "+1 - as long as Harshdeep and Darius are okay with dropping events in this scenario (for now, anyway), this seems like a good approach. And I assume",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "&gt; Btw table onboarded has gotten a lot easier\nOh amazing. I haven\u2019t done anything to onboard those extra `customer` tables to production, so I",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "If that\u2019s the case, I can get behind that. My understanding was that <@U01TAD7M0DD>\u2019s work on DLQs was mostly spikes. Are they actually ready to",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018GBQC2SZ> since you\u2019re atc today, but feel free to rope more people in",
+          "channel": "s-foundations-events-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Thank you :pray::skin-tone-2: For some reason I thought I had checked that all of them had existing topics already, and that they were all just",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :pray::skin-tone-2: For some reason I thought I had checked that all of them had existing topics already, and that they were all just",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "cc. <@W01830T8L1M> since you\u2019re oncall. Feel free to ping me if something happens and you need help.\n\nFor context, this is",
+          "channel": "s-foundations-events-team",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<!here> Make sure to spend some time adding content, comments, questions, fears, feelings, whatever in the",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "And my assumption is that designing the retry/DLQ/whatever layer should be done carefully, and we shouldn\u2019t rush through it just to get us to GA. If",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ahh gotcha, that makes sense. Okay, I think you\u2019re right, and long term we probably don\u2019t want to do that. If a single pod is struggling, we probably",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "harshdeep.hura",
+          "count": 9
+        },
+        {
+          "user": "david.peacock",
+          "count": 6
+        },
+        {
+          "user": "rezaan.syed",
+          "count": 5
+        },
+        {
+          "user": "balint.bene",
+          "count": 4
+        },
+        {
+          "user": "darius.gai",
+          "count": 3
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 2
+        },
+        {
+          "user": "paco.castro",
+          "count": 2
+        },
+        {
+          "user": "cedric.darne",
+          "count": 2
+        },
+        {
+          "user": "pablo.mercado",
+          "count": 2
+        },
+        {
+          "user": "kerstin.puschke",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.18,
+      "count": 84,
+      "top_channels": [
+        {
+          "channel": "proj-next-gen-events",
+          "messages": 77
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 32
+        },
+        {
+          "channel": "s-foundations-events-team",
+          "messages": 28
+        },
+        {
+          "channel": "captain-hook-alerts",
+          "messages": 21
+        },
+        {
+          "channel": "event-foundations-river",
+          "messages": 10
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 10
+        },
+        {
+          "channel": "next-gen-events-customer-topic",
+          "messages": 4
+        },
+        {
+          "channel": "help-events",
+          "messages": 3
+        },
+        {
+          "channel": "proj-outbox",
+          "messages": 2
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.33,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "balint.bene",
+          "count": 4
+        },
+        {
+          "user": "harshdeep.hura",
+          "count": 4
+        },
+        {
+          "user": "kerstin.puschke",
+          "count": 3
+        },
+        {
+          "user": "david.peacock",
+          "count": 2
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 1
+        },
+        {
+          "user": "rezaan.syed",
+          "count": 1
+        },
+        {
+          "user": "marcus.radica",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 15,
+      "20": 24,
+      "14": 27,
+      "13": 18,
+      "21": 24,
+      "19": 26,
+      "18": 15,
+      "16": 22,
+      "15": 7,
+      "22": 9,
+      "0": 1,
+      "23": 3
+    },
+    "by_day": {
+      "Wednesday": 41,
+      "Tuesday": 54,
+      "Monday": 62,
+      "Thursday": 19,
+      "Friday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.2,
+    "dept_average_30d": 4.74,
+    "dept_rank": 451,
+    "dept_size": 1663
+  }
+}

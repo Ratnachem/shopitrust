@@ -1,0 +1,278 @@
+{
+  "username": "nathan.coulas",
+  "name": "Nathan Coulas",
+  "generated_at": "2026-04-08T20:22:19.973918",
+  "summary": {
+    "message_count": 589,
+    "channels_active": 44,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 36,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yeah that's what we're doing now. Thanks!",
+          "channel": "infrastructure-lifecycle",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad mark, I am also bad at reading...",
+          "channel": "mozart-ops",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "please feel free to have a look before I merge it",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Nice it worked. Thank you",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Hi I cannot use the ground floor doors at the NYC Port (85 10th Ave). I already attempted the fix to remove and readd my badge multiple times.",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you I will ask",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Cool. Thank you.",
+          "channel": "job-platform-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I misunderstood how kapp ownership works, my bad.",
+          "channel": "mozart-ops",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hello from <#C059X2GAWLX>.\nWe're working on sunsetting Cluster Lifecycle by moving all its functionality to Infra Central. Your team owns a profile",
+          "channel": "team-files",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "Nah another annotation would be bad. Replicating this is every controller is probably the best way to go lol.\nSystem controllers as a repo would make",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or whatever profile you're testing and push that along with your other changes on staging",
+          "channel": "infra-central",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "devon.boyer",
+          "count": 4
+        },
+        {
+          "user": "jacob.lott",
+          "count": 3
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 3
+        },
+        {
+          "user": "andrew.mcgoveran",
+          "count": 2
+        },
+        {
+          "user": "tim.smith",
+          "count": 2
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 2
+        },
+        {
+          "user": "kevin.norman",
+          "count": 1
+        },
+        {
+          "user": "james.hall",
+          "count": 1
+        },
+        {
+          "user": "aqeel.nazeer",
+          "count": 1
+        },
+        {
+          "user": "mark.blum",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 448,
+      "top_channels": [
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 93
+        },
+        {
+          "channel": "proj-infra-fast-secure-clusters",
+          "messages": 68
+        },
+        {
+          "channel": "app-infra-gke-134",
+          "messages": 51
+        },
+        {
+          "channel": "mozart-engineering",
+          "messages": 41
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 34
+        },
+        {
+          "channel": "infra-central",
+          "messages": 28
+        },
+        {
+          "channel": "team-ci",
+          "messages": 25
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 24
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 22
+        },
+        {
+          "channel": "inc-20682-infra-central-cannot-access-magellan",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 80,
+      "top_mentioners": [
+        {
+          "user": "assunta.walderdorff",
+          "count": 11
+        },
+        {
+          "user": "fernando.calderon",
+          "count": 11
+        },
+        {
+          "user": "jacob.lott",
+          "count": 7
+        },
+        {
+          "user": "louis.munro",
+          "count": 7
+        },
+        {
+          "user": "devon.boyer",
+          "count": 4
+        },
+        {
+          "user": "tascha.douglas",
+          "count": 3
+        },
+        {
+          "user": "jon.bastien",
+          "count": 2
+        },
+        {
+          "user": "brett.marx",
+          "count": 2
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 2
+        },
+        {
+          "user": "eric.yang",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 48,
+      "15": 48,
+      "21": 22,
+      "20": 62,
+      "19": 123,
+      "14": 67,
+      "13": 14,
+      "18": 118,
+      "17": 44,
+      "12": 2,
+      "22": 6,
+      "3": 23,
+      "23": 11,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 100,
+      "Tuesday": 191,
+      "Monday": 111,
+      "Thursday": 116,
+      "Friday": 71
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.96,
+    "dept_average_30d": 5.75,
+    "dept_rank": 22,
+    "dept_size": 357
+  }
+}

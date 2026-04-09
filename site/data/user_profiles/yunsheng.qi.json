@@ -1,0 +1,278 @@
+{
+  "username": "yunsheng.qi",
+  "name": "Yunsheng Qi",
+  "generated_at": "2026-04-08T20:22:17.058667",
+  "summary": {
+    "message_count": 342,
+    "channels_active": 8,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 11,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'll let Core to continue debugging/fixing #1. <@W018WBTFJQZ> let me know if you need anything from recommender side.\nI'm deploying the fix for #2.",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Here is the recommender suppose to response now. Let me know if you see any issues.\n```        {\n            \"tactic_type\": \"GOOGLE_PMAX_MANAGE\",\n   ",
+          "channel": "autopilot-puzzery",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "&gt; my bad.. my bug, sorry folks\nPart of the issue is comming from my change. :sweat_smile:",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "For the Google PMax <https://docs.google.com/document/d/1thg0K8NNsIOZ_LGxN9RPaHOFNiiebVBTG--vZsalqqQ/edit?tab=t.fhw33pi0auai|campaign name>, the",
+          "channel": "proj-s4m-recommendation-service",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AESJMF8K1> <@U094R7NR6RJ> Google bid strategy update\n1. For the",
+          "channel": "proj-s4m-recommendation-service",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U099KRUUWPN> \u2014 thanks for validating the full loop, great work!\nWhen you get a chance, could you fake the Kafka messages for the other two stores",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "<@U099KRUUWPN> \u2014 thanks for validating the full loop, great work!\nWhen you get a chance, could you fake the Kafka messages for the other two stores",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Meta manual campaigns\nMy meta manually created campaign start serving and I see impressions. This manually created campaign is",
+          "channel": "proj-s4m-recommendation-service",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if need further help on manually set up pmax campaign. Or need any data from my testing campaigns.",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help on setting up the test campaigns",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "There are 3:\n1. *Budget allocation (across tactics) can be auto-adjusted* \u2014 the recommender dynamically computes per-tactic budget splits based on",
+          "channel": "proj-s4m-recommendation-service",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U094R7NR6RJ> you should have at least one campaign that is updated E2E. (it's also reflected in the changing history)",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; if we set the conversion goal on account level, it will affect all existing campaigns\nThis is a valid point. When creating a new google ads",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "wuang.qin",
+          "count": 24
+        },
+        {
+          "user": "reza.khani",
+          "count": 22
+        },
+        {
+          "user": "enrique.collazo",
+          "count": 16
+        },
+        {
+          "user": "craig.coles",
+          "count": 15
+        },
+        {
+          "user": "greg.yang",
+          "count": 13
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 12
+        },
+        {
+          "user": "ryan.ferguson",
+          "count": 10
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 10
+        },
+        {
+          "user": "marc.posth",
+          "count": 9
+        },
+        {
+          "user": "travis.allan",
+          "count": 7
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.95,
+      "count": 78,
+      "top_channels": [
+        {
+          "channel": "proj-autopilot",
+          "messages": 176
+        },
+        {
+          "channel": "proj-s4m-recommendation-service",
+          "messages": 102
+        },
+        {
+          "channel": "proj-3p-automation-autopilot",
+          "messages": 55
+        },
+        {
+          "channel": "autopilot-puzzery",
+          "messages": 3
+        },
+        {
+          "channel": "autopilot-momina",
+          "messages": 2
+        },
+        {
+          "channel": "autopilot-camperdown",
+          "messages": 2
+        },
+        {
+          "channel": "yunsheng-river",
+          "messages": 1
+        },
+        {
+          "channel": "mm-growth-recommender-notifications",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 114,
+      "top_mentioners": [
+        {
+          "user": "yingwei.lin",
+          "count": 20
+        },
+        {
+          "user": "wuang.qin",
+          "count": 11
+        },
+        {
+          "user": "ryan.ferguson",
+          "count": 10
+        },
+        {
+          "user": "greg.yang",
+          "count": 8
+        },
+        {
+          "user": "leo.shen",
+          "count": 6
+        },
+        {
+          "user": "travis.allan",
+          "count": 6
+        },
+        {
+          "user": "marc.posth",
+          "count": 6
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 6
+        },
+        {
+          "user": "laura.idziszek",
+          "count": 5
+        },
+        {
+          "user": "reza.khani",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 43,
+      "16": 16,
+      "21": 47,
+      "20": 33,
+      "19": 37,
+      "18": 69,
+      "23": 18,
+      "22": 42,
+      "2": 13,
+      "5": 1,
+      "4": 3,
+      "3": 2,
+      "1": 4,
+      "15": 10,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 75,
+      "Tuesday": 84,
+      "Monday": 50,
+      "Friday": 38,
+      "Thursday": 95
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.15,
+    "dept_average_30d": 5.77,
+    "dept_rank": 235,
+    "dept_size": 885
+  }
+}

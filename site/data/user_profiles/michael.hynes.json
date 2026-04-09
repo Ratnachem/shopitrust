@@ -1,0 +1,243 @@
+{
+  "username": "michael.hynes",
+  "name": "Michael Hynes",
+  "generated_at": "2026-04-08T20:22:11.234007",
+  "summary": {
+    "message_count": 389,
+    "channels_active": 13,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Just got back",
+          "channel": "gsd-48923-flink-bq-connector",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! How's ~1 EST for you?",
+          "channel": "gsd-48923-flink-bq-connector",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ugh the _other_ authoritative repo.. thank you :bow:",
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Ty! Lmk how I can help? Can :tuple:  to give you an overview of what I've been testing / what our setup is like in the dockerfile",
+          "channel": "gsd-48923-flink-bq-connector",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I've rerun the tests with this change, and confirmed we can still write upserts with table creation &amp; regular writes with the non-CDC path",
+          "channel": "help-gcp-ext-dataplatform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sweet thank you! I will restack on that",
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I've got <https://buildkite.com/shopify/areas-stream-processing-fraud-staging-builder/builds/1009> running - feel free to deploy when that finishes!",
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "merlin.davies",
+          "count": 16
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 11
+        },
+        {
+          "user": "nidhi.patel",
+          "count": 11
+        },
+        {
+          "user": "daniel.cole",
+          "count": 9
+        },
+        {
+          "user": "tdelazzari",
+          "count": 5
+        },
+        {
+          "user": "daniel.rossos",
+          "count": 3
+        },
+        {
+          "user": "ming.zhu",
+          "count": 3
+        },
+        {
+          "user": "joirdan.gumbs",
+          "count": 2
+        },
+        {
+          "user": "frank.jania",
+          "count": 2
+        },
+        {
+          "user": "omid.hemmati",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.74,
+      "count": 224,
+      "top_channels": [
+        {
+          "channel": "proj-pre-auth-merchant-fraud-v2",
+          "messages": 222
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 86
+        },
+        {
+          "channel": "gsd-48923-flink-bq-connector",
+          "messages": 18
+        },
+        {
+          "channel": "proj-enhance-flinksql-toolkit",
+          "messages": 15
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 15
+        },
+        {
+          "channel": "help-gcp-ext-dataplatform",
+          "messages": 12
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 6
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "commerce-loop-engineering",
+          "messages": 4
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "nidhi.patel",
+          "count": 13
+        },
+        {
+          "user": "merlin.davies",
+          "count": 8
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 7
+        },
+        {
+          "user": "daniel.cole",
+          "count": 6
+        },
+        {
+          "user": "daniel.rossos",
+          "count": 5
+        },
+        {
+          "user": "tdelazzari",
+          "count": 3
+        },
+        {
+          "user": "joirdan.gumbs",
+          "count": 3
+        },
+        {
+          "user": "jerick.liu",
+          "count": 2
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 2
+        },
+        {
+          "user": "breno.limadefreitas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 46,
+      "16": 50,
+      "15": 39,
+      "14": 52,
+      "13": 54,
+      "12": 7,
+      "1": 10,
+      "17": 27,
+      "21": 21,
+      "19": 51,
+      "0": 4,
+      "20": 18,
+      "2": 5,
+      "5": 4,
+      "3": 1
+    },
+    "by_day": {
+      "Wednesday": 110,
+      "Tuesday": 56,
+      "Monday": 59,
+      "Friday": 35,
+      "Thursday": 129
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.0,
+    "dept_average_30d": 5.77,
+    "dept_rank": 724,
+    "dept_size": 885
+  }
+}

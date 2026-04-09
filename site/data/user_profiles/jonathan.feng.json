@@ -1,0 +1,220 @@
+{
+  "username": "jonathan.feng",
+  "name": "Jonathan Feng",
+  "generated_at": "2026-04-08T20:22:30.865042",
+  "summary": {
+    "message_count": 44,
+    "channels_active": 10,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "that's great to hear thank you!",
+          "channel": "help-melody",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got the pass in wallet now thank you!",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "hello, i'm having some issues querying something that runs on a job\nthis is the",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "great thank you!",
+          "channel": "si-2372-h1-hmac-parameters",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hi Jon, i'll get a channel to start investigating this. I'll ask you questions on the side if i have any. thanks!",
+          "channel": "help-security",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "could this kick off some dart tool? pepe? or whatever bot to do that correlation for us\n\nor again, if there's some easy way to hook this up to soar,",
+          "channel": "dart-observe-alerts",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "connor.rosenthal",
+          "count": 3
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 1
+        },
+        {
+          "user": "john.arceo",
+          "count": 1
+        },
+        {
+          "user": "joe.basirico",
+          "count": 1
+        },
+        {
+          "user": "abdulwahaab.ahmed",
+          "count": 1
+        },
+        {
+          "user": "jay.dancer",
+          "count": 1
+        },
+        {
+          "user": "tatiana.pustovetova",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.54,
+      "count": 266,
+      "top_channels": [
+        {
+          "channel": "help-security",
+          "messages": 18
+        },
+        {
+          "channel": "help-melody",
+          "messages": 7
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 3
+        },
+        {
+          "channel": "si-2396-h1-shop-app-origin-validation-flaw",
+          "messages": 3
+        },
+        {
+          "channel": "si-2372-h1-hmac-parameters",
+          "messages": 3
+        },
+        {
+          "channel": "dart-observe-alerts",
+          "messages": 3
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 2
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 2
+        },
+        {
+          "channel": "help-ris",
+          "messages": 2
+        },
+        {
+          "channel": "si-2437-posnext-gcp-key",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "tascha.douglas",
+          "count": 2
+        },
+        {
+          "user": "shannon.alfimova",
+          "count": 2
+        },
+        {
+          "user": "layne.shirley",
+          "count": 2
+        },
+        {
+          "user": "robbie.pearce",
+          "count": 2
+        },
+        {
+          "user": "trey.wilbur",
+          "count": 1
+        },
+        {
+          "user": "brandon.conway",
+          "count": 1
+        },
+        {
+          "user": "hussein.patni",
+          "count": 1
+        },
+        {
+          "user": "paul.gagliardi",
+          "count": 1
+        },
+        {
+          "user": "aaron.patterson",
+          "count": 1
+        },
+        {
+          "user": "brian.warsing",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 2,
+      "18": 7,
+      "22": 4,
+      "19": 7,
+      "23": 8,
+      "20": 7,
+      "1": 3,
+      "15": 2,
+      "17": 2,
+      "16": 2
+    },
+    "by_day": {
+      "Thursday": 7,
+      "Wednesday": 16,
+      "Tuesday": 15,
+      "Monday": 3,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 4.96,
+    "dept_average_30d": 4.89,
+    "dept_rank": 96,
+    "dept_size": 237
+  }
+}

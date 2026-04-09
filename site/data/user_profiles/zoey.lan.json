@@ -1,0 +1,271 @@
+{
+  "username": "zoey.lan",
+  "name": "Zoey Lan",
+  "generated_at": "2026-04-08T20:22:20.884817",
+  "summary": {
+    "message_count": 176,
+    "channels_active": 19,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.8,
+      "pos_count": 23,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "After investigation I don't think it's any regression behaviour that was added by our chnages, the",
+          "channel": "dev-platform-ops",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey Bruno, this is not a flow our team maintains usually, I don't think I can help you much there, but I'd suggest asking the other teams with that",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "no problem! good luck",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, can I get a review for this :pr-open: <https://github.com/shop/world/pull/298802|PR >to migrate from checking delegate token's parent via",
+          "channel": "devtools-proj-token-expiry",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you!",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I think it is mission critical as this makes feature parity with the REST API, do we need approvals from your team to pass CI?",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I have a :pr-open: <https://github.com/shop/world/pull/544442|PR to add a new field to the delegateAccessTokenCreate mutation >, it's a",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "FINALLY!!!!! CONGRATULATIONS RYAN!!!!!!!!! VERY WELL DESERVED :yay_frog: :yay-frog: :yay-frog-jam:",
+          "channel": "s-foundations-devtools",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I'm running this",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Given that it stores full CDC history, is there a way to filter on the _current_ state so I can use that to validate backfill completeness?",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Hey Alex,  I investigated the behaviour they described in `ShopifyApp::EnsureInstalled` and can confirm that the concern resolves the shop session",
+          "channel": "help-dev-platform",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "ryan.d.lee",
+          "count": 6
+        },
+        {
+          "user": "phong.pham",
+          "count": 4
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 4
+        },
+        {
+          "user": "terence.tirella",
+          "count": 3
+        },
+        {
+          "user": "steve.lu",
+          "count": 2
+        },
+        {
+          "user": "rod.mcnew",
+          "count": 2
+        },
+        {
+          "user": "t.tesfaye",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "luc.tribolet",
+          "count": 1
+        },
+        {
+          "user": "elizabeth.kenyon",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.61,
+      "count": 217,
+      "top_channels": [
+        {
+          "channel": "help-dev-platform",
+          "messages": 68
+        },
+        {
+          "channel": "devtools-proj-token-expiry",
+          "messages": 46
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 11
+        },
+        {
+          "channel": "zoey-river",
+          "messages": 8
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 5
+        },
+        {
+          "channel": "pods",
+          "messages": 5
+        },
+        {
+          "channel": "shop-mover",
+          "messages": 5
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 4
+        },
+        {
+          "channel": "devtools-dev-foundations",
+          "messages": 4
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "rod.mcnew",
+          "count": 18
+        },
+        {
+          "user": "phong.pham",
+          "count": 9
+        },
+        {
+          "user": "erik.solorzano",
+          "count": 3
+        },
+        {
+          "user": "andrew.murray",
+          "count": 3
+        },
+        {
+          "user": "isaac.roldan",
+          "count": 2
+        },
+        {
+          "user": "elizabeth.kenyon",
+          "count": 2
+        },
+        {
+          "user": "fred.ulrich",
+          "count": 2
+        },
+        {
+          "user": "ryan.wilsonperkin",
+          "count": 2
+        },
+        {
+          "user": "ryan.d.lee",
+          "count": 2
+        },
+        {
+          "user": "chris.giba",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 23,
+      "17": 15,
+      "14": 33,
+      "2": 1,
+      "1": 1,
+      "22": 9,
+      "21": 5,
+      "19": 30,
+      "15": 26,
+      "13": 2,
+      "20": 17,
+      "18": 12,
+      "4": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 58,
+      "Tuesday": 22,
+      "Monday": 30,
+      "Friday": 26,
+      "Thursday": 40
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.87,
+    "dept_average_30d": 5.79,
+    "dept_rank": 533,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "username": "gordon.zhang",
+  "name": "Gordon Zhang",
+  "generated_at": "2026-04-08T20:22:29.385021",
+  "summary": {
+    "message_count": 17,
+    "channels_active": 5,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 4,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I am from the messaging team and I am trying to create a new automation in flow with\n```npm run cli:generate extension -- --reset```\n`npx",
+          "channel": "help-flow-platform",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.5,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 1.74,
+      "count": 42,
+      "top_channels": [
+        {
+          "channel": "help-localization",
+          "messages": 8
+        },
+        {
+          "channel": "proj-messaging-unification-automations",
+          "messages": 4
+        },
+        {
+          "channel": "proj-messaging-autopilot",
+          "messages": 3
+        },
+        {
+          "channel": "help-flow-platform",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.05,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "mariephilipe.boucher",
+          "count": 4
+        },
+        {
+          "user": "nicole.cevey",
+          "count": 2
+        },
+        {
+          "user": "thomas.sieczkowski",
+          "count": 2
+        },
+        {
+          "user": "charu.sankar",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "17": 2,
+      "18": 9,
+      "15": 2,
+      "20": 1,
+      "19": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Thursday": 4,
+      "Wednesday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.78,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1378,
+    "dept_size": 1663
+  }
+}

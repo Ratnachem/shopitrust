@@ -1,0 +1,262 @@
+{
+  "username": "luca.castelli",
+  "name": "Luca Castelli",
+  "generated_at": "2026-04-08T20:22:30.597275",
+  "summary": {
+    "message_count": 324,
+    "channels_active": 12,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 6,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "streaming-compute-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Want me to create an issue for this to tackle in our gsd?",
+          "channel": "streaming-compute-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Updated #867 with a possible solution. It's not a quick fix as it would require a FLIP. Feel free to check it out, if",
+          "channel": "streaming-compute-team",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "kk, thanks!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to click start to continue with the deployment",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to add anything I missed <@U020DQLL3J8> and <@U01J4TU4C2X>",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U027H3ACM4Z> - are you planning for `cluster.json` to track only running/active clusters, or also stopped ones? Want to make sure session tracking",
+          "channel": "proj-enhance-flinksql-toolkit",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Update to 1.2.0 and you should have the fix",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "This would be something the folks at <#C01MXHNTT4Z> might be able to help with... but it's possible it's slow for whatever reason but will resolve",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Did the target-actuator operation succeed? You should have been tagged in a Slack thread",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 5
+        },
+        {
+          "user": "james.kan",
+          "count": 2
+        },
+        {
+          "user": "henry.zhou",
+          "count": 2
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 2
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 1
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 1
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 1
+        },
+        {
+          "user": "joshua.kim",
+          "count": 1
+        },
+        {
+          "user": "eric.lybrand",
+          "count": 1
+        },
+        {
+          "user": "daniel.rossos",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.96,
+      "count": 131,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 141
+        },
+        {
+          "channel": "proj-enhance-flinksql-toolkit",
+          "messages": 103
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 32
+        },
+        {
+          "channel": "proj-infra-flink-mcp-debug",
+          "messages": 27
+        },
+        {
+          "channel": "streaming-compute-alerts",
+          "messages": 7
+        },
+        {
+          "channel": "gsd-48923-flink-bq-connector",
+          "messages": 3
+        },
+        {
+          "channel": "gsd-49488-flink-infrastructure-upgrade",
+          "messages": 3
+        },
+        {
+          "channel": "pair-review",
+          "messages": 2
+        },
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 2
+        },
+        {
+          "channel": "streaming-platform-announcements",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 9
+        },
+        {
+          "user": "james.kan",
+          "count": 3
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 3
+        },
+        {
+          "user": "jennifer.xiong",
+          "count": 2
+        },
+        {
+          "user": "omid.hemmati",
+          "count": 2
+        },
+        {
+          "user": "siqi.fang",
+          "count": 2
+        },
+        {
+          "user": "asghar.khan",
+          "count": 2
+        },
+        {
+          "user": "jiayi.xie",
+          "count": 1
+        },
+        {
+          "user": "roman.zaharenkau",
+          "count": 1
+        },
+        {
+          "user": "max.giraldo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 56,
+      "19": 59,
+      "14": 36,
+      "20": 51,
+      "18": 13,
+      "17": 28,
+      "16": 28,
+      "13": 15,
+      "22": 3,
+      "21": 31,
+      "1": 3,
+      "12": 1
+    },
+    "by_day": {
+      "Thursday": 125,
+      "Wednesday": 64,
+      "Tuesday": 68,
+      "Monday": 13,
+      "Friday": 54
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.66,
+    "dept_average_30d": 5.75,
+    "dept_rank": 176,
+    "dept_size": 357
+  }
+}

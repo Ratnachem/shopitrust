@@ -1,0 +1,261 @@
+{
+  "username": "deborah.ang",
+  "name": "Deborah Ang",
+  "generated_at": "2026-04-08T20:22:30.944866",
+  "summary": {
+    "message_count": 336,
+    "channels_active": 27,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I didn't realize they opened one. I can't link the PR but it's deployed for sure",
+          "channel": "shipping-admin-dev-ops",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": ":grimacing: This graph looked crazy. sorry about any alerts we caused to fire",
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing!!",
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "We\u2019re expecting it to run on 2.1k shops, do you want me to stop it?",
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "RemoveLandedCostCharge has this same bug. It\u2019s the code I based remove shipping fee on, do you want me to address this as well?",
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Okay, I can put a PR to close that gap.  Thank you!",
+          "channel": "billing-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Oof, I don\u2019t think I\u2019ve seen that before. If I can help with that while you\u2019re investigating other threads, I can def try",
+          "channel": "billing-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey folks! I\u2019m going to roll out the <https://experiments.shopify.io/flags/f_use_shipping_fee_remove|flag: f_use_shipping_fee_remove>. This will move",
+          "channel": "billing-operations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I forgot you\u2019re acting as PM now! Thank you!",
+          "channel": "proj-shipping-local-currency-billing",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I really could\u2019ve sworn\u2026.thank you!!",
+          "channel": "inc-19587-label-cancel-jobs-are-failing",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "chris.daviduik",
+          "count": 9
+        },
+        {
+          "user": "rouzbeh.majidi",
+          "count": 8
+        },
+        {
+          "user": "bjorn.dawson",
+          "count": 6
+        },
+        {
+          "user": "noah.simpson",
+          "count": 5
+        },
+        {
+          "user": "maulin.pathare",
+          "count": 4
+        },
+        {
+          "user": "mathieu.lavoie",
+          "count": 4
+        },
+        {
+          "user": "phillip.manwaring",
+          "count": 2
+        },
+        {
+          "user": "andrew.tubman",
+          "count": 2
+        },
+        {
+          "user": "joe.pym",
+          "count": 2
+        },
+        {
+          "user": "don.taruc",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.67,
+      "count": 273,
+      "top_channels": [
+        {
+          "channel": "proj-shipping-local-currency-billing",
+          "messages": 85
+        },
+        {
+          "channel": "shipping-admin-runteam",
+          "messages": 35
+        },
+        {
+          "channel": "shipping-admin-team",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20636-stuck-remove-shipping-fee-obas",
+          "messages": 33
+        },
+        {
+          "channel": "proj-fulfillment-shipping-label-fraud",
+          "messages": 30
+        },
+        {
+          "channel": "help-labels",
+          "messages": 20
+        },
+        {
+          "channel": "inc-20903-investigation-intent-total-weight-incorre",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20516-merchants-cannot-purchase-labels-for-toda",
+          "messages": 12
+        },
+        {
+          "channel": "gsd-45045-persist-label-edits-dev",
+          "messages": 11
+        },
+        {
+          "channel": "billing-operations",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 85,
+      "top_mentioners": [
+        {
+          "user": "mathieu.lavoie",
+          "count": 17
+        },
+        {
+          "user": "rouzbeh.majidi",
+          "count": 15
+        },
+        {
+          "user": "bjorn.dawson",
+          "count": 8
+        },
+        {
+          "user": "chris.daviduik",
+          "count": 7
+        },
+        {
+          "user": "kwan.fu",
+          "count": 5
+        },
+        {
+          "user": "phillip.manwaring",
+          "count": 4
+        },
+        {
+          "user": "joe.pym",
+          "count": 3
+        },
+        {
+          "user": "ryan.sult",
+          "count": 2
+        },
+        {
+          "user": "minh.tran",
+          "count": 2
+        },
+        {
+          "user": "noah.simpson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 35,
+      "18": 49,
+      "19": 39,
+      "17": 35,
+      "15": 63,
+      "14": 55,
+      "13": 32,
+      "16": 15,
+      "21": 8,
+      "22": 3,
+      "23": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 62,
+      "Tuesday": 41,
+      "Monday": 78,
+      "Friday": 82,
+      "Thursday": 73
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.13,
+    "dept_average_30d": 5.77,
+    "dept_rank": 241,
+    "dept_size": 885
+  }
+}

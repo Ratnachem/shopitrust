@@ -1,0 +1,267 @@
+{
+  "username": "bertrand.braschi",
+  "name": "Bertrand Braschi",
+  "generated_at": "2026-04-08T20:22:14.562639",
+  "summary": {
+    "message_count": 541,
+    "channels_active": 34,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 9,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "&gt; Good catch \u2014 there are ~460 instances of `.first`/`.last` without `.order(:id)` in this file. Many are safe (e.g. when using `build_order` which",
+          "channel": "pp-partner-platform-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> my bad, I will NOT handle it. Please resume working on this",
+          "channel": "pp-partner-platform-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "<@U0AEPQCKB3M> I just ran the commands next to override your changes\n```~/world/trees/root/src/areas/core/shopify",
+          "channel": "pp-partner-platform-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hello :wave: \u2014As part of  a Yugabyte cleanup in `core` , we contemplating removing `MarketplaceApplePayCertificate` and the *Apple Pay Certificates",
+          "channel": "proj-multi-channel",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-observability",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Closing the incident then! Thank you all!",
+          "channel": "inc-20812-success-rate-dropped-for-bancontact",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Antoine!\n\nI asked River to fix the `error expanding template` and `wrong number of args for value` above. No luck\nRiver thread:",
+          "channel": "pp-partner-and-wallets-monitoring",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> Now, mark the PR as ready to review. Monitor CI every 2 hours until it is green. Let me know if CI fails.",
+          "channel": "pp-partner-platform-river",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello team! Wheb sharing the link to a stream, it gives access only to the question, not to the response from the bot, eg:",
+          "channel": "help-ai-chat",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U023HKK6ZFB> going to ask my team to review the PR. Can you also comment on it so learn? Even fit is to say it is useless? TY??",
+          "channel": "inv-20788-core-is-consistently-getting-payment-erro",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "rose.wiegley",
+          "count": 13
+        },
+        {
+          "user": "fatai.salami",
+          "count": 8
+        },
+        {
+          "user": "sophie.bernadinmercier",
+          "count": 5
+        },
+        {
+          "user": "andrew.creally",
+          "count": 5
+        },
+        {
+          "user": "delong.gao",
+          "count": 5
+        },
+        {
+          "user": "harry.venables",
+          "count": 4
+        },
+        {
+          "user": "manef.zahra",
+          "count": 4
+        },
+        {
+          "user": "justin.lang",
+          "count": 3
+        },
+        {
+          "user": "jenny.shih",
+          "count": 2
+        },
+        {
+          "user": "yibing.yang",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.64,
+      "count": 377,
+      "top_channels": [
+        {
+          "channel": "pp-partner-platform-river",
+          "messages": 270
+        },
+        {
+          "channel": "inc-20812-success-rate-dropped-for-bancontact",
+          "messages": 42
+        },
+        {
+          "channel": "inc-20782-b2b-customer-account-login-issue",
+          "messages": 36
+        },
+        {
+          "channel": "inc-20944-apple-pay-registration-failures",
+          "messages": 32
+        },
+        {
+          "channel": "pcb-yugabyte-in-core",
+          "messages": 29
+        },
+        {
+          "channel": "help-observability",
+          "messages": 15
+        },
+        {
+          "channel": "inc-20993-connected-paypal---order-token-generation",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20788-core-is-consistently-getting-payment-erro",
+          "messages": 14
+        },
+        {
+          "channel": "payments-crossborder-incident-room",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "rose.robertson",
+          "count": 8
+        },
+        {
+          "user": "fatai.salami",
+          "count": 5
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 5
+        },
+        {
+          "user": "mark.bastawros",
+          "count": 4
+        },
+        {
+          "user": "justin.lang",
+          "count": 2
+        },
+        {
+          "user": "rashmi.kumari",
+          "count": 2
+        },
+        {
+          "user": "jie.sun",
+          "count": 2
+        },
+        {
+          "user": "antoine.merciernicol",
+          "count": 2
+        },
+        {
+          "user": "sophie.bernadinm-5747",
+          "count": 1
+        },
+        {
+          "user": "adam.traver",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 57,
+      "23": 23,
+      "22": 34,
+      "21": 39,
+      "20": 55,
+      "19": 43,
+      "17": 36,
+      "16": 28,
+      "15": 39,
+      "14": 29,
+      "13": 74,
+      "12": 7,
+      "1": 29,
+      "0": 11,
+      "4": 15,
+      "3": 14,
+      "2": 8
+    },
+    "by_day": {
+      "Wednesday": 158,
+      "Tuesday": 135,
+      "Monday": 98,
+      "Friday": 75,
+      "Thursday": 75
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.51,
+    "dept_average_30d": 5.77,
+    "dept_rank": 112,
+    "dept_size": 885
+  }
+}

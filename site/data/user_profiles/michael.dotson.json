@@ -1,0 +1,290 @@
+{
+  "username": "michael.dotson",
+  "name": "Michael Dotson",
+  "generated_at": "2026-04-08T20:22:06.207601",
+  "summary": {
+    "message_count": 256,
+    "channels_active": 14,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah I may have missed it, thanks!",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok this is making a lot of sense now, thank you!",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "just a reminder folks that I'll be out next week, I'll be amending my initial draft of the migration tab at the bottom based on Robbie's thoughts",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "ah I see, <@W0197HUP800> modified the migration page this morning. the part I wrote is all the newly crossed out section at the end of the document",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I updated the `Migration` tab and just included ODP &amp; payment update/add since they are all we have in scope for the project. I also made it read",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I have finished writing up the migration plans for each of the following flows in the migration tab:\n\u2022 core\n\u2022 ODP\n\u2022 payment update/add\n\u2022 extensions\n\u2022",
+          "channel": "proj-customer-account-api-auth-granularity",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "inv-20369-capability-token-generate-duration---p99-",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "llm-issue-resolution",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "sounds good, thanks!",
+          "channel": "proj-login-pages-on-editor",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for all your hard work on the token!",
+          "channel": "llm-issue-resolution",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "sorry let me be clear, it reads issues from shop/issues (and whatever other issues repos) and looks at code in shop/world to do the investigation",
+          "channel": "llm-issue-resolution",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Meaning I don't care about the \u201chow\u201d personally",
+          "channel": "agentic-engineering",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "maybe someone installed it into the entire org, but whatever they did they didn't configure it right",
+          "channel": "llm-issue-resolution",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "robbie.khaddaj",
+          "count": 4
+        },
+        {
+          "user": "ani.tumanyan",
+          "count": 3
+        },
+        {
+          "user": "tobias.bales",
+          "count": 3
+        },
+        {
+          "user": "levent.ince",
+          "count": 2
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 2
+        },
+        {
+          "user": "mark.yoon",
+          "count": 1
+        },
+        {
+          "user": "shawn.leekwong",
+          "count": 1
+        },
+        {
+          "user": "zhenjie.zhuo",
+          "count": 1
+        },
+        {
+          "user": "michelle.peens",
+          "count": 1
+        },
+        {
+          "user": "emilie.cloutier",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.66,
+      "count": 123,
+      "top_channels": [
+        {
+          "channel": "my-secret-little-river-channel",
+          "messages": 115
+        },
+        {
+          "channel": "proj-customer-account-api-auth-granularity",
+          "messages": 42
+        },
+        {
+          "channel": "llm-issue-resolution",
+          "messages": 40
+        },
+        {
+          "channel": "inv-20369-capability-token-generate-duration---p99-",
+          "messages": 28
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 9
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 7
+        },
+        {
+          "channel": "proj-login-pages-on-editor",
+          "messages": 5
+        },
+        {
+          "channel": "ucp-identity-linking",
+          "messages": 2
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 2
+        },
+        {
+          "channel": "river",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.17,
+      "count": 20,
+      "top_mentioners": [
+        {
+          "user": "ani.tumanyan",
+          "count": 6
+        },
+        {
+          "user": "tobias.bales",
+          "count": 2
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 2
+        },
+        {
+          "user": "samuel.path",
+          "count": 2
+        },
+        {
+          "user": "zhenjie.zhuo",
+          "count": 1
+        },
+        {
+          "user": "misha.korablin",
+          "count": 1
+        },
+        {
+          "user": "levent.ince",
+          "count": 1
+        },
+        {
+          "user": "dan.robinson",
+          "count": 1
+        },
+        {
+          "user": "robbie.khaddaj",
+          "count": 1
+        },
+        {
+          "user": "phil.fishbein",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 50,
+      "17": 36,
+      "15": 27,
+      "13": 15,
+      "9": 3,
+      "1": 5,
+      "23": 9,
+      "21": 16,
+      "20": 28,
+      "16": 17,
+      "14": 17,
+      "19": 14,
+      "3": 3,
+      "22": 2,
+      "11": 3,
+      "7": 2,
+      "5": 2,
+      "0": 4,
+      "12": 3
+    },
+    "by_day": {
+      "Wednesday": 39,
+      "Tuesday": 48,
+      "Monday": 47,
+      "Friday": 55,
+      "Thursday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.62,
+    "dept_average_30d": 5.79,
+    "dept_rank": 671,
+    "dept_size": 1233
+  }
+}

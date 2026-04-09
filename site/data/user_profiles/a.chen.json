@@ -1,0 +1,94 @@
+{
+  "username": "a.chen",
+  "name": "A Chen",
+  "generated_at": "2026-04-08T20:22:17.943579",
+  "summary": {
+    "message_count": 17,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Omg! I really wanted to come to Eyes Peeled Coffee in Culver City this morning, so I will have to plan with you another time. Feel free to join",
+          "channel": "los-angeles-afterhours",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "mitchell.carter",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.91,
+      "count": 23,
+      "top_channels": [
+        {
+          "channel": "angela-river-test",
+          "messages": 13
+        },
+        {
+          "channel": "proj-doordash-build",
+          "messages": 2
+        },
+        {
+          "channel": "los-angeles-afterhours",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.44,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "sonali.mayer",
+          "count": 1
+        },
+        {
+          "user": "jack.nickeas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 3,
+      "16": 5,
+      "20": 3,
+      "19": 6
+    },
+    "by_day": {
+      "Wednesday": 8,
+      "Tuesday": 2,
+      "Monday": 3,
+      "Thursday": 3,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.27,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1003,
+    "dept_size": 1663
+  }
+}

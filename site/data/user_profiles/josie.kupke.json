@@ -1,0 +1,129 @@
+{
+  "username": "josie.kupke",
+  "name": "Josie Kupke",
+  "generated_at": "2026-04-08T20:22:25.835649",
+  "summary": {
+    "message_count": 15,
+    "channels_active": 8,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 2,
+    "days_in_window": 13,
+    "days_scale": 0.57
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U02ERKC6MJ4>\u2014I'm building a prototype of a streaming UPI clustering pipeline that consumes merchant product change events.  It seems I will want",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.22,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "daniel.mejia",
+          "count": 2
+        },
+        {
+          "user": "tom.chikoore",
+          "count": 1
+        },
+        {
+          "user": "balint.bene",
+          "count": 1
+        },
+        {
+          "user": "peng.yu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.66,
+      "count": 124,
+      "top_channels": [
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 3
+        },
+        {
+          "channel": "proj-cross-shop-options",
+          "messages": 3
+        },
+        {
+          "channel": "search-localdev",
+          "messages": 2
+        },
+        {
+          "channel": "the-shopify-catalog-operations",
+          "messages": 2
+        },
+        {
+          "channel": "catalog-api-team",
+          "messages": 2
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 1
+        },
+        {
+          "channel": "proj-universal-products",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.74,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "baiji.he",
+          "count": 1
+        },
+        {
+          "user": "maxence.haltel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "4": 1,
+      "0": 1,
+      "22": 5,
+      "20": 4,
+      "21": 2,
+      "19": 1,
+      "17": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Tuesday": 8,
+      "Friday": 3,
+      "Thursday": 1,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.46,
+    "dept_average_30d": 5.75,
+    "dept_rank": 337,
+    "dept_size": 357
+  }
+}

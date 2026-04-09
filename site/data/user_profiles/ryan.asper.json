@@ -1,0 +1,245 @@
+{
+  "username": "ryan.asper",
+  "name": "Ryan Asper",
+  "generated_at": "2026-04-08T20:22:07.450740",
+  "summary": {
+    "message_count": 219,
+    "channels_active": 11,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That did the trick! Thank you <@W01993BF4MC> :checkmark-greeen:",
+          "channel": "help-it",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for your help",
+          "channel": "help-it",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah you're the best, thank you :raised_hands:",
+          "channel": "help-exp",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "<@U0AEPQCKB3M> my mistake, I linked you the wrong thread.\n\nI meant to ask you to implement support for Tax Exemptions in Order Edit on C1, using",
+          "channel": "deliver-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yeah I was gonna say the same thing - FWIW the branch with the new merchant instruction initially had defined protobuf schemas too but I realized",
+          "channel": "proj-order-edit-tax-calculations-using-c1",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; oh is it 16 sometimes and 15 sometimes?\nWell I assume so, that's how it got through premerge. But perhaps this is just another symptom of",
+          "channel": "inc-20934-core-blocked-by-world-shopify-post-merge",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; What if the tax engines had 2 pieces of information:\n&gt; \u2022 fulfilled_at - null if it hasn't yet been fulfilled\n&gt; \u2022 booked_at - The date the",
+          "channel": "proj-order-edit-tax-calculations-using-c1",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "alan.hill",
+          "count": 4
+        },
+        {
+          "user": "riya.walia",
+          "count": 2
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 2
+        },
+        {
+          "user": "prajjwal.singh",
+          "count": 2
+        },
+        {
+          "user": "sophie.deziel",
+          "count": 2
+        },
+        {
+          "user": "jenica.mcguire",
+          "count": 1
+        },
+        {
+          "user": "basel.saad",
+          "count": 1
+        },
+        {
+          "user": "kush.patel",
+          "count": 1
+        },
+        {
+          "user": "martin.lopezmiller",
+          "count": 1
+        },
+        {
+          "user": "john.hong",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.55,
+      "count": 161,
+      "top_channels": [
+        {
+          "channel": "proj-order-edit-tax-calculations-using-c1",
+          "messages": 103
+        },
+        {
+          "channel": "deliver-river",
+          "messages": 67
+        },
+        {
+          "channel": "help-exp",
+          "messages": 14
+        },
+        {
+          "channel": "inc-20934-core-blocked-by-world-shopify-post-merge",
+          "messages": 12
+        },
+        {
+          "channel": "help-it",
+          "messages": 10
+        },
+        {
+          "channel": "order-edit-on-checkout-workstream",
+          "messages": 5
+        },
+        {
+          "channel": "proj-index-tables",
+          "messages": 3
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 2
+        },
+        {
+          "channel": "orders-penguins",
+          "messages": 1
+        },
+        {
+          "channel": "proj-order-edit-on-checkout-one-notifications",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.31,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "philippe.demontigny",
+          "count": 10
+        },
+        {
+          "user": "riya.walia",
+          "count": 5
+        },
+        {
+          "user": "alan.hill",
+          "count": 3
+        },
+        {
+          "user": "kush.patel",
+          "count": 2
+        },
+        {
+          "user": "sophie.deziel",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "basel.saad",
+          "count": 1
+        },
+        {
+          "user": "andrea.rice",
+          "count": 1
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 1
+        },
+        {
+          "user": "henry.peng",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 21,
+      "17": 16,
+      "16": 41,
+      "15": 43,
+      "14": 12,
+      "21": 13,
+      "20": 11,
+      "19": 15,
+      "13": 12,
+      "2": 1,
+      "6": 9,
+      "22": 13,
+      "0": 1,
+      "23": 4,
+      "12": 6,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 61,
+      "Monday": 19,
+      "Thursday": 24,
+      "Friday": 55
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.61,
+    "dept_average_30d": 5.79,
+    "dept_rank": 678,
+    "dept_size": 1233
+  }
+}

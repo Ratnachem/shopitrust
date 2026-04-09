@@ -1,0 +1,263 @@
+{
+  "username": "jason.z.liu",
+  "name": "Jason Z Liu",
+  "generated_at": "2026-04-08T20:22:17.850125",
+  "summary": {
+    "message_count": 242,
+    "channels_active": 21,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 19,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@W018PU5FCGL> , I will work with <@U025LM7DVA9> to start the progressive rollout tomorrow. Hope we can start collecting data and move to",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U030VM69NP5> feel free to take mine staging-17, I won't need it in next 30mins",
+          "channel": "sidekick-staging",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "thanks <@U02STEXA9AP>. <@W018GB50NJ1> let me know if anything I can help to accelerate this :rocket:",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "thanks <@U02STEXA9AP>. <@W018GB50NJ1> let me know if anything I can help to accelerate this :rocket:",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to share the result/findings if you have already checked that. thanks!",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "feel free to share the result/findings if you have already checked that. thanks!",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh my bad, didn't check, great I will include it to the weekly update too",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "great, let me know if you need help. BTW, I have staging-5 if you need one",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh my bad, wrong link pasted, here is the right <https://sidekick.shopify.ai/internal/conversations/01KM07N1DFBBBSFY1VRCNCHHHW?active_turn=1|example>",
+          "channel": "proj-sidekick-graphql-agent",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "lgtm, let's publish it, thank you",
+          "channel": "proj-analytics-schema-selection-subagent",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "aly.gemae",
+          "count": 17
+        },
+        {
+          "user": "alexandre.c",
+          "count": 16
+        },
+        {
+          "user": "matt.koenig",
+          "count": 14
+        },
+        {
+          "user": "nicolas.bertagnolli",
+          "count": 10
+        },
+        {
+          "user": "shamar.phillips",
+          "count": 8
+        },
+        {
+          "user": "logan.vegna",
+          "count": 3
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 3
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 3
+        },
+        {
+          "user": "andrew.mcnamara",
+          "count": 3
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.78,
+      "count": 317,
+      "top_channels": [
+        {
+          "channel": "proj-analytics-schema-selection-subagent",
+          "messages": 105
+        },
+        {
+          "channel": "tangle",
+          "messages": 29
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 25
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20700-high-latency-for-sidekick-finetune",
+          "messages": 9
+        },
+        {
+          "channel": "proj-agent-flywheel-platform",
+          "messages": 9
+        },
+        {
+          "channel": "sidekick-analytics",
+          "messages": 7
+        },
+        {
+          "channel": "proj-sidekick-graphql-agent",
+          "messages": 7
+        },
+        {
+          "channel": "proj-sidekick-pulse",
+          "messages": 6
+        },
+        {
+          "channel": "inc-19918-finetune-models-impacted-by-nebius-incide",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 105,
+      "top_mentioners": [
+        {
+          "user": "aly.gemae",
+          "count": 55
+        },
+        {
+          "user": "joe.lin",
+          "count": 9
+        },
+        {
+          "user": "alexandre.c",
+          "count": 8
+        },
+        {
+          "user": "nicolas.bertagnolli",
+          "count": 5
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 5
+        },
+        {
+          "user": "matt.koenig",
+          "count": 5
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 3
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 2
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 2
+        },
+        {
+          "user": "ming.zhu",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 37,
+      "15": 49,
+      "19": 47,
+      "18": 16,
+      "22": 6,
+      "16": 27,
+      "12": 1,
+      "2": 4,
+      "1": 8,
+      "20": 19,
+      "21": 9,
+      "13": 2,
+      "0": 6,
+      "14": 11
+    },
+    "by_day": {
+      "Wednesday": 95,
+      "Tuesday": 48,
+      "Thursday": 56,
+      "Monday": 17,
+      "Friday": 26
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.49,
+    "dept_average_30d": 4.74,
+    "dept_rank": 100,
+    "dept_size": 1663
+  }
+}

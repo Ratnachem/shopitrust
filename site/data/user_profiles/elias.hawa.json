@@ -1,0 +1,275 @@
+{
+  "username": "elias.hawa",
+  "name": "Elias Hawa",
+  "generated_at": "2026-04-08T20:22:20.819360",
+  "summary": {
+    "message_count": 252,
+    "channels_active": 13,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi again, from the Flow team.  I wanted to get some more information around the intention behind the breaking changes in 2026-04 around making",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi team, please let me know if I'm asking this in the wrong channel. Is there any way through schema introspection to determine what mutations on the",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah alright, I can add an additional check to see if it's not closed to fix this but just wanted to check first, thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Also thank you for the explanation :ty-party:",
+          "channel": "flow-project-fields-w-arguments",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah my bad",
+          "channel": "flow-execution-team",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Can you try adding the `custom.payment_method_used` metafield variable to the workflow? Let me know if that works",
+          "channel": "help-flow",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U07RGNVBDPY>, can you please provide a workflow run link so I can investigate further? Thanks!",
+          "channel": "help-flow",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; would we want to set `changeFromQuantity` to null if the merchant set a value for `compareQuantity`\nWe'd want to set `changeFromQuantity` to",
+          "channel": "flow-tasks-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "&gt; \u2022 If you don't care about the current quantity because you're the source of truth, then you don't need to implement compare and swap and should",
+          "channel": "flow-tasks-team",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Is `metadata.idempotency_key` unique to a workflow, workflow run or step within a workflow run? I can see an (very niche) edge case where, for",
+          "channel": "flow-tasks-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Will give an example once I have local dev up and running, what I'm proposing is that searching for metafield patched fields will no longer yield a",
+          "channel": "flow-project-fields-w-arguments",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U07M1CQRXK2> <@W018GBVBU1K> Whenever you guys have a moment, just wanted to clarify a UX thing real quick. Related to",
+          "channel": "flow-project-fields-w-arguments",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "elisa.seijas",
+          "count": 3
+        },
+        {
+          "user": "paul.nuschke",
+          "count": 3
+        },
+        {
+          "user": "rodolfo.perez",
+          "count": 2
+        },
+        {
+          "user": "rolando.penate",
+          "count": 1
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 1
+        },
+        {
+          "user": "michael.rokas",
+          "count": 1
+        },
+        {
+          "user": "gasser.aly",
+          "count": 1
+        },
+        {
+          "user": "mikaela.pidot",
+          "count": 1
+        },
+        {
+          "user": "dann.bermundo",
+          "count": 1
+        },
+        {
+          "user": "rogie.montes",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.78,
+      "count": 47,
+      "top_channels": [
+        {
+          "channel": "flow-tasks-team",
+          "messages": 75
+        },
+        {
+          "channel": "flow-project-fields-w-arguments",
+          "messages": 48
+        },
+        {
+          "channel": "elias-river",
+          "messages": 41
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 31
+        },
+        {
+          "channel": "flow-development",
+          "messages": 23
+        },
+        {
+          "channel": "flow-automations-team",
+          "messages": 10
+        },
+        {
+          "channel": "help-flow",
+          "messages": 9
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 5
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 3
+        },
+        {
+          "channel": "flow-execution-team",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.21,
+      "count": 26,
+      "top_mentioners": [
+        {
+          "user": "lily.li",
+          "count": 5
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 5
+        },
+        {
+          "user": "steven.low",
+          "count": 3
+        },
+        {
+          "user": "michael.rokas",
+          "count": 3
+        },
+        {
+          "user": "robert.mic",
+          "count": 2
+        },
+        {
+          "user": "josh.beckman",
+          "count": 2
+        },
+        {
+          "user": "colin.vrugteman",
+          "count": 2
+        },
+        {
+          "user": "carson.huang",
+          "count": 1
+        },
+        {
+          "user": "jennifer.wills",
+          "count": 1
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 17,
+      "20": 45,
+      "19": 31,
+      "14": 20,
+      "15": 38,
+      "12": 5,
+      "21": 4,
+      "18": 40,
+      "17": 24,
+      "13": 27,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 91,
+      "Monday": 32,
+      "Thursday": 55,
+      "Tuesday": 56,
+      "Friday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.2,
+    "dept_average_30d": 5.79,
+    "dept_rank": 927,
+    "dept_size": 1233
+  }
+}

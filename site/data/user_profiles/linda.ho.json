@@ -1,0 +1,90 @@
+{
+  "username": "linda.ho",
+  "name": "Linda Ho",
+  "generated_at": "2026-04-08T20:22:32.218610",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "_*Forge MCP Testing Quickstart*_ :forge-dwarf:\n\n*Get started*\n:point_right_again: Setup walkthrough (1 min):",
+          "channel": "proj-forge-mcp",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 1.21,
+      "count": 32,
+      "top_channels": [
+        {
+          "channel": "proj-forge-mcp",
+          "messages": 9
+        },
+        {
+          "channel": "de-support",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "william.bedard",
+          "count": 1
+        },
+        {
+          "user": "paul.cochrane",
+          "count": 1
+        },
+        {
+          "user": "vince.hollywood",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 3,
+      "14": 2,
+      "22": 3,
+      "17": 1,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Tuesday": 1,
+      "Monday": 3,
+      "Friday": 2,
+      "Thursday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 4.21,
+    "dept_average_30d": 4.32,
+    "dept_rank": 421,
+    "dept_size": 848
+  }
+}

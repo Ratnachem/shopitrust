@@ -1,0 +1,102 @@
+{
+  "username": "justine.nieva",
+  "name": "Justine Nieva",
+  "generated_at": "2026-04-08T20:22:30.019518",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 18,
+    "days_scale": 0.78
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'm waiting now for approval",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Team, I need help recovering my 1Password account after a recent device change. Thank you!",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team, the <https://cambridge.shopify.io/apps/196703|Privacy Policy check> is failing for",
+          "channel": "help-appsec",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi <@U03Q03TTGE9>, thanks! It says waiting for admin approval now.",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.58,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "michael.dooley",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.81,
+      "count": 58,
+      "top_channels": [
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 4
+        },
+        {
+          "channel": "help-appsec",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.27,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "michael.dooley",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "12": 4,
+      "19": 1
+    },
+    "by_day": {
+      "Friday": 2,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.11,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1109,
+    "dept_size": 1663
+  }
+}

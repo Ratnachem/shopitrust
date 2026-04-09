@@ -1,0 +1,268 @@
+{
+  "username": "simon.pearson",
+  "name": "Simon Pearson",
+  "generated_at": "2026-04-08T20:22:19.167147",
+  "summary": {
+    "message_count": 706,
+    "channels_active": 38,
+    "unique_people_mentioned": 42,
+    "unique_mentioners": 52,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03N9LYBBHB> for handling the rollout! :thank: :goat:",
+          "channel": "proj-mm-1p-migration",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ah oops my bad",
+          "channel": "proj-mm-1p-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<!channel> thank you all for your hard work this week, it was tough but we are almost there!\nLet's get this right and get those match rates to &gt;95%",
+          "channel": "proj-mm-1p-migration",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah my bad, <@U06TY1A0UUT> you mentioned picking this ticket up later. So you already added this?",
+          "channel": "proj-mm-1p-migration",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Added my update, this meeting conflicts with the Ads Engine standup, so I wont be able to attend.  Let me know if there are any questions about my",
+          "channel": "ads-operational-health",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<!here> for people handling bug fixes related to the migration, feel free to skip the team planning meeting.  Im gonna continue investigations",
+          "channel": "proj-mm-1p-migration",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "nice job spotting this!",
+          "channel": "proj-mm-1p-migration",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ok thank you!",
+          "channel": "ads-engine-shop-server-bots",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yeah sorry I only have the shop account uuid in my logs :sweat_smile:\nthe subject would be whatever user_id is tied to these shop_account_uuid",
+          "channel": "help-exp",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "One kind of shitty, kind of annoying thing we could do is pass experiment variant as a parameter to recommendations query made to bidify.\nThis way we",
+          "channel": "recommendations-team-experiments",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "patrick.aboagye",
+          "count": 28
+        },
+        {
+          "user": "philip.blaquiere",
+          "count": 22
+        },
+        {
+          "user": "christopher.ko",
+          "count": 18
+        },
+        {
+          "user": "kristin.makulowich",
+          "count": 12
+        },
+        {
+          "user": "rich.chen",
+          "count": 12
+        },
+        {
+          "user": "josh.machado",
+          "count": 10
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 10
+        },
+        {
+          "user": "chris.wang",
+          "count": 7
+        },
+        {
+          "user": "brandon.belvin",
+          "count": 6
+        },
+        {
+          "user": "adina.mubbashir",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.19,
+      "count": 353,
+      "top_channels": [
+        {
+          "channel": "proj-mm-1p-migration",
+          "messages": 368
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 51
+        },
+        {
+          "channel": "ads-bidify-api-ops",
+          "messages": 43
+        },
+        {
+          "channel": "help-exp",
+          "messages": 33
+        },
+        {
+          "channel": "ads-engine-shop-server-bots",
+          "messages": 32
+        },
+        {
+          "channel": "inc-20207-bidify-low-recs-success-rate",
+          "messages": 21
+        },
+        {
+          "channel": "recommendations-team",
+          "messages": 14
+        },
+        {
+          "channel": "shop-yugabyte",
+          "messages": 13
+        },
+        {
+          "channel": "help-shop-campaigns",
+          "messages": 12
+        },
+        {
+          "channel": "proj-mm-yugabyte-migration",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 160,
+      "top_mentioners": [
+        {
+          "user": "philip.blaquiere",
+          "count": 14
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 10
+        },
+        {
+          "user": "kristin.makulowich",
+          "count": 9
+        },
+        {
+          "user": "josh.machado",
+          "count": 9
+        },
+        {
+          "user": "sang.le",
+          "count": 8
+        },
+        {
+          "user": "patrick.aboagye",
+          "count": 8
+        },
+        {
+          "user": "rich.chen",
+          "count": 7
+        },
+        {
+          "user": "esdras.martins",
+          "count": 6
+        },
+        {
+          "user": "louisphilippe.th-5260",
+          "count": 5
+        },
+        {
+          "user": "chris.wang",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 36,
+      "16": 52,
+      "14": 108,
+      "13": 80,
+      "12": 14,
+      "21": 74,
+      "19": 67,
+      "15": 83,
+      "18": 75,
+      "0": 12,
+      "1": 6,
+      "22": 12,
+      "20": 49,
+      "23": 7,
+      "11": 3,
+      "2": 5,
+      "5": 17,
+      "4": 6
+    },
+    "by_day": {
+      "Wednesday": 162,
+      "Tuesday": 152,
+      "Monday": 116,
+      "Friday": 133,
+      "Thursday": 143
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.63,
+    "dept_average_30d": 5.77,
+    "dept_rank": 476,
+    "dept_size": 885
+  }
+}

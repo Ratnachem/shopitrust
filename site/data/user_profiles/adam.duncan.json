@@ -1,0 +1,266 @@
+{
+  "username": "adam.duncan",
+  "name": "Adam Duncan",
+  "generated_at": "2026-04-08T20:22:22.820398",
+  "summary": {
+    "message_count": 205,
+    "channels_active": 11,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "All good! I hear you!\nI won't get back onto this until next week, so can revisit then! Thank you!",
+          "channel": "shop-feed-bots",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah yep, I see. Thanks!",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "&gt; do you gave context on what happened here?\n<@W018PSXUAUC> I don't, but let me know if you need to pull me in",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U01UWV9CAMT> I've tried to shape the thread here and a few other bits of intel into the <https://github.com/Shopify/shop-client/issues/98406|issue>",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey <@W018WBMNMS5>, all good. Sorry about the delay getting back, been Bursting",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ah, okay, cool. I'll try that if this build doesn't work. Thanks!",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Quick powwow before I wrap?",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh, thanks! I'll take a look :+1:",
+          "channel": "shop-agentic-search-bots",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Also, just doing some digging on potential implementation options here. Claude's handily shedding some light on potential RN-level solutions that",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "This seems continue to gather comments in Merchant Frustrations, including this doozy:",
+          "channel": "shop-agentic-search",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "lorenzo.sciandra",
+          "count": 11
+        },
+        {
+          "user": "hilary.lyttle",
+          "count": 9
+        },
+        {
+          "user": "mitchell.soares",
+          "count": 9
+        },
+        {
+          "user": "ben.eichler",
+          "count": 7
+        },
+        {
+          "user": "kyra.stephen",
+          "count": 3
+        },
+        {
+          "user": "julian.kelly",
+          "count": 3
+        },
+        {
+          "user": "brandon.fonseca",
+          "count": 3
+        },
+        {
+          "user": "andrew.droll",
+          "count": 2
+        },
+        {
+          "user": "eylam.fried",
+          "count": 2
+        },
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.81,
+      "count": 127,
+      "top_channels": [
+        {
+          "channel": "shop-agentic-search",
+          "messages": 117
+        },
+        {
+          "channel": "shop-agentic-search-bots",
+          "messages": 26
+        },
+        {
+          "channel": "shop-feed-bots",
+          "messages": 16
+        },
+        {
+          "channel": "shop-feed",
+          "messages": 14
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 10
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 8
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 5
+        },
+        {
+          "channel": "shop-unified-event-schema",
+          "messages": 4
+        },
+        {
+          "channel": "hey-river",
+          "messages": 2
+        },
+        {
+          "channel": "shop-mobile-bots",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.44,
+      "count": 57,
+      "top_mentioners": [
+        {
+          "user": "brandon.fonseca",
+          "count": 11
+        },
+        {
+          "user": "lorenzo.sciandra",
+          "count": 8
+        },
+        {
+          "user": "nikita.ali",
+          "count": 8
+        },
+        {
+          "user": "hilary.lyttle",
+          "count": 8
+        },
+        {
+          "user": "andrew.droll",
+          "count": 6
+        },
+        {
+          "user": "sean.dang",
+          "count": 3
+        },
+        {
+          "user": "kyra.stephen",
+          "count": 2
+        },
+        {
+          "user": "alina.annayeva",
+          "count": 2
+        },
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 2
+        },
+        {
+          "user": "taylor.cottrell",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 22,
+      "13": 11,
+      "21": 6,
+      "20": 7,
+      "19": 19,
+      "16": 29,
+      "12": 10,
+      "10": 18,
+      "18": 25,
+      "17": 23,
+      "14": 15,
+      "11": 10,
+      "9": 6,
+      "6": 1,
+      "23": 1,
+      "8": 2
+    },
+    "by_day": {
+      "Wednesday": 51,
+      "Tuesday": 27,
+      "Thursday": 65,
+      "Monday": 31,
+      "Friday": 31
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.1,
+    "dept_average_30d": 5.86,
+    "dept_rank": 73,
+    "dept_size": 166
+  }
+}

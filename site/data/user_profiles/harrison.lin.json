@@ -1,0 +1,177 @@
+{
+  "username": "harrison.lin",
+  "name": "Harrison Lin",
+  "generated_at": "2026-04-08T20:22:26.548232",
+  "summary": {
+    "message_count": 146,
+    "channels_active": 7,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U0892G0DEA1>! can you link me to the issue once you have it open so I can follow along?",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Yes please revert if it's blocking, ill figure it out when im back",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "oh vault says _`dbt config changes alone won't remove Dataplex tags`_\nI\u2019ll remove the cooked logs from the other APs or else they will fail too",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "jonny.lomond",
+          "count": 7
+        },
+        {
+          "user": "zhen.han",
+          "count": 5
+        },
+        {
+          "user": "amelie.rolland",
+          "count": 3
+        },
+        {
+          "user": "alistair.israel",
+          "count": 2
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 1
+        },
+        {
+          "user": "ali.mir",
+          "count": 1
+        },
+        {
+          "user": "timothy.weeks",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.14,
+      "count": 30,
+      "top_channels": [
+        {
+          "channel": "identity-graph-data-atc",
+          "messages": 78
+        },
+        {
+          "channel": "proj-data-platform-event-refinery-pulse",
+          "messages": 40
+        },
+        {
+          "channel": "inc-21232-missing-data-in-identifierubimapping-tabl",
+          "messages": 14
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 7
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 4
+        },
+        {
+          "channel": "identity-graph-data-rc",
+          "messages": 2
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.75,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "zhen.han",
+          "count": 5
+        },
+        {
+          "user": "ali.mir",
+          "count": 4
+        },
+        {
+          "user": "amelie.rolland",
+          "count": 3
+        },
+        {
+          "user": "jonny.lomond",
+          "count": 3
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        },
+        {
+          "user": "chandramohan.soni",
+          "count": 1
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 23,
+      "20": 15,
+      "18": 20,
+      "13": 10,
+      "19": 25,
+      "17": 4,
+      "16": 7,
+      "15": 17,
+      "14": 10,
+      "11": 1,
+      "22": 6,
+      "12": 8
+    },
+    "by_day": {
+      "Tuesday": 40,
+      "Monday": 27,
+      "Friday": 21,
+      "Thursday": 35,
+      "Wednesday": 23
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.19,
+    "dept_average_30d": 5.39,
+    "dept_rank": 235,
+    "dept_size": 272
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "username": "charlotte.gaj",
+  "name": "Charlotte Gaj",
+  "generated_at": "2026-04-08T20:22:29.203696",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello team! Charlotte from the Shipping team here. Not 100% sure if this is the place to reach out for this inquiry, so please forgive me if it's out",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-labels",
+          "messages": 3
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "rouzbeh.majidi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 3,
+      "15": 1
+    },
+    "by_day": {
+      "Monday": 3,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 2.79,
+    "dept_average_30d": 4.09,
+    "dept_rank": 636,
+    "dept_size": 642
+  }
+}

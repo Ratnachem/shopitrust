@@ -1,730 +1,686 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ShopiTrust</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #f6f6f7;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 48px 16px;
-    }
-
-    header {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-
-    header h1 {
-      font-size: 28px;
-      font-weight: 700;
-      color: #1a1a1a;
-      letter-spacing: -0.5px;
-    }
-
-    header p {
-      margin-top: 8px;
-      font-size: 15px;
-      color: #6b7280;
-      max-width: 420px;
-    }
-
-    .card {
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 16px rgba(0,0,0,0.04);
-      padding: 28px;
-      width: 100%;
-      max-width: 520px;
-    }
-
-    .input-row {
-      display: flex;
-      gap: 10px;
-    }
-
-    input[type="text"] {
-      flex: 1;
-      padding: 11px 14px;
-      border: 1.5px solid #d1d5db;
-      border-radius: 8px;
-      font-size: 15px;
-      color: #111;
-      outline: none;
-      transition: border-color 0.15s;
-    }
-
-    input[type="text"]:focus {
-      border-color: #008060;
-    }
-
-    button.primary {
-      padding: 11px 20px;
-      background: #008060;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      font-size: 15px;
-      font-weight: 600;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: background 0.15s;
-    }
-
-    button.primary:hover { background: #006b50; }
-    button.primary:disabled { background: #9ca3af; cursor: not-allowed; }
-
-    .loading {
-      display: none;
-      text-align: center;
-      padding: 32px 0;
-      color: #6b7280;
-      font-size: 14px;
-    }
-
-    .spinner {
-      display: inline-block;
-      width: 24px;
-      height: 24px;
-      border: 3px solid #e5e7eb;
-      border-top-color: #008060;
-      border-radius: 50%;
-      animation: spin 0.7s linear infinite;
-      margin-bottom: 10px;
-    }
-
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    .result { display: none; margin-top: 24px; }
-
-    .score-block {
-      border-radius: 10px;
-      padding: 20px;
-      margin-bottom: 20px;
-    }
-
-    .score-block.red    { background: #fef2f2; border: 1.5px solid #fecaca; }
-    .score-block.yellow { background: #fefce8; border: 1.5px solid #fde68a; }
-    .score-block.green  { background: #f0fdf4; border: 1.5px solid #bbf7d0; }
-    .score-block.strong { background: #ecfdf5; border: 1.5px solid #6ee7b7; }
-    .score-block.epic   { background: #eff6ff; border: 1.5px solid #93c5fd; }
-
-    .score-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 10px;
-    }
-
-    .score-name {
-      font-weight: 700;
-      font-size: 16px;
-      color: #111;
-    }
-
-    .score-number {
-      font-size: 22px;
-      font-weight: 800;
-      color: #111;
-    }
-
-    .score-bar {
-      display: flex;
-      gap: 4px;
-      margin-bottom: 10px;
-    }
-
-    .bar-block {
-      height: 10px;
-      flex: 1;
-      border-radius: 3px;
-      background: #e5e7eb;
-    }
-
-    .bar-block.filled.red    { background: #ef4444; }
-    .bar-block.filled.yellow { background: #f59e0b; }
-    .bar-block.filled.green  { background: #10b981; }
-    .bar-block.filled.strong { background: #059669; }
-    .bar-block.filled.epic   { background: #3b82f6; }
-
-    .score-label {
-      font-size: 14px;
-      font-weight: 600;
-      color: #374151;
-    }
-
-    .section {
-      margin-bottom: 16px;
-    }
-
-    .section-title {
-      font-size: 12px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: #9ca3af;
-      margin-bottom: 6px;
-    }
-
-    .section-body {
-      font-size: 14px;
-      color: #374151;
-      line-height: 1.6;
-    }
-
-    .tip-card {
-      background: #f9fafb;
-      border-radius: 8px;
-      border: 1.5px solid #e5e7eb;
-      padding: 14px 16px;
-    }
-
-    .tip-action {
-      font-size: 15px;
-      font-weight: 600;
-      color: #111;
-      margin-bottom: 6px;
-      line-height: 1.5;
-    }
-
-    .tip-why {
-      font-size: 13px;
-      color: #6b7280;
-      line-height: 1.5;
-    }
-
-    .actions {
-      display: flex;
-      gap: 10px;
-      margin-top: 20px;
-    }
-
-    button.secondary {
-      flex: 1;
-      padding: 10px;
-      background: white;
-      border: 1.5px solid #d1d5db;
-      border-radius: 8px;
-      font-size: 14px;
-      font-weight: 500;
-      color: #374151;
-      cursor: pointer;
-      transition: border-color 0.15s, background 0.15s;
-    }
-
-    button.secondary:hover { border-color: #008060; color: #008060; }
-    button.secondary:disabled { opacity: 0.5; cursor: not-allowed; }
-
-    .error-msg {
-      display: none;
-      margin-top: 16px;
-      padding: 12px 14px;
-      background: #fef2f2;
-      border: 1.5px solid #fecaca;
-      border-radius: 8px;
-      font-size: 14px;
-      color: #dc2626;
-    }
-
-    .sent-msg {
-      display: none;
-      margin-top: 10px;
-      font-size: 13px;
-      color: #059669;
-      text-align: center;
-    }
-
-    .divider {
-      height: 1px;
-      background: #f3f4f6;
-      margin: 20px 0;
-    }
-
-    footer {
-      margin-top: 32px;
-      font-size: 12px;
-      color: #9ca3af;
-      text-align: center;
-    }
-
-    footer a { color: #6b7280; text-decoration: none; }
-    footer a:hover { text-decoration: underline; }
-
-    .data-sources {
-      margin-top: 16px;
-      padding: 10px 12px;
-      background: #f9fafb;
-      border-radius: 6px;
-      font-size: 12px;
-      color: #9ca3af;
-      line-height: 1.6;
-    }
-
-    .data-sources strong { color: #6b7280; font-weight: 600; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopiTrust Leaderboard</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 100%);
+            color: #e1e1e6;
+            min-height: 100vh;
+        }
+        .header {
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #a855f7 100%);
+            padding: 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+        }
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            position: relative;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        .header h1 .emoji {
+            font-size: 2rem;
+        }
+        .header p {
+            opacity: 0.9;
+            margin-top: 0.5rem;
+            position: relative;
+        }
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1rem;
+            position: relative;
+        }
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.15);
+            transition: background 0.2s;
+        }
+        .nav-links a:hover {
+            background: rgba(255,255,255,0.25);
+        }
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            padding: 1.5rem;
+            background: rgba(255,255,255,0.05);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            flex-wrap: wrap;
+        }
+        .stat {
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #6366f1, #a855f7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .stat-label {
+            font-size: 0.75rem;
+            color: #9ca3af;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .main-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+            display: grid;
+            grid-template-columns: 1fr 350px;
+            gap: 2rem;
+        }
+        @media (max-width: 1024px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+        }
+        .leaderboard-section {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+            overflow: hidden;
+        }
+        .section-header {
+            padding: 1rem 1.5rem;
+            background: rgba(255,255,255,0.05);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+        .controls {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+        }
+        .search-input {
+            padding: 0.5rem 1rem;
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            background: rgba(0,0,0,0.3);
+            color: white;
+            font-size: 0.875rem;
+            width: 200px;
+        }
+        .search-input::placeholder {
+            color: #6b7280;
+        }
+        .search-input:focus {
+            outline: none;
+            border-color: #6366f1;
+        }
+        .filter-select {
+            padding: 0.5rem 1rem;
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            background: rgba(0,0,0,0.3);
+            color: white;
+            font-size: 0.875rem;
+        }
+        .leaderboard-table {
+            width: 100%;
+        }
+        .leaderboard-table th {
+            padding: 1rem;
+            text-align: left;
+            font-weight: 600;
+            color: #9ca3af;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            cursor: pointer;
+        }
+        .leaderboard-table th:hover {
+            color: #e1e1e6;
+        }
+        .leaderboard-table td {
+            padding: 1rem;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .leaderboard-table tr:hover {
+            background: rgba(255,255,255,0.03);
+        }
+        .rank-cell {
+            width: 60px;
+            text-align: center;
+        }
+        .rank {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            font-weight: 700;
+            font-size: 0.875rem;
+        }
+        .rank-1 { background: linear-gradient(135deg, #fbbf24, #f59e0b); color: #1a1a1a; }
+        .rank-2 { background: linear-gradient(135deg, #9ca3af, #6b7280); color: #1a1a1a; }
+        .rank-3 { background: linear-gradient(135deg, #cd7c32, #a0522d); color: white; }
+        .rank-other { background: rgba(255,255,255,0.1); }
+        .name-cell {
+            font-weight: 500;
+        }
+        .name-cell a {
+            color: #e1e1e6;
+            text-decoration: none;
+        }
+        .name-cell a:hover {
+            color: #a855f7;
+        }
+        .dept-badge {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            background: rgba(99, 102, 241, 0.2);
+            color: #a5b4fc;
+        }
+        .score-cell {
+            text-align: center;
+        }
+        .score {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+        .score-high { color: #34d399; }
+        .score-good { color: #60a5fa; }
+        .score-mid { color: #fbbf24; }
+        .score-low { color: #f87171; }
+        .trend-cell {
+            text-align: center;
+            width: 80px;
+        }
+        .trend {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+        .trend-up { color: #34d399; }
+        .trend-down { color: #f87171; }
+        .trend-flat { color: #9ca3af; }
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        .sidebar-card {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 1.5rem;
+        }
+        .sidebar-card h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: #9ca3af;
+        }
+        .dept-list {
+            list-style: none;
+        }
+        .dept-list li {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+            font-size: 0.875rem;
+        }
+        .dept-list li:last-child {
+            border-bottom: none;
+        }
+        .score-distribution {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .dist-bar {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.75rem;
+        }
+        .dist-label {
+            width: 80px;
+            color: #9ca3af;
+        }
+        .dist-bar-bg {
+            flex: 1;
+            height: 8px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .dist-bar-fill {
+            height: 100%;
+            border-radius: 4px;
+        }
+        .dist-high { background: #34d399; }
+        .dist-good { background: #60a5fa; }
+        .dist-mid { background: #fbbf24; }
+        .dist-low { background: #f87171; }
+        .dist-count {
+            width: 40px;
+            text-align: right;
+            color: #9ca3af;
+        }
+        .chart-container {
+            height: 200px;
+            position: relative;
+        }
+        .mini-chart {
+            display: flex;
+            align-items: flex-end;
+            height: 100%;
+            gap: 2px;
+        }
+        .chart-bar {
+            flex: 1;
+            background: linear-gradient(to top, #6366f1, #a855f7);
+            border-radius: 2px 2px 0 0;
+            min-height: 4px;
+        }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 1rem;
+            flex-wrap: wrap;
+        }
+        .pagination button {
+            padding: 0.5rem 1rem;
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            background: rgba(0,0,0,0.3);
+            color: white;
+            cursor: pointer;
+            font-size: 0.875rem;
+        }
+        .pagination button:hover:not(:disabled) {
+            background: rgba(99, 102, 241, 0.3);
+            border-color: #6366f1;
+        }
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .pagination button.active {
+            background: #6366f1;
+            border-color: #6366f1;
+        }
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #6b7280;
+        }
+        .disclaimer {
+            text-align: center;
+            padding: 2rem;
+            color: #6b7280;
+            font-size: 0.75rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+    </style>
 </head>
 <body>
-
-<header>
-  <h1>🔋 ShopiTrust</h1>
-  <p>Check your trust battery with a colleague — grounded in real Slack, email, and calendar signals.</p>
-</header>
-
-<div class="card">
-  <div class="input-row">
-    <input type="text" id="nameInput" placeholder="Enter a colleague's name…" autocomplete="off" />
-    <button class="primary" id="checkBtn" onclick="runCheck()">Check</button>
-  </div>
-
-  <div class="loading" id="loading">
-    <div class="spinner"></div><br/>
-    Pulling signals from Slack, email, and calendar…
-  </div>
-
-  <div class="error-msg" id="errorMsg"></div>
-
-  <div class="result" id="result">
-    <div class="score-block" id="scoreBlock">
-      <div class="score-header">
-        <span class="score-name" id="scoreName"></span>
-        <span class="score-number" id="scoreNumber"></span>
-      </div>
-      <div class="score-bar" id="scoreBar"></div>
-      <div class="score-label" id="scoreLabel"></div>
+    <div class="header">
+        <h1><span class="emoji">🏆</span> ShopiTrust Leaderboard</h1>
+        <p>Trust scores based on Slack communication patterns</p>
+        <div class="nav-links">
+            <a href="index.html">🏆 Leaderboard</a>
+            <a href="peer.html">🔋 Battery Check</a>
+            <a href="about.html">ℹ️ About</a>
+        </div>
     </div>
 
-    <div class="section">
-      <div class="section-title">What moved it</div>
-      <div class="section-body" id="keyDriver"></div>
+    <div class="stats-bar">
+        <div class="stat">
+            <div class="stat-value" id="total-employees">-</div>
+            <div class="stat-label">Employees Scored</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value" id="mean-score">-</div>
+            <div class="stat-label">Mean Score</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value" id="high-trust">-</div>
+            <div class="stat-label">High Trust (8+)</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value" id="date-range">-</div>
+            <div class="stat-label">Data Window</div>
+        </div>
     </div>
 
-    <div class="divider"></div>
+    <div class="main-content">
+        <div class="leaderboard-section">
+            <div class="section-header">
+                <div class="section-title">🎯 Rankings</div>
+                <div class="controls">
+                    <input type="text" class="search-input" id="search" placeholder="Search by name...">
+                    <select class="filter-select" id="dept-filter">
+                        <option value="">All Departments</option>
+                    </select>
+                </div>
+            </div>
+            <table class="leaderboard-table">
+                <thead>
+                    <tr>
+                        <th class="rank-cell">Rank</th>
+                        <th>Name</th>
+                        <th>Department</th>
+                        <th class="score-cell">Score</th>
+                        <th class="score-cell">7d Avg</th>
+                        <th class="trend-cell">Trend</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <tr><td colspan="6" class="loading">Loading leaderboard...</td></tr>
+                </tbody>
+            </table>
+            <div class="pagination" id="pagination"></div>
+        </div>
 
-    <div class="section">
-      <div class="section-title">Today's tip</div>
-      <div class="tip-card">
-        <div class="tip-action" id="tipAction"></div>
-        <div class="tip-why" id="tipWhy"></div>
-      </div>
+        <div class="sidebar">
+            <div class="sidebar-card">
+                <h3>📊 Score Distribution</h3>
+                <div class="score-distribution" id="distribution">
+                    <!-- Filled by JS -->
+                </div>
+            </div>
+            
+            <div class="sidebar-card">
+                <h3>🏢 Department Averages</h3>
+                <ul class="dept-list" id="dept-averages">
+                    <!-- Filled by JS -->
+                </ul>
+            </div>
+
+
+        </div>
     </div>
 
-    <div class="actions">
-      <button class="secondary" id="slackBtn" onclick="sendToSlack()">📬 Send to my Slack</button>
-      <button class="secondary" onclick="reset()">↩ Check someone else</button>
+    <div class="disclaimer">
+        ⚠️ ShopiTrust scores are experimental metrics based on Slack communication patterns. 
+        They should not be used for HR, performance, or personnel decisions.
+        <br>Last updated: <span id="last-updated">-</span>
     </div>
-    <div class="sent-msg" id="sentMsg">✓ Sent to your Slack DM</div>
 
-    <div class="data-sources" id="dataSources"></div>
-  </div>
-</div>
+    <script>
+        let trustData = null;
+        let allScores = [];
+        let filteredScores = [];
+        let currentPage = 1;
+        const pageSize = 25;
 
-<footer>
-  Built with <a href="https://github.com/Ratnachem/shopitrust" target="_blank">ShopiTrust</a> ·
-  Inspired by the trust battery concept from Tobi Lütke
-</footer>
-
-<script src="/client/quick.js"></script>
-<script>
-  const SKILL_PROMPT = `You are ShopiTrust, a tool that assesses someone's trust battery with a colleague at Shopify.
-
-The trust battery starts at 0.5 (neutral) and moves based on real interaction signals.
-
-SCORING RULES:
-- Start at 0.5
-- Only move the score based on actual interactions — absence of interaction is neutral (stays 0.5)
-
-SIGNAL DECAY — multiply every adjustment by the age of the interaction:
-- Last 1–2 weeks: 1.0× (full weight)
-- 2–4 weeks ago: 0.5× (half weight)
-- Older than 4 weeks: 0.25× (quarter weight)
-
-Example: an unanswered message from 3 weeks ago = -0.10 × 0.5 = -0.05
-
-Charging signals (move score UP):
-- Responded quickly (<24h) to their last Slack/email: +0.05
-- Closed an open loop from a previous interaction: +0.07
-- Acknowledged their work or gave them a shoutout recently: +0.08
-- Proactively shared something useful for them: +0.06
-- Regular 1:1 cadence in past 30 days (2+ meetings): +0.07
-- Have met at least once in the last 30 days: +0.05
-- Followed through on a commitment they can verify: +0.08
-
-Draining signals (move score DOWN) — only if there was actual interaction:
-- Unanswered message/email from them sitting >2 days with NO reaction: -0.10
-- Commitment made in Slack/email with no follow-up and no acknowledgment: -0.08
-- Cancelled or rescheduled a shared meeting without rescheduling: -0.05
-
-RECENCY GRACE PERIOD — do NOT apply draining signals for asks or commitments sent in the last 6 hours:
-- If a message asking for something or a commitment was sent less than 6 hours ago, ignore it for scoring purposes — there has been no reasonable time to complete it.
-- This applies to: requests, asks, action items, commitments, "can you..." messages.
-- Recent conversation tone, quick replies, and acknowledgments from the last 6 hours are still valid positive signals.
-
-IMPORTANT — emoji reactions count as acknowledgment:
-- If you reacted to their message with any emoji (👍 ✅ 👀 🙏 etc.), that message is NOT an open loop — it means you saw it and acknowledged it. Do NOT score it as unanswered.
-- Reactions like ✅ or 🙏 are strong positive signals — treat them the same as a quick reply (+0.05).
-- Reactions like 👀 or 🔜 signal "on it" — neutral, not a drain.
-- A message with a reaction from you followed by NO further action on a substantive ask is a partial close — reduce the drain by half (-0.05 instead of -0.10).
-
-Do NOT over-index on the most recent single interaction. Look at the overall pattern across all messages.
-
-Respond ONLY with valid JSON in this exact format:
-{
-  "score": 0.62,
-  "name": "Person Name",
-  "label": "🟢 Healthy — keep it up",
-  "colorClass": "green",
-  "keyDriver": "One sentence about the biggest signal that moved the score",
-  "tipAction": "One specific action to take today",
-  "tipWhy": "One sentence explaining why this charges the trust battery"
-}
-
-colorClass must be one of: "red" (0.0-0.3), "yellow" (0.3-0.5), "green" (0.5-0.7), "strong" (0.7-0.9), "epic" (0.9-1.0)
-
-Be honest. Base the score on signals from the context provided. If no interaction data is available, score stays at 0.5 with a tip focused on making a first meaningful connection.`;
-
-  let currentResult = null;
-  let currentUser = null;
-
-  quick.id.waitForUser().then(user => {
-    currentUser = user;
-  }).catch(() => {});
-
-  document.getElementById("nameInput").addEventListener("keydown", (e) => {
-    if (e.key === "Enter") runCheck();
-  });
-
-  async function slackSearch(token, query, count = 20) {
-    const res = await quick.http.post("https://slack.com/api/search.messages", {
-      headers: {
-        Authorization: `Bearer ${token.access_token}`,
-        "Content-Type": "application/x-www-form-urlencoded",
-      },
-      body: `query=${encodeURIComponent(query)}&count=${count}&sort=timestamp&sort_dir=desc`,
-    });
-    const data = await res.json();
-    return data.ok ? (data.messages?.matches || []) : [];
-  }
-
-  async function fetchDMHistory(token, firstName, oldestTs) {
-    // Find the DM channel with this person
-    const res = await quick.http.post("https://slack.com/api/conversations.list", {
-      headers: {
-        Authorization: `Bearer ${token.access_token}`,
-        "Content-Type": "application/x-www-form-urlencoded",
-      },
-      body: "types=im&limit=200&exclude_archived=true",
-    });
-    const data = await res.json();
-    if (!data.ok) return [];
-
-    // Find matching DM by user name in the channel list
-    // We look up each IM's user info to match by name
-    const channels = data.channels || [];
-    for (const ch of channels) {
-      const userRes = await quick.http.post("https://slack.com/api/users.info", {
-        headers: {
-          Authorization: `Bearer ${token.access_token}`,
-          "Content-Type": "application/x-www-form-urlencoded",
-        },
-        body: `user=${ch.user}`,
-      });
-      const userData = await userRes.json();
-      const profile = userData.user?.profile;
-      const name = (profile?.real_name || profile?.display_name || "").toLowerCase();
-      if (name.includes(firstName.toLowerCase())) {
-        // Found the DM — get history going back 30 days
-        const histRes = await quick.http.post("https://slack.com/api/conversations.history", {
-          headers: {
-            Authorization: `Bearer ${token.access_token}`,
-            "Content-Type": "application/x-www-form-urlencoded",
-          },
-          body: `channel=${ch.id}&limit=50&oldest=${oldestTs}`,
-        });
-        const histData = await histRes.json();
-        return histData.ok ? (histData.messages || []) : [];
-      }
-    }
-    return [];
-  }
-
-  function formatMessages(messages, label, mySlackId) {
-    if (!messages.length) return "";
-    const lines = messages.slice(0, 20).map(m => {
-      const date = new Date(parseFloat(m.ts) * 1000).toLocaleDateString();
-      const isMe = mySlackId && m.user === mySlackId;
-      const author = isMe ? "YOU" : (m.username || m.user || "them");
-      const channel = m.channel?.name ? `#${m.channel.name}` : label;
-      const text = (m.text || "").slice(0, 250).replace(/\n/g, " ");
-
-      // Split reactions into mine vs others
-      const myReactions = (m.reactions || [])
-        .filter(r => mySlackId && r.users?.includes(mySlackId))
-        .map(r => `:${r.name}:`);
-      const otherReactions = (m.reactions || [])
-        .filter(r => !mySlackId || !r.users?.includes(mySlackId))
-        .map(r => `:${r.name}: (${r.count})`);
-
-      const reactionParts = [];
-      if (myReactions.length) reactionParts.push(`YOU reacted: ${myReactions.join(" ")}`);
-      if (otherReactions.length) reactionParts.push(`others reacted: ${otherReactions.join(" ")}`);
-      const reactionStr = reactionParts.length ? ` [${reactionParts.join(" | ")}]` : "";
-
-      return `[${date}] ${channel} — ${author}: ${text}${reactionStr}`;
-    });
-    return lines.join("\n");
-  }
-
-  // search.messages strips reaction data — must fetch separately per message
-  async function enrichWithReactions(token, messages) {
-    return Promise.all(messages.slice(0, 15).map(async (m) => {
-      if (!m.channel?.id || !m.ts) return m;
-      try {
-        const res = await quick.http.post("https://slack.com/api/reactions.get", {
-          headers: {
-            Authorization: `Bearer ${token.access_token}`,
-            "Content-Type": "application/x-www-form-urlencoded",
-          },
-          body: `channel=${m.channel.id}&timestamp=${m.ts}&full=true`,
-        });
-        const data = await res.json();
-        if (data.ok && data.message?.reactions?.length) {
-          return { ...m, reactions: data.message.reactions };
+        // Load adjustments from localStorage
+        function getAdjustments() {
+            return JSON.parse(localStorage.getItem('trustScoreAdjustments') || '[]');
         }
-      } catch (e) {}
-      return m;
-    }));
-  }
 
-  async function fetchSlackSignals(name, mySlackId) {
-    try {
-      const token = await quick.auth.slack.getToken(["search:read", "reactions:read", "channels:history", "im:history", "users:read"]);
-      if (!token?.access_token) return null;
+        // Apply adjustments to a user's score
+        function applyAdjustments(userName, baseScore) {
+            const adjustments = getAdjustments();
+            let adjustedScore = baseScore;
+            adjustments.filter(a => a.userName === userName).forEach(adj => {
+                if (adj.type === 'add') adjustedScore += adj.value;
+                else if (adj.type === 'subtract') adjustedScore -= adj.value;
+                else if (adj.type === 'set') adjustedScore = adj.value;
+            });
+            return Math.max(0, Math.min(10, adjustedScore));
+        }
 
-      // Get the actual Slack User ID (U0XXXXXX format) — quick.id.slackId may return a handle, not the ID
-      let resolvedSlackId = mySlackId;
-      try {
-        const authRes = await quick.http.post("https://slack.com/api/auth.test", {
-          headers: { Authorization: `Bearer ${token.access_token}`, "Content-Type": "application/x-www-form-urlencoded" },
-          body: "",
-        });
-        const authData = await authRes.json();
-        if (authData.ok && authData.user_id) resolvedSlackId = authData.user_id;
-      } catch (e) {}
+        async function loadData() {
+            try {
+                const response = await fetch('data/trust_scores.json');
+                trustData = await response.json();
+                initializeApp();
+            } catch (e) {
+                console.error('Failed to load trust scores:', e);
+                document.getElementById('table-body').innerHTML = 
+                    '<tr><td colspan="6" class="loading">Error loading data. Make sure data/trust_scores.json exists.</td></tr>';
+            }
+        }
 
-      const firstName = name.split(" ")[0];
+        function initializeApp() {
+            // Update stats
+            document.getElementById('total-employees').textContent = trustData.employee_count.toLocaleString();
+            document.getElementById('mean-score').textContent = trustData.stats.mean.toFixed(1);
+            document.getElementById('high-trust').textContent = trustData.stats.high_trust_count.toLocaleString();
+            document.getElementById('date-range').textContent = '30 days';
+            document.getElementById('last-updated').textContent = new Date(trustData.generated_at).toLocaleString();
 
-      // Look back 30 days, split into two buckets to avoid active people filling up with only recent msgs
-      const thirtyDaysAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000);
-      const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
-      const afterRecent = sevenDaysAgo.toISOString().split("T")[0];    // last 7 days
-      const afterOlder  = thirtyDaysAgo.toISOString().split("T")[0];   // 7–30 days ago
-      const beforeOlder = afterRecent;                                   // cap older bucket at 7 days ago
-      const oldestTs = Math.floor(thirtyDaysAgo.getTime() / 1000);
+            // Build full leaderboard from scores with adjustments applied
+            allScores = Object.entries(trustData.scores).map(([name, data]) => ({
+                name,
+                rank: data.rank,
+                score: applyAdjustments(name, data.current),
+                baseScore: data.current,
+                avg_7d: data.avg_7d,
+                trend: data.trend,
+                department: data.department,
+                daily: data.daily,
+            })).sort((a, b) => b.score - a.score);  // Re-sort by adjusted score
+            
+            // Re-assign ranks after adjustment
+            allScores.forEach((item, idx) => item.rank = idx + 1);
 
-      setLoadingText("Searching Slack messages…");
-      const [mentionRecent, mentionOlder, fromRecent, fromOlder] = await Promise.all([
-        slackSearch(token, `${name} after:${afterRecent}`, 25),
-        slackSearch(token, `${name} after:${afterOlder} before:${beforeOlder}`, 25),
-        slackSearch(token, `from:${firstName} after:${afterRecent}`, 25),
-        slackSearch(token, `from:${firstName} after:${afterOlder} before:${beforeOlder}`, 25),
-      ]);
+            // Populate department filter
+            const deptSelect = document.getElementById('dept-filter');
+            Object.keys(trustData.department_averages).forEach(dept => {
+                const opt = document.createElement('option');
+                opt.value = dept;
+                opt.textContent = dept;
+                deptSelect.appendChild(opt);
+            });
 
-      // Deduplicate by ts in case of overlap
-      const dedup = (a, b) => {
-        const seen = new Set(a.map(m => m.ts));
-        return [...a, ...b.filter(m => !seen.has(m.ts))];
-      };
-      const mentionResults = dedup(mentionRecent, mentionOlder);
-      const fromResults = dedup(fromRecent, fromOlder);
+            // Render sidebar
+            renderDistribution();
+            renderDeptAverages();
 
-      setLoadingText("Fetching reactions…");
-      const [mentionsEnriched, fromsEnriched] = await Promise.all([
-        enrichWithReactions(token, mentionResults),
-        enrichWithReactions(token, fromResults),
-      ]);
 
-      setLoadingText("Fetching DM history…");
-      const dmMessages = await fetchDMHistory(token, firstName, oldestTs);
+            // Set up event listeners
+            document.getElementById('search').addEventListener('input', debounce(applyFilters, 300));
+            document.getElementById('dept-filter').addEventListener('change', applyFilters);
 
-      const sections = [];
-      const mentions = formatMessages(mentionsEnriched, "channel", resolvedSlackId);
-      if (mentions) sections.push(`Channel mentions of "${name}":\n${mentions}`);
+            applyFilters();
+        }
 
-      const froms = formatMessages(fromsEnriched, "channel", resolvedSlackId);
-      if (froms) sections.push(`Recent messages from "${firstName}" across channels:\n${froms}`);
+        function applyFilters() {
+            const searchTerm = document.getElementById('search').value.toLowerCase();
+            const deptFilter = document.getElementById('dept-filter').value;
 
-      if (dmMessages.length) {
-        const dms = formatMessages(dmMessages, "DM", resolvedSlackId);
-        sections.push(`Direct message history with "${firstName}" (YOU = ${currentUser?.fullName || "you"}):\n${dms}`);
-      }
+            filteredScores = allScores.filter(emp => {
+                if (searchTerm && !emp.name.toLowerCase().includes(searchTerm)) return false;
+                if (deptFilter && emp.department !== deptFilter) return false;
+                return true;
+            });
 
-      // Date range from full raw results (not capped by enrichment)
-      const allRaw = [...mentionResults, ...fromResults, ...dmMessages];
-      const timestamps = allRaw.map(m => parseFloat(m.ts) * 1000).filter(Boolean).sort();
-      const oldest = timestamps.length ? new Date(timestamps[0]).toLocaleDateString() : null;
-      const newest = timestamps.length ? new Date(timestamps[timestamps.length - 1]).toLocaleDateString() : null;
+            currentPage = 1;
+            renderTable();
+        }
 
-      const meta = {
-        mentions: mentionResults.length,
-        from: fromResults.length,
-        dms: dmMessages.length,
-        total: allRaw.length,
-        oldest,
-        newest,
-      };
+        function getScoreClass(score) {
+            if (score >= 8.0) return 'score-high';
+            if (score >= 6.0) return 'score-good';
+            if (score >= 4.0) return 'score-mid';
+            return 'score-low';
+        }
 
-      if (!sections.length) return { context: `No recent Slack activity found involving "${name}".`, meta };
-      return { context: sections.join("\n\n"), meta };
-    } catch (e) {
-      console.warn("Slack fetch failed:", e);
-      return null;
-    }
-  }
+        function getRankClass(rank) {
+            if (rank === 1) return 'rank-1';
+            if (rank === 2) return 'rank-2';
+            if (rank === 3) return 'rank-3';
+            return 'rank-other';
+        }
 
-  function setLoadingText(text) {
-    const el = document.querySelector(".loading");
-    if (el) el.childNodes[2].textContent = text;
-  }
+        function getTrendHtml(trend) {
+            if (trend > 0.1) return `<span class="trend trend-up">↑ +${trend.toFixed(2)}</span>`;
+            if (trend < -0.1) return `<span class="trend trend-down">↓ ${trend.toFixed(2)}</span>`;
+            return `<span class="trend trend-flat">→ ${trend.toFixed(2)}</span>`;
+        }
 
-  async function runCheck() {
-    const name = document.getElementById("nameInput").value.trim();
-    if (!name) return;
+        function renderTable() {
+            const tbody = document.getElementById('table-body');
+            const start = (currentPage - 1) * pageSize;
+            const end = start + pageSize;
+            const pageData = filteredScores.slice(start, end);
 
-    document.getElementById("checkBtn").disabled = true;
-    document.getElementById("loading").style.display = "block";
-    document.getElementById("result").style.display = "none";
-    document.getElementById("errorMsg").style.display = "none";
-    document.getElementById("sentMsg").style.display = "none";
+            if (pageData.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="6" class="loading">No employees match your filters</td></tr>';
+            } else {
+                tbody.innerHTML = pageData.map(emp => `
+                    <tr>
+                        <td class="rank-cell">
+                            <span class="rank ${getRankClass(emp.rank)}">${emp.rank}</span>
+                        </td>
+                        <td class="name-cell">
+                            <a href="user.html?name=${encodeURIComponent(emp.name)}">${escapeHtml(emp.name)}</a>
+                        </td>
+                        <td><span class="dept-badge">${escapeHtml(emp.department)}</span></td>
+                        <td class="score-cell">
+                            <span class="score ${getScoreClass(emp.score)}">${emp.score.toFixed(2)}</span>
+                        </td>
+                        <td class="score-cell">${emp.avg_7d.toFixed(2)}</td>
+                        <td class="trend-cell">${getTrendHtml(emp.trend)}</td>
+                    </tr>
+                `).join('');
+            }
 
-    try {
-      setLoadingText("Authorizing Slack access…");
-      const slackResult = await fetchSlackSignals(name, currentUser?.slackId);
+            renderPagination();
+        }
 
-      setLoadingText("Scoring trust battery…");
+        function renderPagination() {
+            const totalPages = Math.ceil(filteredScores.length / pageSize);
+            const pagination = document.getElementById('pagination');
+            
+            if (totalPages <= 1) {
+                pagination.innerHTML = '';
+                return;
+            }
 
-      const userContext = currentUser
-        ? `The person running this check is ${currentUser.fullName} (${currentUser.email}).`
-        : "";
+            let html = '';
+            html += `<button ${currentPage === 1 ? 'disabled' : ''} onclick="goToPage(${currentPage - 1})">← Prev</button>`;
+            
+            const range = getPageRange(currentPage, totalPages);
+            for (let i = range[0]; i <= range[1]; i++) {
+                html += `<button class="${i === currentPage ? 'active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+            }
+            
+            html += `<button ${currentPage === totalPages ? 'disabled' : ''} onclick="goToPage(${currentPage + 1})">Next →</button>`;
+            
+            pagination.innerHTML = html;
+        }
 
-      const slackContext = slackResult
-        ? `\n\nSLACK DATA:\n${slackResult.context}`
-        : "\n\nSLACK DATA: Not available — score based on no interaction data, keep at 0.5.";
+        function getPageRange(current, total) {
+            const delta = 2;
+            const start = Math.max(1, current - delta);
+            const end = Math.min(total, current + delta);
+            return [start, end];
+        }
 
-      const response = await quick.ai.chat(
-        [
-          { role: "system", content: SKILL_PROMPT },
-          {
-            role: "user",
-            content: `${userContext}${slackContext}\n\nNow assess the trust battery for: ${name}\n\nBase your score strictly on the Slack data above. Look for: unanswered messages, open loops, quick replies, shoutouts, commitments. If a message from them has no reply from ${currentUser?.firstName || "the user"}, flag it as a draining signal.`
-          }
-        ],
-        { model: "claude-sonnet-4-6" }
-      );
+        function goToPage(page) {
+            currentPage = page;
+            renderTable();
+        }
 
-      const raw = response.choices[0].message.content;
-      // Extract JSON object from anywhere in the response
-      const match = raw.match(/\{[\s\S]*\}/);
-      if (!match) throw new Error("No JSON found in response");
-      currentResult = JSON.parse(match[0]);
-      renderResult(currentResult, slackResult?.meta);
-    } catch (err) {
-      document.getElementById("errorMsg").textContent =
-        "Something went wrong: " + (err.message || "check the console");
-      document.getElementById("errorMsg").style.display = "block";
-      console.error(err);
-    } finally {
-      document.getElementById("loading").style.display = "none";
-      document.getElementById("checkBtn").disabled = false;
-    }
-  }
+        function renderDistribution() {
+            const container = document.getElementById('distribution');
+            const total = trustData.employee_count;
+            
+            const ranges = [
+                { label: '8.0 - 10.0', class: 'dist-high', count: trustData.stats.high_trust_count },
+                { label: '6.0 - 7.9', class: 'dist-good', count: 0 },
+                { label: '4.0 - 5.9', class: 'dist-mid', count: 0 },
+                { label: '0.0 - 3.9', class: 'dist-low', count: trustData.stats.low_trust_count },
+            ];
+            
+            // Calculate middle ranges
+            let counted = ranges[0].count + ranges[3].count;
+            Object.values(trustData.scores).forEach(s => {
+                if (s.current >= 6.0 && s.current < 8.0) ranges[1].count++;
+                else if (s.current >= 4.0 && s.current < 6.0) ranges[2].count++;
+            });
 
-  function renderResult(data, meta) {
-    document.getElementById("scoreName").textContent = data.name;
-    document.getElementById("scoreNumber").textContent = data.score.toFixed(2);
-    document.getElementById("scoreLabel").textContent = data.label;
-    document.getElementById("keyDriver").textContent = data.keyDriver;
-    document.getElementById("tipAction").textContent = data.tipAction;
-    document.getElementById("tipWhy").textContent = data.tipWhy;
+            container.innerHTML = ranges.map(r => `
+                <div class="dist-bar">
+                    <span class="dist-label">${r.label}</span>
+                    <div class="dist-bar-bg">
+                        <div class="dist-bar-fill ${r.class}" style="width: ${(r.count / total * 100)}%"></div>
+                    </div>
+                    <span class="dist-count">${r.count}</span>
+                </div>
+            `).join('');
+        }
 
-    // Score bar
-    const bar = document.getElementById("scoreBar");
-    bar.innerHTML = "";
-    const filled = Math.round(data.score * 10);
-    for (let i = 0; i < 10; i++) {
-      const block = document.createElement("div");
-      block.className = "bar-block" + (i < filled ? ` filled ${data.colorClass}` : "");
-      bar.appendChild(block);
-    }
+        function renderDeptAverages() {
+            const container = document.getElementById('dept-averages');
+            container.innerHTML = Object.entries(trustData.department_averages).map(([dept, avg]) => `
+                <li>
+                    <span>${dept}</span>
+                    <span class="${getScoreClass(avg)}">${avg.toFixed(2)}</span>
+                </li>
+            `).join('');
+        }
 
-    const scoreBlock = document.getElementById("scoreBlock");
-    scoreBlock.className = `score-block ${data.colorClass}`;
 
-    // Data sources summary
-    const sourcesEl = document.getElementById("dataSources");
-    if (meta && meta.total > 0) {
-      const parts = [];
-      if (meta.mentions) parts.push(`${meta.mentions} channel mention${meta.mentions !== 1 ? "s" : ""}`);
-      if (meta.from) parts.push(`${meta.from} msg${meta.from !== 1 ? "s" : ""} from them`);
-      if (meta.dms) parts.push(`${meta.dms} DM${meta.dms !== 1 ? "s" : ""}`);
-      const dateRange = meta.oldest && meta.newest && meta.oldest !== meta.newest
-        ? ` · ${meta.oldest} – ${meta.newest}`
-        : meta.newest ? ` · as of ${meta.newest}` : "";
-      sourcesEl.innerHTML = `<strong>Based on:</strong> ${parts.join(" · ")}${dateRange} · Slack`;
-      sourcesEl.style.display = "block";
-    } else if (meta) {
-      sourcesEl.innerHTML = `<strong>Based on:</strong> No Slack data found — score is baseline 0.5`;
-      sourcesEl.style.display = "block";
-    } else {
-      sourcesEl.style.display = "none";
-    }
 
-    document.getElementById("result").style.display = "block";
-  }
+        function showDetail(name) {
+            window.location.href = `user.html?name=${encodeURIComponent(name)}`;
+        }
 
-  async function sendToSlack() {
-    if (!currentResult) return;
-    const btn = document.getElementById("slackBtn");
-    btn.disabled = true;
-    btn.textContent = "Sending…";
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text || '';
+            return div.innerHTML;
+        }
 
-    const bar = "▓".repeat(Math.round(currentResult.score * 10)) +
-                "░".repeat(10 - Math.round(currentResult.score * 10));
+        function debounce(func, wait) {
+            let timeout;
+            return function(...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => func.apply(this, args), wait);
+            };
+        }
 
-    const msg = `🔋 *Trust Battery: ${currentResult.name}*\nScore: ${currentResult.score.toFixed(2)} ${bar}\n${currentResult.label}\n\n*What moved it:* ${currentResult.keyDriver}\n\n*Today's tip:* ${currentResult.tipAction}\n_${currentResult.tipWhy}_`;
-
-    try {
-      const target = currentUser?.slackId || currentUser?.email;
-      if (target) {
-        await quick.slack.sendMessage(target, msg);
-        document.getElementById("sentMsg").style.display = "block";
-      } else {
-        throw new Error("Could not determine your Slack identity");
-      }
-    } catch (err) {
-      document.getElementById("sentMsg").textContent = "⚠ Could not send — copy it manually above";
-      document.getElementById("sentMsg").style.display = "block";
-      console.error(err);
-    }
-
-    btn.textContent = "📬 Send to my Slack";
-    btn.disabled = false;
-  }
-
-  function reset() {
-    document.getElementById("nameInput").value = "";
-    document.getElementById("result").style.display = "none";
-    document.getElementById("errorMsg").style.display = "none";
-    document.getElementById("sentMsg").style.display = "none";
-    document.getElementById("nameInput").focus();
-    currentResult = null;
-  }
-</script>
+        loadData();
+    </script>
 </body>
 </html>

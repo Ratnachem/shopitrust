@@ -1,0 +1,209 @@
+{
+  "username": "luka.cadjenovic",
+  "name": "Luka Cadjenovic",
+  "generated_at": "2026-04-08T20:22:28.756743",
+  "summary": {
+    "message_count": 78,
+    "channels_active": 9,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, appreciate it. The reason why it is hard to find affected shops is because this data is in Bigtable and we can't query it. We have a",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thank you, appreciate it. The reason why it is hard to find affected shops is because this data is in Bigtable and we can't query it. We have a",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello team, we noticed that one of the shops in Catalog API was missing `shop_billing_settings` information, even though it is a valid shop with",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "koen.bouwmans",
+          "count": 4
+        },
+        {
+          "user": "shotaro.kamio",
+          "count": 3
+        },
+        {
+          "user": "samantha.john",
+          "count": 2
+        },
+        {
+          "user": "alex.watt",
+          "count": 2
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 2
+        },
+        {
+          "user": "amit.dandekar",
+          "count": 1
+        },
+        {
+          "user": "joe.navetta",
+          "count": 1
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 1
+        },
+        {
+          "user": "katherine.bailey",
+          "count": 1
+        },
+        {
+          "user": "abigail.stone",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.51,
+      "count": 119,
+      "top_channels": [
+        {
+          "channel": "catalog-platform-team-prs",
+          "messages": 20
+        },
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 16
+        },
+        {
+          "channel": "help-shopify-catalog",
+          "messages": 12
+        },
+        {
+          "channel": "temp-catalog-index-expansion",
+          "messages": 11
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 8
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 5
+        },
+        {
+          "channel": "catalog-api-team-ops",
+          "messages": 4
+        },
+        {
+          "channel": "merch-x-catalog",
+          "messages": 1
+        },
+        {
+          "channel": "proj-catalogue-bulk-lookup",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "cheng.yuan",
+          "count": 7
+        },
+        {
+          "user": "abigail.stone",
+          "count": 4
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 4
+        },
+        {
+          "user": "emily.dawson",
+          "count": 2
+        },
+        {
+          "user": "alex.watt",
+          "count": 2
+        },
+        {
+          "user": "mariya.mansurova",
+          "count": 2
+        },
+        {
+          "user": "amit.dandekar",
+          "count": 1
+        },
+        {
+          "user": "aibo.li",
+          "count": 1
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 1
+        },
+        {
+          "user": "samantha.john",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 5,
+      "9": 9,
+      "7": 10,
+      "16": 1,
+      "15": 12,
+      "13": 4,
+      "14": 8,
+      "6": 1,
+      "11": 1,
+      "8": 12,
+      "18": 5,
+      "12": 5,
+      "17": 5
+    },
+    "by_day": {
+      "Tuesday": 25,
+      "Monday": 22,
+      "Friday": 6,
+      "Thursday": 9,
+      "Wednesday": 16
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.72,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1087,
+    "dept_size": 1233
+  }
+}

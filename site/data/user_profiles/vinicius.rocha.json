@@ -1,0 +1,266 @@
+{
+  "username": "vinicius.rocha",
+  "name": "Vinicius Rocha",
+  "generated_at": "2026-04-08T20:22:16.903695",
+  "summary": {
+    "message_count": 216,
+    "channels_active": 23,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 9,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you; the issue has been triaged to the Wallets team :+1:",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "&gt; Could we help figuring out why this specific checkout is being framed?\nif I just properly read the message, sorry about that",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you :bow:",
+          "channel": "tectonix",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "congratulations! you were both already staff for me :tada: that is so well deserved!",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":dead: well thank you :sweat_smile:",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome, thank you :+1:",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! that makes sense and thanks for pointing it out.\n\nwe evaluated the false positives in the abandoned cart scenario, and for a given",
+          "channel": "checkout-carts-production-support",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you :bow:",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "I'm happy to help, but I'm Carts ATC, is it related to carts?\n\nCheckout ATC would be <@W018B04E2B0> and <@U08E25NUY5N> :eyes:",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":tada: celebrating a big performance improvement on cartUpdate mutation in core.\n\ngreen line is flag enabled, blue line is flag disabled",
+          "channel": "cart-performance-measurement",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "chris.waters",
+          "count": 3
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 3
+        },
+        {
+          "user": "niko.rutherford",
+          "count": 3
+        },
+        {
+          "user": "jp.caissy",
+          "count": 2
+        },
+        {
+          "user": "gabriel.queiroz",
+          "count": 2
+        },
+        {
+          "user": "francis.sing",
+          "count": 2
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 1
+        },
+        {
+          "user": "kim.mina",
+          "count": 1
+        },
+        {
+          "user": "fabian.engeln",
+          "count": 1
+        },
+        {
+          "user": "kristin.hung",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.84,
+      "count": 229,
+      "top_channels": [
+        {
+          "channel": "checkout-carts-production-support",
+          "messages": 53
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 48
+        },
+        {
+          "channel": "proj-botted-abandoned-checkouts",
+          "messages": 15
+        },
+        {
+          "channel": "inv-21071-cart-flaky-tests",
+          "messages": 15
+        },
+        {
+          "channel": "tectonix",
+          "messages": 13
+        },
+        {
+          "channel": "checkout-carts-errors",
+          "messages": 12
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20334-cart-sfapi-slo-slow-burn",
+          "messages": 9
+        },
+        {
+          "channel": "carts-and-river",
+          "messages": 7
+        },
+        {
+          "channel": "claude-code",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.71,
+      "count": 50,
+      "top_mentioners": [
+        {
+          "user": "niko.rutherford",
+          "count": 10
+        },
+        {
+          "user": "laurent.dang",
+          "count": 6
+        },
+        {
+          "user": "gabriel.queiroz",
+          "count": 4
+        },
+        {
+          "user": "devon.meunier",
+          "count": 3
+        },
+        {
+          "user": "dennis.ho",
+          "count": 3
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 2
+        },
+        {
+          "user": "christopher.butcher",
+          "count": 2
+        },
+        {
+          "user": "caroline.song",
+          "count": 2
+        },
+        {
+          "user": "francis.sing",
+          "count": 2
+        },
+        {
+          "user": "geoff.caven",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 18,
+      "15": 42,
+      "14": 41,
+      "10": 11,
+      "9": 5,
+      "0": 3,
+      "23": 1,
+      "12": 4,
+      "20": 11,
+      "19": 13,
+      "18": 10,
+      "13": 39,
+      "8": 1,
+      "16": 8,
+      "21": 8,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 34,
+      "Tuesday": 21,
+      "Monday": 32,
+      "Friday": 60,
+      "Thursday": 69
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.02,
+    "dept_average_30d": 5.79,
+    "dept_rank": 418,
+    "dept_size": 1233
+  }
+}

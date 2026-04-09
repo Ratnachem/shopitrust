@@ -1,0 +1,334 @@
+{
+  "username": "kevin.norman",
+  "name": "Kevin Norman",
+  "generated_at": "2026-04-08T20:22:19.392147",
+  "summary": {
+    "message_count": 431,
+    "channels_active": 22,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 15,
+      "neg_count": 12,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm currently helping our friends at payment-service. Let me know if I am needed",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "In any case, I can chat more about this tomorrow with you if you'd like, happy to help.",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "here's the exhaustive steps, assuming what you want to do is rename `canary` to `prod-tiny`\n1. We lock deploys, no more deploys until we're done\n   ",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> Here's what I want you to do please. Go look at the target-actuator codebase in world. I want you to find the logic which handles",
+          "channel": "app-infra-river-thames",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> let this be the first time I say thank you then.",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Team, how do we feel about moving most *river* runs to a dedicated channel rather than using team-application-infrastructure for them?\n\n*edit*",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, glad to hear it :slightly_smiling_face:",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":heart: thank you kalindu :smile:",
+          "channel": "edge-infrastructure-operations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I am going to grab lunch, but feel free to shift that 1% of traffic across. If you notice the new cluster isn't performing correctly, you can create",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great context, thanks!",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Assunta: Currently physically can't, but could. I think it probably should not too.\n\nOoh yeah great question. To define some terms how I did when",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "to prevent that, we just immediately follow up with a PR that sets the weight to whatever it should remain at",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "gotcha, well, for the period of initially setting this up (an hour or two) deploys will need to be paused except for deploying at specific moments.",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "1. We lock deploys, no more deploys until we're done\n    \u25e6 Rollback from here: unlock deploys.\n2. You change the infrastructure repository to look",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "here's the exhaustive steps, assuming what you want to do is rename `canary` to `prod-tiny`\n1. We lock deploys, no more deploys until we're done\n   ",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Not a stupid question at all!\n<https://chat.shopify.io/share/6bC9CyYbvEFTh9KaeIIEZ> - think the vault chat here nails the answer though. Traffic that",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "but contextually, having #river-thames or whatever for these random river threads is best of both worlds. anybody can go look, anybody can join, and",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm not talking about a mandate, no river in team-app-infra or whatever. I'm suggesting we have a second channel where river runs can happen, no",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It does not, currently. SFE and DNS is all it covers for now, wouldn't be too hard to do whatever runtimefailoverbuddy (in cloudbuddies) used to do",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yes, the thinking being:\nManual requires user to specify specific deployment, and specific replica counts. If someone is that specific, then they",
+          "channel": "proj-infra-fast-secure-clusters",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "assunta.walderdorff",
+          "count": 2
+        },
+        {
+          "user": "anya.zenkina",
+          "count": 2
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 1
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 1
+        },
+        {
+          "user": "jessica.li",
+          "count": 1
+        },
+        {
+          "user": "anas.shahid",
+          "count": 1
+        },
+        {
+          "user": "james.hall",
+          "count": 1
+        },
+        {
+          "user": "jacob.lott",
+          "count": 1
+        },
+        {
+          "user": "devon.boyer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.1,
+      "count": 243,
+      "top_channels": [
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 134
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 68
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 48
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 48
+        },
+        {
+          "channel": "proj-infra-fast-secure-clusters",
+          "messages": 40
+        },
+        {
+          "channel": "app-infra-gke-134",
+          "messages": 18
+        },
+        {
+          "channel": "app-infra-river-thames",
+          "messages": 14
+        },
+        {
+          "channel": "infra-central",
+          "messages": 13
+        },
+        {
+          "channel": "job-platform-team",
+          "messages": 9
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 90,
+      "top_mentioners": [
+        {
+          "user": "anas.shahid",
+          "count": 15
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 10
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 8
+        },
+        {
+          "user": "louis.munro",
+          "count": 8
+        },
+        {
+          "user": "matthew.frail",
+          "count": 7
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 3
+        },
+        {
+          "user": "james.hall",
+          "count": 3
+        },
+        {
+          "user": "carlos.l.perez",
+          "count": 3
+        },
+        {
+          "user": "alex.almeida",
+          "count": 3
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 22,
+      "20": 49,
+      "18": 76,
+      "15": 86,
+      "14": 57,
+      "19": 48,
+      "13": 11,
+      "22": 8,
+      "21": 11,
+      "17": 49,
+      "5": 1,
+      "6": 1,
+      "2": 2,
+      "12": 10
+    },
+    "by_day": {
+      "Wednesday": 46,
+      "Tuesday": 168,
+      "Monday": 71,
+      "Thursday": 65,
+      "Friday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.47,
+    "dept_average_30d": 5.75,
+    "dept_rank": 67,
+    "dept_size": 357
+  }
+}

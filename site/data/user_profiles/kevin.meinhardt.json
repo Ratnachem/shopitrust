@@ -1,0 +1,282 @@
+{
+  "username": "kevin.meinhardt",
+  "name": "Kevin Meinhardt",
+  "generated_at": "2026-04-08T20:22:10.125437",
+  "summary": {
+    "message_count": 756,
+    "channels_active": 33,
+    "unique_people_mentioned": 45,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 6,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "Hey folks :wave: quick announcement from shop-identity. This week we rolled out our new sticky identifier `shop_browser_session_id` (aka sbsid) to",
+          "channel": "shop-talk",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":+1: thanks!",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "PR for this has been on my todo list, been a busy week. Thanks!",
+          "channel": "shop-recognition-continuity-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah my bad. I didn't realize. I would've not tagged you in the original. Go away! I banish thee.",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hi folks :wave: we have an interesting dip in one of our metrics tracking shop pay cookies. There's a lot of context already gathered in the thread",
+          "channel": "cust-accounts-and-shop-identity-collab",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :pray:",
+          "channel": "help-observability",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Is there a way for us to reduce some of the infra (low level) labels on this metric? most are useless.. there are several that independently contain",
+          "channel": "help-observability",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm fine with whatever works calendar wise.",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Does anyone know how to purge staging of a dag I deployed from a branch? I keep running `dev deploy-dag &lt;my dag&gt;` and it says uploaded but an",
+          "channel": "shop-data-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "<@W018LFG19B5> just so I don't say something stupid somewhere we *are setting* *sbsid* on top level redirect experiment traffic right?",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "If we cannot figure it out then we can go forward without it.",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or whatever metric you want to compare.",
+          "channel": "boost-user-recognition",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 50,
+      "top_mentioned": [
+        {
+          "user": "ian.paul",
+          "count": 15
+        },
+        {
+          "user": "stijn.heymans",
+          "count": 13
+        },
+        {
+          "user": "rabeea.ahmad",
+          "count": 12
+        },
+        {
+          "user": "erin.ren",
+          "count": 12
+        },
+        {
+          "user": "julie.haynes",
+          "count": 11
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 8
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 4
+        },
+        {
+          "user": "connor.clark",
+          "count": 4
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 4
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.92,
+      "count": 286,
+      "top_channels": [
+        {
+          "channel": "boost-user-recognition",
+          "messages": 229
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 112
+        },
+        {
+          "channel": "shop-identity-ops",
+          "messages": 75
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 69
+        },
+        {
+          "channel": "shop-recognition-continuity-team",
+          "messages": 68
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 42
+        },
+        {
+          "channel": "inv-20262-intermittent-flakiness-on-mobile-chrome-c",
+          "messages": 30
+        },
+        {
+          "channel": "tmp-sbsid-in-identity-graph",
+          "messages": 20
+        },
+        {
+          "channel": "inv-20840-unauthenticated-buy-with-shop-redirecting",
+          "messages": 15
+        },
+        {
+          "channel": "shop-talk",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 130,
+      "top_mentioners": [
+        {
+          "user": "stijn.heymans",
+          "count": 34
+        },
+        {
+          "user": "erin.ren",
+          "count": 15
+        },
+        {
+          "user": "ian.paul",
+          "count": 12
+        },
+        {
+          "user": "rabeea.ahmad",
+          "count": 12
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 9
+        },
+        {
+          "user": "julie.haynes",
+          "count": 4
+        },
+        {
+          "user": "dion.banno",
+          "count": 4
+        },
+        {
+          "user": "xavier.becerra",
+          "count": 3
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 3
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 63,
+      "15": 70,
+      "14": 91,
+      "13": 34,
+      "23": 38,
+      "22": 71,
+      "21": 62,
+      "20": 73,
+      "19": 73,
+      "16": 63,
+      "11": 1,
+      "2": 3,
+      "17": 82,
+      "1": 8,
+      "0": 7,
+      "12": 4,
+      "3": 8,
+      "4": 5
+    },
+    "by_day": {
+      "Wednesday": 187,
+      "Tuesday": 190,
+      "Monday": 181,
+      "Friday": 119,
+      "Thursday": 79
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.69,
+    "dept_average_30d": 5.86,
+    "dept_rank": 21,
+    "dept_size": 166
+  }
+}

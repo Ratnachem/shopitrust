@@ -1,0 +1,271 @@
+{
+  "username": "michael.rokas",
+  "name": "Michael Rokas",
+  "generated_at": "2026-04-08T20:22:08.544504",
+  "summary": {
+    "message_count": 578,
+    "channels_active": 17,
+    "unique_people_mentioned": 37,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "PRs that need approvals:\nReady to ship:\n\u2022",
+          "channel": "flow-project-shopifyql",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing thanks <@U025LM7DVA9>! there are some reasons we would prefer to call to Flow for the field name generation. Flow doesn't simply expose the",
+          "channel": "sidekick-analytics",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83c\udf89",
+          "text": "Edited it to:\n\n```## Progress made towards our goal\n* Opened review up to build \ud83c\udf89\n* Finalized the action name as **\"Get analytics data\"** \u2014 our",
+          "channel": "flow-project-shopifyql",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018GBVBU1K> <@W01830P2EK1> <@W01830NC21M>\n\nI've updated the proposal <https://github.com/shop/issues-automate/issues/2326#issue-4047739517|here>.",
+          "channel": "flow-project-shopifyql",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> From: <https://github.com/shop/issues-automate/issues/2438>\n\n```This is related to",
+          "channel": "flow-operations",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "may as well done `@ here` :joy:",
+          "channel": "flow-operations",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, :thanks-2: ... waiting for my turn on staging and then I'll give it a go",
+          "channel": "flow-tasks-team",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad: <https://github.com/shop/world/pull/488385>",
+          "channel": "flow-tasks-team",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't think they were emitted, and I think whatever that sync was enabled future events to be emitted",
+          "channel": "help-flow",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said, the issue seems like it was upstream, I don't have the context on why Flow wasn't receiving the events. That sounds like an answer to",
+          "channel": "help-flow",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "From the little dev on my machine:\n\n```The Observe query system doesn't support JOINs within a single query, so you can't directly correlate two",
+          "channel": "flow-development",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "paul.nuschke",
+          "count": 21
+        },
+        {
+          "user": "nicole.simone",
+          "count": 15
+        },
+        {
+          "user": "ewa.manek",
+          "count": 14
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 12
+        },
+        {
+          "user": "aline.manera",
+          "count": 9
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 8
+        },
+        {
+          "user": "jeff.kehres",
+          "count": 7
+        },
+        {
+          "user": "robert.mic",
+          "count": 7
+        },
+        {
+          "user": "steven.low",
+          "count": 6
+        },
+        {
+          "user": "tomas.baena",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.26,
+      "count": 86,
+      "top_channels": [
+        {
+          "channel": "flow-project-shopifyql",
+          "messages": 160
+        },
+        {
+          "channel": "flow-tasks-team",
+          "messages": 106
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 84
+        },
+        {
+          "channel": "inv-20000-worker-transient-error-rate-too-high",
+          "messages": 54
+        },
+        {
+          "channel": "flow-development",
+          "messages": 34
+        },
+        {
+          "channel": "inv-20423-start-writer-p99-blip",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20713-flow-web-increase-of-5xx-errors-for-web",
+          "messages": 25
+        },
+        {
+          "channel": "flow-project-ai",
+          "messages": 20
+        },
+        {
+          "channel": "help-flow",
+          "messages": 15
+        },
+        {
+          "channel": "sidekick-analytics",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "jeff.kehres",
+          "count": 10
+        },
+        {
+          "user": "fisher.manning",
+          "count": 8
+        },
+        {
+          "user": "rolando.penate",
+          "count": 5
+        },
+        {
+          "user": "paul.nuschke",
+          "count": 5
+        },
+        {
+          "user": "nicole.simone",
+          "count": 4
+        },
+        {
+          "user": "lily.li",
+          "count": 4
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 3
+        },
+        {
+          "user": "aly.gemae",
+          "count": 3
+        },
+        {
+          "user": "steven.low",
+          "count": 3
+        },
+        {
+          "user": "josh.beckman",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 70,
+      "15": 72,
+      "13": 46,
+      "17": 52,
+      "16": 44,
+      "14": 69,
+      "21": 45,
+      "20": 59,
+      "23": 26,
+      "19": 43,
+      "22": 23,
+      "11": 13,
+      "0": 11,
+      "12": 5
+    },
+    "by_day": {
+      "Wednesday": 153,
+      "Tuesday": 82,
+      "Thursday": 167,
+      "Monday": 69,
+      "Friday": 107
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.37,
+    "dept_average_30d": 5.79,
+    "dept_rank": 231,
+    "dept_size": 1233
+  }
+}

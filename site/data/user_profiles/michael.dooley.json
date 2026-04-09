@@ -1,0 +1,234 @@
+{
+  "username": "michael.dooley",
+  "name": "Michael Dooley",
+  "generated_at": "2026-04-08T20:22:07.105611",
+  "summary": {
+    "message_count": 302,
+    "channels_active": 12,
+    "unique_people_mentioned": 60,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I just got notified that my badge is ready to use ",
+          "channel": "inc-20756-genea-lockout",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That's great thank you!",
+          "channel": "inv-okta-rate-limits-03-24",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "sorry i thought it was the right group, but I was wrong",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey Elena, I'm actually assigned to your ticket, sorry about not responding yet, I was ooo a couple days this week. Let me work with my team to see",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have an email in your inbox to recover your account",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 61,
+      "top_mentioned": [
+        {
+          "user": "melanie.hageman",
+          "count": 6
+        },
+        {
+          "user": "patricia.espino",
+          "count": 4
+        },
+        {
+          "user": "mike.moran",
+          "count": 4
+        },
+        {
+          "user": "kristin.macintosh",
+          "count": 3
+        },
+        {
+          "user": "grant.jackman",
+          "count": 2
+        },
+        {
+          "user": "anthony.thomas",
+          "count": 2
+        },
+        {
+          "user": "owen.evans",
+          "count": 2
+        },
+        {
+          "user": "tanu.tu",
+          "count": 2
+        },
+        {
+          "user": "gilbert.dayrit",
+          "count": 2
+        },
+        {
+          "user": "chris.c.snyder",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.94,
+      "count": 104,
+      "top_channels": [
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 179
+        },
+        {
+          "channel": "help-external-workers",
+          "messages": 46
+        },
+        {
+          "channel": "proj-yubikey-passkey-revamp",
+          "messages": 30
+        },
+        {
+          "channel": "inv-okta-rate-limits-03-24",
+          "messages": 15
+        },
+        {
+          "channel": "proj-fleetdm",
+          "messages": 11
+        },
+        {
+          "channel": "inc-okta-ratelimits-16-mar",
+          "messages": 10
+        },
+        {
+          "channel": "river-jeffrey-check",
+          "messages": 4
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "help-security",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "melanie.hageman",
+          "count": 5
+        },
+        {
+          "user": "anthony.thomas",
+          "count": 4
+        },
+        {
+          "user": "zendie.sombillo",
+          "count": 4
+        },
+        {
+          "user": "shaira.salgado",
+          "count": 4
+        },
+        {
+          "user": "mia.sassi",
+          "count": 2
+        },
+        {
+          "user": "jenica.mcguire",
+          "count": 2
+        },
+        {
+          "user": "mike.moran",
+          "count": 2
+        },
+        {
+          "user": "prakash.raman",
+          "count": 2
+        },
+        {
+          "user": "beryl.wu",
+          "count": 2
+        },
+        {
+          "user": "chase.dougherty",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 13,
+      "16": 28,
+      "15": 41,
+      "14": 50,
+      "13": 29,
+      "12": 44,
+      "11": 62,
+      "10": 10,
+      "17": 11,
+      "19": 4,
+      "22": 2,
+      "0": 8
+    },
+    "by_day": {
+      "Wednesday": 93,
+      "Tuesday": 43,
+      "Monday": 60,
+      "Thursday": 79,
+      "Friday": 27
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.62,
+    "dept_average_30d": 4.89,
+    "dept_rank": 54,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "username": "meara.thompson",
+  "name": "Meara Thompson",
+  "generated_at": "2026-04-08T20:22:31.847029",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 2,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you so much!",
+          "channel": "help-procurement",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "tony.cummings",
+          "count": 2
+        },
+        {
+          "user": "omas.abdullah",
+          "count": 1
+        },
+        {
+          "user": "francois.leblanc",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.07,
+      "count": 81,
+      "top_channels": [
+        {
+          "channel": "help-procurement",
+          "messages": 2
+        },
+        {
+          "channel": "vault-bot",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "maanas.verma",
+          "count": 1
+        },
+        {
+          "user": "alison.perry",
+          "count": 1
+        },
+        {
+          "user": "omas.abdullah",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 1,
+      "11": 1,
+      "15": 2
+    },
+    "by_day": {
+      "Thursday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 3.76,
+    "dept_average_30d": 4.13,
+    "dept_rank": 42,
+    "dept_size": 64
+  }
+}

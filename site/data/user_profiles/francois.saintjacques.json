@@ -1,0 +1,338 @@
+{
+  "username": "francois.saintjacques",
+  "name": "Francois Saintjacques",
+  "generated_at": "2026-04-08T20:22:10.010393",
+  "summary": {
+    "message_count": 2228,
+    "channels_active": 53,
+    "unique_people_mentioned": 69,
+    "unique_mentioners": 98,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 0.6,
+      "pos_count": 16,
+      "neg_count": 17,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "because if we didn't, that would be an amazing boost.",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Nice turnaround, thank you <@U02UJ40Q4MR>",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "So in the kafka topic you publish `Event{payload: attribution_result, other_metadata...}`, I can help you with the structure and the required field",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "nah my bad, I recalled that we put ALL shopify_y associated with a sbsid in the mapping table. Hence they'll likely never be singletons?",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "nice job proxy",
+          "channel": "identity-graph",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much.",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you very much.",
+          "channel": "gsd46642-factoids-ingest-event-refinery-buyer-data",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Case closed, thank you! It popped in my head after seeing stores with 0.",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you sirs.",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "This is amazing folks.",
+          "channel": "tmp-sbsid-in-identity-graph",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "The plan:\n\u2022 Break the ad_recommendations domain into 3 (that what the field mask you sent is doing *client-side*, but buyer-profile still needs to",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "(when people wants to put data in buyer-profile), that's the \"or else\"",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "I'm always banging the \"don't make your domain too big or else\"",
+          "channel": "ads-bidify-api-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "We don't care about latency of flink pipelines",
+          "channel": "mm-fdn-buyer-profile-ops",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "> The way I usually resolve those is to look who's part of the team in slack, I ping them individually, then if they don't answer, I look at the org",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "If you can make \"compute magic\" fast, that's your bottle neck in lag.",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Relax 1 to UBID with 1 or more other identifiers, don't care if it's shopify_y or email or...",
+          "channel": "tmp-personalization-rate-not-going-up",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Doesn't that make UPIs useless?",
+          "channel": "product-network-recommendations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "the grand-unification with all audit logs and system logs, and merchants logs, don't care.",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I don't care about the reason, as a user, I want the most likely structured_user_agent and structured_remote_ip of the buyer, irregardless of the",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 69,
+      "top_mentioned": [
+        {
+          "user": "connor.clark",
+          "count": 12
+        },
+        {
+          "user": "baoyuan.xing",
+          "count": 10
+        },
+        {
+          "user": "rich.chen",
+          "count": 8
+        },
+        {
+          "user": "peter.thesling",
+          "count": 8
+        },
+        {
+          "user": "jacob.dubinsky",
+          "count": 7
+        },
+        {
+          "user": "kristin.makulowich",
+          "count": 7
+        },
+        {
+          "user": "mac.kudrenecky",
+          "count": 7
+        },
+        {
+          "user": "marc.laforet",
+          "count": 7
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 6
+        },
+        {
+          "user": "dustin.firman",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 732,
+      "top_channels": [
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 419
+        },
+        {
+          "channel": "mm-fdn-buyer-profile-ops",
+          "messages": 282
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 188
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 162
+        },
+        {
+          "channel": "proj-real-time-inference-product-network",
+          "messages": 146
+        },
+        {
+          "channel": "boost-user-recognition",
+          "messages": 126
+        },
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 99
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 93
+        },
+        {
+          "channel": "tmp-sbsid-in-identity-graph",
+          "messages": 74
+        },
+        {
+          "channel": "proj-mm-1p-migration",
+          "messages": 71
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 333,
+      "top_mentioners": [
+        {
+          "user": "peter.thesling",
+          "count": 42
+        },
+        {
+          "user": "akshay.soni",
+          "count": 20
+        },
+        {
+          "user": "bo.senyshyn",
+          "count": 11
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 10
+        },
+        {
+          "user": "simon.pearson",
+          "count": 10
+        },
+        {
+          "user": "connor.clark",
+          "count": 9
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 9
+        },
+        {
+          "user": "daniel.steuernol",
+          "count": 8
+        },
+        {
+          "user": "craigsharpe",
+          "count": 8
+        },
+        {
+          "user": "andrew.droll",
+          "count": 8
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 192,
+      "17": 208,
+      "16": 164,
+      "13": 223,
+      "0": 97,
+      "20": 180,
+      "19": 106,
+      "15": 189,
+      "12": 102,
+      "11": 37,
+      "14": 173,
+      "22": 177,
+      "21": 179,
+      "23": 121,
+      "10": 6,
+      "1": 60,
+      "7": 1,
+      "2": 13
+    },
+    "by_day": {
+      "Wednesday": 566,
+      "Tuesday": 337,
+      "Monday": 323,
+      "Thursday": 540,
+      "Friday": 462
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.41,
+    "dept_average_30d": 4.74,
+    "dept_rank": 111,
+    "dept_size": 1663
+  }
+}

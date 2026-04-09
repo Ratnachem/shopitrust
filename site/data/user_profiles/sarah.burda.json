@@ -1,0 +1,108 @@
+{
+  "username": "sarah.burda",
+  "name": "Sarah Burda",
+  "generated_at": "2026-04-08T20:22:31.641078",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 3,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "<@U0AEPQCKB3M> My mistake, I am trying to merge directly from the PR in GitHub. The PR says",
+          "channel": "temp-rsh-river-playground",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, chatted with a merchant the other day who had two Chrome windows open in spit screen, and when they maximized the Help Center window with",
+          "channel": "help-cx-rnd",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "jade.fraser",
+          "count": 1
+        },
+        {
+          "user": "jankiel.rohr",
+          "count": 1
+        },
+        {
+          "user": "manda.brownrigg",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.53,
+      "count": 14,
+      "top_channels": [
+        {
+          "channel": "temp-rsh-river-playground",
+          "messages": 8
+        },
+        {
+          "channel": "retail-support-specialist-badge",
+          "messages": 6
+        },
+        {
+          "channel": "help-cx-rnd",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "manda.brownrigg",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 1,
+      "15": 1,
+      "16": 1,
+      "22": 6,
+      "21": 3,
+      "17": 2,
+      "14": 2
+    },
+    "by_day": {
+      "Friday": 2,
+      "Thursday": 7,
+      "Wednesday": 4,
+      "Monday": 1,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.71,
+    "dept_average_30d": 4.09,
+    "dept_rank": 385,
+    "dept_size": 642
+  }
+}

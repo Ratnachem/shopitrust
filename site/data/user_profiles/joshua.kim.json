@@ -1,0 +1,229 @@
+{
+  "username": "joshua.kim",
+  "name": "Joshua Kim",
+  "generated_at": "2026-04-08T20:22:20.894165",
+  "summary": {
+    "message_count": 330,
+    "channels_active": 13,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 14,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave-frog: Would appreciate some eyes on this Airflow DAG PR :eyes:",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":ah-: makes sense. Thank you!",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": ":thank: I appreciate it",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I guess my biggest concern is:\n```T1 -&gt; a notification row is inserted\nT2 -&gt; a backfill row is inserted to change the T1 row for whatever",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "If sink.sharded.enabled is true, it doesn\u2019t matter if you append sharded or not. The connector will figure it out on it\u2019s own",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.83,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "yifan.ye",
+          "count": 15
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 5
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 3
+        },
+        {
+          "user": "nick.presta",
+          "count": 2
+        },
+        {
+          "user": "frank.jiao",
+          "count": 1
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        },
+        {
+          "user": "michael.terranova",
+          "count": 1
+        },
+        {
+          "user": "yanis.djeridi",
+          "count": 1
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        },
+        {
+          "user": "yuichi.hagio",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.75,
+      "count": 120,
+      "top_channels": [
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 138
+        },
+        {
+          "channel": "inc-20469-keycommittoolarge-on-metafields-dimension",
+          "messages": 45
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 38
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 31
+        },
+        {
+          "channel": "proj-analytics-metafields",
+          "messages": 26
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 25
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 11
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 4
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 4
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.42,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "yifan.ye",
+          "count": 12
+        },
+        {
+          "user": "michael.terranova",
+          "count": 4
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 3
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 3
+        },
+        {
+          "user": "yuichi.hagio",
+          "count": 3
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 2
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 2
+        },
+        {
+          "user": "frank.jiao",
+          "count": 1
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        },
+        {
+          "user": "susie.lee",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 27,
+      "22": 6,
+      "21": 28,
+      "20": 52,
+      "15": 28,
+      "14": 24,
+      "13": 8,
+      "23": 1,
+      "1": 1,
+      "19": 46,
+      "18": 48,
+      "17": 49,
+      "12": 10,
+      "11": 2
+    },
+    "by_day": {
+      "Wednesday": 85,
+      "Monday": 42,
+      "Thursday": 82,
+      "Tuesday": 97,
+      "Friday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.75,
+    "dept_average_30d": 4.74,
+    "dept_rank": 259,
+    "dept_size": 1663
+  }
+}

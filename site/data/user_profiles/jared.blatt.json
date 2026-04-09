@@ -1,0 +1,135 @@
+{
+  "username": "jared.blatt",
+  "name": "Jared Blatt",
+  "generated_at": "2026-04-08T20:22:28.420756",
+  "summary": {
+    "message_count": 49,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Is anyone working on anything interesting this morning and wanna :tuple:, or have anything small I can help with for the next few hours, i.e. code",
+          "channel": "proj-core-applications-yugabyte",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "fletcher.dares",
+          "count": 5
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.83,
+      "count": 101,
+      "top_channels": [
+        {
+          "channel": "proj-core-applications-yugabyte",
+          "messages": 26
+        },
+        {
+          "channel": "blatt-river",
+          "messages": 14
+        },
+        {
+          "channel": "fletcher-river",
+          "messages": 8
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "mitch.dickinson",
+          "count": 8
+        },
+        {
+          "user": "derek.stride",
+          "count": 4
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 3
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 3
+        },
+        {
+          "user": "aiden.storey",
+          "count": 2
+        },
+        {
+          "user": "philip.tolton",
+          "count": 1
+        },
+        {
+          "user": "matt.dentremont",
+          "count": 1
+        },
+        {
+          "user": "gale.shafer",
+          "count": 1
+        },
+        {
+          "user": "andrew.hassan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 4,
+      "18": 14,
+      "13": 5,
+      "20": 2,
+      "17": 7,
+      "16": 12,
+      "19": 2,
+      "15": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Tuesday": 19,
+      "Thursday": 6,
+      "Wednesday": 14,
+      "Friday": 7,
+      "Monday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.81,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1068,
+    "dept_size": 1233
+  }
+}

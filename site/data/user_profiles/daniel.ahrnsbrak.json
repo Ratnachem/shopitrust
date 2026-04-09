@@ -1,0 +1,316 @@
+{
+  "username": "daniel.ahrnsbrak",
+  "name": "Daniel Ahrnsbrak",
+  "generated_at": "2026-04-08T20:22:29.765912",
+  "summary": {
+    "message_count": 835,
+    "channels_active": 27,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.2,
+      "pos_count": 12,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "i'm about to board - if you can deploy to any/all staging for the config changes i'd appreciate it",
+          "channel": "gitstream",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83d\ude80",
+          "text": "just opted in to gitstream and getting this error with graphite now:\n\n```\u279c  shopify git:(03-31-enable_ci-queue_0.85.0) gt submit\n\ud83e\udd5e Validating that",
+          "channel": "gitstream",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "sure, thank you!",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi, i'm from the CI team at Shopify and we're moving some services from US-only into the EU (and eventually asia). Our services in the US use",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "that flag has been deprecated from the CI perspective, and as far as i know is not used anywhere else, so feel free to remove",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Confirmed the fsync PR fixed the crash corruption issue :celebrate-wooo:",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "PR to reduce overhead decrypting tokens...i kind of can't believe this is real so if someone who is familiar with this path can verify i'd appreciate",
+          "channel": "gitstream",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I have a PR that I hope closes some of the gaps we've seen between pre-merge test selection and post-merge failures (and performance improvements to",
+          "channel": "team-ci",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that - we are rolling back now",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that - we are rolling back now",
+          "channel": "team-ci",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> thoughts?\nThis is our ref cleanup PR (#2 from the optimization list). Here's my review:\n\n  Review: shop/world#570550 \u2014 Clean up stale",
+          "channel": "daniel-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I found a way to cut GitHub push latency from ~60s to ~1s for branch updates in Gitstream. GitHub's GraphQL API can update refs by internal ID,",
+          "channel": "gitstream",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> thoughts on this change to GitStream to improve performance? See what the downsides could be and expected improvements:\n\n  #2 \u2014 Clean",
+          "channel": "daniel-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "whatever last change just went out brought gitstream down for about 15 mins...i think we need a better rollout strategy",
+          "channel": "gitstream",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ah whatever go ahead - looks good to me",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i'm not taking a stance on what should or shouldn't be in core, but at the moment we just want to catch whatever could bring down CI for everyone if",
+          "channel": "inv-20518-multiple-failing-tests-in-core",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "so that tag is basically useless now",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 36,
+      "top_mentioned": [
+        {
+          "user": "xiao.li",
+          "count": 18
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 12
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 10
+        },
+        {
+          "user": "daiane.silva",
+          "count": 8
+        },
+        {
+          "user": "evan.lee",
+          "count": 5
+        },
+        {
+          "user": "thad.craft",
+          "count": 4
+        },
+        {
+          "user": "kangze.jia",
+          "count": 4
+        },
+        {
+          "user": "chao.duan",
+          "count": 3
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 3
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.62,
+      "count": 376,
+      "top_channels": [
+        {
+          "channel": "daniel-river",
+          "messages": 180
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 155
+        },
+        {
+          "channel": "gitstream",
+          "messages": 144
+        },
+        {
+          "channel": "team-ci",
+          "messages": 115
+        },
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 64
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 34
+        },
+        {
+          "channel": "proj-fast-n-cost-effective-ci",
+          "messages": 25
+        },
+        {
+          "channel": "inv-20657-core-main-broken-causing-spurious-ci-fail",
+          "messages": 14
+        },
+        {
+          "channel": "inv-19759-ci-cluster-maxed-out",
+          "messages": 14
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 11
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 152,
+      "top_mentioners": [
+        {
+          "user": "sam.schmidt",
+          "count": 21
+        },
+        {
+          "user": "chao.duan",
+          "count": 20
+        },
+        {
+          "user": "daiane.silva",
+          "count": 20
+        },
+        {
+          "user": "xiao.li",
+          "count": 20
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 8
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 7
+        },
+        {
+          "user": "evan.lee",
+          "count": 5
+        },
+        {
+          "user": "tobias.bales",
+          "count": 5
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 5
+        },
+        {
+          "user": "thad.craft",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 56,
+      "16": 48,
+      "15": 83,
+      "14": 98,
+      "13": 64,
+      "12": 20,
+      "11": 10,
+      "3": 2,
+      "2": 23,
+      "1": 55,
+      "0": 46,
+      "23": 20,
+      "22": 48,
+      "20": 78,
+      "19": 59,
+      "18": 68,
+      "17": 57
+    },
+    "by_day": {
+      "Friday": 152,
+      "Thursday": 244,
+      "Wednesday": 215,
+      "Tuesday": 156,
+      "Monday": 68
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.62,
+    "dept_average_30d": 5.75,
+    "dept_rank": 44,
+    "dept_size": 357
+  }
+}

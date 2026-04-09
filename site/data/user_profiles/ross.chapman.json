@@ -1,0 +1,90 @@
+{
+  "username": "ross.chapman",
+  "name": "Ross Chapman",
+  "generated_at": "2026-04-08T20:22:26.069234",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Hotdogs are literally $0.77 tonight at the jays game to celebrate their 50th season. :joy:",
+          "channel": "blue-jays-beat-the-dodgers",
+          "timestamp": "2026-04-07"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "ricardo.queiroz",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.27,
+      "count": 7,
+      "top_channels": [
+        {
+          "channel": "blue-jays-beat-the-dodgers",
+          "messages": 5
+        },
+        {
+          "channel": "help-talent-support",
+          "messages": 2
+        },
+        {
+          "channel": "talent-ottawa-port-hangs",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "madison.frye",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 1,
+      "23": 1,
+      "22": 2,
+      "21": 1,
+      "17": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Tuesday": 1,
+      "Monday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Talent",
+    "user_score_30d": 4.11,
+    "dept_average_30d": 4.13,
+    "dept_rank": 27,
+    "dept_size": 64
+  }
+}

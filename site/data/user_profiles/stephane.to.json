@@ -1,0 +1,208 @@
+{
+  "username": "stephane.to",
+  "name": "Stephane To",
+  "generated_at": "2026-04-08T20:22:18.560478",
+  "summary": {
+    "message_count": 168,
+    "channels_active": 7,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-frog: As discussed in the last standup, i made a PR to have a proxy for Netsuite to be able to call PATCH endpoints from 3rd parties:",
+          "channel": "finance-engineering-monolith",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave-frog: Hi team, I saw a couple of similar messages:\n\nCould i get a review on this <https://github.com/Shopify/spy-v2/pull/14864|PR> for adding",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm not sure if it's better to pair on this rather than trying to do async. Let me know if something tomorrow works",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "<@U03EDFNMYS1> do you have the permission to add it or else i will add it",
+          "channel": "help-finance-tech",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "drew.gentile",
+          "count": 8
+        },
+        {
+          "user": "dennis.weatherdon",
+          "count": 4
+        },
+        {
+          "user": "anna.kaliuzhna",
+          "count": 4
+        },
+        {
+          "user": "meaghan.kramer",
+          "count": 4
+        },
+        {
+          "user": "maanas.verma",
+          "count": 4
+        },
+        {
+          "user": "erin.robinson",
+          "count": 4
+        },
+        {
+          "user": "octavian.radulescu",
+          "count": 3
+        },
+        {
+          "user": "svitlana.lemish",
+          "count": 2
+        },
+        {
+          "user": "howell.manongsong",
+          "count": 2
+        },
+        {
+          "user": "dan.neustaedter",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.0,
+      "count": 185,
+      "top_channels": [
+        {
+          "channel": "help-finance-tech",
+          "messages": 154
+        },
+        {
+          "channel": "tmp-ft-river-testing",
+          "messages": 4
+        },
+        {
+          "channel": "help-it",
+          "messages": 3
+        },
+        {
+          "channel": "finance-engineering-monolith",
+          "messages": 3
+        },
+        {
+          "channel": "hd39-expense-radar",
+          "messages": 2
+        },
+        {
+          "channel": "help-russbot",
+          "messages": 1
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "meaghan.kramer",
+          "count": 6
+        },
+        {
+          "user": "howell.manongsong",
+          "count": 4
+        },
+        {
+          "user": "octavian.radulescu",
+          "count": 4
+        },
+        {
+          "user": "erin.robinson",
+          "count": 4
+        },
+        {
+          "user": "anna.kaliuzhna",
+          "count": 3
+        },
+        {
+          "user": "mila.kimcutajar",
+          "count": 2
+        },
+        {
+          "user": "drew.gentile",
+          "count": 2
+        },
+        {
+          "user": "dennis.weatherdon",
+          "count": 2
+        },
+        {
+          "user": "mary.lee",
+          "count": 2
+        },
+        {
+          "user": "aj.lowndes",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 41,
+      "15": 24,
+      "16": 24,
+      "14": 10,
+      "20": 16,
+      "19": 17,
+      "18": 23,
+      "21": 5,
+      "1": 2,
+      "13": 3,
+      "23": 2,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 34,
+      "Monday": 35,
+      "Thursday": 34,
+      "Tuesday": 44,
+      "Friday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 4.79,
+    "dept_average_30d": 4.35,
+    "dept_rank": 36,
+    "dept_size": 151
+  }
+}

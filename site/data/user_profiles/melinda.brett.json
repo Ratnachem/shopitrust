@@ -1,0 +1,92 @@
+{
+  "username": "melinda.brett",
+  "name": "Melinda Brett",
+  "generated_at": "2026-04-08T20:22:30.179246",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "no problem. so you want me to send you this via email now?",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Apologies if this is not the right place to post but I got this message on LinkedIn and wanted to flag incase it is a real merchant.\n&gt; i dont know",
+          "channel": "merchant-escalations",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 1.78,
+      "count": 47,
+      "top_channels": [
+        {
+          "channel": "support-case-584",
+          "messages": 3
+        },
+        {
+          "channel": "help-burst-champions",
+          "messages": 3
+        },
+        {
+          "channel": "merchant-escalations",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "kai.riess",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 3,
+      "20": 1,
+      "19": 1,
+      "17": 1,
+      "18": 2
+    },
+    "by_day": {
+      "Thursday": 5,
+      "Tuesday": 1,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 3.47,
+    "dept_average_30d": 4.35,
+    "dept_rank": 140,
+    "dept_size": 151
+  }
+}

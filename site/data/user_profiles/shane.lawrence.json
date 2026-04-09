@@ -1,0 +1,145 @@
+{
+  "username": "shane.lawrence",
+  "name": "Shane Lawrence",
+  "generated_at": "2026-04-08T20:22:31.803063",
+  "summary": {
+    "message_count": 24,
+    "channels_active": 5,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey <@W0197GF6VK2>, good timing! I've been digging into the way we manage ejson secrets in production as well. Can you share any more context about",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "james.hall",
+          "count": 1
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 1
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.11,
+      "count": 138,
+      "top_channels": [
+        {
+          "channel": "falco-performance-tuning",
+          "messages": 13
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 8
+        },
+        {
+          "channel": "proj-netpol-infra-repo",
+          "messages": 1
+        },
+        {
+          "channel": "opencode-ai",
+          "messages": 1
+        },
+        {
+          "channel": "help-eng-interviews",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.96,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "owen.cummings",
+          "count": 2
+        },
+        {
+          "user": "chris.shino",
+          "count": 2
+        },
+        {
+          "user": "ian.paul",
+          "count": 2
+        },
+        {
+          "user": "vasu.kumar",
+          "count": 1
+        },
+        {
+          "user": "kaiyi.li",
+          "count": 1
+        },
+        {
+          "user": "brian.warsing",
+          "count": 1
+        },
+        {
+          "user": "josh.larson",
+          "count": 1
+        },
+        {
+          "user": "nataly.sheinin",
+          "count": 1
+        },
+        {
+          "user": "brad.dietrich",
+          "count": 1
+        },
+        {
+          "user": "shawn.boutilier",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 4,
+      "15": 9,
+      "13": 2,
+      "11": 2,
+      "16": 2,
+      "14": 4,
+      "20": 1
+    },
+    "by_day": {
+      "Thursday": 5,
+      "Friday": 4,
+      "Monday": 2,
+      "Wednesday": 12,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 5.37,
+    "dept_average_30d": 4.89,
+    "dept_rank": 73,
+    "dept_size": 237
+  }
+}

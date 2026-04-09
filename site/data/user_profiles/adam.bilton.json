@@ -1,0 +1,105 @@
+{
+  "username": "adam.bilton",
+  "name": "Adam Bilton",
+  "generated_at": "2026-04-08T20:22:27.508474",
+  "summary": {
+    "message_count": 23,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey Tessa! Sounds good - thank you :smile:",
+          "channel": "2026-internal-content-audits",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it :slightly_smiling_face:",
+          "channel": "sales-concierge-team",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey Waseem! Thank you\n\n<mailto:bret@buckhornrestaurantgroup.com|bret@buckhornrestaurantgroup.com>\nUSA - NA",
+          "channel": "sales-concierge-team",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 5.61,
+      "count": 164,
+      "top_channels": [
+        {
+          "channel": "2026-internal-content-audits",
+          "messages": 17
+        },
+        {
+          "channel": "sales-concierge-team",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.83,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "jenn.fantin",
+          "count": 2
+        },
+        {
+          "user": "samantha.davis",
+          "count": 1
+        },
+        {
+          "user": "makenzie.dodd",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 3,
+      "20": 4,
+      "19": 1,
+      "15": 7,
+      "14": 5,
+      "21": 3
+    },
+    "by_day": {
+      "Tuesday": 1,
+      "Monday": 4,
+      "Friday": 4,
+      "Thursday": 8,
+      "Wednesday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.39,
+    "dept_average_30d": 4.09,
+    "dept_rank": 513,
+    "dept_size": 642
+  }
+}

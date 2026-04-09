@@ -1,0 +1,259 @@
+{
+  "username": "ray.l.liu",
+  "name": "Ray L Liu",
+  "generated_at": "2026-04-08T20:22:08.483938",
+  "summary": {
+    "message_count": 676,
+    "channels_active": 18,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 3,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yup that fixed it - thanks!",
+          "channel": "messenger-ops",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":fox-wave: ~we're having trouble deploying to us-east1 for sms-manager, with consistent",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":fox-wave: we have the following tollfree verifications that have been pending for an extended amount of time - could we get a look at these ?",
+          "channel": "notification-platform-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hm okay, ill chalk it up to bad luck then - thanks!",
+          "channel": "help-ai-chat",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave-2: hey ! i'm on notification platform and i dont seem to have admin perms for our databases such as",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":fox-wave: hey team! im reaching out for some help debugging slower network calls in us-central1 compared to us-east1, where the p99 latency for",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "what you said makes sense! i think i was really misled by the whole cpu % so i thought the problem was elsewhere, the `jmx_kafka_server_request_time`",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":fox-wave: hey folks! im trying to find some kafka metrics to debug some app behaviour we're seeing\n\ni am investigating",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":fox-wave: hey fellas! we want to run a load test on courier with 30k requests per second to test new Redis limits, will this cause any issues for",
+          "channel": "help-rat",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<https://docs.google.com/document/d/10RQtrl7V9WNBa_ALgep-TWIMUJoSUlD83qbuRYWVDSQ/edit?usp=sharing> i think this is in a decent state for our team to",
+          "channel": "proj-notifications-whatsapp",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if we have just a whatsapp table we can do whatever  we want with it for now without blowing up sms by accident (such as the other thread...)",
+          "channel": "proj-notifications-whatsapp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "```Here's a structured comparison you can adapt for your design doc. I've grounded each point in what actually exists in the codebase",
+          "channel": "proj-notifications-whatsapp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "conceptually a single table is \"nice\", low duplication, one iterator for maintenance, no need to join if we want to find all messages for a given",
+          "channel": "proj-notifications-whatsapp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W01830JSCLX>\nabout the security thing in this",
+          "channel": "proj-notifications-whatsapp",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "or its like dynamic between whatever time window you pick, but the mailstore warnings capped out at 20 ops/s",
+          "channel": "notification-platform-dev",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.8,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "patrick.crane",
+          "count": 8
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 5
+        },
+        {
+          "user": "jaden.hum",
+          "count": 2
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 1
+        },
+        {
+          "user": "yuichi.hagio",
+          "count": 1
+        },
+        {
+          "user": "pior.bastida",
+          "count": 1
+        },
+        {
+          "user": "erika.leblanc",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.31,
+      "count": 142,
+      "top_channels": [
+        {
+          "channel": "notification-platform-dev",
+          "messages": 245
+        },
+        {
+          "channel": "proj-courier-50k",
+          "messages": 157
+        },
+        {
+          "channel": "proj-notifications-whatsapp",
+          "messages": 151
+        },
+        {
+          "channel": "messenger-ops",
+          "messages": 47
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 18
+        },
+        {
+          "channel": "proj-messaging-whatsapp",
+          "messages": 10
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 8
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 8
+        },
+        {
+          "channel": "proj-courier-query-engine",
+          "messages": 7
+        },
+        {
+          "channel": "help-ai-chat",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.05,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "patrick.crane",
+          "count": 6
+        },
+        {
+          "user": "yousif.hussain",
+          "count": 6
+        },
+        {
+          "user": "robert.wang",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 98,
+      "17": 39,
+      "16": 74,
+      "15": 104,
+      "14": 86,
+      "13": 18,
+      "22": 4,
+      "21": 41,
+      "20": 89,
+      "19": 96,
+      "0": 15,
+      "23": 2,
+      "3": 7,
+      "1": 3
+    },
+    "by_day": {
+      "Wednesday": 227,
+      "Tuesday": 157,
+      "Monday": 36,
+      "Thursday": 107,
+      "Friday": 149
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.53,
+    "dept_average_30d": 4.74,
+    "dept_rank": 326,
+    "dept_size": 1663
+  }
+}

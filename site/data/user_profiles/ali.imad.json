@@ -1,0 +1,255 @@
+{
+  "username": "ali.imad",
+  "name": "Ali Imad",
+  "generated_at": "2026-04-08T20:22:12.235875",
+  "summary": {
+    "message_count": 253,
+    "channels_active": 17,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "i wonder if this was my bad, i merged in my unified button + form (behind a flag, without the enhancements/new copy) yesterday",
+          "channel": "proj-scale-pendingtermination",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "thanks for the shoutout, and for the *River Goes Gardening* call outs yesterday prompting me to take a look at our zone!",
+          "channel": "river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "use <#C0ADX3W4W8J> !! it's so much faster out of the box and if you're a tinkerer you will definitely appreciate its ease of extensibility",
+          "channel": "claude-code",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "yeah i think i was wrong about it ALWAYS coming in as a string",
+          "channel": "cti-ops-production",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yeah thats my bad, i was the reviewer on the <https://github.com/Shopify/trust-battery/pull/3850/changes|original PR>",
+          "channel": "proj-cti-idv-improvements",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U09FC0UAQUC> i just see \"busy\" :sweat_smile: , feel free to add me to the invite though",
+          "channel": "proj-scale-pendingtermination",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, this is clearer! so no *Select document type* :arrow_down:  dropdown and in it's place the description?\n\nIs this the online store &gt;",
+          "channel": "proj-scale-pendingtermination",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the boost is outlined in the PR:\n\n> 1. If the shop has a strong IDV pass, and no other information, they earn a FSD of 5\n> 2. If the shop has a",
+          "channel": "proj-cti-idv-improvements",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "if we're using iframes we depend entirely on trust battery display right? as in we can't really customize whatevers rendered in there within TP?",
+          "channel": "proj-cti-idv-improvements",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.27,
+      "count": 21,
+      "top_mentioned": [
+        {
+          "user": "tyler.cosgrove",
+          "count": 6
+        },
+        {
+          "user": "mark.chmilar",
+          "count": 6
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 4
+        },
+        {
+          "user": "ildar.gumerov",
+          "count": 3
+        },
+        {
+          "user": "simson.chiu",
+          "count": 3
+        },
+        {
+          "user": "aryan.bhardwaj",
+          "count": 3
+        },
+        {
+          "user": "gabriel.dubois",
+          "count": 2
+        },
+        {
+          "user": "shonagh.lydenelleray",
+          "count": 2
+        },
+        {
+          "user": "dan.gayle",
+          "count": 1
+        },
+        {
+          "user": "zachary.fahlman",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.67,
+      "count": 220,
+      "top_channels": [
+        {
+          "channel": "proj-scale-pendingtermination",
+          "messages": 92
+        },
+        {
+          "channel": "tigris-and-euphrates",
+          "messages": 39
+        },
+        {
+          "channel": "cti-ops-production",
+          "messages": 31
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 28
+        },
+        {
+          "channel": "proj-cti-idv-improvements",
+          "messages": 25
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 11
+        },
+        {
+          "channel": "pi",
+          "messages": 7
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 6
+        },
+        {
+          "channel": "river-payment-account-capabilities",
+          "messages": 4
+        },
+        {
+          "channel": "river",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.44,
+      "count": 57,
+      "top_mentioners": [
+        {
+          "user": "shonagh.lydenelleray",
+          "count": 17
+        },
+        {
+          "user": "arthi.vijayakumar",
+          "count": 6
+        },
+        {
+          "user": "aryan.bhardwaj",
+          "count": 4
+        },
+        {
+          "user": "mark.chmilar",
+          "count": 4
+        },
+        {
+          "user": "simson.chiu",
+          "count": 4
+        },
+        {
+          "user": "ildar.gumerov",
+          "count": 4
+        },
+        {
+          "user": "tyler.cosgrove",
+          "count": 3
+        },
+        {
+          "user": "derek.pyne",
+          "count": 3
+        },
+        {
+          "user": "kate.studwell",
+          "count": 2
+        },
+        {
+          "user": "gonzo.nieto",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 42,
+      "15": 30,
+      "22": 17,
+      "21": 18,
+      "17": 38,
+      "16": 53,
+      "14": 13,
+      "19": 24,
+      "1": 1,
+      "0": 5,
+      "13": 2,
+      "20": 10
+    },
+    "by_day": {
+      "Wednesday": 74,
+      "Tuesday": 50,
+      "Monday": 36,
+      "Thursday": 74,
+      "Friday": 19
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 7.99,
+    "dept_average_30d": 4.89,
+    "dept_rank": 11,
+    "dept_size": 237
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "username": "noel.padavan",
+  "name": "Noel Padavan",
+  "generated_at": "2026-04-08T20:22:13.833225",
+  "summary": {
+    "message_count": 884,
+    "channels_active": 33,
+    "unique_people_mentioned": 49,
+    "unique_mentioners": 43,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 30,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-cti-data",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "that just made my evening, thank you",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "if PRs havent changed from yday they LGTM when I reviewed. Great work on the demo :rocket_animated:",
+          "channel": "proj-enhance-flinksql-toolkit",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, this is exactly what I was looking for. will get back to you soon",
+          "channel": "help-cti-data",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yes please, thanks! sorry bout this folks",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Ah gotcha, I can help resolve this. Firstly, is it a k8s deployment? if so, could you please pass along the cluster(s) / namespace",
+          "channel": "help-events",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, will do",
+          "channel": "dev-platform-data-goalie",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ">  do you know when the workers will switch over to use the new certs?\ncould you also check on this :pls:, thank you!",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "turns out that gh action may just be useless, it seems like certloader is overriding",
+          "channel": "streaming-foundations-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "so unless there are CDC deployments with kafka certs that dont have GSAs at all, they are for sure using GSA email principals already, rendering",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "or else it will still be upset",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "or else you will get a topics not consistent error in UI",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "like I said, I think we also need to perform a restart on any deployment that connects to kafka using this secret. in `sox-us-east1-1,",
+          "channel": "help-ris",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 52,
+      "top_mentioned": [
+        {
+          "user": "jerick.liu",
+          "count": 7
+        },
+        {
+          "user": "filipe.deo",
+          "count": 7
+        },
+        {
+          "user": "eli.bailey",
+          "count": 6
+        },
+        {
+          "user": "yida.wang",
+          "count": 5
+        },
+        {
+          "user": "sofia.qureshi",
+          "count": 5
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 4
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 4
+        },
+        {
+          "user": "carmela.leung",
+          "count": 4
+        },
+        {
+          "user": "justin.chen",
+          "count": 3
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 736,
+      "top_channels": [
+        {
+          "channel": "help-streaming-platform",
+          "messages": 130
+        },
+        {
+          "channel": "help-ris",
+          "messages": 94
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 91
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 57
+        },
+        {
+          "channel": "help-melody",
+          "messages": 54
+        },
+        {
+          "channel": "help-cti-data",
+          "messages": 43
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 43
+        },
+        {
+          "channel": "help-events",
+          "messages": 41
+        },
+        {
+          "channel": "streaming-foundations-ops",
+          "messages": 40
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 34
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "justin.chen",
+          "count": 4
+        },
+        {
+          "user": "filipe.deo",
+          "count": 4
+        },
+        {
+          "user": "eli.bailey",
+          "count": 3
+        },
+        {
+          "user": "carine.araujo",
+          "count": 2
+        },
+        {
+          "user": "celso.marciano",
+          "count": 2
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 2
+        },
+        {
+          "user": "ravintushar.lathigra",
+          "count": 2
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 2
+        },
+        {
+          "user": "mazen.alhagri",
+          "count": 2
+        },
+        {
+          "user": "sofia.qureshi",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 108,
+      "17": 71,
+      "14": 77,
+      "0": 14,
+      "19": 127,
+      "16": 144,
+      "15": 88,
+      "13": 20,
+      "21": 42,
+      "20": 142,
+      "1": 39,
+      "23": 8,
+      "22": 4
+    },
+    "by_day": {
+      "Wednesday": 113,
+      "Tuesday": 109,
+      "Monday": 119,
+      "Friday": 237,
+      "Thursday": 306
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.3,
+    "dept_average_30d": 5.75,
+    "dept_rank": 85,
+    "dept_size": 357
+  }
+}

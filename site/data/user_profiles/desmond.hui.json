@@ -1,0 +1,217 @@
+{
+  "username": "desmond.hui",
+  "name": "Desmond Hui",
+  "generated_at": "2026-04-08T20:22:16.631247",
+  "summary": {
+    "message_count": 149,
+    "channels_active": 17,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018GBXBZE1> you can rebase on main now. It now supports team layer and segments features. Please let me know if you run into any issues",
+          "channel": "proj-semantic-layer",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Realized I missed an item in the backfill flow on Monday :cry: :sigh: , need to restart it. ETA now Thursday AM. Please let me know if we need",
+          "channel": "proj-exec-insights-plan",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I was able to restore the side car with `max_date = 2026-03-17` (could not get 2026-03-18 for whatever reason) and ran the following commands to",
+          "channel": "proj-exec-insights-plan",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "connor.mccambridge",
+          "count": 20
+        },
+        {
+          "user": "steven.wu",
+          "count": 12
+        },
+        {
+          "user": "sarah.eade",
+          "count": 11
+        },
+        {
+          "user": "spencer.bonar",
+          "count": 9
+        },
+        {
+          "user": "mohamed.toure",
+          "count": 6
+        },
+        {
+          "user": "thomas.massinger",
+          "count": 6
+        },
+        {
+          "user": "ben.etienne",
+          "count": 6
+        },
+        {
+          "user": "lena.wallheimer",
+          "count": 4
+        },
+        {
+          "user": "adam.whitaker",
+          "count": 3
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.92,
+      "count": 130,
+      "top_channels": [
+        {
+          "channel": "proj-exec-insights-plan",
+          "messages": 81
+        },
+        {
+          "channel": "proj-semantic-layer",
+          "messages": 19
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 10
+        },
+        {
+          "channel": "cto-dashboard-monitor",
+          "messages": 8
+        },
+        {
+          "channel": "tmp-visitors-bots",
+          "messages": 8
+        },
+        {
+          "channel": "cto-metrics-monitor-exec-insights-de",
+          "messages": 4
+        },
+        {
+          "channel": "buyers-data",
+          "messages": 4
+        },
+        {
+          "channel": "exec-insights-notify",
+          "messages": 3
+        },
+        {
+          "channel": "shop-data",
+          "messages": 2
+        },
+        {
+          "channel": "proj-data-platform-warehouse-versioning",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 110,
+      "top_mentioners": [
+        {
+          "user": "lena.wallheimer",
+          "count": 28
+        },
+        {
+          "user": "steven.wu",
+          "count": 26
+        },
+        {
+          "user": "sarah.eade",
+          "count": 10
+        },
+        {
+          "user": "spencer.bonar",
+          "count": 6
+        },
+        {
+          "user": "connor.mccambridge",
+          "count": 6
+        },
+        {
+          "user": "mohamed.toure",
+          "count": 4
+        },
+        {
+          "user": "adam.whitaker",
+          "count": 4
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 2
+        },
+        {
+          "user": "luke.qi",
+          "count": 2
+        },
+        {
+          "user": "austin.clooney",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 25,
+      "14": 16,
+      "13": 5,
+      "21": 7,
+      "20": 11,
+      "19": 18,
+      "18": 13,
+      "23": 4,
+      "16": 16,
+      "15": 16,
+      "2": 7,
+      "0": 3,
+      "22": 4,
+      "11": 1,
+      "4": 1,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 38,
+      "Tuesday": 34,
+      "Monday": 31,
+      "Friday": 14,
+      "Thursday": 32
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.37,
+    "dept_average_30d": 5.39,
+    "dept_rank": 41,
+    "dept_size": 272
+  }
+}

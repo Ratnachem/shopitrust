@@ -1,0 +1,270 @@
+{
+  "username": "gary.kamen",
+  "name": "Gary Kamen",
+  "generated_at": "2026-04-08T20:22:30.889414",
+  "summary": {
+    "message_count": 196,
+    "channels_active": 18,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 13,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Cool, thank you!",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U05UB3X0D0E>, I see you're booked for the rest of your day. Let me know if any time today works. If not, I'll schedule time for tomorrow AM. I",
+          "channel": "temp-marketing-leads-signal-drop",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Huge thank you! As of now, I'm seeing the deltas have nearly improved 100% (at least according to the logs):\n\u2022 The 32K merchantEventId delta is down",
+          "channel": "inc-20051-not-seeing-any-events-in-our-kafka-consum",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03EEGFGL9L>. And then we need to run both queries against it (backfill of most discarded events AND backfill of 32K merchanteventids),",
+          "channel": "inc-20051-not-seeing-any-events-in-our-kafka-consum",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "This is awesome, thank you. And the additional ~12K from Nahom's PR are still grouped in discarded_events right?",
+          "channel": "inc-20051-not-seeing-any-events-in-our-kafka-consum",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That's perfect. Thank you",
+          "channel": "inc-20051-not-seeing-any-events-in-our-kafka-consum",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "This is fantastic, thank you! It looks like Mar 13 made up the bulk with 246K backfilled",
+          "channel": "inc-20051-not-seeing-any-events-in-our-kafka-consum",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you! And likely some from 2-25 from mid-day on?",
+          "channel": "inc-20051-not-seeing-any-events-in-our-kafka-consum",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U01JNVA26QG>! I don't think we'll know for sure whether there's a gap until this",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Thanks <@W019NNKDR8U>. It spiked again over the weekend, as you prob saw in the thread with Brandt. Let me know how I can help. Assuming our typical",
+          "channel": "inc-19875-marketing-event-consumers-didnt-consume-e",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You're right. For whatever reason, both tables are missing data for a period of time between late 2-24 and 3-3. I think we need to use both tables",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "michelle.pushefski",
+          "count": 16
+        },
+        {
+          "user": "brandt.lareau",
+          "count": 11
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 7
+        },
+        {
+          "user": "nahom.befekadu",
+          "count": 7
+        },
+        {
+          "user": "vickram.ramchandani",
+          "count": 5
+        },
+        {
+          "user": "jeffrey.deng",
+          "count": 4
+        },
+        {
+          "user": "akanksha",
+          "count": 3
+        },
+        {
+          "user": "morgan.holland",
+          "count": 3
+        },
+        {
+          "user": "brynn.vadala",
+          "count": 3
+        },
+        {
+          "user": "denzel.kwan",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.05,
+      "count": 240,
+      "top_channels": [
+        {
+          "channel": "inc-20051-not-seeing-any-events-in-our-kafka-consum",
+          "messages": 74
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 27
+        },
+        {
+          "channel": "help-growth-data",
+          "messages": 17
+        },
+        {
+          "channel": "inc-19875-marketing-event-consumers-didnt-consume-e",
+          "messages": 16
+        },
+        {
+          "channel": "proj-affiliate-claim-your-store",
+          "messages": 14
+        },
+        {
+          "channel": "temp-marketing-leads-signal-drop",
+          "messages": 12
+        },
+        {
+          "channel": "affiliate-daily-alerts",
+          "messages": 10
+        },
+        {
+          "channel": "help-melody",
+          "messages": 4
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 4
+        },
+        {
+          "channel": "melody-team",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 86,
+      "top_mentioners": [
+        {
+          "user": "michelle.pushefski",
+          "count": 22
+        },
+        {
+          "user": "jennifer.patten",
+          "count": 7
+        },
+        {
+          "user": "akanksha",
+          "count": 7
+        },
+        {
+          "user": "shayna.massey",
+          "count": 5
+        },
+        {
+          "user": "ayana.siddiqui",
+          "count": 4
+        },
+        {
+          "user": "emily.evans",
+          "count": 4
+        },
+        {
+          "user": "denzel.kwan",
+          "count": 3
+        },
+        {
+          "user": "brynn.vadala",
+          "count": 2
+        },
+        {
+          "user": "stephanie.paulin",
+          "count": 2
+        },
+        {
+          "user": "justin.arak",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "23": 15,
+      "22": 17,
+      "21": 26,
+      "20": 31,
+      "17": 10,
+      "19": 27,
+      "18": 15,
+      "16": 21,
+      "15": 19,
+      "14": 3,
+      "0": 9,
+      "3": 1,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 39,
+      "Tuesday": 75,
+      "Monday": 25,
+      "Friday": 40,
+      "Thursday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.1,
+    "dept_average_30d": 5.58,
+    "dept_rank": 272,
+    "dept_size": 398
+  }
+}

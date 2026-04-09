@@ -1,0 +1,191 @@
+{
+  "username": "tyler.kelleher",
+  "name": "Tyler Kelleher",
+  "generated_at": "2026-04-08T20:22:28.346072",
+  "summary": {
+    "message_count": 158,
+    "channels_active": 10,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> here is the context Hi team, TMS here. Merchant is looking to understand why a product was assigned to a location they were not",
+          "channel": "tyler-bosses-around-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "```Here's the comparison between the two cases:\nCase 1 \u2014 Renu Therapy (order 5819854487598):\n- 2\u00d7 \"Vero\" ordered \u2192 1 fulfilled via Netsuite \u2192 1",
+          "channel": "inc-20762-cannot-create-fulfillment-due-to-invalid",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "fulfillment-atc-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds good thank you! What caused the `CrossDbTransaction::Error`  for these cases?",
+          "channel": "inv-20202-new-discount-errors-shopify",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "michael.pratt",
+          "count": 2
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 2
+        },
+        {
+          "user": "james.highfield",
+          "count": 1
+        },
+        {
+          "user": "marcus.turner",
+          "count": 1
+        },
+        {
+          "user": "reuben.sutton",
+          "count": 1
+        },
+        {
+          "user": "riya.walia",
+          "count": 1
+        },
+        {
+          "user": "alan.hill",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.92,
+      "count": 77,
+      "top_channels": [
+        {
+          "channel": "tyler-bosses-around-river",
+          "messages": 60
+        },
+        {
+          "channel": "fulfillment-atc-river",
+          "messages": 45
+        },
+        {
+          "channel": "inc-20762-cannot-create-fulfillment-due-to-invalid",
+          "messages": 14
+        },
+        {
+          "channel": "inv-20205-100-events-for-slicefulfillments",
+          "messages": 14
+        },
+        {
+          "channel": "tyler-and-river-fix-things",
+          "messages": 11
+        },
+        {
+          "channel": "inv-20085-order-printer-error-spike-prisma-timeouts",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20202-new-discount-errors-shopify",
+          "messages": 3
+        },
+        {
+          "channel": "inc-21044-shard-65-writer-is-pinned",
+          "messages": 2
+        },
+        {
+          "channel": "fulfillment-excp",
+          "messages": 2
+        },
+        {
+          "channel": "fulfillment-operations",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.46,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "jacoby.joukema",
+          "count": 2
+        },
+        {
+          "user": "reuben.sutton",
+          "count": 1
+        },
+        {
+          "user": "michael.pratt",
+          "count": 1
+        },
+        {
+          "user": "chema.balsas",
+          "count": 1
+        },
+        {
+          "user": "james.highfield",
+          "count": 1
+        },
+        {
+          "user": "paul.ayling",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 17,
+      "14": 23,
+      "21": 2,
+      "20": 11,
+      "19": 19,
+      "12": 13,
+      "18": 26,
+      "17": 12,
+      "16": 5,
+      "13": 18,
+      "2": 6,
+      "1": 6
+    },
+    "by_day": {
+      "Tuesday": 28,
+      "Monday": 20,
+      "Thursday": 16,
+      "Friday": 87,
+      "Wednesday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.43,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1147,
+    "dept_size": 1233
+  }
+}

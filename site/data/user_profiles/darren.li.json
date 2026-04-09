@@ -1,0 +1,242 @@
+{
+  "username": "darren.li",
+  "name": "Darren Li",
+  "generated_at": "2026-04-08T20:22:27.207774",
+  "summary": {
+    "message_count": 701,
+    "channels_active": 18,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U028J4T5WD9> taking over the oncall for today. Do you want me to work on these recommended scale up ?",
+          "channel": "streaming-foundations-ops",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Do you want me to unregister ?",
+          "channel": "streaming-foundations-alerts",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I was getting `pods`, my bad :sweat:",
+          "channel": "inv-20368-kafka-us-region-migration-monitoring",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U02DP615LL8>, Good morning! I\u2019m planning to kick off the US region migration this morning (EDT). I  will have a flight around 3:00 pm EDT, so if",
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "\ud83c\udf89",
+          "text": "```\u279c  infrastructure git:(main) \u2717 k get po --context kafka-sandbox-us-ea1-gq0 -n kafka\nNAME                                       READY   STATUS     ",
+          "channel": "infrastructure-lifecycle",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "retool-events-community",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Please feel free to join",
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "filipe.deo",
+          "count": 31
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 13
+        },
+        {
+          "user": "jerick.liu",
+          "count": 11
+        },
+        {
+          "user": "andrew.droll",
+          "count": 8
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 6
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 4
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 3
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 2
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        },
+        {
+          "user": "justin.chen",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.81,
+      "count": 127,
+      "top_channels": [
+        {
+          "channel": "inv-19995-gamesday--production-us-region-failover-s",
+          "messages": 181
+        },
+        {
+          "channel": "inv-20368-kafka-us-region-migration-monitoring",
+          "messages": 166
+        },
+        {
+          "channel": "streaming-foundations-alerts",
+          "messages": 103
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 81
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 35
+        },
+        {
+          "channel": "streaming-foundations-ops",
+          "messages": 33
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 29
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 18
+        },
+        {
+          "channel": "pi",
+          "messages": 13
+        },
+        {
+          "channel": "retool-events-community",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.17,
+      "count": 64,
+      "top_mentioners": [
+        {
+          "user": "filipe.deo",
+          "count": 24
+        },
+        {
+          "user": "andrew.droll",
+          "count": 15
+        },
+        {
+          "user": "jerick.liu",
+          "count": 5
+        },
+        {
+          "user": "jax.hodgkinson",
+          "count": 4
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 4
+        },
+        {
+          "user": "balint.bene",
+          "count": 3
+        },
+        {
+          "user": "noel.padavan",
+          "count": 2
+        },
+        {
+          "user": "christian.shumharden",
+          "count": 2
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 1
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 105,
+      "18": 115,
+      "17": 104,
+      "16": 73,
+      "21": 69,
+      "15": 31,
+      "4": 2,
+      "20": 100,
+      "22": 41,
+      "0": 5,
+      "23": 21,
+      "14": 21,
+      "13": 11,
+      "1": 3
+    },
+    "by_day": {
+      "Tuesday": 136,
+      "Monday": 148,
+      "Friday": 136,
+      "Thursday": 196,
+      "Wednesday": 85
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.75,
+    "dept_rank": 131,
+    "dept_size": 357
+  }
+}

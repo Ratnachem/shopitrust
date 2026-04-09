@@ -1,0 +1,246 @@
+{
+  "username": "leo.godin",
+  "name": "Leo Godin",
+  "generated_at": "2026-04-08T20:22:08.781475",
+  "summary": {
+    "message_count": 219,
+    "channels_active": 16,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That's the piece I was missing. Not everything in .flink.sql is run in Flink. Thank you! This clears up a ton of questions.",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you. I was going to figure where this was configured today.",
+          "channel": "reportify-etl",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Nice! Let me know if I can help in any way",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Nice! Let me know if I can help in any way",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "It's deploying now. We'll still need to backfill and reconcile, but it's a good start. <@W018HM8A458> Do you want me to do that? Happy to",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Anyone want me to grab any pipelines you haven't started or do any staging-to-prod tasks? All pipelines we can do have names.",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm not sure about QA performance, but our tooling can evolve into whatever we need. Column-level lineage is pretty simple for most of our models.",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If it still fails, do !dev up in Claude so it sees the output. Probably need to delete some local volume or pod or whatever we're using",
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "timestamp": "2026-03-20"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "jordan.miranda",
+          "count": 10
+        },
+        {
+          "user": "yifan.ye",
+          "count": 5
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 3
+        },
+        {
+          "user": "steven.lee",
+          "count": 3
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 3
+        },
+        {
+          "user": "jesse.tao",
+          "count": 2
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 2
+        },
+        {
+          "user": "susie.lee",
+          "count": 2
+        },
+        {
+          "user": "logan.best",
+          "count": 1
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.09,
+      "count": 137,
+      "top_channels": [
+        {
+          "channel": "analytics-team-data",
+          "messages": 93
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 71
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 12
+        },
+        {
+          "channel": "reportify-etl",
+          "messages": 7
+        },
+        {
+          "channel": "proj-analytics-migrate-fastlane-flink",
+          "messages": 6
+        },
+        {
+          "channel": "analytics-team-for-atc-collaboration",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20576-title-unverified-returns-misidentified-as",
+          "messages": 5
+        },
+        {
+          "channel": "analytics-team-smart-analytics",
+          "messages": 4
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "ai-security",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "yifan.ye",
+          "count": 6
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 5
+        },
+        {
+          "user": "calvin.zhou",
+          "count": 4
+        },
+        {
+          "user": "steven.lee",
+          "count": 2
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 2
+        },
+        {
+          "user": "jesse.tao",
+          "count": 1
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 1
+        },
+        {
+          "user": "susie.lee",
+          "count": 1
+        },
+        {
+          "user": "joan.ramos",
+          "count": 1
+        },
+        {
+          "user": "devina.dhawan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 32,
+      "17": 20,
+      "15": 36,
+      "14": 31,
+      "22": 1,
+      "13": 15,
+      "21": 26,
+      "20": 24,
+      "19": 20,
+      "16": 14
+    },
+    "by_day": {
+      "Wednesday": 78,
+      "Tuesday": 41,
+      "Monday": 31,
+      "Friday": 47,
+      "Thursday": 22
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.49,
+    "dept_average_30d": 5.39,
+    "dept_rank": 122,
+    "dept_size": 272
+  }
+}

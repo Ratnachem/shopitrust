@@ -1,0 +1,87 @@
+{
+  "username": "soutaro.matsumoto",
+  "name": "Soutaro Matsumoto",
+  "generated_at": "2026-04-08T20:22:31.153529",
+  "summary": {
+    "message_count": 13,
+    "channels_active": 1,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you very much! :pray:",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "vinicius.stock",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.14,
+      "count": 30,
+      "top_channels": [
+        {
+          "channel": "team-ruby-dx",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "alexandre.terrasa",
+          "count": 1
+        },
+        {
+          "user": "alexander.momchilov",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "7": 1,
+      "9": 1,
+      "3": 1,
+      "5": 5,
+      "1": 1,
+      "4": 3
+    },
+    "by_day": {
+      "Wednesday": 6,
+      "Tuesday": 6,
+      "Thursday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 3.98,
+    "dept_average_30d": 5.75,
+    "dept_rank": 350,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "username": "noah.frank",
+  "name": "Noah Frank",
+  "generated_at": "2026-04-08T20:22:16.627891",
+  "summary": {
+    "message_count": 450,
+    "channels_active": 27,
+    "unique_people_mentioned": 27,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.0,
+      "pos_count": 40,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Updated my rows.",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U08HY1XKGPJ> I have not yet started on this. I'll be completing my mastery cycle and some other on-going tasks on the side over the next 2 days. Do",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Nice! Thank you. Didn't want to spam retries in case it was something else, but next time I'll try one re-try before reaching out",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "[Non-urgent Question] I have a question about shard-server vs. broker DSL differences when it comes to picking up changes. Let's say I have the",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you :raised_hands:",
+          "channel": "search-ingestion-and-indexing-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work!",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Yes! Will do. Still running some extra manual load tests just to be super safe, then I will deploy `dsl-downloader-prod` -&gt;",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Wow no kidding, this is much more intuitive. I'll try this out in the next DSL I test. Thanks!",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Just catching up, I think re-basing on the different combination weight will be a lot of work, since the L3 fine-tuning is quite manual. This would",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Just catching up, I think re-basing on the different combination weight will be a lot of work, since the L3 fine-tuning is quite manual. This would",
+          "channel": "search-relevance-ranking-team",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey folks, will you be indexing a new brand prevalence score into Vantage? I was just digging around today and noticed that even `v2` of brand",
+          "channel": "tmp-proj-metrics-v4",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.32,
+      "count": 30,
+      "top_mentioned": [
+        {
+          "user": "jingyi.guo",
+          "count": 14
+        },
+        {
+          "user": "felipe.besson",
+          "count": 13
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 7
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 6
+        },
+        {
+          "user": "mojtaba.kohram",
+          "count": 5
+        },
+        {
+          "user": "ben.chen",
+          "count": 5
+        },
+        {
+          "user": "sid.somani",
+          "count": 4
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 3
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 3
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.01,
+      "count": 238,
+      "top_channels": [
+        {
+          "channel": "search-relevance-ranking-team",
+          "messages": 208
+        },
+        {
+          "channel": "proj-dnn-ranker",
+          "messages": 50
+        },
+        {
+          "channel": "tmp-tangle-super-mla",
+          "messages": 44
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 42
+        },
+        {
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "messages": 17
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 12
+        },
+        {
+          "channel": "help-search-tooling",
+          "messages": 11
+        },
+        {
+          "channel": "search-relevance-metrics-v-team",
+          "messages": 9
+        },
+        {
+          "channel": "proj-dsl-shared",
+          "messages": 7
+        },
+        {
+          "channel": "tangle",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 150,
+      "top_mentioners": [
+        {
+          "user": "jingyi.guo",
+          "count": 21
+        },
+        {
+          "user": "felipe.besson",
+          "count": 19
+        },
+        {
+          "user": "ben.chen",
+          "count": 19
+        },
+        {
+          "user": "zhibiao.rao",
+          "count": 17
+        },
+        {
+          "user": "cheng.yuan",
+          "count": 7
+        },
+        {
+          "user": "sid.somani",
+          "count": 6
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 6
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 5
+        },
+        {
+          "user": "mojtaba.kohram",
+          "count": 4
+        },
+        {
+          "user": "madhav.thaker",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 45,
+      "23": 30,
+      "21": 64,
+      "20": 44,
+      "19": 36,
+      "15": 44,
+      "22": 28,
+      "14": 10,
+      "5": 6,
+      "1": 11,
+      "0": 11,
+      "16": 55,
+      "4": 5,
+      "18": 53,
+      "11": 2,
+      "3": 3,
+      "2": 2,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 98,
+      "Tuesday": 100,
+      "Monday": 80,
+      "Friday": 67,
+      "Thursday": 105
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.34,
+    "dept_average_30d": 5.79,
+    "dept_rank": 247,
+    "dept_size": 1233
+  }
+}

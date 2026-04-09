@@ -1,0 +1,257 @@
+{
+  "username": "yinghai.zhao",
+  "name": "Yinghai Zhao",
+  "generated_at": "2026-04-08T20:22:26.572189",
+  "summary": {
+    "message_count": 459,
+    "channels_active": 17,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "release is prepared in the PR, do we want to ship this first?\nor you have some other approaches you want to explore<@U02UJ40Q4MR> ?\n\nfeel free to",
+          "channel": "help-exp",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help with the release",
+          "channel": "help-exp",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Andrew! A few answers:\n\n*1. Can a metric be both secondary and guardrail?*\nThey're mutually exclusive types on a given experiment (SUPPORTING,",
+          "channel": "help-exp",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Hey Juliana! This is a known limitation of running parallel experiments with the same subject type.\n\nVerdict assigns variants deterministically via",
+          "channel": "help-exp",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "maybe I was wrong, looks like there's a cache refresh path",
+          "channel": "inc-20641-gcp-packet-loss-us-ea1",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help with exp/flags part, and will need someone from melody for the melody gem",
+          "channel": "help-melody",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-verdict-performance",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much for taking care of this Pablo",
+          "channel": "exp-team",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> Offenses:\nlib/verdict/services/refresh_backoff.rb:26:7: C: Style/ClassMethodsDefinitions: Use class &lt;&lt; self to define a class",
+          "channel": "inv-20182-intermittent-latency-spikes-on-exp",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "syedhabib.urrehman",
+          "count": 15
+        },
+        {
+          "user": "lin.zhao",
+          "count": 15
+        },
+        {
+          "user": "pablo.marti",
+          "count": 8
+        },
+        {
+          "user": "matthew.tanous",
+          "count": 4
+        },
+        {
+          "user": "ross.williams",
+          "count": 3
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 2
+        },
+        {
+          "user": "nicholas.wu",
+          "count": 2
+        },
+        {
+          "user": "daniel.newbury",
+          "count": 2
+        },
+        {
+          "user": "dan.mayer",
+          "count": 2
+        },
+        {
+          "user": "philip.blaquiere",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.85,
+      "count": 177,
+      "top_channels": [
+        {
+          "channel": "help-exp",
+          "messages": 166
+        },
+        {
+          "channel": "experiments-goalie",
+          "messages": 85
+        },
+        {
+          "channel": "yinghai-bots",
+          "messages": 55
+        },
+        {
+          "channel": "exp-team",
+          "messages": 46
+        },
+        {
+          "channel": "proj-exp-cacheless-bandit",
+          "messages": 23
+        },
+        {
+          "channel": "exp-river",
+          "messages": 19
+        },
+        {
+          "channel": "inc-20641-gcp-packet-loss-us-ea1",
+          "messages": 16
+        },
+        {
+          "channel": "proj-verdict-performance",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20182-intermittent-latency-spikes-on-exp",
+          "messages": 9
+        },
+        {
+          "channel": "exp-burst-q1-2026",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 125,
+      "top_mentioners": [
+        {
+          "user": "pablo.marti",
+          "count": 33
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 19
+        },
+        {
+          "user": "syedhabib.urrehman",
+          "count": 8
+        },
+        {
+          "user": "charlie.king",
+          "count": 8
+        },
+        {
+          "user": "nicholas.wu",
+          "count": 7
+        },
+        {
+          "user": "lin.zhao",
+          "count": 6
+        },
+        {
+          "user": "ross.williams",
+          "count": 6
+        },
+        {
+          "user": "nicholas.licalzi",
+          "count": 5
+        },
+        {
+          "user": "simon.pearson",
+          "count": 4
+        },
+        {
+          "user": "justin.robischon",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 47,
+      "20": 33,
+      "18": 68,
+      "13": 25,
+      "19": 85,
+      "16": 44,
+      "22": 24,
+      "15": 56,
+      "14": 43,
+      "17": 28,
+      "23": 2,
+      "3": 2,
+      "1": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Tuesday": 99,
+      "Monday": 75,
+      "Thursday": 106,
+      "Wednesday": 125,
+      "Friday": 54
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.37,
+    "dept_average_30d": 5.58,
+    "dept_rank": 68,
+    "dept_size": 398
+  }
+}

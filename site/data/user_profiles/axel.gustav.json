@@ -1,0 +1,121 @@
+{
+  "username": "axel.gustav",
+  "name": "Axel Gustav",
+  "generated_at": "2026-04-08T20:22:09.177990",
+  "summary": {
+    "message_count": 24,
+    "channels_active": 7,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Hi team :fox-wave: I'm back from intermission. Happy to help out with anything if needed :slightly_smiling_face: otherwise I'll just stay put and tag",
+          "channel": "proj-hipaa-poc-scoping",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hi Jack, there has been no activity on this recently but I'm going to pick this up again.\n\nIf this is currently supported, I will try to maintain",
+          "channel": "help-launchpad",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "jack.mclaughlin",
+          "count": 1
+        },
+        {
+          "user": "chelsea.tabert",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.8,
+      "count": 21,
+      "top_channels": [
+        {
+          "channel": "launchpad-dev",
+          "messages": 7
+        },
+        {
+          "channel": "wharf-operations",
+          "messages": 6
+        },
+        {
+          "channel": "help-launchpad",
+          "messages": 3
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 3
+        },
+        {
+          "channel": "help-minerva-clouddo",
+          "messages": 3
+        },
+        {
+          "channel": "proj-hipaa-poc-scoping",
+          "messages": 1
+        },
+        {
+          "channel": "professional-services-operations",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "jack.mclaughlin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 7,
+      "21": 1,
+      "19": 3,
+      "14": 2,
+      "13": 1,
+      "15": 5,
+      "17": 1,
+      "16": 4
+    },
+    "by_day": {
+      "Wednesday": 4,
+      "Tuesday": 8,
+      "Thursday": 3,
+      "Monday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Professional Services",
+    "user_score_30d": 4.32,
+    "dept_average_30d": 4.61,
+    "dept_rank": 34,
+    "dept_size": 52
+  }
+}

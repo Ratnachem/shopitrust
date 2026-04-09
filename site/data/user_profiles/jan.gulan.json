@@ -1,0 +1,213 @@
+{
+  "username": "jan.gulan",
+  "name": "Jan Gulan",
+  "generated_at": "2026-04-08T20:22:21.256516",
+  "summary": {
+    "message_count": 180,
+    "channels_active": 8,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-dynamic-cle-with-completeness-engine",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "That's a good find, thanks! I'm all in favour of trying to keep our tests performant, trimming where we can and thinking of the feedback loop (even",
+          "channel": "proj-dynamic-cle-with-completeness-engine",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I also drafted another two new Github tickets, which I think we'll want to tackle medium to longer term. Feel free to review and comment:\n\n\u2022",
+          "channel": "proj-dynamic-cle-with-completeness-engine",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "It shouldn't cause any issues - these are new types/properties not yet used by callers. Feel free to let these changes merge.",
+          "channel": "proj-dynamic-cle-with-completeness-engine",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: Hey folks, can somebody please review this little PR? <https://github.com/shop/world/pull/500073|Add missing eligibility translation for",
+          "channel": "discounts-team",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sure thing and it was only really an FYI to say there are <https://shopify.slack.com/archives/C09EK88JFFZ/p1773741530177259|two new tickets> on the",
+          "channel": "foundations-entities-team",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "xiaoxi.pang",
+          "count": 2
+        },
+        {
+          "user": "kelvin.tse",
+          "count": 1
+        },
+        {
+          "user": "gaurav.keswani",
+          "count": 1
+        },
+        {
+          "user": "bill.klenotiz",
+          "count": 1
+        },
+        {
+          "user": "filip.drobnjakovic",
+          "count": 1
+        },
+        {
+          "user": "shaun.sim",
+          "count": 1
+        },
+        {
+          "user": "vishnusankar.ms",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.45,
+      "count": 91,
+      "top_channels": [
+        {
+          "channel": "proj-dynamic-cle-with-completeness-engine",
+          "messages": 73
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 48
+        },
+        {
+          "channel": "entities-river",
+          "messages": 37
+        },
+        {
+          "channel": "proj-trust-battery-unified-policy",
+          "messages": 11
+        },
+        {
+          "channel": "foundations-entities-team",
+          "messages": 5
+        },
+        {
+          "channel": "completeness-engine-observe-alert-training",
+          "messages": 4
+        },
+        {
+          "channel": "discounts-team",
+          "messages": 1
+        },
+        {
+          "channel": "tmp-identity-resiliency",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "filip.drobnjakovic",
+          "count": 5
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 3
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 3
+        },
+        {
+          "user": "gaurav.keswani",
+          "count": 3
+        },
+        {
+          "user": "francis.kafieh",
+          "count": 2
+        },
+        {
+          "user": "joshua.kline",
+          "count": 2
+        },
+        {
+          "user": "camila.garciasan-1262",
+          "count": 2
+        },
+        {
+          "user": "torben.nielsen",
+          "count": 1
+        },
+        {
+          "user": "ahmad.dandachi",
+          "count": 1
+        },
+        {
+          "user": "lukas.michelbacher",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 8,
+      "15": 15,
+      "18": 5,
+      "7": 10,
+      "13": 19,
+      "12": 22,
+      "14": 12,
+      "10": 21,
+      "17": 20,
+      "11": 9,
+      "8": 11,
+      "9": 28
+    },
+    "by_day": {
+      "Wednesday": 38,
+      "Tuesday": 21,
+      "Monday": 17,
+      "Friday": 62,
+      "Thursday": 42
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.67,
+    "dept_average_30d": 5.79,
+    "dept_rank": 642,
+    "dept_size": 1233
+  }
+}

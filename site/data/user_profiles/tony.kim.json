@@ -1,0 +1,251 @@
+{
+  "username": "tony.kim",
+  "name": "Tony Kim",
+  "generated_at": "2026-04-08T20:22:21.177949",
+  "summary": {
+    "message_count": 227,
+    "channels_active": 16,
+    "unique_people_mentioned": 28,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I dont understand what you mean by the loop - but is there any way to just force kill or stop it? After this incident I can help set up jobs to",
+          "channel": "inv-21060-redis-memory-low",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that!",
+          "channel": "inv-21060-redis-memory-low",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks, just wanted to give a quick update on what i'm plannign to deploy shortly for \"phase 1\". Please let me know if you have any",
+          "channel": "help-cti-data",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! I'm trying to run `dev upload_to_staging` for some new extractor manifests in `data-acq-db-sources` (adding 5 unified_policy_* tables from",
+          "channel": "help-data-warehouse",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "will do, thank you!",
+          "channel": "help-commerce-trust-integrity",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "please let me know if you want to tuple, i can provide context / walk you through it :slightly_smiling_face:",
+          "channel": "help-cti-data",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "1. It's not super important, if we can figure it out another way. <@W018B0X8D2A> recommended I get the shop id then the plan, to determine test",
+          "channel": "risk-proj-unified-policy-management",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Got it, okay i'm confused why this shop didn't' make it to the dw raw tables. Claude can't figure it out either.",
+          "channel": "help-commerce-trust-integrity",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "simson.chiu",
+          "count": 13
+        },
+        {
+          "user": "alex.babinski",
+          "count": 10
+        },
+        {
+          "user": "tyler.haugenstanley",
+          "count": 6
+        },
+        {
+          "user": "victor.fontenele",
+          "count": 5
+        },
+        {
+          "user": "anne.bevis",
+          "count": 4
+        },
+        {
+          "user": "daniel.tamming",
+          "count": 4
+        },
+        {
+          "user": "alexandre.sauve",
+          "count": 3
+        },
+        {
+          "user": "fabio.maia",
+          "count": 3
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 2
+        },
+        {
+          "user": "isabella.chan",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.67,
+      "count": 220,
+      "top_channels": [
+        {
+          "channel": "help-cti-data",
+          "messages": 51
+        },
+        {
+          "channel": "dw-risk-monitoring",
+          "messages": 50
+        },
+        {
+          "channel": "inv-21060-redis-memory-low",
+          "messages": 21
+        },
+        {
+          "channel": "cti-data-alerts",
+          "messages": 20
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 17
+        },
+        {
+          "channel": "merchant-fraud-risk-team",
+          "messages": 15
+        },
+        {
+          "channel": "cti-policies-workstream",
+          "messages": 15
+        },
+        {
+          "channel": "risk-proj-unified-policy-management",
+          "messages": 14
+        },
+        {
+          "channel": "trust-battery",
+          "messages": 5
+        },
+        {
+          "channel": "proj-high-value-goods-policy",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "alexandre.sauve",
+          "count": 6
+        },
+        {
+          "user": "xiaoxi.pang",
+          "count": 5
+        },
+        {
+          "user": "anne.bevis",
+          "count": 4
+        },
+        {
+          "user": "artem.tartakynov",
+          "count": 4
+        },
+        {
+          "user": "alex.babinski",
+          "count": 3
+        },
+        {
+          "user": "simson.chiu",
+          "count": 3
+        },
+        {
+          "user": "tyler.haugenstanley",
+          "count": 3
+        },
+        {
+          "user": "mason.gionet",
+          "count": 3
+        },
+        {
+          "user": "jonathan.boston",
+          "count": 2
+        },
+        {
+          "user": "daniel.tamming",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 10,
+      "15": 27,
+      "18": 20,
+      "14": 10,
+      "20": 26,
+      "19": 25,
+      "13": 13,
+      "23": 7,
+      "21": 2,
+      "17": 53,
+      "2": 1,
+      "1": 1,
+      "12": 2,
+      "22": 20,
+      "3": 10
+    },
+    "by_day": {
+      "Wednesday": 71,
+      "Tuesday": 72,
+      "Monday": 15,
+      "Friday": 26,
+      "Thursday": 43
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.47,
+    "dept_average_30d": 5.39,
+    "dept_rank": 36,
+    "dept_size": 272
+  }
+}

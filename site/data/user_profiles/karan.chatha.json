@@ -1,0 +1,181 @@
+{
+  "username": "karan.chatha",
+  "name": "Karan Chatha",
+  "generated_at": "2026-04-08T20:22:23.878318",
+  "summary": {
+    "message_count": 69,
+    "channels_active": 9,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 3,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll give it a shot :pray-3d:",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you :pray:",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U06SMN6L881> :hello: There was discussion around using the graphQL subagent for multimodal, <@W018WB1QH4Z> drafted up this issue:",
+          "channel": "proj-sidekick-multimodal",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!",
+          "channel": "proj-sidekick-delete-solr",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "dev pvc-cleanup is not a real command :neutral_face: thank you help-infra verdant\n\nran this kubectl command to clean up our PVCs in staging-19. This",
+          "channel": "proj-sidekick-delete-solr",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "okkk thank you Nathan :pray:",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "OK thanks!",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.38,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "chris.maltais",
+          "count": 2
+        },
+        {
+          "user": "josh.zucker",
+          "count": 1
+        },
+        {
+          "user": "apurva.gorti",
+          "count": 1
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.45,
+      "count": 149,
+      "top_channels": [
+        {
+          "channel": "proj-sidekick-delete-solr",
+          "messages": 28
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 15
+        },
+        {
+          "channel": "sidekick-staging",
+          "messages": 11
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 5
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 2
+        },
+        {
+          "channel": "help-assistants-data",
+          "messages": 2
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 2
+        },
+        {
+          "channel": "proj-sidekick-multimodal",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.87,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "chris.maltais",
+          "count": 2
+        },
+        {
+          "user": "josh.zucker",
+          "count": 1
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 2,
+      "13": 3,
+      "15": 7,
+      "16": 18,
+      "19": 11,
+      "21": 18,
+      "20": 3,
+      "18": 5,
+      "17": 2
+    },
+    "by_day": {
+      "Wednesday": 3,
+      "Monday": 16,
+      "Friday": 36,
+      "Thursday": 13,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.4,
+    "dept_average_30d": 4.74,
+    "dept_rank": 902,
+    "dept_size": 1663
+  }
+}

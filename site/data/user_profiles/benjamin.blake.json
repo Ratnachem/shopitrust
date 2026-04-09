@@ -1,0 +1,218 @@
+{
+  "username": "benjamin.blake",
+  "name": "Benjamin Blake",
+  "generated_at": "2026-04-08T20:22:20.172745",
+  "summary": {
+    "message_count": 285,
+    "channels_active": 22,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Cool thanks!",
+          "channel": "inv-20708-investigating-partner-reports-of-refund-d",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey folks - I am hoping to <https://github.com/shop/world/pull/426465|delete a query> that is internal only, but it is on stable API versions since",
+          "channel": "help-api-patterns",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yeah - we added that for exchanges to prevent continuing to have to add FKs to sales. I think right now we only use it for `ReturnLineItem` and",
+          "channel": "proj-write-offs",
+          "timestamp": "2026-04-06"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "jeremy.topper",
+          "count": 10
+        },
+        {
+          "user": "lee.richmond",
+          "count": 7
+        },
+        {
+          "user": "martin.samson",
+          "count": 4
+        },
+        {
+          "user": "carson.huang",
+          "count": 3
+        },
+        {
+          "user": "andrea.rice",
+          "count": 2
+        },
+        {
+          "user": "denis.kefallinos",
+          "count": 1
+        },
+        {
+          "user": "harshdeep.hura",
+          "count": 1
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 1
+        },
+        {
+          "user": "ken.smith",
+          "count": 1
+        },
+        {
+          "user": "mariusz.michalak",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.11,
+      "count": 138,
+      "top_channels": [
+        {
+          "channel": "proj-ucp-orders",
+          "messages": 107
+        },
+        {
+          "channel": "proj-tax-recalculation-address-change",
+          "messages": 52
+        },
+        {
+          "channel": "bb-river",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20708-investigating-partner-reports-of-refund-d",
+          "messages": 26
+        },
+        {
+          "channel": "returns-team",
+          "messages": 11
+        },
+        {
+          "channel": "inc-20007-receiving-an-increasing-amount-of-reports",
+          "messages": 10
+        },
+        {
+          "channel": "order-edit-on-checkout-workstream",
+          "messages": 10
+        },
+        {
+          "channel": "next-gen-events-order-topic",
+          "messages": 8
+        },
+        {
+          "channel": "proj-order-edit-tax-calculations-using-c1",
+          "messages": 8
+        },
+        {
+          "channel": "inv-21051-investigating-increase-in-refund-calculat",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 124,
+      "top_mentioners": [
+        {
+          "user": "jeremy.topper",
+          "count": 27
+        },
+        {
+          "user": "lee.richmond",
+          "count": 19
+        },
+        {
+          "user": "jon.hamburg",
+          "count": 8
+        },
+        {
+          "user": "carson.huang",
+          "count": 6
+        },
+        {
+          "user": "riya.walia",
+          "count": 6
+        },
+        {
+          "user": "kelly.ma",
+          "count": 5
+        },
+        {
+          "user": "michelle.lei",
+          "count": 5
+        },
+        {
+          "user": "andrea.rice",
+          "count": 5
+        },
+        {
+          "user": "ken.smith",
+          "count": 4
+        },
+        {
+          "user": "harshdeep.hura",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 36,
+      "14": 33,
+      "13": 25,
+      "21": 15,
+      "20": 43,
+      "17": 22,
+      "9": 1,
+      "1": 5,
+      "19": 23,
+      "18": 23,
+      "15": 23,
+      "2": 3,
+      "0": 6,
+      "23": 9,
+      "11": 1,
+      "22": 15,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 82,
+      "Tuesday": 44,
+      "Monday": 47,
+      "Friday": 39,
+      "Thursday": 73
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.7,
+    "dept_average_30d": 5.79,
+    "dept_rank": 629,
+    "dept_size": 1233
+  }
+}

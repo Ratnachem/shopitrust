@@ -1,0 +1,211 @@
+{
+  "username": "sheri.nguyen",
+  "name": "Sheri Nguyen",
+  "generated_at": "2026-04-08T20:22:17.473344",
+  "summary": {
+    "message_count": 137,
+    "channels_active": 15,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "<@U09CTASV000> I think the errors between reporting metrics and the intent clustering must be related. I can help look into it as well. There may be",
+          "channel": "core-magic-data-alerts",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!! is there a doc somewhere that confirms which IDs will be part of this first phase?",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll follow up with Ivan!",
+          "channel": "sdp-yugabyte-shop-data",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "sarah.mokros",
+          "count": 5
+        },
+        {
+          "user": "wheaton.welbourn",
+          "count": 5
+        },
+        {
+          "user": "philip.chan",
+          "count": 4
+        },
+        {
+          "user": "daniel.weng",
+          "count": 4
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 4
+        },
+        {
+          "user": "narendra.shetty",
+          "count": 4
+        },
+        {
+          "user": "constantino.schillebeeckx",
+          "count": 2
+        },
+        {
+          "user": "moaz.mahran",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "brett.wallace",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.86,
+      "count": 230,
+      "top_channels": [
+        {
+          "channel": "core-magic-data-alerts",
+          "messages": 29
+        },
+        {
+          "channel": "shop-agent-eng",
+          "messages": 25
+        },
+        {
+          "channel": "flight-deck",
+          "messages": 16
+        },
+        {
+          "channel": "proj-shopkick",
+          "messages": 15
+        },
+        {
+          "channel": "sdp-yugabyte-shop-data",
+          "messages": 15
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 10
+        },
+        {
+          "channel": "shop-agent-evals",
+          "messages": 7
+        },
+        {
+          "channel": "wya-river",
+          "messages": 7
+        },
+        {
+          "channel": "proj-consumer-with-sidekick",
+          "messages": 6
+        },
+        {
+          "channel": "compacabana-data-monitoring",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "wheaton.welbourn",
+          "count": 8
+        },
+        {
+          "user": "albert.lee",
+          "count": 4
+        },
+        {
+          "user": "anya.gongora",
+          "count": 3
+        },
+        {
+          "user": "niyati.bhagat",
+          "count": 3
+        },
+        {
+          "user": "siddhant.bajaj",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "sarah.mokros",
+          "count": 2
+        },
+        {
+          "user": "thomas.edgesmith",
+          "count": 2
+        },
+        {
+          "user": "andrew.valencik",
+          "count": 1
+        },
+        {
+          "user": "shen.ni",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 19,
+      "15": 4,
+      "1": 2,
+      "23": 17,
+      "20": 6,
+      "19": 11,
+      "18": 42,
+      "16": 9,
+      "0": 6,
+      "22": 17,
+      "21": 4
+    },
+    "by_day": {
+      "Wednesday": 22,
+      "Tuesday": 41,
+      "Monday": 38,
+      "Friday": 12,
+      "Thursday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.23,
+    "dept_average_30d": 5.79,
+    "dept_rank": 304,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "username": "abdullah.sheikh",
+  "name": "Abdullah Sheikh",
+  "generated_at": "2026-04-08T20:22:30.647144",
+  "summary": {
+    "message_count": 73,
+    "channels_active": 18,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 11,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197GES8GG> Pinging you because you are on-call for `InventoryDeleteExpiredManagedAssignmentsJob`. The error is already gone but an elevated error",
+          "channel": "inv-20422-elevated-core-error-rate-across-us-centra",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "No worries, happy to help! :jq-soundsgood:",
+          "channel": "proj-slow-query-prevention",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>\nSome context:\n\nShard 361 is a test shard used for Yugabyte-related testing. More context",
+          "channel": "river-abdullah-incident-training",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.8,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "jake.levine",
+          "count": 2
+        },
+        {
+          "user": "kyle.myers",
+          "count": 1
+        },
+        {
+          "user": "jian.mahmoudi",
+          "count": 1
+        },
+        {
+          "user": "chad.denyar",
+          "count": 1
+        },
+        {
+          "user": "ken.wagatsuma",
+          "count": 1
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.92,
+      "count": 99,
+      "top_channels": [
+        {
+          "channel": "river-abdullah-incident-training",
+          "messages": 23
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20392-high-and-sustained-core-p95-response-time",
+          "messages": 5
+        },
+        {
+          "channel": "infra-central",
+          "messages": 4
+        },
+        {
+          "channel": "resiliency-gameday-tooling",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20316-pingdom-shard-361-e2e-checkout-liquid-fai",
+          "messages": 3
+        },
+        {
+          "channel": "inv-20422-elevated-core-error-rate-across-us-centra",
+          "messages": 2
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 2
+        },
+        {
+          "channel": "proj-slow-query-prevention",
+          "messages": 2
+        },
+        {
+          "channel": "proj-probes",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.48,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "ken.wagatsuma",
+          "count": 3
+        },
+        {
+          "user": "jake.levine",
+          "count": 2
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 2
+        },
+        {
+          "user": "harvir.rajasanci",
+          "count": 2
+        },
+        {
+          "user": "tascha.douglas",
+          "count": 1
+        },
+        {
+          "user": "jonathan.cooper",
+          "count": 1
+        },
+        {
+          "user": "simon.menardlariviere",
+          "count": 1
+        },
+        {
+          "user": "felipe.cuozzo",
+          "count": 1
+        },
+        {
+          "user": "nam.mai",
+          "count": 1
+        },
+        {
+          "user": "aditya.singh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 3,
+      "18": 14,
+      "19": 6,
+      "16": 6,
+      "5": 1,
+      "4": 5,
+      "23": 6,
+      "17": 12,
+      "15": 8,
+      "22": 9,
+      "21": 3
+    },
+    "by_day": {
+      "Thursday": 17,
+      "Wednesday": 18,
+      "Friday": 11,
+      "Tuesday": 17,
+      "Monday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.85,
+    "dept_average_30d": 4.74,
+    "dept_rank": 628,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "username": "joe.gee",
+  "name": "Joe Gee",
+  "generated_at": "2026-04-08T20:22:18.099040",
+  "summary": {
+    "message_count": 113,
+    "channels_active": 26,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I appreciate the help!",
+          "channel": "infra-central",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks, I appreciate it!",
+          "channel": "infra-central",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Cool, no pairing needed, that covered me, thank you!",
+          "channel": "data-platform-tools-notify",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Can I get a very short PR review? An API call needed to look for a 201 instead of a 200. :slightly_smiling_face: Thanks!",
+          "channel": "infra-central",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "<@W01ACDYFHEX>, I was really excited for us to add these messages at first, but as they've gone by, I've realized that we have to hold mental state",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That sounds delightful, thank you for sharing!",
+          "channel": "data-platform-tools-memes",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah, thank you <@U087P2GBJ3D>, that make sense. :)",
+          "channel": "data-platform-tools-team",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Kinda depends on the job. Some jobs are specifying retry conditions, and known errors. Some don't care, kind of like yours, because they're going to",
+          "channel": "data-platform-tools-notify",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "dan.peach",
+          "count": 7
+        },
+        {
+          "user": "alankrit.joshi",
+          "count": 2
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 2
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 1
+        },
+        {
+          "user": "elize.papineau",
+          "count": 1
+        },
+        {
+          "user": "nick.wareing",
+          "count": 1
+        },
+        {
+          "user": "daniel.cole",
+          "count": 1
+        },
+        {
+          "user": "frank.jania",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.03,
+      "count": 292,
+      "top_channels": [
+        {
+          "channel": "data-platform-tools-notify",
+          "messages": 32
+        },
+        {
+          "channel": "proj-sdp-feature-platform",
+          "messages": 15
+        },
+        {
+          "channel": "infra-central",
+          "messages": 8
+        },
+        {
+          "channel": "data-platform-tools-team",
+          "messages": 8
+        },
+        {
+          "channel": "data-platform-tools-memes",
+          "messages": 7
+        },
+        {
+          "channel": "data-platform-experience-notify",
+          "messages": 6
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 5
+        },
+        {
+          "channel": "data-remote-happy-hour",
+          "messages": 5
+        },
+        {
+          "channel": "transformation-health-monitoring",
+          "messages": 4
+        },
+        {
+          "channel": "shopify-foundations-alerts",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "alankrit.joshi",
+          "count": 5
+        },
+        {
+          "user": "nick.wareing",
+          "count": 2
+        },
+        {
+          "user": "elize.papineau",
+          "count": 1
+        },
+        {
+          "user": "taizun.dalal",
+          "count": 1
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 22,
+      "16": 15,
+      "14": 11,
+      "15": 14,
+      "19": 7,
+      "21": 10,
+      "20": 9,
+      "18": 20,
+      "13": 1,
+      "23": 1,
+      "22": 3
+    },
+    "by_day": {
+      "Wednesday": 29,
+      "Tuesday": 15,
+      "Monday": 15,
+      "Friday": 30,
+      "Thursday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.56,
+    "dept_average_30d": 5.39,
+    "dept_rank": 114,
+    "dept_size": 272
+  }
+}

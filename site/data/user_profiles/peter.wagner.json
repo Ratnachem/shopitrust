@@ -1,0 +1,269 @@
+{
+  "username": "peter.wagner",
+  "name": "Peter Wagner",
+  "generated_at": "2026-04-08T20:22:17.677883",
+  "summary": {
+    "message_count": 259,
+    "channels_active": 21,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.4,
+      "pos_count": 4,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "yep! the app creds are basically \"root\" - we use them inside the sandbox to issue an installation token, then we use that installation token to",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "&gt; am i supposed to check kepler?\n`devx qmd` or `tec run .../qmd` are such a great shortcut here.\nno browser, no version fishing - just \"thanks to",
+          "channel": "proj-nix-supply-chain",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yep the second page is supposed to be populated - bug accepted thanks!",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "you can switch to using tectonix locally (and it is :sparkles: amazing :sparkles: ) -",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "cc <@U07QD8RMMJQ> i think eval looks like:\n1. find or deputize a cloudsmith admin - the were cool about it last time -",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i wondered what the `???` alternative to osquery would be.\n\u2022 at <https://fleetdm.com/docs/rest-api/rest-api> - i confirmed there is not direct data",
+          "channel": "proj-nix-supply-chain",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; standup yesterday\nmeta: our stand-up is today. should we avoid your project meeting becoming a defacto second standup? or alternatively should",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> skip whatever tool that is",
+          "channel": "pwagner-river-of-dreams",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "&gt; osquery\nthis is c++ but codex don't care :honeybadger:\n\ngit is `2.52.0` , graphite is `1.8.1`, etc (pasted in thread because it's big)",
+          "channel": "proj-nix-supply-chain",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "that response is useless: literally restating what i said",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i think we're good; or can seed whatever examples needed if names like `package-a` etc work",
+          "channel": "proj-bumper",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "kaiyi.li",
+          "count": 6
+        },
+        {
+          "user": "owen.cummings",
+          "count": 2
+        },
+        {
+          "user": "dakota.szabo",
+          "count": 1
+        },
+        {
+          "user": "devina.dhawan",
+          "count": 1
+        },
+        {
+          "user": "margaret.syms",
+          "count": 1
+        },
+        {
+          "user": "vasu.kumar",
+          "count": 1
+        },
+        {
+          "user": "jacob.michels",
+          "count": 1
+        },
+        {
+          "user": "victor.sumner",
+          "count": 1
+        },
+        {
+          "user": "erin.son",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.87,
+      "count": 178,
+      "top_channels": [
+        {
+          "channel": "proj-bumper",
+          "messages": 89
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 45
+        },
+        {
+          "channel": "proj-nix-supply-chain",
+          "messages": 31
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 19
+        },
+        {
+          "channel": "dependency-analyzer",
+          "messages": 16
+        },
+        {
+          "channel": "pwagner-river-of-dreams",
+          "messages": 12
+        },
+        {
+          "channel": "si-2520-axios",
+          "messages": 9
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "ai-security",
+          "messages": 6
+        },
+        {
+          "channel": "dev-proxy-shopify-ai",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.17,
+      "count": 64,
+      "top_mentioners": [
+        {
+          "user": "kaiyi.li",
+          "count": 16
+        },
+        {
+          "user": "chris.shino",
+          "count": 10
+        },
+        {
+          "user": "ashley.williams",
+          "count": 10
+        },
+        {
+          "user": "margaret.syms",
+          "count": 5
+        },
+        {
+          "user": "owen.cummings",
+          "count": 3
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 3
+        },
+        {
+          "user": "rob.healy",
+          "count": 2
+        },
+        {
+          "user": "jacob.michels",
+          "count": 2
+        },
+        {
+          "user": "alex.hope",
+          "count": 1
+        },
+        {
+          "user": "shawn.boutilier",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 26,
+      "16": 26,
+      "13": 27,
+      "12": 28,
+      "11": 25,
+      "19": 28,
+      "18": 26,
+      "15": 16,
+      "20": 13,
+      "14": 22,
+      "21": 4,
+      "6": 6,
+      "8": 3,
+      "7": 2,
+      "10": 6,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 71,
+      "Tuesday": 67,
+      "Monday": 49,
+      "Thursday": 48,
+      "Friday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Trust",
+    "user_score_30d": 9.08,
+    "dept_average_30d": 4.89,
+    "dept_rank": 4,
+    "dept_size": 237
+  }
+}

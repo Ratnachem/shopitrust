@@ -1,0 +1,184 @@
+{
+  "username": "wei.li",
+  "name": "Wei Li",
+  "generated_at": "2026-04-08T20:22:29.420650",
+  "summary": {
+    "message_count": 36,
+    "channels_active": 8,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U08H82MRAKF> &amp; <@U08H30J04HL>: last week we found this issue happens several times. As long as the QR qps increases, the broker reports",
+          "channel": "inv-20953-index-servingprodbrokeranomalyquery-rewri",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "The QR model is receiving more traffic right now. And it cause the failure rate increases. Can you help to check?",
+          "channel": "inv-20931-index-servingprodbrokeranomalyquery-rewri",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "jingyi.guo",
+          "count": 4
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 2
+        },
+        {
+          "user": "mingqin.li",
+          "count": 2
+        },
+        {
+          "user": "mojtaba.kohram",
+          "count": 2
+        },
+        {
+          "user": "isaac.sunoo",
+          "count": 1
+        },
+        {
+          "user": "shotaro.kamio",
+          "count": 1
+        },
+        {
+          "user": "helen.y.zhang",
+          "count": 1
+        },
+        {
+          "user": "michael.garner",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.52,
+      "count": 93,
+      "top_channels": [
+        {
+          "channel": "unified_query_rewriting",
+          "messages": 10
+        },
+        {
+          "channel": "inv-20953-index-servingprodbrokeranomalyquery-rewri",
+          "messages": 7
+        },
+        {
+          "channel": "inv-20931-index-servingprodbrokeranomalyquery-rewri",
+          "messages": 6
+        },
+        {
+          "channel": "inv-21094-index-servingprodbrokeranomalyquery-rewri",
+          "messages": 5
+        },
+        {
+          "channel": "inv-20945-index-servingprodbrokeranomalydnn-service",
+          "messages": 3
+        },
+        {
+          "channel": "proj-search-dropout-analysis",
+          "messages": 2
+        },
+        {
+          "channel": "proj-dnn-ranker",
+          "messages": 2
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.88,
+      "count": 42,
+      "top_mentioners": [
+        {
+          "user": "mingqin.li",
+          "count": 9
+        },
+        {
+          "user": "helen.y.zhang",
+          "count": 7
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 6
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 4
+        },
+        {
+          "user": "zheng.zhang",
+          "count": 4
+        },
+        {
+          "user": "john.finnson",
+          "count": 3
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 2
+        },
+        {
+          "user": "samantha.john",
+          "count": 2
+        },
+        {
+          "user": "igor.kil",
+          "count": 2
+        },
+        {
+          "user": "abigail.stone",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 6,
+      "15": 9,
+      "5": 9,
+      "0": 1,
+      "23": 2,
+      "22": 5,
+      "21": 1,
+      "18": 1,
+      "19": 2
+    },
+    "by_day": {
+      "Monday": 13,
+      "Wednesday": 12,
+      "Tuesday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.4,
+    "dept_average_30d": 5.79,
+    "dept_rank": 799,
+    "dept_size": 1233
+  }
+}

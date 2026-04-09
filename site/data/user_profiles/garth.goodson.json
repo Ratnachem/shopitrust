@@ -1,0 +1,172 @@
+{
+  "username": "garth.goodson",
+  "name": "Garth Goodson",
+  "generated_at": "2026-04-08T20:22:26.472618",
+  "summary": {
+    "message_count": 104,
+    "channels_active": 12,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "excellent, thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'd say feel free to edit what you want",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "craig.soules",
+          "count": 4
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 3
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 1
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.53,
+      "count": 160,
+      "top_channels": [
+        {
+          "channel": "proj-infra-yugabyte-oid",
+          "messages": 54
+        },
+        {
+          "channel": "proj-entity-identifiers",
+          "messages": 14
+        },
+        {
+          "channel": "help-observability",
+          "messages": 9
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 8
+        },
+        {
+          "channel": "magellan-zookeeper",
+          "messages": 7
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 4
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 2
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "openai-codex",
+          "messages": 1
+        },
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "cameron.morgan",
+          "count": 6
+        },
+        {
+          "user": "josh.varner",
+          "count": 4
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 4
+        },
+        {
+          "user": "craig.soules",
+          "count": 2
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 2
+        },
+        {
+          "user": "austen.lacy",
+          "count": 2
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 6,
+      "21": 15,
+      "19": 14,
+      "18": 18,
+      "17": 9,
+      "16": 16,
+      "4": 1,
+      "15": 5,
+      "23": 11,
+      "20": 7,
+      "1": 2
+    },
+    "by_day": {
+      "Tuesday": 37,
+      "Monday": 9,
+      "Friday": 20,
+      "Thursday": 21,
+      "Wednesday": 17
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.17,
+    "dept_average_30d": 5.75,
+    "dept_rank": 259,
+    "dept_size": 357
+  }
+}

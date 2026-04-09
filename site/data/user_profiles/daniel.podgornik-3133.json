@@ -1,0 +1,259 @@
+{
+  "username": "daniel.podgornik-3133",
+  "name": "Daniel Podgornik-3133",
+  "generated_at": "2026-04-08T20:22:13.796774",
+  "summary": {
+    "message_count": 389,
+    "channels_active": 15,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 0,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 6,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://app.graphite.com/github/pr/shop/world/573353/>\n\nIt's going to be part of this stack, feel free to work on top of this",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "cc <@U090S6HD4DV> <@U037NDVAD4Y> let me know if it works for the screens. Still don't have the bulk writes, but it's next on the pipeline",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Makes sense, feel free to edit the task accordingly",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://docs.google.com/document/d/1DqIaekjowIhEJjbIge7-x4o4n76oKLHOxKyhVg2oVQg/edit?tab=t.lo6nj0u5tavk>\n\nSurfacing the rollouts tech doc for eyes",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "wait, what you want me to look at <@U01UX2LP353>?",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "not currently investigating, thanks <@W018GA7CYUD>!\n\nLet me know if you need more info",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W018AV9AMKQ> <@W0197J5JARW> <@W018HUSU7LK> <@U025WKYED1A> <@W018GA7CYUD> <@U01UX2LP353> <@W018SEYDK7W>\n\nFollowing up on the \"default swap\" API",
+          "channel": "proj-market-change-sets-backend-only",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Market association changesets, swaps and M1 vs M2\n\nBased on our ongoing API discussions, we are coming to a consensus on what needs to exist in the",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "1. The validation will be very simple for the first version, since it's pretty much guaranteeing a single per responder. In the future we might want",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "&gt; Are you proposing that Theme &amp; Checkout would only support a single operation per market change-set, but that for catalogs &amp; discounts",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the point is, as rollouts, we don't need to know how each individual responder handles their structures.\nBut we need a way to know what is in a",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "exactly. The point of the copies from SLT request is to allow merchants to keep working on their store (update themes, prepare future launches/sales,",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "On the same vein, I still dont see why we are leaning so hard against creating a copy of 2 resources when we start/create a rollout and want so much",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U081FP8KYD7> This is my understanding:\n\nwe need copies to guarantee that the test is as frozen as possible, while at the same time, not blocking",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "no tophat, but the PR looks good.\n\nDo we need to cleanup anything from prod? I don't care about mine, but should we investigate if others are in this",
+          "channel": "proj-rollouts-m1",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "lucas.uyezu",
+          "count": 21
+        },
+        {
+          "user": "mohsen.morshedi",
+          "count": 19
+        },
+        {
+          "user": "thomas.wang",
+          "count": 17
+        },
+        {
+          "user": "david.scantlebury",
+          "count": 13
+        },
+        {
+          "user": "neelay.shah",
+          "count": 12
+        },
+        {
+          "user": "chris.lee",
+          "count": 7
+        },
+        {
+          "user": "iain.wilson",
+          "count": 6
+        },
+        {
+          "user": "hong.zhang",
+          "count": 6
+        },
+        {
+          "user": "lisa.steiger",
+          "count": 5
+        },
+        {
+          "user": "francis.pelland",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.89,
+      "count": 171,
+      "top_channels": [
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 196
+        },
+        {
+          "channel": "proj-rollouts-m1",
+          "messages": 64
+        },
+        {
+          "channel": "rollouts-river",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20852-investigation-wrong-rollout-step-in-the-d",
+          "messages": 21
+        },
+        {
+          "channel": "proj-market-change-sets-backend-only",
+          "messages": 20
+        },
+        {
+          "channel": "inc-21012-unable-to-add-theme-overrides",
+          "messages": 14
+        },
+        {
+          "channel": "help-rollouts",
+          "messages": 12
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 8
+        },
+        {
+          "channel": "optimization-team-toronto-gta",
+          "messages": 6
+        },
+        {
+          "channel": "inc-20426-investigation-on-rollout-not-showing-for",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 38,
+      "17": 24,
+      "13": 40,
+      "19": 42,
+      "16": 27,
+      "15": 37,
+      "14": 32,
+      "11": 5,
+      "2": 3,
+      "1": 7,
+      "22": 21,
+      "20": 71,
+      "21": 24,
+      "12": 11,
+      "23": 7
+    },
+    "by_day": {
+      "Wednesday": 67,
+      "Tuesday": 90,
+      "Friday": 86,
+      "Thursday": 65,
+      "Monday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.07,
+    "dept_average_30d": 4.74,
+    "dept_rank": 506,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "username": "robert.adler",
+  "name": "Robert Adler",
+  "generated_at": "2026-04-08T20:22:11.313198",
+  "summary": {
+    "message_count": 279,
+    "channels_active": 23,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U03VDS2L2AG> let me know if this needs any more love",
+          "channel": "infra-central",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "chris.c.barnes",
+          "count": 9
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 9
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 3
+        },
+        {
+          "user": "assunta.walderdorff",
+          "count": 1
+        },
+        {
+          "user": "brenda.segal",
+          "count": 1
+        },
+        {
+          "user": "kenny.kwan",
+          "count": 1
+        },
+        {
+          "user": "pawan.patel",
+          "count": 1
+        },
+        {
+          "user": "danieldsj",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.95,
+      "count": 288,
+      "top_channels": [
+        {
+          "channel": "proj-search-deployment-pipeline",
+          "messages": 133
+        },
+        {
+          "channel": "tmp-es-kubernetes-1-34-upgrade",
+          "messages": 27
+        },
+        {
+          "channel": "proj-test-pilot-shared",
+          "messages": 15
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20642-elasticsearch-core-realtime-consumer-dela",
+          "messages": 12
+        },
+        {
+          "channel": "temp-shopify-search-multiregion",
+          "messages": 11
+        },
+        {
+          "channel": "infra-central",
+          "messages": 9
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 8
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 8
+        },
+        {
+          "channel": "google-cloud-finances",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "chris.c.barnes",
+          "count": 14
+        },
+        {
+          "user": "alex.gomez",
+          "count": 12
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 6
+        },
+        {
+          "user": "craigsharpe",
+          "count": 5
+        },
+        {
+          "user": "nigel.daley",
+          "count": 4
+        },
+        {
+          "user": "tom.chikoore",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 2
+        },
+        {
+          "user": "abdulrahman.alhamali",
+          "count": 2
+        },
+        {
+          "user": "morgan.vallati",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 41,
+      "17": 21,
+      "14": 23,
+      "12": 17,
+      "2": 1,
+      "1": 4,
+      "0": 12,
+      "21": 3,
+      "19": 22,
+      "16": 34,
+      "15": 43,
+      "13": 9,
+      "10": 5,
+      "23": 15,
+      "20": 20,
+      "22": 9
+    },
+    "by_day": {
+      "Wednesday": 86,
+      "Tuesday": 52,
+      "Monday": 32,
+      "Friday": 81,
+      "Thursday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.02,
+    "dept_average_30d": 5.75,
+    "dept_rank": 118,
+    "dept_size": 357
+  }
+}

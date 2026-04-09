@@ -1,0 +1,226 @@
+{
+  "username": "andrew.mcnamara",
+  "name": "Andrew McNamara",
+  "generated_at": "2026-04-08T20:22:23.597318",
+  "summary": {
+    "message_count": 408,
+    "channels_active": 33,
+    "unique_people_mentioned": 50,
+    "unique_mentioners": 69,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Let's have some regular syncs to make sure we working super close here",
+          "channel": "storefront-agent-buyer-experience",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Yeah this is Eng problem we will figure it out",
+          "channel": "sidekick-memory",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes in prototype I can think you can do whatever is needed",
+          "channel": "sidekick-simgym-integration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "(or whatever weight we want)",
+          "channel": "shop-agent-evals",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 52,
+      "top_mentioned": [
+        {
+          "user": "felipe.leusin",
+          "count": 18
+        },
+        {
+          "user": "lingyun.wang",
+          "count": 11
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 11
+        },
+        {
+          "user": "joe.lin",
+          "count": 10
+        },
+        {
+          "user": "matt.koenig",
+          "count": 8
+        },
+        {
+          "user": "zhong.wu",
+          "count": 7
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 5
+        },
+        {
+          "user": "mike.sassak",
+          "count": 4
+        },
+        {
+          "user": "andrew.rhyne",
+          "count": 4
+        },
+        {
+          "user": "justin.harris",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 482,
+      "top_channels": [
+        {
+          "channel": "shop-agent-eng",
+          "messages": 85
+        },
+        {
+          "channel": "big-agent-small-agent",
+          "messages": 76
+        },
+        {
+          "channel": "help-mana",
+          "messages": 37
+        },
+        {
+          "channel": "proj-qbot",
+          "messages": 20
+        },
+        {
+          "channel": "ben-thames",
+          "messages": 17
+        },
+        {
+          "channel": "proj-sidekick-graphql-agent",
+          "messages": 14
+        },
+        {
+          "channel": "proj-sidekick-pulse-integrations",
+          "messages": 13
+        },
+        {
+          "channel": "ml-infrastructure-users",
+          "messages": 12
+        },
+        {
+          "channel": "storefront-agent-eng",
+          "messages": 12
+        },
+        {
+          "channel": "cx-rnd-team",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 173,
+      "top_mentioners": [
+        {
+          "user": "mujtaba.khambatti",
+          "count": 19
+        },
+        {
+          "user": "andrew.rhyne",
+          "count": 15
+        },
+        {
+          "user": "matt.koenig",
+          "count": 12
+        },
+        {
+          "user": "chase.platon",
+          "count": 8
+        },
+        {
+          "user": "cody.mazzaanthony",
+          "count": 8
+        },
+        {
+          "user": "alberto.castelo",
+          "count": 8
+        },
+        {
+          "user": "samuel.path",
+          "count": 4
+        },
+        {
+          "user": "vinny.degenova",
+          "count": 4
+        },
+        {
+          "user": "richard.poirier",
+          "count": 4
+        },
+        {
+          "user": "mia.vo",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 16,
+      "13": 13,
+      "20": 23,
+      "19": 78,
+      "18": 69,
+      "11": 7,
+      "17": 33,
+      "16": 29,
+      "15": 29,
+      "10": 2,
+      "1": 26,
+      "21": 33,
+      "2": 1,
+      "0": 11,
+      "9": 2,
+      "23": 18,
+      "22": 12,
+      "12": 6
+    },
+    "by_day": {
+      "Wednesday": 60,
+      "Tuesday": 132,
+      "Monday": 54,
+      "Friday": 108,
+      "Thursday": 54
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.21,
+    "dept_average_30d": 5.79,
+    "dept_rank": 313,
+    "dept_size": 1233
+  }
+}

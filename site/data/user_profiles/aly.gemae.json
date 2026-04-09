@@ -1,0 +1,279 @@
+{
+  "username": "aly.gemae",
+  "name": "Aly Gemae",
+  "generated_at": "2026-04-08T20:22:18.043736",
+  "summary": {
+    "message_count": 460,
+    "channels_active": 38,
+    "unique_people_mentioned": 49,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.6,
+      "pos_count": 36,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thanks for the update Jason!",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help Manuel! I think if we go the tool route, we should be able to access `unstable` right? Our issue was if we purely wanted to rely on",
+          "channel": "proj-analytics-metric-targets",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want any context happy to hop on a call, will also update some docs based on my shift but Observe MCP is useful to have around,",
+          "channel": "reportify-etl-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sounds good thanks! Let me know if you need any :eyes:",
+          "channel": "reportify-etl-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good thanks! Let me know if you need any :eyes:",
+          "channel": "reportify-etl-ops",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> this is the context: <@U0AEPQCKB3M> can we on merchant-analytics-api change the schema version for a client id for shop server",
+          "channel": "inv-21013-investigation-shop-server-app-getting-wit",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W018WAUJQCR> and <@W0183114J3Z> !  Two important tools (that I plan on documenting in our vault oncall) is having observe mcp and",
+          "channel": "s-foundation-analytics-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "cc: <@U020ACEJYCQ> <@W018HU6AQAF> fyi, if you see any issue please send them our way in <#C0ADRGRTM9Q> thanks!",
+          "channel": "sidekick-analytics",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing to hear!",
+          "channel": "reportify-api",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "We plan on rolling out <https://experiments.shopify.io/flags/f_sidekick_analytics_agent|Analytics subagent> to 1% today, if you see any issues let us",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yup we can go over that Monday, but tldr if you don\u2019t see enabled metrics/dimensions for inventory in schema_syncer.rb class, the query won\u2019t work.",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 55,
+      "top_mentioned": [
+        {
+          "user": "jason.z.liu",
+          "count": 55
+        },
+        {
+          "user": "shamar.phillips",
+          "count": 23
+        },
+        {
+          "user": "nicolas.bertagnolli",
+          "count": 16
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 13
+        },
+        {
+          "user": "ewa.manek",
+          "count": 12
+        },
+        {
+          "user": "alexandre.c",
+          "count": 11
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 7
+        },
+        {
+          "user": "matt.koenig",
+          "count": 7
+        },
+        {
+          "user": "joud.chataoui",
+          "count": 7
+        },
+        {
+          "user": "julia.hogan",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.92,
+      "count": 286,
+      "top_channels": [
+        {
+          "channel": "proj-analytics-schema-selection-subagent",
+          "messages": 88
+        },
+        {
+          "channel": "reportify-etl-ops",
+          "messages": 35
+        },
+        {
+          "channel": "reportify-api-ops",
+          "messages": 33
+        },
+        {
+          "channel": "sidekick-analytics",
+          "messages": 30
+        },
+        {
+          "channel": "reportify-api",
+          "messages": 26
+        },
+        {
+          "channel": "proj-agent-flywheel-platform",
+          "messages": 25
+        },
+        {
+          "channel": "analytics-analyze-ops",
+          "messages": 22
+        },
+        {
+          "channel": "analytics-team-api-shopifyql",
+          "messages": 19
+        },
+        {
+          "channel": "analytics-ui-components",
+          "messages": 18
+        },
+        {
+          "channel": "sidekick-streaming",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 82,
+      "top_mentioners": [
+        {
+          "user": "jason.z.liu",
+          "count": 17
+        },
+        {
+          "user": "matt.koenig",
+          "count": 10
+        },
+        {
+          "user": "shamar.phillips",
+          "count": 7
+        },
+        {
+          "user": "manuel.isava",
+          "count": 5
+        },
+        {
+          "user": "alexandre.c",
+          "count": 5
+        },
+        {
+          "user": "joud.chataoui",
+          "count": 4
+        },
+        {
+          "user": "julia.hogan",
+          "count": 3
+        },
+        {
+          "user": "ben.milton",
+          "count": 2
+        },
+        {
+          "user": "kevin.quijalvo",
+          "count": 2
+        },
+        {
+          "user": "michael.rokas",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 74,
+      "16": 55,
+      "15": 64,
+      "14": 31,
+      "13": 39,
+      "10": 25,
+      "11": 7,
+      "12": 24,
+      "23": 15,
+      "22": 11,
+      "18": 28,
+      "6": 5,
+      "5": 16,
+      "3": 7,
+      "2": 5,
+      "1": 16,
+      "20": 10,
+      "19": 17,
+      "9": 2,
+      "21": 7,
+      "8": 1,
+      "7": 1
+    },
+    "by_day": {
+      "Wednesday": 189,
+      "Tuesday": 104,
+      "Monday": 52,
+      "Thursday": 81,
+      "Friday": 34
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.5,
+    "dept_average_30d": 5.79,
+    "dept_rank": 184,
+    "dept_size": 1233
+  }
+}

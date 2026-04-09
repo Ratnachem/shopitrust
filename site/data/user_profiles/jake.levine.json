@@ -1,0 +1,235 @@
+{
+  "username": "jake.levine",
+  "name": "Jake Levine",
+  "generated_at": "2026-04-08T20:22:18.795174",
+  "summary": {
+    "message_count": 524,
+    "channels_active": 61,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 39,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "inv-21192-high-rate-of-shops-marked-as-ineligible",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "FYI taking over for <@U0884T0MFPV> as IMOC, looks like you've got things handled <@W0197HART4Y> but let me know if you need any assistance here",
+          "channel": "inv-20358-deploy-coordination-channel-for-700-behin",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "inc-20341-increased-checkout-failures-on-293",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad, it was locked at the app as well as zone level",
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I considered that, would be very odd if whatever that issue is also manifested as CPU throttling",
+          "channel": "inv-19996-runtimeenginecputhrottlinginuscentral1",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U01GURPPHNV> notify_teams teams=\"IMOC,lso\" duration=\"16h\" message=\"SFR traffic has been shifted away from storefront-us-ce1a-dv2. If someone needs",
+          "channel": "inv-19934-sfr-caching-central-elevated-timeout",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "fernando.aguasvivas",
+          "count": 6
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 4
+        },
+        {
+          "user": "sam.obrien",
+          "count": 4
+        },
+        {
+          "user": "keisuke.umegaki",
+          "count": 3
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 2
+        },
+        {
+          "user": "abdullah.sheikh",
+          "count": 2
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "gill.haslett",
+          "count": 2
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 2
+        },
+        {
+          "user": "alexis.ortega",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 402,
+      "top_channels": [
+        {
+          "channel": "inc-20341-increased-checkout-failures-on-293",
+          "messages": 43
+        },
+        {
+          "channel": "inc-20385-shopify-core-errors-by-cluster",
+          "messages": 42
+        },
+        {
+          "channel": "inc-20268-degraded-checkout-for-diesel-power-produc",
+          "messages": 42
+        },
+        {
+          "channel": "inv-21192-high-rate-of-shops-marked-as-ineligible",
+          "messages": 36
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 27
+        },
+        {
+          "channel": "inv-20272-elevated-failures-for-sfr-viewcollectiond",
+          "messages": 27
+        },
+        {
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20274-spi-drop-in-agreement-creation",
+          "messages": 17
+        },
+        {
+          "channel": "inc-20447-beacon-issues-and-help-center-search-issu",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20280-db-writer-cpu-saturation--95-for-25-min",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "jie.sun",
+          "count": 6
+        },
+        {
+          "user": "alice.chou",
+          "count": 4
+        },
+        {
+          "user": "erik.ryhorchuk",
+          "count": 4
+        },
+        {
+          "user": "anagayan.ariaran",
+          "count": 4
+        },
+        {
+          "user": "shuhei.eda",
+          "count": 4
+        },
+        {
+          "user": "michael.lewis",
+          "count": 3
+        },
+        {
+          "user": "caroline",
+          "count": 3
+        },
+        {
+          "user": "cody.stevens",
+          "count": 3
+        },
+        {
+          "user": "clementine.li",
+          "count": 3
+        },
+        {
+          "user": "gill.haslett",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 10,
+      "22": 84,
+      "21": 101,
+      "20": 106,
+      "19": 53,
+      "18": 6,
+      "16": 3,
+      "15": 14,
+      "13": 2,
+      "23": 82,
+      "0": 47,
+      "1": 14,
+      "14": 2
+    },
+    "by_day": {
+      "Wednesday": 105,
+      "Tuesday": 145,
+      "Monday": 69,
+      "Friday": 98,
+      "Thursday": 107
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.52,
+    "dept_average_30d": 5.75,
+    "dept_rank": 198,
+    "dept_size": 357
+  }
+}

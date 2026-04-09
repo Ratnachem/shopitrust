@@ -1,0 +1,284 @@
+{
+  "username": "marcelo.mottalli",
+  "name": "Marcelo Mottalli",
+  "generated_at": "2026-04-08T20:22:22.281124",
+  "summary": {
+    "message_count": 314,
+    "channels_active": 24,
+    "unique_people_mentioned": 34,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 9,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "*Side note / fun fact*: The original queries that I shared are *wrong* because I used the BT ID when querying the _charge_, my bad. BUT the same ID",
+          "channel": "payments-core-analytics-reporting",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "This is the message it drafted to me back then (but I never had the time to actually make the template for it):\n\n&gt; Subject: Additional evidence",
+          "channel": "disputes-pricing-insights-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thanks <@U09BUSMP2R1>",
+          "channel": "payments-core-analytics-reporting",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Bony let me know if this is something that would make our lives easier and I can whip up a PR for that",
+          "channel": "proj-payments-adyen-recon-russbot",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey folks, based on the conversation I had with <@U09CTCQSD7D> and the subsequent conversation  we had with <@U023N5NNLDR> from the Reportify team,",
+          "channel": "payments-core-analytics-reporting",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That is AWESOME Juan, thank you so much!\nI'm so glad to see you can test this locally somehow. This will give us the opportunity to iterate quickly.",
+          "channel": "payments-core-analytics-reporting",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much <@U09BUSMP2R1> for your help",
+          "channel": "inc-19857-high-error-rates-when-submitting-dispute",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thanks <@U09BUSMP2R1>",
+          "channel": "inc-19857-high-error-rates-when-submitting-dispute",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U07CRQ6EBQ8> thanks! I have included _all_ the available types of balance transactions in",
+          "channel": "payments-core-analytics-reporting",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey folks, based on the conversation I had with <@U09CTCQSD7D> and the subsequent conversation  we had with <@U023N5NNLDR> from the Reportify team,",
+          "channel": "payments-core-analytics-reporting",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; Just to check, the source_type are the activity categories?\nYes, kind of. Actually we can do whatever we want, this is the \"raw\" data, but we",
+          "channel": "payments-core-analytics-reporting",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Wait I don't fully agree with River's analysis (unless I'm missing something?)\n&gt; \u2022  *The* *`already_deferred_refunds`* *guard only looks for*",
+          "channel": "funds-flow-team-run-workstream",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So whatever solution we decide, should be provider-agnostic",
+          "channel": "inc-19857-high-error-rates-when-submitting-dispute",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "juan.suaza",
+          "count": 12
+        },
+        {
+          "user": "bony.roopchandani",
+          "count": 6
+        },
+        {
+          "user": "lourdes.crivelli",
+          "count": 6
+        },
+        {
+          "user": "adit.daga",
+          "count": 5
+        },
+        {
+          "user": "lydia.shan",
+          "count": 3
+        },
+        {
+          "user": "pouya.mozaffarmagham",
+          "count": 3
+        },
+        {
+          "user": "doru.pirvu",
+          "count": 3
+        },
+        {
+          "user": "ryan.bishop",
+          "count": 3
+        },
+        {
+          "user": "steven.bapaga",
+          "count": 3
+        },
+        {
+          "user": "amanda.azevedo",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.25,
+      "count": 251,
+      "top_channels": [
+        {
+          "channel": "disputes-pricing-insights-team",
+          "messages": 87
+        },
+        {
+          "channel": "payments-core-analytics-reporting",
+          "messages": 57
+        },
+        {
+          "channel": "inc-19857-high-error-rates-when-submitting-dispute",
+          "messages": 37
+        },
+        {
+          "channel": "proj-payments-adyen-recon-russbot",
+          "messages": 26
+        },
+        {
+          "channel": "inv-19833-spi-merchants-are-double-charged-with-ref",
+          "messages": 18
+        },
+        {
+          "channel": "pcb-yugabyte-in-core",
+          "messages": 16
+        },
+        {
+          "channel": "disputes-pricing-insights-exceptions",
+          "messages": 9
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 8
+        },
+        {
+          "channel": "payments-funds-flow-team",
+          "messages": 7
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 87,
+      "top_mentioners": [
+        {
+          "user": "bony.roopchandani",
+          "count": 14
+        },
+        {
+          "user": "kelsey.ottenhof",
+          "count": 10
+        },
+        {
+          "user": "lourdes.crivelli",
+          "count": 8
+        },
+        {
+          "user": "pouya.mozaffarmagham",
+          "count": 8
+        },
+        {
+          "user": "juan.suaza",
+          "count": 4
+        },
+        {
+          "user": "gianna.guasconi",
+          "count": 4
+        },
+        {
+          "user": "amanda.azevedo",
+          "count": 3
+        },
+        {
+          "user": "travis.brannen",
+          "count": 3
+        },
+        {
+          "user": "lydia.shan",
+          "count": 3
+        },
+        {
+          "user": "adit.daga",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 60,
+      "14": 50,
+      "13": 26,
+      "12": 13,
+      "10": 31,
+      "8": 13,
+      "9": 36,
+      "16": 31,
+      "17": 25,
+      "11": 16,
+      "20": 5,
+      "19": 6,
+      "18": 2
+    },
+    "by_day": {
+      "Wednesday": 83,
+      "Tuesday": 65,
+      "Friday": 81,
+      "Thursday": 53,
+      "Monday": 32
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.26,
+    "dept_average_30d": 5.77,
+    "dept_rank": 198,
+    "dept_size": 885
+  }
+}

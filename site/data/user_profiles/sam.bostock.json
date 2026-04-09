@@ -1,0 +1,332 @@
+{
+  "username": "sam.bostock",
+  "name": "Sam Bostock",
+  "generated_at": "2026-04-08T20:22:22.611095",
+  "summary": {
+    "message_count": 1424,
+    "channels_active": 33,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 2.4,
+      "pos_count": 9,
+      "neg_count": 28,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Let me know how I can help",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "\"here's the transform function, good luck\", totally breaking the ability to search for the identifier :shakes_fist:",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes, thank you both for helping with that! :bless:",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "lol my bad <@U0AEPQCKB3M>\n\nLet's include the `~% full` in the low disk space message in",
+          "channel": "styx",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank YOU for (hopefully) unblocking CI :rocket_animated:",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing",
+          "channel": "inv-19976-google-auth-spam",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018HMX74UA> <@W019GM2JJPM> let me know if you disagree",
+          "channel": "inv-19976-google-auth-spam",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U06J6F1FLEB> We have a PR (<https://app.graphite.com/github/pr/shop/world/582225>) we'd like to fast track once its own CI passes (mark as hot-fix",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I mean... I don't care about how it's executable, I just care that I could execute it...\n\n<@U0AEPQCKB3M> go back to the simple approach and just",
+          "channel": "environments-reviews",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> 584244 looks like it's got some changes that belong in the base PR, but I feel like this is fully independent. Let's make sure it ONLY",
+          "channel": "environments-reviews",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> that set of instructions is useless since your branch isn't pushed anywhere. I mean give me instructions I can give to Claude on my",
+          "channel": "styx",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The retry appears to be making it further.\n\nNonetheless, it's not okay for this thing to fallback to unbounded unshallowing of world. That will never",
+          "channel": "team-ci",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Groking this thread, but <https://github.com/shop/world/pull/570927> _*might*_ be related.\n\nWe discovered that plopping a binary into a directory on",
+          "channel": "tectonix",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Okay, so our new plan for `uv` is to ship a wrapper that sets `UV_EXCLUDE_NEWER=&lt;whatever&gt;` and then delegates to whatever other `uv` thing is",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Blame",
+          "pattern": "whose fault",
+          "text": "<@U0AEPQCKB3M> that's.... almost right, but not quite. The faults vs error classes are by design not a 1-to-1. The class is about what went wrong,",
+          "channel": "styx",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> I like \"Contention\" The question then is just which one is clearer. But yeah, go ahead and open a pr and we can figure it out there.",
+          "channel": "styx",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> I hear there are some zones in world with a `zone.nix`, but no `dev.yml`. Instead of blowing up if someone runs `dev up` (\"you don't",
+          "channel": "styx",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "don.kelly",
+          "count": 28
+        },
+        {
+          "user": "ashley.williams",
+          "count": 16
+        },
+        {
+          "user": "bedi.egilmez",
+          "count": 11
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 10
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 7
+        },
+        {
+          "user": "jacob.michels",
+          "count": 6
+        },
+        {
+          "user": "justin.hill",
+          "count": 5
+        },
+        {
+          "user": "vaidas.pilkauskas",
+          "count": 5
+        },
+        {
+          "user": "gord.pearson",
+          "count": 5
+        },
+        {
+          "user": "burke.libbey",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.31,
+      "count": 307,
+      "top_channels": [
+        {
+          "channel": "environments-reviews",
+          "messages": 365
+        },
+        {
+          "channel": "styx",
+          "messages": 233
+        },
+        {
+          "channel": "inv-19976-google-auth-spam",
+          "messages": 153
+        },
+        {
+          "channel": "si-2496-remediation",
+          "messages": 138
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 119
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 54
+        },
+        {
+          "channel": "dev-up",
+          "messages": 48
+        },
+        {
+          "channel": "proj-dev-metrics",
+          "messages": 45
+        },
+        {
+          "channel": "inv-19932-high-number-github-action-runs-in-pending",
+          "messages": 36
+        },
+        {
+          "channel": "river",
+          "messages": 30
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 132,
+      "top_mentioners": [
+        {
+          "user": "ashley.williams",
+          "count": 51
+        },
+        {
+          "user": "don.kelly",
+          "count": 34
+        },
+        {
+          "user": "bedi.egilmez",
+          "count": 5
+        },
+        {
+          "user": "xiaodong.fan",
+          "count": 5
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 4
+        },
+        {
+          "user": "vaidas.pilkauskas",
+          "count": 3
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 3
+        },
+        {
+          "user": "gilbert.teng",
+          "count": 3
+        },
+        {
+          "user": "gord.pearson",
+          "count": 3
+        },
+        {
+          "user": "napoleon.soberanis",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 94,
+      "14": 80,
+      "13": 73,
+      "12": 25,
+      "2": 90,
+      "1": 78,
+      "0": 60,
+      "19": 144,
+      "18": 93,
+      "17": 93,
+      "16": 68,
+      "20": 114,
+      "4": 35,
+      "3": 53,
+      "23": 75,
+      "22": 121,
+      "21": 103,
+      "5": 16,
+      "6": 9
+    },
+    "by_day": {
+      "Wednesday": 341,
+      "Tuesday": 349,
+      "Friday": 243,
+      "Thursday": 356,
+      "Monday": 135
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.72,
+    "dept_average_30d": 5.75,
+    "dept_rank": 36,
+    "dept_size": 357
+  }
+}

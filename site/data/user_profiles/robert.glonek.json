@@ -1,0 +1,244 @@
+{
+  "username": "robert.glonek",
+  "name": "Robert Glonek",
+  "generated_at": "2026-04-08T20:22:29.938038",
+  "summary": {
+    "message_count": 174,
+    "channels_active": 14,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "dev-proxy-shopify-ai",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I'll wait for pending to show success and not cancel it unless you want me to",
+          "channel": "proj-data-platform-ai-proxy-fallback",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to add it if you can, finding latest sha where ai proxy area was modified may actually be useful.",
+          "channel": "proj-data-platform-ai-proxy-fallback",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you very much!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "alright, thank you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you. We are strict with using terraform for changes and require reviews on that, so it should address the concern.",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team. We are trying to relax some requirements on our ai-proxy-access webpage cloud-run. The PR for our changes is",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "awesome, that works, thank you.",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "we don't care if they run until people finish with their branches, will leave it as is for now",
+          "channel": "world-monorepo",
+          "timestamp": "2026-03-26"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "marcantoine.belanger",
+          "count": 5
+        },
+        {
+          "user": "lynnsey.grahamnovak",
+          "count": 2
+        },
+        {
+          "user": "t.tesfaye",
+          "count": 1
+        },
+        {
+          "user": "ju.liu",
+          "count": 1
+        },
+        {
+          "user": "samuel.path",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.25,
+      "count": 33,
+      "top_channels": [
+        {
+          "channel": "dev-proxy-shopify-ai",
+          "messages": 44
+        },
+        {
+          "channel": "proj-data-platform-ai-proxy-fallback",
+          "messages": 38
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 27
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 18
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 10
+        },
+        {
+          "channel": "dev-ai-proxy-ops-urgent",
+          "messages": 9
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 9
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 8
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 3
+        },
+        {
+          "channel": "dev-ai-proxy-ops-firehose",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "samuel.path",
+          "count": 16
+        },
+        {
+          "user": "marcantoine.belanger",
+          "count": 10
+        },
+        {
+          "user": "lynnsey.grahamnovak",
+          "count": 10
+        },
+        {
+          "user": "boris.slobodin",
+          "count": 2
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 1
+        },
+        {
+          "user": "peter.petrov",
+          "count": 1
+        },
+        {
+          "user": "chris.maltais",
+          "count": 1
+        },
+        {
+          "user": "zac.roberts",
+          "count": 1
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 33,
+      "13": 2,
+      "22": 19,
+      "18": 32,
+      "14": 23,
+      "20": 14,
+      "19": 12,
+      "23": 5,
+      "17": 8,
+      "21": 24,
+      "0": 2
+    },
+    "by_day": {
+      "Friday": 4,
+      "Thursday": 40,
+      "Wednesday": 35,
+      "Tuesday": 60,
+      "Monday": 35
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.71,
+    "dept_average_30d": 5.39,
+    "dept_rank": 190,
+    "dept_size": 272
+  }
+}

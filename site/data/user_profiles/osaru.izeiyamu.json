@@ -1,0 +1,270 @@
+{
+  "username": "osaru.izeiyamu",
+  "name": "Osaru Izeiyamu",
+  "generated_at": "2026-04-08T20:22:16.497540",
+  "summary": {
+    "message_count": 432,
+    "channels_active": 21,
+    "unique_people_mentioned": 61,
+    "unique_mentioners": 44,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 9,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thanks for the update <@W0182UT8M1V>. <@U02SLM0A0KY> I see you approved the <https://github.com/shop/world/pull/566389|PR for proper inheritance of",
+          "channel": "proj-branding-api-refactor",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-branding-api-refactor",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ohh, my bad, yes I was <@U03QFPA58C9>",
+          "channel": "mission-remote-dom-adoption",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! :pray::skin-tone-4:",
+          "channel": "checkout-accounts-design-system",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "&gt; I think what we're saying is that we shouldn't add `blank` support in the API _yet_? If it makes 2026-07 and not 2026-04, it's probably fine,",
+          "channel": "proj-branding-api-refactor",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Okay, thanks Darius. Feel free to reference t<https://polaris-component-migration-guide.quick.shopify.io/index.html|his Quick site >if it's helpful",
+          "channel": "mission-remote-dom-adoption",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, just added him",
+          "channel": "proj-branding-api-refactor",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey <@U02DU51B4MR>, sorry about that. Yes we need to update those help docs",
+          "channel": "help-checkout-accounts-customizations",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both! <@W018307LMB9>, <@U075VBJUESX>",
+          "channel": "mission-remote-dom-adoption",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "I don't think we should map main to base. The only way that works is it we are not populating sign in or customer accounts with surface overrides. Or",
+          "channel": "proj-branding-api-refactor",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "yeah its fine for the editor to map to base. We accepted that unless we change the mapping now, merchants will start out with surface customizations",
+          "channel": "proj-branding-api-refactor",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 64,
+      "top_mentioned": [
+        {
+          "user": "bill.klenotiz",
+          "count": 20
+        },
+        {
+          "user": "nick.lenko",
+          "count": 20
+        },
+        {
+          "user": "robin.drexler",
+          "count": 18
+        },
+        {
+          "user": "dave.nagoda",
+          "count": 16
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 16
+        },
+        {
+          "user": "leah.liu",
+          "count": 14
+        },
+        {
+          "user": "louis.mccracken",
+          "count": 14
+        },
+        {
+          "user": "jeanfrederic.fortier",
+          "count": 13
+        },
+        {
+          "user": "gladys.ng",
+          "count": 12
+        },
+        {
+          "user": "igor.kozlov",
+          "count": 11
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.98,
+      "count": 184,
+      "top_channels": [
+        {
+          "channel": "proj-branding-api-refactor",
+          "messages": 213
+        },
+        {
+          "channel": "proj-checkout-persistent-order-summary",
+          "messages": 78
+        },
+        {
+          "channel": "mission-remote-dom-adoption",
+          "messages": 67
+        },
+        {
+          "channel": "checkout-accounts-design-system",
+          "messages": 19
+        },
+        {
+          "channel": "checkout-experience-production-support",
+          "messages": 12
+        },
+        {
+          "channel": "proj-checkout-ssr-bridge",
+          "messages": 6
+        },
+        {
+          "channel": "customizations-river",
+          "messages": 6
+        },
+        {
+          "channel": "proj-checkout-extensibility-remote-dom",
+          "messages": 4
+        },
+        {
+          "channel": "proj-simplify-theme-colors",
+          "messages": 3
+        },
+        {
+          "channel": "proj-vaulted-checkouts-n-rollup",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 144,
+      "top_mentioners": [
+        {
+          "user": "bill.klenotiz",
+          "count": 18
+        },
+        {
+          "user": "robin.drexler",
+          "count": 13
+        },
+        {
+          "user": "dave.nagoda",
+          "count": 9
+        },
+        {
+          "user": "daisy.nguyen",
+          "count": 8
+        },
+        {
+          "user": "nick.lenko",
+          "count": 7
+        },
+        {
+          "user": "kenza.iraki",
+          "count": 7
+        },
+        {
+          "user": "simon.bolduc",
+          "count": 7
+        },
+        {
+          "user": "michael.elmgreen",
+          "count": 6
+        },
+        {
+          "user": "thomas.marcucci",
+          "count": 5
+        },
+        {
+          "user": "leah.liu",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 39,
+      "14": 41,
+      "13": 21,
+      "21": 57,
+      "18": 30,
+      "16": 52,
+      "22": 17,
+      "20": 70,
+      "19": 43,
+      "15": 54,
+      "23": 4,
+      "5": 2,
+      "4": 2
+    },
+    "by_day": {
+      "Wednesday": 107,
+      "Tuesday": 61,
+      "Monday": 79,
+      "Friday": 99,
+      "Thursday": 86
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.65,
+    "dept_average_30d": 4.74,
+    "dept_rank": 290,
+    "dept_size": 1663
+  }
+}

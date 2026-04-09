@@ -1,0 +1,98 @@
+{
+  "username": "steven.robyn",
+  "name": "Steven Robyn",
+  "generated_at": "2026-04-08T20:22:31.493495",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team! :wave-frog: , been calling a prospect often and I'm logging calls to three different contacts for some reason when I realized there is",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U06J8J99LSY> I'll make sure to collab with the SDR on this rn. Thanks. He was actually the one hoping for this data too.",
+          "channel": "help-crm",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "alexandra.bernasconi",
+          "count": 1
+        },
+        {
+          "user": "stephany.moronmendoza",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.36,
+      "count": 36,
+      "top_channels": [
+        {
+          "channel": "help-crm",
+          "messages": 2
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 1
+        },
+        {
+          "channel": "midmarket-newbiz",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "stephany.moronmendoza",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 1,
+      "18": 1,
+      "14": 2
+    },
+    "by_day": {
+      "Monday": 1,
+      "Wednesday": 1,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.7,
+    "dept_average_30d": 4.32,
+    "dept_rank": 694,
+    "dept_size": 848
+  }
+}

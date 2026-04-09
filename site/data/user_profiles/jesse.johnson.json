@@ -1,0 +1,137 @@
+{
+  "username": "jesse.johnson",
+  "name": "Jesse Johnson",
+  "generated_at": "2026-04-08T20:22:30.120037",
+  "summary": {
+    "message_count": 32,
+    "channels_active": 5,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "I've closed the issue and PR for rbi. I think if types signal intent, then the intent is clear that the API accepts strings and changing code in",
+          "channel": "team-ruby-dx",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 2
+        },
+        {
+          "user": "kaan.ozkan",
+          "count": 1
+        },
+        {
+          "user": "alexander.momchilov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.14,
+      "count": 30,
+      "top_channels": [
+        {
+          "channel": "team-ruby-dx",
+          "messages": 25
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 2
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 1
+        },
+        {
+          "channel": "help-security",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "alexander.momchilov",
+          "count": 4
+        },
+        {
+          "user": "kaan.ozkan",
+          "count": 4
+        },
+        {
+          "user": "alexandre.terrasa",
+          "count": 2
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 1
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 1
+        },
+        {
+          "user": "stan.lo",
+          "count": 1
+        },
+        {
+          "user": "kiddi.gudjonsson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "22": 7,
+      "16": 2,
+      "21": 3,
+      "19": 4,
+      "23": 3,
+      "18": 6,
+      "17": 2,
+      "0": 1,
+      "20": 2,
+      "15": 1,
+      "1": 1
+    },
+    "by_day": {
+      "Thursday": 5,
+      "Wednesday": 3,
+      "Tuesday": 15,
+      "Monday": 3,
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.46,
+    "dept_average_30d": 5.75,
+    "dept_rank": 337,
+    "dept_size": 357
+  }
+}

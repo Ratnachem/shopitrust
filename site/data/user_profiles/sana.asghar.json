@@ -1,0 +1,271 @@
+{
+  "username": "sana.asghar",
+  "name": "Sana Asghar",
+  "generated_at": "2026-04-08T20:22:17.532266",
+  "summary": {
+    "message_count": 355,
+    "channels_active": 28,
+    "unique_people_mentioned": 31,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "&gt; which I think it's because without including the execution date",
+          "channel": "proj-auth-rate-data-greenpath",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you John! LGTM, <!subteam^S0A7CDPQTEE> -- would you be able to give this a code owner approval? This table just gets used for a dashboard to",
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Okay, the table's been updated -- you guys mind taking a second glance?\n\n<@W0197J2CD5E> I ended up taking Will's recommendation and removing the",
+          "channel": "proj-auth-rate-data-greenpath",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sweet, thanks Will! Once I push this <https://github.com/Shopify/data-warehouse/pull/43080|PR>, I'll go ahead and start looking through these (should",
+          "channel": "proj-auth-rate-data-greenpath",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Jenna! I'll update them in that thread you've linked!",
+          "channel": "help-observability",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "&gt; <@U082L0GJF0Q> - I'd suggest maybe we just deprecate payment method category\nI'd like to keep it for some exec insight use-cases and avoid",
+          "channel": "proj-auth-rate-data-greenpath",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; pretty sure the receipt value is ultimately what populates the value in the first place, I think mainly people don't like us writing code that",
+          "channel": "proj-auth-rate-data-greenpath",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "&gt; My take is that it's rarely going to _create_ a problem, but can add challenges to an existing one, so it's worth at least a little effort to",
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!!",
+          "channel": "dw-central-assets-monitoring",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Matt that doc is perfect, level of detail = unmatched - so valuable for us. Thank you! <@U02NXH82JQ2> do you have a sec to also take a look at Matt's",
+          "channel": "proj-auth-rate-data-greenpath",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I can't today, but can next week (probably good to add Michal and Will as",
+          "channel": "proj-auth-rate-data-greenpath",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 34,
+      "top_mentioned": [
+        {
+          "user": "william.suess",
+          "count": 6
+        },
+        {
+          "user": "yibing.yang",
+          "count": 5
+        },
+        {
+          "user": "justin.pauley",
+          "count": 5
+        },
+        {
+          "user": "mackenzie.ostler",
+          "count": 5
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 4
+        },
+        {
+          "user": "ariane.schang",
+          "count": 4
+        },
+        {
+          "user": "xiangshi.yin",
+          "count": 4
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 3
+        },
+        {
+          "user": "nick.smith",
+          "count": 3
+        },
+        {
+          "user": "john.comar",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.8,
+      "count": 280,
+      "top_channels": [
+        {
+          "channel": "proj-auth-rate-data-greenpath",
+          "messages": 94
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 44
+        },
+        {
+          "channel": "proj-sunset-services-db-dw-sdp-dependencies",
+          "messages": 40
+        },
+        {
+          "channel": "data-monorepo-migration",
+          "messages": 36
+        },
+        {
+          "channel": "dw-central-assets-monitoring",
+          "messages": 29
+        },
+        {
+          "channel": "tmp-river-test-channel-internal",
+          "messages": 25
+        },
+        {
+          "channel": "inv-19987-slot-contention-in-shopify-dw-compute",
+          "messages": 11
+        },
+        {
+          "channel": "transformation-health-monitoring",
+          "messages": 10
+        },
+        {
+          "channel": "dw-observe-monitoring",
+          "messages": 8
+        },
+        {
+          "channel": "data-warehouse-monitoring",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.9,
+      "count": 71,
+      "top_mentioners": [
+        {
+          "user": "jill.hogan",
+          "count": 13
+        },
+        {
+          "user": "matt.korostoff",
+          "count": 8
+        },
+        {
+          "user": "yibing.yang",
+          "count": 6
+        },
+        {
+          "user": "william.suess",
+          "count": 6
+        },
+        {
+          "user": "annelise.lynch",
+          "count": 6
+        },
+        {
+          "user": "john.comar",
+          "count": 4
+        },
+        {
+          "user": "rose.robertson",
+          "count": 4
+        },
+        {
+          "user": "trish.gillett",
+          "count": 4
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 3
+        },
+        {
+          "user": "justin.pauley",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 37,
+      "16": 37,
+      "1": 5,
+      "0": 13,
+      "23": 17,
+      "22": 36,
+      "20": 61,
+      "15": 28,
+      "19": 41,
+      "2": 3,
+      "21": 42,
+      "18": 20,
+      "14": 13,
+      "3": 2
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 101,
+      "Friday": 61,
+      "Thursday": 57,
+      "Monday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.73,
+    "dept_average_30d": 5.39,
+    "dept_rank": 17,
+    "dept_size": 272
+  }
+}

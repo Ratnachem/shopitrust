@@ -1,0 +1,240 @@
+{
+  "username": "adam.rubinstein",
+  "name": "Adam Rubinstein",
+  "generated_at": "2026-04-08T20:22:15.187003",
+  "summary": {
+    "message_count": 186,
+    "channels_active": 12,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 10,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome thanks!",
+          "channel": "proj-infra-katesql-replica-opt",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Got passed the 403",
+          "channel": "infrastructure-data",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "here's",
+          "channel": "infrastructure-data",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sounds good <@W018GAYCYSH>! <@W018B16HHK8> <@W018JTVHR1B> when you get to metrics implementation / tracking work feel free to tag me in to help",
+          "channel": "proj-yugabyte-thestore",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "*Update:* we're moving into deployment phase of new KateSQL SFR replica recommendations.\n\n_No replica counts changes on deploy today._ The pipeline",
+          "channel": "proj-infra-katesql-replica-opt",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hi folks. I'd like to use this channel as an evergreen place to align DS priorities with Yugabyte priorities; in short-term we'll use it to",
+          "channel": "ds-yugabyte-collab",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018HUGBKLK> ah man hope your fam feels better soon! Feel free to respond whenever.\n\nI think I know which direction to take this, but wanted to run",
+          "channel": "proj-infra-katesql-replica-opt",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "brett.owens",
+          "count": 8
+        },
+        {
+          "user": "kunal.kohli",
+          "count": 6
+        },
+        {
+          "user": "david.radcliffe",
+          "count": 5
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 4
+        },
+        {
+          "user": "omair.ahmed",
+          "count": 4
+        },
+        {
+          "user": "trish.gillett",
+          "count": 3
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 2
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 2
+        },
+        {
+          "user": "brittany.howard",
+          "count": 2
+        },
+        {
+          "user": "pierreluc.godin",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.81,
+      "count": 175,
+      "top_channels": [
+        {
+          "channel": "proj-infra-katesql-replica-opt",
+          "messages": 38
+        },
+        {
+          "channel": "infrastructure-data",
+          "messages": 33
+        },
+        {
+          "channel": "pi",
+          "messages": 25
+        },
+        {
+          "channel": "tmp-more-gcp-east",
+          "messages": 24
+        },
+        {
+          "channel": "ds-yugabyte-collab",
+          "messages": 15
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 13
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 12
+        },
+        {
+          "channel": "inc-19979-sfr-errors-due-to-topps-unannounced-flash",
+          "messages": 8
+        },
+        {
+          "channel": "resiliency-enterprise-sre-team",
+          "messages": 7
+        },
+        {
+          "channel": "help-data-notebooks",
+          "messages": 7
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "ravintushar.lathigra",
+          "count": 4
+        },
+        {
+          "user": "rj.davis",
+          "count": 2
+        },
+        {
+          "user": "pierreluc.godin",
+          "count": 1
+        },
+        {
+          "user": "adolfo.rodriguez",
+          "count": 1
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        },
+        {
+          "user": "mitch.dickinson",
+          "count": 1
+        },
+        {
+          "user": "david.radcliffe",
+          "count": 1
+        },
+        {
+          "user": "daniel.cohen",
+          "count": 1
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 1
+        },
+        {
+          "user": "tyler.copple",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 10,
+      "17": 18,
+      "16": 23,
+      "15": 17,
+      "14": 12,
+      "20": 18,
+      "19": 33,
+      "21": 30,
+      "13": 10,
+      "12": 5,
+      "22": 7,
+      "23": 3
+    },
+    "by_day": {
+      "Wednesday": 44,
+      "Tuesday": 58,
+      "Monday": 31,
+      "Friday": 21,
+      "Thursday": 32
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.51,
+    "dept_average_30d": 5.39,
+    "dept_rank": 118,
+    "dept_size": 272
+  }
+}

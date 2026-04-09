@@ -1,0 +1,126 @@
+{
+  "username": "sunyoung.hwang",
+  "name": "Sunyoung Hwang",
+  "generated_at": "2026-04-08T20:22:32.320071",
+  "summary": {
+    "message_count": 66,
+    "channels_active": 2,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you kindly!",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you <@W018WBMNMS5> :high5:",
+          "channel": "buyer-profile",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "excited for staging! :excited-kitty-cat:",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "thanks <@W018WBMNMS5> :blobheart: I figured out I can just run whatever I want in the query console afterward",
+          "channel": "proj-batch-audience-engine",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.9,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 3
+        },
+        {
+          "user": "gabriel.tanchen",
+          "count": 2
+        },
+        {
+          "user": "josh.davey",
+          "count": 1
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.49,
+      "count": 63,
+      "top_channels": [
+        {
+          "channel": "proj-batch-audience-engine",
+          "messages": 63
+        },
+        {
+          "channel": "buyer-profile",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.65,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "sahba.ezami",
+          "count": 2
+        },
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 5,
+      "19": 7,
+      "17": 14,
+      "16": 15,
+      "14": 8,
+      "13": 11,
+      "12": 3,
+      "18": 3
+    },
+    "by_day": {
+      "Thursday": 33,
+      "Wednesday": 24,
+      "Tuesday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.02,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1184,
+    "dept_size": 1663
+  }
+}

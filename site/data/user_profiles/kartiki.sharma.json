@@ -1,0 +1,179 @@
+{
+  "username": "kartiki.sharma",
+  "name": "Kartiki Sharma",
+  "generated_at": "2026-04-08T20:22:23.015395",
+  "summary": {
+    "message_count": 100,
+    "channels_active": 7,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much, Meg!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey, Denzel! Thank you for patience, I missed this question earlier today. Did anything come out in the investigation related to PCAT since you",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> Some more issues came in. Can you pull all the open identity flaky test issues and analyze them? I am looking for commonalities",
+          "channel": "tmp-identity-resiliency",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "colin.iuliano",
+          "count": 5
+        },
+        {
+          "user": "peter.lazzarino",
+          "count": 2
+        },
+        {
+          "user": "santosh.bhadri",
+          "count": 1
+        },
+        {
+          "user": "carlos.l.perez",
+          "count": 1
+        },
+        {
+          "user": "trevor.feeney",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.44,
+      "count": 38,
+      "top_channels": [
+        {
+          "channel": "tmp-identity-resiliency",
+          "messages": 35
+        },
+        {
+          "channel": "proj-merchant-edge-sessions",
+          "messages": 32
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 16
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "help-exp",
+          "messages": 6
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 3
+        },
+        {
+          "channel": "proj-edge-stapled-sessions",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.17,
+      "count": 20,
+      "top_mentioners": [
+        {
+          "user": "peter.lazzarino",
+          "count": 4
+        },
+        {
+          "user": "heather.knowlton",
+          "count": 3
+        },
+        {
+          "user": "charlejourdano.planos",
+          "count": 2
+        },
+        {
+          "user": "meg.swim",
+          "count": 2
+        },
+        {
+          "user": "craig.eplin",
+          "count": 2
+        },
+        {
+          "user": "marco.araujo",
+          "count": 1
+        },
+        {
+          "user": "ziyan.liu",
+          "count": 1
+        },
+        {
+          "user": "yahya.massoud",
+          "count": 1
+        },
+        {
+          "user": "steph.sachrajda",
+          "count": 1
+        },
+        {
+          "user": "jay.cha",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 13,
+      "14": 12,
+      "13": 5,
+      "21": 7,
+      "20": 9,
+      "17": 11,
+      "18": 9,
+      "16": 19,
+      "23": 1,
+      "22": 6,
+      "19": 8
+    },
+    "by_day": {
+      "Wednesday": 28,
+      "Tuesday": 19,
+      "Thursday": 20,
+      "Monday": 15,
+      "Friday": 18
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.92,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1029,
+    "dept_size": 1233
+  }
+}

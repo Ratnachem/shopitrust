@@ -1,0 +1,268 @@
+{
+  "username": "don.kelly",
+  "name": "Don Kelly",
+  "generated_at": "2026-04-08T20:22:05.761874",
+  "summary": {
+    "message_count": 1184,
+    "channels_active": 18,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.3,
+      "pos_count": 3,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> redo the review. Recent changes should fix the dependencies oversight (by your pal Claude). Let me know if anything else bothers you.",
+          "channel": "environments-reviews",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to play around with this incarnation of the proposal.",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U02C4A5RWPP>",
+          "channel": "inv-20431-failed-proxy-key-writes-breaking-dev-up",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Like I said, if we're getting to e.g. `team_ids = 1382, 4719, 8234, 5601, 3947, 7126, 2853, 6490, 9175, 4038, 8562, 1247, 6913, 3586, 7241, 5028,",
+          "channel": "environments-reviews",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yes, when a new `dev` arrives, `dev setup` is run. Whatever that's called.",
+          "channel": "environments-reviews",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "&gt; Also, this is stupid.\n<https://gist.github.com/donk-shopify/6f554fa3562cad6e94db7bc5f58235eb>\n\nI recommend you read this research dump. We're",
+          "channel": "inv-19976-google-auth-spam",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have a `shopify-xxxx` value.",
+          "channel": "inv-19976-google-auth-spam",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Cool. Like I said 87% :wink:",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; running dev rotate-cloudsmith-token command or whatever it's called\nUnlikely to work if a reauthentication is required (expired refresh token).",
+          "channel": "projects-environments",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Oh, not `//areas/tools/gt-wrapper`, it's in the `dev-nix`. <@U0AEPQCKB3M> can you look in `//system/tectonix` to find the `gt-wrapper` derivation or",
+          "channel": "environments-reviews",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "sam.bostock",
+          "count": 34
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 23
+        },
+        {
+          "user": "ashley.williams",
+          "count": 19
+        },
+        {
+          "user": "vaidas.pilkauskas",
+          "count": 14
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 11
+        },
+        {
+          "user": "evan.lee",
+          "count": 7
+        },
+        {
+          "user": "xiao.li",
+          "count": 7
+        },
+        {
+          "user": "gord.pearson",
+          "count": 6
+        },
+        {
+          "user": "ester.kais",
+          "count": 6
+        },
+        {
+          "user": "tony.cummings",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.04,
+      "count": 134,
+      "top_channels": [
+        {
+          "channel": "environments-reviews",
+          "messages": 378
+        },
+        {
+          "channel": "inv-19976-google-auth-spam",
+          "messages": 219
+        },
+        {
+          "channel": "dev-up",
+          "messages": 214
+        },
+        {
+          "channel": "projects-environments",
+          "messages": 120
+        },
+        {
+          "channel": "gitstream",
+          "messages": 115
+        },
+        {
+          "channel": "inv-20431-failed-proxy-key-writes-breaking-dev-up",
+          "messages": 34
+        },
+        {
+          "channel": "donk-river",
+          "messages": 18
+        },
+        {
+          "channel": "proj-non-rd-bootstrap",
+          "messages": 16
+        },
+        {
+          "channel": "styx",
+          "messages": 13
+        },
+        {
+          "channel": "tectonix",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 137,
+      "top_mentioners": [
+        {
+          "user": "ashley.williams",
+          "count": 47
+        },
+        {
+          "user": "sam.bostock",
+          "count": 28
+        },
+        {
+          "user": "xiao.li",
+          "count": 17
+        },
+        {
+          "user": "chao.duan",
+          "count": 10
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 5
+        },
+        {
+          "user": "evan.lee",
+          "count": 4
+        },
+        {
+          "user": "josh.heinrichs",
+          "count": 4
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 3
+        },
+        {
+          "user": "vaidas.pilkauskas",
+          "count": 2
+        },
+        {
+          "user": "phil.mcclelland",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 92,
+      "16": 114,
+      "15": 168,
+      "14": 140,
+      "13": 74,
+      "12": 10,
+      "2": 82,
+      "20": 108,
+      "19": 109,
+      "0": 15,
+      "23": 22,
+      "17": 56,
+      "11": 20,
+      "3": 73,
+      "22": 41,
+      "21": 23,
+      "4": 30,
+      "1": 7
+    },
+    "by_day": {
+      "Wednesday": 373,
+      "Tuesday": 247,
+      "Friday": 154,
+      "Thursday": 334,
+      "Monday": 76
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.49,
+    "dept_average_30d": 5.75,
+    "dept_rank": 61,
+    "dept_size": 357
+  }
+}

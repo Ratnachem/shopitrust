@@ -1,0 +1,269 @@
+{
+  "username": "brandon.horn",
+  "name": "Brandon Horn",
+  "generated_at": "2026-04-08T20:22:15.159000",
+  "summary": {
+    "message_count": 249,
+    "channels_active": 11,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "<@W0197GS6EAU> Congrats, let's catch up!",
+          "channel": "claude-river",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thank you! Let me know if you need anything from me.",
+          "channel": "proj-infra-gke-ledger-cluster",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Let me know if you need anything from me.",
+          "channel": "proj-infra-gke-ledger-cluster",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "Yeah well done <@U03ULS42UD9>",
+          "channel": "proj-2026-pci-assessment",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "<@U0266AJ4ZHP> congrats on your new promotion to CSO (Chief Session Officer).\n\nI look forward to seeing how you handle logging in a few hours.",
+          "channel": "proj-2026-pci-assessment",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0182UQHYEB>!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":glarb-approved: but you're out of date, let me know if you need another one once you rebase",
+          "channel": "proj-infra-gke-ledger-cluster",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "pending CI for your most recent, want me to wait a few so it makes it in?",
+          "channel": "help-ris",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "did we ever conclusively decide that specific log alert or whatever was indeed useless?",
+          "channel": "ris-envoy-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "did we ever conclusively decide that specific log alert or whatever was indeed useless?",
+          "channel": "ris-envoy-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "did you figure it out?",
+          "channel": "proj-infra-gke-ledger-cluster",
+          "timestamp": "2026-03-30"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "riley.shott",
+          "count": 7
+        },
+        {
+          "user": "sofia.qureshi",
+          "count": 7
+        },
+        {
+          "user": "brian.warsing",
+          "count": 5
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 4
+        },
+        {
+          "user": "jason.hoos",
+          "count": 4
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 2
+        },
+        {
+          "user": "edith.sakatia",
+          "count": 1
+        },
+        {
+          "user": "pablo.rocco",
+          "count": 1
+        },
+        {
+          "user": "jenna.black",
+          "count": 1
+        },
+        {
+          "user": "galhabian",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.91,
+      "count": 180,
+      "top_channels": [
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 86
+        },
+        {
+          "channel": "proj-infra-gke-ledger-cluster",
+          "messages": 78
+        },
+        {
+          "channel": "help-ris",
+          "messages": 31
+        },
+        {
+          "channel": "proj-48862-ris-gke134-updates",
+          "messages": 19
+        },
+        {
+          "channel": "cardserver-operations",
+          "messages": 8
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 7
+        },
+        {
+          "channel": "claude-river",
+          "messages": 4
+        },
+        {
+          "channel": "ris-envoy-alerts",
+          "messages": 4
+        },
+        {
+          "channel": "threepointonefouronefivenine",
+          "messages": 4
+        },
+        {
+          "channel": "help-observability",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.96,
+      "count": 62,
+      "top_mentioners": [
+        {
+          "user": "brian.warsing",
+          "count": 10
+        },
+        {
+          "user": "sofia.qureshi",
+          "count": 9
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 8
+        },
+        {
+          "user": "craigsharpe",
+          "count": 7
+        },
+        {
+          "user": "riley.shott",
+          "count": 4
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 3
+        },
+        {
+          "user": "kabir.jain",
+          "count": 3
+        },
+        {
+          "user": "yash.kapadia",
+          "count": 3
+        },
+        {
+          "user": "raphael.papillon",
+          "count": 3
+        },
+        {
+          "user": "rashmi.kumari",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 30,
+      "15": 61,
+      "19": 31,
+      "17": 43,
+      "14": 10,
+      "13": 29,
+      "12": 1,
+      "1": 1,
+      "21": 14,
+      "20": 21,
+      "16": 6,
+      "22": 2
+    },
+    "by_day": {
+      "Wednesday": 63,
+      "Tuesday": 93,
+      "Thursday": 36,
+      "Monday": 22,
+      "Friday": 35
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 5.75,
+    "dept_rank": 224,
+    "dept_size": 357
+  }
+}

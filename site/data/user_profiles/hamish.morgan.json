@@ -1,0 +1,251 @@
+{
+  "username": "hamish.morgan",
+  "name": "Hamish Morgan",
+  "generated_at": "2026-04-08T20:22:25.421173",
+  "summary": {
+    "message_count": 165,
+    "channels_active": 14,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about this. I'll try to do better next time.",
+          "channel": "help-deliver-data",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Bit of a long one I'm afraid:\n:eyes: <https://app.graphite.com/github/pr/shop/world/532491?ref=gt-pasteable-stack|#532491 Wire carrier-calculated",
+          "channel": "proj-shipping-profile-redesign-eng",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M>  This PR <https://github.com/shop/world/pull/505340> was created by a reckless and irresponsible agent and it's lunatic human",
+          "channel": "inv-20014-100-events-for-slice-delivery--order-rout",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Alright. I'll leave it (besides adding subject to the schema) Thanks!",
+          "channel": "proj-shipping-profile-redesign",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-shipping-profile-redesign",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave:  Hi. Am I allowed to create a personal GCP project for experiments and side projects?  Mostly I'm accessing basic Google APIs like Drive and",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; I think we can simplify this schema further by removing any notion of conditions.\n&gt; i.e. a rate group *can* have a list of collections and",
+          "channel": "proj-shipping-profile-redesign",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "It's almost certainly a general issue. Or, it will occur whenever a we wish to partition by something other than id in Yugabyte, which is going to be",
+          "channel": "proj-product-and-location-conditions-in-shipping-options",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.05,
+      "count": 20,
+      "top_mentioned": [
+        {
+          "user": "max.perry",
+          "count": 7
+        },
+        {
+          "user": "tom.crinson",
+          "count": 6
+        },
+        {
+          "user": "beth.townsend",
+          "count": 3
+        },
+        {
+          "user": "rachelyn.collins",
+          "count": 3
+        },
+        {
+          "user": "jackie.ellis",
+          "count": 2
+        },
+        {
+          "user": "soroosh.sarabadani",
+          "count": 2
+        },
+        {
+          "user": "chema.balsas",
+          "count": 2
+        },
+        {
+          "user": "cherry.chau",
+          "count": 2
+        },
+        {
+          "user": "santusht.arora",
+          "count": 2
+        },
+        {
+          "user": "daniella.niyonkuru",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.37,
+      "count": 89,
+      "top_channels": [
+        {
+          "channel": "proj-product-and-location-conditions-in-shipping-options",
+          "messages": 53
+        },
+        {
+          "channel": "proj-shipping-profile-redesign",
+          "messages": 44
+        },
+        {
+          "channel": "inv-20014-100-events-for-slice-delivery--order-rout",
+          "messages": 26
+        },
+        {
+          "channel": "proj-shipping-profile-redesign-eng",
+          "messages": 13
+        },
+        {
+          "channel": "sync-collections-shipping-profiles",
+          "messages": 7
+        },
+        {
+          "channel": "help-deliver-data",
+          "messages": 5
+        },
+        {
+          "channel": "inc-20878-change-in-the-delivery-cache-key-caused-d",
+          "messages": 4
+        },
+        {
+          "channel": "proj-migration-and-integrity-market-shipping-profiles",
+          "messages": 3
+        },
+        {
+          "channel": "proj-secure-egress-gateway",
+          "messages": 3
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.56,
+      "count": 39,
+      "top_mentioners": [
+        {
+          "user": "tom.crinson",
+          "count": 10
+        },
+        {
+          "user": "rachelyn.collins",
+          "count": 7
+        },
+        {
+          "user": "max.perry",
+          "count": 6
+        },
+        {
+          "user": "jackie.ellis",
+          "count": 2
+        },
+        {
+          "user": "chema.balsas",
+          "count": 2
+        },
+        {
+          "user": "cherry.chau",
+          "count": 2
+        },
+        {
+          "user": "fekadeab.dejene",
+          "count": 2
+        },
+        {
+          "user": "jon.hamburg",
+          "count": 1
+        },
+        {
+          "user": "michael.pratt",
+          "count": 1
+        },
+        {
+          "user": "laurent.dang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "10": 19,
+      "9": 20,
+      "16": 13,
+      "13": 15,
+      "12": 9,
+      "11": 29,
+      "8": 21,
+      "14": 9,
+      "7": 2,
+      "15": 9,
+      "22": 3,
+      "21": 2,
+      "18": 6,
+      "19": 1,
+      "17": 7
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Tuesday": 18,
+      "Thursday": 75,
+      "Monday": 30,
+      "Friday": 21
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.63,
+    "dept_average_30d": 5.79,
+    "dept_rank": 45,
+    "dept_size": 1233
+  }
+}

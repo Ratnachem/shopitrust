@@ -1,0 +1,259 @@
+{
+  "username": "justin.bicknell",
+  "name": "Justin Bicknell",
+  "generated_at": "2026-04-08T20:22:11.568121",
+  "summary": {
+    "message_count": 824,
+    "channels_active": 18,
+    "unique_people_mentioned": 44,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U084V524ARX> <@W018HM3G9K4> :point_up: let me know if you are good with this. No rush, can wait until later this week.",
+          "channel": "proj-rollup-performance-improvements",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you want me there - i can pop in. Although I have a 1:1 at that time that i need to move",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018PTJVA3W> let me know if you want to pair on this",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> my bad - already have a pr for this",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yeah that's my bad. :homer_bye:\n\npushed a fix and tests now pass locally",
+          "channel": "inv-20331-consistently-failing-post-merge-testing-c",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> copied for you below:\n*Niko Rutherford*  [3:33 PM]\n:cart-howdy: Hello from carts! I'm investigating",
+          "channel": "proj-rollup-performance-improvements",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-rollup-performance-improvements",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> maybe we should look at why does `transaction_with_timing` do a nil check anyways? Shouldn't you be able to return whatever you want",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> check CI failure logs (you should have access) - address test failures as they look relevant to our changes",
+          "channel": "inventory-penguins",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 48,
+      "top_mentioned": [
+        {
+          "user": "dane.carr",
+          "count": 22
+        },
+        {
+          "user": "keith.kim",
+          "count": 13
+        },
+        {
+          "user": "kirsten.westeinde",
+          "count": 13
+        },
+        {
+          "user": "kirill.suslov",
+          "count": 12
+        },
+        {
+          "user": "neil.rosenstech",
+          "count": 8
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 6
+        },
+        {
+          "user": "alex.carruthers",
+          "count": 5
+        },
+        {
+          "user": "stephen.anders",
+          "count": 5
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 4
+        },
+        {
+          "user": "george.ferreira",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.0,
+      "count": 185,
+      "top_channels": [
+        {
+          "channel": "inventory-penguins",
+          "messages": 357
+        },
+        {
+          "channel": "river-justinb",
+          "messages": 165
+        },
+        {
+          "channel": "proj-rollup-performance-improvements",
+          "messages": 165
+        },
+        {
+          "channel": "inventory-exceptions",
+          "messages": 44
+        },
+        {
+          "channel": "inventory-alerts",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20331-consistently-failing-post-merge-testing-c",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20391-bulkadjustinventoryinvalid-errors-for-soc",
+          "messages": 11
+        },
+        {
+          "channel": "product-foundations-team-channel",
+          "messages": 11
+        },
+        {
+          "channel": "proj-activation-with-inventory-movement",
+          "messages": 10
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.5,
+      "count": 48,
+      "top_mentioners": [
+        {
+          "user": "kenneth.poling",
+          "count": 10
+        },
+        {
+          "user": "rj.davis",
+          "count": 5
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 4
+        },
+        {
+          "user": "dane.carr",
+          "count": 4
+        },
+        {
+          "user": "keith.kim",
+          "count": 4
+        },
+        {
+          "user": "reuben.sutton",
+          "count": 3
+        },
+        {
+          "user": "ryan.kazokas",
+          "count": 2
+        },
+        {
+          "user": "kirsten.westeinde",
+          "count": 2
+        },
+        {
+          "user": "mitch.miller",
+          "count": 2
+        },
+        {
+          "user": "alex.carruthers",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 47,
+      "17": 85,
+      "15": 106,
+      "14": 41,
+      "21": 68,
+      "20": 114,
+      "19": 72,
+      "16": 130,
+      "22": 78,
+      "13": 5,
+      "3": 5,
+      "2": 11,
+      "1": 12,
+      "23": 34,
+      "0": 15,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 222,
+      "Tuesday": 279,
+      "Monday": 98,
+      "Thursday": 133,
+      "Friday": 92
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.09,
+    "dept_average_30d": 5.79,
+    "dept_rank": 384,
+    "dept_size": 1233
+  }
+}

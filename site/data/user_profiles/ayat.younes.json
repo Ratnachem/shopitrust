@@ -1,0 +1,90 @@
+{
+  "username": "ayat.younes",
+  "name": "Ayat Younes",
+  "generated_at": "2026-04-08T20:22:30.051710",
+  "summary": {
+    "message_count": 4,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 1,
+    "days_in_window": 14,
+    "days_scale": 0.61
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "yes! Sorry about that <@W018B0ZT6R4>, here's the ticket: <https://shopify.zendesk.com/agent/tickets/65011419>. I took a look at their Sidekick",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "yes! Sorry about that <@W018B0ZT6R4>, here's the ticket: <https://shopify.zendesk.com/agent/tickets/65011419>. I took a look at their Sidekick",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.75,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "feken.baboyan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-sidekick",
+          "messages": 3
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.34,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "feken.baboyan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "5": 1,
+      "3": 1,
+      "15": 1,
+      "4": 1
+    },
+    "by_day": {
+      "Friday": 3,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.3,
+    "dept_average_30d": 4.74,
+    "dept_rank": 986,
+    "dept_size": 1663
+  }
+}

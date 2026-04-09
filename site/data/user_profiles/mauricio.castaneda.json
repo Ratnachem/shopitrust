@@ -1,0 +1,212 @@
+{
+  "username": "mauricio.castaneda",
+  "name": "Mauricio Castaneda",
+  "generated_at": "2026-04-08T20:22:21.968933",
+  "summary": {
+    "message_count": 90,
+    "channels_active": 10,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.7,
+      "pos_count": 17,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi, I need help with a PR review from the infra team, is this the right channel? It seems like help-eng-infrastructure is no longer monitored:\nif",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "can I get a new review for this changes to cdcChange SMT, thank you:\n<https://github.com/Shopify/cdc-jars/pull/440>",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "congrats John! :frog-celebrate:",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "congrats John! :frog-celebrate:",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi! Peiran, the valid namespace is `cdc-staging-core-unrestricted`\n\nJust curious, do you have an official offboard guidance ?\nthank you",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "can I get a new reveiw please:\n<https://github.com/Shopify/infra-central/pull/20211>\n\nthank you!",
+          "channel": "cdc-notifications-migration",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Team!\nCan I please get a review on this PR:\n<https://github.com/Shopify/infrastructure/pull/36467>\n\nThank you",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'm just looking to see if we have a script to offboard an environment from an app, take for example some app in infra is usually onboarded via\n`dev",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello Team, :it-crowd:\n\nOne of my mac's USB-C ports is failing, it is not charging, outputting signal to any device I connect, no mouse, no",
+          "channel": "help-it",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Team,\n\nIn the future we might have to offboard a few environments from infrastructure monorepo, I know that all environments under the infra",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "ahmed.bayraktar",
+          "count": 5
+        },
+        {
+          "user": "balint.bene",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.06,
+      "count": 135,
+      "top_channels": [
+        {
+          "channel": "streaming-services-team",
+          "messages": 34
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 15
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 13
+        },
+        {
+          "channel": "cdc-yugabyte",
+          "messages": 7
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 6
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 6
+        },
+        {
+          "channel": "streaming-platform-discuss",
+          "messages": 3
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "cdc-infra-monorepo-migration",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.96,
+      "count": 19,
+      "top_mentioners": [
+        {
+          "user": "balint.bene",
+          "count": 7
+        },
+        {
+          "user": "john.tanza",
+          "count": 4
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 3
+        },
+        {
+          "user": "eric.yang",
+          "count": 2
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 2
+        },
+        {
+          "user": "michael.terranova",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 5,
+      "20": 30,
+      "19": 9,
+      "14": 1,
+      "22": 3,
+      "21": 11,
+      "17": 15,
+      "16": 3,
+      "23": 2,
+      "18": 9,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 13,
+      "Tuesday": 32,
+      "Monday": 7,
+      "Thursday": 27,
+      "Friday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.84,
+    "dept_average_30d": 5.75,
+    "dept_rank": 309,
+    "dept_size": 357
+  }
+}

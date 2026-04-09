@@ -1,0 +1,222 @@
+{
+  "username": "ryan.crumley",
+  "name": "Ryan Crumley",
+  "generated_at": "2026-04-08T20:22:20.157289",
+  "summary": {
+    "message_count": 192,
+    "channels_active": 16,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "nice job",
+          "text": "Nice job landing the plane!",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Added to production release channel, everything is fine in staging but not feeling particularly excited about rushing this out tonight when morning",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats John!",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "don't hesitate",
+          "text": "Hey Jonathan! I'm catching up after some time off but will put this in the queue for mid week. If you don't hear from me in a few days don't hesitate",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "kevin.lam",
+          "count": 13
+        },
+        {
+          "user": "maria.ntalla",
+          "count": 5
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 3
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 3
+        },
+        {
+          "user": "prabhjot.bharaj",
+          "count": 2
+        },
+        {
+          "user": "vivek.wassan",
+          "count": 2
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 1
+        },
+        {
+          "user": "jeremiah.brazeau",
+          "count": 1
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 1
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.82,
+      "count": 228,
+      "top_channels": [
+        {
+          "channel": "query-engine-dev",
+          "messages": 90
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 36
+        },
+        {
+          "channel": "proj-performant-mode-2-x-qe",
+          "messages": 12
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 10
+        },
+        {
+          "channel": "proj-semantic-query-engine-ops",
+          "messages": 9
+        },
+        {
+          "channel": "inv-19926-catalog-api-search-latency-spiking-due-to",
+          "messages": 8
+        },
+        {
+          "channel": "proj-product-loader",
+          "messages": 5
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 5
+        },
+        {
+          "channel": "streaming-platform-discuss",
+          "messages": 4
+        },
+        {
+          "channel": "proj-merch-contextual-product-library",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.08,
+      "count": 44,
+      "top_mentioners": [
+        {
+          "user": "vinay.shah",
+          "count": 4
+        },
+        {
+          "user": "prabhjot.bharaj",
+          "count": 4
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 4
+        },
+        {
+          "user": "chris.pak",
+          "count": 3
+        },
+        {
+          "user": "kevin.lam",
+          "count": 3
+        },
+        {
+          "user": "eric.walker",
+          "count": 3
+        },
+        {
+          "user": "maurizio.cucchiara",
+          "count": 3
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 2
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 2
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 28,
+      "13": 14,
+      "21": 15,
+      "20": 8,
+      "19": 16,
+      "18": 19,
+      "17": 26,
+      "15": 9,
+      "14": 41,
+      "12": 4,
+      "0": 3,
+      "22": 5,
+      "2": 1,
+      "23": 1,
+      "11": 2
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 68,
+      "Monday": 17,
+      "Friday": 15,
+      "Thursday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.05,
+    "dept_average_30d": 5.75,
+    "dept_rank": 116,
+    "dept_size": 357
+  }
+}

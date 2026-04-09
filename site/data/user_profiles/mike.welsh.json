@@ -1,0 +1,312 @@
+{
+  "username": "mike.welsh",
+  "name": "Mike Welsh",
+  "generated_at": "2026-04-08T20:22:15.266671",
+  "summary": {
+    "message_count": 714,
+    "channels_active": 29,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02AXLZU290> I'm planning to take a look at this around 11 ET - that's a bit late for you, but let me know if you want to pair",
+          "channel": "shop-bad-trackers",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://shopify.slack.com/archives/C09SGHKJN06/p1775574579757069?thread_ts=1775244867.543049&amp;cid=C09SGHKJN06> Looks like it didn't quite work",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U085WQ2NP8R> can you provide an update here when you look at how many subscriptions are missing the provider ID ? Let me know if you want to pair",
+          "channel": "shop-tracking",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Didn't know we could do that",
+          "channel": "inv-20877-shipit-next-seems-to-be-blocked-by-binks-",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "This is amazing work, thanks for integrating this <@U094KBGQK46> - big observability win for the project",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to merge yours",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Appreciate it - will take a look and clean things up",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I have been adding you as a reviewer to try to keep you in the loop, but let me know if there's a better way as we're moving pretty quick on our",
+          "channel": "proj-updated-edds-post-checkout",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "No worries, I'll take a quick peek and put whatever I find into the ticket",
+          "channel": "shop-bad-trackers",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So now let's check that for all dhl_ecommerce trackers, we have no tracking events for them in Shop and the tracker was never updated (check",
+          "channel": "shop-tracking",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Is this going to impact whatever <@U021TMBLKJN> is doing with Verdict?",
+          "channel": "inv-20923-high-write-latency-tracking-pipeline",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Let me double check how `predicted_edd` payload is getting generated, because you should have a list of possible EDDs (e.g. one from carrier and one",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Also the migrations included `tracker_subjects_partitioned` but we probably need to change/update that table based on PII discussion to whatever you",
+          "channel": "gsd-48440-tracking-streaming",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "```SELECT\n  parse_id,\n  event_timestamp,\n  user_id,\n  input_tracking_code,\n  output_tracking_code,\n  output_carrier_name\nFROM\n ",
+          "channel": "shop-bad-trackers",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think we should drop the number in the pipeline somewhere. Maybe not ingestion (we should have the full carrier input, whatever that is) - but",
+          "channel": "shop-bad-trackers",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "For whatever reason, the city name was captured with a 0 in it :confused: So technically, it displayed correctly given what we stored",
+          "channel": "shop-bad-trackers",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "max.giraldo",
+          "count": 15
+        },
+        {
+          "user": "udeep.tandukar",
+          "count": 11
+        },
+        {
+          "user": "jesse.li",
+          "count": 9
+        },
+        {
+          "user": "jon.elliott",
+          "count": 7
+        },
+        {
+          "user": "andreas.zecher",
+          "count": 5
+        },
+        {
+          "user": "charlie.morris",
+          "count": 5
+        },
+        {
+          "user": "harmanprit.tatla",
+          "count": 5
+        },
+        {
+          "user": "tasos.latsas",
+          "count": 4
+        },
+        {
+          "user": "ian.quan",
+          "count": 4
+        },
+        {
+          "user": "atul.sharma",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 404,
+      "top_channels": [
+        {
+          "channel": "gsd-48440-tracking-streaming",
+          "messages": 329
+        },
+        {
+          "channel": "inv-20923-high-write-latency-tracking-pipeline",
+          "messages": 112
+        },
+        {
+          "channel": "shop-tracking",
+          "messages": 82
+        },
+        {
+          "channel": "shop-bad-trackers",
+          "messages": 25
+        },
+        {
+          "channel": "proj-updated-edds-post-checkout",
+          "messages": 22
+        },
+        {
+          "channel": "proj-tracking-shop-tracking-layer",
+          "messages": 21
+        },
+        {
+          "channel": "tracking-dev-ops",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20876-merge-queues-seems-to-be-blocked-by-binks",
+          "messages": 14
+        },
+        {
+          "channel": "shipping-tracking",
+          "messages": 12
+        },
+        {
+          "channel": "shop-tracking-yb-work-group",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 207,
+      "top_mentioners": [
+        {
+          "user": "harmanprit.tatla",
+          "count": 19
+        },
+        {
+          "user": "udeep.tandukar",
+          "count": 19
+        },
+        {
+          "user": "andreas.zecher",
+          "count": 19
+        },
+        {
+          "user": "jesse.li",
+          "count": 15
+        },
+        {
+          "user": "atul.sharma",
+          "count": 13
+        },
+        {
+          "user": "xinran.wang",
+          "count": 13
+        },
+        {
+          "user": "kasparas.galdikas",
+          "count": 12
+        },
+        {
+          "user": "jon.elliott",
+          "count": 9
+        },
+        {
+          "user": "richard.newman",
+          "count": 8
+        },
+        {
+          "user": "siraj.ali",
+          "count": 8
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 70,
+      "17": 57,
+      "16": 40,
+      "15": 57,
+      "13": 77,
+      "1": 59,
+      "0": 17,
+      "20": 80,
+      "19": 54,
+      "12": 25,
+      "23": 3,
+      "22": 17,
+      "21": 44,
+      "14": 63,
+      "11": 3,
+      "10": 3,
+      "9": 2,
+      "2": 27,
+      "3": 15,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 214,
+      "Tuesday": 185,
+      "Monday": 116,
+      "Friday": 66,
+      "Thursday": 133
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 6.93,
+    "dept_average_30d": 5.86,
+    "dept_rank": 7,
+    "dept_size": 166
+  }
+}

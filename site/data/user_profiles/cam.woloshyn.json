@@ -1,0 +1,207 @@
+{
+  "username": "cam.woloshyn",
+  "name": "Cam Woloshyn",
+  "generated_at": "2026-04-08T20:22:24.044386",
+  "summary": {
+    "message_count": 164,
+    "channels_active": 22,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 17,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "&gt; That means the `database-migrations` skill from `//system/skills/rails` *is* available to agents in this zone. I should have checked the zone",
+          "channel": "tmp-ai-migration-safety",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Here's the problem (I asked River)\n\nAll 4 failing jobs have the exact same root cause. Here's the breakdown:\n\n*All 4 Docker image builds failed with",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 36,
+      "top_mentioned": [
+        {
+          "user": "gannon.mcgibbon",
+          "count": 7
+        },
+        {
+          "user": "hartley.mcguire",
+          "count": 7
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 6
+        },
+        {
+          "user": "matthew.draper",
+          "count": 4
+        },
+        {
+          "user": "javier.moreno",
+          "count": 3
+        },
+        {
+          "user": "edouard.chin",
+          "count": 2
+        },
+        {
+          "user": "stan.lo",
+          "count": 2
+        },
+        {
+          "user": "adrianna.chang",
+          "count": 2
+        },
+        {
+          "user": "harriet.oughton",
+          "count": 2
+        },
+        {
+          "user": "jill.klang",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.29,
+      "count": 279,
+      "top_channels": [
+        {
+          "channel": "cww-riviere",
+          "messages": 38
+        },
+        {
+          "channel": "proj-faster-bundler",
+          "messages": 30
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 25
+        },
+        {
+          "channel": "ruby-and-rails-infra-operations",
+          "messages": 15
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 12
+        },
+        {
+          "channel": "proj-self-serve-maintenance-tasks",
+          "messages": 6
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 6
+        },
+        {
+          "channel": "tectonix",
+          "messages": 5
+        },
+        {
+          "channel": "db-mobility",
+          "messages": 4
+        },
+        {
+          "channel": "tmp-ai-migration-safety",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.58,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "andrew.novoselac",
+          "count": 4
+        },
+        {
+          "user": "chao.duan",
+          "count": 3
+        },
+        {
+          "user": "matthew.draper",
+          "count": 2
+        },
+        {
+          "user": "samantha.john",
+          "count": 2
+        },
+        {
+          "user": "alex.spencer",
+          "count": 2
+        },
+        {
+          "user": "ryan.wang",
+          "count": 2
+        },
+        {
+          "user": "jass.arora",
+          "count": 2
+        },
+        {
+          "user": "javier.moreno",
+          "count": 1
+        },
+        {
+          "user": "alexandre.terrasa",
+          "count": 1
+        },
+        {
+          "user": "gabriela.stefanini",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 9,
+      "19": 11,
+      "21": 17,
+      "20": 37,
+      "12": 21,
+      "16": 15,
+      "17": 7,
+      "13": 11,
+      "18": 15,
+      "15": 13,
+      "0": 1,
+      "10": 1,
+      "22": 1,
+      "11": 5
+    },
+    "by_day": {
+      "Wednesday": 69,
+      "Monday": 21,
+      "Thursday": 26,
+      "Tuesday": 9,
+      "Friday": 39
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.36,
+    "dept_average_30d": 4.74,
+    "dept_rank": 389,
+    "dept_size": 1663
+  }
+}

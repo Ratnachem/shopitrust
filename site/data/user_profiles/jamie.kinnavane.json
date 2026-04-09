@@ -1,0 +1,187 @@
+{
+  "username": "jamie.kinnavane",
+  "name": "Jamie Kinnavane",
+  "generated_at": "2026-04-08T20:22:20.094034",
+  "summary": {
+    "message_count": 270,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, you should now",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I can see it was merged on my behalf. Thank you so much :bow:",
+          "channel": "team-ci",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Hey folks, if you are working on removing the <#C01MXHNTT4Z> references and you clone a new repo and files and folders are missing from your clone,",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I started using Seth's skill for all of my evaluations as of today and it is amazing! I'm running two evaluations at a time and I think that is the",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey folks. I'm feeling awful this morning still. I'm going to take a personal day. Sorry about this.",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Weird, it looks like the token didn't get saved as it's trying to use a username and password. Will you try creating a new token by running `dev",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you! :slightly_smiling_face:",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "River has been amazing. Every monorepo question I have asked her, she has gotten correct. So impressive",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "You really do have to mind it to make sure it's not doing something stupid. I will sometimes run the analysis again when I feel like it made a lot of",
+          "channel": "team-ai-operations",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "michelle.oconnor",
+          "count": 1
+        },
+        {
+          "user": "meg.swim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.18,
+      "count": 84,
+      "top_channels": [
+        {
+          "channel": "team-ai-operations",
+          "messages": 221
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 39
+        },
+        {
+          "channel": "team-ci",
+          "messages": 4
+        },
+        {
+          "channel": "team-cd",
+          "messages": 4
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.08,
+      "count": 10,
+      "top_mentioners": [
+        {
+          "user": "meg.swim",
+          "count": 4
+        },
+        {
+          "user": "majd.almnayer",
+          "count": 2
+        },
+        {
+          "user": "michelle.oconnor",
+          "count": 1
+        },
+        {
+          "user": "colin.gray",
+          "count": 1
+        },
+        {
+          "user": "samuel.path",
+          "count": 1
+        },
+        {
+          "user": "chao.duan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 29,
+      "10": 39,
+      "8": 16,
+      "11": 49,
+      "15": 29,
+      "13": 22,
+      "9": 34,
+      "14": 32,
+      "17": 7,
+      "12": 10,
+      "18": 2,
+      "7": 1
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 56,
+      "Friday": 27,
+      "Thursday": 77,
+      "Monday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.55,
+    "dept_average_30d": 5.75,
+    "dept_rank": 329,
+    "dept_size": 357
+  }
+}

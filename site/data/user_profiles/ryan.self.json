@@ -1,0 +1,268 @@
+{
+  "username": "ryan.self",
+  "name": "Ryan Self",
+  "generated_at": "2026-04-08T20:22:11.456905",
+  "summary": {
+    "message_count": 674,
+    "channels_active": 15,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.0,
+      "pos_count": 35,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Great work, Chet! Let me know if you need any help :oneteam:",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Great work, Chet! Let me know if you need any help :oneteam:",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good point, I'll follow up on that, thanks!",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "> Agree we can filter even more, just want to make sure you know about this existing filter.\nThank you :pray: Wasn't aware of this.\n\nWould it be",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Hi <@U036JT1LP63>, thank you for going through the analyses :pray:\n\n&gt; I wonder if the distribution of findings stay consistent/stable if",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you, and thanks for all the due diligence :oneteam: :chets:",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, that works! Thank you :pray:",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Good luck, team... please include me in retro to help with any follow-on issues :pray:",
+          "channel": "inc-20855-signals-deduplication-flink-pipeline-rest",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Chet is amazing :tada: Shout-out for getting protobuf stuff in place that is aligned with more current versions of flink-lib. We needed to do some",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Chet is amazing :tada: Shout-out for getting protobuf stuff in place that is aligned with more current versions of flink-lib. We needed to do some",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Thankfully agents exist nowadays, because my brain is becoming useless :galaxy-brain:",
+          "channel": "bp-cdp-flink-dev",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.77,
+      "count": 32,
+      "top_mentioned": [
+        {
+          "user": "chethana.siddappa",
+          "count": 16
+        },
+        {
+          "user": "ash.charles",
+          "count": 13
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 11
+        },
+        {
+          "user": "francois.campeau",
+          "count": 8
+        },
+        {
+          "user": "chad.isenberg",
+          "count": 7
+        },
+        {
+          "user": "alexander.cecil",
+          "count": 5
+        },
+        {
+          "user": "katie.laliberte",
+          "count": 3
+        },
+        {
+          "user": "jonny.lomond",
+          "count": 3
+        },
+        {
+          "user": "josh.davey",
+          "count": 2
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.57,
+      "count": 162,
+      "top_channels": [
+        {
+          "channel": "proj-customer-events-refinery",
+          "messages": 227
+        },
+        {
+          "channel": "bp-cdp-flink-dev",
+          "messages": 223
+        },
+        {
+          "channel": "customer-data-platform-ops",
+          "messages": 107
+        },
+        {
+          "channel": "inc-20855-signals-deduplication-flink-pipeline-rest",
+          "messages": 36
+        },
+        {
+          "channel": "proj-cdp-cdc-deprecation",
+          "messages": 21
+        },
+        {
+          "channel": "cep-deprecation-task-force",
+          "messages": 14
+        },
+        {
+          "channel": "inc-20226-kafka-regional-eu-offline-partitions",
+          "messages": 13
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 11
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 5
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.71,
+      "count": 13,
+      "top_mentioners": [
+        {
+          "user": "daniel.conlin",
+          "count": 2
+        },
+        {
+          "user": "ash.charles",
+          "count": 2
+        },
+        {
+          "user": "sahba.ezami",
+          "count": 2
+        },
+        {
+          "user": "sarah.pyo",
+          "count": 2
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 1
+        },
+        {
+          "user": "delali.agbenyegah",
+          "count": 1
+        },
+        {
+          "user": "paul.cruse",
+          "count": 1
+        },
+        {
+          "user": "mouhcine.taoufiq",
+          "count": 1
+        },
+        {
+          "user": "chethana.siddappa",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 87,
+      "15": 71,
+      "22": 39,
+      "21": 68,
+      "20": 119,
+      "16": 57,
+      "19": 71,
+      "17": 28,
+      "14": 43,
+      "1": 16,
+      "0": 14,
+      "12": 36,
+      "13": 12,
+      "23": 6,
+      "2": 7
+    },
+    "by_day": {
+      "Wednesday": 214,
+      "Tuesday": 123,
+      "Monday": 186,
+      "Thursday": 83,
+      "Friday": 68
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.74,
+    "dept_average_30d": 5.77,
+    "dept_rank": 436,
+    "dept_size": 885
+  }
+}

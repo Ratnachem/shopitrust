@@ -1,0 +1,281 @@
+{
+  "username": "malcolm.mergulhao",
+  "name": "Malcolm Mergulhao",
+  "generated_at": "2026-04-08T20:22:09.543502",
+  "summary": {
+    "message_count": 278,
+    "channels_active": 18,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 15,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! It still doesn't seem to work in terms of displaying the new button, i'll have to look into that more tomorrow",
+          "channel": "checkout-unification-devs",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02GZKP6GL9> I'm trying to do some manual testing with the standard button rendering experiment but the assignment isn't working on my shop. I",
+          "channel": "checkout-unification-devs",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks, I'm starting the rollout of",
+          "channel": "checkout-unification",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! Sorry, I did see the original thread but thought that maybe you'd have more context on the follow up question above.",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> can you investigate this? Specifically I'm wondering if there were any incidents in that timeframe that could have caused it, since it",
+          "channel": "checkout-wallets-river",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I just requested review on the PR: <https://app.graphite.com/github/pr/shop/world/534349>\nexperiment flag here:",
+          "channel": "checkout-unification-devs",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks, I'm going to roll out a beta flag soon to enable reading the remaining information we got from `shopPayParts`  to `AppContext` . There",
+          "channel": "checkout-unification",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hey! Thanks for following up but we ruled out this project as being related, sorry about that",
+          "channel": "proj-compare-at-pricing-at-checkout",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome, thanks!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Worst case we can enable the flag too, but just trying to make sure that the existing steps still works since this has usually been done by",
+          "channel": "help-checkout-wallets",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I threw claude at this on the side with this thread and the other info I could find as context just to try and make some progress and it pretty much",
+          "channel": "proj-checkout-ssr-bridge",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Did the merchant make any changes to their logo recently? Maybe whatever the updated version is doesn't display well in our checkout. I can reproduce",
+          "channel": "help-checkout",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah that would be helpful too, is it possible to hook into whatever does the issue creation so that it posts to slack too? That would be helpful for",
+          "channel": "help-observability",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "joey.tedeschi",
+          "count": 11
+        },
+        {
+          "user": "kristin.hung",
+          "count": 9
+        },
+        {
+          "user": "jesse.noseworthy",
+          "count": 7
+        },
+        {
+          "user": "leah.liu",
+          "count": 3
+        },
+        {
+          "user": "caroline.song",
+          "count": 2
+        },
+        {
+          "user": "leandro.oriente",
+          "count": 2
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 2
+        },
+        {
+          "user": "andrew.mikaeel",
+          "count": 1
+        },
+        {
+          "user": "alex.salisbury",
+          "count": 1
+        },
+        {
+          "user": "wilson.chiang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.46,
+      "count": 262,
+      "top_channels": [
+        {
+          "channel": "checkout-unification-devs",
+          "messages": 80
+        },
+        {
+          "channel": "help-checkout-wallets",
+          "messages": 54
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 32
+        },
+        {
+          "channel": "checkout-unification",
+          "messages": 30
+        },
+        {
+          "channel": "checkout-wallets-river",
+          "messages": 25
+        },
+        {
+          "channel": "help-observability",
+          "messages": 10
+        },
+        {
+          "channel": "inc-20643-paypal-is-seeing-a-significant-drop-in-vo",
+          "messages": 9
+        },
+        {
+          "channel": "proj-checkout-ssr-bridge",
+          "messages": 8
+        },
+        {
+          "channel": "checkout-wallets-operations",
+          "messages": 6
+        },
+        {
+          "channel": "checkout-web-perf",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.54,
+      "count": 58,
+      "top_mentioners": [
+        {
+          "user": "joey.tedeschi",
+          "count": 7
+        },
+        {
+          "user": "kristin.hung",
+          "count": 6
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 6
+        },
+        {
+          "user": "christian.indra",
+          "count": 4
+        },
+        {
+          "user": "steven.li",
+          "count": 3
+        },
+        {
+          "user": "gabrielle.sinclair",
+          "count": 3
+        },
+        {
+          "user": "jesse.noseworthy",
+          "count": 3
+        },
+        {
+          "user": "caroline.song",
+          "count": 2
+        },
+        {
+          "user": "evan.brodie",
+          "count": 2
+        },
+        {
+          "user": "sal.tamay",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 30,
+      "14": 38,
+      "13": 50,
+      "12": 2,
+      "15": 53,
+      "20": 32,
+      "19": 17,
+      "17": 35,
+      "16": 14,
+      "21": 7
+    },
+    "by_day": {
+      "Wednesday": 55,
+      "Tuesday": 35,
+      "Monday": 48,
+      "Thursday": 95,
+      "Friday": 45
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.01,
+    "dept_average_30d": 5.79,
+    "dept_rank": 423,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "username": "samuel.path",
+  "name": "Samuel Path",
+  "generated_at": "2026-04-08T20:22:10.433797",
+  "summary": {
+    "message_count": 469,
+    "channels_active": 37,
+    "unique_people_mentioned": 56,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 23,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi GCP team, is there any chance Shopify could get early access to",
+          "channel": "help-gcp-ext-dataplatform",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Anthropic team, is there any chance Shopify could get early access to Claude Mythos Preview? We would like to test it with some of our most",
+          "channel": "shared-shopify-anthropic",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U09HM78F7U6> oh right, my bad!",
+          "channel": "river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey the optimization team, looks like we are getting hammered by one of your repos and getting rate limited with 429s by google vertex.\nIt\u2019s a key",
+          "channel": "optimization-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team,\n\nWe need to rotate the Claude Code API key we created in February 2025.\n\nThe only way to generate a new Claude Code key appears to be",
+          "channel": "shared-shopify-anthropic",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team,\nI switched phones, and in my previous phone which I can\u2019t access anymore, I had my Microsoft authenticator app setup to login to my",
+          "channel": "help-it",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team,\n\nWe need to rotate the Claude Code API key we created in February 2025.\n\nThe only way to generate a new Claude Code key appears to be",
+          "channel": "shared-shopify-anthropic",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0204E2VCGM> i need to rotate the claude code API key that you created in Feb 2025 (link to",
+          "channel": "dev-proxy-shopify-ai",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "sorry i pulled you in our team channel, feel free to leave it!",
+          "channel": "dev-proxy-shopify-ai",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W018HTA8S6P> i tried to have our",
+          "channel": "dev-proxy-shopify-ai",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "When trying to run the `dev` command from a claude code environment, we get:\n```dev installation not found, you can run `eval \"$(curl -sS",
+          "channel": "developers-talk",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 60,
+      "top_mentioned": [
+        {
+          "user": "marcantoine.belanger",
+          "count": 24
+        },
+        {
+          "user": "robert.glonek",
+          "count": 16
+        },
+        {
+          "user": "ju.liu",
+          "count": 12
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 12
+        },
+        {
+          "user": "devon.boyer",
+          "count": 9
+        },
+        {
+          "user": "swati.swoboda",
+          "count": 7
+        },
+        {
+          "user": "zac.roberts",
+          "count": 6
+        },
+        {
+          "user": "lynnsey.grahamnovak",
+          "count": 5
+        },
+        {
+          "user": "alan.strahinic",
+          "count": 5
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 483,
+      "top_channels": [
+        {
+          "channel": "dev-proxy-shopify-ai",
+          "messages": 120
+        },
+        {
+          "channel": "help-proxy-shopify-ai",
+          "messages": 56
+        },
+        {
+          "channel": "samuel-river",
+          "messages": 53
+        },
+        {
+          "channel": "proj-data-platform-ai-proxy-fallback",
+          "messages": 47
+        },
+        {
+          "channel": "river",
+          "messages": 38
+        },
+        {
+          "channel": "token-cost-awareness",
+          "messages": 19
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 16
+        },
+        {
+          "channel": "openai-codex",
+          "messages": 16
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 14
+        },
+        {
+          "channel": "dev-ai-proxy-ops-urgent",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.77,
+      "count": 41,
+      "top_mentioners": [
+        {
+          "user": "marcantoine.belanger",
+          "count": 4
+        },
+        {
+          "user": "zac.roberts",
+          "count": 3
+        },
+        {
+          "user": "lynnsey.grahamnovak",
+          "count": 3
+        },
+        {
+          "user": "astorp",
+          "count": 3
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 2
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 2
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 2
+        },
+        {
+          "user": "franck.delache",
+          "count": 2
+        },
+        {
+          "user": "russell.baylis",
+          "count": 1
+        },
+        {
+          "user": "ben.sehl",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 34,
+      "16": 45,
+      "15": 44,
+      "14": 84,
+      "13": 45,
+      "21": 10,
+      "20": 9,
+      "12": 29,
+      "11": 55,
+      "22": 1,
+      "10": 26,
+      "9": 15,
+      "8": 10,
+      "7": 9,
+      "19": 38,
+      "3": 6,
+      "17": 9
+    },
+    "by_day": {
+      "Wednesday": 171,
+      "Tuesday": 123,
+      "Monday": 67,
+      "Friday": 34,
+      "Thursday": 74
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.67,
+    "dept_average_30d": 5.39,
+    "dept_rank": 22,
+    "dept_size": 272
+  }
+}

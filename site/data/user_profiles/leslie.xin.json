@@ -1,0 +1,273 @@
+{
+  "username": "leslie.xin",
+  "name": "Leslie Xin",
+  "generated_at": "2026-04-08T20:22:16.542237",
+  "summary": {
+    "message_count": 326,
+    "channels_active": 25,
+    "unique_people_mentioned": 35,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.7,
+      "pos_count": 17,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: I have the <https://app.graphite.com/github/pr/shop/world/543414|stack of PRs> from Sai's UI refresh ready to review, here is the",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ya let me know if there's any weirdness with the approvals stuff, it's a new paradigm so I want to make sure it's designed in the right way and",
+          "channel": "proj-agent-shared-client",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Keep us in the loop and feel free to send over convo ids, it could be something weird on our side too still",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":fyi: Shipping <https://app.graphite.com/github/pr/Shopify/sidekick-server/13866|this PR> which adds a new page in our sidekick docs for tool",
+          "channel": "tmp-app-tool-approval-ux-sidekick",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you both! ",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, I was able to repro!! The issue is the dev UI overrides are overriding the `memory_off` feature in the `/messages` request",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm hoping we can find alignment on this today. In my opinion, the bulk of the work is on getting our app gen agent to understand and produce code",
+          "channel": "help-admin-extensibility",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Also, would love some help testing this feature before I rollout! You can enable",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02STEXA9AP> The PR for tool approvals to work with the new streaming UI just finished deploying, you should be able to test in prod now, let me",
+          "channel": "proj-sidekick-appgen",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "9:30am-12pm, thank you! ",
+          "channel": "help-safety-security",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't really understand how remote DOM versioning helps with the issue if we're using the admin web hooks under the hood which will always use the",
+          "channel": "help-admin-extensibility",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 37,
+      "top_mentioned": [
+        {
+          "user": "matt.koenig",
+          "count": 8
+        },
+        {
+          "user": "karthigan.uthayan",
+          "count": 6
+        },
+        {
+          "user": "jonathan.berry",
+          "count": 6
+        },
+        {
+          "user": "mckayla.lankau",
+          "count": 3
+        },
+        {
+          "user": "sai.nihas",
+          "count": 3
+        },
+        {
+          "user": "josh.zucker",
+          "count": 2
+        },
+        {
+          "user": "colby.fayock",
+          "count": 2
+        },
+        {
+          "user": "stephan.leroux",
+          "count": 2
+        },
+        {
+          "user": "bene.pierrejean",
+          "count": 2
+        },
+        {
+          "user": "niyati.bhagat",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.9,
+      "count": 338,
+      "top_channels": [
+        {
+          "channel": "proj-sidekick-appgen",
+          "messages": 98
+        },
+        {
+          "channel": "sidekick-input",
+          "messages": 41
+        },
+        {
+          "channel": "sidekick-river",
+          "messages": 36
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 31
+        },
+        {
+          "channel": "help-admin-extensibility",
+          "messages": 20
+        },
+        {
+          "channel": "sidekick-streaming",
+          "messages": 17
+        },
+        {
+          "channel": "proj-apps-in-sk",
+          "messages": 12
+        },
+        {
+          "channel": "sidekick-staging",
+          "messages": 11
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 10
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.58,
+      "count": 68,
+      "top_mentioners": [
+        {
+          "user": "matt.koenig",
+          "count": 14
+        },
+        {
+          "user": "sai.nihas",
+          "count": 7
+        },
+        {
+          "user": "dima.belyaev",
+          "count": 4
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 4
+        },
+        {
+          "user": "chris.maltais",
+          "count": 3
+        },
+        {
+          "user": "alexandre.c",
+          "count": 3
+        },
+        {
+          "user": "stephan.leroux",
+          "count": 3
+        },
+        {
+          "user": "karthigan.uthayan",
+          "count": 3
+        },
+        {
+          "user": "jonathan.berry",
+          "count": 3
+        },
+        {
+          "user": "josh.zucker",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 45,
+      "16": 32,
+      "19": 21,
+      "21": 26,
+      "14": 32,
+      "4": 2,
+      "20": 23,
+      "18": 41,
+      "15": 49,
+      "12": 3,
+      "2": 3,
+      "23": 10,
+      "13": 18,
+      "22": 18,
+      "1": 2,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 96,
+      "Tuesday": 60,
+      "Monday": 52,
+      "Thursday": 82,
+      "Friday": 36
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.68,
+    "dept_average_30d": 5.79,
+    "dept_rank": 126,
+    "dept_size": 1233
+  }
+}

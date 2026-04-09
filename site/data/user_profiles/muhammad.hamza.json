@@ -1,0 +1,114 @@
+{
+  "username": "muhammad.hamza",
+  "name": "Muhammad Hamza",
+  "generated_at": "2026-04-08T20:22:28.427952",
+  "summary": {
+    "message_count": 8,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 6,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U025M98JLJZ> thank you for informing!",
+          "channel": "identity-operations",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "james.go",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.79,
+      "count": 20,
+      "top_channels": [
+        {
+          "channel": "authentication-river",
+          "messages": 5
+        },
+        {
+          "channel": "proj-identity-hardening",
+          "messages": 1
+        },
+        {
+          "channel": "identity-operations",
+          "messages": 1
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.52,
+      "count": 7,
+      "top_mentioners": [
+        {
+          "user": "heather.knowlton",
+          "count": 2
+        },
+        {
+          "user": "james.go",
+          "count": 1
+        },
+        {
+          "user": "derek.yu",
+          "count": 1
+        },
+        {
+          "user": "aman.adhav",
+          "count": 1
+        },
+        {
+          "user": "michael.elfassy",
+          "count": 1
+        },
+        {
+          "user": "michael.hughes",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 1,
+      "19": 1,
+      "17": 1,
+      "16": 2,
+      "18": 2,
+      "20": 1
+    },
+    "by_day": {
+      "Tuesday": 5,
+      "Monday": 1,
+      "Thursday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 4.33,
+    "dept_average_30d": 4.74,
+    "dept_rank": 962,
+    "dept_size": 1663
+  }
+}

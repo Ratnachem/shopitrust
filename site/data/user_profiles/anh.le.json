@@ -1,0 +1,110 @@
+{
+  "username": "anh.le",
+  "name": "Anh Le",
+  "generated_at": "2026-04-08T20:22:29.032352",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 2,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, Merchant requested Balance statements for 2025 &amp; 2026. They have 6 different bank account IDs, and we went through the process outlined",
+          "channel": "help-balance",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, merchant has been waiting for their balance account to be active. It's stuck in",
+          "channel": "help-balance",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team - POS Payments Profit-Share missing for a Partner who submitted a POS lead in October 2025 for a merchant they built and transferred from a",
+          "channel": "help-partner-compensation-issues",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U08PV6RBL0K> :waving-gummy-blob: I'm helping Rory with this ticket while they are out of office. Just checking into to see if there was any",
+          "channel": "help-balance",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "anthony.moffa",
+          "count": 2
+        },
+        {
+          "user": "jordana.fuller",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.67,
+      "count": 44,
+      "top_channels": [
+        {
+          "channel": "help-balance",
+          "messages": 9
+        },
+        {
+          "channel": "help-partner-compensation-issues",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "anthony.moffa",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 3,
+      "19": 4,
+      "1": 2,
+      "17": 1,
+      "18": 1
+    },
+    "by_day": {
+      "Monday": 5,
+      "Thursday": 4,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 3.58,
+    "dept_average_30d": 4.09,
+    "dept_rank": 441,
+    "dept_size": 642
+  }
+}

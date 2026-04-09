@@ -1,0 +1,278 @@
+{
+  "username": "kazuki.higashiguchi",
+  "name": "Kazuki Higashiguchi",
+  "generated_at": "2026-04-08T20:22:25.635506",
+  "summary": {
+    "message_count": 316,
+    "channels_active": 38,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 27,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Because this is my first project outside of IMOC and incident follow-ups (I joined last September), all of your input has been really insightful for",
+          "channel": "siren-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Awesome. I'm on call for IMOC primary/secondary for the next two weeks, so I likely won't have much time to work on Siren in the upcoming",
+          "channel": "siren-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh, I've missed it. Thanks!",
+          "channel": "siren-feedback",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Have a good rest ",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "No problem, this is such a tricky issue for both the merchant and us. Good luck :luck:",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!!",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Approved",
+          "channel": "inv-20949-synthetic-checkout-failure-from-duplicate",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! :bow:Yah, I found this job but I hesitated to hit the run button because I was not sure if it was safe to hit.",
+          "channel": "inv-20949-synthetic-checkout-failure-from-duplicate",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I've read the thread and understand the situation (pls let me know if it's not accurate). One key unresolved question is whether a CF Worker is still",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Thanks so much for checking it! I could not find this option without your helps. Really appreciate it :thank:",
+          "channel": "proj-create-shop-accounts-for-all-pay-checkouts",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "*Symptom:*\nThe Playwright script failed with a strict mode violation when getByPlaceholder(/^First name/) resolves to two elements: one from the",
+          "channel": "inv-20949-synthetic-checkout-failure-from-duplicate",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 33,
+      "top_mentioned": [
+        {
+          "user": "annie.caron",
+          "count": 4
+        },
+        {
+          "user": "jie.sun",
+          "count": 3
+        },
+        {
+          "user": "tomasz.dubiel",
+          "count": 2
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 2
+        },
+        {
+          "user": "aparna.subramanian",
+          "count": 2
+        },
+        {
+          "user": "nathan.anisi",
+          "count": 1
+        },
+        {
+          "user": "peter.vandolen",
+          "count": 1
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 1
+        },
+        {
+          "user": "kaela.cardillo",
+          "count": 1
+        },
+        {
+          "user": "carlos.corvaia",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.36,
+      "count": 362,
+      "top_channels": [
+        {
+          "channel": "inv-20742-practice-google-edge-traffic-shift-pos",
+          "messages": 55
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 39
+        },
+        {
+          "channel": "inv-20949-synthetic-checkout-failure-from-duplicate",
+          "messages": 33
+        },
+        {
+          "channel": "inv-20813-low-prio-sfr-sustained-bot-pressure",
+          "messages": 24
+        },
+        {
+          "channel": "inv-21156-no-checkouts-alert-on-pod-202",
+          "messages": 19
+        },
+        {
+          "channel": "resiliency-alerts",
+          "messages": 15
+        },
+        {
+          "channel": "inv-19722-core-elevated-error-rate-in-252",
+          "messages": 14
+        },
+        {
+          "channel": "siren-dev",
+          "messages": 11
+        },
+        {
+          "channel": "inv-21020-high-and-sustained-core-p95-response-time",
+          "messages": 8
+        },
+        {
+          "channel": "help-customers",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.1,
+      "count": 25,
+      "top_mentioners": [
+        {
+          "user": "celso.marciano",
+          "count": 3
+        },
+        {
+          "user": "annie.caron",
+          "count": 3
+        },
+        {
+          "user": "nathan.anisi",
+          "count": 2
+        },
+        {
+          "user": "brendan.abbott",
+          "count": 2
+        },
+        {
+          "user": "ghulam.lashari",
+          "count": 2
+        },
+        {
+          "user": "keisuke.umegaki",
+          "count": 2
+        },
+        {
+          "user": "taylor.mitchell",
+          "count": 2
+        },
+        {
+          "user": "margaret.kazmierczak",
+          "count": 1
+        },
+        {
+          "user": "peter.vandolen",
+          "count": 1
+        },
+        {
+          "user": "jp.rosevear",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "7": 28,
+      "4": 56,
+      "3": 37,
+      "11": 1,
+      "2": 38,
+      "6": 15,
+      "5": 32,
+      "1": 24,
+      "13": 18,
+      "12": 11,
+      "9": 3,
+      "22": 1,
+      "19": 1,
+      "8": 10,
+      "0": 14,
+      "21": 4,
+      "14": 9,
+      "10": 2,
+      "23": 6,
+      "17": 1,
+      "16": 5
+    },
+    "by_day": {
+      "Wednesday": 69,
+      "Tuesday": 70,
+      "Monday": 62,
+      "Friday": 60,
+      "Thursday": 55
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 8.97,
+    "dept_average_30d": 5.75,
+    "dept_rank": 12,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "username": "tessa.bott",
+  "name": "Tessa Bott",
+  "generated_at": "2026-04-08T20:22:16.362622",
+  "summary": {
+    "message_count": 188,
+    "channels_active": 22,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "This is the PR stack I mentioned in standup for PPBA: <https://app.graphite.com/github/pr/shop/world/572757>\n\nThe first PR was the problematic one in",
+          "channel": "mm-money-foundation",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thank you so much, added the override! Let me know if you need a swap in the future, I owe you one :blobheart:",
+          "channel": "mm-money-foundation",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much, added the override! Let me know if you need a swap in the future, I owe you one :blobheart:",
+          "channel": "mm-money-foundation",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Sebastian! Let us know if we can help out in any way",
+          "channel": "proj-shop-campaigns-ledger-gem",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yeah, the Payments folks working on Global Vault brought Magellan into shop-server to do regional failover handling for the non-podded database so at",
+          "channel": "magellan-zookeeper",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U099DF2SXU4> I see your name associated with the flag and a lot of the code. Would you have any thoughts on this?\n\nTL;DR of the thread, this order",
+          "channel": "help-shop-campaigns",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The `paypal_payments_app_api_client_id` referenced is completely dead as of Feb 21 and unused. I'd be fine either way if we need to revert the PR and",
+          "channel": "inv-20967-preinstall-paypal-constant-does-not-exist",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah I sure have :confused: I had pi investigate locally the other day and it's findings are that the default subagent is waiting on the child `pi",
+          "channel": "pi",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Hey River team :waveboi: I'm popping in after the Live just now relating to <https://shopify.slack.com/archives/C08A64AH649/p1773417391524379|this",
+          "channel": "river",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "joe.bartell",
+          "count": 6
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 4
+        },
+        {
+          "user": "brendan.soffientini",
+          "count": 3
+        },
+        {
+          "user": "shaveer.bajpeyi",
+          "count": 2
+        },
+        {
+          "user": "david.park",
+          "count": 2
+        },
+        {
+          "user": "tyler.xing",
+          "count": 2
+        },
+        {
+          "user": "frederic.mheir",
+          "count": 2
+        },
+        {
+          "user": "justin.reid",
+          "count": 2
+        },
+        {
+          "user": "brice.argenson",
+          "count": 1
+        },
+        {
+          "user": "chris.wang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.29,
+      "count": 253,
+      "top_channels": [
+        {
+          "channel": "mm-money-foundation",
+          "messages": 39
+        },
+        {
+          "channel": "proj-shop-campaigns-ledger-gem",
+          "messages": 29
+        },
+        {
+          "channel": "mm-money-foundation-ops",
+          "messages": 19
+        },
+        {
+          "channel": "help-shop-campaigns",
+          "messages": 18
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 15
+        },
+        {
+          "channel": "growth-activation",
+          "messages": 13
+        },
+        {
+          "channel": "marketplaces-money-movement-monitoring",
+          "messages": 9
+        },
+        {
+          "channel": "proj-ledger",
+          "messages": 9
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 5
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "sebastian.alvarado",
+          "count": 9
+        },
+        {
+          "user": "tyler.xing",
+          "count": 5
+        },
+        {
+          "user": "chris.wang",
+          "count": 3
+        },
+        {
+          "user": "annie.caron",
+          "count": 2
+        },
+        {
+          "user": "frederic.mheir",
+          "count": 2
+        },
+        {
+          "user": "charles.ouimet",
+          "count": 1
+        },
+        {
+          "user": "will.dalton",
+          "count": 1
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 1
+        },
+        {
+          "user": "joe.bartell",
+          "count": 1
+        },
+        {
+          "user": "david.park",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 12,
+      "16": 28,
+      "12": 6,
+      "19": 13,
+      "18": 17,
+      "14": 28,
+      "13": 23,
+      "20": 25,
+      "21": 10,
+      "15": 26
+    },
+    "by_day": {
+      "Wednesday": 44,
+      "Tuesday": 15,
+      "Monday": 24,
+      "Friday": 54,
+      "Thursday": 51
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 5.77,
+    "dept_rank": 591,
+    "dept_size": 885
+  }
+}

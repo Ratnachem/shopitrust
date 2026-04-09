@@ -1,0 +1,243 @@
+{
+  "username": "jonathan.lalande",
+  "name": "Jonathan Lalande",
+  "generated_at": "2026-04-08T20:22:29.066784",
+  "summary": {
+    "message_count": 124,
+    "channels_active": 7,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I left this message last thursday right before the holidays, so it's possible no one saw it. Could I get a review on this stack? CC <@W018WAX9WEM>",
+          "channel": "proj-product-loader",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi :wave: Just catching up on the thread! Let me know if I can help!",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hi :wave: Just catching up on the thread! Let me know if I can help!",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome, thank you :bow:",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Gotcha so it will be replicated to the different nodes :+1: Awesome, thank you very much! :smile:",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ohhh awesome news! Quick question for my curiosity:\nThe current sqlfuncs we use are for yml/json extractions. On mode 2 views, do we evaluate these",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Gotcha, thank you for the context :thanks-2:",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@W0182UVBTLP> and I spent a bit of time analyzing the content of `product_publications` in bigquery. We took some samples over the year 2025, and",
+          "channel": "proj-merch-contextual-product-library",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "vera.olsson",
+          "count": 6
+        },
+        {
+          "user": "chris.pak",
+          "count": 5
+        },
+        {
+          "user": "kevin.lam",
+          "count": 5
+        },
+        {
+          "user": "vivek.wassan",
+          "count": 5
+        },
+        {
+          "user": "chris.sloop",
+          "count": 3
+        },
+        {
+          "user": "eric.walker",
+          "count": 2
+        },
+        {
+          "user": "prabhjot.bharaj",
+          "count": 2
+        },
+        {
+          "user": "hadi.jafar",
+          "count": 1
+        },
+        {
+          "user": "ryan.crumley",
+          "count": 1
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.0,
+      "count": 132,
+      "top_channels": [
+        {
+          "channel": "proj-merch-contextual-product-library",
+          "messages": 42
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 31
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 26
+        },
+        {
+          "channel": "proj-product-loader",
+          "messages": 16
+        },
+        {
+          "channel": "merch-x-catalog",
+          "messages": 4
+        },
+        {
+          "channel": "proj-improve-taxonomy-pipeline",
+          "messages": 3
+        },
+        {
+          "channel": "proj-merch-contextual-product-library-alerts",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.73,
+      "count": 31,
+      "top_mentioners": [
+        {
+          "user": "chris.pak",
+          "count": 7
+        },
+        {
+          "user": "prabhjot.bharaj",
+          "count": 4
+        },
+        {
+          "user": "eric.walker",
+          "count": 3
+        },
+        {
+          "user": "kenny.law",
+          "count": 3
+        },
+        {
+          "user": "chris.sloop",
+          "count": 3
+        },
+        {
+          "user": "kevin.lam",
+          "count": 2
+        },
+        {
+          "user": "vivek.wassan",
+          "count": 2
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 1
+        },
+        {
+          "user": "vera.olsson",
+          "count": 1
+        },
+        {
+          "user": "alex.watt",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 20,
+      "19": 14,
+      "22": 4,
+      "17": 11,
+      "13": 7,
+      "16": 15,
+      "1": 1,
+      "18": 13,
+      "15": 13,
+      "21": 12,
+      "14": 13,
+      "23": 1
+    },
+    "by_day": {
+      "Monday": 29,
+      "Thursday": 16,
+      "Tuesday": 41,
+      "Friday": 8,
+      "Wednesday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.29,
+    "dept_average_30d": 5.79,
+    "dept_rank": 870,
+    "dept_size": 1233
+  }
+}

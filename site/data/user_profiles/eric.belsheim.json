@@ -1,0 +1,209 @@
+{
+  "username": "eric.belsheim",
+  "name": "Eric Belsheim",
+  "generated_at": "2026-04-08T20:22:23.346906",
+  "summary": {
+    "message_count": 69,
+    "channels_active": 14,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U07LR9FL95X> I dug into the cancellations here, let me know if this makes sense to you:\n\nLooking at the first screenshot we see that",
+          "channel": "proj-recipient-management",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "simplified - let me know if we want to tweak assumptions:\n\n```WITH trust_battery_score AS (\n    SELECT\n      CAST(entity_id AS INT64) AS shop_id,\n   ",
+          "channel": "proj-balance-cash-deposits",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "No problem, let me know if you need me to come up with a new query that more directly flags the fields you want to focus on - I'm sure there's some",
+          "channel": "banking-security",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "elton.chan",
+          "count": 5
+        },
+        {
+          "user": "sandeep.koduvanda",
+          "count": 5
+        },
+        {
+          "user": "ipsita.basu",
+          "count": 2
+        },
+        {
+          "user": "chand.bud",
+          "count": 1
+        },
+        {
+          "user": "anirudh.mahesh",
+          "count": 1
+        },
+        {
+          "user": "devansh.malik",
+          "count": 1
+        },
+        {
+          "user": "tal.ackerman",
+          "count": 1
+        },
+        {
+          "user": "stewart.rand",
+          "count": 1
+        },
+        {
+          "user": "evan.eklund",
+          "count": 1
+        },
+        {
+          "user": "vivianne.tu",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.63,
+      "count": 218,
+      "top_channels": [
+        {
+          "channel": "proj-recipient-management",
+          "messages": 17
+        },
+        {
+          "channel": "proj-balance-cash-deposits",
+          "messages": 9
+        },
+        {
+          "channel": "proj-balance-domestic-wire-transfers",
+          "messages": 8
+        },
+        {
+          "channel": "proj-balance-credit-ad-rewards",
+          "messages": 7
+        },
+        {
+          "channel": "bna-ds-exceptions",
+          "messages": 6
+        },
+        {
+          "channel": "help-melody",
+          "messages": 5
+        },
+        {
+          "channel": "proj-balance-international-payments",
+          "messages": 4
+        },
+        {
+          "channel": "banking-mbr",
+          "messages": 3
+        },
+        {
+          "channel": "banking-security",
+          "messages": 3
+        },
+        {
+          "channel": "help-banking-data-science",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.5,
+      "count": 48,
+      "top_mentioners": [
+        {
+          "user": "sandeep.koduvanda",
+          "count": 17
+        },
+        {
+          "user": "elton.chan",
+          "count": 5
+        },
+        {
+          "user": "ipsita.basu",
+          "count": 4
+        },
+        {
+          "user": "tal.ackerman",
+          "count": 4
+        },
+        {
+          "user": "evan.eklund",
+          "count": 4
+        },
+        {
+          "user": "devansh.malik",
+          "count": 3
+        },
+        {
+          "user": "nathan.santora",
+          "count": 2
+        },
+        {
+          "user": "stephen.dong",
+          "count": 2
+        },
+        {
+          "user": "kevin.ardian",
+          "count": 2
+        },
+        {
+          "user": "mujtaba.zaidi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 6,
+      "18": 7,
+      "16": 8,
+      "15": 7,
+      "17": 8,
+      "13": 7,
+      "21": 5,
+      "20": 8,
+      "19": 13
+    },
+    "by_day": {
+      "Wednesday": 21,
+      "Tuesday": 14,
+      "Monday": 12,
+      "Thursday": 10,
+      "Friday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.43,
+    "dept_average_30d": 5.77,
+    "dept_rank": 566,
+    "dept_size": 885
+  }
+}

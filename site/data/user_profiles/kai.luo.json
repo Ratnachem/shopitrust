@@ -1,0 +1,162 @@
+{
+  "username": "kai.luo",
+  "name": "Kai Luo",
+  "generated_at": "2026-04-08T20:22:31.148491",
+  "summary": {
+    "message_count": 32,
+    "channels_active": 5,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Danica. Let me try to count `sessions with 1+ [event]`",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi <@W0197H0RR4Y>. Thank you so much for the explanation. This explains the data statistics.",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi Team. Can someone clarify why *Shop Pay* `PRODUCT_ADDED_TO_CART` volume is so low relative to checkout?\nIn the *13\u2011month window (2024-10-15 \u2192",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! I am from the foundation model team and our data pipelines use `sdp-prd-shop-ml.base.base__shopify__product_taxonomy_nodes`, which is now",
+          "channel": "proj-improve-taxonomy-pipeline",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> Are you thinking to do what you are originally thinking? I.e., evaluate on the intersection?\n> I think this one is interesting. But thinking more,",
+          "channel": "recommendations-generative-recs",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "ali.khanafer",
+          "count": 4
+        },
+        {
+          "user": "diego.ardila",
+          "count": 1
+        },
+        {
+          "user": "omer.barsade",
+          "count": 1
+        },
+        {
+          "user": "andrew.droll",
+          "count": 1
+        },
+        {
+          "user": "akshay.soni",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.86,
+      "count": 49,
+      "top_channels": [
+        {
+          "channel": "recommendations-generative-recs",
+          "messages": 12
+        },
+        {
+          "channel": "merchant-events-foundational-model-alerts",
+          "messages": 8
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 7
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "proj-improve-taxonomy-pipeline",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "ali.khanafer",
+          "count": 2
+        },
+        {
+          "user": "diego.ardila",
+          "count": 1
+        },
+        {
+          "user": "guy.cole",
+          "count": 1
+        },
+        {
+          "user": "andrew.droll",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 3,
+      "19": 7,
+      "0": 1,
+      "22": 1,
+      "18": 3,
+      "16": 7,
+      "21": 2,
+      "17": 1,
+      "15": 5,
+      "13": 1,
+      "20": 1
+    },
+    "by_day": {
+      "Wednesday": 10,
+      "Tuesday": 3,
+      "Monday": 3,
+      "Friday": 9,
+      "Thursday": 7
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 4.04,
+    "dept_average_30d": 5.58,
+    "dept_rank": 378,
+    "dept_size": 398
+  }
+}

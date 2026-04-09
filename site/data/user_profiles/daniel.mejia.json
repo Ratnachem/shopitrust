@@ -1,0 +1,220 @@
+{
+  "username": "daniel.mejia",
+  "name": "Daniel Mejia",
+  "generated_at": "2026-04-08T20:22:24.311209",
+  "summary": {
+    "message_count": 296,
+    "channels_active": 17,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02H88ZQ7UY> Let me know if you start another one. Would be good if we can blacklist the problematic jobs causing write spikes",
+          "channel": "inv-20950-db-writer-cpu-saturation--95-for-25-min",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats John! :party-bufo:",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you for your service, now we know",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Yes I can do that. As a side note fyi, current",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "anshul.goyal",
+          "count": 5
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 3
+        },
+        {
+          "user": "mauricio.castaneda",
+          "count": 3
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 3
+        },
+        {
+          "user": "balint.bene",
+          "count": 3
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 1
+        },
+        {
+          "user": "darren.li",
+          "count": 1
+        },
+        {
+          "user": "gurpreet.gill",
+          "count": 1
+        },
+        {
+          "user": "michael.terranova",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.45,
+      "count": 156,
+      "top_channels": [
+        {
+          "channel": "streaming-services-team",
+          "messages": 97
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 77
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 43
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 19
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 13
+        },
+        {
+          "channel": "inv-20965-prod-notifications-pipeline-unable-to-dep",
+          "messages": 13
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20954-cdc-connector-256-experiencing-high-lag",
+          "messages": 6
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 5
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "balint.bene",
+          "count": 7
+        },
+        {
+          "user": "john.tanza",
+          "count": 5
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 5
+        },
+        {
+          "user": "yifan.ye",
+          "count": 5
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 4
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 3
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 3
+        },
+        {
+          "user": "darren.li",
+          "count": 3
+        },
+        {
+          "user": "noel.padavan",
+          "count": 3
+        },
+        {
+          "user": "dimitri.yacoub",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 28,
+      "22": 6,
+      "21": 18,
+      "20": 43,
+      "16": 35,
+      "15": 30,
+      "14": 38,
+      "18": 31,
+      "19": 37,
+      "17": 20,
+      "5": 7,
+      "4": 2,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 96,
+      "Tuesday": 72,
+      "Monday": 49,
+      "Thursday": 50,
+      "Friday": 29
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.46,
+    "dept_average_30d": 5.75,
+    "dept_rank": 213,
+    "dept_size": 357
+  }
+}

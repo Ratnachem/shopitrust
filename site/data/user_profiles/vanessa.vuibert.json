@@ -1,0 +1,261 @@
+{
+  "username": "vanessa.vuibert",
+  "name": "Vanessa Vuibert",
+  "generated_at": "2026-04-08T20:22:15.193857",
+  "summary": {
+    "message_count": 354,
+    "channels_active": 12,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.1,
+      "pos_count": 31,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "FYI infra is changing upstreaming of the QE connector today or tomorrow. No impact is expected but feel free to raise if you notice anything on your",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey Kelvin, sorry it's been busy and haven't had a chance to take a look. Could you click on the restack button in the graphite link? Also could you",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! could you also check at what time the US pipeline suspension took effect? trying to check if the drop in errors was due to the suspension or",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Joey, I need to go pick up my daughter but feel free to page me if you see impact from reportify.\nTheir pipeline is still not paused, but the",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U085B9KNJ9L> could you take a look at the issue above and let me know if this path looks good to you as a client?",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "got claude to create an issue to track your suggestion: <https://github.com/shop/issues-materialization-platform/issues/732>\nLet me know if it got it",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks! that is good to know, could you share a link to the graph above as well :slightly_smiling_face:",
+          "channel": "proj-reportify-on-flink-foundations",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "V2 PRs on flight:\n\u2022 delete PK validation <https://github.com/Shopify/flink-lib/pull/554>\n\u2022 Backfill edge cases",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "happy to help",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I approved the PRs. I'm OOO tomorrow but feel free to update the thread as needed",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "aaron.zhang",
+          "count": 7
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 5
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 3
+        },
+        {
+          "user": "michael.terranova",
+          "count": 3
+        },
+        {
+          "user": "yifan.ye",
+          "count": 3
+        },
+        {
+          "user": "balint.bene",
+          "count": 2
+        },
+        {
+          "user": "joshua.kim",
+          "count": 2
+        },
+        {
+          "user": "jesse.tao",
+          "count": 1
+        },
+        {
+          "user": "trideep.roy",
+          "count": 1
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.14,
+      "count": 245,
+      "top_channels": [
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 189
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 60
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 36
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 28
+        },
+        {
+          "channel": "proj-semantic-query-engine-ops",
+          "messages": 20
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 5
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 5
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 4
+        },
+        {
+          "channel": "streaming-services-team",
+          "messages": 3
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.38,
+      "count": 66,
+      "top_mentioners": [
+        {
+          "user": "trideep.roy",
+          "count": 11
+        },
+        {
+          "user": "yifan.ye",
+          "count": 7
+        },
+        {
+          "user": "andrew.droll",
+          "count": 7
+        },
+        {
+          "user": "jason.h.zheng",
+          "count": 5
+        },
+        {
+          "user": "phillipe.casorla",
+          "count": 5
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 5
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 4
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 3
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 3
+        },
+        {
+          "user": "michael.terranova",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 35,
+      "17": 35,
+      "16": 27,
+      "14": 31,
+      "13": 44,
+      "22": 2,
+      "21": 16,
+      "20": 55,
+      "19": 81,
+      "12": 6,
+      "23": 2,
+      "15": 20
+    },
+    "by_day": {
+      "Wednesday": 61,
+      "Tuesday": 64,
+      "Monday": 68,
+      "Friday": 49,
+      "Thursday": 112
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.45,
+    "dept_average_30d": 5.75,
+    "dept_rank": 69,
+    "dept_size": 357
+  }
+}

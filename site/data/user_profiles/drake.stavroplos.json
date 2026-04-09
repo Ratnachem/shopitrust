@@ -1,0 +1,94 @@
+{
+  "username": "drake.stavroplos",
+  "name": "Drake Stavroplos",
+  "generated_at": "2026-04-08T20:22:31.257344",
+  "summary": {
+    "message_count": 5,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you so much <@U02625XC5T3>",
+          "channel": "mpa-approval-weekends-and-pst-hours",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "kevin.marmer",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.25,
+      "count": 33,
+      "top_channels": [
+        {
+          "channel": "mpa-approval-weekends-and-pst-hours",
+          "messages": 3
+        },
+        {
+          "channel": "retail-smb-americas-announcer",
+          "messages": 1
+        },
+        {
+          "channel": "marchmadnesscrew",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "pallavi.naveen",
+          "count": 1
+        },
+        {
+          "user": "adam.hausen",
+          "count": 1
+        },
+        {
+          "user": "mia.thomas",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 4,
+      "22": 1
+    },
+    "by_day": {
+      "Wednesday": 1,
+      "Thursday": 3,
+      "Monday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.17,
+    "dept_average_30d": 4.32,
+    "dept_rank": 825,
+    "dept_size": 848
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "username": "glory.moor",
+  "name": "Glory Moor",
+  "generated_at": "2026-04-08T20:22:09.626834",
+  "summary": {
+    "message_count": 365,
+    "channels_active": 13,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 32,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 15,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Likelihood to succeed with merchants - not with Shopify App Review team. Feel free to try it out but I don't know why we're overcomplicating this.",
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "<@U02T6C727CH> I'm leaning to going fully deterministic on App Types BTW - I also think that we should be looking at \"Approvals\" because \"Rejections\"",
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi <@U02C9CCFZD3> I just had claude make an edit can you refresh and retry the export and let me know if the issue is gone?",
+          "channel": "help-dev-platform-data",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing Jen! I'm so thrilled to see this optimization. Defs having 1 less tab reduces cognitive complexity and with so many surfaces reviewers click",
+          "channel": "proj-app-review-scale",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Oh! Yeah I did that by mistake let me know if we want to revive that",
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Oh awesome! Great work <@U02UBCPGJGN> I love seeing this. Best bet would actually be <#C05FN47DZGX> `@dw-risk`  is who you will want to ping for a",
+          "channel": "help-dev-platform-data",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing - I'd be down to collab some time on what I find important for specific DE purposes - ie I have strong opinions on data products that don't",
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help with CI stuff and rebase the branch if you want",
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "That's perfect - I'll just exclude privacy compliance webhooks and follow up on this next week since I can update the mapping easy after this change.",
+          "channel": "proj-app-review-scale",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Left notes on SQL ref <@U037Q70GS4B> let me know if you want me to resolve any conflicts for you and I'll hop on your branch to pass CI",
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U08PUV0KNNN> I think you should have a data consultation session for audit triggers as we have a long list of potentially strong ones",
+          "channel": "proj-app-review-scale",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I can look into if we can update it myself i'm not totally sure but i'm sure i can figure it out maybe? are you blocked for now or are you able to",
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "also the CI failure is something risk domain specific - it's not caused by your change so you might just need to rebase after they fix whatever the",
+          "channel": "help-dev-platform-data",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "antone.evans",
+          "count": 28
+        },
+        {
+          "user": "daniel.mcconologue",
+          "count": 24
+        },
+        {
+          "user": "elvin.ouyang",
+          "count": 24
+        },
+        {
+          "user": "nisansala.kodikara",
+          "count": 16
+        },
+        {
+          "user": "mark.j.tan",
+          "count": 12
+        },
+        {
+          "user": "james.varga",
+          "count": 10
+        },
+        {
+          "user": "ryan.corkum",
+          "count": 10
+        },
+        {
+          "user": "mike.brannan",
+          "count": 5
+        },
+        {
+          "user": "said.montufarmaldonado",
+          "count": 5
+        },
+        {
+          "user": "khoi.hoang",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.6,
+      "count": 95,
+      "top_channels": [
+        {
+          "channel": "tmp-app-submission-complexity-propensity-risk",
+          "messages": 172
+        },
+        {
+          "channel": "proj-app-review-scale",
+          "messages": 120
+        },
+        {
+          "channel": "bfs_gsd",
+          "messages": 17
+        },
+        {
+          "channel": "help-dev-platform-data",
+          "messages": 13
+        },
+        {
+          "channel": "dev-platform-data-goalie",
+          "messages": 12
+        },
+        {
+          "channel": "dev-platform-data-river",
+          "messages": 10
+        },
+        {
+          "channel": "help-commerce-trust-integrity",
+          "messages": 9
+        },
+        {
+          "channel": "dw-apps-and-developers-monitoring",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20906-dbt-models-failling-from-permissions-issu",
+          "messages": 2
+        },
+        {
+          "channel": "tmp-web_pixels_manager_subscriber_event_emit-retention",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 123,
+      "top_mentioners": [
+        {
+          "user": "antone.evans",
+          "count": 27
+        },
+        {
+          "user": "daniel.mcconologue",
+          "count": 22
+        },
+        {
+          "user": "elvin.ouyang",
+          "count": 9
+        },
+        {
+          "user": "hollie.duffy",
+          "count": 8
+        },
+        {
+          "user": "joel.gerber",
+          "count": 7
+        },
+        {
+          "user": "said.montufarmal-4454",
+          "count": 5
+        },
+        {
+          "user": "ian.robertson",
+          "count": 4
+        },
+        {
+          "user": "mark.j.tan",
+          "count": 4
+        },
+        {
+          "user": "kia.dalili",
+          "count": 3
+        },
+        {
+          "user": "jennifer.miller",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 57,
+      "17": 23,
+      "16": 42,
+      "22": 33,
+      "19": 19,
+      "15": 48,
+      "23": 18,
+      "21": 37,
+      "20": 40,
+      "2": 12,
+      "0": 10,
+      "4": 1,
+      "3": 7,
+      "1": 11,
+      "13": 1,
+      "5": 3,
+      "9": 1,
+      "8": 2
+    },
+    "by_day": {
+      "Wednesday": 107,
+      "Tuesday": 62,
+      "Monday": 63,
+      "Thursday": 66,
+      "Friday": 67
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.85,
+    "dept_average_30d": 5.79,
+    "dept_rank": 551,
+    "dept_size": 1233
+  }
+}

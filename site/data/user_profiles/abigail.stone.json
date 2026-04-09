@@ -1,0 +1,270 @@
+{
+  "username": "abigail.stone",
+  "name": "Abigail Stone",
+  "generated_at": "2026-04-08T20:22:20.576575",
+  "summary": {
+    "message_count": 381,
+    "channels_active": 51,
+    "unique_people_mentioned": 68,
+    "unique_mentioners": 60,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 8.5,
+      "pos_count": 33,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Do you mind if we book a little time with you in the next couple of days to pick your brain?",
+          "channel": "proj-shopify-catalog-mapping",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That should be everything we need from you, <@U02V2PKCKJL>. Thank you <@U02UT7B54RJ> for making the change",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U09CHKYGW79>, I confirmed a small change with my team. There's about $1.4k we missed that will move from `sdp-prd-ml-taxonomy` and",
+          "channel": "gcp-forecast-update-finance",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "D'oh, and I'm even the one who rolled it out :facepalm: . Sorry about that. We debated between keeping it behind the flag vs security through",
+          "channel": "proj-catalogs-agentic-dev-dash",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Late to the party but just wanted to say thank you <@U07M9RSRL1J>!! This is awesome progress. cc <@U07GF1CPVS4>",
+          "channel": "merch-x-catalog",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Please and thank you all! That would be ideal",
+          "channel": "agent-x-search-working-group",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "All of this sounds great! I'll get something scheduled for us for the second half of next week, so it takes place after the model release is",
+          "channel": "taxonomy-related-projects",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "This is a huge improvement! This alone gets us almost halfway to our latency goal of 50ms :raised_hands: . Amazing work!!",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "+1, thank you <@U096FV5G7NZ> and <@U09J28YCRFB>! A lot of good learnings for our first release in almost a year",
+          "channel": "taxonomy-related-projects",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Yes, there's two dependencies Catalog API team is working with for this, one for price and one for time, but we'd like that team boundary to be",
+          "channel": "proj-precomputed-delivery-predictions",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Awesome doc, <@W018WBSGSPK>! +1 on the difficulty matrix being especially awesome. A few miscellaneous notes:\n\n\u2022 We got the guidance from Mikhail",
+          "channel": "proj-universal-products",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 73,
+      "top_mentioned": [
+        {
+          "user": "koen.bouwmans",
+          "count": 21
+        },
+        {
+          "user": "samantha.john",
+          "count": 15
+        },
+        {
+          "user": "rani.qumsiyeh",
+          "count": 14
+        },
+        {
+          "user": "ying.zhou",
+          "count": 14
+        },
+        {
+          "user": "katherine.bailey",
+          "count": 9
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 8
+        },
+        {
+          "user": "saravana.nukala",
+          "count": 7
+        },
+        {
+          "user": "joe.navetta",
+          "count": 6
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 5
+        },
+        {
+          "user": "alex.watt",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 459,
+      "top_channels": [
+        {
+          "channel": "catalog-api-team",
+          "messages": 76
+        },
+        {
+          "channel": "catalog-platform-team-prs",
+          "messages": 28
+        },
+        {
+          "channel": "search-catalog-capacity-planning",
+          "messages": 22
+        },
+        {
+          "channel": "proj-universal-products",
+          "messages": 13
+        },
+        {
+          "channel": "the-shopify-catalog",
+          "messages": 13
+        },
+        {
+          "channel": "tmp-catalog-api-similar-products",
+          "messages": 13
+        },
+        {
+          "channel": "help-shopify-catalog",
+          "messages": 12
+        },
+        {
+          "channel": "agent-x-search-working-group",
+          "messages": 12
+        },
+        {
+          "channel": "proj-catalogue-catalog-foundry",
+          "messages": 12
+        },
+        {
+          "channel": "inv-19926-catalog-api-search-latency-spiking-due-to",
+          "messages": 12
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 164,
+      "top_mentioners": [
+        {
+          "user": "saravana.nukala",
+          "count": 12
+        },
+        {
+          "user": "alex.watt",
+          "count": 11
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 9
+        },
+        {
+          "user": "amit.dandekar",
+          "count": 7
+        },
+        {
+          "user": "ying.zhou",
+          "count": 7
+        },
+        {
+          "user": "eliseu.daroit",
+          "count": 6
+        },
+        {
+          "user": "kate.ragotte",
+          "count": 4
+        },
+        {
+          "user": "chris.pak",
+          "count": 4
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 4
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 43,
+      "15": 33,
+      "13": 42,
+      "21": 66,
+      "14": 50,
+      "2": 3,
+      "20": 46,
+      "18": 26,
+      "19": 25,
+      "17": 30,
+      "23": 3,
+      "22": 8,
+      "12": 6
+    },
+    "by_day": {
+      "Wednesday": 81,
+      "Tuesday": 74,
+      "Monday": 60,
+      "Friday": 105,
+      "Thursday": 61
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.99,
+    "dept_average_30d": 5.79,
+    "dept_rank": 435,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "username": "erik.wright",
+  "name": "Erik Wright",
+  "generated_at": "2026-04-08T20:22:16.965356",
+  "summary": {
+    "message_count": 58,
+    "channels_active": 12,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "kudos",
+          "text": "Huge accomplishment, and the seed of a new approach to storage based on sustainability and ownership. Kudos to everyone involved.",
+          "channel": "data-infrastructure",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I'll roll with this. Thanks!",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "FYI <@U08DAGARL2Z> <@W018PSLEVRA> \u2014 I've updated `data-acq` for Q2F. The IP forecast had Yugabyte duplication ramping it to $405K/mo, but since the",
+          "channel": "gcp-forecast-update-finance",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W01AP117FAT> <@U08DAGARL2Z> \u2014 I'm assuming you two already covered `sdp-prd-plat-enrichment-proc` (Event Refinery prod) when you huddled on Friday.",
+          "channel": "gcp-forecast-update-finance",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "patrick.lazarus",
+          "count": 5
+        },
+        {
+          "user": "daniel.cole",
+          "count": 4
+        },
+        {
+          "user": "karl.taylor",
+          "count": 4
+        },
+        {
+          "user": "frank.jania",
+          "count": 3
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 2
+        },
+        {
+          "user": "javier.moreno",
+          "count": 1
+        },
+        {
+          "user": "vinay.shah",
+          "count": 1
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 1
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 1
+        },
+        {
+          "user": "filipe.deo",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.13,
+      "count": 139,
+      "top_channels": [
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 16
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 10
+        },
+        {
+          "channel": "flink-iceberg-connector-spike",
+          "messages": 7
+        },
+        {
+          "channel": "gsd-48923-flink-bq-connector",
+          "messages": 6
+        },
+        {
+          "channel": "dataset-optimization",
+          "messages": 4
+        },
+        {
+          "channel": "river",
+          "messages": 3
+        },
+        {
+          "channel": "data-infrastructure",
+          "messages": 3
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 2
+        },
+        {
+          "channel": "proj-data-platform-gmfd-access",
+          "messages": 2
+        },
+        {
+          "channel": "factoids-cdc-sunset",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "andrew.droll",
+          "count": 5
+        },
+        {
+          "user": "ivan.zimin",
+          "count": 5
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 4
+        },
+        {
+          "user": "daniel.cole",
+          "count": 3
+        },
+        {
+          "user": "kristie.ching",
+          "count": 3
+        },
+        {
+          "user": "nick.wareing",
+          "count": 3
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 2
+        },
+        {
+          "user": "ian.robertson",
+          "count": 2
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 2
+        },
+        {
+          "user": "frank.jania",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 9,
+      "21": 2,
+      "20": 13,
+      "18": 2,
+      "15": 13,
+      "19": 9,
+      "14": 1,
+      "13": 2,
+      "12": 1,
+      "16": 5,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 28,
+      "Tuesday": 16,
+      "Thursday": 2,
+      "Monday": 8,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 5.74,
+    "dept_average_30d": 5.39,
+    "dept_rank": 100,
+    "dept_size": 272
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "username": "anujan.mathisekaran",
+  "name": "Anujan Mathisekaran",
+  "generated_at": "2026-04-08T20:22:30.302341",
+  "summary": {
+    "message_count": 216,
+    "channels_active": 9,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I see these directly address <https://ai-usage.quick.shopify.io/#methodology>",
+          "channel": "taxes-ai",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> I can run commands locally. let me know if that would help",
+          "channel": "river-taxes-yugabyte",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team, I have a PR that introduces schema changes. The Sales::OrderLock check is failing due to the Github diff failing but the PR does not touch",
+          "channel": "orders-eng",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> I think just me is fine. Whatever it was originally",
+          "channel": "taxes-river-playground",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "phil.termikaelian",
+          "count": 2
+        },
+        {
+          "user": "eric.longpre",
+          "count": 1
+        },
+        {
+          "user": "tadhg.boyle",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.2,
+      "count": 58,
+      "top_channels": [
+        {
+          "channel": "river-taxes-yugabyte",
+          "messages": 149
+        },
+        {
+          "channel": "taxes-river-playground",
+          "messages": 33
+        },
+        {
+          "channel": "proj-tax-withholding-validation",
+          "messages": 15
+        },
+        {
+          "channel": "proj-tax-filing-agency-eng",
+          "messages": 6
+        },
+        {
+          "channel": "orders-eng",
+          "messages": 4
+        },
+        {
+          "channel": "proj-shopify-tax-meter-billing",
+          "messages": 3
+        },
+        {
+          "channel": "help-localization",
+          "messages": 3
+        },
+        {
+          "channel": "taxes-ai",
+          "messages": 2
+        },
+        {
+          "channel": "proj-tax-agency-tax-enrollment",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.88,
+      "count": 9,
+      "top_mentioners": [
+        {
+          "user": "erik.percic",
+          "count": 3
+        },
+        {
+          "user": "eric.longpre",
+          "count": 2
+        },
+        {
+          "user": "jenny.so",
+          "count": 1
+        },
+        {
+          "user": "john.hong",
+          "count": 1
+        },
+        {
+          "user": "jonathan.lee",
+          "count": 1
+        },
+        {
+          "user": "jake.sanford",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 8,
+      "15": 38,
+      "14": 34,
+      "18": 35,
+      "17": 22,
+      "16": 13,
+      "13": 29,
+      "1": 1,
+      "19": 32,
+      "12": 2,
+      "23": 2
+    },
+    "by_day": {
+      "Thursday": 60,
+      "Wednesday": 24,
+      "Tuesday": 21,
+      "Friday": 70,
+      "Monday": 41
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.04,
+    "dept_average_30d": 5.77,
+    "dept_rank": 710,
+    "dept_size": 885
+  }
+}

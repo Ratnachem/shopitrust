@@ -1,0 +1,269 @@
+{
+  "username": "tom.krouper",
+  "name": "Tom Krouper",
+  "generated_at": "2026-04-08T20:22:26.963310",
+  "summary": {
+    "message_count": 344,
+    "channels_active": 18,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the 361 shennanigans Josh, all done",
+          "channel": "db-core-mysql-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U07JCL6GVNC>, if you haven't already, can you update the DNS issue removing the MCS part we don't do and close it? Please and thank you.",
+          "channel": "tmp-zookeeper-1-34",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "```$ for x in $(cat ~/y); do\n\u27a4echo $((x % 7))\n\u27a4done | sort | uniq -c\n  48 0\n  47 1\n  47 2\n  48 3\n  47 4\n  48 5\n  46 6```\namazingly close on the",
+          "channel": "proj-infra-mysql-backup-costs",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "After I merged the `sh-heartbeat` PR, I noticed, it needed several dependabot updates. Merged them:",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I've accumulated a pretty good backlog of PRs read for (re)review. If you have a moment. format, &lt;url&gt; - &lt;PR subject&gt; - &lt;Tom's notes",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "```\u23fa Here are the ZooKeeper bugs found in the agent (cmd/agent/main.go):\n\n  Critical: Stale Ephemeral Node Paths After ZK Session Loss\n\n  When",
+          "channel": "tmp-zookeeper-1-34",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to stop it and decomm, thanks",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U027Q3F59U1> you want me to do this or have <@U07JCL6GVNC> do it as part of on-call?",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":wave: Can I get a review on <https://github.com/Shopify/observe-data-sync/pull/633> please and thank you.",
+          "channel": "help-observability",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "```\u23fa Here are the ZooKeeper bugs found in the agent (cmd/agent/main.go):\n\n  Critical: Stale Ephemeral Node Paths After ZK Session Loss\n\n  When",
+          "channel": "tmp-zookeeper-1-34",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "aadi.sanghani",
+          "count": 7
+        },
+        {
+          "user": "ben.thul",
+          "count": 5
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 4
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 4
+        },
+        {
+          "user": "josh.varner",
+          "count": 3
+        },
+        {
+          "user": "josh.broughton",
+          "count": 3
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 2
+        },
+        {
+          "user": "akshay.suryawanshi",
+          "count": 1
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 1
+        },
+        {
+          "user": "jordan.wheeler",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.39,
+      "count": 116,
+      "top_channels": [
+        {
+          "channel": "db-core-mysql",
+          "messages": 172
+        },
+        {
+          "channel": "tmp-zookeeper-1-34",
+          "messages": 44
+        },
+        {
+          "channel": "pods",
+          "messages": 29
+        },
+        {
+          "channel": "db-core-mysql-staging",
+          "messages": 28
+        },
+        {
+          "channel": "db-core-mysql-deploys",
+          "messages": 19
+        },
+        {
+          "channel": "db-core-mysql-alerts",
+          "messages": 14
+        },
+        {
+          "channel": "proj-infra-mysql-backup-costs",
+          "messages": 13
+        },
+        {
+          "channel": "help-observability",
+          "messages": 5
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 3
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.23,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "aadi.sanghani",
+          "count": 22
+        },
+        {
+          "user": "mathieu.fecteaul-1515",
+          "count": 9
+        },
+        {
+          "user": "josh.varner",
+          "count": 5
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 4
+        },
+        {
+          "user": "ben.thul",
+          "count": 3
+        },
+        {
+          "user": "bing.li",
+          "count": 3
+        },
+        {
+          "user": "jonathan.gnagy",
+          "count": 2
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 2
+        },
+        {
+          "user": "shanth.sathiyaseelan",
+          "count": 1
+        },
+        {
+          "user": "katherine.tang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 47,
+      "18": 22,
+      "17": 56,
+      "15": 56,
+      "16": 54,
+      "22": 44,
+      "21": 17,
+      "19": 33,
+      "14": 2,
+      "23": 11,
+      "3": 1,
+      "5": 1
+    },
+    "by_day": {
+      "Tuesday": 83,
+      "Monday": 50,
+      "Friday": 69,
+      "Thursday": 66,
+      "Wednesday": 76
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.82,
+    "dept_average_30d": 5.75,
+    "dept_rank": 149,
+    "dept_size": 357
+  }
+}

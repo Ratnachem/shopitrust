@@ -1,0 +1,169 @@
+{
+  "username": "olivier.theriault",
+  "name": "Olivier Theriault",
+  "generated_at": "2026-04-08T20:22:27.505707",
+  "summary": {
+    "message_count": 191,
+    "channels_active": 7,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Here is the doc where I have been aggregating my load shedding notes and refining a design for it as a solution. Feel free to contribute some context",
+          "channel": "orders-slow-queries",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "I thought Mike only added the lower panels. My bad.",
+          "channel": "orders-slow-queries",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "<@U0AEPQCKB3M> Would something like this work?\n```sort = query.sort&amp;.join(\" \")  # \"created_at asc\" or nil\n\nfingerprint = Digest::MD5.hexdigest([\n",
+          "channel": "otheriault-river",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "martin.samson",
+          "count": 5
+        },
+        {
+          "user": "sam.obeid",
+          "count": 1
+        },
+        {
+          "user": "mike.guterl",
+          "count": 1
+        },
+        {
+          "user": "akshay.patil",
+          "count": 1
+        },
+        {
+          "user": "genevieve.bulger",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.17,
+      "count": 110,
+      "top_channels": [
+        {
+          "channel": "orders-slow-queries",
+          "messages": 113
+        },
+        {
+          "channel": "otheriault-river",
+          "messages": 63
+        },
+        {
+          "channel": "help-caching-platform",
+          "messages": 5
+        },
+        {
+          "channel": "fulfillment",
+          "messages": 4
+        },
+        {
+          "channel": "sellfromretail",
+          "messages": 3
+        },
+        {
+          "channel": "pi",
+          "messages": 2
+        },
+        {
+          "channel": "shop-pi-fy",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.92,
+      "count": 14,
+      "top_mentioners": [
+        {
+          "user": "martin.samson",
+          "count": 5
+        },
+        {
+          "user": "mike.guterl",
+          "count": 4
+        },
+        {
+          "user": "mike.averto",
+          "count": 1
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 1
+        },
+        {
+          "user": "ken.smith",
+          "count": 1
+        },
+        {
+          "user": "natalie.orcutt",
+          "count": 1
+        },
+        {
+          "user": "alexandra.mohsen",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "19": 30,
+      "18": 26,
+      "13": 38,
+      "15": 15,
+      "14": 15,
+      "17": 18,
+      "0": 4,
+      "20": 28,
+      "16": 5,
+      "23": 5,
+      "22": 3,
+      "21": 4
+    },
+    "by_day": {
+      "Tuesday": 26,
+      "Friday": 37,
+      "Monday": 35,
+      "Thursday": 46,
+      "Wednesday": 47
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.87,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1049,
+    "dept_size": 1233
+  }
+}

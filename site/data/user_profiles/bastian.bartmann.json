@@ -1,0 +1,221 @@
+{
+  "username": "bastian.bartmann",
+  "name": "Bastian Bartmann",
+  "generated_at": "2026-04-08T20:22:20.998895",
+  "summary": {
+    "message_count": 299,
+    "channels_active": 15,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Can we do that on Monday? I'm pretty free on that day. Feel free to put something on the calendar.",
+          "channel": "proj-data-storage-fast-schema-migrations",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "schema-migrations-core-ops",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yes, that was definitely me. my bad. I'm working on a fix.",
+          "channel": "help-database-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "But yeah, feel free to post over there.",
+          "channel": "db-mobility",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I removed that one 367 replica that's severely lagging from the list of throttle-control-replicas. It has been lagging since NA afternoon and",
+          "channel": "inv-19874-sfr-migrations-unable-to-progress-due-to-",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I'm split if we want to care about that. On one hand I think we should protect against people doing stupid shit and on the other, I think that's",
+          "channel": "proj-data-storage-fast-schema-migrations",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "bogdan.matu",
+          "count": 5
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 2
+        },
+        {
+          "user": "graham.cooper",
+          "count": 2
+        },
+        {
+          "user": "jan.grodowski",
+          "count": 2
+        },
+        {
+          "user": "ben.thul",
+          "count": 1
+        },
+        {
+          "user": "merve.taner",
+          "count": 1
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.32,
+      "count": 114,
+      "top_channels": [
+        {
+          "channel": "proj-data-storage-fast-schema-migrations",
+          "messages": 139
+        },
+        {
+          "channel": "db-mobility",
+          "messages": 42
+        },
+        {
+          "channel": "schema-migrations-ops",
+          "messages": 32
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 23
+        },
+        {
+          "channel": "inv-19874-sfr-migrations-unable-to-progress-due-to-",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20189-long-history-list-length-on-shard372",
+          "messages": 14
+        },
+        {
+          "channel": "temp-classic-checkout-and-receipt-migrations",
+          "messages": 12
+        },
+        {
+          "channel": "schema-migrations-core-ops",
+          "messages": 8
+        },
+        {
+          "channel": "db-storefronts-mysql-ops",
+          "messages": 5
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.15,
+      "count": 35,
+      "top_mentioners": [
+        {
+          "user": "bogdan.matu",
+          "count": 12
+        },
+        {
+          "user": "graham.cooper",
+          "count": 6
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 3
+        },
+        {
+          "user": "merve.taner",
+          "count": 3
+        },
+        {
+          "user": "austen.lacy",
+          "count": 2
+        },
+        {
+          "user": "bing.li",
+          "count": 2
+        },
+        {
+          "user": "jan.grodowski",
+          "count": 2
+        },
+        {
+          "user": "andressa.machado",
+          "count": 2
+        },
+        {
+          "user": "patrick.begley",
+          "count": 1
+        },
+        {
+          "user": "ben.thul",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 42,
+      "15": 39,
+      "14": 32,
+      "13": 48,
+      "8": 24,
+      "11": 7,
+      "17": 7,
+      "9": 37,
+      "7": 20,
+      "10": 39,
+      "12": 4
+    },
+    "by_day": {
+      "Wednesday": 67,
+      "Tuesday": 64,
+      "Monday": 79,
+      "Thursday": 26,
+      "Friday": 63
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.38,
+    "dept_average_30d": 5.75,
+    "dept_rank": 224,
+    "dept_size": 357
+  }
+}

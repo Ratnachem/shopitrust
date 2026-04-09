@@ -1,0 +1,268 @@
+{
+  "username": "gerry.huynh",
+  "name": "Gerry Huynh",
+  "generated_at": "2026-04-08T20:22:12.503884",
+  "summary": {
+    "message_count": 521,
+    "channels_active": 31,
+    "unique_people_mentioned": 22,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U03E6K4HHPZ> I\u2019m done with the backup DB, it can be cleaned up. Thanks!\n\nAnd yeah, we already had everything setup, but we had assumed that there",
+          "channel": "inv-20925-gcp-project-team-ownership-is-being-moved",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!\n\nPerfect, I\u2019ve already added the missing host to the production Identity CR in the",
+          "channel": "help-rat",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, we can coordinate here. I\u2019ll send a message in the morning around 10am\n\nClarifying:\n\u2022",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if that makes sense :sweat_smile:",
+          "channel": "proj-47266-infrastructure-target-separation",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "<@U02GLRAHNBW> first time using and your bot is amazing :smile: i love it",
+          "channel": "infra-central",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you both!",
+          "channel": "proj-iam-permissions-analysis",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "this is great! thank you eric :pray: im still not comfortable with these probes yet, didnt cross my mind at all @_@",
+          "channel": "app-infra-gke-134",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if this is the wrong channel :pray:",
+          "channel": "help-theme-platform",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi from Application Infrastructure! :wave: It\u2019s cluster upgrades season and we\u2019re migrating apps in `commerce-loop` clusters\n\nI noticed that",
+          "channel": "help-theme-platform",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi from Application Infrastructure! :wave: It\u2019s cluster upgrades season and we\u2019re migrating apps in `commerce-loop` clusters\n\nI noticed that",
+          "channel": "help-theme-platform",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We migrate probably 100s of application/environments each upgrade cycle (every ~6 months), so we try to automate as much as possible :smile: It would",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "anya.zenkina",
+          "count": 3
+        },
+        {
+          "user": "devon.boyer",
+          "count": 3
+        },
+        {
+          "user": "adam.becevello",
+          "count": 2
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 2
+        },
+        {
+          "user": "joseph.fourny",
+          "count": 2
+        },
+        {
+          "user": "james.hall",
+          "count": 2
+        },
+        {
+          "user": "edilson.correa",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 2
+        },
+        {
+          "user": "nathan.coulas",
+          "count": 2
+        },
+        {
+          "user": "eric.yang",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.83,
+      "count": 334,
+      "top_channels": [
+        {
+          "channel": "app-infra-gke-134",
+          "messages": 100
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 80
+        },
+        {
+          "channel": "infra-central",
+          "messages": 65
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 50
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 49
+        },
+        {
+          "channel": "proj-47266-infrastructure-target-separation",
+          "messages": 34
+        },
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 30
+        },
+        {
+          "channel": "proj-40171-infrastructure-repo",
+          "messages": 19
+        },
+        {
+          "channel": "help-rat",
+          "messages": 16
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.94,
+      "count": 33,
+      "top_mentioners": [
+        {
+          "user": "jacob.lott",
+          "count": 5
+        },
+        {
+          "user": "pulkit.garg",
+          "count": 4
+        },
+        {
+          "user": "eric.yang",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 2
+        },
+        {
+          "user": "anya.zenkina",
+          "count": 1
+        },
+        {
+          "user": "romeno.fernando",
+          "count": 1
+        },
+        {
+          "user": "nick.ryan",
+          "count": 1
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 1
+        },
+        {
+          "user": "matthew.ferderber",
+          "count": 1
+        },
+        {
+          "user": "sam.bostock",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 51,
+      "17": 55,
+      "16": 65,
+      "14": 52,
+      "13": 52,
+      "15": 55,
+      "21": 38,
+      "20": 64,
+      "19": 80,
+      "12": 4,
+      "22": 5
+    },
+    "by_day": {
+      "Wednesday": 103,
+      "Tuesday": 121,
+      "Monday": 40,
+      "Friday": 86,
+      "Thursday": 171
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.44,
+    "dept_average_30d": 5.75,
+    "dept_rank": 70,
+    "dept_size": 357
+  }
+}

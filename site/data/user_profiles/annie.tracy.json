@@ -1,0 +1,128 @@
+{
+  "username": "annie.tracy",
+  "name": "Annie Tracy",
+  "generated_at": "2026-04-08T20:22:20.467656",
+  "summary": {
+    "message_count": 22,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 5,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "this will really help to ensure we stay in sync with our AEs before they transition over to the CRM, thank you guys for working through this! :smile:",
+          "channel": "help-crm",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "congrats Morgan!!!! :claps:",
+          "channel": "tofu-sdr-amer",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah interesting ok, thank you!",
+          "channel": "help-crm",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "jody.scherman",
+          "count": 2
+        },
+        {
+          "user": "shameel.abdullah",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.89,
+      "count": 50,
+      "top_channels": [
+        {
+          "channel": "help-crm",
+          "messages": 12
+        },
+        {
+          "channel": "tofu-sdr-amer",
+          "messages": 9
+        },
+        {
+          "channel": "help-salesforce",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "jacqueline.smith",
+          "count": 3
+        },
+        {
+          "user": "shameel.abdullah",
+          "count": 2
+        },
+        {
+          "user": "diana.gates",
+          "count": 1
+        },
+        {
+          "user": "marly.suarez",
+          "count": 1
+        },
+        {
+          "user": "nadya.maffei",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "14": 5,
+      "15": 2,
+      "19": 7,
+      "18": 2,
+      "20": 1,
+      "17": 2,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 7,
+      "Monday": 4,
+      "Friday": 2,
+      "Tuesday": 4,
+      "Thursday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 3.73,
+    "dept_average_30d": 4.32,
+    "dept_rank": 675,
+    "dept_size": 848
+  }
+}

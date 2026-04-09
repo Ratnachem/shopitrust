@@ -1,0 +1,335 @@
+{
+  "username": "dakota.szabo",
+  "name": "Dakota Szabo",
+  "generated_at": "2026-04-08T20:22:18.165110",
+  "summary": {
+    "message_count": 820,
+    "channels_active": 26,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 54,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 20,
+      "neg_count": 11,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sounds like we've done our due diligence on this one - thank you! Should be fine to move Falco to production.",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "On 177406260400086 (Intermittent EC2 boot failure), it seems this is a known issue, but it seems kind of incredible that EKS nodes can just fail to",
+          "channel": "aws-external",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Zone removed from the World repo. Is there anything else I need to do to unblock mirroring?",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want to pair to get unstuck",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello, I've got a use case for wanting TCP traffic to a specific set of GCP IPs to use Cloudflare WARP. Related to",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I was able to query for <https://observe.shopify.io/a/observe/investigate/query/170374cf-4180-4353-a6b1-7be3405f2a9b|Events from Nebius in Observe>",
+          "channel": "help-observability",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U098D5WB7Q9> Could you take a look at this if there are ongoing issues? Happy to help if needed.",
+          "channel": "help-ml-infrastructure",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I don't mean to add any pressure, but I think we need to try to have these GPUs available by EOD so our users can launch their currently-blocked",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I don't mean to add any pressure, but I think we need to try to have these GPUs available by EOD so our users can launch their currently-blocked",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U07G5TUFSJF> is oncall and <https://github.com/Shopify/ml-infrastructure/blob/main/docs/gpu_capacity_reservations.md|there are docs here>. I'm also",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't think we have any more information on this than you do :slightly_smiling_face: I'd recommend using whatever the recommended image is for a",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Jeremie, to unblock you, we should probably just use whatever the recommended stock image is for this node pool.",
+          "channel": "team-multi-cloud-systems",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> bump the latest version of davies-cli for devx ml to whatever the latest available version is",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yeah, I like the idea that SSH lands in the container workdir. I wonder if it's possible to modify the user homedir to that in the bootstrap script",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we're ML Infrastructure. I don't know how the labeling works - it's whatever VaultBot asks us for in Slack. Example: \"Roger that, the pull request",
+          "channel": "tom-rochette-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "I think we should create a spreadsheet or something that we can use as our \"quota allocation\" for the inference GPUs we have. I'm not sure if",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "I think the only reason was the choice to use structlog as a library - I think we're just using whatever that default format is. I don't think",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think the only reason was the choice to use structlog as a library - I think we're just using whatever that default format is. I don't think",
+          "channel": "proj-davies-gpu-control-plane",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "I'll reboot the staging nodes since we don't care about them.",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'd vote for whatever sixsdk is right now just to minimize complexity",
+          "channel": "team-ml-infra-gpu",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "tom.rochette",
+          "count": 15
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 13
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 13
+        },
+        {
+          "user": "charlie.loulakis",
+          "count": 9
+        },
+        {
+          "user": "grigorii.penkin",
+          "count": 7
+        },
+        {
+          "user": "ethan.bates",
+          "count": 6
+        },
+        {
+          "user": "ming.zhu",
+          "count": 4
+        },
+        {
+          "user": "zac.roberts",
+          "count": 4
+        },
+        {
+          "user": "wanying.zhao",
+          "count": 2
+        },
+        {
+          "user": "alexey.volkov",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.73,
+      "count": 276,
+      "top_channels": [
+        {
+          "channel": "team-ml-infra-gpu",
+          "messages": 230
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 210
+        },
+        {
+          "channel": "proj-davies-gpu-control-plane",
+          "messages": 125
+        },
+        {
+          "channel": "team-multi-cloud-systems",
+          "messages": 60
+        },
+        {
+          "channel": "inc-19916-nebius-gpus-unavailable-for-training-and-",
+          "messages": 28
+        },
+        {
+          "channel": "tom-rochette-river",
+          "messages": 21
+        },
+        {
+          "channel": "ml-infrastructure-users",
+          "messages": 18
+        },
+        {
+          "channel": "ml-infra-gpu-ops-urgent",
+          "messages": 17
+        },
+        {
+          "channel": "help-observability",
+          "messages": 16
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 10
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 206,
+      "top_mentioners": [
+        {
+          "user": "tom.rochette",
+          "count": 46
+        },
+        {
+          "user": "dielli.hoxha",
+          "count": 28
+        },
+        {
+          "user": "artyom.astafurov",
+          "count": 13
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 9
+        },
+        {
+          "user": "joe.lin",
+          "count": 8
+        },
+        {
+          "user": "yuechao.qin",
+          "count": 6
+        },
+        {
+          "user": "owen.cummings",
+          "count": 5
+        },
+        {
+          "user": "ziyad.abdelmaguid",
+          "count": 5
+        },
+        {
+          "user": "rajpreet.bajwa",
+          "count": 5
+        },
+        {
+          "user": "shane.moran",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 66,
+      "15": 74,
+      "14": 89,
+      "0": 1,
+      "23": 15,
+      "22": 51,
+      "20": 110,
+      "19": 89,
+      "18": 106,
+      "16": 82,
+      "21": 94,
+      "13": 35,
+      "2": 3,
+      "1": 2,
+      "3": 3
+    },
+    "by_day": {
+      "Wednesday": 209,
+      "Tuesday": 228,
+      "Monday": 98,
+      "Friday": 107,
+      "Thursday": 178
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 6.65,
+    "dept_average_30d": 5.39,
+    "dept_rank": 24,
+    "dept_size": 272
+  }
+}

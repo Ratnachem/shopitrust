@@ -1,0 +1,268 @@
+{
+  "username": "michael.rye",
+  "name": "Michael Rye",
+  "generated_at": "2026-04-08T20:22:12.158125",
+  "summary": {
+    "message_count": 342,
+    "channels_active": 20,
+    "unique_people_mentioned": 17,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yep, confirmed. Claude was a bit overzealous with what it's doing. It was trying to move things that still have a specific node pool selector",
+          "channel": "observability-ingestion-alerts",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "You got a PR for that already, or want me to set one up?",
+          "channel": "proj-secondary-edge",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "KK, thanks!",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "It's deploying now, and working as expected. Thank you.",
+          "channel": "clickhouse-gke-migrations",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I closed everything and tried the browser again as well, starting on <http://shopify.okta.com|shopify.okta.com> first. That worked to get the browser",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you.",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you.",
+          "channel": "help-internal-identity-access",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "KK. :celebrate-wooo:",
+          "channel": "clickhouse-gke-migrations",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Detached parts encompassing a lot of core-n4 replicas and two tracing replicas.",
+          "channel": "rss-clickhouse",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "I have some evening obligations that I need to sign off for. Good luck!",
+          "channel": "proj-tracify-mission",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "OK, so they probably simply picked up whatever the \"current revision\" of GKE is there.",
+          "channel": "observability-log-trace-ingestion",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.59,
+      "count": 18,
+      "top_mentioned": [
+        {
+          "user": "rob.cardy",
+          "count": 8
+        },
+        {
+          "user": "karl.baumgartner",
+          "count": 5
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 4
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 2
+        },
+        {
+          "user": "michael.wilkerson",
+          "count": 2
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 2
+        },
+        {
+          "user": "david.vincelli",
+          "count": 2
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 1
+        },
+        {
+          "user": "andy.fleming",
+          "count": 1
+        },
+        {
+          "user": "robert.laurin",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.28,
+      "count": 147,
+      "top_channels": [
+        {
+          "channel": "observability-log-trace-ingestion",
+          "messages": 114
+        },
+        {
+          "channel": "rss-clickhouse",
+          "messages": 52
+        },
+        {
+          "channel": "clickhouse-gke-migrations",
+          "messages": 43
+        },
+        {
+          "channel": "proj-secondary-edge",
+          "messages": 33
+        },
+        {
+          "channel": "observability-clickhouse-alerts",
+          "messages": 19
+        },
+        {
+          "channel": "help-it",
+          "messages": 16
+        },
+        {
+          "channel": "observability-ingestion-alerts",
+          "messages": 11
+        },
+        {
+          "channel": "help-internal-identity-access",
+          "messages": 10
+        },
+        {
+          "channel": "proj-tracify-mission",
+          "messages": 10
+        },
+        {
+          "channel": "clickhouse-for-reportify",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "sam.handler",
+          "count": 23
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 11
+        },
+        {
+          "user": "kalindu.decosta",
+          "count": 3
+        },
+        {
+          "user": "karl.baumgartner",
+          "count": 2
+        },
+        {
+          "user": "sebastian.rabenhorst",
+          "count": 2
+        },
+        {
+          "user": "charles.ng",
+          "count": 2
+        },
+        {
+          "user": "david.vincelli",
+          "count": 2
+        },
+        {
+          "user": "matt.franklin",
+          "count": 1
+        },
+        {
+          "user": "daniel.oliveira",
+          "count": 1
+        },
+        {
+          "user": "jenica.mcguire",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 41,
+      "17": 35,
+      "15": 31,
+      "14": 45,
+      "13": 47,
+      "11": 30,
+      "21": 1,
+      "16": 16,
+      "12": 54,
+      "20": 11,
+      "19": 31
+    },
+    "by_day": {
+      "Wednesday": 55,
+      "Tuesday": 122,
+      "Monday": 61,
+      "Friday": 47,
+      "Thursday": 57
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.17,
+    "dept_average_30d": 5.75,
+    "dept_rank": 100,
+    "dept_size": 357
+  }
+}

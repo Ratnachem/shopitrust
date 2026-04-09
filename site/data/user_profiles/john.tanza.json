@@ -1,0 +1,224 @@
+{
+  "username": "john.tanza",
+  "name": "John Tanza",
+  "generated_at": "2026-04-08T20:22:29.862383",
+  "summary": {
+    "message_count": 460,
+    "channels_active": 18,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@W018WA22PFT> feel free to ignore, this is dead code grokt/claude is referencing",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "okay, should be good now, let me know if youre seeing otherwise",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "no worries - feel free to reach back out if it looks like something went awry on our end",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "still draft, you want me to review?",
+          "channel": "streaming-services-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "lol no worries, thank you kindly!",
+          "channel": "streaming-frontend-team",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "ahmed.bayraktar",
+          "count": 7
+        },
+        {
+          "user": "daniel.mejia",
+          "count": 5
+        },
+        {
+          "user": "mauricio.castaneda",
+          "count": 4
+        },
+        {
+          "user": "michael.terranova",
+          "count": 4
+        },
+        {
+          "user": "balint.bene",
+          "count": 4
+        },
+        {
+          "user": "kate.galieva",
+          "count": 3
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 2
+        },
+        {
+          "user": "emilie.noel",
+          "count": 1
+        },
+        {
+          "user": "mehryar.maalem",
+          "count": 1
+        },
+        {
+          "user": "noel.padavan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.5,
+      "count": 211,
+      "top_channels": [
+        {
+          "channel": "streaming-services-team",
+          "messages": 161
+        },
+        {
+          "channel": "cdc-yugabyte",
+          "messages": 107
+        },
+        {
+          "channel": "streaming-frontend-team",
+          "messages": 48
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 34
+        },
+        {
+          "channel": "cdc-streaming-alerts",
+          "messages": 33
+        },
+        {
+          "channel": "proj-core-to-yugabyte-streaming",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20527-cdc-pods-restarting",
+          "messages": 20
+        },
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 14
+        },
+        {
+          "channel": "cdc-notifications-migration",
+          "messages": 6
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "balint.bene",
+          "count": 5
+        },
+        {
+          "user": "ahmed.bayraktar",
+          "count": 4
+        },
+        {
+          "user": "michael.terranova",
+          "count": 3
+        },
+        {
+          "user": "matthew.alostaz",
+          "count": 3
+        },
+        {
+          "user": "jordan.miranda",
+          "count": 2
+        },
+        {
+          "user": "kate.galieva",
+          "count": 2
+        },
+        {
+          "user": "wiliam.oliveira",
+          "count": 1
+        },
+        {
+          "user": "vinay.shah",
+          "count": 1
+        },
+        {
+          "user": "maria.ntalla",
+          "count": 1
+        },
+        {
+          "user": "carine.araujo",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 45,
+      "14": 60,
+      "13": 41,
+      "19": 134,
+      "15": 44,
+      "18": 48,
+      "20": 64,
+      "16": 13,
+      "21": 10,
+      "1": 1
+    },
+    "by_day": {
+      "Friday": 86,
+      "Thursday": 77,
+      "Wednesday": 108,
+      "Tuesday": 84,
+      "Monday": 105
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.77,
+    "dept_average_30d": 5.75,
+    "dept_rank": 157,
+    "dept_size": 357
+  }
+}

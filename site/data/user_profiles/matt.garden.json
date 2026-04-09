@@ -1,0 +1,283 @@
+{
+  "username": "matt.garden",
+  "name": "Matt Garden",
+  "generated_at": "2026-04-08T20:22:18.656698",
+  "summary": {
+    "message_count": 361,
+    "channels_active": 18,
+    "unique_people_mentioned": 37,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.4,
+      "pos_count": 24,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Right, sorry about the confusion on that",
+          "channel": "pos-release-train",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great thanks! I just converted this from a draft into a PR. ",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "(Thank you for fixing it, but maybe we don't need to cherry-pick this one)",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh good call, thanks!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I don't see an issue for this yet. I'll capture it, thank you!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Cool thank you!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@W018GATDFNH> that looks correct to me, thanks!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great, thanks!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good call, thanks!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I'll take a look at that, thanks!",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It should provide parity with what the app does right now for exchange checkout:\n\u2022 Detect the crash based on what CheckoutSDK persists\n\u2022 Reload the",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I was just looking at how we're doing navigation in the new implementation of the refund flow, and seeing\n```  useEffect(() => {\n   ",
+          "channel": "proj-pos-returns-in-cart",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "ayman.salloom",
+          "count": 15
+        },
+        {
+          "user": "mariusz.michalak",
+          "count": 11
+        },
+        {
+          "user": "steve.colvin",
+          "count": 10
+        },
+        {
+          "user": "sebastian.skopp",
+          "count": 8
+        },
+        {
+          "user": "animesh.thakre",
+          "count": 8
+        },
+        {
+          "user": "carlos.rodriguezcontreras",
+          "count": 7
+        },
+        {
+          "user": "gino.valente",
+          "count": 6
+        },
+        {
+          "user": "flora.mcneill",
+          "count": 6
+        },
+        {
+          "user": "ash.christopher",
+          "count": 5
+        },
+        {
+          "user": "james.trever",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.26,
+      "count": 304,
+      "top_channels": [
+        {
+          "channel": "proj-pos-returns-in-cart",
+          "messages": 214
+        },
+        {
+          "channel": "retail-mx-orders",
+          "messages": 41
+        },
+        {
+          "channel": "inc-19944-pos-exchange-flow-blocked-when-manager-ap",
+          "messages": 30
+        },
+        {
+          "channel": "returns-team",
+          "messages": 21
+        },
+        {
+          "channel": "pos-release-train",
+          "messages": 20
+        },
+        {
+          "channel": "retail-foundations-developer-tooling-team",
+          "messages": 8
+        },
+        {
+          "channel": "help-api-patterns",
+          "messages": 5
+        },
+        {
+          "channel": "temp-pos-release-v11_4-r2",
+          "messages": 3
+        },
+        {
+          "channel": "retail-foundations-extensions-team",
+          "messages": 3
+        },
+        {
+          "channel": "help-retail-checkout",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 101,
+      "top_mentioners": [
+        {
+          "user": "britta.evansfenton",
+          "count": 12
+        },
+        {
+          "user": "gino.valente",
+          "count": 11
+        },
+        {
+          "user": "ayman.salloom",
+          "count": 11
+        },
+        {
+          "user": "flora.mcneill",
+          "count": 7
+        },
+        {
+          "user": "steve.colvin1",
+          "count": 6
+        },
+        {
+          "user": "carlos.rodriguez-7195",
+          "count": 6
+        },
+        {
+          "user": "mariusz.michalak",
+          "count": 5
+        },
+        {
+          "user": "gurk.mandur",
+          "count": 5
+        },
+        {
+          "user": "rashad.sharaf",
+          "count": 5
+        },
+        {
+          "user": "sebastian.skopp",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 44,
+      "16": 15,
+      "14": 44,
+      "13": 47,
+      "12": 19,
+      "11": 14,
+      "9": 5,
+      "23": 9,
+      "22": 4,
+      "21": 12,
+      "20": 17,
+      "19": 35,
+      "18": 43,
+      "8": 2,
+      "15": 37,
+      "2": 2,
+      "1": 6,
+      "10": 5,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 89,
+      "Monday": 69,
+      "Thursday": 93,
+      "Friday": 33
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.58,
+    "dept_average_30d": 5.77,
+    "dept_rank": 96,
+    "dept_size": 885
+  }
+}

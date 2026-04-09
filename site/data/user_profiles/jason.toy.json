@@ -1,0 +1,271 @@
+{
+  "username": "jason.toy",
+  "name": "Jason Toy",
+  "generated_at": "2026-04-08T20:22:06.450217",
+  "summary": {
+    "message_count": 280,
+    "channels_active": 18,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U087LATJRP0> ok, thank you",
+          "channel": "proj-0-dollar-trial-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I did add standup tomorrow in case you guys want to review anything, I will show up to the call but feel free to skip",
+          "channel": "proj-0-dollar-trial-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "ok, we'll ping him, thanks!",
+          "channel": "proj-0-dollar-trial",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Awesome, we are all good, thanks!",
+          "channel": "proj-0-dollar-trial",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U07QAUEDX98> <@U02JHLDCXK6> we are in tuple , feel free to ping us",
+          "channel": "proj-0-dollar-trial",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "no, it was just my mistake, here is the PR for it: <https://github.com/shop/world/pull/559212>",
+          "channel": "proj-0-dollar-trial-dev",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "See you all soon! Let me know if anyone is around to do dinner tonight. ",
+          "channel": "convert-explore-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi Team, I wanted to share the Eng High Level Milestones",
+          "channel": "proj-0-dollar-trial",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I use pi and claude daily, I haven'd had time to write my own plugins  or customize it yet, so I'm still in the early stages, but I'm anticipating",
+          "channel": "convert-explore-dev",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you have any thoughts or if it seems wrong, I'll going to post in another channel after.",
+          "channel": "proj-0-dollar-trial-dev",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I kill whatever is on 1031 (memcache), and then dev up and memcache and redis are both put to 1031 again.",
+          "channel": "dev-up",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "james.nixon",
+          "count": 28
+        },
+        {
+          "user": "ramy.elfarou",
+          "count": 23
+        },
+        {
+          "user": "morgan.holland",
+          "count": 15
+        },
+        {
+          "user": "olaolu.olawuyi",
+          "count": 11
+        },
+        {
+          "user": "steven.bei",
+          "count": 9
+        },
+        {
+          "user": "manish.rai",
+          "count": 6
+        },
+        {
+          "user": "dave.ariens",
+          "count": 6
+        },
+        {
+          "user": "asad.hussain",
+          "count": 6
+        },
+        {
+          "user": "simone.arora",
+          "count": 5
+        },
+        {
+          "user": "niko.anic",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.98,
+      "count": 342,
+      "top_channels": [
+        {
+          "channel": "proj-0-dollar-trial-dev",
+          "messages": 109
+        },
+        {
+          "channel": "proj-0-dollar-trial",
+          "messages": 89
+        },
+        {
+          "channel": "convert-explore-dev",
+          "messages": 26
+        },
+        {
+          "channel": "dev-up",
+          "messages": 11
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 11
+        },
+        {
+          "channel": "0-dollar-trial-marketing-impact-mitigation",
+          "messages": 8
+        },
+        {
+          "channel": "growth-and-billing-team-combo-chats",
+          "messages": 6
+        },
+        {
+          "channel": "mona-app",
+          "messages": 4
+        },
+        {
+          "channel": "temp-rivrr-playground",
+          "messages": 4
+        },
+        {
+          "channel": "merchant-subscriptions-team",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 79,
+      "top_mentioners": [
+        {
+          "user": "morgan.holland",
+          "count": 14
+        },
+        {
+          "user": "steven.bei",
+          "count": 8
+        },
+        {
+          "user": "manish.rai",
+          "count": 7
+        },
+        {
+          "user": "michelle.pushefski",
+          "count": 6
+        },
+        {
+          "user": "olaolu.olawuyi",
+          "count": 5
+        },
+        {
+          "user": "ramy.elfarou",
+          "count": 4
+        },
+        {
+          "user": "cody.robinson",
+          "count": 4
+        },
+        {
+          "user": "james.nixon",
+          "count": 3
+        },
+        {
+          "user": "emily.brouillet",
+          "count": 3
+        },
+        {
+          "user": "asad.hussain",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 54,
+      "17": 42,
+      "16": 38,
+      "14": 14,
+      "13": 4,
+      "2": 1,
+      "0": 5,
+      "23": 17,
+      "22": 18,
+      "19": 35,
+      "20": 18,
+      "1": 7,
+      "21": 14,
+      "15": 13
+    },
+    "by_day": {
+      "Wednesday": 72,
+      "Tuesday": 81,
+      "Monday": 53,
+      "Friday": 19,
+      "Thursday": 55
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.51,
+    "dept_average_30d": 5.58,
+    "dept_rank": 48,
+    "dept_size": 398
+  }
+}

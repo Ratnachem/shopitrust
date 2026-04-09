@@ -1,0 +1,208 @@
+{
+  "username": "scott.taylor",
+  "name": "Scott Taylor",
+  "generated_at": "2026-04-08T20:22:10.757796",
+  "summary": {
+    "message_count": 539,
+    "channels_active": 7,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 7,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.8,
+      "pos_count": 3,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "no day care today - it\u2019s a miracle I got any of this done at all. thank you :claude_: - limited bandwidth rest of day",
+          "channel": "shopify-universal-scraper",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I have a dentist appointment at noon, so maybe I shouldn\u2019t kick this off right now - *you* can feel free to, or we can do it later",
+          "channel": "shopify-universal-scraper",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to :approve: this one",
+          "channel": "proj-universal-catalog",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":mega:  everything runs in parallel in CI now except integration tests, which require the C programs. Any tests that need to run the extractor or",
+          "channel": "shopify-universal-scraper",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "autoresearch is very honest with itself when it\u2019s making useless changes",
+          "channel": "proj-universal-catalog",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "jon.french",
+          "count": 10
+        },
+        {
+          "user": "vesna.brown",
+          "count": 3
+        },
+        {
+          "user": "jeansebastien.letellier",
+          "count": 3
+        },
+        {
+          "user": "eric.kogut",
+          "count": 2
+        },
+        {
+          "user": "george.shipilov",
+          "count": 2
+        },
+        {
+          "user": "bernardo.camilo",
+          "count": 2
+        },
+        {
+          "user": "jeremy.debonet",
+          "count": 2
+        },
+        {
+          "user": "justin.smestad",
+          "count": 1
+        },
+        {
+          "user": "justin.reid",
+          "count": 1
+        },
+        {
+          "user": "evan.lee",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.64,
+      "count": 96,
+      "top_channels": [
+        {
+          "channel": "proj-universal-catalog",
+          "messages": 317
+        },
+        {
+          "channel": "shopify-universal-scraper",
+          "messages": 205
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 7
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "growth-talk",
+          "messages": 3
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 2
+        },
+        {
+          "channel": "cx-rnd-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "jon.french",
+          "count": 22
+        },
+        {
+          "user": "vesna.brown",
+          "count": 11
+        },
+        {
+          "user": "jeansebastien.le-1185",
+          "count": 4
+        },
+        {
+          "user": "eric.kogut",
+          "count": 3
+        },
+        {
+          "user": "jeremy.debonet",
+          "count": 3
+        },
+        {
+          "user": "george.shipilov",
+          "count": 1
+        },
+        {
+          "user": "jeremy.gayed",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 54,
+      "15": 55,
+      "14": 80,
+      "13": 43,
+      "21": 21,
+      "20": 52,
+      "19": 108,
+      "17": 36,
+      "16": 63,
+      "2": 3,
+      "12": 8,
+      "11": 1,
+      "0": 6,
+      "23": 1,
+      "1": 1,
+      "22": 4,
+      "4": 3
+    },
+    "by_day": {
+      "Wednesday": 184,
+      "Tuesday": 110,
+      "Monday": 97,
+      "Friday": 78,
+      "Thursday": 70
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.84,
+    "dept_average_30d": 5.86,
+    "dept_rank": 97,
+    "dept_size": 166
+  }
+}

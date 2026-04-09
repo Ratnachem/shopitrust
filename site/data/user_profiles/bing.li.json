@@ -1,0 +1,278 @@
+{
+  "username": "bing.li",
+  "name": "Bing Li",
+  "generated_at": "2026-04-08T20:22:28.857331",
+  "summary": {
+    "message_count": 482,
+    "channels_active": 42,
+    "unique_people_mentioned": 53,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.2,
+      "pos_count": 35,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to continue deploy",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to log off :ty-1:",
+          "channel": "inv-20551-bfcm-2026-scale-test-1",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'll note it down, Thank you Josh",
+          "channel": "pods",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03UJ2C8605> Do we need to add this to <https://github.com/Shopify/pods/blob/main/playbooks/PLAYBOOK-Evacuation.md|the playbook> for",
+          "channel": "pods",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@W0197HART4Y>. Sounds good",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U027Q3F59U1> . Sure We'll still have few hours before that hopefully. :thank:",
+          "channel": "inv-18488-regional-evac-2026",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the confirmation <@W018HU0HKB5>",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Awesome! Thank you <@U02B1F8R9RS>. Could you or <@W018WA8DVED> leave a message in the <#C0ANF376XKL> once that's done?",
+          "channel": "db-mobility",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U05MSJDALF5> and <@W018HUJDCV9>, I can start scaling up from 0:00 UTC.  Are we using a new playbook this year or reusing",
+          "channel": "bfcm-2026-scale-tests",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi Team, I noticed this incidents have a bunch of draft action items. including replacing the runbook. <@W018HUJDCV9> and I are performing Scale Test",
+          "channel": "inc-20208-google-cloud-packet-lost-in-europe-west4",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I can move the conversations there or at least link them there to keep everything in place for whatever happened in the scale test",
+          "channel": "inv-18488-regional-evac-2026",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "with the flaky tests I'm not sure why, could be a race condition or whatever, but I think if it passes on retry and doesn't block deploy we can",
+          "channel": "inv-19951-investigating-errors-introduced-in-this-c",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 62,
+      "top_mentioned": [
+        {
+          "user": "sourabh.ail",
+          "count": 11
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 8
+        },
+        {
+          "user": "keisuke.umegaki",
+          "count": 8
+        },
+        {
+          "user": "justin.reid",
+          "count": 5
+        },
+        {
+          "user": "nicholas.herson",
+          "count": 5
+        },
+        {
+          "user": "mathieu.fecteauleclerc",
+          "count": 5
+        },
+        {
+          "user": "alex.gomez",
+          "count": 5
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 5
+        },
+        {
+          "user": "kyle.horne",
+          "count": 4
+        },
+        {
+          "user": "christine.walsh",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.79,
+      "count": 332,
+      "top_channels": [
+        {
+          "channel": "inv-20551-bfcm-2026-scale-test-1",
+          "messages": 80
+        },
+        {
+          "channel": "inv-20004-prolonged-db-writer-cpu-saturation",
+          "messages": 50
+        },
+        {
+          "channel": "inv-19897-world-shopify-post-merge-testing-failing-",
+          "messages": 34
+        },
+        {
+          "channel": "inv-19952-checkout-temporarily-unavailable",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20011-nomethoderror-componentsplatformappmodels",
+          "messages": 22
+        },
+        {
+          "channel": "inv-19951-investigating-errors-introduced-in-this-c",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20067-high-db-writer-cpu-usage-in-shard325-db12",
+          "messages": 20
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 19
+        },
+        {
+          "channel": "inv-20068-prolonged-db-writer-cpu-saturation",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20012-deploy-blocking-e2e-synthetics-failing",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.79,
+      "count": 70,
+      "top_mentioners": [
+        {
+          "user": "keisuke.umegaki",
+          "count": 13
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 12
+        },
+        {
+          "user": "matthew.frail",
+          "count": 5
+        },
+        {
+          "user": "deepak.ramiasridharan",
+          "count": 5
+        },
+        {
+          "user": "simon.horsfield",
+          "count": 4
+        },
+        {
+          "user": "mingding.han",
+          "count": 3
+        },
+        {
+          "user": "sourabh.ail",
+          "count": 3
+        },
+        {
+          "user": "mattie.toia",
+          "count": 2
+        },
+        {
+          "user": "jake.levine",
+          "count": 2
+        },
+        {
+          "user": "deane.masonloveridge",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "4": 71,
+      "2": 46,
+      "6": 70,
+      "5": 79,
+      "3": 74,
+      "7": 33,
+      "1": 61,
+      "8": 15,
+      "0": 14,
+      "23": 5,
+      "13": 2,
+      "9": 9,
+      "21": 1,
+      "20": 2
+    },
+    "by_day": {
+      "Tuesday": 89,
+      "Thursday": 94,
+      "Wednesday": 212,
+      "Monday": 6,
+      "Friday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 7.29,
+    "dept_average_30d": 5.75,
+    "dept_rank": 17,
+    "dept_size": 357
+  }
+}

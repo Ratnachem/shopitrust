@@ -1,0 +1,181 @@
+{
+  "username": "elijah.mcpherson",
+  "name": "Elijah McPherson",
+  "generated_at": "2026-04-08T20:22:26.144568",
+  "summary": {
+    "message_count": 41,
+    "channels_active": 11,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 28,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Will review",
+          "channel": "proj-infra-shopkv-store",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "joe.navetta",
+          "count": 1
+        },
+        {
+          "user": "robert.adler",
+          "count": 1
+        },
+        {
+          "user": "baiji.he",
+          "count": 1
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 1
+        },
+        {
+          "user": "mingqin.li",
+          "count": 1
+        },
+        {
+          "user": "nigel.daley",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.58,
+      "count": 321,
+      "top_channels": [
+        {
+          "channel": "temp-shopkv-search-hydration",
+          "messages": 14
+        },
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 11
+        },
+        {
+          "channel": "rss-feed",
+          "messages": 3
+        },
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 3
+        },
+        {
+          "channel": "machine-migration",
+          "messages": 3
+        },
+        {
+          "channel": "proj-attribution-on-event-refinery",
+          "messages": 2
+        },
+        {
+          "channel": "observability-profiling",
+          "messages": 1
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 1
+        },
+        {
+          "channel": "google-cloud-finances",
+          "messages": 1
+        },
+        {
+          "channel": "inc-20040-semian-circuits-overloaded-in-sfr",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.12,
+      "count": 54,
+      "top_mentioners": [
+        {
+          "user": "day.levesque",
+          "count": 6
+        },
+        {
+          "user": "joe.navetta",
+          "count": 4
+        },
+        {
+          "user": "chase.platon",
+          "count": 4
+        },
+        {
+          "user": "nikola.todic",
+          "count": 3
+        },
+        {
+          "user": "nicholas.amorim",
+          "count": 3
+        },
+        {
+          "user": "sean.ittel",
+          "count": 3
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 3
+        },
+        {
+          "user": "eric.liang",
+          "count": 2
+        },
+        {
+          "user": "marc.laforet",
+          "count": 2
+        },
+        {
+          "user": "charlieallan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 3,
+      "1": 6,
+      "23": 3,
+      "17": 7,
+      "15": 4,
+      "16": 4,
+      "18": 7,
+      "21": 4,
+      "19": 1,
+      "22": 1,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 12,
+      "Tuesday": 13,
+      "Monday": 4,
+      "Thursday": 6,
+      "Friday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.79,
+    "dept_average_30d": 5.75,
+    "dept_rank": 154,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "username": "marc.loan",
+  "name": "Marc Loan",
+  "generated_at": "2026-04-08T20:22:21.266272",
+  "summary": {
+    "message_count": 97,
+    "channels_active": 11,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "That worked, thank you! :raised_hands::skin-tone-4:\nI asked Claude about the basic params of the payload. I think the ones related to remember_me are",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congratulations",
+          "text": "Yeay, congratulations! :claps:",
+          "channel": "shop-engineering",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I had to reset my env because of shop-server's DB was broken.\nNow I get the user created, it looks like the cookie is not being set and the session",
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "john.datserakis",
+          "count": 5
+        },
+        {
+          "user": "lucas.marcotterichardson",
+          "count": 3
+        },
+        {
+          "user": "bashir.egeh",
+          "count": 3
+        },
+        {
+          "user": "charles.mccauley",
+          "count": 2
+        },
+        {
+          "user": "natalie.moore",
+          "count": 1
+        },
+        {
+          "user": "lin.zhao",
+          "count": 1
+        },
+        {
+          "user": "jeanfrederic.fortier",
+          "count": 1
+        },
+        {
+          "user": "elsa.huang",
+          "count": 1
+        },
+        {
+          "user": "danilo.barboza",
+          "count": 1
+        },
+        {
+          "user": "reinis.babris",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.4,
+      "count": 206,
+      "top_channels": [
+        {
+          "channel": "proj-shop-pay-emailonly-accounts",
+          "messages": 40
+        },
+        {
+          "channel": "proj-shop-web-auth-uplift",
+          "messages": 18
+        },
+        {
+          "channel": "shop-identity",
+          "messages": 10
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 9
+        },
+        {
+          "channel": "inv-20213-rollback-after-errors-in-shop-server-manu",
+          "messages": 9
+        },
+        {
+          "channel": "shop-pay-installments-dev",
+          "messages": 4
+        },
+        {
+          "channel": "help-shop-identity",
+          "messages": 2
+        },
+        {
+          "channel": "shop-mobile",
+          "messages": 2
+        },
+        {
+          "channel": "help-exp",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.0,
+      "count": 24,
+      "top_mentioners": [
+        {
+          "user": "john.datserakis",
+          "count": 5
+        },
+        {
+          "user": "max.rais",
+          "count": 3
+        },
+        {
+          "user": "bashir.egeh",
+          "count": 2
+        },
+        {
+          "user": "lucas.marcotteri-2353",
+          "count": 2
+        },
+        {
+          "user": "camilo.garcialarotta",
+          "count": 2
+        },
+        {
+          "user": "kevin.meinhardt",
+          "count": 2
+        },
+        {
+          "user": "danilo.barboza",
+          "count": 1
+        },
+        {
+          "user": "michael.bottens",
+          "count": 1
+        },
+        {
+          "user": "dominic.lind",
+          "count": 1
+        },
+        {
+          "user": "robertas.godelis",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 7,
+      "14": 18,
+      "13": 8,
+      "19": 1,
+      "12": 14,
+      "11": 13,
+      "9": 11,
+      "17": 5,
+      "15": 11,
+      "10": 5,
+      "20": 3,
+      "8": 1
+    },
+    "by_day": {
+      "Wednesday": 25,
+      "Tuesday": 28,
+      "Thursday": 15,
+      "Monday": 14,
+      "Friday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Shop",
+    "user_score_30d": 5.41,
+    "dept_average_30d": 5.86,
+    "dept_rank": 123,
+    "dept_size": 166
+  }
+}

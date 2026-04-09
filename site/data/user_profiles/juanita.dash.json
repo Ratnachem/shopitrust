@@ -1,0 +1,100 @@
+{
+  "username": "juanita.dash",
+  "name": "Juanita Dash",
+  "generated_at": "2026-04-08T20:22:29.406201",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 2,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 0,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if things look weird..looks ok from what I see for now",
+          "channel": "checkout-kit-river",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 3.18,
+      "count": 7,
+      "top_mentioned": [
+        {
+          "user": "daniel.kift",
+          "count": 1
+        },
+        {
+          "user": "wilson.chiang",
+          "count": 1
+        },
+        {
+          "user": "jeanfrederic.fortier",
+          "count": 1
+        },
+        {
+          "user": "westin.wrzesinski",
+          "count": 1
+        },
+        {
+          "user": "ryan.ludwig",
+          "count": 1
+        },
+        {
+          "user": "toney.mathews",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.27,
+      "count": 60,
+      "top_channels": [
+        {
+          "channel": "checkout-kit-river",
+          "messages": 8
+        },
+        {
+          "channel": "checkout-accounts-design-system",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioners": []
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 2,
+      "18": 2,
+      "14": 3,
+      "13": 1,
+      "22": 2
+    },
+    "by_day": {
+      "Monday": 2,
+      "Wednesday": 6,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.43,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1147,
+    "dept_size": 1233
+  }
+}

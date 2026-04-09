@@ -1,0 +1,105 @@
+{
+  "username": "pedro.tanaka",
+  "name": "Pedro Tanaka",
+  "generated_at": "2026-04-08T20:22:06.852045",
+  "summary": {
+    "message_count": 32,
+    "channels_active": 5,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 0,
+      "positive_markers": [],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 2.27,
+      "count": 5,
+      "top_mentioned": [
+        {
+          "user": "samuel.dufel",
+          "count": 1
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.86,
+      "count": 49,
+      "top_channels": [
+        {
+          "channel": "observability-ops",
+          "messages": 27
+        },
+        {
+          "channel": "observability-metrics",
+          "messages": 2
+        },
+        {
+          "channel": "email-deliverability",
+          "messages": 1
+        },
+        {
+          "channel": "o11y-observe-platform",
+          "messages": 1
+        },
+        {
+          "channel": "observability-metrics-alerts",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "romain.dauby",
+          "count": 1
+        },
+        {
+          "user": "ryan.woodworth",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 2,
+      "16": 3,
+      "15": 2,
+      "22": 2,
+      "20": 1,
+      "14": 6,
+      "12": 2,
+      "11": 6,
+      "10": 1,
+      "6": 1,
+      "7": 1,
+      "13": 2,
+      "9": 3
+    },
+    "by_day": {
+      "Wednesday": 7,
+      "Thursday": 11,
+      "Tuesday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.69,
+    "dept_average_30d": 5.75,
+    "dept_rank": 322,
+    "dept_size": 357
+  }
+}

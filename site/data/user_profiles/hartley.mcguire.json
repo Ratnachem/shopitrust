@@ -1,0 +1,261 @@
+{
+  "username": "hartley.mcguire",
+  "name": "Hartley McGuire",
+  "generated_at": "2026-04-08T20:22:17.693526",
+  "summary": {
+    "message_count": 462,
+    "channels_active": 26,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 20,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "got the email, thank you :bow:",
+          "channel": "help-it",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "(5x is an amazing improvement!!)",
+          "channel": "proj-faster-bundler",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> thanks, I was thinking of a different model, feel free to shutdown",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> thank you, sorry for the confusion. I didn't realize trust-platform was something separate from Core.",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> thanks, great work! feel free to shutdown",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "<@U0AEPQCKB3M> thanks, great work! feel free to shutdown",
+          "channel": "ruby-and-rails-river",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "looks like its working again, thanks!",
+          "channel": "river",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "^I would also mention the _why_ you're skipping, feel free to point at the Rails issue",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "we probably want a way to force whatever isn't the pre-merge build, whether thats PG or MySQL",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "or maybe there's actually a bug here to fix?\n\n`Magellan::ServiceNotPolledYetError` is what the issue reports as the problem, but that seems to be",
+          "channel": "magellan-zookeeper",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The only reason I can think to be cautious here is ensuring that production images bundle a version of OpenSSL compatible with whatever gem version",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "matthew.draper",
+          "count": 2
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 1
+        },
+        {
+          "user": "max.bernstein",
+          "count": 1
+        },
+        {
+          "user": "aaron.patterson",
+          "count": 1
+        },
+        {
+          "user": "nikita.vasilevsky",
+          "count": 1
+        },
+        {
+          "user": "jason.hiltzlaforge",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.33,
+      "count": 308,
+      "top_channels": [
+        {
+          "channel": "ruby-and-rails-river",
+          "messages": 179
+        },
+        {
+          "channel": "proj-dbms-agnostic-core",
+          "messages": 91
+        },
+        {
+          "channel": "team-rails-infra",
+          "messages": 62
+        },
+        {
+          "channel": "ruby-and-rails-talk",
+          "messages": 37
+        },
+        {
+          "channel": "tmp-core-sfr-yugabyte-infra",
+          "messages": 22
+        },
+        {
+          "channel": "inv-21227-negotiatefromsession-latency-increased",
+          "messages": 6
+        },
+        {
+          "channel": "magellan-zookeeper",
+          "messages": 6
+        },
+        {
+          "channel": "river",
+          "messages": 5
+        },
+        {
+          "channel": "team-ruby-and-rails-infra",
+          "messages": 5
+        },
+        {
+          "channel": "ruby-jit",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.98,
+      "count": 43,
+      "top_mentioners": [
+        {
+          "user": "andrew.novoselac",
+          "count": 12
+        },
+        {
+          "user": "cam.woloshyn",
+          "count": 7
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "matthew.draper",
+          "count": 3
+        },
+        {
+          "user": "edouard.chin",
+          "count": 2
+        },
+        {
+          "user": "jill.klang",
+          "count": 2
+        },
+        {
+          "user": "christopher.butcher",
+          "count": 1
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 1
+        },
+        {
+          "user": "toria.gibbs",
+          "count": 1
+        },
+        {
+          "user": "arina.obuchova",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 63,
+      "16": 62,
+      "23": 18,
+      "19": 46,
+      "18": 45,
+      "15": 53,
+      "21": 23,
+      "20": 26,
+      "1": 8,
+      "0": 22,
+      "22": 12,
+      "14": 44,
+      "13": 32,
+      "12": 3,
+      "3": 2,
+      "2": 3
+    },
+    "by_day": {
+      "Wednesday": 129,
+      "Tuesday": 103,
+      "Friday": 80,
+      "Thursday": 126,
+      "Monday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.95,
+    "dept_average_30d": 5.75,
+    "dept_rank": 123,
+    "dept_size": 357
+  }
+}

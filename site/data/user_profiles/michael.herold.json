@@ -1,0 +1,253 @@
+{
+  "username": "michael.herold",
+  "name": "Michael Herold",
+  "generated_at": "2026-04-08T20:22:12.475288",
+  "summary": {
+    "message_count": 539,
+    "channels_active": 43,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> my bad, I didn't realize it was merged :facepalm:",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> this is my bad; I forgot that `shop-pi-fy` is in the playground. Go ahead and shut down since you can't make the fix.",
+          "channel": "pi",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the request IDs! We will take a look. :blobheart:",
+          "channel": "inc-19499-storefront-filters-not-appearing-in-some",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "<@U0AEPQCKB3M> so this is my bad - the error comes from <https://github.com/Shopify/discovery-app> but it interacts with product recommendations in",
+          "channel": "river-mjh",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "It's hard to say whether they'll still be useful. Your team looks at things much differently than we do (it's great working with a diverse set of",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "tmp-search-slo",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Okay, so it sounds like Opus was drunk. Thanks!",
+          "channel": "tmp-search-serving-resilience",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "I've finished capturing context, so <https://shopify.enterprise.slack.com/archives/C0AMNPVMP6U/p1774623170144809|as I mentioned on Friday>, I am",
+          "channel": "tmp-search-slo",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "And it's not necessarily a pod that's affected, it's whatever shops get sharded together by ES",
+          "channel": "inc-20040-semian-circuits-overloaded-in-sfr",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.95,
+      "count": 24,
+      "top_mentioned": [
+        {
+          "user": "pawan.patel",
+          "count": 5
+        },
+        {
+          "user": "rucha.dalsania",
+          "count": 4
+        },
+        {
+          "user": "nikola.todic",
+          "count": 3
+        },
+        {
+          "user": "brian.cahill",
+          "count": 3
+        },
+        {
+          "user": "caroline",
+          "count": 2
+        },
+        {
+          "user": "alex.watt",
+          "count": 2
+        },
+        {
+          "user": "michael.pauls",
+          "count": 2
+        },
+        {
+          "user": "jonathan.sabbagh",
+          "count": 2
+        },
+        {
+          "user": "brenda.segal",
+          "count": 2
+        },
+        {
+          "user": "prabhjot.singh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.83,
+      "count": 387,
+      "top_channels": [
+        {
+          "channel": "inc-20040-semian-circuits-overloaded-in-sfr",
+          "messages": 80
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 65
+        },
+        {
+          "channel": "tmp-search-serving-resilience",
+          "messages": 55
+        },
+        {
+          "channel": "inv-20269-e5-multilingual-embeddings-are-not-genera",
+          "messages": 34
+        },
+        {
+          "channel": "river-search-serving",
+          "messages": 31
+        },
+        {
+          "channel": "\u03c0",
+          "messages": 26
+        },
+        {
+          "channel": "river-mjh",
+          "messages": 24
+        },
+        {
+          "channel": "proj-search-storefront-search-throttle",
+          "messages": 21
+        },
+        {
+          "channel": "search-serving-ops",
+          "messages": 17
+        },
+        {
+          "channel": "help-search-serving",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.75,
+      "count": 60,
+      "top_mentioners": [
+        {
+          "user": "rucha.dalsania",
+          "count": 8
+        },
+        {
+          "user": "caroline",
+          "count": 6
+        },
+        {
+          "user": "alex.watt",
+          "count": 5
+        },
+        {
+          "user": "jordan.neufeld",
+          "count": 5
+        },
+        {
+          "user": "brenda.segal",
+          "count": 5
+        },
+        {
+          "user": "abdulrahman.alhamali",
+          "count": 3
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 2
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 2
+        },
+        {
+          "user": "carine.araujo",
+          "count": 2
+        },
+        {
+          "user": "gurpreet.gill",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 86,
+      "16": 71,
+      "15": 70,
+      "14": 61,
+      "20": 94,
+      "19": 70,
+      "17": 30,
+      "21": 46,
+      "22": 10,
+      "13": 1
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 142,
+      "Monday": 94,
+      "Friday": 72,
+      "Thursday": 154
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.5,
+    "dept_average_30d": 5.79,
+    "dept_rank": 184,
+    "dept_size": 1233
+  }
+}

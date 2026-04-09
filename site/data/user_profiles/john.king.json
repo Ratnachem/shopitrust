@@ -1,0 +1,314 @@
+{
+  "username": "john.king",
+  "name": "John King",
+  "generated_at": "2026-04-08T20:22:09.960186",
+  "summary": {
+    "message_count": 1081,
+    "channels_active": 13,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 14,
+      "neg_count": 7,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Yeah I should have something up soon, sorry about that, haste makes waste",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you see any blips on this tomorrow. If there are any <@U03R33GCBUJ> might have to look after it (if not, just work on the exposure Al)",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "We\u2019re going over it now, feel free to jump in <https://meet.google.com/ikq-ukfd-wqq?authuser=0>",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Here\u2019s the items of what we\u2019re aiming to have in a mergable state for Thursday (given that many/most our out Friday). I think everyone already knows",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Good luck, that\u2019s what crashed me this morning",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good params to work with, thanks!",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sweet, thank you!",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "That covers it. It\u2019s kind of tight on the Markets API for their team, and they\u2019ve been amazingly responsive, but so long as we know what we\u2019ll be",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Sorry about the flip flopping, digesting the latest copy-on-create design",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> feel free to suggest something other than `flags` too.  It\u2019s similar to a feature set but more 1:1 with flags",
+          "channel": "customizations-river",
+          "timestamp": "2026-03-17"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "oh ffs I didn\u2019t realize it was doing that stupid graphite base thing again. That slipped itself in there",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Anyhow IT can figure it out and until then\n:harold:",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You, me, Saif, Janees, and whatever Market representation we need. Francis and Daniel, Angelo I think, and perhaps Mohsen? <@W018SEYDK7W> should have",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "I mentioned it on the other thread, but yeah, it does behave weird, and the git beta feature that made it look nice regressed and is actually broken.",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U081FP8KYD7> honestly I think we\u2019re agreeing, that table is what I\u2019m talking about, I\u2019m just oversimplifying it perhaps. On snapshot, resource",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Good idea\n\nMake a foot note for \u201ccopy on start\u201d, but don\u2019t really get too into it yet, because we don\u2019t yet know the details.\n\nBut otherwise, feel",
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "OSP is part of CA, would that not be a key part of the buyer journey? Same with login as I mentioned above",
+          "channel": "proj-rollouts-store-default-swaps",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "simon.bolduc",
+          "count": 16
+        },
+        {
+          "user": "janees.elamkulam",
+          "count": 14
+        },
+        {
+          "user": "alessandro.dalgrande",
+          "count": 13
+        },
+        {
+          "user": "mert.kara",
+          "count": 13
+        },
+        {
+          "user": "francis.pelland",
+          "count": 11
+        },
+        {
+          "user": "iain.wilson",
+          "count": 8
+        },
+        {
+          "user": "kristofer.thorlaksson",
+          "count": 7
+        },
+        {
+          "user": "saif.benchahed",
+          "count": 7
+        },
+        {
+          "user": "thomas.wang",
+          "count": 6
+        },
+        {
+          "user": "greg.craft",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.17,
+      "count": 141,
+      "top_channels": [
+        {
+          "channel": "proj-rollouts-for-checkout-and-accounts-dev",
+          "messages": 599
+        },
+        {
+          "channel": "proj-rollouts-store-default-swaps",
+          "messages": 360
+        },
+        {
+          "channel": "rollouts-platform",
+          "messages": 30
+        },
+        {
+          "channel": "customizations-river",
+          "messages": 24
+        },
+        {
+          "channel": "proj-markets-checkouts-accounts-editor-dev",
+          "messages": 20
+        },
+        {
+          "channel": "customizations-rnd",
+          "messages": 13
+        },
+        {
+          "channel": "customizations-exceptions",
+          "messages": 12
+        },
+        {
+          "channel": "customizations-production-support",
+          "messages": 9
+        },
+        {
+          "channel": "markets-and-checkout-and-accounts",
+          "messages": 4
+        },
+        {
+          "channel": "inv-20857-shops-that-had-markets-checkout-and-accou",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 217,
+      "top_mentioners": [
+        {
+          "user": "simon.bolduc",
+          "count": 64
+        },
+        {
+          "user": "kristofer.thorlaksson",
+          "count": 27
+        },
+        {
+          "user": "jesse.hoffman",
+          "count": 26
+        },
+        {
+          "user": "francis.pelland",
+          "count": 16
+        },
+        {
+          "user": "thomas.wang",
+          "count": 11
+        },
+        {
+          "user": "alessandro.dalgrande",
+          "count": 10
+        },
+        {
+          "user": "mert.kara",
+          "count": 9
+        },
+        {
+          "user": "denis.lins",
+          "count": 7
+        },
+        {
+          "user": "angelo.ocana",
+          "count": 6
+        },
+        {
+          "user": "janees.elamkulam",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 178,
+      "17": 155,
+      "16": 58,
+      "4": 3,
+      "0": 43,
+      "22": 132,
+      "21": 158,
+      "20": 123,
+      "19": 120,
+      "3": 11,
+      "1": 16,
+      "23": 67,
+      "15": 3,
+      "5": 7,
+      "2": 7
+    },
+    "by_day": {
+      "Wednesday": 187,
+      "Tuesday": 294,
+      "Monday": 189,
+      "Friday": 242,
+      "Thursday": 169
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.12,
+    "dept_average_30d": 5.79,
+    "dept_rank": 366,
+    "dept_size": 1233
+  }
+}

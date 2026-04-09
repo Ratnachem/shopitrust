@@ -1,0 +1,127 @@
+{
+  "username": "jeff.sadosky",
+  "name": "Jeff Sadosky",
+  "generated_at": "2026-04-08T20:22:26.056248",
+  "summary": {
+    "message_count": 26,
+    "channels_active": 7,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thoughts that's what I'd done, but will try again, thank you",
+          "channel": "help-kepler",
+          "timestamp": "2026-03-23"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "*Political reality check*\nThis is a thought leadership document, not a legislative strategy. The proposals are ambitious enough to face headwinds",
+          "channel": "government-policy",
+          "timestamp": "2026-04-07"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "cristina.flores",
+          "count": 1
+        },
+        {
+          "user": "nannette.tremoulet",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.28,
+      "count": 113,
+      "top_channels": [
+        {
+          "channel": "government-policy",
+          "messages": 11
+        },
+        {
+          "channel": "jeffs-river-scout",
+          "messages": 6
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 3
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 3
+        },
+        {
+          "channel": "tool-gateway",
+          "messages": 1
+        },
+        {
+          "channel": "bellevue-port-buzz",
+          "messages": 1
+        },
+        {
+          "channel": "help-it",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "cristina.flores",
+          "count": 2
+        },
+        {
+          "user": "sasa.ilic",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 2,
+      "16": 4,
+      "21": 4,
+      "20": 5,
+      "23": 3,
+      "19": 1,
+      "17": 3,
+      "13": 2,
+      "12": 2
+    },
+    "by_day": {
+      "Wednesday": 3,
+      "Tuesday": 4,
+      "Monday": 14,
+      "Thursday": 2,
+      "Friday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Communications",
+    "user_score_30d": 4.25,
+    "dept_average_30d": 4.33,
+    "dept_rank": 22,
+    "dept_size": 42
+  }
+}

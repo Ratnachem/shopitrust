@@ -1,0 +1,281 @@
+{
+  "username": "ben.maynard",
+  "name": "Ben Maynard",
+  "generated_at": "2026-04-08T20:22:14.998347",
+  "summary": {
+    "message_count": 664,
+    "channels_active": 19,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 14,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you see something that should be there that isn't. There is no more custom git, kafka, brtfs",
+          "channel": "gitstream",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Prod is updated so hopefully that solves all the permissions issues. Let me know if your having any issues",
+          "channel": "gitstream",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Sorry I missed that, my bad",
+          "channel": "gitstream",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if that works <@U025QKW329H> otherwise I gotta gain some knowledge to make sure the config is correct",
+          "channel": "gitstream",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing thanks a lot!",
+          "channel": "gitstream",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U025QKW329H> I believe its done. Let me know if there is anything else to be done.",
+          "channel": "team-ci",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "amazing thanks!",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing thanks!",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Ok staging is now running in the CB project. Let me know if everything looks good and if so, lets aim to migrate production this afternoon",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "All the errors look expected and your change should be applied. Let me know if you have any issues",
+          "channel": "team-ci",
+          "timestamp": "2026-03-13"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "You should have this in general to manage CI when your on call but there will be a permit for gitstream",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; I think we should keep them all\nSounds good, I agree. I will make the change\n\n&gt; thinking about the situation where a build `foo`makes it to",
+          "channel": "gitstream",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.09,
+      "count": 29,
+      "top_mentioned": [
+        {
+          "user": "xiao.li",
+          "count": 16
+        },
+        {
+          "user": "evan.lee",
+          "count": 11
+        },
+        {
+          "user": "kangze.jia",
+          "count": 8
+        },
+        {
+          "user": "daiane.silva",
+          "count": 7
+        },
+        {
+          "user": "chao.duan",
+          "count": 7
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 7
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 6
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 5
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 5
+        },
+        {
+          "user": "hossam.mahmoud",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.51,
+      "count": 119,
+      "top_channels": [
+        {
+          "channel": "gitstream",
+          "messages": 361
+        },
+        {
+          "channel": "proj-instant-dev-envs",
+          "messages": 83
+        },
+        {
+          "channel": "team-ci",
+          "messages": 69
+        },
+        {
+          "channel": "inv-20037-high-backlog-of-configure-jobs",
+          "messages": 27
+        },
+        {
+          "channel": "inv-19997-devx-ci-trigger-is-failing",
+          "messages": 22
+        },
+        {
+          "channel": "inv-19759-ci-cluster-maxed-out",
+          "messages": 16
+        },
+        {
+          "channel": "gitstream-ops",
+          "messages": 15
+        },
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 13
+        },
+        {
+          "channel": "proj-time-aware-ci-scheduling",
+          "messages": 9
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 202,
+      "top_mentioners": [
+        {
+          "user": "xiao.li",
+          "count": 51
+        },
+        {
+          "user": "natalia.maximo",
+          "count": 26
+        },
+        {
+          "user": "chao.duan",
+          "count": 24
+        },
+        {
+          "user": "kangze.jia",
+          "count": 15
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 14
+        },
+        {
+          "user": "gabriel.parreiras",
+          "count": 12
+        },
+        {
+          "user": "daiane.silva",
+          "count": 11
+        },
+        {
+          "user": "evan.lee",
+          "count": 7
+        },
+        {
+          "user": "jacob.michels",
+          "count": 7
+        },
+        {
+          "user": "ashley.williams",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 99,
+      "17": 61,
+      "16": 51,
+      "15": 74,
+      "14": 56,
+      "1": 28,
+      "0": 25,
+      "21": 45,
+      "20": 77,
+      "19": 75,
+      "13": 24,
+      "23": 13,
+      "2": 7,
+      "22": 15,
+      "4": 8,
+      "3": 5,
+      "12": 1
+    },
+    "by_day": {
+      "Wednesday": 189,
+      "Tuesday": 106,
+      "Monday": 78,
+      "Friday": 117,
+      "Thursday": 174
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 5.75,
+    "dept_rank": 141,
+    "dept_size": 357
+  }
+}

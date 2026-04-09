@@ -1,0 +1,286 @@
+{
+  "username": "cameron.morgan",
+  "name": "Cameron Morgan",
+  "generated_at": "2026-04-08T20:22:22.256806",
+  "summary": {
+    "message_count": 499,
+    "channels_active": 25,
+    "unique_people_mentioned": 19,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 15,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U08PHL00AT0> Incident bot is asking me for a \"Breaking Code PR URL\" of the PR that created this query and other details. Do you mind hitting",
+          "channel": "inv-20722-queries-to-adsanccatalogoperations-causin",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help if you need",
+          "channel": "inv-20722-queries-to-adsanccatalogoperations-causin",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if I should wait",
+          "channel": "db-platform-yugabyte-ops",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Need review from application-infrastructure, thanks!",
+          "channel": "proj-entity-identifiers",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0A7M28FKEC> This is a pretty bad AI update at least to do with the stuff I'm working on. Let me know if you want to discuss before its published",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if there are any questions",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "The MySQL password for reading Core DBs in the reclaimer is available now:",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help Khosrow jordan",
+          "channel": "inv-20122-globaldb-has-frequent-query-timeouts",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "infrastructure PR with small core-yb changes for oid service: <https://github.com/Shopify/infrastructure/pull/35180>\nNeeds review from",
+          "channel": "proj-entity-identifiers",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "But we can add more retries if we want or wait a longer period or whatever",
+          "channel": "proj-infra-yugabyte-oid",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would use N2s with PDs tbh. You won't run into resource issues and will have more than enough storage capacity. But whatever works.",
+          "channel": "proj-data-storage-yugabyte-stability",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm not 100% sure the exact perms needed but read only to all tables. Whatever the default way we do that is.",
+          "channel": "db-core-mysql",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.5,
+      "count": 22,
+      "top_mentioned": [
+        {
+          "user": "garth.goodson",
+          "count": 5
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 3
+        },
+        {
+          "user": "jordan.wheeler",
+          "count": 3
+        },
+        {
+          "user": "craig.soules",
+          "count": 3
+        },
+        {
+          "user": "john.meehan",
+          "count": 2
+        },
+        {
+          "user": "sharad.gaur",
+          "count": 2
+        },
+        {
+          "user": "rodrigo.saito",
+          "count": 1
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 1
+        },
+        {
+          "user": "ella.baron",
+          "count": 1
+        },
+        {
+          "user": "austen.lacy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.38,
+      "count": 205,
+      "top_channels": [
+        {
+          "channel": "proj-data-storage-yugabyte-stability",
+          "messages": 104
+        },
+        {
+          "channel": "db-platform-yugabyte-ops",
+          "messages": 95
+        },
+        {
+          "channel": "cameron-river",
+          "messages": 62
+        },
+        {
+          "channel": "proj-infra-yugabyte-oid",
+          "messages": 58
+        },
+        {
+          "channel": "inv-20122-globaldb-has-frequent-query-timeouts",
+          "messages": 36
+        },
+        {
+          "channel": "proj-entity-identifiers",
+          "messages": 23
+        },
+        {
+          "channel": "mm-ads-channels",
+          "messages": 21
+        },
+        {
+          "channel": "tmp-core-sfr-yugabyte-infra",
+          "messages": 17
+        },
+        {
+          "channel": "inv-20722-queries-to-adsanccatalogoperations-causin",
+          "messages": 14
+        },
+        {
+          "channel": "proj-checkout-yugabyte",
+          "messages": 13
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "jeffrey.bian",
+          "count": 8
+        },
+        {
+          "user": "john.meehan",
+          "count": 5
+        },
+        {
+          "user": "jahfer.husain",
+          "count": 4
+        },
+        {
+          "user": "shuo.chen",
+          "count": 3
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "garth.goodson",
+          "count": 3
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "khosrow.ebrahimpour",
+          "count": 2
+        },
+        {
+          "user": "martin.bouchard",
+          "count": 1
+        },
+        {
+          "user": "rodrigo.saito",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 25,
+      "21": 70,
+      "19": 80,
+      "18": 72,
+      "17": 47,
+      "16": 47,
+      "23": 18,
+      "14": 19,
+      "13": 2,
+      "12": 1,
+      "20": 28,
+      "0": 27,
+      "22": 55,
+      "2": 3,
+      "1": 5
+    },
+    "by_day": {
+      "Wednesday": 101,
+      "Monday": 72,
+      "Friday": 84,
+      "Thursday": 121,
+      "Tuesday": 121
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.37,
+    "dept_average_30d": 5.75,
+    "dept_rank": 230,
+    "dept_size": 357
+  }
+}

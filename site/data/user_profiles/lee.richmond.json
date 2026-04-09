@@ -1,0 +1,272 @@
+{
+  "username": "lee.richmond",
+  "name": "Lee Richmond",
+  "generated_at": "2026-04-08T20:22:11.718003",
+  "summary": {
+    "message_count": 297,
+    "channels_active": 19,
+    "unique_people_mentioned": 48,
+    "unique_mentioners": 34,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Whoops, apologies, I thought X% rollout of API Client would do this but I was wrong. Switched to `generic_non_pii` and passing order id as subject.",
+          "channel": "proj-ucp-orders",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh gotcha np thanks!",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Nonblocking comment",
+          "channel": "proj-ucp-orders",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help from UCP eng side :wave:",
+          "channel": "agentic-storefronts-mission",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, good find!",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":awesome: awesome, thank you <@W0197H8JYBS> :tada: !",
+          "channel": "proj-ucp-orders",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing, thank you <@W0197HCQLD6>!",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thank you <@W0197HCQLD6>!",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "WELL DESERVED congrats both :raised_hands: :tada: !!",
+          "channel": "checkout-carts-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "Hey Gil, this is great work. You are of course free to share with Mathieu, though the folks I think you need to win over are Ilya (on vacation this",
+          "channel": "proj-native-custom-fields",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Yep, I know this has come up before though in the context of ECP since we need to ensure whatever the \"canonical\" domain is is allowed to be iframed.",
+          "channel": "proj-universal-commerce-protocol",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 50,
+      "top_mentioned": [
+        {
+          "user": "benjamin.blake",
+          "count": 19
+        },
+        {
+          "user": "victoria.duggan",
+          "count": 12
+        },
+        {
+          "user": "steven.janczy",
+          "count": 9
+        },
+        {
+          "user": "martin.samson",
+          "count": 8
+        },
+        {
+          "user": "eric.desjardins",
+          "count": 7
+        },
+        {
+          "user": "jeremy.topper",
+          "count": 6
+        },
+        {
+          "user": "alex.park",
+          "count": 6
+        },
+        {
+          "user": "emmanuel.milou",
+          "count": 6
+        },
+        {
+          "user": "david.pettersson",
+          "count": 5
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.16,
+      "count": 246,
+      "top_channels": [
+        {
+          "channel": "proj-universal-commerce-protocol",
+          "messages": 123
+        },
+        {
+          "channel": "proj-ucp-orders",
+          "messages": 79
+        },
+        {
+          "channel": "fulfillment-checkout-collab",
+          "messages": 22
+        },
+        {
+          "channel": "shop-for-agentic",
+          "messages": 16
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 14
+        },
+        {
+          "channel": "proj-shop-agent-card",
+          "messages": 7
+        },
+        {
+          "channel": "ucp-identity-linking",
+          "messages": 7
+        },
+        {
+          "channel": "agentic-storefronts-google-rollout",
+          "messages": 6
+        },
+        {
+          "channel": "proj-native-custom-fields",
+          "messages": 4
+        },
+        {
+          "channel": "checkout-backend-persistence-only",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 109,
+      "top_mentioners": [
+        {
+          "user": "jeremy.topper",
+          "count": 17
+        },
+        {
+          "user": "alex.park",
+          "count": 11
+        },
+        {
+          "user": "joe.rinaldijohnson",
+          "count": 8
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 7
+        },
+        {
+          "user": "victoria.duggan",
+          "count": 7
+        },
+        {
+          "user": "sarah.pickett",
+          "count": 5
+        },
+        {
+          "user": "michal.malecki",
+          "count": 4
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 3
+        },
+        {
+          "user": "david.pettersson",
+          "count": 3
+        },
+        {
+          "user": "westin.wrzesinskii",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 30,
+      "17": 29,
+      "16": 39,
+      "15": 25,
+      "13": 20,
+      "0": 5,
+      "21": 21,
+      "20": 65,
+      "19": 28,
+      "14": 16,
+      "11": 6,
+      "22": 4,
+      "12": 4,
+      "23": 3,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 91,
+      "Tuesday": 71,
+      "Monday": 26,
+      "Friday": 27,
+      "Thursday": 82
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.01,
+    "dept_average_30d": 5.79,
+    "dept_rank": 423,
+    "dept_size": 1233
+  }
+}

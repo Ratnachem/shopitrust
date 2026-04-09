@@ -1,0 +1,108 @@
+{
+  "username": "irina.barbu",
+  "name": "Irina Barbu",
+  "generated_at": "2026-04-08T20:22:32.058518",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 2,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "Well done <@U03QFP024TB> and team!",
+          "channel": "proj-revmktg-contactability",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Excellent, thank you!",
+          "channel": "help-security",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you - any actions I should take?",
+          "channel": "help-security",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.95,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "sarah.sutter",
+          "count": 2
+        },
+        {
+          "user": "jordan.lefevre",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.25,
+      "count": 82,
+      "top_channels": [
+        {
+          "channel": "proj-revmktg-contactability",
+          "messages": 6
+        },
+        {
+          "channel": "help-security",
+          "messages": 3
+        },
+        {
+          "channel": "global-b2b-sales-team",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.31,
+      "count": 6,
+      "top_mentioners": [
+        {
+          "user": "vala.vaintraub",
+          "count": 3
+        },
+        {
+          "user": "sarah.sutter",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 2,
+      "13": 2,
+      "19": 6
+    },
+    "by_day": {
+      "Monday": 2,
+      "Tuesday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.86,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1300,
+    "dept_size": 1663
+  }
+}

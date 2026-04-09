@@ -1,0 +1,262 @@
+{
+  "username": "jivan.gubbi",
+  "name": "Jivan Gubbi",
+  "generated_at": "2026-04-08T20:22:05.803345",
+  "summary": {
+    "message_count": 238,
+    "channels_active": 20,
+    "unique_people_mentioned": 14,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.4,
+      "pos_count": 14,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Amazing, thank you Alex!",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing, thank you Alex!",
+          "channel": "search-serving-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Approved! Thank you Ben, I'll open up a few PRs to remove the rest of the references after that merges",
+          "channel": "shop-agent",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks! I also am merging a <https://app.graphite.com/github/shop/world/pull/570935|fix> on our end to swallow any shadow traffic",
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks!",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Ah amazing! The work was done even before we found a problem :joy:",
+          "channel": "proj-meridian-storefront-search",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "great work",
+          "text": "<@U0AEPQCKB3M> great work! I will test that. For setting the ceiling at 50 instead of 250, can you look at SFR logs for the SearchController to see",
+          "channel": "river-search-serving",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ok thanks! No worries, this is just for shadow traffic so not really prod",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "inv-20851-core-deploy-seeing-a-spike-in-sfr-excepti",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I'll follow up with the index-serving team. Sorry about that!",
+          "channel": "inv-20851-core-deploy-seeing-a-spike-in-sfr-excepti",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 6.36,
+      "count": 17,
+      "top_mentioned": [
+        {
+          "user": "ben.eichler",
+          "count": 3
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 2
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 2
+        },
+        {
+          "user": "michael.pauls",
+          "count": 1
+        },
+        {
+          "user": "alex.gomez",
+          "count": 1
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 1
+        },
+        {
+          "user": "ramses.lopez",
+          "count": 1
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 1
+        },
+        {
+          "user": "tatsuya.oiwa",
+          "count": 1
+        },
+        {
+          "user": "shotaro.kamio",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.65,
+      "count": 219,
+      "top_channels": [
+        {
+          "channel": "proj-meridian-storefront-search",
+          "messages": 82
+        },
+        {
+          "channel": "river-search-serving",
+          "messages": 34
+        },
+        {
+          "channel": "help-search-tooling",
+          "messages": 25
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 22
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 14
+        },
+        {
+          "channel": "shop-discovery",
+          "messages": 8
+        },
+        {
+          "channel": "inv-21007-new-sfr-deploys-blocked-by-failing-tests-",
+          "messages": 7
+        },
+        {
+          "channel": "shop-agentic-search",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20851-core-deploy-seeing-a-spike-in-sfr-excepti",
+          "messages": 5
+        },
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 76,
+      "top_mentioners": [
+        {
+          "user": "xiaofeng.xu",
+          "count": 16
+        },
+        {
+          "user": "john.finnson",
+          "count": 10
+        },
+        {
+          "user": "alex.gomez",
+          "count": 5
+        },
+        {
+          "user": "pete.luferenko",
+          "count": 5
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 4
+        },
+        {
+          "user": "ben.eichler",
+          "count": 3
+        },
+        {
+          "user": "jingyi.guo",
+          "count": 3
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 3
+        },
+        {
+          "user": "brenda.segal",
+          "count": 2
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "17": 43,
+      "15": 18,
+      "14": 7,
+      "2": 1,
+      "21": 24,
+      "16": 28,
+      "23": 24,
+      "22": 25,
+      "19": 16,
+      "20": 19,
+      "1": 7,
+      "0": 11
+    },
+    "by_day": {
+      "Wednesday": 69,
+      "Tuesday": 69,
+      "Monday": 48,
+      "Friday": 18,
+      "Thursday": 34
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.18,
+    "dept_average_30d": 5.79,
+    "dept_rank": 333,
+    "dept_size": 1233
+  }
+}

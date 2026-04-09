@@ -1,0 +1,89 @@
+{
+  "username": "cat.neuman",
+  "name": "Cat Neuman",
+  "generated_at": "2026-04-08T20:22:27.584474",
+  "summary": {
+    "message_count": 22,
+    "channels_active": 2,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 3,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Super helpful -- one last Q...roughly when do we anticipate M0? doesn't have to be exact, just for modeling purposes",
+          "channel": "emi-application",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.68,
+      "count": 18,
+      "top_channels": [
+        {
+          "channel": "pmt-finance-river-test",
+          "messages": 21
+        },
+        {
+          "channel": "emi-application",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.62,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "julia.kranjac",
+          "count": 1
+        },
+        {
+          "user": "keith.dell",
+          "count": 1
+        },
+        {
+          "user": "curtis.thompson",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 5,
+      "21": 4,
+      "19": 1,
+      "16": 3,
+      "22": 7,
+      "20": 2
+    },
+    "by_day": {
+      "Tuesday": 4,
+      "Thursday": 9,
+      "Wednesday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 3.6,
+    "dept_average_30d": 4.35,
+    "dept_rank": 135,
+    "dept_size": 151
+  }
+}

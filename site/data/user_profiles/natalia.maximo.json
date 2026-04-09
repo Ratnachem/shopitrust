@@ -1,0 +1,324 @@
+{
+  "username": "natalia.maximo",
+  "name": "Natalia Maximo",
+  "generated_at": "2026-04-08T20:22:14.827634",
+  "summary": {
+    "message_count": 1414,
+    "channels_active": 26,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 30,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.7,
+      "pos_count": 24,
+      "neg_count": 8,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad, saw it only after I sent this",
+          "channel": "gitstream",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "here's the message I got last from you:\n\nDone. All three strands updated per gitstream's triple-helix rules. Here's the change:\n_Problem:_ The",
+          "channel": "natalia-maximo-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I see it\u2014thanks! still buffering this morning",
+          "channel": "gitstream",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "If I can get eyes on this <https://app.graphite.com/github/pr/shop/world/550588|post-receive hook audit log> change I'd appreciate it!",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U025QKW329H> let me know if you're able to pick this up and I can run it if not",
+          "channel": "gitstream",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ah missed it when reviewing my bad",
+          "channel": "gitstream",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Yes, do you want me to make a ticket for the gstctl change so you can take it over?",
+          "channel": "gitstream",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U025QKW329H> not yet but that's in my plans for tomorrow. Do you want me to make a ticket you can take over?",
+          "channel": "gitstream",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "*Incident Summary*\n\nSeeing high utilization causing backlog of jobs in production clusters. Given the recent migration of Binks to Production",
+          "channel": "inv-20671-high-cluster-utilization-causing-job-back",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if you want to go the Google OIDC route so I can set up the provider configs",
+          "channel": "gitstream",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "<@U0AEPQCKB3M> here's my decoded token. Like I said, I do have those",
+          "channel": "natalia-maximo-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> using the flag will still require code changes to the IaC stuff\u2014can we move this to either the policy file or the token file, whatever",
+          "channel": "natalia-maximo-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "one maybe-pro-maybe-con is that enabling a transition system will mean we will be set up for in-flight hash changes in the future if we need to move",
+          "channel": "gitstream",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Worth mentioning from an availability standpoint: If GCS was down for whatever reason, the client initialization would block our our main thread and",
+          "channel": "gitstream",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I will be out tomorrow and Monday. Is anyone available to do a hand-off so I can brief folks about what I'm tracking? Mostly it's all in github",
+          "channel": "gitstream",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> since all the server component would be doing is pushing files to the right machines, can we amend the plan to just run the connection",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> for gitstream, there has been significant overhead related to managing token files, policy files, oidc providers and requiring",
+          "channel": "ci-rolling-on-the-river",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I don't think we have the file to start, it just goes on whatever directory you want and use a flag to point to it. It should all be in the help menu",
+          "channel": "gitstream",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 44,
+      "top_mentioned": [
+        {
+          "user": "xiao.li",
+          "count": 34
+        },
+        {
+          "user": "ben.maynard",
+          "count": 24
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 21
+        },
+        {
+          "user": "chao.duan",
+          "count": 20
+        },
+        {
+          "user": "evan.lee",
+          "count": 15
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 13
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 9
+        },
+        {
+          "user": "daiane.silva",
+          "count": 9
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 7
+        },
+        {
+          "user": "daniel.ahrnsbrak",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.24,
+      "count": 112,
+      "top_channels": [
+        {
+          "channel": "gitstream",
+          "messages": 544
+        },
+        {
+          "channel": "ci-rolling-on-the-river",
+          "messages": 345
+        },
+        {
+          "channel": "natalia-maximo-river",
+          "messages": 333
+        },
+        {
+          "channel": "team-ci",
+          "messages": 81
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 24
+        },
+        {
+          "channel": "team-ci-paged-alerts",
+          "messages": 21
+        },
+        {
+          "channel": "livestream-eng-data",
+          "messages": 12
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20787-cicd-control-center-is-down",
+          "messages": 6
+        },
+        {
+          "channel": "tectonix",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 111,
+      "top_mentioners": [
+        {
+          "user": "chao.duan",
+          "count": 22
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 13
+        },
+        {
+          "user": "xiao.li",
+          "count": 13
+        },
+        {
+          "user": "daiane.silva",
+          "count": 8
+        },
+        {
+          "user": "melanie.hageman",
+          "count": 7
+        },
+        {
+          "user": "ben.maynard",
+          "count": 7
+        },
+        {
+          "user": "hossam.mahmoud",
+          "count": 4
+        },
+        {
+          "user": "evan.lee",
+          "count": 4
+        },
+        {
+          "user": "felipe.cuozzo",
+          "count": 4
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 129,
+      "17": 110,
+      "16": 132,
+      "14": 144,
+      "13": 67,
+      "1": 67,
+      "0": 67,
+      "21": 106,
+      "20": 118,
+      "19": 108,
+      "15": 191,
+      "3": 24,
+      "22": 54,
+      "12": 14,
+      "23": 37,
+      "2": 29,
+      "11": 2,
+      "4": 15
+    },
+    "by_day": {
+      "Wednesday": 309,
+      "Thursday": 381,
+      "Tuesday": 241,
+      "Monday": 183,
+      "Friday": 300
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.94,
+    "dept_average_30d": 5.75,
+    "dept_rank": 126,
+    "dept_size": 357
+  }
+}

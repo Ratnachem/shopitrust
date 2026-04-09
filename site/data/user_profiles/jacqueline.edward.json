@@ -1,0 +1,130 @@
+{
+  "username": "jacqueline.edward",
+  "name": "Jacqueline Edward",
+  "generated_at": "2026-04-08T20:22:17.969429",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 5,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Daniel :slightly_smiling_face:",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hey team! This merchant here is unable to onboard SP with the brazilian passport as the system seems to recognize it as possible fraud (US merchant)",
+          "channel": "help-fraud-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ohhh! Thank you for that info! So it might be they cannot onboard in the first place right?",
+          "channel": "help-shopify-payments-kyc",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Chris! :slightly_smiling_face:",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! I have a merchant here who hasn't received any PayPal payouts since Macrh 10 even though they updated their bank account on March 19th. I",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "logan.gunn",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 6
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 5
+        },
+        {
+          "channel": "help-fraud-operations",
+          "messages": 2
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 2
+        },
+        {
+          "channel": "help-capital-engineering",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "chris.dakin",
+          "count": 1
+        },
+        {
+          "user": "neha.garg",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 5,
+      "16": 4,
+      "15": 4,
+      "13": 2,
+      "18": 1
+    },
+    "by_day": {
+      "Wednesday": 2,
+      "Monday": 7,
+      "Thursday": 5,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Support",
+    "user_score_30d": 2.89,
+    "dept_average_30d": 4.09,
+    "dept_rank": 623,
+    "dept_size": 642
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "username": "kyro.nassif",
+  "name": "Kyro Nassif",
+  "generated_at": "2026-04-08T20:22:20.993526",
+  "summary": {
+    "message_count": 71,
+    "channels_active": 9,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Question on deferring payment creation to the gateway: if emvAuthorize never fires or fails to create a payment after submitForCompletion in pos, the",
+          "channel": "proj-payments-card-present-emv",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey! I'm working on stripping CardPresentPaymentMethod down to a marker type in core checkout as part of the card-present gateway migration. The core",
+          "channel": "retail-dev",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "nick.smith",
+          "count": 2
+        },
+        {
+          "user": "cameron.nickert",
+          "count": 2
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 2
+        },
+        {
+          "user": "damien.ardouin",
+          "count": 1
+        },
+        {
+          "user": "joel.kerfoot",
+          "count": 1
+        },
+        {
+          "user": "arman.kirakosyan",
+          "count": 1
+        },
+        {
+          "user": "thomas.gwynnetimothy",
+          "count": 1
+        },
+        {
+          "user": "corin.mchargue",
+          "count": 1
+        },
+        {
+          "user": "jayden.suh",
+          "count": 1
+        },
+        {
+          "user": "arsh.ganda",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.25,
+      "count": 198,
+      "top_channels": [
+        {
+          "channel": "proj-payments-card-present-emv",
+          "messages": 49
+        },
+        {
+          "channel": "dev-paypal-express-api-upgrade",
+          "messages": 8
+        },
+        {
+          "channel": "checkout-foundations",
+          "messages": 7
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 2
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 1
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 1
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 1
+        },
+        {
+          "channel": "help-retail-checkout",
+          "messages": 1
+        },
+        {
+          "channel": "checkout-eng",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.33,
+      "count": 16,
+      "top_mentioners": [
+        {
+          "user": "nick.smith",
+          "count": 5
+        },
+        {
+          "user": "cole.pilegard",
+          "count": 4
+        },
+        {
+          "user": "saki.futamura",
+          "count": 1
+        },
+        {
+          "user": "ahmad.dandachi",
+          "count": 1
+        },
+        {
+          "user": "mattie.toia",
+          "count": 1
+        },
+        {
+          "user": "david.hou",
+          "count": 1
+        },
+        {
+          "user": "jayden.suh",
+          "count": 1
+        },
+        {
+          "user": "joel.kerfoot",
+          "count": 1
+        },
+        {
+          "user": "nadim.khalife",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 12,
+      "15": 6,
+      "13": 3,
+      "18": 8,
+      "17": 11,
+      "14": 5,
+      "19": 7,
+      "20": 6,
+      "22": 3,
+      "21": 4,
+      "1": 2,
+      "4": 1,
+      "23": 2,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 8,
+      "Tuesday": 14,
+      "Monday": 15,
+      "Thursday": 14,
+      "Friday": 20
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.39,
+    "dept_average_30d": 5.77,
+    "dept_rank": 587,
+    "dept_size": 885
+  }
+}

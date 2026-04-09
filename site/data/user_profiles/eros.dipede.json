@@ -1,0 +1,280 @@
+{
+  "username": "eros.dipede",
+  "name": "Eros Dipede",
+  "generated_at": "2026-04-08T20:22:06.031122",
+  "summary": {
+    "message_count": 904,
+    "channels_active": 37,
+    "unique_people_mentioned": 32,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 15,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Thank you, do let me know if there are any further issues with buyers on this store. I tested this morning with the appropriate flags, so I'm pretty",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you, do let me know if there are any further issues with buyers on this store. I tested this morning with the appropriate flags, so I'm pretty",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Ramses.",
+          "channel": "shop-engineering",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "payments-foundations-monitoring",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "Ah my mistake!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> thank you friend",
+          "channel": "shop-pay-installments-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for your effort handing this off to me! It's truly been a pleasure.",
+          "channel": "proj-spi-uk-checkout-holdout-exp",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hey folks, <@U0350BXN7L6> <@W01830W912B> and I have been seemingly working in the same areas related to affirm initiated refunds and reconciliation",
+          "channel": "shop-pay-installments-dev",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Morning Jeff! \n\nWe've determined that there was an issue processing that particular fee -- just let the merchant know they can ignore it. \n\nLet me",
+          "channel": "shop-pay-installments-dev",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> ci issue: engines/installments/test/models/installments/events/affirm_event_test.rb:208:9: W: [Correctable] Lint/UselessAssignment:",
+          "channel": "shop-pay-installments-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "Agreed from the merchant perspective. Is your team looking to set up some monitoring to ensure the problem _was_ actually solved?\nI'm just trying to",
+          "channel": "shared-shopify-affirm-stripe-international",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "andrew.ling",
+          "count": 16
+        },
+        {
+          "user": "kyle.kivimaki",
+          "count": 10
+        },
+        {
+          "user": "derek.chau",
+          "count": 10
+        },
+        {
+          "user": "stefano.pace",
+          "count": 9
+        },
+        {
+          "user": "katrina.bautista",
+          "count": 8
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 7
+        },
+        {
+          "user": "ron.danino",
+          "count": 6
+        },
+        {
+          "user": "jamie.ly",
+          "count": 5
+        },
+        {
+          "user": "layne.koftinowmikan",
+          "count": 5
+        },
+        {
+          "user": "chris.bacon",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 413,
+      "top_channels": [
+        {
+          "channel": "shop-pay-installments-dev",
+          "messages": 320
+        },
+        {
+          "channel": "shop-pay-installments-river",
+          "messages": 122
+        },
+        {
+          "channel": "proj-spi-uk-checkout-holdout-exp",
+          "messages": 72
+        },
+        {
+          "channel": "shop-wallet-dev",
+          "messages": 67
+        },
+        {
+          "channel": "shared-shopify-affirm-stripe-international",
+          "messages": 67
+        },
+        {
+          "channel": "inv-20246-missing-spi-transaction-fees",
+          "messages": 41
+        },
+        {
+          "channel": "shop-pay-installments-alerts",
+          "messages": 38
+        },
+        {
+          "channel": "help-theme-platform",
+          "messages": 31
+        },
+        {
+          "channel": "shop-engineering",
+          "messages": 21
+        },
+        {
+          "channel": "help-observability",
+          "messages": 20
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 107,
+      "top_mentioners": [
+        {
+          "user": "katrina.bautista",
+          "count": 26
+        },
+        {
+          "user": "stefano.pace",
+          "count": 11
+        },
+        {
+          "user": "brittany.a.moore",
+          "count": 11
+        },
+        {
+          "user": "derek.chau",
+          "count": 7
+        },
+        {
+          "user": "nathan.ferguson",
+          "count": 7
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 5
+        },
+        {
+          "user": "eunice.ng",
+          "count": 5
+        },
+        {
+          "user": "andrew.ling",
+          "count": 4
+        },
+        {
+          "user": "daniel.flood",
+          "count": 2
+        },
+        {
+          "user": "mercedes.heras",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 75,
+      "16": 81,
+      "15": 122,
+      "14": 121,
+      "13": 103,
+      "3": 1,
+      "22": 22,
+      "21": 60,
+      "20": 128,
+      "19": 87,
+      "17": 75,
+      "23": 23,
+      "1": 1,
+      "0": 2,
+      "12": 2,
+      "2": 1
+    },
+    "by_day": {
+      "Wednesday": 187,
+      "Tuesday": 322,
+      "Monday": 202,
+      "Friday": 44,
+      "Thursday": 149
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.62,
+    "dept_average_30d": 4.74,
+    "dept_rank": 78,
+    "dept_size": 1663
+  }
+}

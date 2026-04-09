@@ -1,0 +1,237 @@
+{
+  "username": "mehryar.maalem",
+  "name": "Mehryar Maalem",
+  "generated_at": "2026-04-08T20:22:07.583227",
+  "summary": {
+    "message_count": 369,
+    "channels_active": 31,
+    "unique_people_mentioned": 30,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "streaming-compute-team",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "like actually well done",
+          "channel": "gsd-49488-flink-infrastructure-upgrade",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "props to",
+          "text": ":robot-4: :feelssogood: tho props to :robot-4:",
+          "channel": "help-streaming-platform",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "kk just ping me here when you want me to take a look",
+          "channel": "proj-infra-flink-mcp-debug",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Nice, I suggest we consider starting fresh with defining a formula for the combinatorial thing. Kind of what you are doing up here :point_up:\n\nI,",
+          "channel": "proj-infra-kafka-compliance-topology",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I know a whole bunch of people might do a :table_flip:...cause it has been asked before/argued for.....but like......Can't we just have a router and",
+          "channel": "streaming-platform-discuss",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "filipe.deo",
+          "count": 6
+        },
+        {
+          "user": "joirdan.gumbs",
+          "count": 4
+        },
+        {
+          "user": "jerick.liu",
+          "count": 4
+        },
+        {
+          "user": "rich.chen",
+          "count": 4
+        },
+        {
+          "user": "darren.li",
+          "count": 4
+        },
+        {
+          "user": "erik.wright",
+          "count": 4
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 3
+        },
+        {
+          "user": "james.kan",
+          "count": 3
+        },
+        {
+          "user": "luca.castelli",
+          "count": 3
+        },
+        {
+          "user": "rosa.seohwakang",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.2,
+      "count": 248,
+      "top_channels": [
+        {
+          "channel": "streaming-foundations-alerts",
+          "messages": 93
+        },
+        {
+          "channel": "streaming-foundations-team",
+          "messages": 81
+        },
+        {
+          "channel": "help-streaming-platform",
+          "messages": 40
+        },
+        {
+          "channel": "streaming-compute-team",
+          "messages": 26
+        },
+        {
+          "channel": "gsd-49488-flink-infrastructure-upgrade",
+          "messages": 24
+        },
+        {
+          "channel": "proj-infra-flink-mcp-debug",
+          "messages": 19
+        },
+        {
+          "channel": "proj-infra-kafka-fleet-overhaul",
+          "messages": 12
+        },
+        {
+          "channel": "flink-iceberg-connector-spike",
+          "messages": 12
+        },
+        {
+          "channel": "proj-enhance-flinksql-toolkit",
+          "messages": 6
+        },
+        {
+          "channel": "gsd-48923-flink-bq-connector",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.58,
+      "count": 68,
+      "top_mentioners": [
+        {
+          "user": "filipe.deo",
+          "count": 14
+        },
+        {
+          "user": "ryan.vanhuuksloot",
+          "count": 8
+        },
+        {
+          "user": "daniel.cole",
+          "count": 4
+        },
+        {
+          "user": "farooq.qaiser",
+          "count": 4
+        },
+        {
+          "user": "santhia.muthusamy",
+          "count": 3
+        },
+        {
+          "user": "andrew.droll",
+          "count": 3
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        },
+        {
+          "user": "frank.jania",
+          "count": 2
+        },
+        {
+          "user": "paco.viramontes",
+          "count": 2
+        },
+        {
+          "user": "jerick.liu",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 39,
+      "17": 59,
+      "15": 25,
+      "14": 35,
+      "13": 21,
+      "21": 26,
+      "16": 42,
+      "20": 34,
+      "19": 27,
+      "23": 8,
+      "22": 32,
+      "0": 3,
+      "12": 15,
+      "1": 1,
+      "2": 2
+    },
+    "by_day": {
+      "Wednesday": 98,
+      "Tuesday": 73,
+      "Monday": 53,
+      "Thursday": 100,
+      "Friday": 45
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.58,
+    "dept_average_30d": 5.75,
+    "dept_rank": 187,
+    "dept_size": 357
+  }
+}

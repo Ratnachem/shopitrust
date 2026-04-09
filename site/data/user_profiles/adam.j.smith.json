@@ -1,0 +1,123 @@
+{
+  "username": "adam.j.smith",
+  "name": "Adam J Smith",
+  "generated_at": "2026-04-08T20:22:25.778911",
+  "summary": {
+    "message_count": 23,
+    "channels_active": 10,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 2,
+    "days_in_window": 15,
+    "days_scale": 0.65
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Jolene",
+          "channel": "help-retail-fiscal-compliance",
+          "timestamp": "2026-04-08"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.7,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 263,
+      "top_channels": [
+        {
+          "channel": "help-retail-fiscal-compliance",
+          "messages": 7
+        },
+        {
+          "channel": "proj-cash-rounding-on-pos",
+          "messages": 3
+        },
+        {
+          "channel": "help-retail-payments",
+          "messages": 2
+        },
+        {
+          "channel": "retail-payments",
+          "messages": 2
+        },
+        {
+          "channel": "rsi-river-testing",
+          "messages": 2
+        },
+        {
+          "channel": "proj-pos-returns-in-cart",
+          "messages": 2
+        },
+        {
+          "channel": "proj-migrate-pos-settings-to-cloudsync",
+          "messages": 2
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 1
+        },
+        {
+          "channel": "retail-mx-orders",
+          "messages": 1
+        },
+        {
+          "channel": "inventory-penguins",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.96,
+      "count": 3,
+      "top_mentioners": [
+        {
+          "user": "carolina.darski",
+          "count": 2
+        },
+        {
+          "user": "kenneth.poling",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "5": 1,
+      "15": 2,
+      "19": 4,
+      "14": 2,
+      "0": 2,
+      "22": 3,
+      "17": 2,
+      "16": 2,
+      "21": 3,
+      "1": 1,
+      "18": 1
+    },
+    "by_day": {
+      "Wednesday": 8,
+      "Tuesday": 8,
+      "Friday": 1,
+      "Thursday": 6
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.15,
+    "dept_average_30d": 4.74,
+    "dept_rank": 471,
+    "dept_size": 1663
+  }
+}

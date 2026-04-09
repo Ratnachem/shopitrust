@@ -1,0 +1,251 @@
+{
+  "username": "dan.robinson",
+  "name": "Dan Robinson",
+  "generated_at": "2026-04-08T20:22:06.440637",
+  "summary": {
+    "message_count": 560,
+    "channels_active": 33,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.4,
+      "pos_count": 4,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "maybe <@U042R0RAFPC> <@U09CZ7L80FL> <@U07DP1T1PKR> ?\n\nNot sure what everyone\u2019s priorities are - so feel free to push back.",
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-customer-accounts-yugabyte",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Sick - that would be amazing :thank:",
+          "channel": "proj-core-ci-stability",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah thank you - why that\u2019s under a line titled \u201c0 failures\u201d is very weird:",
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "timestamp": "2026-04-06"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "And unlikely to be impacted by whatever redis/memcache fix core lands on",
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Interesting - so something is up with that first fetch. I\u2019ll see if ae can figure it out :inception:",
+          "channel": "agentic-engineering",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "And by pods I mean whatever stages shop-js has..",
+          "channel": "inv-20514-shopshop-identitye2e-e2e-build-is-failing",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Pi seems to think you can do `tec tools fetch --activate` to manually refetch. But I just asked pi to figure it out and it did \u201csomething\u201d that I",
+          "channel": "tmp-agent-tools",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "andrew.cottage",
+          "count": 6
+        },
+        {
+          "user": "shawn.leekwong",
+          "count": 4
+        },
+        {
+          "user": "adriel.arsenault",
+          "count": 4
+        },
+        {
+          "user": "tobias.bales",
+          "count": 4
+        },
+        {
+          "user": "hao.li",
+          "count": 4
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "mark.yoon",
+          "count": 3
+        },
+        {
+          "user": "bastian.schon",
+          "count": 3
+        },
+        {
+          "user": "mathieu.lagace",
+          "count": 3
+        },
+        {
+          "user": "philip.bonham",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.6,
+      "count": 322,
+      "top_channels": [
+        {
+          "channel": "inv-20977-a-lot-of-flaky-tests-reported-for-custome",
+          "messages": 145
+        },
+        {
+          "channel": "agentic-engineering",
+          "messages": 113
+        },
+        {
+          "channel": "customer-account-and-login-ops",
+          "messages": 59
+        },
+        {
+          "channel": "inv-20369-capability-token-generate-duration---p99-",
+          "messages": 31
+        },
+        {
+          "channel": "proj-customer-accounts-yugabyte",
+          "messages": 29
+        },
+        {
+          "channel": "help-customer-account-and-login",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20668-sfr-to-shop-app-loses-nca-customer-sessio",
+          "messages": 21
+        },
+        {
+          "channel": "inv-20580-several-ssoredirects-attempts-on-storefro",
+          "messages": 21
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 18
+        },
+        {
+          "channel": "customer-account-and-login-river",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.4,
+      "count": 47,
+      "top_mentioners": [
+        {
+          "user": "tobias.bales",
+          "count": 5
+        },
+        {
+          "user": "romain.gallais",
+          "count": 4
+        },
+        {
+          "user": "shawn.leekwong",
+          "count": 3
+        },
+        {
+          "user": "bastian.schon",
+          "count": 3
+        },
+        {
+          "user": "robbie.khaddaj",
+          "count": 3
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 2
+        },
+        {
+          "user": "adriel.arsenault",
+          "count": 2
+        },
+        {
+          "user": "artemisa.hernandez",
+          "count": 2
+        },
+        {
+          "user": "robert.mic",
+          "count": 2
+        },
+        {
+          "user": "rafi.jacoby",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 78,
+      "17": 65,
+      "16": 79,
+      "15": 45,
+      "13": 42,
+      "12": 39,
+      "11": 3,
+      "3": 1,
+      "19": 40,
+      "14": 44,
+      "23": 1,
+      "21": 23,
+      "20": 80,
+      "22": 19,
+      "5": 1
+    },
+    "by_day": {
+      "Wednesday": 105,
+      "Tuesday": 190,
+      "Monday": 121,
+      "Thursday": 114,
+      "Friday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.59,
+    "dept_average_30d": 5.79,
+    "dept_rank": 154,
+    "dept_size": 1233
+  }
+}

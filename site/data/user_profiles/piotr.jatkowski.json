@@ -1,0 +1,228 @@
+{
+  "username": "piotr.jatkowski",
+  "name": "Piotr Jatkowski",
+  "generated_at": "2026-04-08T20:22:21.071076",
+  "summary": {
+    "message_count": 511,
+    "channels_active": 13,
+    "unique_people_mentioned": 21,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "Thanks to coalescing these all ended up in the bot category but just saying that the DDoS model wasn't \"perfect\"",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you need any help with the model validation/analysis!",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Maybe this is a valid approach. It's just my first instinct was that there must be some CLI already for this but maybe I was wrong :smile:",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I already have one but thanks! :blob-heart:",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":fyi: I'm working now on porting some of the sources header builder logic from Ruby to the Rust library.\nThis should get us closer to the full parity",
+          "channel": "proj-ddos-protection",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "lance.lafontaine",
+          "count": 12
+        },
+        {
+          "user": "scott.mcneil",
+          "count": 9
+        },
+        {
+          "user": "josh.teeter",
+          "count": 7
+        },
+        {
+          "user": "vincent.zwanenburg",
+          "count": 4
+        },
+        {
+          "user": "marco.araujo",
+          "count": 4
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 3
+        },
+        {
+          "user": "jason.godson",
+          "count": 3
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 2
+        },
+        {
+          "user": "mingding.han",
+          "count": 2
+        },
+        {
+          "user": "lin.zhao",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.93,
+      "count": 181,
+      "top_channels": [
+        {
+          "channel": "proj-ddos-protection",
+          "messages": 231
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 113
+        },
+        {
+          "channel": "tmp-unified-human-and-bot-signal-operations",
+          "messages": 54
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 43
+        },
+        {
+          "channel": "proj-human-detection-in-envoy",
+          "messages": 29
+        },
+        {
+          "channel": "proj-bot-classification-in-envoy",
+          "messages": 19
+        },
+        {
+          "channel": "edge-infrastructure-operations",
+          "messages": 14
+        },
+        {
+          "channel": "proj-edge-stapled-sessions",
+          "messages": 2
+        },
+        {
+          "channel": "proj-self-hosted-envoy",
+          "messages": 2
+        },
+        {
+          "channel": "inc-21092-flashsales-elevated-checkouts-errors-on-f",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 46,
+      "top_mentioners": [
+        {
+          "user": "marcandre.cournoyer",
+          "count": 13
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 7
+        },
+        {
+          "user": "scott.mcneil",
+          "count": 7
+        },
+        {
+          "user": "sneha.shah",
+          "count": 3
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 2
+        },
+        {
+          "user": "caroline",
+          "count": 2
+        },
+        {
+          "user": "mingding.han",
+          "count": 1
+        },
+        {
+          "user": "bill.bean",
+          "count": 1
+        },
+        {
+          "user": "kazuki.higashiguchi",
+          "count": 1
+        },
+        {
+          "user": "vinicius.rocha",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 29,
+      "15": 89,
+      "13": 131,
+      "12": 48,
+      "7": 34,
+      "11": 14,
+      "14": 68,
+      "10": 6,
+      "8": 46,
+      "18": 27,
+      "9": 11,
+      "17": 3,
+      "20": 3,
+      "19": 2
+    },
+    "by_day": {
+      "Wednesday": 105,
+      "Tuesday": 97,
+      "Friday": 85,
+      "Thursday": 116,
+      "Monday": 108
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.89,
+    "dept_average_30d": 5.79,
+    "dept_rank": 512,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "username": "keith.thompson",
+  "name": "Keith Thompson",
+  "generated_at": "2026-04-08T20:22:05.995080",
+  "summary": {
+    "message_count": 377,
+    "channels_active": 13,
+    "unique_people_mentioned": 10,
+    "unique_mentioners": 25,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hmmm.... not sure. Do you want me to look into it?",
+          "channel": "vault-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I removed them because we used to not get events for these (which was old intel). Sorry about that, approved.",
+          "channel": "help-vault",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "Oh you had me so excited for a second :joy: ",
+          "channel": "vault-team",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey :wave: I'm the one spearheading the u2 migration effort. Hitting some snags pretty early on with the migration tracker automation. I think it",
+          "channel": "towards-the-monorepo",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Ah this is what I'm getting from the recently deployed pod 35.227.116.157. The pod IP for that pod is another 241 (sorry about that)",
+          "channel": "help-security",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "If these need to manually added to an allowlist are we in danger of this happening any time our app gets moved to a different cluster? Do you want me",
+          "channel": "help-security",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Put this in your dev.yml and let me know if it works for you (should just output a warning)",
+          "channel": "vault-team",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to remove it from dev.yml for the time being",
+          "channel": "vault-team",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hmmm. There were definitely some changes to the pi API because my zellij pane extension broke while I was gone with an undefined method error after a",
+          "channel": "vault-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "We've brought it up with github directly because I can't figure it out. Here's where my investigation into our workflow reading from issues has taken",
+          "channel": "vault-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "like i said",
+          "text": "You set the scopes (it comes with a global one, but you can customize, `fast`, `standard`, and `deep`) It does some basic heuristic checking to",
+          "channel": "vault-team",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "josh.arnold",
+          "count": 3
+        },
+        {
+          "user": "jake.hendrick",
+          "count": 2
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 1
+        },
+        {
+          "user": "katia.leroux",
+          "count": 1
+        },
+        {
+          "user": "swati.swoboda",
+          "count": 1
+        },
+        {
+          "user": "jess.clark",
+          "count": 1
+        },
+        {
+          "user": "levon.cross",
+          "count": 1
+        },
+        {
+          "user": "graham.cooper",
+          "count": 1
+        },
+        {
+          "user": "shameel.abdullah",
+          "count": 1
+        },
+        {
+          "user": "cammi.payne",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.47,
+      "count": 118,
+      "top_channels": [
+        {
+          "channel": "vault-team",
+          "messages": 239
+        },
+        {
+          "channel": "help-vault",
+          "messages": 55
+        },
+        {
+          "channel": "vault-bots",
+          "messages": 34
+        },
+        {
+          "channel": "help-security",
+          "messages": 14
+        },
+        {
+          "channel": "vault-api-warp",
+          "messages": 10
+        },
+        {
+          "channel": "towards-the-monorepo",
+          "messages": 6
+        },
+        {
+          "channel": "shared-shopify-github-projects-feedback",
+          "messages": 5
+        },
+        {
+          "channel": "tmp-bo-logistics-monorepo-migration",
+          "messages": 4
+        },
+        {
+          "channel": "fort-wayne-shopifolk",
+          "messages": 3
+        },
+        {
+          "channel": "help-crm",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.69,
+      "count": 69,
+      "top_mentioners": [
+        {
+          "user": "swati.swoboda",
+          "count": 16
+        },
+        {
+          "user": "zach.reynochiasson",
+          "count": 12
+        },
+        {
+          "user": "josh.arnold",
+          "count": 4
+        },
+        {
+          "user": "jake.hendrick",
+          "count": 3
+        },
+        {
+          "user": "surya.dutta",
+          "count": 3
+        },
+        {
+          "user": "pablo.marti",
+          "count": 3
+        },
+        {
+          "user": "sydney.rhude",
+          "count": 2
+        },
+        {
+          "user": "sarah.lindsay",
+          "count": 2
+        },
+        {
+          "user": "ziyad.abdelmaguid",
+          "count": 2
+        },
+        {
+          "user": "azmatdaud.yuhanna",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 61,
+      "17": 50,
+      "16": 15,
+      "15": 53,
+      "14": 88,
+      "12": 27,
+      "19": 35,
+      "13": 21,
+      "10": 1,
+      "1": 4,
+      "20": 11,
+      "11": 1,
+      "21": 2,
+      "23": 4,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 96,
+      "Tuesday": 94,
+      "Monday": 25,
+      "Friday": 73,
+      "Thursday": 89
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 6.12,
+    "dept_average_30d": 4.56,
+    "dept_rank": 6,
+    "dept_size": 74
+  }
+}

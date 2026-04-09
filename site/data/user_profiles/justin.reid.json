@@ -1,0 +1,331 @@
+{
+  "username": "justin.reid",
+  "name": "Justin Reid",
+  "generated_at": "2026-04-08T20:22:19.941332",
+  "summary": {
+    "message_count": 2128,
+    "channels_active": 94,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 88,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.5,
+      "pos_count": 23,
+      "neg_count": 9,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "inv-21038-offsite-backup-taking-up-all-hyperdisk-io",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "sfr-incident-announce",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Ah good point. I ran a fresh rebuild on this one so it would do a fresh bundle install:",
+          "channel": "si-2496-remediation",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "If at any point we want to try this end to end including an image into google artifact registry that we could deploy with, let me know. I\u2019m happy to",
+          "channel": "proj-instant-dev-envs",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "team-cloud-systems",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I see, ok thanks!",
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ok, thanks!",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "by removing the cgroup limit, we\u2019re just letting the kernel deal with it",
+          "channel": "inv-20971-investigate-sfr-ooms",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Ok, push whatever it does and I can take a look",
+          "channel": "proj-netpol-infra-repo",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever we choose, I\u2019ll roll them out via new cluster commissions and a shitlist",
+          "channel": "proj-netpol-infra-repo",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "the issue is that the autoscaler will level things out to 0.38 util or whatever and a large region like us-east1, a single cluster going away in 10",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "restart/reboot/refresh whatever",
+          "channel": "inc-20367-combined-product-listings-showing-as-sold",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "So whatever is in GCS is kept in sync",
+          "channel": "proj-exp-data-plane",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "SFR has some of these concepts already with the manifest fetcher or whatever it is called",
+          "channel": "proj-verdict-performance",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Also, there has only been one crash in the last 24h",
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Could do that. The check in Cloudflare/nginx is just checking for warp egress IPs so we'd add whatever static egress IPs River used. ",
+          "channel": "river",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 39,
+      "top_mentioned": [
+        {
+          "user": "samuel.williams",
+          "count": 7
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 4
+        },
+        {
+          "user": "darren.foo",
+          "count": 4
+        },
+        {
+          "user": "filipe.deo",
+          "count": 4
+        },
+        {
+          "user": "christian.bruckmayer",
+          "count": 3
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 3
+        },
+        {
+          "user": "nataly.sheinin",
+          "count": 2
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 2
+        },
+        {
+          "user": "nikita.acharya",
+          "count": 2
+        },
+        {
+          "user": "ian.kerseymer",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 752,
+      "top_channels": [
+        {
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "messages": 145
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 126
+        },
+        {
+          "channel": "inv-20971-investigate-sfr-ooms",
+          "messages": 123
+        },
+        {
+          "channel": "sfr-internal-grpc-prototype",
+          "messages": 108
+        },
+        {
+          "channel": "inv-20813-low-prio-sfr-sustained-bot-pressure",
+          "messages": 103
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 95
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 80
+        },
+        {
+          "channel": "inc-20405-sfr-503s-due-to-dying-workers",
+          "messages": 61
+        },
+        {
+          "channel": "inc-20062-docker-error-on-default-branch-for-core",
+          "messages": 59
+        },
+        {
+          "channel": "help-core-applications",
+          "messages": 57
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 180,
+      "top_mentioners": [
+        {
+          "user": "mattie.toia",
+          "count": 8
+        },
+        {
+          "user": "maxime.ginters",
+          "count": 7
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 7
+        },
+        {
+          "user": "jie.sun",
+          "count": 7
+        },
+        {
+          "user": "samuel.williams",
+          "count": 7
+        },
+        {
+          "user": "louis.munro",
+          "count": 6
+        },
+        {
+          "user": "elvin.efendiev",
+          "count": 6
+        },
+        {
+          "user": "bing.li",
+          "count": 5
+        },
+        {
+          "user": "chase.platon",
+          "count": 5
+        },
+        {
+          "user": "navied.shoushtarian",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 119,
+      "14": 287,
+      "21": 223,
+      "20": 265,
+      "19": 255,
+      "17": 155,
+      "13": 131,
+      "12": 47,
+      "23": 39,
+      "22": 88,
+      "18": 146,
+      "15": 202,
+      "2": 38,
+      "1": 22,
+      "0": 54,
+      "11": 27,
+      "3": 19,
+      "4": 11
+    },
+    "by_day": {
+      "Wednesday": 603,
+      "Tuesday": 453,
+      "Monday": 390,
+      "Friday": 316,
+      "Thursday": 366
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.9,
+    "dept_average_30d": 5.58,
+    "dept_rank": 18,
+    "dept_size": 398
+  }
+}

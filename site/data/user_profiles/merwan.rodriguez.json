@@ -1,0 +1,272 @@
+{
+  "username": "merwan.rodriguez",
+  "name": "Merwan Rodriguez",
+  "generated_at": "2026-04-08T20:22:06.812657",
+  "summary": {
+    "message_count": 552,
+    "channels_active": 30,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 45,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you thank you! I believe I'll have to do another PR to use these updated  modules in shopify/terraform-the-cloud as the final step.",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "next up I will try to do <http://shopify.engineering|shopify.engineering> (after my heart-rate settles down....) which should go more smoothly now",
+          "channel": "inv-20776-brochure-errors",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey folks, just wanted to drop an update here about <http://www.tinker.com|www.tinker.com> (the brochure page). Things are looking good from my",
+          "channel": "proj-tinker-page-build",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Hey folks, just wanted to drop an update here about <http://www.tinker.com|www.tinker.com> (the brochure page). Things are looking good from my",
+          "channel": "proj-tinker-page-build",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for the updates guys. We were pumped to possibly getting this backported to rr7, but understand the challenge there. Still, looking forward",
+          "channel": "remix",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "The deployment just finished a couple minutes ago. Let me know if anything looks off please.",
+          "channel": "help-shopify-websites",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'll try to deploy our worker again today.",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Definitely! Happy to help with this. I know this is an important piece we want to implement. ",
+          "channel": "proj-plan-grid-intl-value-props",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "You can definitely store stuff in `localStorage` today. In fact we store it in the `v:a:3` cookie today which is effectively the same. I don't think",
+          "channel": "proj-bandit-slots",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.86,
+      "count": 28,
+      "top_mentioned": [
+        {
+          "user": "adi.matheswaran",
+          "count": 7
+        },
+        {
+          "user": "eric.painchaud",
+          "count": 5
+        },
+        {
+          "user": "pascal.deladurantaye",
+          "count": 3
+        },
+        {
+          "user": "sam.ugbechie",
+          "count": 3
+        },
+        {
+          "user": "sean.hudson",
+          "count": 2
+        },
+        {
+          "user": "stuart.trann",
+          "count": 2
+        },
+        {
+          "user": "myles.young",
+          "count": 2
+        },
+        {
+          "user": "casey.rockwell",
+          "count": 2
+        },
+        {
+          "user": "durga.sivakumar",
+          "count": 1
+        },
+        {
+          "user": "lin.zhao",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.58,
+      "count": 321,
+      "top_channels": [
+        {
+          "channel": "help-shopify-websites",
+          "messages": 74
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 60
+        },
+        {
+          "channel": "proj-unified-bot-signal-brochure",
+          "messages": 49
+        },
+        {
+          "channel": "merwan-river",
+          "messages": 48
+        },
+        {
+          "channel": "brochure-river",
+          "messages": 46
+        },
+        {
+          "channel": "proj-brochure-workspace-packages",
+          "messages": 36
+        },
+        {
+          "channel": "brochure-contributors",
+          "messages": 34
+        },
+        {
+          "channel": "website-platform-oncall",
+          "messages": 30
+        },
+        {
+          "channel": "proj-plan-grid-intl-value-props",
+          "messages": 28
+        },
+        {
+          "channel": "inv-20776-brochure-errors",
+          "messages": 23
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 113,
+      "top_mentioners": [
+        {
+          "user": "brian.berzellini",
+          "count": 14
+        },
+        {
+          "user": "eric.painchaud",
+          "count": 7
+        },
+        {
+          "user": "stuart.trann",
+          "count": 7
+        },
+        {
+          "user": "conor.carey",
+          "count": 7
+        },
+        {
+          "user": "connor.jones",
+          "count": 6
+        },
+        {
+          "user": "sam.ugbechie",
+          "count": 6
+        },
+        {
+          "user": "adi.matheswaran",
+          "count": 5
+        },
+        {
+          "user": "vineet.kumar",
+          "count": 4
+        },
+        {
+          "user": "kyle.luck",
+          "count": 4
+        },
+        {
+          "user": "nicole.proulx",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 76,
+      "17": 76,
+      "16": 119,
+      "20": 33,
+      "19": 32,
+      "21": 40,
+      "15": 4,
+      "4": 23,
+      "22": 45,
+      "0": 43,
+      "23": 34,
+      "1": 3,
+      "2": 13,
+      "3": 8,
+      "5": 3
+    },
+    "by_day": {
+      "Wednesday": 115,
+      "Tuesday": 174,
+      "Monday": 84,
+      "Friday": 100,
+      "Thursday": 79
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.93,
+    "dept_average_30d": 5.58,
+    "dept_rank": 16,
+    "dept_size": 398
+  }
+}

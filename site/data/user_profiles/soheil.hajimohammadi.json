@@ -1,0 +1,280 @@
+{
+  "username": "soheil.hajimohammadi",
+  "name": "Soheil Hajimohammadi",
+  "generated_at": "2026-04-08T20:22:13.048155",
+  "summary": {
+    "message_count": 302,
+    "channels_active": 12,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.5,
+      "pos_count": 13,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "this is some high level break down I came up with:",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":point_up_2:<@U03AW1MEFKQ> / <@W018B16R4GN> / <@U02EVFS2MML> please let me know if you are good with this",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "help-exp",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Created the smart sending experiment on EXP: <https://experiments.shopify.io/experiments/e_smart_sending_ml_model>\nWhat's set up:\n\u2022 Handle:",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey team!  Hoping this is the right place to ask about extending binks' code review context. Let me know if  should ask somewhere else.\nI built a",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U02CZGE01V0> / <@W018PTK1D28> feel free to update and add anything if there are any blockers\n\nWhat would help speed things up:\n\u2022 Availability for",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W018PTK1D28>, we aligned on the schema. You're good to start:\n\u2022 Topic name: `smart_sending_scores`\n\u2022 Fields (protobuf):\n    \u25e6 `customer_id`",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Perfect, thank you let me know if you needed anything on our side",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you let me know if you needed anything on our side",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "yep, the field name doesn't matter on our end ; whatever aligns with the other teams works. thanks for pushing this forward",
+          "channel": "proj-smart-multichannel-messaging",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Thanks Habib, So to be safe at campaign scale we need to:\n1. Override storage in SmartSendingExperiment: `storage Verdict::Storage::None` (or",
+          "channel": "help-exp",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 41,
+      "top_mentioned": [
+        {
+          "user": "dion.banno",
+          "count": 43
+        },
+        {
+          "user": "thomas.sieczkowski",
+          "count": 25
+        },
+        {
+          "user": "ash.charles",
+          "count": 22
+        },
+        {
+          "user": "morgan.aubert",
+          "count": 17
+        },
+        {
+          "user": "lexin.lian",
+          "count": 15
+        },
+        {
+          "user": "thomas.rahn",
+          "count": 12
+        },
+        {
+          "user": "sonali.mayer",
+          "count": 10
+        },
+        {
+          "user": "clare.curtis",
+          "count": 9
+        },
+        {
+          "user": "taha.sheikh",
+          "count": 6
+        },
+        {
+          "user": "hussein.hegazy",
+          "count": 5
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.48,
+      "count": 210,
+      "top_channels": [
+        {
+          "channel": "proj-smart-multichannel-messaging",
+          "messages": 216
+        },
+        {
+          "channel": "mm-proj-customersignalbased-decisionmodel",
+          "messages": 18
+        },
+        {
+          "channel": "developers-talk",
+          "messages": 16
+        },
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 11
+        },
+        {
+          "channel": "help-customers",
+          "messages": 10
+        },
+        {
+          "channel": "help-exp",
+          "messages": 8
+        },
+        {
+          "channel": "marketing-tools-email-ops",
+          "messages": 8
+        },
+        {
+          "channel": "help-shopify-messaging-app",
+          "messages": 5
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 4
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 75,
+      "top_mentioners": [
+        {
+          "user": "thomas.sieczkowski",
+          "count": 19
+        },
+        {
+          "user": "dion.banno",
+          "count": 17
+        },
+        {
+          "user": "lexin.lian",
+          "count": 12
+        },
+        {
+          "user": "clare.curtis",
+          "count": 4
+        },
+        {
+          "user": "sonali.mayer",
+          "count": 3
+        },
+        {
+          "user": "charlejourdano.planos",
+          "count": 3
+        },
+        {
+          "user": "hussein.hegazy",
+          "count": 2
+        },
+        {
+          "user": "morgan.aubert",
+          "count": 2
+        },
+        {
+          "user": "ambrose.mclaughlin",
+          "count": 2
+        },
+        {
+          "user": "taha.sheikh",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 34,
+      "1": 3,
+      "19": 28,
+      "17": 53,
+      "16": 48,
+      "0": 10,
+      "23": 23,
+      "22": 40,
+      "6": 3,
+      "4": 1,
+      "21": 36,
+      "20": 18,
+      "3": 2,
+      "2": 1,
+      "7": 1,
+      "15": 1
+    },
+    "by_day": {
+      "Wednesday": 57,
+      "Friday": 44,
+      "Thursday": 63,
+      "Tuesday": 57,
+      "Monday": 81
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.86,
+    "dept_average_30d": 4.74,
+    "dept_rank": 226,
+    "dept_size": 1663
+  }
+}

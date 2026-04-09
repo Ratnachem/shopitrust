@@ -1,0 +1,289 @@
+{
+  "username": "daniel.conlin",
+  "name": "Daniel Conlin",
+  "generated_at": "2026-04-08T20:22:21.882581",
+  "summary": {
+    "message_count": 493,
+    "channels_active": 24,
+    "unique_people_mentioned": 36,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 12,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Good to know, thanks!",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "I'm about to be out of calls soon, want me to tackle?",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":wave::skin-tone-2: hey <@W018HTJBU1H> let me know if you need anything else. I think Marc and May covered it all, but as a quick reresher, this is",
+          "channel": "kafka-access-controls",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Oh, you just want me to look closely at the changes. I thought you meant there was something I could break by reviewing the PR",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Okay, whats needed for the change you shared above? Anything I can help with? I want to get the offset PR shipped asap",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Anything specifically you want me to check <@U09SE2NCP8A>?",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AFLT276E5> incident is created, and with Claude support I put together a",
+          "channel": "analytics-team-data",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I was able to get the GlobalId change pushed through to reduce our future tech debt a bit. Thanks for the catch on that one",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! You wont be able to haha. Seems like a graphite issue. You can uncheck a box in the UI, but its local to the user.",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U09SE2NCP8A> hit an issue related to this we will need to figure it out. Looks like adding the emit back in, the state isn't being updated, and we",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Whatever you think is easier! I did it that way to make the BQ consumer easy, but if you want to remove it from flink output I believe it just",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "To be clear, option 2 does break the current version of the sessions streaming model we are developing. We are just still in the dev phase so its",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; After phase 2 (roughly end of April?), we should be able to start cutting over the DW `buyer_events_sessions` to be a direct Flink output\n:nod2:",
+          "channel": "prj-session-pipeline-er",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 40,
+      "top_mentioned": [
+        {
+          "user": "siqi.fang",
+          "count": 34
+        },
+        {
+          "user": "corey.howard",
+          "count": 17
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 8
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 8
+        },
+        {
+          "user": "nick.presta",
+          "count": 8
+        },
+        {
+          "user": "jesse.tao",
+          "count": 7
+        },
+        {
+          "user": "leo.godin",
+          "count": 5
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 3
+        },
+        {
+          "user": "lena.wallheimer",
+          "count": 3
+        },
+        {
+          "user": "tristan.boudreault",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.63,
+      "count": 271,
+      "top_channels": [
+        {
+          "channel": "prj-session-pipeline-er",
+          "messages": 351
+        },
+        {
+          "channel": "inv-20576-title-unverified-returns-misidentified-as",
+          "messages": 25
+        },
+        {
+          "channel": "inc-15385-cep-data-loss-caused-by-kafka-issues",
+          "messages": 15
+        },
+        {
+          "channel": "kafka-access-controls",
+          "messages": 13
+        },
+        {
+          "channel": "analytics-team-data",
+          "messages": 11
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 8
+        },
+        {
+          "channel": "tectonix",
+          "messages": 8
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 6
+        },
+        {
+          "channel": "inc-20576-title-unverified-returns-misidentified-as",
+          "messages": 6
+        },
+        {
+          "channel": "analytics-team-for-atc-collaboration",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 154,
+      "top_mentioners": [
+        {
+          "user": "siqi.fang",
+          "count": 60
+        },
+        {
+          "user": "lena.wallheimer",
+          "count": 36
+        },
+        {
+          "user": "ryan.self",
+          "count": 11
+        },
+        {
+          "user": "may.aboalrejal",
+          "count": 7
+        },
+        {
+          "user": "nick.presta",
+          "count": 6
+        },
+        {
+          "user": "nicole.bailey",
+          "count": 5
+        },
+        {
+          "user": "kelsey.arendt",
+          "count": 5
+        },
+        {
+          "user": "day.levesque",
+          "count": 3
+        },
+        {
+          "user": "andrew.droll",
+          "count": 3
+        },
+        {
+          "user": "joseph.kahn",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 86,
+      "21": 30,
+      "20": 79,
+      "16": 86,
+      "14": 40,
+      "18": 55,
+      "17": 61,
+      "19": 48,
+      "22": 5,
+      "23": 2,
+      "1": 1
+    },
+    "by_day": {
+      "Wednesday": 122,
+      "Tuesday": 101,
+      "Monday": 145,
+      "Friday": 51,
+      "Thursday": 74
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.16,
+    "dept_average_30d": 5.79,
+    "dept_rank": 341,
+    "dept_size": 1233
+  }
+}

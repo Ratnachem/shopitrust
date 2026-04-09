@@ -1,0 +1,120 @@
+{
+  "username": "zharick.mazuera",
+  "name": "Zharick Mazuera",
+  "generated_at": "2026-04-08T20:22:29.783299",
+  "summary": {
+    "message_count": 35,
+    "channels_active": 4,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 3,
+    "days_in_window": 15,
+    "days_scale": 0.65
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 2,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi! <@W018WA7KHGR> Thank you for the recommendation. This channel is private for me though",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Jeff :poke-high-five:",
+          "channel": "help-labels",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "As I mentioned, I wasn't really able to replicate on my end. I tried both the normal browser and browserstack but each time I got the correct",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 0.7,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "wilson.chiang",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-checkout",
+          "messages": 21
+        },
+        {
+          "channel": "help-labels",
+          "messages": 8
+        },
+        {
+          "channel": "help-milestones",
+          "messages": 4
+        },
+        {
+          "channel": "help-billing-platform",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.28,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "maggie.callaghan",
+          "count": 2
+        },
+        {
+          "user": "caroline.song",
+          "count": 1
+        },
+        {
+          "user": "jeff.kantarek",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "20": 7,
+      "17": 1,
+      "15": 1,
+      "21": 8,
+      "19": 13,
+      "18": 3,
+      "13": 2
+    },
+    "by_day": {
+      "Friday": 4,
+      "Thursday": 27,
+      "Wednesday": 2,
+      "Monday": 1,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.78,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1378,
+    "dept_size": 1663
+  }
+}

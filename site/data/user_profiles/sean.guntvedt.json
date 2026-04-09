@@ -1,0 +1,281 @@
+{
+  "username": "sean.guntvedt",
+  "name": "Sean Guntvedt",
+  "generated_at": "2026-04-08T20:22:13.895107",
+  "summary": {
+    "message_count": 529,
+    "channels_active": 12,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 14,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.2,
+      "pos_count": 19,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> you also had a great idea earlier where we dont really need to strictly look at the overlap window, if we want to give the new sha",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> go for it, feel free to do some exploratory work wit the underlying data if u need too",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "sharing progress so far this week\n\n\u2022 We observe a regression for a deploy and see that the pathway is through External IO time - 1st screenshot\n\u2022",
+          "channel": "liquid-vm-perf-data",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> sure feel free to dig through",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>  investigate why there is a decrease in domain subscriptions created pre-post March 5, 2026, this looks to disproportionately affect",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> i want a couple weeks but feel free to use `MOD(FARM_FINGERPRINT(user_session_id), 1000) = 0` or more, basically less samples is fine",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0AEPQCKB3M> for this Want me to proceed to Phase 3 \u2014 checking whether these cart/converting bots actually complete purchases? (I'd need to find a",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> tell me your plan before working, let's try to revamp this such that either i can provide the main function the new sha old sha window",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> hurry and feel free to start a new stream",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> let's just test the buyer region covariate in the same pipeline we were using before, run this analysis on the two shas to see what",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M>\nbtw i have 2 other deploys that would be intesting for u to see\n\nthis was a no op deploy - so whatever controls we make should be able",
+          "channel": "storefronts-ds-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I would say that the 6% degradation in P90 cache miss time `shopify_request_processing_time_ms in",
+          "channel": "liquid-vm-perf-data",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "paul.stubley",
+          "count": 6
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 5
+        },
+        {
+          "user": "youxin.li",
+          "count": 5
+        },
+        {
+          "user": "logan.martel",
+          "count": 4
+        },
+        {
+          "user": "philip.tolton",
+          "count": 2
+        },
+        {
+          "user": "fletcher.dares",
+          "count": 1
+        },
+        {
+          "user": "ratna.chembrolu",
+          "count": 1
+        },
+        {
+          "user": "spencer.lawrence",
+          "count": 1
+        },
+        {
+          "user": "cindy.zhu",
+          "count": 1
+        },
+        {
+          "user": "scott.mcneil",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.85,
+      "count": 128,
+      "top_channels": [
+        {
+          "channel": "storefronts-ds-river",
+          "messages": 367
+        },
+        {
+          "channel": "liquid-vm-perf-data",
+          "messages": 118
+        },
+        {
+          "channel": "help-online-store-data",
+          "messages": 11
+        },
+        {
+          "channel": "compacabana-river",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-xo-sf-data-context-homesite",
+          "messages": 6
+        },
+        {
+          "channel": "proj-ai-analytics",
+          "messages": 5
+        },
+        {
+          "channel": "proj-standardized-events",
+          "messages": 3
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 3
+        },
+        {
+          "channel": "proj-compiling-ruby-for-n2-n4-machines",
+          "messages": 2
+        },
+        {
+          "channel": "sf-xo-b2b-merch-data-platform",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.58,
+      "count": 68,
+      "top_mentioners": [
+        {
+          "user": "youxin.li",
+          "count": 28
+        },
+        {
+          "user": "andreas.heiberg",
+          "count": 11
+        },
+        {
+          "user": "logan.martel",
+          "count": 10
+        },
+        {
+          "user": "philip.tolton",
+          "count": 4
+        },
+        {
+          "user": "paul.stubley",
+          "count": 3
+        },
+        {
+          "user": "lucy.xiang",
+          "count": 2
+        },
+        {
+          "user": "eric.fung",
+          "count": 2
+        },
+        {
+          "user": "kunal.kohli",
+          "count": 2
+        },
+        {
+          "user": "spencer.lawrence",
+          "count": 1
+        },
+        {
+          "user": "lin.taylor",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 37,
+      "17": 58,
+      "16": 51,
+      "15": 30,
+      "23": 40,
+      "22": 43,
+      "21": 72,
+      "20": 55,
+      "19": 60,
+      "3": 5,
+      "0": 25,
+      "14": 1,
+      "4": 8,
+      "1": 27,
+      "5": 4,
+      "2": 12,
+      "6": 1
+    },
+    "by_day": {
+      "Wednesday": 79,
+      "Tuesday": 89,
+      "Monday": 106,
+      "Friday": 107,
+      "Thursday": 148
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.37,
+    "dept_average_30d": 5.79,
+    "dept_rank": 818,
+    "dept_size": 1233
+  }
+}

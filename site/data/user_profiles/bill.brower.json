@@ -1,0 +1,295 @@
+{
+  "username": "bill.brower",
+  "name": "Bill Brower",
+  "generated_at": "2026-04-08T20:22:18.604750",
+  "summary": {
+    "message_count": 1114,
+    "channels_active": 29,
+    "unique_people_mentioned": 38,
+    "unique_mentioners": 35,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 9.9,
+      "pos_count": 59,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I really appreciate you leaning in here",
+          "channel": "cx-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help! I just reviewed those two",
+          "channel": "help-cx-rnd",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "inc-20447-beacon-issues-and-help-center-search-issu",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Thanks and happy to help! Let us know if knowledge browser doesn't end up working out",
+          "channel": "help-cx-rnd",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "cx-tooling-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! My understanding is that Sidekick only validates params in dev and test so this shouldn't be causing issues in prod. I tested a few minutes",
+          "channel": "cx-tooling-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I'm curious if we could ever safely make this fire immediately (do we ever have a period with 0 requests?) but this is a lot better than what",
+          "channel": "inc-20447-beacon-issues-and-help-center-search-issu",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I just read through this and I think the recommendation for a new alert is reasonable. Can we make that and then link to it on this issue and",
+          "channel": "inc-20447-beacon-issues-and-help-center-search-issu",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Perfect, thank you for confirming!",
+          "channel": "help-cx-rnd",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think we could reuse <#C08QFFWQADS> and move whatever we deem low urgency into the service specific channels when we make notification policies for",
+          "channel": "cx-help-center-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think we should add the growth labs stuff back in and then escalate to whatever infra team owns this repo",
+          "channel": "help-infrasec",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "&gt; Any chance we could prioritize that to unblock the evals?\nAre we evaling on every collection? We know the ones that Solr uses are fine or else",
+          "channel": "proj-industry-standard-help-docs-search",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "friendly reminder",
+          "text": "Friendly reminder that it's ok to use AI and we don't need to strip things like `co-authored by Claude` from PR descriptions or commit",
+          "channel": "cx-tooling-team",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 43,
+      "top_mentioned": [
+        {
+          "user": "calvin.delima",
+          "count": 18
+        },
+        {
+          "user": "matthew.cox",
+          "count": 17
+        },
+        {
+          "user": "topher.bullock",
+          "count": 9
+        },
+        {
+          "user": "douglas.campos",
+          "count": 4
+        },
+        {
+          "user": "fedor.streltsov",
+          "count": 4
+        },
+        {
+          "user": "swastik.naik",
+          "count": 3
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 3
+        },
+        {
+          "user": "jordan.raitses",
+          "count": 2
+        },
+        {
+          "user": "greg.bernhardt",
+          "count": 2
+        },
+        {
+          "user": "tim.urian",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.99,
+      "count": 237,
+      "top_channels": [
+        {
+          "channel": "proj-industry-standard-help-docs-search",
+          "messages": 515
+        },
+        {
+          "channel": "inc-20447-beacon-issues-and-help-center-search-issu",
+          "messages": 110
+        },
+        {
+          "channel": "cx-oncalls",
+          "messages": 75
+        },
+        {
+          "channel": "help-cx-rnd",
+          "messages": 53
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 47
+        },
+        {
+          "channel": "cx-tooling-code-review",
+          "messages": 45
+        },
+        {
+          "channel": "cx-tooling-team",
+          "messages": 42
+        },
+        {
+          "channel": "tmp-agent-vantage",
+          "messages": 37
+        },
+        {
+          "channel": "cx-river",
+          "messages": 35
+        },
+        {
+          "channel": "ai-smileyset-bots",
+          "messages": 31
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 125,
+      "top_mentioners": [
+        {
+          "user": "calvin.delima",
+          "count": 46
+        },
+        {
+          "user": "matthew.cox",
+          "count": 11
+        },
+        {
+          "user": "justin.flick",
+          "count": 6
+        },
+        {
+          "user": "jordan.raitses",
+          "count": 5
+        },
+        {
+          "user": "topher.bullock",
+          "count": 5
+        },
+        {
+          "user": "jose.sandoya",
+          "count": 5
+        },
+        {
+          "user": "talha.saifi",
+          "count": 5
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 4
+        },
+        {
+          "user": "girish.malkarnenkar",
+          "count": 3
+        },
+        {
+          "user": "fedor.streltsov",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 70,
+      "16": 82,
+      "15": 108,
+      "18": 82,
+      "13": 100,
+      "21": 115,
+      "20": 153,
+      "19": 146,
+      "14": 99,
+      "12": 16,
+      "23": 33,
+      "22": 48,
+      "3": 4,
+      "2": 20,
+      "11": 4,
+      "1": 22,
+      "0": 12
+    },
+    "by_day": {
+      "Wednesday": 194,
+      "Tuesday": 175,
+      "Monday": 178,
+      "Friday": 293,
+      "Thursday": 274
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 6.82,
+    "dept_average_30d": 5.58,
+    "dept_rank": 20,
+    "dept_size": 398
+  }
+}

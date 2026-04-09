@@ -1,0 +1,198 @@
+{
+  "username": "danica.denis",
+  "name": "Danica Denis",
+  "generated_at": "2026-04-08T20:22:27.571093",
+  "summary": {
+    "message_count": 53,
+    "channels_active": 7,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 19,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 0,
+      "neg_count": 3,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "&gt; Could you shed some light on why this is a relevant field for you?\nKnowing which version of the agent classification algorithm was used to a",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; If the email became associated to it part way through then it stopped being a singleton when that happened\nDoes this association only happen if",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; If we don't ingest events to batch rebuild they'll get singleton UBIs\nSay some real person visits two merchants and makes a customer account",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "scott.mcneil",
+          "count": 3
+        },
+        {
+          "user": "chad.isenberg",
+          "count": 2
+        },
+        {
+          "user": "marc.laforet",
+          "count": 2
+        },
+        {
+          "user": "andrew.droll",
+          "count": 1
+        },
+        {
+          "user": "robert.lake",
+          "count": 1
+        },
+        {
+          "user": "austin.clooney",
+          "count": 1
+        },
+        {
+          "user": "nick.ryan",
+          "count": 1
+        },
+        {
+          "user": "yuri.bocharov",
+          "count": 1
+        },
+        {
+          "user": "amy.gordon",
+          "count": 1
+        },
+        {
+          "user": "youxin.li",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.23,
+      "count": 144,
+      "top_channels": [
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 21
+        },
+        {
+          "channel": "event-refinery-rollout-questions",
+          "messages": 18
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 7
+        },
+        {
+          "channel": "cep-deprecation-task-force",
+          "messages": 2
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 2
+        },
+        {
+          "channel": "retool-events-community",
+          "messages": 2
+        },
+        {
+          "channel": "data-community",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.46,
+      "count": 38,
+      "top_mentioners": [
+        {
+          "user": "sarah.pyo",
+          "count": 8
+        },
+        {
+          "user": "andrew.droll",
+          "count": 5
+        },
+        {
+          "user": "sneha.shah",
+          "count": 4
+        },
+        {
+          "user": "vincent.zwanenburg",
+          "count": 3
+        },
+        {
+          "user": "vrishti.dutta",
+          "count": 2
+        },
+        {
+          "user": "adam.ziolkowski",
+          "count": 2
+        },
+        {
+          "user": "connor.clark",
+          "count": 2
+        },
+        {
+          "user": "daniel.conlin",
+          "count": 1
+        },
+        {
+          "user": "andrija.bogojevic",
+          "count": 1
+        },
+        {
+          "user": "lance.lafontaine",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 5,
+      "15": 8,
+      "14": 10,
+      "13": 9,
+      "16": 3,
+      "23": 1,
+      "21": 2,
+      "17": 8,
+      "22": 6,
+      "20": 1
+    },
+    "by_day": {
+      "Tuesday": 12,
+      "Monday": 6,
+      "Thursday": 16,
+      "Wednesday": 11,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.26,
+    "dept_average_30d": 5.79,
+    "dept_rank": 891,
+    "dept_size": 1233
+  }
+}

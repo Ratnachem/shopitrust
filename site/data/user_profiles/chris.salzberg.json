@@ -1,0 +1,276 @@
+{
+  "username": "chris.salzberg",
+  "name": "Chris Salzberg",
+  "generated_at": "2026-04-08T20:22:25.853016",
+  "summary": {
+    "message_count": 248,
+    "channels_active": 9,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.9,
+      "pos_count": 14,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! What Riley wrote there is also important: tracking requests to ensure blue/green have the same requests after cutover. I assume this is",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh wow this seems really useful, thanks! :eyes:",
+          "channel": "proj-payments-tigerbeetle-self-host",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Ok thanks!",
+          "channel": "proj-payments-tigerbeetle-self-host",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! scheduled :done:",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Hmm broken again. Now it's showing as working but claude says it can't access anything. this mcp is amazing when it works but it just never seems to",
+          "channel": "dev-environment-setup",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "<@U09996E2VCZ> got it, sorry about that!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Just noticed this now on my PR",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-13"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "We resolved this, thanks!!",
+          "channel": "help-eng-infrastructure",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "I'm going to schedule this, last time we did 9am JST but <@U026S9RU147> that's your 8am, is that ok? We could maybe move it back although that pushes",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "This is honestly really stupid. Is nobody else having this issue?",
+          "channel": "shopify-ledger-dev",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "riley.shott",
+          "count": 25
+        },
+        {
+          "user": "claude.mendelson",
+          "count": 18
+        },
+        {
+          "user": "zaiyi.guo",
+          "count": 7
+        },
+        {
+          "user": "mazen.alhagri",
+          "count": 7
+        },
+        {
+          "user": "kajol.maheshwari",
+          "count": 3
+        },
+        {
+          "user": "prachi.padiyar",
+          "count": 2
+        },
+        {
+          "user": "nicholas.koh",
+          "count": 1
+        },
+        {
+          "user": "kyle.acres",
+          "count": 1
+        },
+        {
+          "user": "chao.duan",
+          "count": 1
+        },
+        {
+          "user": "ben.maynard",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.48,
+      "count": 39,
+      "top_channels": [
+        {
+          "channel": "shopify-ledger-dev",
+          "messages": 168
+        },
+        {
+          "channel": "proj-payments-tigerbeetle-self-host",
+          "messages": 44
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 17
+        },
+        {
+          "channel": "dev-environment-setup",
+          "messages": 10
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 3
+        },
+        {
+          "channel": "llm-compiler-opt-wg",
+          "messages": 2
+        },
+        {
+          "channel": "apac-rnd",
+          "messages": 2
+        },
+        {
+          "channel": "weird-lit",
+          "messages": 1
+        },
+        {
+          "channel": "proj-shopify-ledger",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.58,
+      "count": 22,
+      "top_mentioners": [
+        {
+          "user": "claude.mendelson",
+          "count": 6
+        },
+        {
+          "user": "prachi.padiyar",
+          "count": 5
+        },
+        {
+          "user": "riley.shott",
+          "count": 2
+        },
+        {
+          "user": "mazen.alhagri",
+          "count": 1
+        },
+        {
+          "user": "kajol.maheshwari",
+          "count": 1
+        },
+        {
+          "user": "ufuk.kayserilioglu",
+          "count": 1
+        },
+        {
+          "user": "nidhi.jain",
+          "count": 1
+        },
+        {
+          "user": "kyle.acres",
+          "count": 1
+        },
+        {
+          "user": "sebastian.motraghi",
+          "count": 1
+        },
+        {
+          "user": "chao.duan",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "4": 11,
+      "1": 32,
+      "12": 10,
+      "8": 30,
+      "5": 16,
+      "2": 42,
+      "11": 4,
+      "7": 22,
+      "0": 16,
+      "6": 14,
+      "3": 25,
+      "21": 7,
+      "13": 4,
+      "9": 4,
+      "23": 9,
+      "22": 2
+    },
+    "by_day": {
+      "Wednesday": 38,
+      "Tuesday": 56,
+      "Monday": 47,
+      "Friday": 51,
+      "Thursday": 56
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.51,
+    "dept_average_30d": 5.77,
+    "dept_rank": 538,
+    "dept_size": 885
+  }
+}

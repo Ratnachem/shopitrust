@@ -1,0 +1,119 @@
+{
+  "username": "katherine.rodriguez",
+  "name": "Katherine Rodriguez",
+  "generated_at": "2026-04-08T20:22:31.878731",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 3,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 2,
+    "days_in_window": 16,
+    "days_scale": 0.7
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Help please! Thank you team",
+          "channel": "help-legal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hello team! I have here a plus merchant who is reaching out about obtaining a sign from us. This is the specific request:\n\" Please could you have",
+          "channel": "help-legal",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! I have a Plus merchant reaching out because they noticed that one of their Flows isn't behaving the same as before, even though no changes",
+          "channel": "help-flow",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-draft-orders",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! Merchant is trying to update a discount on a draft order but they are getting an error:",
+          "channel": "help-draft-orders",
+          "timestamp": "2026-03-18"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.65,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "laura.staszkiel",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-legal",
+          "messages": 5
+        },
+        {
+          "channel": "help-draft-orders",
+          "messages": 5
+        },
+        {
+          "channel": "help-flow",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.6,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "laura.staszkiel",
+          "count": 1
+        },
+        {
+          "user": "andrew.knowles",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "2": 1,
+      "8": 6,
+      "1": 5
+    },
+    "by_day": {
+      "Thursday": 1,
+      "Wednesday": 9,
+      "Friday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.84,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1322,
+    "dept_size": 1663
+  }
+}

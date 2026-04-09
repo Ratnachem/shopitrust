@@ -1,0 +1,118 @@
+{
+  "username": "diana.shen",
+  "name": "Diana Shen",
+  "generated_at": "2026-04-08T20:22:31.785218",
+  "summary": {
+    "message_count": 10,
+    "channels_active": 4,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi, my <https://oasis.shopify.io/runs/019cd92f46aa697727b1|pipeline> is stuck at model uploading to GCS. It has been 2 hrs since any changes made to",
+          "channel": "tangle",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "houdong.hu",
+          "count": 1
+        },
+        {
+          "user": "ricardo.tejedor",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.18,
+      "count": 84,
+      "top_channels": [
+        {
+          "channel": "tangle",
+          "messages": 5
+        },
+        {
+          "channel": "taxonomy-related-projects",
+          "messages": 2
+        },
+        {
+          "channel": "help-ml-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "help-kepler",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.75,
+      "count": 18,
+      "top_mentioners": [
+        {
+          "user": "houdong.hu",
+          "count": 5
+        },
+        {
+          "user": "ricardo.tejedor",
+          "count": 5
+        },
+        {
+          "user": "xinjing.wang",
+          "count": 4
+        },
+        {
+          "user": "audreyanne.guindon",
+          "count": 2
+        },
+        {
+          "user": "leila.naghshbandi",
+          "count": 1
+        },
+        {
+          "user": "volv.grebennikov",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "0": 1,
+      "16": 5,
+      "20": 1,
+      "23": 1,
+      "22": 2
+    },
+    "by_day": {
+      "Friday": 1,
+      "Thursday": 3,
+      "Wednesday": 5,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.51,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1130,
+    "dept_size": 1233
+  }
+}

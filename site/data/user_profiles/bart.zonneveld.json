@@ -1,0 +1,228 @@
+{
+  "username": "bart.zonneveld",
+  "name": "Bart Zonneveld",
+  "generated_at": "2026-04-08T20:22:21.473740",
+  "summary": {
+    "message_count": 127,
+    "channels_active": 17,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 4,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Re your questions:\n\n1. we're using the default operations (eg. `Access::OrganizationUser::create-a-ticket:` and friends), so anything should",
+          "channel": "proj-bulk-import-staff",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": ":wave: Was looking into playbooks and our <https://pos.docs.shopify.io/learnings-from-incidents|docs>, and ended up writing a skill to assist in",
+          "channel": "retail-dev",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "retail-hq-staff-notifications",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\nEnded up having all the current CI failures fixed via this stack: <https://app.graphite.com/github/pr/shop/world/487164>.\nI'll follow up in",
+          "channel": "business-platform",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Due to statutory holidays, I'll be off Fri and Mon. <@W018WBRMKSM> you should have all context to merge and ship the remaining PRs.\nLet's get",
+          "channel": "proj-bulk-import-staff",
+          "timestamp": "2026-04-02"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.45,
+      "count": 13,
+      "top_mentioned": [
+        {
+          "user": "josh.yu",
+          "count": 2
+        },
+        {
+          "user": "rishi.venkat",
+          "count": 2
+        },
+        {
+          "user": "drew.matheson",
+          "count": 2
+        },
+        {
+          "user": "christopher.troup",
+          "count": 1
+        },
+        {
+          "user": "chris.elise",
+          "count": 1
+        },
+        {
+          "user": "soumya.shukla",
+          "count": 1
+        },
+        {
+          "user": "ian.yang",
+          "count": 1
+        },
+        {
+          "user": "andy.kim",
+          "count": 1
+        },
+        {
+          "user": "patrick.banta",
+          "count": 1
+        },
+        {
+          "user": "aaron.schubert",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.84,
+      "count": 229,
+      "top_channels": [
+        {
+          "channel": "proj-bulk-import-staff",
+          "messages": 42
+        },
+        {
+          "channel": "river-bz",
+          "messages": 20
+        },
+        {
+          "channel": "proj-retail-pos-only-users-at-org-level",
+          "messages": 16
+        },
+        {
+          "channel": "retail-foundations-kernel-and-platform-team",
+          "messages": 16
+        },
+        {
+          "channel": "business-platform",
+          "messages": 13
+        },
+        {
+          "channel": "inc-20402-pos-channel-doesnt-load---error-unknown-e",
+          "messages": 4
+        },
+        {
+          "channel": "mozart-ops",
+          "messages": 3
+        },
+        {
+          "channel": "retail-atc",
+          "messages": 2
+        },
+        {
+          "channel": "retail-dev",
+          "messages": 2
+        },
+        {
+          "channel": "retail-hq-staff-notifications",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.92,
+      "count": 52,
+      "top_mentioners": [
+        {
+          "user": "rishi.venkat",
+          "count": 19
+        },
+        {
+          "user": "josh.yu",
+          "count": 7
+        },
+        {
+          "user": "james.trever",
+          "count": 5
+        },
+        {
+          "user": "christopher.troup",
+          "count": 3
+        },
+        {
+          "user": "madeline.fletcher",
+          "count": 3
+        },
+        {
+          "user": "jose.narvaez",
+          "count": 2
+        },
+        {
+          "user": "aaron.schubert",
+          "count": 2
+        },
+        {
+          "user": "dylan.gray",
+          "count": 1
+        },
+        {
+          "user": "julian.warszawski",
+          "count": 1
+        },
+        {
+          "user": "caemin.oconnor",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 23,
+      "11": 13,
+      "8": 7,
+      "14": 29,
+      "19": 2,
+      "10": 10,
+      "7": 5,
+      "13": 18,
+      "12": 6,
+      "9": 7,
+      "16": 5,
+      "6": 1,
+      "21": 1
+    },
+    "by_day": {
+      "Wednesday": 33,
+      "Tuesday": 31,
+      "Friday": 29,
+      "Thursday": 10,
+      "Monday": 24
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.17,
+    "dept_average_30d": 5.77,
+    "dept_rank": 230,
+    "dept_size": 885
+  }
+}

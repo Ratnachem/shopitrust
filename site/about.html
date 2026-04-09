@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About ShopiTrust</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 100%);
+            color: #e1e1e6;
+            min-height: 100vh;
+        }
+        .header {
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #a855f7 100%);
+            padding: 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+        }
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            position: relative;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        .header p {
+            opacity: 0.9;
+            margin-top: 0.5rem;
+            position: relative;
+        }
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1rem;
+            position: relative;
+        }
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.15);
+            transition: background 0.2s;
+        }
+        .nav-links a:hover {
+            background: rgba(255,255,255,0.25);
+        }
+        .nav-links a.active {
+            background: rgba(255,255,255,0.3);
+        }
+        .main-content {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 3rem 1.5rem;
+        }
+        .content-section {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        .content-section h2 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #6366f1, #a855f7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .content-section h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin: 1.5rem 0 0.75rem;
+            color: #c4b5fd;
+        }
+        .content-section p {
+            line-height: 1.8;
+            color: #d1d5db;
+            margin-bottom: 1rem;
+        }
+        .quote-block {
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(168, 85, 247, 0.1));
+            border-left: 4px solid #8b5cf6;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border-radius: 0 12px 12px 0;
+            font-style: italic;
+        }
+        .quote-block .attribution {
+            margin-top: 1rem;
+            font-style: normal;
+            font-weight: 600;
+            color: #a78bfa;
+        }
+        .battery-visual {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            margin: 2rem 0;
+            font-size: 3rem;
+        }
+        .battery-container {
+            display: flex;
+            align-items: center;
+            background: rgba(0,0,0,0.3);
+            border: 3px solid #4ade80;
+            border-radius: 8px;
+            padding: 0.5rem;
+            position: relative;
+        }
+        .battery-container::after {
+            content: '';
+            position: absolute;
+            right: -12px;
+            width: 8px;
+            height: 30px;
+            background: #4ade80;
+            border-radius: 0 4px 4px 0;
+        }
+        .battery-level {
+            display: flex;
+            gap: 4px;
+        }
+        .battery-bar {
+            width: 20px;
+            height: 40px;
+            background: #4ade80;
+            border-radius: 3px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+        .battery-bar:nth-child(2) { animation-delay: 0.2s; }
+        .battery-bar:nth-child(3) { animation-delay: 0.4s; }
+        .battery-bar:nth-child(4) { animation-delay: 0.6s; }
+        .battery-bar:nth-child(5) { animation-delay: 0.8s; }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+        .benefits-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        .benefit-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 1.5rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .benefit-card:hover {
+            transform: translateY(-4px);
+            border-color: #8b5cf6;
+        }
+        .benefit-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .benefit-title {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+            color: #f3f4f6;
+        }
+        .benefit-desc {
+            font-size: 0.9rem;
+            color: #9ca3af;
+            line-height: 1.6;
+        }
+        .fun-facts {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .fun-fact {
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.2), rgba(168, 85, 247, 0.2));
+            padding: 1rem 1.5rem;
+            border-radius: 50px;
+            font-size: 0.9rem;
+            border: 1px solid rgba(139, 92, 246, 0.3);
+        }
+        .cta-section {
+            text-align: center;
+            padding: 3rem 2rem;
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(168, 85, 247, 0.15));
+            border-radius: 16px;
+            border: 1px solid rgba(139, 92, 246, 0.3);
+        }
+        .cta-section h2 {
+            font-size: 1.75rem;
+            margin-bottom: 1rem;
+        }
+        .cta-section p {
+            color: #d1d5db;
+            margin-bottom: 1.5rem;
+        }
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #6366f1, #a855f7);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .cta-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 40px rgba(139, 92, 246, 0.4);
+        }
+        .emoji-float {
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+        .link {
+            color: #a78bfa;
+            text-decoration: none;
+            border-bottom: 1px dashed #a78bfa;
+            transition: color 0.2s;
+        }
+        .link:hover {
+            color: #c4b5fd;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔋 About ShopiTrust</h1>
+        <p>The story behind measuring trust at Shopify</p>
+        <div class="nav-links">
+            <a href="index.html">Leaderboard</a>
+            <a href="user.html">My Profile</a>
+            <a href="peer.html">Peer View</a>
+            <a href="about.html" class="active">About</a>
+        </div>
+    </div>
+
+    <div class="main-content">
+        
+        <div class="content-section">
+            <h2>🤔 What's a Trust Battery?</h2>
+            
+            <div class="battery-visual">
+                <span class="emoji-float">⚡</span>
+                <div class="battery-container">
+                    <div class="battery-level">
+                        <div class="battery-bar"></div>
+                        <div class="battery-bar"></div>
+                        <div class="battery-bar"></div>
+                        <div class="battery-bar"></div>
+                        <div class="battery-bar"></div>
+                    </div>
+                </div>
+                <span class="emoji-float">💚</span>
+            </div>
+            
+            <p>
+                The <strong>trust battery</strong> is a Shopify concept that Tobi Lütke introduced to describe 
+                how working relationships function. Every relationship between two people has a metaphorical 
+                battery that can be charged or drained based on their interactions.
+            </p>
+            
+            <p>
+                When you start working with someone new, the battery begins at about 50% — neutral. 
+                Every time you deliver on a commitment, respond promptly, give credit, or close loops, 
+                the battery charges. When you miss deadlines, leave messages unanswered, or break promises, 
+                it drains.
+            </p>
+
+            <div class="quote-block">
+                "Trust is like a battery that exists between buyers, suppliers, merchants, partners, apps, and ourselves."
+                <div class="attribution">— Tobi Lütke, 2022 Themes</div>
+            </div>
+        </div>
+
+        <div class="content-section">
+            <h2>✨ Why We Built ShopiTrust</h2>
+            
+            <p>
+                We built ShopiTrust because <strong>trust is often invisible</strong>. You might have a sense 
+                that a relationship is strained, but it's hard to pinpoint why. Or you might not realize 
+                you've been draining someone's trust battery until it's already low.
+            </p>
+
+            <p>
+                ShopiTrust makes the invisible visible by analyzing real signals from your interactions:
+            </p>
+
+            <div class="fun-facts">
+                <div class="fun-fact">💬 Response times on Slack</div>
+                <div class="fun-fact">✅ Commitments kept vs. broken</div>
+                <div class="fun-fact">📅 Meeting patterns & cancellations</div>
+                <div class="fun-fact">🎉 Recognition & shoutouts given</div>
+                <div class="fun-fact">🔄 Loops closed vs. left hanging</div>
+                <div class="fun-fact">📧 Email follow-through</div>
+            </div>
+
+            <p style="margin-top: 1.5rem;">
+                Then we give you <strong>one specific, actionable tip</strong> to improve — not generic advice, 
+                but something grounded in what actually happened.
+            </p>
+        </div>
+
+        <div class="content-section">
+            <h2>💪 Benefits of Being Trustworthy</h2>
+            
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <div class="benefit-icon">🏃‍♂️</div>
+                    <div class="benefit-title">Move Faster</div>
+                    <div class="benefit-desc">
+                        High-trust teams skip the overhead of verification and second-guessing. 
+                        Decisions happen faster because people trust each other's judgment.
+                    </div>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="benefit-icon">🎯</div>
+                    <div class="benefit-title">Get Better Feedback</div>
+                    <div class="benefit-desc">
+                        When people trust you, they give you honest feedback instead of holding back. 
+                        That's how you grow.
+                    </div>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="benefit-icon">🤝</div>
+                    <div class="benefit-title">Attract Opportunities</div>
+                    <div class="benefit-desc">
+                        People want to work with trustworthy colleagues. High trust batteries 
+                        lead to more interesting projects and collaborations.
+                    </div>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="benefit-icon">😌</div>
+                    <div class="benefit-title">Less Stress</div>
+                    <div class="benefit-desc">
+                        When you've built trust, you don't need to over-explain or worry about 
+                        how things will be perceived. You can just focus on the work.
+                    </div>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="benefit-icon">🌱</div>
+                    <div class="benefit-title">Compounding Returns</div>
+                    <div class="benefit-desc">
+                        Trust builds on itself. One kept promise makes the next one easier to believe. 
+                        It's the best investment you can make in your career.
+                    </div>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="benefit-icon">🛡️</div>
+                    <div class="benefit-title">Resilience in Hard Times</div>
+                    <div class="benefit-desc">
+                        When things go wrong (and they will), high trust gives you the benefit of 
+                        the doubt. People assume good intent.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="cta-section">
+            <h2>Ready to check your trust batteries? 🔋</h2>
+            <p>See where you stand with your colleagues and get personalized tips to improve.</p>
+            <a href="user.html" class="cta-button">View My Trust Score →</a>
+        </div>
+
+    </div>
+
+</body>
+</html>

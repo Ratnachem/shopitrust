@@ -1,0 +1,234 @@
+{
+  "username": "maria.khutoretsky",
+  "name": "Maria Khutoretsky",
+  "generated_at": "2026-04-08T20:22:05.838478",
+  "summary": {
+    "message_count": 141,
+    "channels_active": 12,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "I can help you delete the old account, but having two accounts is pretty normal. It looks like there's a legacy account and an SPP account, and I've",
+          "channel": "help-labels",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm merging the log cleanup PR - let me know if I should still hold off",
+          "channel": "proj-usps-ship-bridge",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "++ <@U02SQMPJ9EZ> Congrats!! :confetti-intensifies:",
+          "channel": "shipping-taxes-talk",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ok, thank you for checking! That label is from 3/21, so yeah it might be too new. I'll try sending those account numbers to DHL and see if they can",
+          "channel": "shipping-platform-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! Do you know how to determine which one was used for a particular merchant?",
+          "channel": "shipping-platform-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Sure, feel free to take that!",
+          "channel": "proj-usps-ship-bridge",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Good point - I just saw the comments on the refactor PR too. The fix PR is already done, so would it be okay to just ship them together, or do you",
+          "channel": "proj-usps-ship-bridge",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "In the process of working on the returns webhook/producer, I decided to refactor our existing Kafka producers into a base class with the shared code.",
+          "channel": "proj-usps-ship-bridge",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I still can't find any logs for their attempt in either Shipify or Core. :think-spin: I'm just going to try deleting the account from Admin",
+          "channel": "help-labels",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I checked one of the labels and it was cancelled, which created a shipment_version that my query mistook for an adjustment. I'll fix the query,",
+          "channel": "proj-usps-ship-bridge",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Ok, thank you for checking! That label is from 3/21, so yeah it might be too new. I'll try sending those account numbers to DHL and see if they can",
+          "channel": "shipping-platform-team",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "harmanprit.tatla",
+          "count": 1
+        },
+        {
+          "user": "dylan.barter",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.96,
+      "count": 131,
+      "top_channels": [
+        {
+          "channel": "proj-usps-ship-bridge",
+          "messages": 58
+        },
+        {
+          "channel": "help-labels",
+          "messages": 31
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 14
+        },
+        {
+          "channel": "shipping-usps-bridge-alerts",
+          "messages": 9
+        },
+        {
+          "channel": "gsd45850-migrate-canadapost-to-spp",
+          "messages": 9
+        },
+        {
+          "channel": "si-2526-inc-20930-axios-vulnerability-impact-on-shipify",
+          "messages": 8
+        },
+        {
+          "channel": "gsd-fedex-byoa-migration-to-spp",
+          "messages": 3
+        },
+        {
+          "channel": "inv-19085-bloodhound-subscribe-is-failing",
+          "messages": 3
+        },
+        {
+          "channel": "shipping-dev-ops",
+          "messages": 2
+        },
+        {
+          "channel": "shipping-platform-runteam",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.25,
+      "count": 36,
+      "top_mentioners": [
+        {
+          "user": "dylan.barter",
+          "count": 5
+        },
+        {
+          "user": "namchau.nguyen",
+          "count": 5
+        },
+        {
+          "user": "eric.dagenais",
+          "count": 4
+        },
+        {
+          "user": "cristina.smiarowski",
+          "count": 4
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 3
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 2
+        },
+        {
+          "user": "alanna.zito",
+          "count": 2
+        },
+        {
+          "user": "jeff.kantarek",
+          "count": 2
+        },
+        {
+          "user": "alexander.yamkov",
+          "count": 1
+        },
+        {
+          "user": "dan.oconnor",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 11,
+      "17": 18,
+      "16": 13,
+      "15": 26,
+      "14": 26,
+      "13": 26,
+      "20": 10,
+      "19": 5,
+      "21": 6
+    },
+    "by_day": {
+      "Wednesday": 41,
+      "Tuesday": 27,
+      "Monday": 20,
+      "Friday": 25,
+      "Thursday": 28
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.58,
+    "dept_average_30d": 5.77,
+    "dept_rank": 501,
+    "dept_size": 885
+  }
+}

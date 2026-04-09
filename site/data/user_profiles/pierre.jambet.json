@@ -1,0 +1,302 @@
+{
+  "username": "pierre.jambet",
+  "name": "Pierre Jambet",
+  "generated_at": "2026-04-08T20:22:12.868151",
+  "summary": {
+    "message_count": 563,
+    "channels_active": 15,
+    "unique_people_mentioned": 26,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 35,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "OMG, thank you",
+          "channel": "payment-service-operations",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "btw <@U06PAQVBRH6> when you redeploy, for steps that are no-ops, feel free to hit \"mark as successful\"",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to create an issue, that's a reasonable suggestion!",
+          "channel": "payment-service-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I wasn't aware of the changes (despite being tagged, I missed the review, sorry about that!), but let me know if I can assist, maybe this time I can",
+          "channel": "payment-service-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "I wasn't aware of the changes (despite being tagged, I missed the review, sorry about that!), but let me know if I can assist, maybe this time I can",
+          "channel": "payment-service-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great, thank you. Please post occasional updates, things like this, and if you can (ok if you can't) an idea on the ETA for completion",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats!",
+          "channel": "payments-cross-border-talk",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I'll take a look, but thank you for doing it",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'll definitely be around, and will able to jump on, but feel free to start without me, I don't want to block the process",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Random idea, feel free to run it by Kevin.\n\nWhat if we \"locked\" payment-service, as in we tell the ATC person to not do any deploys that day.\n\nWe",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-30"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "No one is dumb, no one is stupid! :high-5:",
+          "channel": "payment-service-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I do want to call out the I was calling _myself_ stupid! And maybe shouldn't have used that word in the first place!",
+          "channel": "payment-service-operations",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> I have feedback for both PRs. Again, assume the index on `stripe_credentials_sync_status` is there. In both cases you added a query on",
+          "channel": "pjambet-river",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Sorry if it's a stupid question, but I'm curious about how ingress rules are controlled for `*.<http://shopifysvc.com|shopifysvc.com>`, we receive a",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It's also about \"scalability\", I don't love using that term, because it's often a hand wavy approach to justify whatever the speaker wants to, but we",
+          "channel": "payment-service-tier1-resiliency-proj",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Usually, we don't care like that about the clusters where payment-service runs, prod or staging, it doesn't matter much to us",
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "anas.shahid",
+          "count": 30
+        },
+        {
+          "user": "alex.almeida",
+          "count": 24
+        },
+        {
+          "user": "rashmi.kumari",
+          "count": 8
+        },
+        {
+          "user": "stefano.pace",
+          "count": 7
+        },
+        {
+          "user": "derek.chau",
+          "count": 5
+        },
+        {
+          "user": "yash.kapadia",
+          "count": 3
+        },
+        {
+          "user": "alex.selesse",
+          "count": 3
+        },
+        {
+          "user": "owen.linton",
+          "count": 2
+        },
+        {
+          "user": "tim.glen",
+          "count": 2
+        },
+        {
+          "user": "samuel.beshara",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.39,
+      "count": 258,
+      "top_channels": [
+        {
+          "channel": "payment-service-tier1-resiliency-proj",
+          "messages": 355
+        },
+        {
+          "channel": "payments-platform-checkout-performance",
+          "messages": 67
+        },
+        {
+          "channel": "proj-tier1-infra-topology-and-isolation",
+          "messages": 39
+        },
+        {
+          "channel": "payments-foundations-monitoring",
+          "messages": 28
+        },
+        {
+          "channel": "payment-service-operations",
+          "messages": 21
+        },
+        {
+          "channel": "pjambet-river",
+          "messages": 16
+        },
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 15
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 10
+        },
+        {
+          "channel": "help-lending-engineering",
+          "messages": 5
+        },
+        {
+          "channel": "help-eng-infrastructure",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "anas.shahid",
+          "count": 45
+        },
+        {
+          "user": "alex.almeida",
+          "count": 19
+        },
+        {
+          "user": "matthew.frail",
+          "count": 6
+        },
+        {
+          "user": "rashmi.kumari",
+          "count": 4
+        },
+        {
+          "user": "matt.korostoff",
+          "count": 2
+        },
+        {
+          "user": "fatai.salami",
+          "count": 2
+        },
+        {
+          "user": "louis.munro",
+          "count": 2
+        },
+        {
+          "user": "stefano.pace",
+          "count": 2
+        },
+        {
+          "user": "rahil.virani",
+          "count": 2
+        },
+        {
+          "user": "owen.linton",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 60,
+      "17": 55,
+      "16": 86,
+      "15": 99,
+      "14": 45,
+      "13": 28,
+      "21": 27,
+      "20": 75,
+      "19": 83,
+      "22": 5
+    },
+    "by_day": {
+      "Wednesday": 114,
+      "Tuesday": 66,
+      "Monday": 117,
+      "Friday": 113,
+      "Thursday": 153
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.13,
+    "dept_average_30d": 5.77,
+    "dept_rank": 241,
+    "dept_size": 885
+  }
+}

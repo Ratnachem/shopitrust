@@ -1,0 +1,104 @@
+{
+  "username": "sarah.shaw",
+  "name": "Sarah Shaw",
+  "generated_at": "2026-04-08T20:22:29.536472",
+  "summary": {
+    "message_count": 9,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Great - thank you!",
+          "channel": "help-safety-security",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-ports",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team! Could we turn the heat down slightly in Black Diamond? Thank you!",
+          "channel": "help-ports",
+          "timestamp": "2026-04-02"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "randy.alayperez",
+          "count": 1
+        },
+        {
+          "user": "ross.diener",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.08,
+      "count": 2,
+      "top_channels": [
+        {
+          "channel": "scoop-river",
+          "messages": 4
+        },
+        {
+          "channel": "help-ports",
+          "messages": 3
+        },
+        {
+          "channel": "help-safety-security",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.21,
+      "count": 1,
+      "top_mentioners": [
+        {
+          "user": "taylor.mahoney",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 5,
+      "12": 3,
+      "16": 1
+    },
+    "by_day": {
+      "Monday": 6,
+      "Thursday": 3
+    }
+  },
+  "department_comparison": {
+    "department": "Corpo",
+    "user_score_30d": 3.67,
+    "dept_average_30d": 4.84,
+    "dept_rank": 16,
+    "dept_size": 18
+  }
+}

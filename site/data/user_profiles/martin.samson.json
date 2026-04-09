@@ -1,0 +1,244 @@
+{
+  "username": "martin.samson",
+  "name": "Martin Samson",
+  "generated_at": "2026-04-08T20:22:08.565546",
+  "summary": {
+    "message_count": 1077,
+    "channels_active": 38,
+    "unique_people_mentioned": 33,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.9,
+      "pos_count": 4,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Ah right, the api check shouldn't be on google but the shop, my bad :upside_down_face: missed that while reviewing.",
+          "channel": "proj-ucp-orders",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U050XT02GQ6> Feel free to ask river to iterate, I haven't looked at the output yet just what it showed as examples.",
+          "channel": "channel-listings-order-handling",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Feel free to ping me on PRs I'll happily try to review :slightly_smiling_face:",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad, I'll take over the resolution as I removed the QueryLayer class, and our base Duty object wasn't forcing the index, only our QueryLayer",
+          "channel": "orders-penguins",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Something to consider is doing away with the legacy approach and moving forward with expecting groups (of quantity 0-&gt;infinity).\n\nFor example, if",
+          "channel": "orders-eng",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "The idea was to support booting the monorepo with a slice or sub-portion, but then everyone started depending on everyone and there's circular",
+          "channel": "deliver-eng",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Well, a quick search in drive, docs, vault, and incidents doesn't bring anything. Whatever information we seemed to have on the flag is lost in the",
+          "channel": "orders-slow-queries",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 35,
+      "top_mentioned": [
+        {
+          "user": "jacob.dubinsky",
+          "count": 14
+        },
+        {
+          "user": "olivier.theriault",
+          "count": 5
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 4
+        },
+        {
+          "user": "mike.guterl",
+          "count": 3
+        },
+        {
+          "user": "israel.valverde",
+          "count": 2
+        },
+        {
+          "user": "alex.corey",
+          "count": 2
+        },
+        {
+          "user": "alan.hill",
+          "count": 2
+        },
+        {
+          "user": "jeff.rothwell",
+          "count": 2
+        },
+        {
+          "user": "joel.rubio",
+          "count": 2
+        },
+        {
+          "user": "ben.graham",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 404,
+      "top_channels": [
+        {
+          "channel": "the-raft-on-the-river",
+          "messages": 448
+        },
+        {
+          "channel": "orders-slow-queries",
+          "messages": 138
+        },
+        {
+          "channel": "amazon-orders-scope",
+          "messages": 118
+        },
+        {
+          "channel": "proj-tax-recalculation-address-change",
+          "messages": 31
+        },
+        {
+          "channel": "proj-core-ci-stability",
+          "messages": 26
+        },
+        {
+          "channel": "proj-ucp-orders",
+          "messages": 22
+        },
+        {
+          "channel": "sirgalleto-river",
+          "messages": 22
+        },
+        {
+          "channel": "orders-penguins",
+          "messages": 21
+        },
+        {
+          "channel": "order-financials",
+          "messages": 19
+        },
+        {
+          "channel": "orders-exceptions",
+          "messages": 18
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 72,
+      "top_mentioners": [
+        {
+          "user": "lee.richmond",
+          "count": 8
+        },
+        {
+          "user": "kelly.ma",
+          "count": 5
+        },
+        {
+          "user": "olivier.theriault",
+          "count": 5
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 4
+        },
+        {
+          "user": "sam.schmidt",
+          "count": 3
+        },
+        {
+          "user": "ken.smith",
+          "count": 3
+        },
+        {
+          "user": "caitlin.mullen",
+          "count": 3
+        },
+        {
+          "user": "diego.gilon",
+          "count": 3
+        },
+        {
+          "user": "mike.guterl",
+          "count": 3
+        },
+        {
+          "user": "carson.huang",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 72,
+      "17": 89,
+      "15": 142,
+      "14": 168,
+      "13": 189,
+      "12": 51,
+      "22": 2,
+      "21": 47,
+      "20": 107,
+      "19": 101,
+      "16": 72,
+      "11": 21,
+      "2": 1,
+      "1": 1,
+      "0": 14
+    },
+    "by_day": {
+      "Wednesday": 282,
+      "Tuesday": 272,
+      "Monday": 158,
+      "Thursday": 212,
+      "Friday": 153
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.12,
+    "dept_average_30d": 5.79,
+    "dept_rank": 366,
+    "dept_size": 1233
+  }
+}

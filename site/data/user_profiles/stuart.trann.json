@@ -1,0 +1,276 @@
+{
+  "username": "stuart.trann",
+  "name": "Stuart Trann",
+  "generated_at": "2026-04-08T20:22:16.610882",
+  "summary": {
+    "message_count": 586,
+    "channels_active": 22,
+    "unique_people_mentioned": 37,
+    "unique_mentioners": 33,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 10,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "Oh wow, my bad, didn't realize I hadn't put a PR description up on this one. Doing that now",
+          "channel": "proj-brochure-workspace-packages",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":tada: Also, we just landed a big perf boost to typechecking :tada:\n\n:rocket:",
+          "channel": "brochure-contributors",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> <https://shopify.slack.com/archives/C02ER3HPNCB/p1775150934094769|check this out> (let me know if you can't read that vault post),",
+          "channel": "brochure-river",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Hey <@U05UHMNQCRZ> I noticed that tinker is using the old `twMerge` util and pushed a PR to switch it to the Tailwind v4 version\n\n:white_check_mark:",
+          "channel": "proj-tinker-page-build",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "actually my bad, forgot about this temporary test we have that is verifying that worker configs between `packages/workers/*` are in sync with",
+          "channel": "proj-brochure-workspace-packages",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Heya :wave: We're making some infrastructure changes to how Brochure sites are built and deployed, and `<http://tinker.com|tinker.com>` is the ideal",
+          "channel": "proj-tinker-page-build",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "feel free to resolve :+1:",
+          "channel": "brochure-kit-governance",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Oh! Sorry haha, I'm not at my desk yet and it must've been buried in my Graphite notifications, thanks!",
+          "channel": "tectonix",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "&gt; oh man - I could die happy having a way to do this simply after all these years of trying to extract actualy requirements from legacy code\nthis",
+          "channel": "brochure-contributors",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Sounds good, did you want me to submit the move to Release when all that is merged?",
+          "channel": "proj-brochure-workspace-packages",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U0AEPQCKB3M> for `//areas/platforms/brochure`: assess this investigation and validate my preferred choice of option 2, if in agreement, prepare a",
+          "channel": "s2-floatin-down-the-river",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "connor.jones",
+          "count": 15
+        },
+        {
+          "user": "joao.saldanha",
+          "count": 14
+        },
+        {
+          "user": "eric.painchaud",
+          "count": 8
+        },
+        {
+          "user": "merwan.rodriguez",
+          "count": 7
+        },
+        {
+          "user": "chienju.peng",
+          "count": 5
+        },
+        {
+          "user": "nicole.proulx",
+          "count": 4
+        },
+        {
+          "user": "felipe.nolleto",
+          "count": 4
+        },
+        {
+          "user": "sean.hudson",
+          "count": 3
+        },
+        {
+          "user": "kyle.luck",
+          "count": 3
+        },
+        {
+          "user": "david.cortes",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.51,
+      "count": 159,
+      "top_channels": [
+        {
+          "channel": "brochure-river",
+          "messages": 165
+        },
+        {
+          "channel": "s2-floatin-down-the-river",
+          "messages": 113
+        },
+        {
+          "channel": "proj-brochure-workspace-packages",
+          "messages": 80
+        },
+        {
+          "channel": "brochure-contributors",
+          "messages": 71
+        },
+        {
+          "channel": "brochure-kit-governance",
+          "messages": 34
+        },
+        {
+          "channel": "help-shopify-websites",
+          "messages": 33
+        },
+        {
+          "channel": "tectonix",
+          "messages": 18
+        },
+        {
+          "channel": "pi",
+          "messages": 17
+        },
+        {
+          "channel": "proj-new-nav-phase-2-build",
+          "messages": 12
+        },
+        {
+          "channel": "proj-langauge-locale-decoupling",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.9,
+      "count": 71,
+      "top_mentioners": [
+        {
+          "user": "nicole.proulx",
+          "count": 10
+        },
+        {
+          "user": "chienju.peng",
+          "count": 6
+        },
+        {
+          "user": "joao.saldanha",
+          "count": 5
+        },
+        {
+          "user": "paulo.tarso",
+          "count": 5
+        },
+        {
+          "user": "sean.hudson",
+          "count": 4
+        },
+        {
+          "user": "felipe.nolleto",
+          "count": 4
+        },
+        {
+          "user": "kyle.luck",
+          "count": 3
+        },
+        {
+          "user": "sagar.maria",
+          "count": 3
+        },
+        {
+          "user": "kyle.dormer",
+          "count": 3
+        },
+        {
+          "user": "krista.nelson",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 78,
+      "6": 3,
+      "23": 42,
+      "1": 24,
+      "0": 42,
+      "22": 54,
+      "21": 50,
+      "20": 47,
+      "19": 71,
+      "16": 52,
+      "18": 78,
+      "15": 10,
+      "5": 7,
+      "4": 15,
+      "2": 6,
+      "3": 3,
+      "7": 2,
+      "14": 1,
+      "11": 1
+    },
+    "by_day": {
+      "Wednesday": 109,
+      "Monday": 92,
+      "Friday": 106,
+      "Thursday": 197,
+      "Tuesday": 82
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.58,
+    "dept_average_30d": 4.74,
+    "dept_rank": 82,
+    "dept_size": 1663
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "username": "greg.belmonte",
+  "name": "Greg Belmonte",
+  "generated_at": "2026-04-08T20:22:32.281348",
+  "summary": {
+    "message_count": 38,
+    "channels_active": 4,
+    "unique_people_mentioned": 3,
+    "unique_mentioners": 5,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> read the discussion above and explain to me how/why workflows have idempotent enqueues by default and help me decide which job should",
+          "channel": "billing-testing-river",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.9,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "graham.johnson",
+          "count": 1
+        },
+        {
+          "user": "caleb.powell",
+          "count": 1
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 0.36,
+      "count": 9,
+      "top_channels": [
+        {
+          "channel": "billing-testing-river",
+          "messages": 23
+        },
+        {
+          "channel": "proj-billing-meter-api-43128",
+          "messages": 10
+        },
+        {
+          "channel": "yugabyte-mission",
+          "messages": 4
+        },
+        {
+          "channel": "help-data-warehouse",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.74,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "yuri.levenhagen",
+          "count": 4
+        },
+        {
+          "user": "dan.dobrick",
+          "count": 1
+        },
+        {
+          "user": "caleb.powell",
+          "count": 1
+        },
+        {
+          "user": "jacob.lott",
+          "count": 1
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 7,
+      "16": 4,
+      "15": 7,
+      "17": 2,
+      "20": 4,
+      "18": 2,
+      "0": 7,
+      "23": 3,
+      "19": 2
+    },
+    "by_day": {
+      "Friday": 11,
+      "Thursday": 3,
+      "Wednesday": 13,
+      "Tuesday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.88,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1284,
+    "dept_size": 1663
+  }
+}

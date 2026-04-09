@@ -1,0 +1,250 @@
+{
+  "username": "harry.venables",
+  "name": "Harry Venables",
+  "generated_at": "2026-04-08T20:22:05.936029",
+  "summary": {
+    "message_count": 455,
+    "channels_active": 21,
+    "unique_people_mentioned": 20,
+    "unique_mentioners": 29,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Team :wave:  As part of this <https://shopify.enterprise.slack.com/archives/C0AQ8JKJY94|incident> we are looking to get this logging",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Cool, Thanks!",
+          "channel": "inc-20983-core-is-consistently-getting-payment-erro",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "++ <@U02GJL6NUPM> for recognising my amazing taste",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Thanks, good luck finding someone for thursday",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "No sorry I meant the `token` on the `CardserverToken` credential. So if you had an Instrument A and it had a `CardserverToken` with `token: 123`  and",
+          "channel": "proj-shop-wallet-global-vault-migration",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Let me know if you want to discuss this further :slightly_smiling_face:",
+          "channel": "inv-19306-paypal-wallet-wrong-redirect",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey team :waveboi:! I ran into a bug in customer accounts \u2014 the `LargeScreenHeader` component crashes in dev with a `MissingReplacementError: No",
+          "channel": "help-customer-account-and-login",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "If you need to work with hosted fields in customer accounts its currently broken due to a migration to vite. Im talking with the team now but to fix",
+          "channel": "pp-vaulting-internal",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 7.73,
+      "count": 23,
+      "top_mentioned": [
+        {
+          "user": "marcin.drozd",
+          "count": 8
+        },
+        {
+          "user": "samuel.martin",
+          "count": 7
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 4
+        },
+        {
+          "user": "alvaro.perezliano",
+          "count": 4
+        },
+        {
+          "user": "nick.jones",
+          "count": 4
+        },
+        {
+          "user": "vita.valeikaite",
+          "count": 3
+        },
+        {
+          "user": "joe.novak",
+          "count": 2
+        },
+        {
+          "user": "steven.li",
+          "count": 1
+        },
+        {
+          "user": "wilson.chiang",
+          "count": 1
+        },
+        {
+          "user": "mark.levidayyan",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.66,
+      "count": 167,
+      "top_channels": [
+        {
+          "channel": "inc-20982-westwing-billing-agreement-failures-post",
+          "messages": 90
+        },
+        {
+          "channel": "proj-payments-global-vault-payments",
+          "messages": 81
+        },
+        {
+          "channel": "pp-vaulting-internal",
+          "messages": 74
+        },
+        {
+          "channel": "proj-shop-wallet-global-vault-migration",
+          "messages": 44
+        },
+        {
+          "channel": "help-checkout",
+          "messages": 40
+        },
+        {
+          "channel": "help-ris",
+          "messages": 32
+        },
+        {
+          "channel": "pp-vaulting-team",
+          "messages": 31
+        },
+        {
+          "channel": "inc-20819-lpm-bancontact-shopify-payments-drop-in-s",
+          "messages": 18
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 13
+        },
+        {
+          "channel": "pp-vaulting-daily",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.48,
+      "count": 67,
+      "top_mentioners": [
+        {
+          "user": "samuel.martin",
+          "count": 11
+        },
+        {
+          "user": "alvaro.perezliano",
+          "count": 7
+        },
+        {
+          "user": "eduardo.jolo",
+          "count": 5
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 5
+        },
+        {
+          "user": "marcin.drozd",
+          "count": 4
+        },
+        {
+          "user": "ani.tumanyan",
+          "count": 3
+        },
+        {
+          "user": "daniel.wyckoff",
+          "count": 3
+        },
+        {
+          "user": "nick.jones",
+          "count": 3
+        },
+        {
+          "user": "mikka.iliescu",
+          "count": 2
+        },
+        {
+          "user": "sylvia.fronczak",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 31,
+      "8": 24,
+      "16": 38,
+      "15": 44,
+      "14": 77,
+      "13": 38,
+      "12": 39,
+      "11": 17,
+      "10": 43,
+      "9": 31,
+      "7": 1,
+      "19": 30,
+      "17": 25,
+      "20": 17
+    },
+    "by_day": {
+      "Wednesday": 132,
+      "Tuesday": 171,
+      "Thursday": 98,
+      "Monday": 44,
+      "Friday": 10
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.2,
+    "dept_average_30d": 5.77,
+    "dept_rank": 220,
+    "dept_size": 885
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "username": "felipe.leusin",
+  "name": "Felipe Leusin",
+  "generated_at": "2026-04-08T20:22:10.337345",
+  "summary": {
+    "message_count": 1000,
+    "channels_active": 88,
+    "unique_people_mentioned": 56,
+    "unique_mentioners": 92,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 5,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Congrats!",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Not too sure tbh but the channel is <#C09UL2MCA4A> if you want to raise there but feel free to fix/disable for now if needed",
+          "channel": "projects-dev-ai",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Now you own Sidekick <@U02PDK1CUUR> good luck!",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Also do you want me to make a up a list of phrases? Or do you have some in mind?",
+          "channel": "big-agent-small-agent",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing job!",
+          "channel": "temp-private-doc-pipeline",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "excited for",
+          "text": "<!here> please all let's join me in congratulating <@U030VM69NP5> on his promotion to Staff Engineer! Ever since I joined CX RnD Taha has shown",
+          "channel": "cx-rnd-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "<!here> please all let's join me in congratulating <@U030VM69NP5> on his promotion to Staff Engineer! Ever since I joined CX RnD Taha has shown",
+          "channel": "cx-rnd-team",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-sidekick-on-helpcenter",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "The router classifier branch is broken but fixing it :cat-typing: but feel free to test the big/small",
+          "channel": "big-agent-small-agent",
+          "timestamp": "2026-03-19"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U025LM7DVA9>\n```1. Analytics (fetch_store_analytics): Gradual ramp Mar 28 \u2192 Mar 31\n\n  The transition was not an instant flip. Hourly data shows:\n\n ",
+          "channel": "sidekick-analytics",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It\u2019s just the subagent afaik, with whatever default it has?",
+          "channel": "proj-sidekick-graphql-agent",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We really need to add the X-Shopify-User-Name or whatever that fetches the current user in all requests that are done from our `sidekick` repo",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "There's some bug in covohub that's hiding whatever happens after the ---",
+          "channel": "big-agent-small-agent",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@W019UDUJARF> let's make sure that this group has all the permissions needed to run ACE either via cloud_eval/flywheel/cli/whatever",
+          "channel": "sidekick-evals",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 59,
+      "top_mentioned": [
+        {
+          "user": "chris.maltais",
+          "count": 7
+        },
+        {
+          "user": "nick.matantsev",
+          "count": 6
+        },
+        {
+          "user": "dirceu.tiegs",
+          "count": 5
+        },
+        {
+          "user": "dima.belyaev",
+          "count": 5
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 5
+        },
+        {
+          "user": "alexandre.c",
+          "count": 5
+        },
+        {
+          "user": "charlie.lee",
+          "count": 5
+        },
+        {
+          "user": "joe.lin",
+          "count": 4
+        },
+        {
+          "user": "ates.goral",
+          "count": 4
+        },
+        {
+          "user": "matt.koenig",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 733,
+      "top_channels": [
+        {
+          "channel": "sidekick-eng",
+          "messages": 131
+        },
+        {
+          "channel": "big-agent-small-agent",
+          "messages": 113
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 67
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 36
+        },
+        {
+          "channel": "assistants-resiliency-backlog-war-room",
+          "messages": 31
+        },
+        {
+          "channel": "felipe-streams",
+          "messages": 31
+        },
+        {
+          "channel": "proj-sidekick-falcon",
+          "messages": 30
+        },
+        {
+          "channel": "proj-sidekick-server-move-to-world",
+          "messages": 29
+        },
+        {
+          "channel": "proj-agent-flywheel-platform",
+          "messages": 26
+        },
+        {
+          "channel": "sidekick-evals",
+          "messages": 25
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 314,
+      "top_mentioners": [
+        {
+          "user": "joe.lin",
+          "count": 31
+        },
+        {
+          "user": "matt.koenig",
+          "count": 24
+        },
+        {
+          "user": "andrew.mcnamara",
+          "count": 18
+        },
+        {
+          "user": "chris.maltais",
+          "count": 11
+        },
+        {
+          "user": "taha.eldeib",
+          "count": 11
+        },
+        {
+          "user": "mia.vo",
+          "count": 9
+        },
+        {
+          "user": "katie.lawhorn",
+          "count": 9
+        },
+        {
+          "user": "kyle.benk",
+          "count": 8
+        },
+        {
+          "user": "justin.flick",
+          "count": 7
+        },
+        {
+          "user": "mazine.mrini",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 69,
+      "17": 103,
+      "16": 113,
+      "15": 103,
+      "14": 134,
+      "13": 75,
+      "12": 49,
+      "23": 17,
+      "19": 102,
+      "0": 10,
+      "22": 46,
+      "21": 68,
+      "20": 83,
+      "11": 20,
+      "10": 4,
+      "2": 1,
+      "1": 2,
+      "7": 1
+    },
+    "by_day": {
+      "Wednesday": 210,
+      "Tuesday": 273,
+      "Monday": 157,
+      "Friday": 175,
+      "Thursday": 185
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.89,
+    "dept_average_30d": 5.79,
+    "dept_rank": 93,
+    "dept_size": 1233
+  }
+}

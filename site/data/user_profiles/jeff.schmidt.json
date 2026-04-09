@@ -1,0 +1,227 @@
+{
+  "username": "jeff.schmidt",
+  "name": "Jeff Schmidt",
+  "generated_at": "2026-04-08T20:22:30.552800",
+  "summary": {
+    "message_count": 78,
+    "channels_active": 14,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 17,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Brian, Josh \u2014 Thank you for efforts in recovering costs for SOX.  It's showing for 3/31.",
+          "channel": "russbot-mysql-hll",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Aparna\n\nThomas, Afshin \u2014 anything else needed to get pricing estimate for our procurement team?\nAlso, is there any parallel effort which",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":bless-up: Thank you Pedro",
+          "channel": "help-procurement",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Pedro \u2014 thank you for response to :google: Afshin last week.  Are we still waiting for his response to your question re: payment amendment?  Is there",
+          "channel": "help-procurement",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0A9NA6HYS0> <@U07QALL4D8B> <@W018HMDRJ8J> \u2014 Howdy all :howdy:\nI wanted to bring updates on this request to project channel for visibility to the",
+          "channel": "proj-infra-card-present-hsm",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.18,
+      "count": 25,
+      "top_mentioned": [
+        {
+          "user": "brian.warsing",
+          "count": 3
+        },
+        {
+          "user": "emanuele.vicentini",
+          "count": 3
+        },
+        {
+          "user": "shamsa",
+          "count": 2
+        },
+        {
+          "user": "john.taylor",
+          "count": 2
+        },
+        {
+          "user": "pablo.rocco",
+          "count": 2
+        },
+        {
+          "user": "john.baynton",
+          "count": 2
+        },
+        {
+          "user": "rosie.savardcharette",
+          "count": 2
+        },
+        {
+          "user": "riley.shott",
+          "count": 2
+        },
+        {
+          "user": "annabel.zecchel",
+          "count": 1
+        },
+        {
+          "user": "josh.varner",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.96,
+      "count": 341,
+      "top_channels": [
+        {
+          "channel": "proj-2026-pci-assessment",
+          "messages": 22
+        },
+        {
+          "channel": "proj-infra-card-present-hsm",
+          "messages": 13
+        },
+        {
+          "channel": "gcp-forecast-update-finance",
+          "messages": 6
+        },
+        {
+          "channel": "help-procurement",
+          "messages": 6
+        },
+        {
+          "channel": "help-ris",
+          "messages": 5
+        },
+        {
+          "channel": "russbot-mysql-hll",
+          "messages": 4
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20305-investigate-russbot-pipeline-recovery-lag",
+          "messages": 4
+        },
+        {
+          "channel": "payment-service-operations",
+          "messages": 4
+        },
+        {
+          "channel": "card-present-payment-gateway-central",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.83,
+      "count": 32,
+      "top_mentioners": [
+        {
+          "user": "shamsa",
+          "count": 4
+        },
+        {
+          "user": "brian.warsing",
+          "count": 4
+        },
+        {
+          "user": "sean.ittel",
+          "count": 3
+        },
+        {
+          "user": "josh.varner",
+          "count": 3
+        },
+        {
+          "user": "yash.kapadia",
+          "count": 2
+        },
+        {
+          "user": "chase.platon",
+          "count": 2
+        },
+        {
+          "user": "riley.shott",
+          "count": 2
+        },
+        {
+          "user": "pablo.rocco",
+          "count": 2
+        },
+        {
+          "user": "angie.elmamlouk",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 16,
+      "14": 13,
+      "21": 4,
+      "18": 8,
+      "16": 5,
+      "13": 7,
+      "22": 2,
+      "20": 4,
+      "19": 7,
+      "17": 9,
+      "2": 1,
+      "0": 1,
+      "12": 1
+    },
+    "by_day": {
+      "Thursday": 11,
+      "Wednesday": 20,
+      "Tuesday": 22,
+      "Monday": 16,
+      "Friday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 4.89,
+    "dept_average_30d": 5.75,
+    "dept_rank": 302,
+    "dept_size": 357
+  }
+}

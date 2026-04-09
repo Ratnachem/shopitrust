@@ -1,0 +1,101 @@
+{
+  "username": "jesse.yang",
+  "name": "Jesse Yang",
+  "generated_at": "2026-04-08T20:22:32.187600",
+  "summary": {
+    "message_count": 14,
+    "channels_active": 2,
+    "unique_people_mentioned": 4,
+    "unique_mentioners": 2,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "this is what i have so far <@W0197GM9P24> , since i dont have access to the dashboard, can you share the query that generated the",
+          "channel": "help-deliver-data",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 1.82,
+      "count": 4,
+      "top_mentioned": [
+        {
+          "user": "rafael.falcon",
+          "count": 2
+        },
+        {
+          "user": "nicholas.w.chen",
+          "count": 2
+        },
+        {
+          "user": "chelsea.truscott",
+          "count": 2
+        },
+        {
+          "user": "jon.hamburg",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.48,
+      "count": 39,
+      "top_channels": [
+        {
+          "channel": "help-deliver-data",
+          "messages": 13
+        },
+        {
+          "channel": "help-merchandising-data",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "jon.hamburg",
+          "count": 4
+        },
+        {
+          "user": "leo.zhao",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "1": 1,
+      "23": 1,
+      "22": 4,
+      "21": 4,
+      "20": 3,
+      "17": 1
+    },
+    "by_day": {
+      "Thursday": 1,
+      "Wednesday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.19,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1181,
+    "dept_size": 1233
+  }
+}

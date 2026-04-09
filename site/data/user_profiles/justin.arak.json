@@ -1,0 +1,293 @@
+{
+  "username": "justin.arak",
+  "name": "Justin Arak",
+  "generated_at": "2026-04-08T20:22:10.614622",
+  "summary": {
+    "message_count": 390,
+    "channels_active": 32,
+    "unique_people_mentioned": 41,
+    "unique_mentioners": 47,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 24,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Let me see if I can help move it along",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! if i\u2019m reading correctly it seems like you can schedule queries via api but the response is a schedule id, not data",
+          "channel": "shared-shopify-liveramp",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U032LHFA9TR> <@U050SRE9VGU> <@U04117VHY78> working on sharing a list for audience activation. mainly trying to test the integration but also want",
+          "channel": "cleanroom-26-evaluation-sprint",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Oh amazing, yes, so the pr was merged to create the bucket and directories and my pr was merged to write the files, but I dont have access as a human",
+          "channel": "help-infrasec",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "i would expect anything with a tag based lead. <@U0592S4N802> kindly cc\u2019ed a lot of people into",
+          "channel": "help-martech-signals",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U04QHRY6T8C> thank you for correcting my dates - i don\u2019t expect that should have reverted with the n+1 rollback - but you\u2019re right affiliates",
+          "channel": "help-shopify-websites",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah amazing, thank you!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "ah amazing, thank you!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "i thought you were ooo so i didn\u2019t want to bother - sorry about that!",
+          "channel": "help-infrasec",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah weird ok thank you - are all the failing dags below the same thing but the latest one passed?",
+          "channel": "marketing-conversion-event-alerts",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> see my message above, I guess I'm concerned that we're now respecting consent here, how can I figure it out?",
+          "channel": "jarak-river",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "but that logic would live in the signal sender (or whatever we\u2019re calling it now) and not upstream in enrichment?",
+          "channel": "help-melody",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U03GKK1C0ES> i don\u2019t think you should have seen an increase in data volume in the google data ingestion related to this incident as the conversions",
+          "channel": "inc-20443-marketing-data-infrastructure-failures",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Was mostly listening in from the soccer field - we have unlimited custom columns to send whatever attributes we want",
+          "channel": "cleanroom-26-evaluation-sprint",
+          "timestamp": "2026-03-18"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 42,
+      "top_mentioned": [
+        {
+          "user": "dirk.beese",
+          "count": 8
+        },
+        {
+          "user": "mariusz.wejman",
+          "count": 6
+        },
+        {
+          "user": "sal.rapisarldi",
+          "count": 6
+        },
+        {
+          "user": "christian.shumharden",
+          "count": 5
+        },
+        {
+          "user": "olaolu.olawuyi",
+          "count": 3
+        },
+        {
+          "user": "tor.thilert",
+          "count": 3
+        },
+        {
+          "user": "adi.matheswaran",
+          "count": 3
+        },
+        {
+          "user": "navied.shoushtarian",
+          "count": 3
+        },
+        {
+          "user": "boris.jovic",
+          "count": 3
+        },
+        {
+          "user": "trey.cooper",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.32,
+      "count": 360,
+      "top_channels": [
+        {
+          "channel": "help-martech-signals",
+          "messages": 52
+        },
+        {
+          "channel": "cleanroom-26-evaluation-sprint",
+          "messages": 47
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 40
+        },
+        {
+          "channel": "help-martech-operations",
+          "messages": 36
+        },
+        {
+          "channel": "jarak-river",
+          "messages": 22
+        },
+        {
+          "channel": "proj-mozart-bid-budget-automation",
+          "messages": 22
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 20
+        },
+        {
+          "channel": "shared-shopify-liveramp",
+          "messages": 19
+        },
+        {
+          "channel": "brochure-river",
+          "messages": 17
+        },
+        {
+          "channel": "marketing-conversion-event-alerts",
+          "messages": 17
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 142,
+      "top_mentioners": [
+        {
+          "user": "boris.jovic",
+          "count": 25
+        },
+        {
+          "user": "pierre-guillaume-3402",
+          "count": 10
+        },
+        {
+          "user": "emily.andresen",
+          "count": 6
+        },
+        {
+          "user": "pat.mcgrath",
+          "count": 6
+        },
+        {
+          "user": "christian.shumharden",
+          "count": 5
+        },
+        {
+          "user": "jennifer.patten",
+          "count": 5
+        },
+        {
+          "user": "erika.hellauer",
+          "count": 5
+        },
+        {
+          "user": "luis.f.gonzalez",
+          "count": 5
+        },
+        {
+          "user": "myles.young",
+          "count": 4
+        },
+        {
+          "user": "connor.cozens",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 29,
+      "17": 39,
+      "15": 56,
+      "14": 32,
+      "13": 16,
+      "12": 11,
+      "23": 24,
+      "22": 26,
+      "21": 21,
+      "20": 40,
+      "19": 49,
+      "16": 34,
+      "0": 8,
+      "11": 1,
+      "1": 4
+    },
+    "by_day": {
+      "Wednesday": 59,
+      "Tuesday": 96,
+      "Monday": 58,
+      "Friday": 84,
+      "Thursday": 93
+    }
+  },
+  "department_comparison": {
+    "department": "Growth",
+    "user_score_30d": 5.91,
+    "dept_average_30d": 5.58,
+    "dept_rank": 140,
+    "dept_size": 398
+  }
+}

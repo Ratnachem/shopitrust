@@ -1,0 +1,119 @@
+{
+  "username": "kirk.yuan",
+  "name": "Kirk Yuan",
+  "generated_at": "2026-04-08T20:22:30.548772",
+  "summary": {
+    "message_count": 6,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team, have a PR for updating pixel data access status - <https://github.com/shop/world/pull/540648>\n\nThanks!",
+          "channel": "proj-datasharing-activity-log",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi team :wave:, found an issue where the buttons active property would occasionally flicking when opening a Popover/Menu. Got a fix up and I'm",
+          "channel": "help-polaris",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I don't have the full context on how GID should be handled here, but from an instinctive standpoint this feels like an odd edge case we shouldn't",
+          "channel": "proj-datasharing-activity-log",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "natalie.lim",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.33,
+      "count": 88,
+      "top_channels": [
+        {
+          "channel": "proj-datasharing-activity-log",
+          "messages": 5
+        },
+        {
+          "channel": "help-polaris",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "natalie.lim",
+          "count": 5
+        },
+        {
+          "user": "rosalie.liu",
+          "count": 5
+        },
+        {
+          "user": "said.madi",
+          "count": 3
+        },
+        {
+          "user": "benjamin.destrempes",
+          "count": 2
+        },
+        {
+          "user": "dharina.hanumunthadu",
+          "count": 1
+        },
+        {
+          "user": "kahvi.patel",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 3,
+      "15": 1,
+      "19": 1,
+      "17": 1
+    },
+    "by_day": {
+      "Thursday": 2,
+      "Wednesday": 1,
+      "Tuesday": 2,
+      "Friday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.4,
+    "dept_average_30d": 5.77,
+    "dept_rank": 828,
+    "dept_size": 885
+  }
+}

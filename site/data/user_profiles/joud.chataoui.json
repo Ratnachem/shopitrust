@@ -1,0 +1,333 @@
+{
+  "username": "joud.chataoui",
+  "name": "Joud Chataoui",
+  "generated_at": "2026-04-08T20:22:06.408545",
+  "summary": {
+    "message_count": 988,
+    "channels_active": 29,
+    "unique_people_mentioned": 45,
+    "unique_mentioners": 41,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.2,
+      "pos_count": 12,
+      "neg_count": 12,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "Amazing! Thanks for the context Bahar. Yes i suspected it was from JS.\nYes you\u2019re right about the context. The problem is that the LLM is not",
+          "channel": "proj-merchant-llm",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you <@U03UEDLADAA> :thebest: I suspect it's the same problem where those earlier experiments had a json that was mismatching :thonkk:",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "My bad guys, pushing a patch now and i'll make a longer term fix later",
+          "channel": "sidekick-evals",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "i can help",
+          "text": "Hey folks, i had created this issue about having a dedicated extractor per criterion as an advanced option",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "yay thank you. I can review some but again, let's focus on the experiment details page",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Supportive",
+          "pattern": "good luck",
+          "text": "Good luck folks! Thank you for doing this :blobheart:",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Good luck folks! Thank you for doing this :blobheart:",
+          "channel": "proj-sidekick-server-move-to-world",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "ah thank you, sorry i missed that message",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Ah thank you. I'm forwarding it to the team",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "with `dev up`? :thonkk: let me know if you want us to look together, otherwise let's merge this one and we should be good",
+          "channel": "sidekick-evals",
+          "timestamp": "2026-03-24"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "And for 2 yes i think you should have a balanced dataset for your evals",
+          "channel": "help-flywheel",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Yes you would need an extractor, it's exactly the reason why extractors exist. Ideally you shouldn't have used freeform in the first place. You",
+          "channel": "help-flywheel",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I think to unblock myself i will try matching by path first and if it doesn't i will extract whatever is in the taskContext for that turn. It's",
+          "channel": "proj-sidekick-intents",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "ah that makes sense, so it's in the elastic search/vantage/whatever you use for searching but it's not in the db?",
+          "channel": "help-exp",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The convo does get updated if a new message gets added because we have columns like num_messages, current_message_idx or whatever it's called",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "that's your",
+          "text": "if claude can annotate stuff, that's your judge though no?",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "It's similar to force installing apps on people's stores, and it's worse because we send the data to another company but you guys know best. I just",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "i can't access zendesk for whatever reason",
+          "channel": "help-sidekick",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "<@U02C7AG9CF4> just checked with <@W01830YVAB1> and he can't access it either. The error message on GCP is completely useless. I would suggest just",
+          "channel": "sidekick-evals",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "We still have them, i think they might be useless",
+          "channel": "merchant-llm",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 47,
+      "top_mentioned": [
+        {
+          "user": "matt.koenig",
+          "count": 11
+        },
+        {
+          "user": "fredy.pla",
+          "count": 10
+        },
+        {
+          "user": "bene.pierrejean",
+          "count": 9
+        },
+        {
+          "user": "matthew.sherar",
+          "count": 8
+        },
+        {
+          "user": "amitoj.brar",
+          "count": 7
+        },
+        {
+          "user": "husain.mandsaurwala",
+          "count": 6
+        },
+        {
+          "user": "precious.kolawole",
+          "count": 6
+        },
+        {
+          "user": "felipe.leusin",
+          "count": 4
+        },
+        {
+          "user": "aly.gemae",
+          "count": 4
+        },
+        {
+          "user": "keerthan.vantakala",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.16,
+      "count": 299,
+      "top_channels": [
+        {
+          "channel": "proj-agent-flywheel-platform",
+          "messages": 316
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 153
+        },
+        {
+          "channel": "sidekick-evals",
+          "messages": 137
+        },
+        {
+          "channel": "proj-merchant-llm",
+          "messages": 76
+        },
+        {
+          "channel": "help-flywheel",
+          "messages": 50
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 40
+        },
+        {
+          "channel": "flow-project-ai",
+          "messages": 36
+        },
+        {
+          "channel": "merchant-llm",
+          "messages": 30
+        },
+        {
+          "channel": "big-agent-small-agent",
+          "messages": 29
+        },
+        {
+          "channel": "proj-sidekick-multimodal",
+          "messages": 23
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 135,
+      "top_mentioners": [
+        {
+          "user": "matt.koenig",
+          "count": 19
+        },
+        {
+          "user": "joe.lin",
+          "count": 10
+        },
+        {
+          "user": "amitoj.brar",
+          "count": 9
+        },
+        {
+          "user": "fredy.pla",
+          "count": 8
+        },
+        {
+          "user": "aly.gemae",
+          "count": 7
+        },
+        {
+          "user": "husain.mandsaurwala",
+          "count": 6
+        },
+        {
+          "user": "anastasiia.konon-7877",
+          "count": 5
+        },
+        {
+          "user": "bene.pierrejean",
+          "count": 5
+        },
+        {
+          "user": "chris.maltais",
+          "count": 5
+        },
+        {
+          "user": "matthew.sherar",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 115,
+      "17": 70,
+      "16": 86,
+      "15": 81,
+      "14": 114,
+      "11": 5,
+      "23": 19,
+      "21": 126,
+      "20": 79,
+      "19": 68,
+      "13": 90,
+      "12": 95,
+      "22": 40
+    },
+    "by_day": {
+      "Wednesday": 250,
+      "Tuesday": 273,
+      "Monday": 179,
+      "Thursday": 193,
+      "Friday": 93
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.73,
+    "dept_average_30d": 5.79,
+    "dept_rank": 116,
+    "dept_size": 1233
+  }
+}

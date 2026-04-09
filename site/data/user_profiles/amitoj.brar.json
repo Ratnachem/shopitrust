@@ -1,0 +1,224 @@
+{
+  "username": "amitoj.brar",
+  "name": "Amitoj Brar",
+  "generated_at": "2026-04-08T20:22:12.664079",
+  "summary": {
+    "message_count": 171,
+    "channels_active": 10,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 18,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "yes, my bad for confusion haven't analyzed that",
+          "channel": "sidekick-evals",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "shoutout",
+          "text": "The author field doesn't allow >1 users, added a shoutout! :ty-1:  for the help both :bow::skin-tone-3:",
+          "channel": "sidekick-merchant-llm",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "*MerchantLLM v3 update*\n\nUser simulator judge now has `Tasks Similarity` <https://flywheel.shopify.ai/models/36/experiments/361|kappa of 0.81 >(up",
+          "channel": "sidekick-merchant-llm",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "We aren't using grammar on Flywheel directly, it just latches on whatever existing FT has",
+          "channel": "proj-agent-flywheel-platform",
+          "timestamp": "2026-03-13"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.91,
+      "count": 15,
+      "top_mentioned": [
+        {
+          "user": "joud.chataoui",
+          "count": 8
+        },
+        {
+          "user": "bene.pierrejean",
+          "count": 7
+        },
+        {
+          "user": "husain.mandsaurwala",
+          "count": 4
+        },
+        {
+          "user": "matt.koenig",
+          "count": 3
+        },
+        {
+          "user": "bhavya.sharma",
+          "count": 2
+        },
+        {
+          "user": "fredy.pla",
+          "count": 2
+        },
+        {
+          "user": "amey.nevrenkar",
+          "count": 2
+        },
+        {
+          "user": "matthew.sherar",
+          "count": 2
+        },
+        {
+          "user": "ani.vangara",
+          "count": 1
+        },
+        {
+          "user": "shamar.phillips",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.13,
+      "count": 139,
+      "top_channels": [
+        {
+          "channel": "proj-agent-flywheel-platform",
+          "messages": 49
+        },
+        {
+          "channel": "help-flywheel",
+          "messages": 34
+        },
+        {
+          "channel": "sidekick-merchant-llm",
+          "messages": 33
+        },
+        {
+          "channel": "merchant-llm",
+          "messages": 30
+        },
+        {
+          "channel": "proj-merchant-llm",
+          "messages": 10
+        },
+        {
+          "channel": "sidekick-evals",
+          "messages": 9
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 3
+        },
+        {
+          "channel": "assistants-toronto",
+          "messages": 1
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 1
+        },
+        {
+          "channel": "sidekick-staging",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.17,
+      "count": 64,
+      "top_mentioners": [
+        {
+          "user": "bene.pierrejean",
+          "count": 9
+        },
+        {
+          "user": "joud.chataoui",
+          "count": 7
+        },
+        {
+          "user": "fredy.pla",
+          "count": 7
+        },
+        {
+          "user": "matt.koenig",
+          "count": 6
+        },
+        {
+          "user": "shamar.phillips",
+          "count": 6
+        },
+        {
+          "user": "aly.gemae",
+          "count": 5
+        },
+        {
+          "user": "husain.mandsaurwala",
+          "count": 4
+        },
+        {
+          "user": "amey.nevrenkar",
+          "count": 3
+        },
+        {
+          "user": "sandra.drag",
+          "count": 3
+        },
+        {
+          "user": "justin.harris",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 26,
+      "17": 21,
+      "13": 10,
+      "14": 20,
+      "20": 19,
+      "19": 26,
+      "4": 1,
+      "16": 9,
+      "15": 19,
+      "22": 2,
+      "23": 4,
+      "21": 9,
+      "2": 1,
+      "1": 2,
+      "10": 1,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 33,
+      "Monday": 23,
+      "Tuesday": 39,
+      "Friday": 23,
+      "Thursday": 53
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.17,
+    "dept_average_30d": 5.79,
+    "dept_rank": 335,
+    "dept_size": 1233
+  }
+}

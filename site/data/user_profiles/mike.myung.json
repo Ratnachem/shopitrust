@@ -1,0 +1,181 @@
+{
+  "username": "mike.myung",
+  "name": "Mike Myung",
+  "generated_at": "2026-04-08T20:22:24.764092",
+  "summary": {
+    "message_count": 37,
+    "channels_active": 9,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Brandon!\nNo rush on the timeline -- end of week is perfectly fine with me :slightly_smiling_face:",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hello friends! <@W018HUSRC67> mentioned there's an appetite for canary coverage for the new GetClusterIdentifiers endpoint in the Identity Graph",
+          "channel": "help-privacy-eng",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "oh shoot that's my bad then",
+          "channel": "identity-graph-notifications",
+          "timestamp": "2026-04-01"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "&gt; So any associations that we could know about up-to when the event is written should be available from the API by the time the event appears in",
+          "channel": "proj-customer-events-refinery",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "joseph.kahn",
+          "count": 1
+        },
+        {
+          "user": "alistair.israel",
+          "count": 1
+        },
+        {
+          "user": "eddie.cheung",
+          "count": 1
+        },
+        {
+          "user": "gabriel.lacroix",
+          "count": 1
+        },
+        {
+          "user": "emmanuel.delgado",
+          "count": 1
+        },
+        {
+          "user": "day.levesque",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.89,
+      "count": 50,
+      "top_channels": [
+        {
+          "channel": "cep-deprecation-task-force",
+          "messages": 12
+        },
+        {
+          "channel": "tmp-myung-river-1",
+          "messages": 7
+        },
+        {
+          "channel": "identity-graph",
+          "messages": 5
+        },
+        {
+          "channel": "identity-graph-notifications",
+          "messages": 4
+        },
+        {
+          "channel": "help-privacy-eng",
+          "messages": 2
+        },
+        {
+          "channel": "help-vault",
+          "messages": 2
+        },
+        {
+          "channel": "identity-and-events-atc",
+          "messages": 2
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 2
+        },
+        {
+          "channel": "proj-customer-events-refinery",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.67,
+      "count": 8,
+      "top_mentioners": [
+        {
+          "user": "daniel.steuernol",
+          "count": 3
+        },
+        {
+          "user": "eddie.cheung",
+          "count": 1
+        },
+        {
+          "user": "ryan.self",
+          "count": 1
+        },
+        {
+          "user": "jonny.lomond",
+          "count": 1
+        },
+        {
+          "user": "connor.clark",
+          "count": 1
+        },
+        {
+          "user": "day.levesque",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 1,
+      "20": 10,
+      "14": 8,
+      "21": 3,
+      "17": 2,
+      "16": 4,
+      "19": 2,
+      "18": 3,
+      "15": 4
+    },
+    "by_day": {
+      "Wednesday": 10,
+      "Tuesday": 9,
+      "Monday": 9,
+      "Thursday": 5,
+      "Friday": 4
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 4.88,
+    "dept_average_30d": 5.39,
+    "dept_rank": 174,
+    "dept_size": 272
+  }
+}

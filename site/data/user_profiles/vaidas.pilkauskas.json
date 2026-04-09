@@ -1,0 +1,156 @@
+{
+  "username": "vaidas.pilkauskas",
+  "name": "Vaidas Pilkauskas",
+  "generated_at": "2026-04-08T20:22:24.298290",
+  "summary": {
+    "message_count": 74,
+    "channels_active": 6,
+    "unique_people_mentioned": 8,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 0,
+      "neg_count": 1,
+      "positive_markers": [],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "don't care",
+          "text": "Also we don't care about most of the errors - maybe we should only filter to ones that are related to the remote commands, But I'm not sure, what if",
+          "channel": "gitstream",
+          "timestamp": "2026-03-31"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.09,
+      "count": 9,
+      "top_mentioned": [
+        {
+          "user": "josh.heinrichs",
+          "count": 8
+        },
+        {
+          "user": "sam.bostock",
+          "count": 3
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 3
+        },
+        {
+          "user": "don.kelly",
+          "count": 2
+        },
+        {
+          "user": "bastian.schon",
+          "count": 1
+        },
+        {
+          "user": "ester.kais",
+          "count": 1
+        },
+        {
+          "user": "ashley.williams",
+          "count": 1
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.47,
+      "count": 118,
+      "top_channels": [
+        {
+          "channel": "projects-environments",
+          "messages": 29
+        },
+        {
+          "channel": "environments-reviews",
+          "messages": 24
+        },
+        {
+          "channel": "gitstream",
+          "messages": 11
+        },
+        {
+          "channel": "dev-up",
+          "messages": 6
+        },
+        {
+          "channel": "shared-shopify-graphite",
+          "messages": 2
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "don.kelly",
+          "count": 14
+        },
+        {
+          "user": "ashley.williams",
+          "count": 5
+        },
+        {
+          "user": "sam.bostock",
+          "count": 5
+        },
+        {
+          "user": "olga.pilipenco",
+          "count": 2
+        },
+        {
+          "user": "henrique.andrade",
+          "count": 1
+        },
+        {
+          "user": "leszek.zalewski",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 25,
+      "12": 7,
+      "6": 5,
+      "14": 14,
+      "9": 2,
+      "7": 8,
+      "15": 7,
+      "11": 4,
+      "19": 1,
+      "16": 1
+    },
+    "by_day": {
+      "Wednesday": 19,
+      "Tuesday": 35,
+      "Monday": 5,
+      "Friday": 6,
+      "Thursday": 9
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.1,
+    "dept_average_30d": 5.75,
+    "dept_rank": 269,
+    "dept_size": 357
+  }
+}

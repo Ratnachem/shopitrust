@@ -1,0 +1,135 @@
+{
+  "username": "tiana.james",
+  "name": "Tiana James",
+  "generated_at": "2026-04-08T20:22:23.969028",
+  "summary": {
+    "message_count": 16,
+    "channels_active": 4,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 3,
+    "days_in_window": 21,
+    "days_scale": 0.91
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.6,
+      "pos_count": 6,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Heyy thanks for that! The last payment used Stripe but it was still unsuccessful. I'll do some troubleshooting on my end. Thank you!!",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hi team can someone check in on this please. Thank you!!",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Team, can someone change this merchant's billing to use Stripe instead of Braintree please. Their invoice is stuck. Thanks!",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Team, This merchant is trying to add a bank account to their new SP acct, in MA it shows that the details have been added successfully through",
+          "channel": "help-payments-account-capabilities",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you so much!! Take care :))",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi Team! Can someone enable the flag to have this merchants billing payments use Stripe instead of Braintree please? They are receiving the 915179",
+          "channel": "help-billing-platform",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.0,
+      "count": 0,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.0,
+      "count": 0,
+      "top_channels": [
+        {
+          "channel": "help-billing-platform",
+          "messages": 10
+        },
+        {
+          "channel": "help-money-movement-and-expansion",
+          "messages": 2
+        },
+        {
+          "channel": "help-fraud-operations",
+          "messages": 2
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.91,
+      "count": 4,
+      "top_mentioners": [
+        {
+          "user": "nanakwame.acheampong",
+          "count": 2
+        },
+        {
+          "user": "dan.dobrick",
+          "count": 1
+        },
+        {
+          "user": "haroon.ahmed",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 4,
+      "22": 2,
+      "21": 2,
+      "18": 3,
+      "17": 2,
+      "23": 1,
+      "15": 2
+    },
+    "by_day": {
+      "Wednesday": 5,
+      "Monday": 3,
+      "Thursday": 4,
+      "Friday": 2,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 3.76,
+    "dept_average_30d": 4.74,
+    "dept_rank": 1397,
+    "dept_size": 1663
+  }
+}

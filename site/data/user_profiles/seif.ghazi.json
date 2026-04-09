@@ -1,0 +1,270 @@
+{
+  "username": "seif.ghazi",
+  "name": "Seif Ghazi",
+  "generated_at": "2026-04-08T20:22:22.495757",
+  "summary": {
+    "message_count": 396,
+    "channels_active": 14,
+    "unique_people_mentioned": 25,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.3,
+      "pos_count": 13,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "sorry about that",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": ":wave: happy to help, but can we pls move this thread to <#C09KJKUQNPL>?",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you river",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "<@U07QPDHGDH7> happy to help, but yes pls could you start a new thread in <#C09KJKUQNPL>. Just don't want to lose track of this one",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": ":wave: happy to help - can you pls start a thread in <#C09KJKUQNPL>?",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "cool - when you get to setting up the local env, feel free to let us know if there are any gaps that you think would make your life easier",
+          "channel": "help-query-engine",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you! <@U02J8D269UN> and I had a quick convo in <#C08A0KDGR8E> around timelines. Simon I'll loop you in when we're ready to prototype with YB on",
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! looks good :pray1: left a minor nit comment",
+          "channel": "proj-infra-flink-after-notify",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you!",
+          "channel": "help-yugabyte",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey folks, chiming in from Query Engine here :wave:\n\nMoving a discussion from another thread around what access control looks like between QE and",
+          "channel": "yugabyte-mission",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "vivek.wassan",
+          "count": 11
+        },
+        {
+          "user": "kevin.lam",
+          "count": 5
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 3
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 3
+        },
+        {
+          "user": "simon.pearson",
+          "count": 3
+        },
+        {
+          "user": "joey.sacchini",
+          "count": 2
+        },
+        {
+          "user": "jun.park",
+          "count": 2
+        },
+        {
+          "user": "cameron.morgan",
+          "count": 2
+        },
+        {
+          "user": "maria.ntalla",
+          "count": 2
+        },
+        {
+          "user": "michael.terranova",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.05,
+      "count": 240,
+      "top_channels": [
+        {
+          "channel": "help-query-engine",
+          "messages": 169
+        },
+        {
+          "channel": "query-engine-dev",
+          "messages": 118
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 35
+        },
+        {
+          "channel": "proj-shop-yugabyte-tables-migration",
+          "messages": 18
+        },
+        {
+          "channel": "help-yugabyte",
+          "messages": 16
+        },
+        {
+          "channel": "help-database-platform",
+          "messages": 10
+        },
+        {
+          "channel": "seif-river",
+          "messages": 7
+        },
+        {
+          "channel": "team-cloud-systems",
+          "messages": 6
+        },
+        {
+          "channel": "help-infrasec",
+          "messages": 6
+        },
+        {
+          "channel": "proj-semantic-query-engine-ops",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 8.23,
+      "count": 55,
+      "top_mentioners": [
+        {
+          "user": "prabhjot.bharaj",
+          "count": 6
+        },
+        {
+          "user": "jason.liu",
+          "count": 5
+        },
+        {
+          "user": "elaine.y.chan",
+          "count": 4
+        },
+        {
+          "user": "kevin.lam",
+          "count": 4
+        },
+        {
+          "user": "christian.lessard",
+          "count": 4
+        },
+        {
+          "user": "ryan.crumley",
+          "count": 3
+        },
+        {
+          "user": "pritesh.gudge",
+          "count": 3
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 2
+        },
+        {
+          "user": "aaron.zhang",
+          "count": 2
+        },
+        {
+          "user": "vivek.wassan",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 61,
+      "14": 48,
+      "18": 81,
+      "16": 28,
+      "17": 41,
+      "20": 26,
+      "19": 48,
+      "0": 1,
+      "21": 32,
+      "13": 24,
+      "12": 2,
+      "11": 3,
+      "10": 1
+    },
+    "by_day": {
+      "Wednesday": 101,
+      "Tuesday": 85,
+      "Thursday": 128,
+      "Monday": 39,
+      "Friday": 43
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 6.33,
+    "dept_average_30d": 5.75,
+    "dept_rank": 79,
+    "dept_size": 357
+  }
+}

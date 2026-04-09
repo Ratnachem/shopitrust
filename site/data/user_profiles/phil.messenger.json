@@ -1,0 +1,218 @@
+{
+  "username": "phil.messenger",
+  "name": "Phil Messenger",
+  "generated_at": "2026-04-08T20:22:15.144081",
+  "summary": {
+    "message_count": 304,
+    "channels_active": 18,
+    "unique_people_mentioned": 18,
+    "unique_mentioners": 31,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.6,
+      "pos_count": 1,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "amazing, thanks Leo. :sweat_smile:",
+          "channel": "proj-3p-automation-autopilot",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> yeah I think that's it, `MarketingCampaign` - whatever the admin Create campaign page",
+          "channel": "proj-autopilot-ai-flows",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "going to add that to my list of stupid things AI has said.",
+          "channel": "proj-autopilot",
+          "timestamp": "2026-03-27"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "travis.allan",
+          "count": 6
+        },
+        {
+          "user": "sachin.malhotra",
+          "count": 4
+        },
+        {
+          "user": "marcos.deoliveiracoutofilho",
+          "count": 2
+        },
+        {
+          "user": "wuang.qin",
+          "count": 2
+        },
+        {
+          "user": "francesco.sardo",
+          "count": 2
+        },
+        {
+          "user": "craig.coles",
+          "count": 2
+        },
+        {
+          "user": "kazden.cattapan",
+          "count": 2
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 2
+        },
+        {
+          "user": "clare.curtis",
+          "count": 1
+        },
+        {
+          "user": "hussein.hegazy",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.61,
+      "count": 270,
+      "top_channels": [
+        {
+          "channel": "proj-autopilot",
+          "messages": 166
+        },
+        {
+          "channel": "proj-3p-automation-autopilot",
+          "messages": 27
+        },
+        {
+          "channel": "proj-s4m-recommendation-service",
+          "messages": 24
+        },
+        {
+          "channel": "proj-autopilot-ux-pillar",
+          "messages": 19
+        },
+        {
+          "channel": "proj-autopilot-ai-flows",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-mm-autopilot-burst",
+          "messages": 9
+        },
+        {
+          "channel": "proj-messaging-autopilot",
+          "messages": 9
+        },
+        {
+          "channel": "proj-3p-rtb",
+          "messages": 6
+        },
+        {
+          "channel": "help-customers",
+          "messages": 6
+        },
+        {
+          "channel": "proj-infra-shopkv-store",
+          "messages": 5
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 9.17,
+      "count": 64,
+      "top_mentioners": [
+        {
+          "user": "craig.coles",
+          "count": 7
+        },
+        {
+          "user": "chase.platon",
+          "count": 5
+        },
+        {
+          "user": "joel.dmello",
+          "count": 4
+        },
+        {
+          "user": "soheil.hajimohammadi",
+          "count": 4
+        },
+        {
+          "user": "toby.barnes",
+          "count": 3
+        },
+        {
+          "user": "rose.wiegley",
+          "count": 3
+        },
+        {
+          "user": "clare.curtis",
+          "count": 2
+        },
+        {
+          "user": "nathan.taithill",
+          "count": 2
+        },
+        {
+          "user": "travis.allan",
+          "count": 2
+        },
+        {
+          "user": "yingwei.lin",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 53,
+      "16": 41,
+      "15": 37,
+      "14": 12,
+      "13": 9,
+      "12": 9,
+      "11": 7,
+      "23": 4,
+      "22": 17,
+      "21": 28,
+      "20": 25,
+      "19": 15,
+      "8": 17,
+      "7": 2,
+      "17": 14,
+      "9": 6,
+      "10": 8
+    },
+    "by_day": {
+      "Wednesday": 77,
+      "Tuesday": 81,
+      "Friday": 42,
+      "Thursday": 49,
+      "Monday": 55
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 6.49,
+    "dept_average_30d": 5.77,
+    "dept_rank": 120,
+    "dept_size": 885
+  }
+}

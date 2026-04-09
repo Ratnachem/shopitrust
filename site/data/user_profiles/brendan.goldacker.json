@@ -1,0 +1,278 @@
+{
+  "username": "brendan.goldacker",
+  "name": "Brendan Goldacker",
+  "generated_at": "2026-04-08T20:22:24.371684",
+  "summary": {
+    "message_count": 187,
+    "channels_active": 22,
+    "unique_people_mentioned": 29,
+    "unique_mentioners": 21,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.9,
+      "pos_count": 19,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey <@U03KALJNC8Z> thanks!\n\n&gt;  shared we have a <https://observe.shopify.io/goto/dfiegw56lqm80b?orgId=1|highlights> one which have a Spanner",
+          "channel": "search-ingestion-and-indexing-team",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great. Thanks!",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U09NA2M8Z6V> Thanks! no worries. Sorry for the ping on your vacation.",
+          "channel": "tmp-catalog-api-similar-products",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Great. Thanks!",
+          "channel": "help-files",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Thats aligned with what I was thinking too. However, I wasn't sure how to do the null embedding check to the normal DSL.\n\nFor similar_upi if",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey I'm having an issue running `dev up` in the <https://github.com/Shopify/discovery/|discovery repo> (let me know if there is a better channel for",
+          "channel": "search-team",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n\nThose were needed to get `dev platform` to work locally (currently 'main' is broke if you try to run vantage locally). So I'd rather keep",
+          "channel": "tmp-catalog-api-similar-products",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Bump on these questions for the spanner gurus. Or let me know if theres a better channel to post these",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! I've the regular `platform` setup is working now.",
+          "channel": "search-localdev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt;  I do not know all the reasons why we would not just return the data that's already there,\nOhh thats really good to know. Thanks!",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hey all, I'm new working with the broker/DSLs. I need to make an update to the `similar_upi` dsl.\n\nFrom what I've read that process looks like:\n1.",
+          "channel": "search-localdev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I'm looking to see if we can settle on an approach before I update the API.\nIt will take some time to implement whatever approach we go with (pHash",
+          "channel": "tmp-catalog-api-similar-products",
+          "timestamp": "2026-03-23"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 9.55,
+      "count": 31,
+      "top_mentioned": [
+        {
+          "user": "mariya.mansurova",
+          "count": 9
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 7
+        },
+        {
+          "user": "shuying.sun",
+          "count": 6
+        },
+        {
+          "user": "aaron.yuen",
+          "count": 6
+        },
+        {
+          "user": "samantha.john",
+          "count": 5
+        },
+        {
+          "user": "alex.watt",
+          "count": 4
+        },
+        {
+          "user": "abigail.stone",
+          "count": 4
+        },
+        {
+          "user": "dilan.nebioglu",
+          "count": 4
+        },
+        {
+          "user": "nikola.todic",
+          "count": 3
+        },
+        {
+          "user": "irina.pchelintceva",
+          "count": 3
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.96,
+      "count": 394,
+      "top_channels": [
+        {
+          "channel": "tmp-catalog-api-similar-products",
+          "messages": 46
+        },
+        {
+          "channel": "catalog-api-team",
+          "messages": 33
+        },
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 26
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 14
+        },
+        {
+          "channel": "catalog-platform-team-prs",
+          "messages": 13
+        },
+        {
+          "channel": "search-localdev",
+          "messages": 9
+        },
+        {
+          "channel": "search-team",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20260-similarity-search-broken-after-shop-spann",
+          "messages": 7
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 4
+        },
+        {
+          "channel": "inc-20774-catalog-api-onedcg10-drops-by-3-pt",
+          "messages": 4
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.29,
+      "count": 46,
+      "top_mentioners": [
+        {
+          "user": "aaron.yuen",
+          "count": 7
+        },
+        {
+          "user": "mariya.mansurova",
+          "count": 5
+        },
+        {
+          "user": "abigail.stone",
+          "count": 5
+        },
+        {
+          "user": "koen.bouwmans",
+          "count": 3
+        },
+        {
+          "user": "shuying.sun",
+          "count": 3
+        },
+        {
+          "user": "alex.watt",
+          "count": 3
+        },
+        {
+          "user": "anmol.chhabria",
+          "count": 3
+        },
+        {
+          "user": "felipe.besson",
+          "count": 2
+        },
+        {
+          "user": "samantha.john",
+          "count": 2
+        },
+        {
+          "user": "brian.cahill",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 20,
+      "22": 7,
+      "20": 14,
+      "18": 22,
+      "14": 24,
+      "21": 10,
+      "17": 22,
+      "16": 22,
+      "15": 17,
+      "12": 8,
+      "19": 10,
+      "11": 5,
+      "2": 1,
+      "23": 5
+    },
+    "by_day": {
+      "Wednesday": 43,
+      "Tuesday": 49,
+      "Monday": 45,
+      "Friday": 27,
+      "Thursday": 23
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.13,
+    "dept_average_30d": 5.79,
+    "dept_rank": 357,
+    "dept_size": 1233
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "username": "ryan.ludwig",
+  "name": "Ryan Ludwig",
+  "generated_at": "2026-04-08T20:22:18.666443",
+  "summary": {
+    "message_count": 78,
+    "channels_active": 18,
+    "unique_people_mentioned": 5,
+    "unique_mentioners": 9,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh fantastic, thank you <@U07LSQF1AKH>!",
+          "channel": "help-monetization",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "b2b-eng",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M> please take a look the comments above. Feel free to rebase against main and update the PR if you think that will help e2e.",
+          "channel": "checkout-experience-production-support",
+          "timestamp": "2026-03-26"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "One more data point:\n\n*English is _not_ an enabled locale on this store.* The locale configuration is Portuguese-only:\n\n- `shop_primary_locale`:",
+          "channel": "help-checkout",
+          "timestamp": "2026-04-03"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 2.73,
+      "count": 6,
+      "top_mentioned": [
+        {
+          "user": "owen.xia",
+          "count": 3
+        },
+        {
+          "user": "hanna.bennett",
+          "count": 1
+        },
+        {
+          "user": "chelsea.truscott",
+          "count": 1
+        },
+        {
+          "user": "fernando.galvezluis",
+          "count": 1
+        },
+        {
+          "user": "janelle.wilsonleung",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.87,
+      "count": 178,
+      "top_channels": [
+        {
+          "channel": "help-checkout",
+          "messages": 20
+        },
+        {
+          "channel": "river-ryanl",
+          "messages": 15
+        },
+        {
+          "channel": "checkout-experience-production-support",
+          "messages": 8
+        },
+        {
+          "channel": "checkout-atc-river",
+          "messages": 7
+        },
+        {
+          "channel": "checkout-e2e-flakiness-devs",
+          "messages": 5
+        },
+        {
+          "channel": "help-checkout-accounts-customizations",
+          "messages": 5
+        },
+        {
+          "channel": "embedded-checkout-partner-branding-requests",
+          "messages": 4
+        },
+        {
+          "channel": "help-monetization",
+          "messages": 2
+        },
+        {
+          "channel": "b2b-eng",
+          "messages": 2
+        },
+        {
+          "channel": "proj-universal-checkout",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 3.54,
+      "count": 17,
+      "top_mentioners": [
+        {
+          "user": "martin.lechner",
+          "count": 4
+        },
+        {
+          "user": "jesse.noseworthy",
+          "count": 3
+        },
+        {
+          "user": "jordan.liddle",
+          "count": 3
+        },
+        {
+          "user": "jeanloup.trolliard",
+          "count": 2
+        },
+        {
+          "user": "owen.xia",
+          "count": 1
+        },
+        {
+          "user": "joey.tedeschi",
+          "count": 1
+        },
+        {
+          "user": "wilson.chiang",
+          "count": 1
+        },
+        {
+          "user": "juanita.dash",
+          "count": 1
+        },
+        {
+          "user": "jenny.walsh",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 10,
+      "20": 11,
+      "19": 9,
+      "23": 6,
+      "22": 20,
+      "18": 12,
+      "21": 1,
+      "0": 5,
+      "16": 4
+    },
+    "by_day": {
+      "Wednesday": 10,
+      "Monday": 4,
+      "Friday": 36,
+      "Thursday": 13,
+      "Tuesday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.46,
+    "dept_average_30d": 5.79,
+    "dept_rank": 758,
+    "dept_size": 1233
+  }
+}

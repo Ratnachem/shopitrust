@@ -1,0 +1,182 @@
+{
+  "username": "chris.c.barnes",
+  "name": "Chris C Barnes",
+  "generated_at": "2026-04-08T20:22:12.985295",
+  "summary": {
+    "message_count": 155,
+    "channels_active": 4,
+    "unique_people_mentioned": 6,
+    "unique_mentioners": 6,
+    "days_in_window": 22,
+    "days_scale": 0.96
+  },
+  "categories": {
+    "sentiment": {
+      "score": 3.1,
+      "pos_count": 1,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Hi folks, <@U08HDANMNHJ>, <@U08HAC2RBS6>, Sorry about this: I seem to have broken the build system.  I was setting up the skeleton for a Kubernetes",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-04-03"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U08HDANMNHJ>: PR's merged now.   Would you mind if I rolled it out to staging shortly? That way whatever the shard-server deployment is that comes",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "Hi <@U09G876SU7J>:  First, thanks for doing this, it looks like a great deal of work.   Second: I think this layer of the code  and yaml would",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Hi folks,\n    That stupid \"get-history\" kafka reading code _still_ wasn't retrieving anything when run in production.  Annoying as anything.  I",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Follow-up to that one: Earlier-PR had a stupid null-handling bug that somehow dodged unit-testing. Trivial fix",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "[[ The broker build was d7bebbb656d12d2529e9808a7fe975aa025e590e , looks like it came from <@U08HY1XKGPJ>'s branch ",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Threatening",
+          "pattern": "or else",
+          "text": "Thanks for reviews, those who looked!  The PR for full deployment cycle logic is now merged. In runs from now on, we should see the new logic execute",
+          "channel": "proj-search-deployment-pipeline",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.8,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "rodrigo.menezes",
+          "count": 28
+        },
+        {
+          "user": "robert.adler",
+          "count": 14
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 14
+        },
+        {
+          "user": "logan.best",
+          "count": 8
+        },
+        {
+          "user": "baiji.he",
+          "count": 2
+        },
+        {
+          "user": "mingqin.li",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.13,
+      "count": 79,
+      "top_channels": [
+        {
+          "channel": "proj-search-deployment-pipeline",
+          "messages": 146
+        },
+        {
+          "channel": "spy-commands",
+          "messages": 5
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 3
+        },
+        {
+          "channel": "proj-test-pilot-shared",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.44,
+      "count": 27,
+      "top_mentioners": [
+        {
+          "user": "rodrigo.menezes",
+          "count": 10
+        },
+        {
+          "user": "robert.adler",
+          "count": 9
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 3
+        },
+        {
+          "user": "logan.best",
+          "count": 2
+        },
+        {
+          "user": "drew.hayward",
+          "count": 2
+        },
+        {
+          "user": "mingqin.li",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 45,
+      "17": 11,
+      "16": 21,
+      "0": 13,
+      "23": 29,
+      "21": 14,
+      "19": 6,
+      "22": 5,
+      "20": 11
+    },
+    "by_day": {
+      "Wednesday": 31,
+      "Tuesday": 41,
+      "Friday": 35,
+      "Thursday": 37,
+      "Monday": 11
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 5.44,
+    "dept_average_30d": 4.74,
+    "dept_rank": 363,
+    "dept_size": 1663
+  }
+}

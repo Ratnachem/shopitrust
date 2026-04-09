@@ -1,0 +1,88 @@
+{
+  "username": "leia.atkinson",
+  "name": "Leia Atkinson",
+  "generated_at": "2026-04-08T20:22:15.075714",
+  "summary": {
+    "message_count": 12,
+    "channels_active": 3,
+    "unique_people_mentioned": 0,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi all! I'm back from parental leave now. :slightly_smiling_face: Let me know if you have any other questions about the research - glad it's being",
+          "channel": "retail-country-expansion-2026",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you",
+          "channel": "yougov-automation-test",
+          "timestamp": "2026-04-08"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": []
+    },
+    "channel_connections": {
+      "score": 0.49,
+      "count": 13,
+      "top_channels": [
+        {
+          "channel": "yougov-automation-test",
+          "messages": 6
+        },
+        {
+          "channel": "help-it",
+          "messages": 5
+        },
+        {
+          "channel": "retail-country-expansion-2026",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "anne.branchut",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 1,
+      "14": 6,
+      "17": 2,
+      "13": 3
+    },
+    "by_day": {
+      "Wednesday": 12
+    }
+  },
+  "department_comparison": {
+    "department": "Data",
+    "user_score_30d": 3.54,
+    "dept_average_30d": 5.39,
+    "dept_rank": 264,
+    "dept_size": 272
+  }
+}

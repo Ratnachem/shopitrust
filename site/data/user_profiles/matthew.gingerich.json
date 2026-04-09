@@ -1,0 +1,214 @@
+{
+  "username": "matthew.gingerich",
+  "name": "Matthew Gingerich",
+  "generated_at": "2026-04-08T20:22:14.932217",
+  "summary": {
+    "message_count": 251,
+    "channels_active": 13,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 11,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.3,
+      "pos_count": 3,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "congrats",
+          "text": "Hi folks (and congrats on your rollouts!), I've been trying to understand the payment method configuration model introduced by this project to build",
+          "channel": "pp-multi-direct-gateway",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "&gt; I think that removing the payment-service LPM flag from <https://experiments.shopify.io/team-pages/payments/emergency-flags> would make sense.",
+          "channel": "inc-20812-success-rate-dropped-for-bancontact",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> Yep, that worked, thanks!\n\nIt might have worked if I just ran the tests a second time, given that the PR to clean up the cache already",
+          "channel": "lpm-temp-river-threads",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "james.dirosa",
+          "count": 7
+        },
+        {
+          "user": "jan.dohring",
+          "count": 6
+        },
+        {
+          "user": "andrew.verbovsky",
+          "count": 3
+        },
+        {
+          "user": "rohini.palliyali",
+          "count": 2
+        },
+        {
+          "user": "nadia.kostiv",
+          "count": 2
+        },
+        {
+          "user": "illia.lotfalian",
+          "count": 2
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 1
+        },
+        {
+          "user": "max.piorischin",
+          "count": 1
+        },
+        {
+          "user": "rahil.virani",
+          "count": 1
+        },
+        {
+          "user": "lucas.campanari",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.23,
+      "count": 144,
+      "top_channels": [
+        {
+          "channel": "pp-proj-msi",
+          "messages": 155
+        },
+        {
+          "channel": "pp-local-payment-methods-monitoring",
+          "messages": 27
+        },
+        {
+          "channel": "andrews-river-interactions",
+          "messages": 21
+        },
+        {
+          "channel": "lpm-temp-river-threads",
+          "messages": 16
+        },
+        {
+          "channel": "pp-turn-on-all-sp-lpms",
+          "messages": 12
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 6
+        },
+        {
+          "channel": "pp-proj-sp-lpms",
+          "messages": 4
+        },
+        {
+          "channel": "pp-multi-direct-gateway",
+          "messages": 3
+        },
+        {
+          "channel": "andy-river-experiment",
+          "messages": 3
+        },
+        {
+          "channel": "inc-20812-success-rate-dropped-for-bancontact",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.88,
+      "count": 42,
+      "top_mentioners": [
+        {
+          "user": "james.dirosa",
+          "count": 16
+        },
+        {
+          "user": "rohini.palliyali",
+          "count": 6
+        },
+        {
+          "user": "patrick.fang",
+          "count": 5
+        },
+        {
+          "user": "rahil.virani",
+          "count": 4
+        },
+        {
+          "user": "andrew.verbovsky",
+          "count": 2
+        },
+        {
+          "user": "nadia.kostiv",
+          "count": 2
+        },
+        {
+          "user": "asma.laaribi",
+          "count": 2
+        },
+        {
+          "user": "illia.lotfalian",
+          "count": 2
+        },
+        {
+          "user": "jan.dohring",
+          "count": 1
+        },
+        {
+          "user": "bertrand.braschi",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 31,
+      "17": 13,
+      "15": 12,
+      "20": 42,
+      "14": 8,
+      "22": 28,
+      "21": 51,
+      "19": 32,
+      "16": 13,
+      "13": 10,
+      "1": 2,
+      "23": 6,
+      "4": 2,
+      "0": 1
+    },
+    "by_day": {
+      "Wednesday": 55,
+      "Tuesday": 51,
+      "Thursday": 87,
+      "Monday": 31,
+      "Friday": 27
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.36,
+    "dept_average_30d": 5.77,
+    "dept_rank": 597,
+    "dept_size": 885
+  }
+}

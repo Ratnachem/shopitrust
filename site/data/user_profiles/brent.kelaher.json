@@ -1,0 +1,101 @@
+{
+  "username": "brent.kelaher",
+  "name": "Brent Kelaher",
+  "generated_at": "2026-04-08T20:22:32.172443",
+  "summary": {
+    "message_count": 11,
+    "channels_active": 3,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 1,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.2,
+      "pos_count": 2,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "help-coupa",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Hiya <@U09DUL1JQ02> looking to move Invoice Number: 00054109386 to Purchase Order #21081355\n\nThank you",
+          "channel": "help-coupa",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.91,
+      "count": 2,
+      "top_mentioned": [
+        {
+          "user": "cindy.hanuman",
+          "count": 1
+        },
+        {
+          "user": "maanas.verma",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.23,
+      "count": 59,
+      "top_channels": [
+        {
+          "channel": "dev-environment-setup",
+          "messages": 8
+        },
+        {
+          "channel": "help-coupa",
+          "messages": 2
+        },
+        {
+          "channel": "help-ports",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 0.42,
+      "count": 2,
+      "top_mentioners": [
+        {
+          "user": "maanas.verma",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 1,
+      "16": 5,
+      "14": 2,
+      "19": 1,
+      "15": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Thursday": 8,
+      "Wednesday": 1,
+      "Tuesday": 2
+    }
+  },
+  "department_comparison": {
+    "department": "Operations",
+    "user_score_30d": 3.3,
+    "dept_average_30d": 4.56,
+    "dept_rank": 71,
+    "dept_size": 74
+  }
+}

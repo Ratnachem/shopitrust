@@ -1,0 +1,226 @@
+{
+  "username": "daniel.qiu",
+  "name": "Daniel Qiu",
+  "generated_at": "2026-04-08T20:22:28.688041",
+  "summary": {
+    "message_count": 133,
+    "channels_active": 10,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 6,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":waveboi:  I'm setting up Observe synthetic checks for the Search Serving team which consists of 46 Playwright checks monitoring storefront search",
+          "channel": "help-observability",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sorry it took a bit longer than expected. Took me a while to dig down this rabbithole trying to figure it out. Hopefully this explains the",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> Here is the first few lines of the result. Let me know if you need more\n{\n  \"_index\": \"storefront_products.168\",\n  \"_id\":",
+          "channel": "daniel-qiu-river",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hey team! I'm on the Search Serving Team.\nOur Playwright e2e tests (`index-serving-storefront-search-e2e` pipeline in Buildkite) have become very",
+          "channel": "proj-unified-human-and-bot-signal",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@U03NRC3J54H>,\nI was able to identify the root cause of this issue.\n*The problem*: The merchant's variant metafield car.ids contains more than",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": ":waveboi:  I'm setting up Observe synthetic checks for the Search Serving team which consists of 46 Playwright checks monitoring storefront search",
+          "channel": "help-observability",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Sorry it took a bit longer than expected. Took me a while to dig down this rabbithole trying to figure it out. Hopefully this explains the",
+          "channel": "help-search-serving",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> Do whatever you need to have a full thorough investigation on this issue. By the end of your investigation, you should be able to",
+          "channel": "daniel-qiu-river",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 4.55,
+      "count": 10,
+      "top_mentioned": [
+        {
+          "user": "fernando.galvezluis",
+          "count": 2
+        },
+        {
+          "user": "caroline",
+          "count": 2
+        },
+        {
+          "user": "freddie.batista",
+          "count": 1
+        },
+        {
+          "user": "jp.trawinski",
+          "count": 1
+        },
+        {
+          "user": "hargun.singh",
+          "count": 1
+        },
+        {
+          "user": "rucha.dalsania",
+          "count": 1
+        },
+        {
+          "user": "michael.herold",
+          "count": 1
+        },
+        {
+          "user": "brian.cahill",
+          "count": 1
+        },
+        {
+          "user": "michael.pauls",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.78,
+      "count": 226,
+      "top_channels": [
+        {
+          "channel": "daniel-qiu-river",
+          "messages": 97
+        },
+        {
+          "channel": "headless-dev",
+          "messages": 16
+        },
+        {
+          "channel": "help-search-serving",
+          "messages": 8
+        },
+        {
+          "channel": "help-search-internal",
+          "messages": 4
+        },
+        {
+          "channel": "proj-search-storefront-search-throttle",
+          "messages": 2
+        },
+        {
+          "channel": "search-ingestion-and-indexing-team",
+          "messages": 2
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 1
+        },
+        {
+          "channel": "help-observability",
+          "messages": 1
+        },
+        {
+          "channel": "search-tooling-team",
+          "messages": 1
+        },
+        {
+          "channel": "proj-unified-human-and-bot-signal",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 2.5,
+      "count": 12,
+      "top_mentioners": [
+        {
+          "user": "caroline",
+          "count": 3
+        },
+        {
+          "user": "brenda.segal",
+          "count": 3
+        },
+        {
+          "user": "fernando.galvezluis",
+          "count": 3
+        },
+        {
+          "user": "hargun.singh",
+          "count": 1
+        },
+        {
+          "user": "andrew.nguyen",
+          "count": 1
+        },
+        {
+          "user": "marcandre.cournoyer",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 2,
+      "20": 24,
+      "19": 9,
+      "16": 7,
+      "14": 23,
+      "17": 4,
+      "15": 30,
+      "22": 5,
+      "18": 21,
+      "21": 8
+    },
+    "by_day": {
+      "Tuesday": 49,
+      "Thursday": 34,
+      "Wednesday": 14,
+      "Monday": 28,
+      "Friday": 8
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.01,
+    "dept_average_30d": 5.79,
+    "dept_rank": 997,
+    "dept_size": 1233
+  }
+}

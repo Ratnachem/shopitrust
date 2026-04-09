@@ -1,0 +1,272 @@
+{
+  "username": "jack.dziewonski",
+  "name": "Jack Dziewonski",
+  "generated_at": "2026-04-08T20:22:20.987583",
+  "summary": {
+    "message_count": 535,
+    "channels_active": 21,
+    "unique_people_mentioned": 24,
+    "unique_mentioners": 23,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "I don't have amazing context on SLEs but I'd guess not. I asked my team about this but didn't get a reply, let me bump just for a second set of eyes",
+          "channel": "help-shopify-payments-kyc",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "perfect thank you, I think tomorrow is totally fine",
+          "channel": "help-shopify-payments-kyc",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W018B13B1C6> thanks, looks like there was an actual test failure hidden among all else. Let me know if this test change looks ok, i'll admit it was",
+          "channel": "business-platform",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "ah my bad",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\n```You can refer to [this PR](<https://github.com/Shopify/shopify/pull/198167>) for more details on how and why this parameter was",
+          "channel": "river-payment-account-capabilities",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<@U0AEPQCKB3M>\n```Like any other API, a GraphQL API may need to restrict certain sections of the schema to\na subset of clients only. At Shopify, we",
+          "channel": "river-payment-account-capabilities",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Sorry for the spam but one more question when you can <@W018B13B1C6>, i'm a bit stumped on how to proceed now..\nHave you dealt with updating api",
+          "channel": "help-accounts-and-access",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Well do we even want it to work? As I understood we're fine to not surface it on checkout since the merchant is rejected, apple pay just doesn't was",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "From other investigation, it seems that indeed the ``pre_resolve_access :payment_settings` does not actually at any point resolve to the",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> the current system would grant `manage_payments_settings` and `payment_settings` in the database together, but would it not be cleaner",
+          "channel": "river-payment-account-capabilities",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U0AEPQCKB3M> the current system would grant `manage_payments_settings` and `payment_settings` in the database together, but would it not be cleaner",
+          "channel": "payments-account-capabilities",
+          "timestamp": "2026-03-16"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 8.41,
+      "count": 26,
+      "top_mentioned": [
+        {
+          "user": "asma.laaribi",
+          "count": 8
+        },
+        {
+          "user": "drew.matheson",
+          "count": 4
+        },
+        {
+          "user": "chris.dakin",
+          "count": 3
+        },
+        {
+          "user": "yuti.wang",
+          "count": 3
+        },
+        {
+          "user": "logan.gunn",
+          "count": 3
+        },
+        {
+          "user": "jita.yi",
+          "count": 3
+        },
+        {
+          "user": "haroon.ahmed",
+          "count": 3
+        },
+        {
+          "user": "erick.kadbay",
+          "count": 2
+        },
+        {
+          "user": "lucas.campanari",
+          "count": 2
+        },
+        {
+          "user": "steve.korber",
+          "count": 2
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.04,
+      "count": 187,
+      "top_channels": [
+        {
+          "channel": "river-payment-account-capabilities",
+          "messages": 195
+        },
+        {
+          "channel": "help-payments-account-capabilities",
+          "messages": 100
+        },
+        {
+          "channel": "payments-account-capabilities",
+          "messages": 78
+        },
+        {
+          "channel": "inv-20843-investigating-increasing-rate-of-bugsnag-",
+          "messages": 48
+        },
+        {
+          "channel": "inv-20799-braintree-payment-gateway-disabled-unexpe",
+          "messages": 21
+        },
+        {
+          "channel": "help-shopify-payments-kyc",
+          "messages": 18
+        },
+        {
+          "channel": "payments-web-errors",
+          "messages": 15
+        },
+        {
+          "channel": "help-accounts-and-access",
+          "messages": 10
+        },
+        {
+          "channel": "proj-rbac-payments",
+          "messages": 9
+        },
+        {
+          "channel": "live-site-monitoring",
+          "messages": 8
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.15,
+      "count": 35,
+      "top_mentioners": [
+        {
+          "user": "emilie.lam",
+          "count": 6
+        },
+        {
+          "user": "chris.dakin",
+          "count": 3
+        },
+        {
+          "user": "mark.dimitry",
+          "count": 3
+        },
+        {
+          "user": "adeola.shoberu",
+          "count": 3
+        },
+        {
+          "user": "john.severn",
+          "count": 2
+        },
+        {
+          "user": "mikhaila.wuerch",
+          "count": 1
+        },
+        {
+          "user": "asma.laaribi",
+          "count": 1
+        },
+        {
+          "user": "calvin.sequeira",
+          "count": 1
+        },
+        {
+          "user": "logan.gunn",
+          "count": 1
+        },
+        {
+          "user": "jass.arora",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 85,
+      "15": 29,
+      "22": 43,
+      "21": 54,
+      "19": 80,
+      "18": 68,
+      "14": 3,
+      "17": 73,
+      "1": 10,
+      "20": 56,
+      "4": 3,
+      "23": 21,
+      "0": 6,
+      "2": 1,
+      "5": 3
+    },
+    "by_day": {
+      "Wednesday": 94,
+      "Tuesday": 215,
+      "Monday": 138,
+      "Friday": 15,
+      "Thursday": 73
+    }
+  },
+  "department_comparison": {
+    "department": "Unknown",
+    "user_score_30d": 6.02,
+    "dept_average_30d": 4.74,
+    "dept_rank": 189,
+    "dept_size": 1663
+  }
+}

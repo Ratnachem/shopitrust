@@ -1,0 +1,258 @@
+{
+  "username": "jeff.kehres",
+  "name": "Jeff Kehres",
+  "generated_at": "2026-04-08T20:22:23.992047",
+  "summary": {
+    "message_count": 918,
+    "channels_active": 43,
+    "unique_people_mentioned": 40,
+    "unique_mentioners": 26,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.7,
+      "pos_count": 7,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "flow-data-team",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Gotcha. Thanks!",
+          "channel": "flow-automations-team",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "What operations, if any, do we want to allow merchants to perform on managed workflows? This is what I was thinking. Let me know if agree/disagree on",
+          "channel": "flow-project-managed-workflows",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "The migration is done. My test search works now. Let me know if this doesn't fix it for you.",
+          "channel": "flow-project-ai",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "well done",
+          "text": "&gt; may as well done `@ here` :joy:\nThat's what happens when all the deploys from the previous day get cancelled.",
+          "channel": "flow-operations",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds great! Thanks!!",
+          "channel": "flow-project-ai",
+          "timestamp": "2026-03-10"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U0399CX7JQ4> want me to scale it?",
+          "channel": "inv-19888-flow-templates-cdc-topic-lag",
+          "timestamp": "2026-03-09"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "I just looked at the first PR and I don't think it actually fixes anything. It just looks to me like the AI reshuffled the code. Maybe someone can",
+          "channel": "flow-automations-team",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Stupid monosnap.",
+          "channel": "inc-20231-multiple-kafka-consumers-with-lag-in-flow",
+          "timestamp": "2026-03-17"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 44,
+      "top_mentioned": [
+        {
+          "user": "michael.rokas",
+          "count": 10
+        },
+        {
+          "user": "robert.mic",
+          "count": 9
+        },
+        {
+          "user": "jeff.armstrong",
+          "count": 8
+        },
+        {
+          "user": "timothy.willard",
+          "count": 8
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 8
+        },
+        {
+          "user": "lily.li",
+          "count": 7
+        },
+        {
+          "user": "daria.sova",
+          "count": 6
+        },
+        {
+          "user": "christie.felker",
+          "count": 6
+        },
+        {
+          "user": "elias.hawa",
+          "count": 5
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.91,
+      "count": 180,
+      "top_channels": [
+        {
+          "channel": "flow-project-ai",
+          "messages": 119
+        },
+        {
+          "channel": "flow-operations",
+          "messages": 83
+        },
+        {
+          "channel": "inc-20231-multiple-kafka-consumers-with-lag-in-flow",
+          "messages": 68
+        },
+        {
+          "channel": "inv-20001-flow-materializer-consumer-latency-too-hi",
+          "messages": 64
+        },
+        {
+          "channel": "flow-development",
+          "messages": 60
+        },
+        {
+          "channel": "inv-20000-worker-transient-error-rate-too-high",
+          "messages": 53
+        },
+        {
+          "channel": "flow-automations-team",
+          "messages": 50
+        },
+        {
+          "channel": "inc-20025-flow-finished-orc-run-count-too-low",
+          "messages": 42
+        },
+        {
+          "channel": "flow-team",
+          "messages": 35
+        },
+        {
+          "channel": "inv-20013-flow-recovering-many-unassigned-runs",
+          "messages": 32
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 105,
+      "top_mentioners": [
+        {
+          "user": "dave.mcvittie",
+          "count": 20
+        },
+        {
+          "user": "robert.mic",
+          "count": 15
+        },
+        {
+          "user": "ted.chaiwachirasak",
+          "count": 12
+        },
+        {
+          "user": "lily.li",
+          "count": 7
+        },
+        {
+          "user": "michael.rokas",
+          "count": 7
+        },
+        {
+          "user": "gasser.aly",
+          "count": 6
+        },
+        {
+          "user": "jeff.armstrong",
+          "count": 5
+        },
+        {
+          "user": "timothy.willard",
+          "count": 4
+        },
+        {
+          "user": "christine.maiolo",
+          "count": 3
+        },
+        {
+          "user": "aline.manera",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "14": 78,
+      "22": 63,
+      "21": 77,
+      "20": 88,
+      "18": 51,
+      "16": 120,
+      "15": 146,
+      "19": 58,
+      "17": 55,
+      "13": 45,
+      "12": 21,
+      "0": 37,
+      "8": 24,
+      "7": 9,
+      "23": 46
+    },
+    "by_day": {
+      "Wednesday": 299,
+      "Tuesday": 154,
+      "Monday": 88,
+      "Thursday": 277,
+      "Friday": 100
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.15,
+    "dept_average_30d": 5.79,
+    "dept_rank": 349,
+    "dept_size": 1233
+  }
+}

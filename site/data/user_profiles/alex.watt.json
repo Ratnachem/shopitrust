@@ -1,0 +1,280 @@
+{
+  "username": "alex.watt",
+  "name": "Alex Watt",
+  "generated_at": "2026-04-08T20:22:11.908899",
+  "summary": {
+    "message_count": 431,
+    "channels_active": 42,
+    "unique_people_mentioned": 65,
+    "unique_mentioners": 40,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 7.7,
+      "pos_count": 32,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U0AEPQCKB3M> This is great info, thank you! It is quite useful to know that only 10% of searches have filters. Can you additionally provide data on",
+          "channel": "river-search-serving",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "I rolled out the `f_variant_image_hydration_from_broker_search` flag to 100% today and based on",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "No worries, thanks!",
+          "channel": "inv-21002-shopsearches-high-graphql-error-rate-for-",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@U084XJE8W9K> thank you! I was able to validate it this morning:",
+          "channel": "proj-dsl-shared",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I'm ready to approve your PR with just 1 requested change, just wondered your thoughts on why we are sending \"catalog\" as both traffic type and",
+          "channel": "search-serving-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you Brian",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "thanks to \\w+",
+          "text": "FYI: Spanner is currently using 57 nodes instead of 80, thanks to auto-scaling. cc <@U07MLGX0LQZ> this is a cost-saving win (I do not have $ amount",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "OK <@U08HDANMNHJ> and I agree that the next step is making this adjustment to our metric tags. <@U080NHTS0EB> can you please see about getting a PR",
+          "channel": "search-serving-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U08HDANMNHJ> let me know if you want to :tuple:, I have a few minutes now",
+          "channel": "search-serving-team",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "OK that is amazing! So if all goes as planned, it reaches production on Tuesday?",
+          "channel": "proj-dsl-shared",
+          "timestamp": "2026-03-27"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "> Whats the process for adding a new column to a QE view?\nOpening a PR.\n\n> Should I be talking to a Core team?\nYes. You should have <@W018WAR7KNV>\u2019s",
+          "channel": "tmp-catalog-api-similar-products",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U01QXU24TKK> I have been asked how quickly we can ship ShopKV. I think the longest-pole thing is whatever you and your team need to do to feel that",
+          "channel": "temp-shopkv-search-hydration",
+          "timestamp": "2026-04-01"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 69,
+      "top_mentioned": [
+        {
+          "user": "koen.bouwmans",
+          "count": 19
+        },
+        {
+          "user": "samantha.john",
+          "count": 15
+        },
+        {
+          "user": "brian.cahill",
+          "count": 14
+        },
+        {
+          "user": "abigail.stone",
+          "count": 11
+        },
+        {
+          "user": "ed.gallant",
+          "count": 8
+        },
+        {
+          "user": "rodrigo.menezes",
+          "count": 7
+        },
+        {
+          "user": "joseph.enzminger",
+          "count": 7
+        },
+        {
+          "user": "brenda.segal",
+          "count": 7
+        },
+        {
+          "user": "joe.navetta",
+          "count": 6
+        },
+        {
+          "user": "dave.ariens",
+          "count": 6
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 9.92,
+      "count": 392,
+      "top_channels": [
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 105
+        },
+        {
+          "channel": "search-serving-team",
+          "messages": 26
+        },
+        {
+          "channel": "catalog-api-team",
+          "messages": 23
+        },
+        {
+          "channel": "inv-20329-catalog-api-search-latency-spiked-from-co",
+          "messages": 22
+        },
+        {
+          "channel": "merch-x-catalog",
+          "messages": 21
+        },
+        {
+          "channel": "inc-20567-vantage-search-latency-spiking",
+          "messages": 21
+        },
+        {
+          "channel": "tectonix",
+          "messages": 20
+        },
+        {
+          "channel": "inv-21002-shopsearches-high-graphql-error-rate-for-",
+          "messages": 19
+        },
+        {
+          "channel": "proj-dsl-shared",
+          "messages": 17
+        },
+        {
+          "channel": "temp-shopkv-search-hydration",
+          "messages": 16
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 97,
+      "top_mentioners": [
+        {
+          "user": "felipe.besson",
+          "count": 8
+        },
+        {
+          "user": "pierrenicolas.mahieu",
+          "count": 6
+        },
+        {
+          "user": "samantha.john",
+          "count": 5
+        },
+        {
+          "user": "tom.chikoore",
+          "count": 5
+        },
+        {
+          "user": "brian.cahill",
+          "count": 5
+        },
+        {
+          "user": "abigail.stone",
+          "count": 5
+        },
+        {
+          "user": "chris.pak",
+          "count": 4
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 4
+        },
+        {
+          "user": "john.finnson",
+          "count": 4
+        },
+        {
+          "user": "rahim.daya",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 33,
+      "16": 20,
+      "15": 46,
+      "14": 55,
+      "21": 40,
+      "12": 5,
+      "19": 90,
+      "13": 65,
+      "20": 43,
+      "17": 21,
+      "22": 7,
+      "0": 2,
+      "11": 1,
+      "9": 1,
+      "1": 1,
+      "23": 1
+    },
+    "by_day": {
+      "Wednesday": 152,
+      "Tuesday": 71,
+      "Monday": 63,
+      "Friday": 87,
+      "Thursday": 58
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.88,
+    "dept_average_30d": 5.79,
+    "dept_rank": 96,
+    "dept_size": 1233
+  }
+}

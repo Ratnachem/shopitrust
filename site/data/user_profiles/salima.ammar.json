@@ -1,0 +1,206 @@
+{
+  "username": "salima.ammar",
+  "name": "Salima Ammar",
+  "generated_at": "2026-04-08T20:22:27.980618",
+  "summary": {
+    "message_count": 27,
+    "channels_active": 12,
+    "unique_people_mentioned": 2,
+    "unique_mentioners": 8,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":hi-hi: we're migrating kyverno from kyverno-deploy to the infra repo (<https://github.com/Shopify/infrastructure/pull/38680>) and adding kyverno to",
+          "channel": "team-application-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "hello :yay-peat:, i picked up <https://github.com/shop/issues/issues/24469> (scaling override guardrail). i see",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hello :yay-peat:, i picked up <https://github.com/shop/issues/issues/24469> (scaling override guardrail). i see",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "done, thanks! i reverted the resolver change and kept just the trailing dot fix",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":hi-hi: we're migrating kyverno from `kyverno-deploy` to the infra repo (<https://github.com/Shopify/infrastructure/pull/38680>) and adding `kyverno`",
+          "channel": "help-application-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "hi, i ran tcpdump on mysql-storefront-us-ce1-hv0 and it looks like certificatebuddy is doing DNS lookups against 8.8.8.8 (ACME challenge validation).",
+          "channel": "edge-infrastructure",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "got it, the retry fix covered API error handling, sounds like the query needs a fix too. let me know if you need help",
+          "channel": "infrastructure-lifecycle",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Of course! Thank you!:))",
+          "channel": "help-search-platform",
+          "timestamp": "2026-03-20"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 1.36,
+      "count": 3,
+      "top_mentioned": [
+        {
+          "user": "uzair.shaikh",
+          "count": 3
+        },
+        {
+          "user": "jeremie.lagarde",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.81,
+      "count": 175,
+      "top_channels": [
+        {
+          "channel": "infrastructure-lifecycle",
+          "messages": 4
+        },
+        {
+          "channel": "proj-secure-egress-gateway",
+          "messages": 3
+        },
+        {
+          "channel": "help-search-platform",
+          "messages": 3
+        },
+        {
+          "channel": "team-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "infra-central-staging",
+          "messages": 2
+        },
+        {
+          "channel": "help-application-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "edge-infrastructure",
+          "messages": 2
+        },
+        {
+          "channel": "help-it",
+          "messages": 2
+        },
+        {
+          "channel": "help-observability",
+          "messages": 2
+        },
+        {
+          "channel": "proj-infra-mcs-xds-routing",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.79,
+      "count": 23,
+      "top_mentioners": [
+        {
+          "user": "maxime.ginters",
+          "count": 9
+        },
+        {
+          "user": "uzair.shaikh",
+          "count": 5
+        },
+        {
+          "user": "laura.dykstra",
+          "count": 4
+        },
+        {
+          "user": "jacob.lott",
+          "count": 1
+        },
+        {
+          "user": "darren.foo",
+          "count": 1
+        },
+        {
+          "user": "charlieallan",
+          "count": 1
+        },
+        {
+          "user": "sumedh.degaonkar",
+          "count": 1
+        },
+        {
+          "user": "chris.yang",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 7,
+      "7": 2,
+      "1": 1,
+      "21": 1,
+      "19": 6,
+      "16": 3,
+      "10": 1,
+      "14": 2,
+      "4": 1,
+      "20": 1,
+      "15": 2
+    },
+    "by_day": {
+      "Tuesday": 11,
+      "Monday": 5,
+      "Thursday": 3,
+      "Wednesday": 3,
+      "Friday": 5
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.2,
+    "dept_average_30d": 5.75,
+    "dept_rank": 254,
+    "dept_size": 357
+  }
+}

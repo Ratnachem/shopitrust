@@ -1,0 +1,244 @@
+{
+  "username": "keith.kim",
+  "name": "Keith Kim",
+  "generated_at": "2026-04-08T20:22:21.345457",
+  "summary": {
+    "message_count": 319,
+    "channels_active": 22,
+    "unique_people_mentioned": 9,
+    "unique_mentioners": 24,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.0,
+      "pos_count": 5,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm taking a wider pass sorting out the `pk:` definitions for YugabyteDB and finding which `slice:`s to be most concerned with. I compiled a list",
+          "channel": "product-foundations-team-channel",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Got it, thanks! Yes, we have UNIQUE:\n```  `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,\n\n  UNIQUE KEY",
+          "channel": "products-yugabyte-exodia",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I wrote up the <https://github.com/shop/issues-product-foundations/issues/4013|Office Hours items re: PCA Job operational controls/protections>\n_Let",
+          "channel": "product-foundations-team-channel",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for this! That makes me feel a lot better.\n\nI don't know if I should feel better or worse tho that my experience is common.",
+          "channel": "merch-eng",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "product-foundations-team-channel",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Having context in the `payload` of PCA makes a lot more sense for a `PRODUCT_METAFIELD_CHANGE` than a `TOUCH_PRODUCT` action. You can encode whatever",
+          "channel": "proj-metafields-owner-callbacks",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "stupid",
+          "text": "Thanks, it was much simpler (and stupider) than I expected.\n```SELECT * FROM products\nWHERE shop_id = 63849857069\nORDER BY id\nLIMIT 100```\nMySQL",
+          "channel": "ruby-and-rails-talk",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.0,
+      "count": 11,
+      "top_mentioned": [
+        {
+          "user": "kelly.huang",
+          "count": 4
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 4
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "nate.dipiazza",
+          "count": 2
+        },
+        {
+          "user": "efstathios.stivaros",
+          "count": 1
+        },
+        {
+          "user": "guilherme.vieira",
+          "count": 1
+        },
+        {
+          "user": "luke.busler",
+          "count": 1
+        },
+        {
+          "user": "james.kieley",
+          "count": 1
+        },
+        {
+          "user": "david.scantlebury",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.82,
+      "count": 281,
+      "top_channels": [
+        {
+          "channel": "product-foundations-team-channel",
+          "messages": 95
+        },
+        {
+          "channel": "products-yugabyte-exodia",
+          "messages": 52
+        },
+        {
+          "channel": "product-foundations-github",
+          "messages": 29
+        },
+        {
+          "channel": "core-catalogs-dev",
+          "messages": 24
+        },
+        {
+          "channel": "help-products",
+          "messages": 18
+        },
+        {
+          "channel": "inv-20026-prolonged-db-writer-cpu-saturation",
+          "messages": 15
+        },
+        {
+          "channel": "proj-metafields-owner-callbacks",
+          "messages": 12
+        },
+        {
+          "channel": "proj-rollup-performance-improvements",
+          "messages": 11
+        },
+        {
+          "channel": "products-river-playground",
+          "messages": 11
+        },
+        {
+          "channel": "proj-slow-query-prevention",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.81,
+      "count": 51,
+      "top_mentioners": [
+        {
+          "user": "justin.bicknell",
+          "count": 13
+        },
+        {
+          "user": "alex.mason",
+          "count": 6
+        },
+        {
+          "user": "kenny.law",
+          "count": 3
+        },
+        {
+          "user": "kirill.shatrov",
+          "count": 3
+        },
+        {
+          "user": "matej.tkac",
+          "count": 3
+        },
+        {
+          "user": "adam.traver",
+          "count": 2
+        },
+        {
+          "user": "james.kieley",
+          "count": 2
+        },
+        {
+          "user": "peter.trizuliak",
+          "count": 2
+        },
+        {
+          "user": "thrwat.elmoselhi",
+          "count": 2
+        },
+        {
+          "user": "jesse.sharps",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 27,
+      "14": 30,
+      "13": 23,
+      "21": 24,
+      "19": 33,
+      "17": 39,
+      "16": 17,
+      "20": 37,
+      "22": 27,
+      "18": 18,
+      "0": 10,
+      "10": 1,
+      "9": 4,
+      "5": 4,
+      "4": 1,
+      "2": 5,
+      "1": 9,
+      "12": 3,
+      "23": 7
+    },
+    "by_day": {
+      "Wednesday": 88,
+      "Tuesday": 43,
+      "Monday": 19,
+      "Thursday": 110,
+      "Friday": 59
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.85,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1057,
+    "dept_size": 1233
+  }
+}

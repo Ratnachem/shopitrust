@@ -1,0 +1,232 @@
+{
+  "username": "harshdeep.hura",
+  "name": "Harshdeep Hura",
+  "generated_at": "2026-04-08T20:22:24.768096",
+  "summary": {
+    "message_count": 153,
+    "channels_active": 9,
+    "unique_people_mentioned": 13,
+    "unique_mentioners": 16,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you!",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W018PSY2KLL> / <@W0197H8JYBS>! We're working on bringing Orders into Next-Gen Events ASAP (our new webhook infrastructure built on CDC +",
+          "channel": "next-gen-events-order-topic",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey <@W018PSY2KLL> / <@W0197H8JYBS>! We're working on bringing Orders into Next-Gen Events (our new webhook infrastructure built on CDC + Flink). We",
+          "channel": "next-gen-events-order-topic",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "So the way Next Gen Event system works is we just want you to tell us what GraphQL fields map to which DB column and we take care of it from there -",
+          "channel": "next-gen-events-customer-topic",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "i was wrong",
+          "text": "Yeah I was wrong - idk how many Claude tokens I've burnt for it to confirm that you can't actually pass multiple IDs :skull-noto:\n\nLet me simmer over",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "~I say we flip a coin and agree to whatever it lands on~:ohno-cat:",
+          "channel": "proj-next-gen-events",
+          "timestamp": "2026-03-19"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "chad.carlson",
+          "count": 6
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 4
+        },
+        {
+          "user": "pierre.bedard",
+          "count": 4
+        },
+        {
+          "user": "ken.smith",
+          "count": 3
+        },
+        {
+          "user": "jen.stanicak",
+          "count": 2
+        },
+        {
+          "user": "ben.rajabi",
+          "count": 2
+        },
+        {
+          "user": "andy.polhill",
+          "count": 2
+        },
+        {
+          "user": "kerstin.puschke",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        },
+        {
+          "user": "roman.zaharenkau",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 3.37,
+      "count": 89,
+      "top_channels": [
+        {
+          "channel": "proj-next-gen-events",
+          "messages": 94
+        },
+        {
+          "channel": "s-foundations-events-team",
+          "messages": 19
+        },
+        {
+          "channel": "help-events",
+          "messages": 11
+        },
+        {
+          "channel": "next-gen-events-order-topic",
+          "messages": 10
+        },
+        {
+          "channel": "temp-next-gen-events-naming",
+          "messages": 8
+        },
+        {
+          "channel": "next-gen-events-customer-topic",
+          "messages": 4
+        },
+        {
+          "channel": "inc-19938-investigating-spike-in-disk-usage-for-met",
+          "messages": 4
+        },
+        {
+          "channel": "devtools-design",
+          "messages": 2
+        },
+        {
+          "channel": "dev-generic-events",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.42,
+      "count": 28,
+      "top_mentioners": [
+        {
+          "user": "pierre.bedard",
+          "count": 9
+        },
+        {
+          "user": "jen.stanicak",
+          "count": 3
+        },
+        {
+          "user": "kerstin.puschke",
+          "count": 3
+        },
+        {
+          "user": "george.li",
+          "count": 1
+        },
+        {
+          "user": "chad.carlson",
+          "count": 1
+        },
+        {
+          "user": "benjamin.blake",
+          "count": 1
+        },
+        {
+          "user": "lisa.hart",
+          "count": 1
+        },
+        {
+          "user": "david.hollenbeck",
+          "count": 1
+        },
+        {
+          "user": "pablo.mercado",
+          "count": 1
+        },
+        {
+          "user": "david.peacock",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "13": 23,
+      "21": 11,
+      "20": 14,
+      "19": 5,
+      "18": 13,
+      "17": 15,
+      "16": 25,
+      "14": 20,
+      "15": 15,
+      "12": 4,
+      "2": 3,
+      "0": 2,
+      "22": 1,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 30,
+      "Tuesday": 39,
+      "Monday": 37,
+      "Thursday": 15,
+      "Friday": 32
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 4.7,
+    "dept_average_30d": 5.79,
+    "dept_rank": 1091,
+    "dept_size": 1233
+  }
+}

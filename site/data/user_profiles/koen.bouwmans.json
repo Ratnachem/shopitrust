@@ -1,0 +1,264 @@
+{
+  "username": "koen.bouwmans",
+  "name": "Koen Bouwmans",
+  "generated_at": "2026-04-08T20:22:13.492154",
+  "summary": {
+    "message_count": 409,
+    "channels_active": 42,
+    "unique_people_mentioned": 23,
+    "unique_mentioners": 48,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.2,
+      "pos_count": 11,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if I can aid the investigation somehow, I will pause for now given the likely culprit is on the storefront side",
+          "channel": "sfr-internal-grpc-prototype",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "additionally the docs keep referring it to ID not key :dead:\n<https://shopify.dev/docs/apps/build/authentication-authorization/client-secrets>\n\nmy",
+          "channel": "proj-product-loader",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "okay thanks for digging into this, appreciate it",
+          "channel": "catalog-api-team-ops",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "okay great, thank you",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U02DWF1KTGE>, let me know if you need any other information. Can also :tuple: for a few mins today if needed.\n\n<@W018B12G5N2>, which case are we",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": ":wave: hey folks.\n\nWe currently have integrated with `get_prices` in the search broker, which has not been rolled out yet due to the gRPC endpoint in",
+          "channel": "proj-merch-contextual-product-library",
+          "timestamp": "2026-03-23"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "I\u2019ve made that more clear in the `How Clients Filter` section, thanks!",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "let me know if I can do anything else to unblock reviews",
+          "channel": "search-engineering-shared",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "the pricing work takes priority, but my perception was that there was very little dev work remaining. We are waiting for gRPC production endpoint to",
+          "channel": "proj-catalog-spanner-hydration",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": ":+1: the scope has been added - you can try to generate a JWT token for a request, let me know if any issues.",
+          "channel": "catalog-api-team",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 8.64,
+      "count": 27,
+      "top_mentioned": [
+        {
+          "user": "abigail.stone",
+          "count": 4
+        },
+        {
+          "user": "luka.cadjenovic",
+          "count": 4
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 3
+        },
+        {
+          "user": "brian.cahill",
+          "count": 3
+        },
+        {
+          "user": "maurizio.cucchiara",
+          "count": 3
+        },
+        {
+          "user": "chris.pak",
+          "count": 3
+        },
+        {
+          "user": "samantha.john",
+          "count": 2
+        },
+        {
+          "user": "sam.killgallon",
+          "count": 1
+        },
+        {
+          "user": "amit.dandekar",
+          "count": 1
+        },
+        {
+          "user": "kate.ragotte",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 517,
+      "top_channels": [
+        {
+          "channel": "catalog-api-team",
+          "messages": 113
+        },
+        {
+          "channel": "search-engineering-shared",
+          "messages": 41
+        },
+        {
+          "channel": "catalog-platform-team-prs",
+          "messages": 35
+        },
+        {
+          "channel": "proj-catalog-spanner-hydration",
+          "messages": 31
+        },
+        {
+          "channel": "catalog-api-team-ops",
+          "messages": 17
+        },
+        {
+          "channel": "sfr-internal-grpc-prototype",
+          "messages": 16
+        },
+        {
+          "channel": "inv-20442-catalog-api-high-latency",
+          "messages": 15
+        },
+        {
+          "channel": "inv-20260-similarity-search-broken-after-shop-spann",
+          "messages": 11
+        },
+        {
+          "channel": "inv-19926-catalog-api-search-latency-spiking-due-to",
+          "messages": 11
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 142,
+      "top_mentioners": [
+        {
+          "user": "abigail.stone",
+          "count": 21
+        },
+        {
+          "user": "alex.watt",
+          "count": 19
+        },
+        {
+          "user": "samantha.john",
+          "count": 10
+        },
+        {
+          "user": "dave.ariens",
+          "count": 8
+        },
+        {
+          "user": "brendan.goldacker",
+          "count": 7
+        },
+        {
+          "user": "chris.pak",
+          "count": 6
+        },
+        {
+          "user": "tom.chikoore",
+          "count": 6
+        },
+        {
+          "user": "cheng.yuan",
+          "count": 4
+        },
+        {
+          "user": "luka.cadjenovic",
+          "count": 4
+        },
+        {
+          "user": "eric.walker",
+          "count": 4
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 55,
+      "17": 45,
+      "16": 53,
+      "15": 77,
+      "22": 32,
+      "21": 37,
+      "20": 22,
+      "23": 13,
+      "19": 33,
+      "14": 7,
+      "2": 6,
+      "1": 2,
+      "0": 21,
+      "13": 3,
+      "3": 3
+    },
+    "by_day": {
+      "Wednesday": 100,
+      "Tuesday": 101,
+      "Monday": 82,
+      "Thursday": 62,
+      "Friday": 64
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 6.64,
+    "dept_average_30d": 5.79,
+    "dept_rank": 136,
+    "dept_size": 1233
+  }
+}

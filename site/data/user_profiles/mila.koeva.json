@@ -1,0 +1,250 @@
+{
+  "username": "mila.koeva",
+  "name": "Mila Koeva",
+  "generated_at": "2026-04-08T20:22:26.585942",
+  "summary": {
+    "message_count": 200,
+    "channels_active": 21,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh, I re-read above, that you tried with both also. Thank you! If you have a sec, can you also approve the PR for it?",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Solves the immediate issue, but potentially other errors will be duplicated:\n\n*Log #1*",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! :thank__you:",
+          "channel": "proj-sidekick-pulse",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": ":thank__you: Thank you! Merging",
+          "channel": "sidekick-eng",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Thanks for letting us know. Sorry about the page re: server errors; I wasn't sure if some fallback mechanism was supposed to be kicking in on the",
+          "channel": "sidekick-operations",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "<@W018WB1QH4Z> Thank you also for staying on top of this! Resolved it super quick :bless-up:",
+          "channel": "inc-20277-multimodal-sidekick-down",
+          "timestamp": "2026-03-17"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my mistake",
+          "text": "Ok, so I guess we're only checking for indications code might be doing mutations based mainly on the tools.json, my mistake :bufo-egg-on-face:\n\n>",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Pulling <https://github.com/shop/world/pull/488286#discussion_r2983608398|this thread> out of Github for a quick sync on",
+          "channel": "proj-apps-in-sk",
+          "timestamp": "2026-03-24"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.82,
+      "count": 19,
+      "top_mentioned": [
+        {
+          "user": "bahar.pourazar",
+          "count": 7
+        },
+        {
+          "user": "ates.goral",
+          "count": 4
+        },
+        {
+          "user": "tavian.barnes",
+          "count": 4
+        },
+        {
+          "user": "trish.ta",
+          "count": 3
+        },
+        {
+          "user": "matt.koenig",
+          "count": 3
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 2
+        },
+        {
+          "user": "charles.qian",
+          "count": 2
+        },
+        {
+          "user": "nick.matantsev",
+          "count": 1
+        },
+        {
+          "user": "kyle.mcdaniel",
+          "count": 1
+        },
+        {
+          "user": "daniela.velasquez",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.59,
+      "count": 163,
+      "top_channels": [
+        {
+          "channel": "proj-apps-in-sk",
+          "messages": 65
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 54
+        },
+        {
+          "channel": "sidekick-eng",
+          "messages": 26
+        },
+        {
+          "channel": "proj-sidekick-pulse",
+          "messages": 14
+        },
+        {
+          "channel": "help-dev-platform",
+          "messages": 7
+        },
+        {
+          "channel": "help-sidekick",
+          "messages": 6
+        },
+        {
+          "channel": "inv-20393-sidekick-analytics-on-centml-is-failing",
+          "messages": 5
+        },
+        {
+          "channel": "sidekick-review-crossroads",
+          "messages": 3
+        },
+        {
+          "channel": "projects-dev-ai",
+          "messages": 3
+        },
+        {
+          "channel": "livesite-deploys-atc",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.04,
+      "count": 34,
+      "top_mentioners": [
+        {
+          "user": "bahar.pourazar",
+          "count": 11
+        },
+        {
+          "user": "ates.goral",
+          "count": 5
+        },
+        {
+          "user": "tavian.barnes",
+          "count": 3
+        },
+        {
+          "user": "adam.barrus",
+          "count": 2
+        },
+        {
+          "user": "matt.koenig",
+          "count": 2
+        },
+        {
+          "user": "trish.ta",
+          "count": 2
+        },
+        {
+          "user": "stephan.leroux",
+          "count": 1
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 1
+        },
+        {
+          "user": "lucinda.betteridge",
+          "count": 1
+        },
+        {
+          "user": "ben.lafferty",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "21": 31,
+      "15": 31,
+      "14": 9,
+      "17": 22,
+      "18": 15,
+      "20": 17,
+      "19": 17,
+      "16": 12,
+      "23": 5,
+      "22": 11,
+      "0": 15,
+      "2": 3,
+      "1": 11,
+      "13": 1
+    },
+    "by_day": {
+      "Tuesday": 45,
+      "Monday": 36,
+      "Thursday": 35,
+      "Wednesday": 54,
+      "Friday": 30
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.51,
+    "dept_average_30d": 5.79,
+    "dept_rank": 730,
+    "dept_size": 1233
+  }
+}

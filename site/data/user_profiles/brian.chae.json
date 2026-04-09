@@ -1,0 +1,250 @@
+{
+  "username": "brian.chae",
+  "name": "Brian Chae",
+  "generated_at": "2026-04-08T20:22:16.683561",
+  "summary": {
+    "message_count": 383,
+    "channels_active": 16,
+    "unique_people_mentioned": 15,
+    "unique_mentioners": 12,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 6,
+      "neg_count": 2,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "Yea definitely, we'll explore further :blob_salute:, we're probing all the possible ways to migrate this, and haven't stuck to one yet. (I also",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "awesome thanks!",
+          "channel": "db-storefronts-mysql",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Sounds good, thanks a lot for the explanation. For now we're still brainstorming the approach to do this for shardm and CG2. We'll be back with more",
+          "channel": "proj-dbms-agnostic-core",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "sounds good, feel free to decomission that one then",
+          "channel": "proj-infra-yugabyte-core-tables",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "oh wow, thanks for the deep analysis <@W018PTCL9AQ> we appreciate it! I'll take it back to the team and discuss what we should do, seems like very",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "appreciate it",
+          "text": "thanks for voicing your concern though and checking in, I appreciate it",
+          "channel": "katesql-ops",
+          "timestamp": "2026-03-12"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "there's definitely some kind of traffic pattern change in whatever the storefront application is sending to the us-east1 instances",
+          "channel": "inv-20017-investigating-sfr-writer--gt-sfr-reader-s",
+          "timestamp": "2026-03-12"
+        },
+        {
+          "category": "Passive Aggressive",
+          "pattern": "as i mentioned",
+          "text": "From what we can gather, a job went missing and the cronjob controller is re-queueing them on top of the normal ones which is causing multiple",
+          "channel": "help-gcp-external",
+          "timestamp": "2026-03-10"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "lucas.bajolet",
+          "count": 3
+        },
+        {
+          "user": "yevgeniy.safronov",
+          "count": 3
+        },
+        {
+          "user": "toria.gibbs",
+          "count": 2
+        },
+        {
+          "user": "bogdan.matu",
+          "count": 2
+        },
+        {
+          "user": "akshay.suryawanshi",
+          "count": 2
+        },
+        {
+          "user": "thomas.saunders",
+          "count": 2
+        },
+        {
+          "user": "nii.boidoku",
+          "count": 2
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 1
+        },
+        {
+          "user": "alex.cucos",
+          "count": 1
+        },
+        {
+          "user": "sasha.barazandeh",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 7.16,
+      "count": 246,
+      "top_channels": [
+        {
+          "channel": "katesql-ops",
+          "messages": 199
+        },
+        {
+          "channel": "inv-19874-sfr-migrations-unable-to-progress-due-to-",
+          "messages": 40
+        },
+        {
+          "channel": "proj-infra-yugabyte-core-tables",
+          "messages": 27
+        },
+        {
+          "channel": "db-storefronts-mysql",
+          "messages": 27
+        },
+        {
+          "channel": "katesql-dev",
+          "messages": 26
+        },
+        {
+          "channel": "inv-20017-investigating-sfr-writer--gt-sfr-reader-s",
+          "messages": 15
+        },
+        {
+          "channel": "inv-19948-sfr-staleness-on-shard-22-57-41",
+          "messages": 11
+        },
+        {
+          "channel": "sidekick-operations",
+          "messages": 11
+        },
+        {
+          "channel": "help-gcp-external",
+          "messages": 8
+        },
+        {
+          "channel": "inv-20045-investigate-sfr-replication-lag-on-187",
+          "messages": 6
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 5.52,
+      "count": 29,
+      "top_mentioners": [
+        {
+          "user": "bogdan.matu",
+          "count": 6
+        },
+        {
+          "user": "james.zhu",
+          "count": 5
+        },
+        {
+          "user": "toria.gibbs",
+          "count": 4
+        },
+        {
+          "user": "shiv.nagarajan",
+          "count": 3
+        },
+        {
+          "user": "andrew.novoselac",
+          "count": 2
+        },
+        {
+          "user": "laxit.shahi",
+          "count": 2
+        },
+        {
+          "user": "bing.li",
+          "count": 2
+        },
+        {
+          "user": "milan.sreckovic",
+          "count": 1
+        },
+        {
+          "user": "yusei.nishiyama",
+          "count": 1
+        },
+        {
+          "user": "lucas.bajolet",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "17": 21,
+      "20": 35,
+      "19": 34,
+      "15": 18,
+      "14": 50,
+      "21": 46,
+      "18": 26,
+      "13": 69,
+      "12": 7,
+      "16": 14,
+      "11": 16,
+      "2": 8,
+      "1": 35,
+      "0": 4
+    },
+    "by_day": {
+      "Wednesday": 182,
+      "Tuesday": 82,
+      "Monday": 29,
+      "Thursday": 76,
+      "Friday": 14
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.72,
+    "dept_average_30d": 5.75,
+    "dept_rank": 164,
+    "dept_size": 357
+  }
+}

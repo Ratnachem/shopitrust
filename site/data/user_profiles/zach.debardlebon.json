@@ -1,0 +1,218 @@
+{
+  "username": "zach.debardlebon",
+  "name": "Zach DeBardlebon",
+  "generated_at": "2026-04-08T20:22:14.124447",
+  "summary": {
+    "message_count": 129,
+    "channels_active": 10,
+    "unique_people_mentioned": 7,
+    "unique_mentioners": 22,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.5,
+      "pos_count": 5,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I thought we want to do these in parallel, no? But I guess we can just test the rollback real quick, let me know if you want to hop on a tuple",
+          "channel": "gsd45857-spp-pickup-points-dev",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hi Tiffany, I checked label 1018561845 and the good news is everything lines up:\n\n  Merchant cost:\n  - Subtotal: $9.56 (base) + $3.35 (fuel) =",
+          "channel": "help-labels",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "Hey Poppy, I looked into this.\n\nThe error \"The provided parameter value is invalid or not supported\" is coming from Australia Post's API, not from",
+          "channel": "help-labels",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Taking a look",
+          "channel": "gsd45857-spp-pickup-points-dev",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": "Thanks James! Sorry about the delay, I just followed up with them about this",
+          "channel": "help-labels",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Hi Tiffany,\n\nI've looked into this and here's what I found:\n\nShipify doesn't calculate taxes on label purchases \u2014 we pass through whatever Canada",
+          "channel": "help-labels",
+          "timestamp": "2026-04-06"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 3.64,
+      "count": 8,
+      "top_mentioned": [
+        {
+          "user": "clay.powers",
+          "count": 3
+        },
+        {
+          "user": "dylan.barter",
+          "count": 3
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 1
+        },
+        {
+          "user": "jeff.kantarek",
+          "count": 1
+        },
+        {
+          "user": "keith.wiersema",
+          "count": 1
+        },
+        {
+          "user": "ajit.rajadurai",
+          "count": 1
+        },
+        {
+          "user": "caroline.guthrie",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 2.92,
+      "count": 77,
+      "top_channels": [
+        {
+          "channel": "gsd45857-spp-pickup-points-dev",
+          "messages": 35
+        },
+        {
+          "channel": "help-labels",
+          "messages": 35
+        },
+        {
+          "channel": "zach-debardlebon-river",
+          "messages": 21
+        },
+        {
+          "channel": "gsd45857-spp-pickup-points",
+          "messages": 15
+        },
+        {
+          "channel": "shipping-platform-team",
+          "messages": 10
+        },
+        {
+          "channel": "ms-shipping-billing",
+          "messages": 6
+        },
+        {
+          "channel": "gsd45850-migrate-canadapost-to-spp",
+          "messages": 2
+        },
+        {
+          "channel": "shipping-platform-pod-yellow",
+          "messages": 2
+        },
+        {
+          "channel": "inc-20192-some-merchants-are-blocked-from-purchasin",
+          "messages": 2
+        },
+        {
+          "channel": "inc-20773-merchants-unable-to-purchase-shipping-lab",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 92,
+      "top_mentioners": [
+        {
+          "user": "dylan.barter",
+          "count": 26
+        },
+        {
+          "user": "kevin.jalbert",
+          "count": 19
+        },
+        {
+          "user": "richard.shaw",
+          "count": 5
+        },
+        {
+          "user": "danielle.hyde",
+          "count": 5
+        },
+        {
+          "user": "jasmin.decampos",
+          "count": 5
+        },
+        {
+          "user": "keith.wiersema",
+          "count": 5
+        },
+        {
+          "user": "eric.dagenais",
+          "count": 5
+        },
+        {
+          "user": "clay.powers",
+          "count": 4
+        },
+        {
+          "user": "tiffany.k.leung",
+          "count": 2
+        },
+        {
+          "user": "vish.sethi",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 15,
+      "16": 27,
+      "15": 17,
+      "14": 21,
+      "20": 16,
+      "19": 16,
+      "17": 15,
+      "13": 2
+    },
+    "by_day": {
+      "Wednesday": 26,
+      "Tuesday": 36,
+      "Monday": 24,
+      "Thursday": 30,
+      "Friday": 13
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 4.79,
+    "dept_average_30d": 5.77,
+    "dept_rank": 774,
+    "dept_size": 885
+  }
+}

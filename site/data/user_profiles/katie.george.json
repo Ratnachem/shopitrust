@@ -1,0 +1,275 @@
+{
+  "username": "katie.george",
+  "name": "Katie George",
+  "generated_at": "2026-04-08T20:22:21.495366",
+  "summary": {
+    "message_count": 605,
+    "channels_active": 25,
+    "unique_people_mentioned": 103,
+    "unique_mentioners": 62,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 4.5,
+      "pos_count": 5,
+      "neg_count": 6,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Git issues created - feel free to add any notes there Marly or we can assign out next week!",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Also <@U068WR02SFR> if you have your claude set up with your salesforce CLI feel free to test out our new skill we\u2019re looking to launch for",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "<@U0AEPQCKB3M> Hi team,  I have an opp that includes a retail payments and POS pro product, but the PBR is currently showing 0. can anyone help to",
+          "channel": "help-salesforce-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "I noticed you got them to provision their shop and did all the contract stuff correctly! :celebrate-wooo:\n\nYou\u2019ll be the first official CW Agentic",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-11"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I just submitted in Okta - can you let me know if you are still blocked?",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-11"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Can you pls plug <https://skills.quick.shopify.io/?q=troubleshoot&amp;page=2#/troubleshoot-2wc|this skill >into claude or whatever interface you use",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "pls plug <https://skills.quick.shopify.io/?q=troubleshoot&amp;page=2#/troubleshoot-2wc|this skill >into claude or whatever interface you use and it",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "<@U06N7FHBEQ7> whatever version this is I like it better",
+          "channel": "temp-help-salesforce-claude-agent",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> you should have access to <https://github.com/Shopify/salesforce-banff>",
+          "channel": "river-csm-investigations",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Blame",
+          "pattern": "you should have",
+          "text": "<@U0AEPQCKB3M> I told you that you should be checking our git repo <https://github.com/Shopify/salesforce-banff> for our code you should have that in",
+          "channel": "help-salesforce-river",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "We can figure it out",
+          "channel": "help-salesforce",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 107,
+      "top_mentioned": [
+        {
+          "user": "marly.suarez",
+          "count": 8
+        },
+        {
+          "user": "yesha.shah",
+          "count": 7
+        },
+        {
+          "user": "liara.weiler",
+          "count": 7
+        },
+        {
+          "user": "jill.randall",
+          "count": 6
+        },
+        {
+          "user": "molly.mckeehan",
+          "count": 6
+        },
+        {
+          "user": "becky.crichton",
+          "count": 5
+        },
+        {
+          "user": "louise.garrigos",
+          "count": 4
+        },
+        {
+          "user": "andrew.pyne",
+          "count": 4
+        },
+        {
+          "user": "mackenzie.rangel",
+          "count": 4
+        },
+        {
+          "user": "aaron.moody",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 4.92,
+      "count": 130,
+      "top_channels": [
+        {
+          "channel": "help-salesforce",
+          "messages": 368
+        },
+        {
+          "channel": "help-salesforce-river",
+          "messages": 41
+        },
+        {
+          "channel": "river-csm-investigations",
+          "messages": 26
+        },
+        {
+          "channel": "agentic-plan-enterprise-gtm",
+          "messages": 25
+        },
+        {
+          "channel": "test-help-sf-verdant",
+          "messages": 25
+        },
+        {
+          "channel": "temp-helpsf-piagent",
+          "messages": 18
+        },
+        {
+          "channel": "sfdc_pull_requests",
+          "messages": 11
+        },
+        {
+          "channel": "sfdc_pull_requests_river",
+          "messages": 10
+        },
+        {
+          "channel": "health-check-dld",
+          "messages": 9
+        },
+        {
+          "channel": "katie-river",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 112,
+      "top_mentioners": [
+        {
+          "user": "waseem.kaati",
+          "count": 6
+        },
+        {
+          "user": "liara.weiler",
+          "count": 5
+        },
+        {
+          "user": "kristy.shimkus",
+          "count": 5
+        },
+        {
+          "user": "madelyn.aaron",
+          "count": 5
+        },
+        {
+          "user": "marly.suarez",
+          "count": 4
+        },
+        {
+          "user": "shiv.patel",
+          "count": 4
+        },
+        {
+          "user": "molly.mckeehan",
+          "count": 4
+        },
+        {
+          "user": "evan.quinlan",
+          "count": 4
+        },
+        {
+          "user": "becky.crichton",
+          "count": 4
+        },
+        {
+          "user": "jill.randall",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 103,
+      "13": 51,
+      "1": 19,
+      "22": 18,
+      "21": 9,
+      "20": 54,
+      "19": 44,
+      "17": 61,
+      "16": 60,
+      "14": 66,
+      "12": 27,
+      "11": 6,
+      "18": 41,
+      "23": 19,
+      "2": 10,
+      "3": 11,
+      "10": 3,
+      "0": 3
+    },
+    "by_day": {
+      "Wednesday": 105,
+      "Tuesday": 166,
+      "Monday": 77,
+      "Friday": 127,
+      "Thursday": 130
+    }
+  },
+  "department_comparison": {
+    "department": "Sales",
+    "user_score_30d": 6.28,
+    "dept_average_30d": 4.32,
+    "dept_rank": 6,
+    "dept_size": 848
+  }
+}

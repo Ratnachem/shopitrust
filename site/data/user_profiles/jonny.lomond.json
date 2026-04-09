@@ -1,0 +1,297 @@
+{
+  "username": "jonny.lomond",
+  "name": "Jonny Lomond",
+  "generated_at": "2026-04-08T20:22:22.710434",
+  "summary": {
+    "message_count": 663,
+    "channels_active": 16,
+    "unique_people_mentioned": 16,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.0,
+      "pos_count": 14,
+      "neg_count": 4,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "<@U02CSQ24VAA> you probably need sdp-pii, but want me to run it? I was able to run the others",
+          "channel": "inc-21232-missing-data-in-identifierubimapping-tabl",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you! <@U02CSQ24VAA> would you mind writing a query like this, but with an exact timestamp we should roll back to for ads ios, rather than the",
+          "channel": "inc-21232-missing-data-in-identifierubimapping-tabl",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks! Is there a way to query exactly the calls you made to the new endpoint, so we can see more precisely where we are losing the annotation",
+          "channel": "cep-deprecation-task-force",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!\n\n&gt; Nothing happens\nI am wondering if tagging views might be somehow related to some of the spam we see in our project query history. But I",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for fixing this",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Oh thank you, I was tagged in that message but didn't get a notification",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-31"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Sure, I can schedule something?\n\nTBH I wouldn't worry too much about prematurely optimizing or changing it one way or the other, writing this didn't",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yep seems like the PR I have should work, I'm just going to test it in staging before merging. <@U02B2FR7SJY> already fixed the issue in the",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Thank you for helping me debug that!",
+          "channel": "event-refinery-dev-talk",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "I'm not working on anything right now no, feel free to make a fix if you have an idea that would be super helpful",
+          "channel": "identity-graph-data-atc",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "Right now a yaml file, open to change to whatever is easiest though. I made it very configurable for testing but we can make it less configurable if",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "deal with it",
+          "text": "Should I edit event sweeper to accept UNKNOWN_ENUM_VALUE_IdentifierType_17? Otherwise if this value has propagated to any downstream tables which we",
+          "channel": "event-sweeper-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Hostility",
+          "pattern": "useless",
+          "text": "Just realized my approval is useless to you because I'm not an event sweeper code owner",
+          "channel": "event-refinery-team",
+          "timestamp": "2026-03-20"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "> Does this association only happen if we process it for a batch rebuild, then?\nIt can happen either in streaming or batch, but if we don't process",
+          "channel": "server-side-events-rollout",
+          "timestamp": "2026-03-11"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 6.14,
+      "count": 16,
+      "top_mentioned": [
+        {
+          "user": "harrison.lin",
+          "count": 3
+        },
+        {
+          "user": "marc.laforet",
+          "count": 3
+        },
+        {
+          "user": "ali.mir",
+          "count": 3
+        },
+        {
+          "user": "yang.gao",
+          "count": 2
+        },
+        {
+          "user": "tim.steinbach",
+          "count": 2
+        },
+        {
+          "user": "iurie.cangea",
+          "count": 2
+        },
+        {
+          "user": "manasa.seethepalli",
+          "count": 2
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 2
+        },
+        {
+          "user": "connor.clark",
+          "count": 1
+        },
+        {
+          "user": "a.wong",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 6.02,
+      "count": 186,
+      "top_channels": [
+        {
+          "channel": "identity-graph-data-atc",
+          "messages": 250
+        },
+        {
+          "channel": "event-sweeper-dev",
+          "messages": 151
+        },
+        {
+          "channel": "event-refinery-team",
+          "messages": 113
+        },
+        {
+          "channel": "event-refinery-dev-talk",
+          "messages": 37
+        },
+        {
+          "channel": "event-sweeper-notify",
+          "messages": 26
+        },
+        {
+          "channel": "inc-21232-missing-data-in-identifierubimapping-tabl",
+          "messages": 22
+        },
+        {
+          "channel": "server-side-events-rollout",
+          "messages": 20
+        },
+        {
+          "channel": "cep-deprecation-task-force",
+          "messages": 19
+        },
+        {
+          "channel": "proj-customer-events-refinery",
+          "messages": 10
+        },
+        {
+          "channel": "tmp-personalization-rate-not-going-up",
+          "messages": 3
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 6.56,
+      "count": 39,
+      "top_mentioners": [
+        {
+          "user": "iurie.cangea",
+          "count": 12
+        },
+        {
+          "user": "harrison.lin",
+          "count": 7
+        },
+        {
+          "user": "ryan.self",
+          "count": 3
+        },
+        {
+          "user": "susmitha.anandarao",
+          "count": 3
+        },
+        {
+          "user": "marc.laforet",
+          "count": 3
+        },
+        {
+          "user": "sarah.pyo",
+          "count": 2
+        },
+        {
+          "user": "ali.mir",
+          "count": 2
+        },
+        {
+          "user": "francois.saintjacques",
+          "count": 2
+        },
+        {
+          "user": "connor.clark",
+          "count": 1
+        },
+        {
+          "user": "andrew.droll",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "15": 77,
+      "14": 53,
+      "22": 33,
+      "21": 21,
+      "20": 57,
+      "19": 28,
+      "18": 66,
+      "17": 24,
+      "16": 75,
+      "13": 120,
+      "23": 8,
+      "11": 14,
+      "12": 68,
+      "1": 7,
+      "0": 3,
+      "10": 1,
+      "2": 3,
+      "8": 4,
+      "9": 1
+    },
+    "by_day": {
+      "Wednesday": 185,
+      "Tuesday": 133,
+      "Monday": 55,
+      "Friday": 117,
+      "Thursday": 173
+    }
+  },
+  "department_comparison": {
+    "department": "Merchant Services",
+    "user_score_30d": 5.71,
+    "dept_average_30d": 5.77,
+    "dept_rank": 444,
+    "dept_size": 885
+  }
+}

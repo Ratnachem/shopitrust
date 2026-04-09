@@ -1,0 +1,276 @@
+{
+  "username": "david.cameron",
+  "name": "David Cameron",
+  "generated_at": "2026-04-08T20:22:11.804322",
+  "summary": {
+    "message_count": 949,
+    "channels_active": 55,
+    "unique_people_mentioned": 60,
+    "unique_mentioners": 68,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.8,
+      "pos_count": 8,
+      "neg_count": 3,
+      "positive_markers": [
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@W0197HU5Z3J> let me know if you need to weigh in on this",
+          "channel": "proj-shopifyvm-onbox",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "grateful",
+          "text": "If you can own this for me <@U02UJ4NDMRR> I would be grateful. It's been months since we bumped.",
+          "channel": "admin-polaris",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I'm not on my computer just got a DM from a partner so I can't check myself. I\u2019ve asked him to monitor and let me know if it increases",
+          "channel": "livesite-deploys-atc",
+          "timestamp": "2026-04-01"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yes thank you",
+          "channel": "proj-devtools-ui-extensions-docs",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I booked a meeting (on my phone so added Elana, Mitch, Fio) let me know if you want added",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Giving Credit",
+          "pattern": "props to",
+          "text": "There are two things here\n1. How do we organize the code\n2. What is the API we expose externally\nI care less about 1, as so much as I want the props",
+          "channel": "proj-polaris-quick-edit-admin",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "happy to help",
+          "text": "Happy to help, the nice thing about Proposals in Vault is they are collaborative artifacts.",
+          "channel": "proj-polaris-rulesets",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "Just want to acknowledge it's MAR10 day today for all that celebrate",
+          "channel": "\u03c0",
+          "timestamp": "2026-03-10"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "I mean you can put whatever you want in a metafield and attribute which in my mind is exactly what level 1 is for",
+          "channel": "proj-functions-tracify-logs",
+          "timestamp": "2026-03-30"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "whatever",
+          "text": "The important part here is agentic feedback loops. Whatever we choose here should be auto fixable ",
+          "channel": "proj-app-hosted-frontend",
+          "timestamp": "2026-03-26"
+        },
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "<@U0AEPQCKB3M> hows it going? figure it out yet?",
+          "channel": "dc-river",
+          "timestamp": "2026-03-12"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 10.0,
+      "count": 62,
+      "top_mentioned": [
+        {
+          "user": "maxence.parenteau",
+          "count": 13
+        },
+        {
+          "user": "anthony.frehner",
+          "count": 12
+        },
+        {
+          "user": "david.cortes",
+          "count": 10
+        },
+        {
+          "user": "thomas.jonkajtys",
+          "count": 9
+        },
+        {
+          "user": "jeff.charles",
+          "count": 8
+        },
+        {
+          "user": "adam.argyle",
+          "count": 8
+        },
+        {
+          "user": "adam.petro",
+          "count": 7
+        },
+        {
+          "user": "kyle.brumm",
+          "count": 6
+        },
+        {
+          "user": "phiroze.noble",
+          "count": 5
+        },
+        {
+          "user": "chris.pavetto",
+          "count": 4
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 10.0,
+      "count": 604,
+      "top_channels": [
+        {
+          "channel": "dc-river",
+          "messages": 197
+        },
+        {
+          "channel": "polaris-river",
+          "messages": 159
+        },
+        {
+          "channel": "proj-app-hosted-frontend",
+          "messages": 92
+        },
+        {
+          "channel": "proj-sidekick-appgen",
+          "messages": 58
+        },
+        {
+          "channel": "admin-polaris",
+          "messages": 55
+        },
+        {
+          "channel": "proj-polaris-quick-edit-admin",
+          "messages": 46
+        },
+        {
+          "channel": "proj-devtools-ui-extensions-docs",
+          "messages": 33
+        },
+        {
+          "channel": "proj-functions-tracify-logs",
+          "messages": 27
+        },
+        {
+          "channel": "inv-21223-wasmtime-critical-security-vulnerability-",
+          "messages": 26
+        },
+        {
+          "channel": "proj-polaris-pickers",
+          "messages": 21
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 10.0,
+      "count": 178,
+      "top_mentioners": [
+        {
+          "user": "matt.koenig",
+          "count": 15
+        },
+        {
+          "user": "achit.ojha",
+          "count": 11
+        },
+        {
+          "user": "richard.penner",
+          "count": 8
+        },
+        {
+          "user": "james.lunan",
+          "count": 6
+        },
+        {
+          "user": "jonathan.berry",
+          "count": 5
+        },
+        {
+          "user": "david.cortes",
+          "count": 5
+        },
+        {
+          "user": "elana.kopelevich",
+          "count": 5
+        },
+        {
+          "user": "alex.page",
+          "count": 5
+        },
+        {
+          "user": "melissa.luu",
+          "count": 5
+        },
+        {
+          "user": "jason.addleman",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 41,
+      "16": 79,
+      "14": 73,
+      "10": 3,
+      "23": 33,
+      "22": 50,
+      "21": 52,
+      "20": 66,
+      "19": 85,
+      "17": 64,
+      "15": 110,
+      "13": 78,
+      "12": 64,
+      "11": 23,
+      "2": 41,
+      "1": 48,
+      "0": 21,
+      "3": 17,
+      "4": 1
+    },
+    "by_day": {
+      "Wednesday": 196,
+      "Tuesday": 280,
+      "Monday": 175,
+      "Friday": 54,
+      "Thursday": 244
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 8.99,
+    "dept_average_30d": 5.79,
+    "dept_rank": 32,
+    "dept_size": 1233
+  }
+}

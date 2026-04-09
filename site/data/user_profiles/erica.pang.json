@@ -1,0 +1,95 @@
+{
+  "username": "erica.pang",
+  "name": "Erica Pang",
+  "generated_at": "2026-04-08T20:22:28.919801",
+  "summary": {
+    "message_count": 3,
+    "channels_active": 2,
+    "unique_people_mentioned": 1,
+    "unique_mentioners": 4,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.1,
+      "pos_count": 1,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Hi - My <https://github.com/Shopify/data-notebooks/pull/2181|PR> has been stuck in the merge queue since yesterday. Can someone take a look? Thanks!",
+          "channel": "help-data-notebooks",
+          "timestamp": "2026-03-31"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 0.45,
+      "count": 1,
+      "top_mentioned": [
+        {
+          "user": "teddy.schreck",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 1.4,
+      "count": 37,
+      "top_channels": [
+        {
+          "channel": "help-data-notebooks",
+          "messages": 2
+        },
+        {
+          "channel": "proj-fpa-foundations",
+          "messages": 1
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 1.04,
+      "count": 5,
+      "top_mentioners": [
+        {
+          "user": "ravintushar.lathigra",
+          "count": 2
+        },
+        {
+          "user": "nomar.abdullah",
+          "count": 1
+        },
+        {
+          "user": "ben.schmidt",
+          "count": 1
+        },
+        {
+          "user": "youxin.li",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "23": 1,
+      "12": 1,
+      "13": 1
+    },
+    "by_day": {
+      "Monday": 1,
+      "Friday": 1,
+      "Tuesday": 1
+    }
+  },
+  "department_comparison": {
+    "department": "Finance",
+    "user_score_30d": 4.29,
+    "dept_average_30d": 4.35,
+    "dept_rank": 71,
+    "dept_size": 151
+  }
+}

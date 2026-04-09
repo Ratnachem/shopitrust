@@ -1,0 +1,248 @@
+{
+  "username": "joey.sacchini",
+  "name": "Joey Sacchini",
+  "generated_at": "2026-04-08T20:22:09.366445",
+  "summary": {
+    "message_count": 231,
+    "channels_active": 14,
+    "unique_people_mentioned": 11,
+    "unique_mentioners": 13,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 5.7,
+      "pos_count": 7,
+      "neg_count": 1,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "thank you",
+          "channel": "world-monorepo",
+          "timestamp": "2026-04-08"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "I don't think we pull anything from BigQuery as part of `dev gen catalog` as far as I know, so there should be no cache / discoverability issue here.",
+          "channel": "help-query-engine",
+          "timestamp": "2026-04-06"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "want me to",
+          "text": "Checking in, ready to ship a deployment to prod. <@U06785SDU0J>, I think it's just you and me today. Want me to wait for anything to land in `main`?",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "New page! <https://vault.shopify.io/docs/craft/2200-Engineering/development_handbook/keytech/reference/query_engine/client-best-practices>\n\nLet me",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-27"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "my bad",
+          "text": "my bad",
+          "channel": "query-engine-dev",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thank you",
+          "text": "Yep, thank you for looking into it!",
+          "channel": "help-observability",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "amazing",
+          "text": "With the sub-agent approach you mention <@W018PTJUH7W> I have tried this, and it works amazing for research / explore / plan, but I have seen issues",
+          "channel": "ai-centaurs",
+          "timestamp": "2026-03-25"
+        }
+      ],
+      "negative_markers": [
+        {
+          "category": "Dismissive",
+          "pattern": "figure it out",
+          "text": "Currently using Python + Observe MCP to try to get it to analyze some trends and figure out if there's a correlation between latency and deployments.",
+          "channel": "help-observability",
+          "timestamp": "2026-03-25"
+        }
+      ]
+    },
+    "outbound_mentions": {
+      "score": 5.23,
+      "count": 12,
+      "top_mentioned": [
+        {
+          "user": "vivek.wassan",
+          "count": 4
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 4
+        },
+        {
+          "user": "patrick.gilbert",
+          "count": 3
+        },
+        {
+          "user": "ryan.crumley",
+          "count": 2
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 1
+        },
+        {
+          "user": "vanessa.vuibert",
+          "count": 1
+        },
+        {
+          "user": "patrick.donovan",
+          "count": 1
+        },
+        {
+          "user": "kevin.lam",
+          "count": 1
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 1
+        },
+        {
+          "user": "adam.phillips-silver",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 5.61,
+      "count": 164,
+      "top_channels": [
+        {
+          "channel": "query-engine-dev",
+          "messages": 115
+        },
+        {
+          "channel": "help-query-engine",
+          "messages": 53
+        },
+        {
+          "channel": "proj-semantic-query-engine-ops",
+          "messages": 26
+        },
+        {
+          "channel": "proj-reportify-on-flink-foundations",
+          "messages": 7
+        },
+        {
+          "channel": "ai-centaurs",
+          "messages": 7
+        },
+        {
+          "channel": "inc-20271-broken-query-engine-connection-causing-st",
+          "messages": 6
+        },
+        {
+          "channel": "help-observability",
+          "messages": 4
+        },
+        {
+          "channel": "world-monorepo",
+          "messages": 3
+        },
+        {
+          "channel": "claude-code",
+          "messages": 3
+        },
+        {
+          "channel": "proj-infra-flink-after-notify",
+          "messages": 2
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 4.38,
+      "count": 21,
+      "top_mentioners": [
+        {
+          "user": "ryan.crumley",
+          "count": 3
+        },
+        {
+          "user": "vivek.wassan",
+          "count": 3
+        },
+        {
+          "user": "ryan.musgrave",
+          "count": 2
+        },
+        {
+          "user": "seif.ghazi",
+          "count": 2
+        },
+        {
+          "user": "sebastian.alvarado",
+          "count": 2
+        },
+        {
+          "user": "anshul.goyal",
+          "count": 2
+        },
+        {
+          "user": "justin.chen",
+          "count": 1
+        },
+        {
+          "user": "andrewcampbell.j-1963",
+          "count": 1
+        },
+        {
+          "user": "patrick.gilbert",
+          "count": 1
+        },
+        {
+          "user": "mike.nugent",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "18": 42,
+      "17": 14,
+      "16": 35,
+      "15": 48,
+      "14": 22,
+      "12": 2,
+      "21": 7,
+      "20": 32,
+      "19": 21,
+      "22": 3,
+      "3": 1,
+      "23": 4
+    },
+    "by_day": {
+      "Wednesday": 110,
+      "Tuesday": 47,
+      "Monday": 43,
+      "Friday": 16,
+      "Thursday": 15
+    }
+  },
+  "department_comparison": {
+    "department": "Infrastructure",
+    "user_score_30d": 5.51,
+    "dept_average_30d": 5.75,
+    "dept_rank": 201,
+    "dept_size": 357
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "username": "ryan.kazokas",
+  "name": "Ryan Kazokas",
+  "generated_at": "2026-04-08T20:22:20.303284",
+  "summary": {
+    "message_count": 452,
+    "channels_active": 19,
+    "unique_people_mentioned": 12,
+    "unique_mentioners": 15,
+    "days_in_window": 23,
+    "days_scale": 1.0
+  },
+  "categories": {
+    "sentiment": {
+      "score": 6.1,
+      "pos_count": 11,
+      "neg_count": 0,
+      "positive_markers": [
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-enable-sku-sharing-for-all-fs",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "shared-shopify-graphite",
+          "timestamp": "2026-04-07"
+        },
+        {
+          "category": "Celebrating",
+          "pattern": "celebrate",
+          "text": "we have flipped all sku sharing services to permits sku sharing = true and it looks like the sku sharing mismatches pretty much stopped. At least we",
+          "channel": "proj-inventory-categorize-and-prevent-committed-quantity-drift",
+          "timestamp": "2026-04-03"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "thanks!",
+          "channel": "proj-enable-sku-sharing-for-all-fs",
+          "timestamp": "2026-04-02"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "<@U0AEPQCKB3M> can you rebase this PR?\n<https://app.graphite.com/github/pr/shop/world/486881>\nlet me know if there is merge conflicts.",
+          "channel": "rkazokas-river",
+          "timestamp": "2026-03-25"
+        },
+        {
+          "category": "Thanking",
+          "pattern": "thanks!",
+          "text": "Thanks!",
+          "channel": "proj-enable-sku-sharing-for-all-fs",
+          "timestamp": "2026-03-24"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "Hi! We had an <https://shopify.slack.com/archives/C0ALTPPM725/p1773928116722819|incident> last week that degraded the core database on some shards",
+          "channel": "resiliency-sre-team",
+          "timestamp": "2026-03-19"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "let me know if",
+          "text": "My last PR just got deployed. I'm going to start rerunning this task in the morning so i can be around to watch these. I'll be starting with the",
+          "channel": "proj-enable-sku-sharing-for-all-fs",
+          "timestamp": "2026-03-18"
+        },
+        {
+          "category": "Offering Help",
+          "pattern": "feel free to",
+          "text": "<https://github.com/shop/issues-inventory/issues/7562>\nFeel free to move or update",
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "timestamp": "2026-03-16"
+        },
+        {
+          "category": "Acknowledging",
+          "pattern": "sorry about",
+          "text": ":facepalm: yes that's it. Sorry didn't realize that stayed across shops. Sorry about that!",
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "timestamp": "2026-03-16"
+        }
+      ],
+      "negative_markers": []
+    },
+    "outbound_mentions": {
+      "score": 5.68,
+      "count": 14,
+      "top_mentioned": [
+        {
+          "user": "alex.carruthers",
+          "count": 8
+        },
+        {
+          "user": "rj.davis",
+          "count": 7
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 2
+        },
+        {
+          "user": "shane.dharan",
+          "count": 2
+        },
+        {
+          "user": "fekadeab.dejene",
+          "count": 2
+        },
+        {
+          "user": "josh.broughton",
+          "count": 1
+        },
+        {
+          "user": "mike.averto",
+          "count": 1
+        },
+        {
+          "user": "adrian.gudas",
+          "count": 1
+        },
+        {
+          "user": "steven.slade",
+          "count": 1
+        },
+        {
+          "user": "marcus.turner",
+          "count": 1
+        }
+      ]
+    },
+    "channel_connections": {
+      "score": 8.41,
+      "count": 312,
+      "top_channels": [
+        {
+          "channel": "proj-enable-sku-sharing-for-all-fs",
+          "messages": 149
+        },
+        {
+          "channel": "rkazokas-river",
+          "messages": 124
+        },
+        {
+          "channel": "inv-20080-db-writer-cpu-saturation--95-for-25-min",
+          "messages": 43
+        },
+        {
+          "channel": "proj-inventory-categorize-and-prevent-committed-quantity-drift",
+          "messages": 29
+        },
+        {
+          "channel": "inventory-mavericks-river",
+          "messages": 18
+        },
+        {
+          "channel": "proj-quick-transfers-pdp-vpd",
+          "messages": 15
+        },
+        {
+          "channel": "inv-21068-high-storecreate-mutation-latency",
+          "messages": 13
+        },
+        {
+          "channel": "resiliency-sre-team",
+          "messages": 11
+        },
+        {
+          "channel": "proj-ship-to-store-in-core",
+          "messages": 10
+        },
+        {
+          "channel": "job-platform",
+          "messages": 9
+        }
+      ]
+    },
+    "inbound_mentions": {
+      "score": 7.19,
+      "count": 45,
+      "top_mentioners": [
+        {
+          "user": "rj.davis",
+          "count": 21
+        },
+        {
+          "user": "alex.carruthers",
+          "count": 3
+        },
+        {
+          "user": "robert.hatfield",
+          "count": 3
+        },
+        {
+          "user": "shane.dharan",
+          "count": 3
+        },
+        {
+          "user": "justin.bicknell",
+          "count": 2
+        },
+        {
+          "user": "vandhana.mohanraj",
+          "count": 2
+        },
+        {
+          "user": "mikolaj.liberski",
+          "count": 2
+        },
+        {
+          "user": "fekadeab.dejene",
+          "count": 2
+        },
+        {
+          "user": "josh.broughton",
+          "count": 1
+        },
+        {
+          "user": "kyle.petroski",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "activity_patterns": {
+    "by_hour": {
+      "16": 64,
+      "12": 15,
+      "13": 61,
+      "23": 6,
+      "18": 38,
+      "17": 53,
+      "14": 63,
+      "21": 30,
+      "20": 48,
+      "19": 22,
+      "11": 5,
+      "15": 37,
+      "10": 1,
+      "22": 4,
+      "0": 3,
+      "1": 2
+    },
+    "by_day": {
+      "Wednesday": 68,
+      "Tuesday": 113,
+      "Monday": 86,
+      "Friday": 90,
+      "Thursday": 95
+    }
+  },
+  "department_comparison": {
+    "department": "Core",
+    "user_score_30d": 5.99,
+    "dept_average_30d": 5.79,
+    "dept_rank": 435,
+    "dept_size": 1233
+  }
+}
